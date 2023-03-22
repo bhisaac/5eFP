@@ -1,6 +1,10 @@
 # 5eFP | Fifth Edition Focus Practice
 5eFP is an open-source project uniting immersive, interactive tabletop roleplaying (TRPG) gameplay with self-reflection using the popular d20 fifth edition rules. Discover a new way to play TRPGs featuring easier, more intuitive rules, shorter game sessions, no GM preparation required, and larger capacities—allowing 8 to 50+ players.
 
+_This content is playtest material._
+
+_The content and game mecanics detailed within 5eFP is presented as a playtest for feedback and development purposes. These game mechanics are in draft form, usable in any d20 fifth edition campaign but not refined by final game development. These game mechanics are subject to changes as needed according to feeback provided from 5eFP contributors, Game Masters (GMs), and Player Characters (PCs). The most recent edition of the 5eFP rules can be found at [https://github.com/bhisaac/5eFP/blob/main/playtest.md](https://github.com/bhisaac/5eFP/blob/main/playtest.md)_
+
 ---
 
 This work includes material taken from the System Reference Document 5.1 (“SRD 5.1”) by Wizards of
