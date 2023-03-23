@@ -1,4 +1,4 @@
-# 5eFP: Fifth Edition Focus Practice
+# 5eFP SRD \[playtest]
 
 Welcome to the fifth edition focus practice (5eFP), a new tabletop roleplaying game (TRPG) experience combining fun and immersive gameplay with deepening levels of self-exploration.
 
