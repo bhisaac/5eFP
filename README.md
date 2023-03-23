@@ -35,4 +35,4 @@ SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International Lic
 
 ### The Difference Between SRD 5.1 (CC BY 4.0) and 5eFP (CC BY-ND 4.0)
 
-The System Reference Document 5.1 uses the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) license, while 5eFP uses the [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/legalcode) license. Derivatives or changes to the content in the SRD 5.1 document are permitted; however, they are not permitted within the 5eFP document. Content creators may use, publish, and distribute 5eFP within original settings, characters, and content.
+The System Reference Document 5.1 uses the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) license, while 5eFP uses the [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/legalcode) license. Derivatives or changes to the content in the SRD 5.1 document are permitted; however, they are not permitted within the 5eFP document. Content creators may use, publish, and distribute 5eFP within their original settings, characters, and content.
