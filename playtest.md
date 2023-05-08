@@ -41,7 +41,7 @@ You might also have ties to a specific temple dedicated to your chosen deity or 
 ### Suggested Characteristics
 Acolytes are shaped by their experience in temples or other religious communities. Their study of the history and tenets of their faith and their relationships to temples, shrines, or hierarchies affect their mannerisms and ideals. Their flaws might be some hidden hypocrisy or heretical idea, or an ideal or bond taken to an extreme.
 
-6[side 1](https://user-images.githubusercontent.com/1158913/236939381-69ab29e8-8fb4-462c-9f47-a3bb1646a359.png) Personality Trait
+6![](https://user-images.githubusercontent.com/1158913/236939381-69ab29e8-8fb4-462c-9f47-a3bb1646a359.png) Personality Trait
 
 
 ---
