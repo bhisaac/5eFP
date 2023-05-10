@@ -24,6 +24,7 @@ By virtue of your species, your character can speak, read, and write certain lan
 Some species have subspecies. Members of a subspecies have the traits of the parent species in addition to the traits specified for their subspecies. Relationships among subspecies vary significantly from species to species and world to world.
 
 ## Dwarf
+### Dwarf Traits
 Your dwarf character has an assortment of inborn abilities, part and parcel of dwarven nature.
 
 **Ability Score Increase.** Your Constitution score increases by +1.
@@ -62,6 +63,33 @@ As a highlander dwarf, you are accustomed to rugged living at high altitudes and
 
 **Bonus Feat.** You gain the *Heavily Armored* feat, ignoring any prerequisites.
 
+## Elf
+### Elf Traits
+Your elf character has a variety of natural abilities, result of thousands of years of elven refinement.
+
+**Ability Score Increase.** Your Dexterity score increases by +1.
+
+**Age.** Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old.
+
+**Alignment.** Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others’ freedom as well as their own, and they are more often good than not.
+
+**Size.** Elves range from under 5 to over 6 feet tall and have slender builds. Your size is Medium.
+
+**Speed.** Your base walking speed is 6 squares.
+
+**Darkvision.** Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 12 squares of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+
+**Keen Senses.** You have proficiency in the Perception skill.
+
+**Fey Ancestry.** You have advantage on saving throws against being charmed, and magic can’t put you to sleep.
+
+**Trance.** Elves don’t need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is “trance.”) While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
+
+### High Elf
+Blah.
+
+### Eladrin
+Blah.
 
 ---
 # Backgrounds
