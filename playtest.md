@@ -49,14 +49,14 @@ Your dwarf character has an assortment of inborn abilities, part and parcel of d
 
 **Languages.** You can speak, read, and write Common and Dwarvish. Dwarvish is full of hard consonants and guttural sounds, and those characteristics spill over into whatever other language a dwarf might speak.
 
-## Hill Dwarf
+### Hill Dwarf
 As a hill dwarf, you have keen senses, deep intuition, and remarkable resilience.
 
 **Ability Score Increase.** If you assign a +1 or +2 to your Wisdom score during character creation, increase your Wisdom score by an additional +1.
 
 **Dwarven Toughness**. You max wounds increases by +1.
 
-## Highlander Dwarf
+### Highlander Dwarf
 As a highlander dwarf, you are accustomed to rugged living at high altitudes and within mountain-dwellings.
 
 **Ability Score Increase.** If you assign a +1 or +2 to your Strength score during character creation, increase your Strength score by an additional +1.
