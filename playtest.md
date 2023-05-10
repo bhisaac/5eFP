@@ -1,7 +1,36 @@
+# Species
+## Species Traits
+The description of each species includes species traits that are common to members of that species. The following entries appear among the traits of most species.
+
+### Ability Score Increase
+Every species increases one or more of a character’s ability scores.
+
+### Age
+The age entry notes the age when a member of the species is considered an adult, as well as the species’ expected lifespan. This information can help you decide how old your character is at the start of the game. You can choose any age for your character, which could provide an explanation for some of your ability scores. For example, if you play a young or very old character, your age could explain a particularly low Strength or Constitution score, while advanced age could account for a high Intelligence or Wisdom.
+
+### Alignment
+Most species have tendencies toward certain alignments, described in this entry. These are not binding for player characters, but considering why your dwarf is chaotic, for example, in defiance of lawful dwarf society can help you better define your character.
+
+### Size
+Characters of most species are Medium, a size category including creatures that are roughly 4 to 8 feet tall. Members of a few species are Small (between 2 and 4 feet tall), which means that certain rules of the game affect them differently. The most important of these rules is that Small characters have trouble wielding heavy weapons, as explained in “Equipment.”
+
+### Speed
+Your speed determines how far you can move when traveling (“Adventuring”) and fighting (“Combat”). Your speed represents the maximum number of squares you can move during your turn.
+
+### Languages
+By virtue of your species, your character can speak, read, and write certain languages.
+
+### Subspecies
+Some species have subspecies. Members of a subspecies have the traits of the parent species in addition to the traits specified for their subspecies. Relationships among subspecies vary significantly from species to species and world to world.
+
+## Dwarf
+Blah.
+
+
 # Backgrounds
 Every story has a beginning. Your character’s background reveals where you came from, how you became an adventurer, and your place in the world. Your dwarf warrior might have been a courageous knight or a grizzled soldier. Your halfling mage could have been a sage or an artisan. Your elf scoundrel might have gotten by as a guild thief or commanded audiences as a jester.
 
-Choosing a background provides you with traits and important story cues about your character’s identity. Backgrounds describe all events leading up to joining HQ. Your starting gear represents the implements and reagents typical of your chosen background. HQ experts taught you the skills of your class.
+Choosing a background provides you with traits and important story cues about your character’s identity. Backgrounds describe all events leading up to joining a life of adventure. Your starting gear represents the implements and reagents typical of your chosen background. HQ experts taught you the skills of your class.
 
 
 The most important question to ask about your background is what changed? Why did you stop doing whatever your background describes and start adventuring? Where did you get the money to purchase your starting gear, or, if you come from a wealthy background, why don’t you have more money? How did you learn the skills of your class? What sets you apart from ordinary people who share your background?
