@@ -24,9 +24,46 @@ By virtue of your species, your character can speak, read, and write certain lan
 Some species have subspecies. Members of a subspecies have the traits of the parent species in addition to the traits specified for their subspecies. Relationships among subspecies vary significantly from species to species and world to world.
 
 ## Dwarf
-Blah.
+Your dwarf character has an assortment of inborn abilities, part and parcel of dwarven nature.
+
+**Ability Score Increase.** Your Constitution score increases by +1.
+
+**Age.** Dwarves mature at the same rate as humans, but they’re considered young until they reach the age of 50. On average, they live about 350 years.
+
+**Alignment.** Most dwarves are lawful, believing firmly in the benefits of a well-­‐‑ordered society. They tend toward good as well, with a strong sense of fair play and a belief that everyone deserves to share in the benefits of a just order.
+
+**Size.** Dwarves stand between 4 and 5 feet tall and average about 150 pounds. Your size is Medium.
+
+**Speed.** Your base walking speed is 25 feet. Your speed is not reduced by wearing heavy armor.
+
+**Darkvision.** Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+
+**Dwarven Resilience.** You have advantage on saving throws against poison, and you have resistance against poison damage.
+
+**Dwarven Combat Training.** You have proficiency with the battleaxe, handaxe, light hammer, and warhammer.
+
+**Tool Proficiency.** You gain proficiency with the artisan’s tools of your choice: smith’s tools, brewer’s supplies, or mason’s tools.
+
+**Stonecunning.** Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.
+
+**Languages.** You can speak, read, and write Common and Dwarvish. Dwarvish is full of hard consonants and guttural sounds, and those characteristics spill over into whatever other language a dwarf might speak.
+
+## Hill Dwarf
+As a hill dwarf, you have keen senses, deep intuition, and remarkable resilience.
+
+**Ability Score Increase.** If you assign a +1 or +2 to your Wisdom score during character creation, increase your Wisdom score by an additional +1.
+
+**Dwarven Toughness**. You max wounds increases by +1.
+
+## Highlander Dwarf
+As a highlander dwarf, you are accustomed to rugged living at high altitudes and within mountain-dwellings.
+
+**Ability Score Increase.** If you assign a +1 or +2 to your Strength score during character creation, increase your Strength score by an additional +1.
+
+**Bonus Feat.** You gain the *Heavily Armored* feat, ignoring any prerequisites.
 
 
+---
 # Backgrounds
 Every story has a beginning. Your character’s background reveals where you came from, how you became an adventurer, and your place in the world. Your dwarf warrior might have been a courageous knight or a grizzled soldier. Your halfling mage could have been a sage or an artisan. Your elf scoundrel might have gotten by as a guild thief or commanded audiences as a jester.
 
