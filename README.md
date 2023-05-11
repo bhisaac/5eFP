@@ -1,7 +1,7 @@
 # 5eFP | About
 [5eFP SRD 0.1](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD-V0.1.md)
 
-5eFP (fifth edition focus practice) is an open-source project uniting immersive, interactive tabletop roleplaying (TRPG) gameplay with self-reflection using the popular d20 fifth edition rules. Discover a new way to play TRPGs featuring easier, more intuitive rules, shorter game sessions, no GM preparation required, and larger playerbases (8 to 50+ players).
+5eFP (fifth edition focus practice) is an open-source project uniting immersive, interactive tabletop roleplaying (TRPG) gameplay with self-reflection using the popular d20 fifth edition rules. Discover a new way to play TRPGs featuring easier, more intuitive rules, shorter game sessions, no GM preparation required, and larger playerbases (8 to 50+ players). The entire playerbase does not meet and play all at once. Rather, players asynchronously form parties of 3 to 5 and collectively go on adventures in order to complete 5eFP game objectives. For example, all 5eFP games have the same initial objective: explore and discover the world map. A 5eFP playerbase assembles into several adventuring parties over time to fulfill this objective.
 
 ---
 
