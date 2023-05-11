@@ -11,9 +11,9 @@ _The content and game mechanics detailed within the 5eFP SRD are presented as a 
 
 ### This playtest needs your support.
 
-Join our growing 5eFP community and start contributing. 5eFP needs ***patrons***, developers, Game Masters (GMs), and Player Characters (PCs).
+Join our growing 5eFP community and start contributing. 5eFP needs ***sponsors***, developers, Game Masters (GMs), and Player Characters (PCs).
 
-- **Patrons** contribute weekly, monthly, or yearly financial support for the ongoing development and release of 5eFP content \[[more ...](https://liberapay.com/5eFP/)].
+- **Sponsors** contribute weekly, monthly, or yearly financial support for the ongoing development and release of 5eFP content.
 - **Developers** are interested in helping craft 5eFP game mechanics. They also assist by helping resolve rules conflicts with SRD 5.1.
 - **Editors** wish to proofread 5eFP content and suggest revisions for clarity and ease of reading. 
 - **Game Masters (GMs)** are interested in providing GM feedback regarding 5eFP game mechanics, pre-generated characters, and any sample setting materials. GMs are also interested in running 5eFP games.
