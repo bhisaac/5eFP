@@ -36,6 +36,7 @@ This project needs PCs with any of the following skills:
 | Evidence of a goblin controller/boss: letters found at study desk; instructed to spread chaos on the highway |
 | False wall in the north operated by switch in hidden study leads to additional rooms |
 
+
 ---
 
 This work includes material taken from the System Reference Document 5.1 ("SRD 5.1") by Wizards of
