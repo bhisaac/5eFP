@@ -99,7 +99,7 @@ As a high elf, you have a keen mind and a mastery of at least the basics of magi
 ### Eladrin
 Creatures with strong ties to nature and magic, eladrin live in the twilight lands of the Feywild. Their cities sometimes cross over to the Material Plane, appearing briefly in mountain valleys or deep within a forest before fading back into the Feywild.
 
-Eladrin have the same range of complextions as high selves, though their hair is often white, silver, or pale gold, and they wear it long and loose. Their eyes are pearly and opalescent orbs of vibrant blue, violet, or green, lacking pupils.
+Eladrin have the same range of complextions as high elves, though their hair is often white, silver, or pale gold, and they wear it long and loose. Their eyes are pearly and opalescent orbs of vibrant blue, violet, or green, lacking pupils.
 
 **Ability Score Increase.** If you assign a +1 or +2 to your Intelligence score during character creation, increase your Intelligence score by an additional +1.
 
