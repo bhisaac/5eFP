@@ -61,7 +61,7 @@ As a highlander dwarf, you are accustomed to rugged living at high altitudes and
 
 **Ability Score Increase.** If you assign a +1 or +2 to your Strength score during character creation, increase your Strength score by an additional +1.
 
-**Bonus Feat.** You gain the *Heavily Armored* feat, ignoring any prerequisites.
+**Bonus Feat.** You gain the *Moderately Armored* feat, ignoring any prerequisites.
 
 ## Elf
 ### Elf Traits
