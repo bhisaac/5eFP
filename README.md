@@ -33,7 +33,7 @@ This project needs PCs with any of the following skills:
 | Eladrin caravan captives and goods: freed captives, returned goods (+1 eladrin enclave) |
 | Treasure: healing potion |
 | Hidden, furnished study with floor switch behind locked mechanism/door |
-| Evidence of a goblin controller/boss |
+| Evidence of a goblin controller/boss: letters found at study desk; instructed to spread chaos on the highway |
 | False wall in the north operated by switch in hidden study leads to additional rooms |
 
 ---
