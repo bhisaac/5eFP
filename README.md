@@ -24,7 +24,7 @@ This project needs PCs with any of the following skills:
 - **Rules lawyer.** 5eFP needs to work for everybody who picks it up and decides to give it a try. Therefore, the rules must make sense and must apply to all circumstances described in the 5eFP core rules and setting handbook.
 - **Notetaking/short-hand skills.** One PC per party needs to be comfortable taking on the 5eFP session's notetaker role. New game elements or developments can arise randomly during gameplay. A basic and general record, including any plot developments or revelations discovered during gameplay, must be kept. Notes do not need to be elaborate. For example, an Enchanted Forest map tile might have something like the following notes:
 
-Tier 1: North East Highway: Bandit Cave (Barrow) to the northeast, cave system extending beneath the surface, goblins, elite goblin mage (civilized), elite goblin scoundrel (out of place weapon: crossbow), freed eladrin captives and goods (+1 eladrin enclave), treasure (healing potion), lit dungeon, private furnished study behind locked door, evidence of a boss behind the goblins, false wall in the north operated by switch in private study, leads to further rooms within the complex.
+Tier 1: North East Highway: Bandit Cave (Barrow) to the northeast, cave system extending beneath the surface, goblins, elite goblin mage (civilized), elite goblin scoundrel (out of place weapon: crossbow), freed eladrin captives and goods (+1 eladrin enclave), treasure (healing potion), lit dungeon, private furnished study behind locked door, evidence of a boss behind the goblins, false wall in the north operated by switch in private study leads to further rooms within the complex.
 - **Group leaders.** (players good at forming a party)
 
 ---
