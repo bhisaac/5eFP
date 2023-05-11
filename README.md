@@ -21,6 +21,7 @@ Join our growing 5eFP community and start contributing. 5eFP needs ***sponsors**
 
 This project needs PCs with any of the following skills:
 
+- **5e SRD 1.0 experience.** We are converting the 5e SRD into our own 5eFP SRD. It would be very helpful to have players who are well-versed in the 5e SRD.
 - **Group lead.** Players who are good at networkning and scheduling adventuring parties.
 - **Rules lawyer.** 5eFP needs to work for everybody who picks it up and decides to give it a try. Therefore, the rules must make sense and must apply to all circumstances described in the 5eFP core rules and setting handbook. Rules lawyers use thier discriminating discernment to help make the rules low-crunch/simple, intuitive, consistent, and accurate.
 - **Notetaking/short-hand skills.** One PC per party needs to be comfortable taking on the 5eFP session's notetaker role. New game elements or developments can arise randomly during gameplay. A basic and general record, including any plot developments or revelations discovered during gameplay, must be kept. Notes do not need to be elaborate. For example, an Enchanted Forest map tile might have something like the following as a note:
@@ -35,7 +36,6 @@ This project needs PCs with any of the following skills:
 | Hidden, furnished study with floor switch behind locked mechanism/door |
 | Evidence of a goblin controller/boss: letters found at study desk; instructed to spread chaos on the highway |
 | False wall in the north operated by switch in hidden study leads to additional rooms |
-
 
 ---
 
