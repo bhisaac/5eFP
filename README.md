@@ -22,7 +22,7 @@ Join our growing 5eFP community and start contributing. 5eFP needs ***sponsors**
 This project needs PCs, GMs, and contributors with any of the following skills (in no paticular order):
 
 - **Legal experience with open-source projects.** Help make sure we are doing everything correctly to ensure the health and wellness of the 5eFP project moving forward.
-- **Open-source project experience.** Familiarity with github and other related applications.
+- **Open-source project experience.** Familiarity with open-source project management, github, and other related applications.
 - **Group lead.** Players who are good at networkning and scheduling adventures with fellow players and GMs.
 - **Rules lawyer and/or 5e SRD 5.1 experience.** 5eFP needs to work for everybody who picks it up and decides to give it a try. Therefore, the rules must make sense and must apply to all circumstances described in the 5eFP core rules and setting handbook. Rules lawyers use thier discriminating discernment to help make the rules low-crunch/simple, intuitive, consistent, and accurate. Prior 5e SRD 5.1 experience prefered.
 - **Notetaking/short-hand skills.** One PC per party needs to be comfortable taking on the 5eFP session's notetaker role. New game elements or developments can arise randomly during gameplay. A basic and general record, including any plot developments or revelations discovered during gameplay, must be kept. Notes do not need to be elaborate. For example, an Enchanted Forest map tile might have something like the following as a note:
