@@ -17,14 +17,14 @@ Join our growing 5eFP community and start contributing. 5eFP needs ***sponsors**
 - **Developers** are interested in helping craft 5eFP game mechanics. They also assist by helping resolve rules conflicts with 5e SRD 5.1.
 - **Editors** wish to proofread 5eFP content and suggest revisions for clarity and ease of reading. 
 - **Game Masters (GMs)** are interested in providing GM feedback regarding 5eFP game mechanics, pre-generated characters, and any sample setting materials. GMs are also interested in running 5eFP games.
-- **Player Characters (PCs)** want to play a character and provide PC feedback within the 5eFP Enchanted Forest setting.
+- **Player Characters (PCs)** want to play a character and provide regular PC feedback within the 5eFP Enchanted Forest setting.
 
-This project needs PCs, GMs, and contributors with any of the following skills (in no particular order):
+This project needs reliable and responsible PCs, GMs, and contributors with any of the following skills (in no particular order):
 
 - **Legal experience with open-source projects.** Help ensure we are doing everything correctly to ensure the health and wellness of the 5eFP project moving forward.
 - **Open-source project experience.** Familiarity with open-source projects, github, and other related applications.
 - **Group lead.** Players who are good at networking and scheduling adventures with fellow players and GMs.
-- **Rules lawyer and/or 5e SRD 5.1 experience.** 5eFP needs to work for everybody who picks it up and decides to give it a try. Therefore, the rules must make sense and apply to all circumstances described in the 5eFP core rules and setting handbook. Rules lawyers use their discriminating discernment to help make the rules low-crunch/simple, intuitive, consistent, and accurate. Prior 5e SRD 5.1 experience preferred.
+- **Rules lawyer and/or 5e SRD 5.1 experience.** 5eFP needs to work for everybody who picks it up and decides to give it a try. Therefore, the rules must make sense and apply to all circumstances described in the 5eFP core rules and setting handbook. Rules lawyers use their discernment to help make the rules low-crunch/simple, intuitive, consistent, and accurate. Prior 5e SRD 5.1 experience preferred.
 - **Notetaking/short-hand skills.** One PC per party must be comfortable taking on the 5eFP session's notetaker role. New game elements or developments can arise randomly during gameplay. A public record must be kept, including any plot developments or revelations discovered during gameplay. Notes do not need to be elaborate. For example, an Enchanted Forest map tile might have something like the following as a note:
 
 | Tier 1: North East Highway: Bandit Cave (Barrow) NE |
