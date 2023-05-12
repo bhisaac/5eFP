@@ -19,7 +19,7 @@ Join our growing 5eFP community and start contributing. 5eFP needs ***sponsors**
 - **Game Masters (GMs)** are interested in providing GM feedback regarding 5eFP game mechanics, pre-generated characters, and any sample setting materials. GMs are also interested in running 5eFP games.
 - **Player Characters (PCs)** want to play a character and provide regular PC feedback within the 5eFP Enchanted Forest setting.
 
-This project needs reliable and responsible PCs, GMs, and contributors with any of the following skills (in no particular order):
+This project needs reliable PCs, GMs, and contributors with any of the following skills (in no particular order):
 
 - **Legal experience with open-source projects.** Help ensure we are doing everything correctly to ensure the health and wellness of the 5eFP project moving forward.
 - **Open-source project experience.** Familiarity with open-source projects, github, and other related applications.
