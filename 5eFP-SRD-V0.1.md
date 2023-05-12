@@ -17,7 +17,7 @@ Characters (PCs) may choose from the following alignments:
 
 **LAWFUL.** Best able to turn chaos into a degree of order with purpose.
 
-**CHAOTIC.** Best able to grow and adapt to sudden changes.
+**CHAOTIC.** Best able to grow and adapt to changes.
 
 **NEUTRAL.** Undecided. Understands that there are times and places for all other alignments.
 
