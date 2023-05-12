@@ -210,9 +210,7 @@ TDB
 
 ---
 
-### EXPERIMENTAL
-
-# Experimental (in-development)
+### EXPERIMENTAL (in development)
 
 5eFP MONK
 — (1 KI point): stand upright from prnone or jump up or down one ledge as a free action.
