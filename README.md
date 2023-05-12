@@ -1,5 +1,5 @@
 # 5eFP | About
-5eFP (fifth edition focus practice) is an open-source project uniting immersive, interactive tabletop roleplaying (TRPG) gameplay with self-reflection using the popular d20 fifth edition rules. Discover a new way to play TRPGs featuring easier, more intuitive rules, shorter game sessions, no GM preparation required, and larger playerbases (8-50+). The entire playerbase does not meet and play all at once. Rather, players asynchronously form parties of 3 to 5 and collectively go on adventures in order to complete 5eFP game objectives. For example, all 5eFP games have the same initial objective: explore and discover the world map. A 5eFP playerbase assembles into several adventuring parties over time to fulfill this objective.
+5eFP (fifth edition focus practice) is an open-source project uniting immersive, interactive tabletop roleplaying (TRPG) gameplay with self-reflection using the popular d20 fifth edition rules. Discover a new way to play TRPGs featuring easier, more intuitive rules, shorter game sessions, no GM preparation required, and larger playerbases (8-50+). The entire playerbase does not meet and play all at once. Rather, players asynchronously form parties of 3 to 5 and collectively go on adventures to complete 5eFP game objectives. For example, all 5eFP games have the same initial objective: explore and discover the world map. A 5eFP playerbase assembles into several adventuring parties over time to fulfill this objective.
 
 ---
 
@@ -19,24 +19,24 @@ Join our growing 5eFP community and start contributing. 5eFP needs ***sponsors**
 - **Game Masters (GMs)** are interested in providing GM feedback regarding 5eFP game mechanics, pre-generated characters, and any sample setting materials. GMs are also interested in running 5eFP games.
 - **Player Characters (PCs)** want to play a character and provide PC feedback within the 5eFP Enchanted Forest setting.
 
-This project needs PCs, GMs, and contributors with any of the following skills (in no paticular order):
+This project needs PCs, GMs, and contributors with any of the following skills (in no particular order):
 
-- **Legal experience with open-source projects.** Help make sure we are doing everything correctly to ensure the health and wellness of the 5eFP project moving forward.
+- **Legal experience with open-source projects.** Help ensure we are doing everything correctly to ensure the health and wellness of the 5eFP project moving forward.
 - **Open-source project experience.** Familiarity with open-source project management, github, and other related applications.
-- **Group lead.** Players who are good at networkning and scheduling adventures with fellow players and GMs.
-- **Rules lawyer and/or 5e SRD 5.1 experience.** 5eFP needs to work for everybody who picks it up and decides to give it a try. Therefore, the rules must make sense and must apply to all circumstances described in the 5eFP core rules and setting handbook. Rules lawyers use thier discriminating discernment to help make the rules low-crunch/simple, intuitive, consistent, and accurate. Prior 5e SRD 5.1 experience prefered.
-- **Notetaking/short-hand skills.** One PC per party needs to be comfortable taking on the 5eFP session's notetaker role. New game elements or developments can arise randomly during gameplay. A basic and general record, including any plot developments or revelations discovered during gameplay, must be kept. Notes do not need to be elaborate. For example, an Enchanted Forest map tile might have something like the following as a note:
+- **Group lead.** Players who are good at networking and scheduling adventures with fellow players and GMs.
+- **Rules lawyer and/or 5e SRD 5.1 experience.** 5eFP needs to work for everybody who picks it up and decides to give it a try. Therefore, the rules must make sense and apply to all circumstances described in the 5eFP core rules and setting handbook. Rules lawyers use their discriminating discernment to help make the rules low-crunch/simple, intuitive, consistent, and accurate. Prior 5e SRD 5.1 experience preferred.
+- **Notetaking/short-hand skills.** One PC per party must be comfortable taking on the 5eFP session's notetaker role. New game elements or developments can arise randomly during gameplay. A public record must be kept, including any plot developments or revelations discovered during gameplay. Notes do not need to be elaborate. For example, an Enchanted Forest map tile might have something like the following as a note:
 
 | Tier 1: North East Highway: Bandit Cave (Barrow) NE |
 | --------------------------------------------------- |
-| Cave system extending beneath surface |
+| Cave system extending beneath the surface level |
 | Dark antechamber, lit dungeon |
 | Goblins: elite goblin mage (civilized), elite goblin scoundrel (out of place weapon: crossbow) |
-| Eladrin caravan captives and goods: freed captives, returned goods (+1 eladrin enclave) |
+| Eladrin caravan captives and goods: freed prisoners, returned goods (+1 eladrin enclave) |
 | Treasure: healing potion |
 | Hidden, furnished study with floor switch behind locked mechanism/door |
 | Evidence of a goblin controller/boss: letters found at study desk--"spread chaos on highway" |
-| False wall in the north operated by switch in hidden study leads to additional rooms |
+| False wall in the north operated by a switch in hidden study leads to additional rooms |
 
 ---
 
