@@ -11,6 +11,14 @@ The age entry notes the age when a member of the species is considered an adult,
 ### Alignment
 Most species have tendencies toward certain alignments, described in this entry. These are not binding for player characters, but considering why your dwarf is chaotic, for example, in defiance of lawful dwarf society can help you better define your character.
 
+Characters (PCs) may choose from the following alignments:
+**GOOD.** Favors the common good for all. Fairness and consideration for others.
+**LAWFUL.** Best able to turn chaos into a degree of order with purpose.
+**CHAOTIC.** Best able to grow and adapt to sudden changes.
+**NEUTRAL.** Undecided. Understands that there are times and places for all other alignments.
+
+are probibited from choosing an evil alidngment at character creation. Neutral characters can be sufficiently dark for most players as long as evil is disfavored.
+
 ### Size
 Characters of most species are Medium, a size category including creatures that are roughly 4 to 8 feet tall. Members of a few species are Small (between 2 and 4 feet tall), which means that certain rules of the game affect them differently. The most important of these rules is that Small characters have trouble wielding heavy weapons, as explained in “Equipment.”
 
@@ -20,8 +28,8 @@ Your speed determines how far you can move when traveling (“Adventuring”) an
 ### Languages
 By virtue of your species, your character can speak, read, and write certain languages.
 
-### Subspecies
-Some species have subspecies. Members of a subspecies have the traits of the parent species in addition to the traits specified for their subspecies. Relationships among subspecies vary significantly from species to species and world to world.
+### Varities
+Some species have one or more varities. Each variety has the traits of the parent species in addition to the traits specified for their variety. Relationships among varities differ significantly from species to species and world to world.
 
 ## Dwarf
 ### Dwarf Traits
