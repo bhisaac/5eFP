@@ -19,7 +19,7 @@ Characters (PCs) may choose from the following alignments:
 
 **CHAOTIC.** Best able to grow and adapt to changes.
 
-**NEUTRAL.** Undecided. Understands that there are times and places for all other alignments.
+**NEUTRAL.** Undecided. Understands that there are times and places for each alignment.
 
 ### Size
 Characters of most species are Medium, a size category including creatures that are roughly 4 to 8 feet tall. Members of a few species are Small (between 2 and 4 feet tall), which means that certain rules of the game affect them differently. The most important of these rules is that Small characters have trouble wielding heavy weapons, as explained in “Equipment.”
