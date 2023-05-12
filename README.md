@@ -32,7 +32,7 @@ This project needs PCs, GMs, and contributors with any of the following skills (
 | Cave system extending beneath the surface level |
 | Dark antechamber, lit dungeon |
 | Goblins: elite goblin mage (civilized), elite goblin scoundrel (out of place weapon: crossbow) |
-| Eladrin caravan captives and goods: freed prisoners, returned goods (+1 eladrin enclave) |
+| Eladrin caravan captives and goods: freed captives, returned goods (+1 eladrin enclave) |
 | Treasure: healing potion |
 | Hidden, furnished study with floor switch behind locked mechanism/door |
 | Evidence of a goblin controller/boss: letters found at study desk--"spread chaos on highway" |
