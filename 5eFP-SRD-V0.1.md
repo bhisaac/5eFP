@@ -13,7 +13,7 @@ Most species have tendencies toward certain alignments, described in this entry.
 
 Characters (PCs) may choose from the following alignments:
 
-**GOOD.** Favors the common good for all. Fairness and consideration for others.
+**GOOD.** Favors the common good for all. Fairness and consideration of others.
 
 **LAWFUL.** Best able to turn chaos into a degree of order with purpose.
 
