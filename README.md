@@ -21,6 +21,7 @@ Join our growing 5eFP community and start contributing. 5eFP needs ***sponsors**
 
 This project needs reliable and dedicated PCs, GMs, and contributors with any of the following skills (in no particular order):
 
+- **5eFP Apps.** Proficiency/familiarity with Zoom, Discord, and Roll20, Arrangr.
 - **Legal experience with open-source projects.** Help ensure we are doing everything correctly to ensure the health and wellness of the 5eFP project moving forward.
 - **Open-source project experience.** Familiarity with open-source projects, github, and other related applications.
 - **Group leads.** Players who are good at networking and scheduling adventures with fellow players and GMs.
