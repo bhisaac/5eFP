@@ -49,6 +49,6 @@ SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International Lic
 
 ---
 
-### The Difference Between 5e SRD 5.1 (CC BY 4.0) and 5eFP (CC BY-ND 4.0)
+### The Difference Between 5e SRD 5.1 (CC BY 4.0) and 5eFP SRD 0.1 (CC BY-ND 4.0)
 
 The 5e SRD 5.1 uses the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) license, while 5eFP uses the [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/legalcode) license. Derivatives or changes to the content in the 5e SRD 5.1 document are permitted; however, they are not permitted within the 5eFP document. Content creators may use, publish, and distribute 5eFP within their original settings, characters, and content.
