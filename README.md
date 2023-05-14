@@ -21,7 +21,7 @@ Join our growing 5eFP community and start contributing. 5eFP needs ***sponsors**
 
 This project needs reliable and dedicated PCs, GMs, and contributors with any of the following skills (in no particular order):
 
-- **Emotional Intelligence.**
+- **Emotional Intelligence.** The capacity to be aware of, control, and express one's emotions, and to handle interpersonal relationships judiciously and empathetically.
 - **5eFP Apps.** Proficiency or familiarity with **Arrangr**, **Discord**, **Roll20**, and **Zoom**.
 - **Legal experience with open-source projects.** Help ensure we are doing everything correctly to ensure the health and wellness of the 5eFP project moving forward.
 - **Open-source project experience.** Familiarity with open-source projects, github, and other related applications.
