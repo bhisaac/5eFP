@@ -11,15 +11,10 @@ The age entry notes the age when a member of the species is considered an adult,
 ### Alignment
 Most species have tendencies toward certain alignments, described in this entry. These are not binding for player characters, but considering why your dwarf is chaotic, for example, in defiance of lawful dwarf society can help you better define your character.
 
-Characters (PCs) may choose from the following alignments:
-
-**GOOD.** Favors the common good for all. Fairness and consideration of others.
-
-**LAWFUL.** Best able to turn chaos into a degree of order with purpose.
-
-**CHAOTIC.** Best able to grow and adapt to changes.
-
-**NEUTRAL.** Undecided. Understands that there are times and places for each alignment.
+- **GOOD.** Favors the common good for all. Fairness and consideration of others.
+- **LAWFUL.** Best able to turn chaos into a degree of order with purpose.
+- **CHAOTIC.** Best able to grow and adapt to changes.
+- **NEUTRAL.** Undecided. Understands that there are times and places for each alignment.
 
 ### Size
 Characters of most species are Medium, a size category including creatures that are roughly 4 to 8 feet tall. Members of a few species are Small (between 2 and 4 feet tall), which means that certain rules of the game affect them differently. The most important of these rules is that Small characters have trouble wielding heavy weapons, as explained in “Equipment.”
