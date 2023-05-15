@@ -11,6 +11,7 @@ The age entry notes the age when a member of the species is considered an adult,
 ### Alignment
 Most species have tendencies toward certain alignments, described in this entry. These are not binding for player characters, but considering why your dwarf is chaotic, for example, in defiance of lawful dwarf society can help you better define your character.
 
+#### Playable Alignments
 - **GOOD.** Favors the common good for all. Fairness and consideration of others.
 - **LAWFUL.** Best able to turn chaos into a degree of order with purpose.
 - **CHAOTIC.** Best able to grow and adapt to changes.
