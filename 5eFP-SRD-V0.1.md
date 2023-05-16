@@ -235,7 +235,7 @@ You know two cantrips of your choice from the bard spell list.
 ### Spell Slots
 You begin the game with two 1st level spell slots. To cast one of your spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.
 
-For example, if you know the 1st-level spell cure wounds and have a 1st-­‐‑level and a 2nd-­‐‑level spell slot available, you can cast cure wounds using either slot.
+For example, if you know the 1st-level spell *cure wounds* and have a 1st-level and a 2nd-level spell slot available, you can cast cure wounds using either slot.
 
 ### Spells Known at 1st Level and Higher
 You know four 1st-level spells of your choice from the bard spell list.
