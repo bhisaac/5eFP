@@ -270,15 +270,15 @@ As a cleric, you gain the following class features.
 **MAX Wounds:** 4 + CON
 
 ### Proficiencies
-**Armor:** Light armor
+**Armor:** Light armor, medium armor, shields
 
-**Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords
+**Weapons:** Simple weapons
 
-**Tools:** Three musical instruments of your choice
+**Tools:** None
 
-**Saving Throws:** Dexterity, Charisma
+**Saving Throws:** Wisdom, Charisma
 
-**Skills:** Choose one from Insight, Medicine, Perception, Performance, and Survival
+**Skills:** Choose one from Insight, Medicine, Performance
 
 ### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
