@@ -263,6 +263,31 @@ For the remainder of the encounter, the creature can choose to roll all action d
 You can use this feature a number of times equal to your CHA (minimum 1). You regain any expended uses when you finish a long rest.
 
 # Cleric
+## Class Features
+### Health
+**MAX Wounds:** 4 + CON
+
+### Proficiencies
+**Armor:** Light armor
+
+**Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords
+
+**Tools:** Three musical instruments of your choice
+
+**Saving Throws:** Dexterity, Charisma
+
+**Skills:** Choose one from Insight, Medicine, Perception, Performance, and Survival
+
+### Equipment
+You start with the following equipment, in addition to the equipment granted by your background:
+
+- (*a*) a rapier or (*b*) a longsword, or (*c*) any simple weapon
+- (*a*) a diplomat's pack or (*b*) an entertainer's pack
+- (*a*) a lute or (*b*) any other musical instrument
+- Leather armor and dagger
+
+## Spellcasting
+You have learned to untangle and reshape the fabric of reality in harmony with your wishes and music.
 
 ---
 # Backgrounds
