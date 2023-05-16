@@ -166,7 +166,7 @@ It’s hard to make generalizations about humans, but your human character has t
 
 # Barbarian
 ## Class Features
-#### Wounds
+#### Health
 **MAX Wounds:** 6 + CON
 
 #### Proficiencies
