@@ -171,9 +171,13 @@ It’s hard to make generalizations about humans, but your human character has t
 
 ### Proficiencies
 **Armor:** Light armor, medium armor, shields
+
 **Weapons:** Simple weapons, martial weapons
+
 **Tools:** None
+
 **Saving Throws:** Strength, Constitution
+
 **Skills:** Choose one from Perception, Performance, and Survival
 
 
