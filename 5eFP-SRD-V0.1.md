@@ -186,6 +186,22 @@ You start with the following equipment, in addition to the equipment granted by 
 - (*a*) handaxes or (*b*) any simple weapon
 - An explorer's pack and javelins
 
+## Rage
+In battle, you fight with primal ferocity. On your turn, you can enter a rage as a bonus action.
+
+While raging, you gain the following benefits if you aren’t wearing heavy armor:
+- You have advantage on Strength checks and Strength saving throws.
+- Bludgeoning, piercing, and slashing damage dealt to you by minions is reduced to 0.
+- You gain resistance to bludgeoning, piercing, and slashing damage dealt by environmental conditions, traps, elites, and bosses (minimum 1 damage).
+ 
+If you are able to cast spells, you can’t cast them or concentrate on them while raging.
+
+Your rage lasts for 1 minute. It ends early if you are knocked unconscious or if your turn ends and you haven’t attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.
+
+Once you have raged twice, you must finish a long rest before you can rage again.
+
+
+
 ---
 # Backgrounds
 Every story has a beginning. Your character’s background reveals where you came from, how you became an adventurer, and your place in the world. Your dwarf warrior might have been a courageous knight or a grizzled soldier. Your halfling mage could have been a sage or an artisan. Your elf scoundrel might have gotten by as a guild thief or commanded audiences as a jester.
