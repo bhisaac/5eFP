@@ -278,15 +278,16 @@ As a cleric, you gain the following class features.
 
 **Saving Throws:** Wisdom, Charisma
 
-**Skills:** Choose one from Insight, Medicine, Performance
+**Skills:** Choose one from Insight, Medicine, and Performance
 
 ### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
 
-- (*a*) a rapier or (*b*) a longsword, or (*c*) any simple weapon
-- (*a*) a diplomat's pack or (*b*) an entertainer's pack
-- (*a*) a lute or (*b*) any other musical instrument
-- Leather armor and dagger
+- (*a*) a mace or (*b*) a warhammer (if proficient)
+- (*a*) scale mail or (*b*) leather armor or (*c*) chainmail (if proficient)
+- (*a*) a light crossbow and bolts or (*b*) any simple weapon
+- (*a*) a priest’s pack or (*b*) an explorer’s pack
+- A shield and a holy symbol
 
 ## Spellcasting
 You have learned to untangle and reshape the fabric of reality in harmony with your wishes and music.
