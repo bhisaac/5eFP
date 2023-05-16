@@ -300,23 +300,28 @@ You begin the game with two 1st level spell slots. To cast one of your spells, y
 
 You prepare the list of cleric spells that are available for you to cast, choosing from the cleric spell list. When you do so, choose a number of cleric spells equal to WIS + your level (minimum of one spell). The spells must be of a level for which you have spell slots.
 
-### Spells Known
-You know four 1st-level spells of your choice from the bard spell list.
-
-Whenever you unlock a Magic feature (i.e., Magic I, Magic II, Magic III, etc.), you can choose one of the bard spells you know and replace it with another spell from the bard spell list, which also must be of a level for which you have spell slots.
+You can change your list of prepared while at HQ. Preparing a new list of cleric spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
 
 ### Spellcasting Ability
-Charisma is your spellcasting ability for your bard spells. Your magic comes from the heart and soul you pour into the performance of your music or oration. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your CHA when setting the saving throw DC for a bard spell you cast and when making an attack roll with one.
+Wisdom is your spellcasting ability for your cleric spells. The power of your spells comes from your devotion to your deity. You use your Wisdom whenever a cleric spell refers to your spellcasting ability. In addition, you use WIS when setting the saving throw DC for a cleric spell you cast and when making an attack roll with one.
 
-**Spell save DC** = 10 + CHA
+**Spell save DC** = 10 + WIS
 
-**Spell attack modifier** = 2 + CHA
+**Spell attack modifier** = 2 + WIS
 
 ### Ritual Casting
-You can cast any bard spell you know as a ritual if that spell has the ritual tag.
+You can cast a cleric spell as a ritual if that spell has the ritual tag and you have the spell prepared.
 
 ### Spellcasting Focus
-You can use a musical instrument (see “Equipment”) as a spellcasting focus for your bard spells.
+You can use a holy symbol (see “Equipment”) as a spellcasting focus for your cleric spells.
+
+### Divine Domain
+Choose one domain related to your deity, such as Life. Each domain is detailed at the end of the class description, and each one provides examples of gods associated with it. Your choice grants you domain spells and other features.
+
+#### Domain Spells
+Each domain has a list of spells—its domain spells— that you gain at the cleric levels noted in the domain description. Once you gain a domain spell, you always have it prepared, and it doesn’t count against the number of spells you can prepare each day.
+
+If you have a domain spell that doesn’t appear on the cleric spell list, the spell is nonetheless a cleric spell for you.
 
 ---
 # Backgrounds
