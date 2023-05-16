@@ -323,6 +323,19 @@ Each domain has a list of spells—its domain spells—that you add to your spel
 
 If you have a domain spell that isn't a cleric spell, the spell is nonetheless a cleric spell for you.
 
+## Life Domain
+The Life domain focuses on the vibrant positive energy—one of the fundamental forces of the universe—that sustains all life. The gods of life promote vitality and health through healing the sick and wounded, caring for those in need, and driving away the forces of death and undeath. Almost any non-­‐‑evil deity can claim influence over this domain, particularly agricultural deities (such as Chauntea, Arawai, and Demeter), sun gods (such as Lathander, Pelor, and Re-Horakhty), gods of healing or endurance (such as Ilmater, Mishakal, Apollo, and Diancecht), and gods of home and community (such as Hestia, Hathor, and Boldrei).
+
+### Life Domain Spells
+- bless
+- cure wounds
+
+### Bonus Proficiency
+When you choose this domain, you gain proficiency with heavy armor.
+
+### Disciple of Life
+Your healing spells are more effective. Whenever you use a spell of 1st level or higher to heal a creature's wounds, the creature heals one additional wound per spell level.
+
 ---
 # Backgrounds
 Every story has a beginning. Your character’s background reveals where you came from, how you became an adventurer, and your place in the world. Your dwarf warrior might have been a courageous knight or a grizzled soldier. Your halfling mage could have been a sage or an artisan. Your elf scoundrel might have gotten by as a guild thief or commanded audiences as a jester.
