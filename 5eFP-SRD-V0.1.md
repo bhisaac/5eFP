@@ -319,9 +319,9 @@ You can use a holy symbol (see “Equipment”) as a spellcasting focus for your
 Choose one domain related to your deity, such as Life. Each domain is detailed at the end of the class description, and each one provides examples of gods associated with it. Your choice grants you domain spells and other features.
 
 #### Domain Spells
-Each domain has a list of spells—its domain spells— that you gain at the cleric levels noted in the domain description. Once you gain a domain spell, you always have it prepared, and it doesn’t count against the number of spells you can prepare each day.
+Each domain has a list of spells—its domain spells—that you add to your spells known. Domain spells do not count against the number of spells you can prepare while at HQ.
 
-If you have a domain spell that doesn’t appear on the cleric spell list, the spell is nonetheless a cleric spell for you.
+If you have a domain spell that isn't a cleric spell, the spell is nonetheless a cleric spell for you.
 
 ---
 # Backgrounds
