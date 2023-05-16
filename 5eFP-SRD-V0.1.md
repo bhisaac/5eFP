@@ -203,6 +203,64 @@ Once you have raged twice, you must finish a long rest before you can rage again
 ## Unarmored Defense
 While you are not wearing any armor, your Armor Class equals 10 + DEX + CON. You can use a shield and still gain this benefit.
 
+# Bard
+## Class Features
+### Health
+**MAX Wounds:** 4 + CON
+
+### Proficiencies
+**Armor:** Light armor
+
+**Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords
+
+**Tools:** Three musical instruments of your choice
+
+**Saving Throws:** Dexterity, Charisma
+
+**Skills:** Choose one from Insight, Medicine, Perception, Performance, and Survival
+
+### Equipment
+You start with the following equipment, in addition to the equipment granted by your background:
+- (*a*) a rapier or (*b*) a longsword, or (*c*) any simple weapon
+- (*a*) a diplomat's pack or (*b*) an entertainer's pack
+- (*a*) a lute or (*b*) any other musical instrument
+- Leather armor and dagger
+
+## Spellcasting
+You have learned to untangle and reshape the fabric of reality in harmony with your wishes and music.
+
+### Cantrips
+You know two cantrips of your choice from the bard spell list.
+
+### Spell Slots
+You begin the game with two 1st level spell slots. To cast one of your spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.
+
+For example, if you know the 1st-level spell cure wounds and have a 1st-­‐‑level and a 2nd-­‐‑level spell slot available, you can cast cure wounds using either slot.
+
+### Spells Known at 1st Level and Higher
+You know four 1st-level spells of your choice from the bard spell list.
+
+Whenever you unlock a Magic feature (i.e., Magic I, Magic II, Magic III, etc.), you can choose one of the bard spells you know and replace it with another spell from the bard spell list, which also must be of a level for which you have spell slots.
+
+### Spellcasting Ability
+Charisma is your spellcasting ability for your bard spells. Your magic comes from the heart and soul you pour into the performance of your music or oration. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a bard spell you cast and when making an attack roll with one.
+
+**Spell save DC** = 8 + your proficiency bonus + CHA
+
+**Spell attack modifier** = your proficiency bonus + CHA
+
+### Ritual Casting
+You can cast any bard spell you know as a ritual if that spell has the ritual tag.
+
+### Spellcasting Focus
+You can use a musical instrument (see “Equipment”) as a spellcasting focus for your bard spells.
+
+## Bardic Inspiration
+You can inspire others through stirring words or music. To do so, you use a bonus action on your turn to choose one creature other than yourself within 10 squares of you who can hear you. That creature gains three Bardic Inspiration action dice.
+
+For the remainder of the encounter, the creature can choose to roll all action dice and add the result to one ability check, attack roll, or saving throw it makes. The creature can wait until after it rolls the d20 before deciding to use the Bardic Inspiration die, but must decide before the GM says whether the roll succeeds or fails. Once the Bardic Inspiration dice are rolled, they are lost. A creature can have only three Bardic Inspiration dice at one time.
+
+You can use this feature a number of times equal to your CHA (minimum 1). You regain any expended uses when you finish a long rest.
 
 ---
 # Backgrounds
