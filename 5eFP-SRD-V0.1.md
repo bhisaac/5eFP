@@ -331,7 +331,7 @@ The Life domain focuses on the vibrant positive energy—one of the fundamental 
 - cure wounds
 
 ### Bonus Proficiency
-When you choose this domain, you gain proficiency with heavy armor.
+You gain proficiency with heavy armor.
 
 ### Disciple of Life
 Your healing spells are more effective. Whenever you use a spell of 1st level or higher to heal a creature's wounds, the creature heals one additional wound per spell level.
