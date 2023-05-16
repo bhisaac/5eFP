@@ -166,10 +166,10 @@ It’s hard to make generalizations about humans, but your human character has t
 
 # Barbarian
 ## Class Features
-#### Health
+### Health
 **MAX Wounds:** 6 + CON
 
-#### Proficiencies
+### Proficiencies
 **Armor:** Light armor, medium armor, shields
 **Weapons:** Simple weapons, martial weapons
 **Tools:** None
