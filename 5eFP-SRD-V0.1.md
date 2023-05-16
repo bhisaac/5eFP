@@ -200,6 +200,8 @@ Your rage lasts for 1 minute. It ends early if you are knocked unconscious or if
 
 Once you have raged twice, you must finish a long rest before you can rage again.
 
+## Unarmored Defense
+While you are not wearing any armor, your Armor Class equals 10 + Dexterity + Constitution. You can use a shield and still gain this benefit.
 
 
 ---
