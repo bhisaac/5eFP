@@ -319,9 +319,9 @@ You can use a holy symbol (see “Equipment”) as a spellcasting focus for your
 Choose one domain related to your deity, such as Life. Each domain is detailed at the end of the class description, and each one provides examples of gods associated with it. Your choice grants you domain spells and other features.
 
 ### Domain Spells
-Each domain has a list of spells—its domain spells—that you add to your spells known. Domain spells do not count against the number of spells you can prepare while at HQ.
+Each domain has a list of domain spells. You always have domain spells prepared and they don't count against the number of spells you can prepare while at HQ.
 
-If you have a domain spell that isn't a cleric spell, the spell is nonetheless a cleric spell for you.
+If you gain a domain spell that isn't a cleric spell, the spell is nonetheless a cleric spell for you.
 
 ## Life Domain
 The Life domain focuses on the vibrant positive energy—one of the fundamental forces of the universe—that sustains all life. The gods of life promote vitality and health through healing the sick and wounded, caring for those in need, and driving away the forces of death and undeath. Almost any non-evil deity can claim influence over this domain, particularly agricultural deities (such as Chauntea, Arawai, and Demeter), sun gods (such as Lathander, Pelor, and Re-Horakhty), gods of healing or endurance (such as Ilmater, Mishakal, Apollo, and Diancecht), and gods of home and community (such as Hestia, Hathor, and Boldrei).
