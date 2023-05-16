@@ -150,25 +150,9 @@ It’s hard to make generalizations about humans, but your human character has t
 
 **Ability Score Increase.** One ability score of your choice increases by +1.
 
-**Adaptable.** Choose and gain one species trait:
+**Adaptable.** Choose and gain a species trait:
 - **Able.** Choose an ability score unmodified by your ability score increase trait. The chosen ability score increases by +1. You also gain proficiency in one skill of your choice.
 - **Feat.** You gain one feat.
-
-**Age.** Humans reach adulthood in their late teens and live less than a century.
-
-**Alignment.** Humans tend toward no particular alignment. The best and the worst are found among them.
-
-**Size.** Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium.
-
-**Speed.** Your base walking speed is 6 squares.
-
-**Languages.** You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on.
-
-## Human (Variant)
-### Human Traits
-It’s hard to make generalizations about humans, but your human character has these traits.
-
-**Ability Score Increase.** Two separate ability scores increase by +1.
 
 **Age.** Humans reach adulthood in their late teens and live less than a century.
 
