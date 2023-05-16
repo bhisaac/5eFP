@@ -262,6 +262,8 @@ For the remainder of the encounter, the creature can choose to roll all action d
 
 You can use this feature a number of times equal to your CHA (minimum 1). You regain any expended uses when you finish a long rest.
 
+# Cleric
+
 ---
 # Backgrounds
 Every story has a beginning. Your character’s background reveals where you came from, how you became an adventurer, and your place in the world. Your dwarf warrior might have been a courageous knight or a grizzled soldier. Your halfling mage could have been a sage or an artisan. Your elf scoundrel might have gotten by as a guild thief or commanded audiences as a jester.
