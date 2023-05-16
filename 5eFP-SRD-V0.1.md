@@ -296,11 +296,9 @@ As a conduit for divine power, you can cast cleric spells.
 You know three cleric cantrips.
 
 ### Preparing and Casting Spells
-You begin the game with two 1st level spell slots. To cast one of your spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.
+You begin the game with two 1st level spell slots. To cast one of your spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest. For example, if you know the 1st-level spell *cure wounds* and have a 1st-level and a 2nd-level spell slot available, you can cast cure wounds using either slot. Casting the spell doesn’t remove it from your list of prepared spells.
 
 You prepare the list of cleric spells that are available for you to cast, choosing from the cleric spell list. When you do so, choose a number of cleric spells equal to WIS + your level (minimum of one spell). The spells must be of a level for which you have spell slots.
-
-For example, if you know the 1st-level spell *cure wounds* and have a 1st-level and a 2nd-level spell slot available, you can cast cure wounds using either slot. Casting the spell doesn’t remove it from your list of prepared spells.
 
 ### Spells Known
 You know four 1st-level spells of your choice from the bard spell list.
