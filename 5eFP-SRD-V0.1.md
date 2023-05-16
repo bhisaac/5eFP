@@ -237,7 +237,7 @@ You begin the game with two 1st level spell slots. To cast one of your spells, y
 
 For example, if you know the 1st-level spell *cure wounds* and have a 1st-level and a 2nd-level spell slot available, you can cast cure wounds using either slot.
 
-### Spells Known at 1st Level and Higher
+### Spells Known
 You know four 1st-level spells of your choice from the bard spell list.
 
 Whenever you unlock a Magic feature (i.e., Magic I, Magic II, Magic III, etc.), you can choose one of the bard spells you know and replace it with another spell from the bard spell list, which also must be of a level for which you have spell slots.
