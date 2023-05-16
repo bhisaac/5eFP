@@ -144,6 +144,42 @@ Lightfoots are more prone to wanderlust than other halflings, and often dwell al
 
 **Naturally Stealthy.** You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you.
 
+## Human
+### Human Traits
+It’s hard to make generalizations about humans, but your human character has these traits.
+
+**Ability Score Increase.** One ability score of your choice increases by +1.
+
+**Adaptable.** Choose and gain one bonus feature:
+- **Feat.** You gain one bonus feat
+- **Ability.** Choose a different ability score than the one chosen for ability score increase trait above. The chosen ability score increases by +1.
+
+**Age.** Humans reach adulthood in their late teens and live less than a century.
+
+**Alignment.** Humans tend toward no particular alignment. The best and the worst are found among them.
+
+**Size.** Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium.
+
+**Speed.** Your base walking speed is 6 squares.
+
+**Languages.** You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on.
+
+## Human (Variant)
+### Human Traits
+It’s hard to make generalizations about humans, but your human character has these traits.
+
+**Ability Score Increase.** Two separate ability scores increase by +1.
+
+**Age.** Humans reach adulthood in their late teens and live less than a century.
+
+**Alignment.** Humans tend toward no particular alignment. The best and the worst are found among them.
+
+**Size.** Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium.
+
+**Speed.** Your base walking speed is 6 squares.
+
+**Languages.** You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on.
+
 ---
 # Backgrounds
 Every story has a beginning. Your character’s background reveals where you came from, how you became an adventurer, and your place in the world. Your dwarf warrior might have been a courageous knight or a grizzled soldier. Your halfling mage could have been a sage or an artisan. Your elf scoundrel might have gotten by as a guild thief or commanded audiences as a jester.
