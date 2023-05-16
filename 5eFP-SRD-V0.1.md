@@ -290,7 +290,8 @@ You start with the following equipment, in addition to the equipment granted by 
 - A shield and a holy symbol
 
 ## Spellcasting
-You have learned to untangle and reshape the fabric of reality in harmony with your wishes and music.
+As a conduit for divine power, you can cast cleric spells. 
+  
 
 ---
 # Backgrounds
