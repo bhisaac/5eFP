@@ -164,6 +164,19 @@ It’s hard to make generalizations about humans, but your human character has t
 
 **Languages.** You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on.
 
+# Barbarian
+## Class Features
+#### Wounds
+**MAX Wounds:** 6 + CON
+
+#### Proficiencies
+**Armor:** Light armor, medium armor, shields
+**Weapons:** Simple weapons, martial weapons
+**Tools:** None
+**Saving Throws:** Strength, Constitution
+**Skills:** Choose one from Perception, Performance, and Survival
+
+
 ---
 # Backgrounds
 Every story has a beginning. Your character’s background reveals where you came from, how you became an adventurer, and your place in the world. Your dwarf warrior might have been a courageous knight or a grizzled soldier. Your halfling mage could have been a sage or an artisan. Your elf scoundrel might have gotten by as a guild thief or commanded audiences as a jester.
