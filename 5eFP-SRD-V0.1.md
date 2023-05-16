@@ -264,6 +264,8 @@ You can use this feature a number of times equal to your CHA (minimum 1). You re
 
 # Cleric
 ## Class Features
+As a cleric, you gain the following class features. 
+  
 ### Health
 **MAX Wounds:** 4 + CON
 
