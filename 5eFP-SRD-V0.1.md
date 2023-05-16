@@ -230,7 +230,7 @@ You start with the following equipment, in addition to the equipment granted by 
 You have learned to untangle and reshape the fabric of reality in harmony with your wishes and music.
 
 ### Cantrips
-You know two cantrips of your choice from the bard spell list.
+You know two bard cantrips.
 
 ### Spell Slots
 You begin the game with two 1st level spell slots. To cast one of your spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.
@@ -291,7 +291,34 @@ You start with the following equipment, in addition to the equipment granted by 
 
 ## Spellcasting
 As a conduit for divine power, you can cast cleric spells. 
-  
+
+### Cantrips
+You know three cleric cantrips.
+
+### Preparing and Casting Spells
+You begin the game with two 1st level spell slots. To cast one of your spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.
+
+You prepare the list of cleric spells that are available for you to cast, choosing from the cleric spell list. When you do so, choose a number of cleric spells equal to WIS + your level (minimum of one spell). The spells must be of a level for which you have spell slots.
+
+For example, if you know the 1st-level spell *cure wounds* and have a 1st-level and a 2nd-level spell slot available, you can cast cure wounds using either slot. Casting the spell doesn’t remove it from your list of prepared spells.
+
+### Spells Known
+You know four 1st-level spells of your choice from the bard spell list.
+
+Whenever you unlock a Magic feature (i.e., Magic I, Magic II, Magic III, etc.), you can choose one of the bard spells you know and replace it with another spell from the bard spell list, which also must be of a level for which you have spell slots.
+
+### Spellcasting Ability
+Charisma is your spellcasting ability for your bard spells. Your magic comes from the heart and soul you pour into the performance of your music or oration. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your CHA when setting the saving throw DC for a bard spell you cast and when making an attack roll with one.
+
+**Spell save DC** = 10 + CHA
+
+**Spell attack modifier** = 2 + CHA
+
+### Ritual Casting
+You can cast any bard spell you know as a ritual if that spell has the ritual tag.
+
+### Spellcasting Focus
+You can use a musical instrument (see “Equipment”) as a spellcasting focus for your bard spells.
 
 ---
 # Backgrounds
