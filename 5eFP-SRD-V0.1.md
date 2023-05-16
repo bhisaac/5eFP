@@ -258,7 +258,7 @@ You can use a musical instrument (see “Equipment”) as a spellcasting focus f
 ## Bardic Inspiration
 You can inspire others through stirring words or music. To do so, you use a bonus action on your turn to choose one creature other than yourself within 10 squares of you who can hear you. That creature gains three Bardic Inspiration action dice.
 
-For the remainder of the encounter, the creature can choose to roll all action dice and add the result to one ability check, attack roll, or saving throw it makes. The creature can wait until after it rolls the d20 before deciding to use the Bardic Inspiration die, but must decide before the GM says whether the roll succeeds or fails. Once the Bardic Inspiration dice are rolled, they are lost. A creature can have only three Bardic Inspiration dice at one time.
+For the remainder of the encounter, the creature can choose to roll all action dice and add the result to one ability check, attack roll, or saving throw it makes. The creature can wait until after it rolls the d20 before deciding to use the Bardic Inspiration dice, but must decide before the GM says whether the roll succeeds or fails. Once the Bardic Inspiration dice are rolled, they are lost. A creature can have only three Bardic Inspiration dice at one time.
 
 You can use this feature a number of times equal to your CHA (minimum 1). You regain any expended uses when you finish a long rest.
 
