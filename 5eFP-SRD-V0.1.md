@@ -187,7 +187,7 @@ You start with the following equipment, in addition to the equipment granted by 
 - An explorer's pack and javelins
 
 ## Rage
-In battle, you fight with primal ferocity. On your turn, you can enter a rage as a bonus action that lasts until the end of the encounter..
+In battle, you fight with primal ferocity. On your turn, you can enter a rage as a bonus action that lasts until the end of the encounter.
 
 While raging, you gain the following benefits if you aren’t wearing heavy armor:
 - You have advantage on Strength checks and Strength saving throws.
