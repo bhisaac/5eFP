@@ -391,6 +391,16 @@ You can cast a druid spell as a ritual if that spell has the ritual tag and you 
 You can use a druidic focus (see “Equipment”) as a spellcasting focus for your druid spells.
 
 ---
+# Beyond 1st Level
+
+As characters explore the world map and go on adventures, they encounter challenges granting experience, 
+represented by Coins.
+
+Characters advance whenever all world map tiles contained in the level 1 area are explored. Level 1 map tiles are adjacent to the QH map tile. This advancement is called gaining a level. 
+   
+When characters advance to the next level, their MAX wounds increases by +1. You also gain access to the next level’s species, background, and class upgrades. Some upgrades allow you to increase an ability score by +1. You can't increase an ability score above +5 using this method. In addition, every character's proficiency bonus increases by +1.
+
+---
 # Backgrounds
 Every story has a beginning. Your character’s background reveals where you came from, how you became an adventurer, and your place in the world. Your dwarf warrior might have been a courageous knight or a grizzled soldier. Your halfling mage could have been a sage or an artisan. Your elf scoundrel might have gotten by as a guild thief or commanded audiences as a jester.
 
