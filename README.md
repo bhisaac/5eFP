@@ -23,7 +23,7 @@ This project needs reliable and dedicated PCs, GMs, and contributors with any of
 
 - **Emotional Intelligence.** The capacity to be aware of, control, and express one's emotions, and to handle interpersonal relationships judiciously and empathetically.
 - **5eFP Apps.** Proficiency or familiarity with **Arrangr**, **Discord**, **Roll20**, and **Zoom**.
-- **Legal experience with open-source projects.** Help ensure we are doing everything correctly to ensure the health and wellness of the 5eFP project moving forward.
+- **Legal experience with open-source projects.** Help ensure we are doing everything correctly for the health and wellness of the 5eFP project moving forward.
 - **Open-source project experience.** Familiarity with open-source projects, github, and other related applications.
 - **Group leads.** Players who are good at networking and scheduling adventures with fellow players and GMs.
 - **Rules lawyer and/or 5e SRD 5.1 experience.** 5eFP needs to work for everybody who picks it up and decides to give it a try. Therefore, the rules must make sense and apply to all circumstances described in the 5eFP core rules and setting handbook. Rules lawyers use their discernment to help make the rules "low-crunch"/simple, intuitive, consistent, and accurate. Prior 5e SRD 5.1 experience preferred.
