@@ -416,7 +416,26 @@ You start with the following equipment, in addition to the equipment granted by 
 - (*a*) a	light	crossbow	and	bolts	or	(*b*) handaxes
 - (*a*) a	dungeoneer’s	pack	or (*b*) an explorer’s pack
 
+### Fighting Style
+You	adopt	a	particular	style	of	fighting	as	your	specialty.	Choose	one	of	the	following	options.	You	can’t	take	a	Fighting	Style	option	more	than once, even	if	you	later	get	to	choose	again.
 
+#### Archery
+You	gain	a	+2	bonus	to	attack	rolls	you	make	with ranged	weapons.
+
+#### Defense
+While	you	are	wearing	armor,	you	gain	a	+1	bonus	to	AC.
+
+#### Dueling
+When	you	are	wielding	a	melee	weapon	in	one	hand and	no	other	weapons,	you	gain	a	+2	bonus	to	damage	rolls	with	that	weapon.
+
+#### Great Weapon Fighting
+When	you	roll	a	1	or	2	on	a	damage	die	for	an	attack	you	make	with	a	melee	weapon	that	you	are	wielding	with	two	hands,	you	can	reroll	the	die and	must	use	the	new	roll,	even	if	the	new	roll	is	a	1	or	a	2. The	weapon	must	have	the	two-handed	or versatile	property	for	you	to	gain	this benefit.
+
+#### Protection
+When	a	creature	you	can	see	attacks	a	target	other	than	you	that	is	within	5	feet	of	you,	you	can	use	your	reaction	to	impose	disadvantage	on	the attack roll.	You	must	be	wielding	a	shield.
+
+#### Two-Weapon Fighting (needs revision)
+When	you	engage	in	two-weapon	fighting,	you	can add	your	ability score	to	the	damage	of	the	second	attack. *Notes: 5eFP does not add ability scores to damage on weapon attacks. This needs to be adapted with a new ability that makes sense.*
 
 ---
 # Beyond 1st Level
