@@ -390,6 +390,34 @@ You can cast a druid spell as a ritual if that spell has the ritual tag and you 
 ### Spellcasting Focus
 You can use a druidic focus (see “Equipment”) as a spellcasting focus for your druid spells.
 
+# Fighter
+## Class Features
+As	a	fighter,	you	gain	the	following	class	features.
+
+### Health
+**MAX Wounds:** 5 + CON
+
+### Proficiencies
+**Armor:** All	armor,	shields
+
+**Weapons:** Simple	weapons,	martial	weapons
+
+**Tools:** None
+
+**Saving Throws:** Strength,	Constitution
+
+**Skills:** Choose one from Insight, Performance, and Survival
+
+### Equipment
+You start with the following equipment, in addition to the equipment granted by your background:
+
+- (*a*) chain	mail	or (*b*) leather	armor,	longbow,	and arrows
+- (*a*) a	martial	weapon	and	a	shield	or (*b*) two martial	weapons
+- (*a*) a	light	crossbow	and	bolts	or	(*b*) handaxes
+- (*a*) a	dungeoneer’s	pack	or (*b*) an explorer’s pack
+
+
+
 ---
 # Beyond 1st Level
 
