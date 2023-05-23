@@ -647,7 +647,7 @@ For	example,	if	you	know	the	1st-level	spell	burning	hands and	have	a	1st-level	
 ### Spells Known
 You know two 1st-level spells of your choice from the sorcerer spell list.
 
-Whenever you unlock a Magic feature (i.e., Magic I, Magic II, Magic III, etc.), you can choose one of the sorcerer spells you know and replace it with another spell from the sorcerer spell list, which also must be of a level for which you have spell slots.
+Whenever you successfully upgrade a Magic feature (i.e., "Magic I", "Magic II", "Magic III", etc.), you can choose one of the sorcerer spells you know and replace it with another spell from the sorcerer spell list, which also must be of a level for which you have spell slots.
 
 ### Spellcasting Ability
 Charisma is your spellcasting ability for your sorcerer spells,	since	the	power	of	your	magic	relies	on	your	ability	to	project	your	will	into	the	world. You use your CHA whenever a spell refers to your spellcasting ability. In addition, you use your CHA when setting the saving throw DC for a sorcerer spell you cast and when making an attack roll with one.
@@ -726,7 +726,44 @@ Your	arcane	research	and	the	magic	bestowed	on you	by	your	patron	have	given	you
 ### Cantrips
 You	know	two	warlock cantrips	of	your	choice.
 
+### Spell Slots
+You begin the game with one 1st level spell slot. To cast one of your spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a short rest.
+
+For	example,	if	you	know	the	1st-level	spell	burning	hands and	have	a	1st-level	and	a	2nd-level	spell	slot	available,	you	can	cast	burning	hands using	either	slot.
+
+### Spells Known
+You know two 1st-level spells of your choice from the warlock spell list.
+
+Whenever you successfully upgrade a Magic feature (i.e., "Magic I", "Magic II", "Magic III", etc.), you can choose one of the warlock spells you know and replace it with another spell from the warlock spell list, which also must be of a level for which you have spell slots.
+
 ---
+
+(Floating Section)
+
+# Headquarters (HQ)
+Headquarters (HQ) represents the core organization(s) that all player characters (PCs) belong to within a 5eFP campaign setting. HQ can be an organization, a settlement, an outpost, a watch tower, a ship, or a station. All HQs have a dedicated society of supporters who help PCs complete HQ missions and guarantee safety and protection from whatever awaits beyond HQ's borders, provided PCs pay HQ's upkeep cost. See your setting handbook for more details on HQ upkeep costs.
+
+HQ usually remains in one static location while PCs deploy on missions outward from the world map's center. However, some HQs relocate on the world map while other HQs have movable tokens representing a deployable vehicle or station with sufficient life support. Deployable HQ tokens function identically to static HQ world map tiles.
+
+Sometimes HQs create satellite locations within the world map. Treat satellite locations as extensions of HQ. PCs can spend their downtime in HQ or within one of HQ's satellite locations, which may provide alternative benefits. Satellite locations are less secure than HQ, but remain relatively safe and protected, provided PCs meet HQ's upkeep costs. Local circumstances, conditions, and disturbances can affect the safety and protection offered by HQ. A temporary suspension of HQ protection results in PCs losing the ability to pay a Coin for rest and repairs. Any Coin spent on rest and repairs are lost during this circumstance.
+
+## Game Session Start
+You always begin the game at HQ.
+
+You begin the game by revealing the HQ world map tile to all players. Place the HQ tile at the world map center tile position, reading any read-aloud text listed in your setting handbook for the start of the game.
+
+## Game Session End
+You always end the game at HQ.
+
+## HQ and Long Rests
+When PCs return to HQ:
+1. All ongoing encounter powers, abilities, and features end.
+2. PCs may pay 1 Coin for rest and repairs.
+3. PCs take one downtime round (worker placement) by placing their token on a building within HQ.
+4. PCs gain the benefits of completing a long rest.
+
+---
+
 # Beyond 1st Level
 
 As characters explore the world map and go on adventures, they encounter challenges granting experience, represented by Coins. See "Coins."
