@@ -444,17 +444,43 @@ When	a	creature	you	can	see	attacks	a	target	other	than	you	that	is	within	1 squ
 When you engage in two weapon fighting and successfully hit a creature with your secondary attack, you may deal 1 point of damage to another creature within 1 square of you. This bonus damage type is the same as the secondary attack.
 
 ### Second Wind
-You	have	a	limited	well	of	stamina	that	you	can	draw	on	to	protect	yourself	from	harm.	On	your	turn,	you	can	use	a	bonus	action	to	heal up to	~~1d10~~	1 +	your	fighter	level wounds.	Once	you	use	this	feature, you	must	finish	a	short	~~or long~~ rest	before	you	can use	it	again.
+You	have	a	limited	well	of	stamina	that	you	can	draw	on	to	protect	yourself	from	harm.	On	your	turn,	you	can	use	a	bonus	action	to return up to	~~1d10~~	1 +	your	fighter	level wounds back to the wound deck.	Once	you	use	this	feature, you	must	finish	a	short	~~or long~~ rest	before	you	can use	it	again.
+
+# Monk
+## Class Features
+As	a	monk,	you	gain	the	following	class	features.
+
+### Health
+**MAX Wounds:** 4 + CON
+
+### Proficiencies
+**Armor:** None
+
+**Weapons:** Simple	weapons,	shortswords
+
+**Tools:** Choose	one	type	of	artisan’s	tools	or	one	
+musical	instrument
+
+**Saving Throws:** Strength,	Dexterity
+
+**Skills:** Choose one from Insight or Performance
+
+### Equipment
+You start with the following equipment, in addition to the equipment granted by your background:
+
+- (*a*) a	shortsword	or (*b*) any	simple	weapon
+- (*a*) a	dungeoneer’s	pack	or (*b*) an	explorer’s	pack
+- darts
 
 ---
 # Beyond 1st Level
 
 As characters explore the world map and go on adventures, they encounter challenges granting experience, 
-represented by Coins.
+represented by gaining Coin.
 
 Characters advance whenever all world map tiles contained in the level 1 area are explored. Level 1 map tiles are adjacent to the QH map tile. This advancement is called gaining a level. 
    
-When characters advance to the next level, their MAX wounds increases by +1. You also gain access to the next level’s species, background, and class upgrades. Some upgrades allow you to increase an ability score by +1. You can't increase an ability score above +5 using this method. ~~In addition, every character's proficiency bonus increases by +1.~~
+When characters advance to the next level, their MAX wounds increases by +1. You also gain access to the next level’s species, background, and class upgrades. You may purchase upgrades if you have enough Coin to do so. Once a Coin is spent, it is lost. See "Coins." Some upgrades allow you to increase an ability score by +1. You can't increase an ability score above +5 using this method. ~~In addition, every character's proficiency bonus increases by +1.~~
 
 ---
 # Backgrounds
