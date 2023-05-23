@@ -507,7 +507,7 @@ As	a	paladin,	you	gain	the	following	class	features.
 You	start	with	the	following	equipment,	in	addition	to	the	equipment	granted	by	your	background:
 
 - (a)	a	martial	weapon	and	a	shield	or	(b)	two martial	weapons
-- (a)	five	javelins	or	(b)	any	simple	melee	weapon
+- (a)	javelins	or	(b)	any	simple	melee	weapon
 - (a)	a	priest’s	pack	or	(b)	an	explorer’s	pack
 - Chain	mail	and	a	holy	symbol
 
@@ -529,6 +529,49 @@ This	feature	has	no	effect	on	undead	and constructs.
 ## Class Features
 As	a	ranger,	you	gain	the	following	class	features.
 
+### Health
+**MAX Wounds:** 5 + CON
+
+### Proficiencies
+**Armor:** Light	armor,	medium	armor,	shields
+
+**Weapons:** Simple	weapons,	martial	weapons
+
+**Tools:** None
+
+**Saving Throws:** Strength,	Dexterity
+
+**Skills:** Choose one from Insight, Perception, Performance, or Survival
+
+### Equipment
+You	start	with	the	following	equipment,	in	addition	to	the	equipment	granted	by	your	background:
+
+- (a)	scale	mail	or	(b)	leather	armor
+- (a)	two	shortswords	or	(b)	two	simple	melee weapons
+- (a)	a	dungeoneer’s	pack	or	(b)	an	explorer’s	pack
+- A	longbow	and	arrows
+
+### Favored Enemy
+You	have	significant experience	studying,	tracking,	hunting,	and	even	talking	to	a	certain	type	of	enemy. Choose	a	type	of	favored	enemy:	aberrations,	beasts, celestials,	constructs,	dragons,	elementals, fey,	fiends,	giants,	monstrosities,	oozes,	plants,	or undead.	Alternatively,	you	can	select	two	~~races~~ species	of	humanoid	(such	as	gnolls	and	orcs)	as	favored enemies.
+
+You	have	advantage	on	Survival	checks	to	track	your	favored	enemies,	as	well	as	on Intelligence	checks	to recall	information	about	them.
+
+When	you	gain	this	feature,	you	also	learn	one language	of	your	choice	that	is	spoken	by	your favored	enemies,	if	they	speak	one	at all.
+
+### Natural Explorer
+You	are	particularly	familiar	with	one	type	of	natural environment	and	are	adept	at	traveling	and surviving	in	such	regions.	Choose	one	type	of	favored	terrain: arctic,	coast,	desert,	forest, grassland,	mountain,	or	swamp.	When	you	make	an	Intelligence	or	Wisdom	check	related	to	your	
+favored	terrain,	your	proficiency	bonus	is	doubled	if	you	are	using	a	skill	that	you’re	proficient	in.
+
+While	traveling	for	an	hour	or	more	in	your	favored	terrain,	you	gain	the	following	benefits:
+- Difficult	terrain	doesn’t	slow	your	group’s	travel.
+- Your	group	can’t	become	lost	except	by	magical means.
+- Even	when	you	are	engaged	in	another	activity while	traveling	(such	as	foraging,	navigating,	or tracking),	you	remain	alert	to	danger.
+- If	you	are	traveling	alone,	you	can	move	stealthily at	a	normal	pace.
+- When	you	forage,	you	find	twice	as	much	food	as you	normally	would.
+- While	tracking	other	creatures,	you	also	learn their	exact	number,	their	sizes,	and	how	long	ago they	passed	through	the	area.
+
+
+
 ---
 # Beyond 1st Level
 
@@ -543,7 +586,6 @@ When characters advance to the next level, their MAX wounds increases by +1. You
 Every story has a beginning. Your character’s background reveals where you came from, how you became an adventurer, and your place in the world. Your dwarf warrior might have been a courageous knight or a grizzled soldier. Your halfling mage could have been a sage or an artisan. Your elf scoundrel might have gotten by as a guild thief or commanded audiences as a jester.
 
 Choosing a background provides you with traits and important story cues about your character’s identity. Backgrounds describe all events leading up to joining a life of adventure. Your starting gear represents the implements and reagents typical of your chosen background. How did you learn the skills of your class? Refer to your setting handbook for potential answers to these questions.
-
 
 The most important question to ask about your background is what changed? Why did you stop doing whatever your background describes and start adventuring? Where did you get the money to purchase your starting gear, or, if you come from a wealthy background, why don’t you have more money? How did you learn the skills of your class? What sets you apart from ordinary people who share your background?
 
