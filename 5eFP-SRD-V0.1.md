@@ -692,6 +692,40 @@ As	magic	flows	through	your	body, it	causes	physical	traits	of	your	dragon	ances
 
 Additionally,	parts	of	your	skin	are	covered	by	a	thin	sheen	of	dragon-like	scales.	When	you	aren’t	wearing	armor,	your	AC	equals	13	+	DEX.
 
+# Warlock
+## Class Features
+As	a	warlock,	you	gain	the	following	class	features.
+
+### Health
+**MAX Wounds:** 3 + CON
+
+### Proficiencies
+**Armor:**	Light	armor
+
+**Weapons:**	Simple	weapons
+
+**Tools:** None
+
+**Saving	Throws:** Wisdom,	Charisma
+
+**Skills:** Choose	one skill from Insight or Performance
+
+### Equipment
+You	start	with	the	following	equipment,	in	addition to	the	equipment	granted	by	your	background:
+- (a)	a	light	crossbow and	20	bolts	or	(b)	any	simple weapon
+- (a)	a	component	pouch	or	(b)	an	arcane	focus
+- (a)	a	scholar’s	pack	or	(b)	a	dungeoneer’s	pack
+- Leather	armor,	any	simple	weapon,	and	two daggers
+
+### Otherworldly Patron
+You	have	struck	a	bargain	with	an otherworldly	being	of	your	choice:	the	Archfey,	the	Fiend,	or	the	Great	Old	One,	each	of	which	is	detailed	at	the	end	of	the	class	description.	Your	choice	grants	you	features.
+
+### Pact Magic
+Your	arcane	research	and	the	magic	bestowed	on you	by	your	patron	have	given	you	facility	with spells.
+
+### Cantrips
+You	know	two	warlock cantrips	of	your	choice.
+
 ---
 # Beyond 1st Level
 
