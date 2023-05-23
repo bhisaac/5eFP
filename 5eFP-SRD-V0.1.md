@@ -438,10 +438,10 @@ Whenever you attack and miss with a melee weapon you are wielding with two hands
 #### Protection
 When	a	creature	you	can	see	attacks	a	target	other	than	you	that	is	within	1 square	of	you,	you	can	use	your	reaction	to	impose	disadvantage	on	the attack roll.	You	must	be	wielding	a	shield.
 
-#### Two-Weapon Fighting (needs revision)
+#### Two-Weapon Fighting (needs playtesting)
 ~~When	you	engage	in	two-weapon	fighting,	you	can add	your	ability score	to	the	damage	of	the	second	attack.~~
 
-When you engage in two weapon fighting and successfully hit a creature with your primary weapon, your secondary weapon deals 1 point of damage to the creature or a creature within 1 square of you.
+When you engage in two weapon fighting and successfully hit a creature with your secondary attack, you may deal 1 point of damage to another creature within 1 square of you. This bonus damage type is the same as the secondary attack.
 
 ---
 # Beyond 1st Level
@@ -452,6 +452,16 @@ represented by Coins.
 Characters advance whenever all world map tiles contained in the level 1 area are explored. Level 1 map tiles are adjacent to the QH map tile. This advancement is called gaining a level. 
    
 When characters advance to the next level, their MAX wounds increases by +1. You also gain access to the next level’s species, background, and class upgrades. Some upgrades allow you to increase an ability score by +1. You can't increase an ability score above +5 using this method. In addition, every character's proficiency bonus increases by +1.
+
+---
+
+# Making An Attack
+## Two-Weapon Fighting (needs playtesting)
+~~When	you	take	the	Attack	action	and	attack	with	a	light	melee	weapon	that	you’re	holding	in	one	hand,	you	can	use	a	bonus	action	to	attack	with	a	different light melee	weapon	that	you’re	holding	in	the	other	hand.	You	don’t	add	your	ability	modifier	to	the	damage	of	the	bonus	attack,	unless	that	modifier	is	negative.~~
+
+When you take the Attack action and attack with a light melee weapon that you're holding in one hand, you can use a bonus action to attack with a different light melee weapon that you're holding in the other hand.
+
+If	either	weapon	has	the	thrown	property,	you	can	throw	the	weapon,	instead	of	making	a	melee	attack	with	it.
 
 ---
 # Backgrounds
