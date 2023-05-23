@@ -668,8 +668,7 @@ Different	sorcerers	claim	different	origins	for	their	innate	magic,	such	as	a	dr
 #### Draconic Bloodline
 Your	innate	magic	comes	from	draconic	magic	that	was	mingled	with	your	blood	or	that	of	your	ancestors.	Most	often,	sorcerers	with	this	origin	trace	their	descen 	back	to	a	mighty	sorcerer	of ancient	times	who	made	a	bargain	with	a	dragon	or	who	might	even	have	claimed	a	dragon	parent.	Some	of	these	bloodlines	are	well established	in	the	world,	but	most	are	obscure.	Any	given	sorcerer	could	be	the	first	of	a	new	bloodline,	as	a	result	of	a	pact	or	some	other	exceptional	circumstance.
 
-**Dragon Ancestor**
-
+#### Dragon Ancestor
 Choose	one	type	of dragon	as	your	ancestor.	The	damage	type	associated	with	each dragon	is	used	by	features	you	gain	later.
 
 **Draconic	Ancestry**
@@ -685,6 +684,13 @@ Choose	one	type	of dragon	as	your	ancestor.	The	damage	type	associated	with	each
 | Red | Fire |
 | Silver | Cold |
 | White | Cold |
+
+You	can	speak,	read,	and	write	Draconic.	Additionally,	whenever	you	make	a	Charisma	check	when	interacting	with	dragons,	add your level as a	bonus	if	it	applies	to	the	check.
+
+#### Draconic Resilience
+As	magic	flows	through	your	body, it	causes	physical	traits	of	your	dragon	ancestors	to	emerge.	Your	MAX wounds	increases	by	+1.
+
+Additionally,	parts	of	your	skin	are	covered	by	a	thin	sheen	of	dragon-like	scales.	When	you	aren’t	wearing	armor,	your	AC	equals	13	+	DEX.
 
 ---
 # Beyond 1st Level
