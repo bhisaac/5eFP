@@ -671,10 +671,19 @@ Your	innate	magic	comes	from	draconic	magic	that	was	mingled	with	your	blood	or	
 ##### Dragon Ancestor
 Choose	one	type	of dragon	as	your	ancestor.	The	damage	type	associated	with	each dragon	is	used	by	features	you	gain	later.
 
-| Draconic	Ancestry |
+**Draconic	Ancestry**
 | Dragon | Damage	Type |
 | ------ | ----------- |
 | Black | Acid |
+| Blue | Lightning |
+| Brass | Fire |
+| Bronze | Lightning |
+| Copper | Acid |
+| Gold | Fire |
+| Green | Poison |
+| Red | Fire |
+| Silver | Cold |
+| White | Cold |
 
 ---
 # Beyond 1st Level
