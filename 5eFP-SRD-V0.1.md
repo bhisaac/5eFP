@@ -745,7 +745,7 @@ Headquarters (HQ) represents the core organization(s) that all player characters
 
 HQ usually remains in one static location while PCs deploy on missions outward from the world map's center. However, some HQs relocate on the world map while other HQs have movable tokens representing a deployable vehicle or station with sufficient life support. Deployable HQ tokens function identically to static HQ world map tiles.
 
-Sometimes HQs create satellite locations within the world map. Treat satellite locations as extensions of HQ. PCs can spend their downtime in HQ or within one of HQ's satellite locations, which may provide alternative benefits. Satellite locations are less secure than HQ, but remain relatively safe and protected, provided PCs meet HQ's upkeep costs. Local circumstances, conditions, and disturbances can affect the safety and protection offered by HQ. A temporary suspension of HQ protection results in PCs losing the ability to pay a Coin for rest and repairs. Any Coin spent on rest and repairs are lost during this circumstance.
+Sometimes HQs create satellite locations within the world map. Treat satellite locations as extensions of HQ. PCs can spend their downtime in HQ or within one of HQ's satellite locations, which may provide alternative benefits. Satellite locations are less secure than HQ, but remain relatively safe and protected, provided PCs meet HQ's upkeep costs. Local circumstances, conditions, and disturbances can affect the safety and protection offered by HQ. A temporary suspension of HQ protection results in PCs losing the ability to rest and repair. Coins spent on rest and repairs are lost during these circumstances.
 
 ## Game Session Start
 You always begin the game at HQ.
