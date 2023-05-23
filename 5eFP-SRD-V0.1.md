@@ -485,15 +485,58 @@ You	gain	the	following	benefits	while	you	are	unarmed	or	wielding	only	monk	weap
 
 Certain	monasteries	use	specialized	forms	of	the monk	weapons.	For	example,	you	might	use	a	club that	is	two	lengths	of	wood	connected	by	a	short chain	(called	a	nunchaku)	or	a	sickle	with	a	shorter, straighter	blade	(called	a	kama).	Whatever	name	you use	for	a	monk	weapon,	you	can	use	the	game	statistics	provided	for	the	weapon.
 
+## Paladin
+### Class Features
+As	a	paladin,	you	gain	the	following	class	features.
+
+### Health
+**MAX Wounds:** 5 + CON
+
+### Proficiencies
+**Armor:** All armor, shields
+
+**Weapons:** Simple	weapons,	martial	weapons
+
+**Tools:** None
+
+**Saving Throws:** Wisdom,	Charisma
+
+**Skills:** Choose one from Insight, Medicine, Performance
+
+### Equipment
+You	start	with	the	following	equipment,	in	addition	to	the	equipment	granted	by	your	background:
+
+- (a)	a	martial	weapon	and	a	shield	or	(b)	two martial	weapons
+- (a)	five	javelins	or	(b)	any	simple	melee	weapon
+- (a)	a	priest’s	pack	or	(b)	an	explorer’s	pack
+- Chain	mail	and	a	holy	symbol
+
+### Divine Sense
+The	presence	of	strong	evil	registers	on	your	senses like	a	noxious	odor,	and	powerful	good	rings	like heavenly	music	in	your	ears.	As	an	action,	you	can open	your awareness	to	detect	such	forces.	Until	the end	of	your	next	turn,	you	know	the	location	of	any celestial,	fiend,	or	undead	within	60	feet	of	you	that is	not	behind	total	cover.	You	know	the	type	(celestial,	fiend,	or	undead)	of	any	being	whose	presence	you	sense,	but	not	its	identity	(the	vampire	Count	Strahd	von	Zarovich,	for	instance).	Within	the same	radius,	you	also	detect	the	presence	of	any	place	or	object	that	has	been	consecrated	or	desecrated,	as	with	the	hallow spell.
+
+You	can	use	this	feature	a	number	of	times	equal to	1	+	CHA.	You	regain	all	expended	uses whenever you return to HQ.
+
+### Lay on Hands
+Your	blessed	touch	can	heal	wounds.	You	have	a pool	of	healing	power	that	replenishes	when you return to HQ.	With	that	pool,	you	can	heal	a total	number	of	wounds equal	to	your	paladin	level	×	5.
+
+As	an	action,	you	can touch a wounded creature and	choose to expend 1 or more points from your healing pool, up to the maximum amount remaining in your pool. Each point heals one of the creature's wounds.
+
+Alternatively,	you	can	expend	5	points	from your	pool	of	healing	to	cure	the	target	of	one	disease or	neutralize	one	poison	affecting	it.	You	can	cure multiple diseases	and	neutralize	multiple	poisons with	a	single	use	of	Lay	on	Hands,	expending	points	separately	for	each	one.
+
+This	feature	has	no	effect	on	undead	and constructs.
+
+# Ranger
+## Class Features
+As	a	ranger,	you	gain	the	following	class	features.
+
 ---
 # Beyond 1st Level
 
-As characters explore the world map and go on adventures, they encounter challenges granting experience, 
-represented by gaining Coin.
+As characters explore the world map and go on adventures, they encounter challenges granting experience, represented by Coins. See "Coins."
 
 Characters advance whenever all world map tiles contained in the level 1 area are explored. Level 1 map tiles are adjacent to the QH map tile. This advancement is called gaining a level. 
    
-When characters advance to the next level, their MAX wounds increases by +1. You also gain access to the next level’s species, background, and class upgrades. You may purchase upgrades if you have enough Coin to do so. Once a Coin is spent, it is lost. See "Coins." Some upgrades allow you to increase an ability score by +1. You can't increase an ability score above +5 using this method. ~~In addition, every character's proficiency bonus increases by +1.~~
+When characters advance to the next level, their MAX wounds increases by +1. You also gain access to the next level’s species, background, and class upgrades. You may purchase upgrades if you have enough Coin to do so. Once a Coin is spent, it is lost. Some upgrades allow you to increase an ability score by +1. You can't increase an ability score above +5 using this method. ~~In addition, every character's proficiency bonus increases by +1.~~
 
 ---
 # Backgrounds
