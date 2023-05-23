@@ -233,7 +233,7 @@ You have learned to untangle and reshape the fabric of reality in harmony with y
 You know two bard cantrips of your choice.
 
 ### Spell Slots
-You begin the game with two 1st level spell slots. To cast one of your spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.
+You begin the game with two 1st level spell slots. To cast one of your spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you return to HQ.
 
 For example, if you know the 1st-level spell *cure wounds* and have a 1st-level and a 2nd-level spell slot available, you can cast cure wounds using either slot.
 
@@ -559,18 +559,122 @@ You	have	advantage	on	Survival	checks	to	track	your	favored	enemies,	as	well	as	
 When	you	gain	this	feature,	you	also	learn	one language	of	your	choice	that	is	spoken	by	your favored	enemies,	if	they	speak	one	at all.
 
 ### Natural Explorer
-You	are	particularly	familiar	with	one	type	of	natural environment	and	are	adept	at	traveling	and surviving	in	such	regions.	Choose	one	type	of	favored	terrain: arctic,	coast,	desert,	forest, grassland,	mountain,	or	swamp.	When	you	make	an	Intelligence	or	Wisdom	check	related	to	your	
-favored	terrain,	your	proficiency	bonus	is	doubled	if	you	are	using	a	skill	that	you’re	proficient	in.
+You	are	particularly	familiar	with	one	type	of	natural environment	and	are	adept	at	traveling	and surviving	in	such	regions.	Choose	one	type	of	favored	terrain: arctic,	coast,	desert,	forest, grassland,	mountain,	or	swamp.	When	you	make	a skill	check	related	to	your	favored	terrain,	your	proficiency	bonus	is	doubled	if	you	are	using	a	skill	that	you’re	proficient	in.
 
-While	traveling	for	an	hour	or	more	in	your	favored	terrain,	you	gain	the	following	benefits:
+While	traveling	~~for	an	hour	or	more~~	in	your	favored	terrain,	you	gain	the	following	benefits:
 - Difficult	terrain	doesn’t	slow	your	group’s	travel.
 - Your	group	can’t	become	lost	except	by	magical means.
 - Even	when	you	are	engaged	in	another	activity while	traveling	(such	as	foraging,	navigating,	or tracking),	you	remain	alert	to	danger.
-- If	you	are	traveling	alone,	you	can	move	stealthily at	a	normal	pace.
+- ~~If	you	are	traveling	alone,	you~~ Your group may	move	stealthily at	a	normal	pace.
 - When	you	forage,	you	find	twice	as	much	food	as you	normally	would.
 - While	tracking	other	creatures,	you	also	learn their	exact	number,	their	sizes,	and	how	long	ago they	passed	through	the	area.
 
+# Rogue
+## Class Features
+As	a	rogue,	you	have	the following	class	features.
 
+### Health
+**MAX Wounds:** 4 + CON
+
+### Proficiencies
+**Armor:** Light	armor
+
+**Weapons:** Simple	weapons,	hand	crossbows, longswords,	rapiers,	shortswords
+
+**Tools:**	Thieves’	tools
+
+**Saving	Throws:**	Dexterity,	Intelligence
+
+**Skills:**	Choose	any two skills
+
+### Equipment
+You	start	with	the	following	equipment,	in	addition	to	the	equipment	granted	by	your	background:
+
+- (a)	a	rapier	or	(b)	a	shortsword
+- (a)	a	shortbow	and	quiver	of	20	arrows	or	(b)	a shortsword
+- (a)	a	burglar’s	pack,	(b)	a	dungeoneer’s	pack,	or (c) an	explorer’s	pack
+- (a)	Leather	armor,	two	daggers,	and	thieves’	tools
+
+### Expertise
+When you gain this feature, choose	two	of	your	skill	proficiencies,	or	one	of	your	skill	proficiencies	and	your	proficiency	with	thieves’	tools.	Increase your	bonus	by +1 for	the	chosen	proficiencies.
+
+Whenever an upgrade increases either of the choosen proficiencies' bonus, increase the bonus by an additional +1. 
+
+### Sneak Attack
+You	know	how	to	strike	subtly	and	exploit	a	foe’s	distraction.	Once	per	turn,	you	can	deal	an	extra	+1 damage	to	one	creature	you	hit	with	an	attack	if	you	have advantage	on	the	attack	roll.	The	attack	must	use	a	finesse	or	a	ranged weapon.
+
+You	don’t	need	advantage	on	the	attack	roll	if another	enemy	of	the	target	is	within	1 square	of	it,	that	enemy	isn’t	incapacitated,	and	you	don’t	have	disadvantage	on the	attack	roll.
+
+### Thieves’ Cant
+During	your	rogue	training	you	learned	thieves’	cant,	a	secret	mix	of	dialect,	jargon,	and	code	that	allows	you	to	hide	messages	in	seemingly	normal	conversation. Only	another	creature	that	knows thieves’	cant	understands	such	messages. It	takes four	times	longer	to	convey	such	a	message	than	it does	to	speak	the	same	idea plainly.
+
+In	addition,	you	understand	a	set	of	secret	signs	and	symbols	used	to	convey	short,	simple	messages, such	as	whether	an	area	is	dangerous	or	the	territory	of a	thieves’	guild,	whether	loot	is	nearby,	or	whether	the	people	in	an	area	are	easy	marks	or will	provide	a	safe	house	for	thieves	on	the	run.
+
+# Sorcerer
+## Class Features
+As	a	sorcerer,	you	gain	the	following	class	features.
+
+### Proficiencies
+**Armor:**	None
+
+**Weapons:** Daggers,	darts,	slings,	quarterstaffs,	light	crossbows
+
+**Tools:**	None
+
+**Saving	Throws:** Constitution,	Charisma
+
+**Skills:** Choose	one	from	Insight or	Performance
+
+### Equipment
+You	start	with	the	following	equipment,	in	addition	to	the	equipment	granted	by	your	background:
+
+- (a)	a	light	crossbow	and	20	bolts	or	(b)	any	simple weapon
+- (a)	a	component	pouch	or	(b)	an	arcane	focus
+- (a)	a	dungeoneer’s	pack	or	(b)	an	explorer’s	pack
+- Two	daggers
+
+### Spellcasting
+An	event	in	your	past,	or	in	the	life	of	a	parent	or	ancestor,	left	an	indelible	mark	on	you,	infusing	you	with	arcane	magic.	This	font	of	magic,	whatever	its	origin, fuels	your	spells.
+
+### Cantrips
+You	know	four	sorcerer cantrips of your choice.
+
+### Spell Slots
+You begin the game with two 1st level spell slots. To cast one of your spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you return to HQ.
+
+For	example,	if	you	know	the	1st-level	spell	burning	hands and	have	a	1st-level	and	a	2nd-level	spell	slot	available,	you	can	cast	burning	hands using	either	slot.
+
+### Spells Known
+You know two 1st-level spells of your choice from the sorcerer spell list.
+
+Whenever you unlock a Magic feature (i.e., Magic I, Magic II, Magic III, etc.), you can choose one of the sorcerer spells you know and replace it with another spell from the sorcerer spell list, which also must be of a level for which you have spell slots.
+
+### Spellcasting Ability
+Charisma is your spellcasting ability for your sorcerer spells,	since	the	power	of	your	magic	relies	on	your	ability	to	project	your	will	into	the	world. You use your CHA whenever a spell refers to your spellcasting ability. In addition, you use your CHA when setting the saving throw DC for a sorcerer spell you cast and when making an attack roll with one.
+
+**Spell save DC** = 10 + CHA
+
+**Spell attack modifier** = 2 + CHA
+
+### Spellcasting Focus
+You	can	use	an	arcane focus	as	a	spellcasting	focus for	your	sorcerer	spells.
+
+### Sorcerous Origin
+Choose	a	sorcerous	origin,	which	describes	the	source	of	your	innate	magical	power,	such	as	Draconic	Bloodline. Your	choice	grants	you	a feature.
+
+### Sorcerous Origins
+Different	sorcerers	claim	different	origins	for	their	innate	magic,	such	as	a	draconic	bloodline.
+
+#### Draconic Bloodline
+Your	innate	magic	comes	from	draconic	magic	that	was	mingled	with	your	blood	or	that	of	your	ancestors.	Most	often,	sorcerers	with	this	origin	trace	their	descen 	back	to	a	mighty	sorcerer	of ancient	times	who	made	a	bargain	with	a	dragon	or	who	might	even	have	claimed	a	dragon	parent.	Some	of	these	bloodlines	are	well established	in	the	world,	but	most	are	obscure.	Any	given	sorcerer	could	be	the	first	of	a	new	bloodline,	as	a	result	of	a	pact	or	some	other	exceptional	circumstance.
+
+##### Dragon Ancestor
+Choose	one	type	of dragon	as	your	ancestor.	The	damage	type	associated	with	each dragon	is	used	by	features	you	gain	later.
+
+| Draconic	Ancestry |
+| Dragon | Damage	Type |
+| ------ | ----------- |
+| Black | Acid |
 
 ---
 # Beyond 1st Level
