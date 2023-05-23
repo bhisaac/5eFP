@@ -438,13 +438,13 @@ Whenever you attack and miss with a melee weapon you are wielding with two hands
 #### Protection
 When	a	creature	you	can	see	attacks	a	target	other	than	you	that	is	within	1 square	of	you,	you	can	use	your	reaction	to	impose	disadvantage	on	the attack roll.	You	must	be	wielding	a	shield.
 
-## Second Wind
-You	have	a	limited	well	of	stamina	that	you	can	draw	on	to	protect	yourself	from	harm.	On	your	turn,	you	can	use	a	bonus	action	to	heal up to	~~1d10~~	1 +	your	fighter	level wounds.	Once	you	use	this	feature, you	must	finish	a	short	rest	before	you	can use	it	again.
-
 #### Two-Weapon Fighting (needs playtesting)
 ~~When	you	engage	in	two-weapon	fighting,	you	can add	your	ability score	to	the	damage	of	the	second	attack.~~
 
 When you engage in two weapon fighting and successfully hit a creature with your secondary attack, you may deal 1 point of damage to another creature within 1 square of you. This bonus damage type is the same as the secondary attack.
+
+### Second Wind
+You	have	a	limited	well	of	stamina	that	you	can	draw	on	to	protect	yourself	from	harm.	On	your	turn,	you	can	use	a	bonus	action	to	heal up to	~~1d10~~	1 +	your	fighter	level wounds.	Once	you	use	this	feature, you	must	finish	a	short	~~or long~~ rest	before	you	can use	it	again.
 
 ---
 # Beyond 1st Level
