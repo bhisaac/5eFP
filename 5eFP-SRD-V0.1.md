@@ -451,17 +451,7 @@ represented by Coins.
 
 Characters advance whenever all world map tiles contained in the level 1 area are explored. Level 1 map tiles are adjacent to the QH map tile. This advancement is called gaining a level. 
    
-When characters advance to the next level, their MAX wounds increases by +1. You also gain access to the next level’s species, background, and class upgrades. Some upgrades allow you to increase an ability score by +1. You can't increase an ability score above +5 using this method. In addition, every character's proficiency bonus increases by +1.
-
----
-
-# Making An Attack
-## Two-Weapon Fighting (needs playtesting)
-~~When	you	take	the	Attack	action	and	attack	with	a	light	melee	weapon	that	you’re	holding	in	one	hand,	you	can	use	a	bonus	action	to	attack	with	a	different light melee	weapon	that	you’re	holding	in	the	other	hand.	You	don’t	add	your	ability	modifier	to	the	damage	of	the	bonus	attack,	unless	that	modifier	is	negative.~~
-
-When you take the Attack action and attack with a light melee weapon that you're holding in one hand, you can use a bonus action to attack with a different light melee weapon that you're holding in the other hand.
-
-If	either	weapon	has	the	thrown	property,	you	can	throw	the	weapon,	instead	of	making	a	melee	attack	with	it.
+When characters advance to the next level, their MAX wounds increases by +1. You also gain access to the next level’s species, background, and class upgrades. Some upgrades allow you to increase an ability score by +1. You can't increase an ability score above +5 using this method. ~~In addition, every character's proficiency bonus increases by +1.~~
 
 ---
 # Backgrounds
@@ -509,6 +499,16 @@ You might also have ties to a specific temple dedicated to your chosen deity or 
 
 ### Suggested Characteristics
 Acolytes are shaped by their experience in temples or other religious communities. Their study of the history and tenets of their faith and their relationships to temples, shrines, or hierarchies affect their mannerisms and ideals. Their flaws might be some hidden hypocrisy or heretical idea, or an ideal or bond taken to an extreme.
+
+---
+
+# Making An Attack
+## Two-Weapon Fighting (needs playtesting)
+~~When	you	take	the	Attack	action	and	attack	with	a	light	melee	weapon	that	you’re	holding	in	one	hand,	you	can	use	a	bonus	action	to	attack	with	a	different light melee	weapon	that	you’re	holding	in	the	other	hand.	You	don’t	add	your	ability	modifier	to	the	damage	of	the	bonus	attack,	unless	that	modifier	is	negative.~~
+
+When you take the Attack action and attack with a light melee weapon that you're holding in one hand, you can use a bonus action to attack with a different light melee weapon that you're holding in the other hand.
+
+If	either	weapon	has	the	thrown	property,	you	can	throw	the	weapon,	instead	of	making	a	melee	attack	with	it.
 
 ---
 
