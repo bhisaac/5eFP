@@ -767,10 +767,7 @@ You always begin the game at HQ.
 You begin the game by revealing the HQ world map tile to all players. Place the HQ tile at the world map center tile position, reading any read-aloud text listed in your setting handbook for the start of the game.
 
 ## Game Session End
-You always end the game at HQ.
-
-## HQ and Long Rests
-When PCs return to HQ:
+You always end the game at HQ. The following occurs when PCs return to HQ:
 1. All ongoing encounter powers, abilities, and features end.
 2. PCs may pay 1 Coin for rest and repairs.
 3. PCs take one downtime round (worker placement) by placing their token on a building within HQ.
