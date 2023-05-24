@@ -740,6 +740,20 @@ Whenever you successfully upgrade a Magic feature (i.e., "Magic I", "Magic II", 
 
 (Floating Section)
 
+# World Map
+
+A 14 x 14 grid map. This map begins obscured. The nature of this obscurity is detailed in your setting handbook. The HQ tile is placed at the map's center position. World map tiles are placed next to HQ as regions of the map are discovered. PCs must complete the following procedure in order to explore a world map tile:
+
+1. **Preview.** Druids and rangers recieve a special bonus round before the selection step. Each druid and ranger player, in turn, may choose an unexplored world map tile within the current level of play and preview it's terrain by temporarily removing the tile obscuring it. The player then returns the obscuring tile back to its original position when finished. Once all druids and rangers in the group have had a turn previewing unexplored world map tile terrains, gameplay resumes.
+2. **Selection.** PCs collectively choose cardinal or ordinal directions and trace paths from the world map's center tile along the map until an unexplored world map tile is encountered within the current level of play. This becomes the selected world map tile.
+3. **Preparation.** Players may choose to spend 1 round of preparation before deploying. See "Preparation."
+4. **Setup Exploration Map.** Place an empty (22 x 22) exploration map beside the world map. Roll a d20 twice. The first value represents the starting row. The second value represnets the starting column. Match the starting row and column to determine the starting position for the PCs.
+5. **Deploy.** The GM adds the starting map tile onto the exploration map at the starting position determined in step 4 and places the party token onto it.
+
+# Exploration Map
+
+# Encounter Map
+
 # Headquarters (HQ)
 Headquarters (HQ) represents the core organization(s) that all player characters (PCs) belong to within a 5eFP campaign setting. HQ can be an organization, a settlement, an outpost, a watch tower, a ship, or a station. All HQs have a dedicated society of supporters who help PCs complete HQ missions and guarantee safety and protection from whatever awaits beyond HQ's borders, provided PCs pay HQ's upkeep cost. See your setting handbook for more details on HQ upkeep costs.
 
