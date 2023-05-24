@@ -770,7 +770,7 @@ You begin the game by revealing the HQ world map tile to all players. Place the 
 You always end the game at HQ. The following occurs when PCs return to HQ:
 1. All ongoing encounter powers, abilities, and features end.
 2. PCs may pay 1 Coin for rest and repairs.
-3. PCs take one downtime round (worker placement) by placing their token on a building within HQ.
+3. PCs take one downtime round (worker placement) by placing their token on a building within HQ (or linked through HQ at a satellite location).
 4. PCs gain the benefits of completing a long rest.
 
 ---
