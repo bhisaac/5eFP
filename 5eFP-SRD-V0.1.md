@@ -750,9 +750,14 @@ A 14 x 14 grid map. This map begins obscured. The nature of this obscurity is de
 4. **Setup.** Place an empty (22 x 22) exploration map beside the world map. Roll a d20 twice. The first value represents the starting row. The second value represnets the starting column. Match the starting row and column to determine the starting position for the PCs.
 5. **Deploy.** The GM adds the starting map tile onto the exploration map at the starting position determined in the previous step, placing the party token onto it.
 6. **Chooose Party Token Controller.** PCs appoint one player as the party token controller. This player can be the party leader, but this is not required. The PC with the most overland movement bonuses is typically the party token controller. Some background, species, and class features provide significant bonuses while controlling the party token during the exploration phase.
-7. The party token controller moves the token, lifting any obscuring tiles encountered along the way. On occasion, removing an obscuring tile will reveal one of several world map features:
-    - A foothold.
-    - A setting handbook specific feature or item.
+7. **Move the party token.** The party token controller moves the token, lifting any obscuring tiles encountered along the way. Removing an obscuring tile may reveal one 5 potential world map features or footholds:
+    - A dungeon
+    - A creature (or creatures)
+    - A village
+    - A building
+    - A treasure
+    - A trap
+    - A setting handbook specific feature or item necessary for completion.
 
 # Exploration Map
 
