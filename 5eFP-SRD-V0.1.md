@@ -750,14 +750,14 @@ Choose one of two approaches:
 
 ### Custom World Map
 - Dimensions: 14 squares by 14 squares
-- Contains: (48) 2x2 world map tiles and (1) 2x2 HQ tile and
+- Contains: (48) 2x2 world map tiles, (1) 2x2 HQ tile
 - Draw a clear boundary around each world map tile
 - 1 square equals 1 inch by 1 inch or about 2.5 milimeters by 2.5 milimeters
 - Players should be able to place a poker chip within a world map tile without overlaping other chips or crossing over other world map tiles.
 
 Create your world map, making sure to leave one 2x2 world map square blank at the center of the map for the HQ tile.
 
-Your map can be as detailed or simplistic as needed. Try to keep illustrations simple, consistent, and easily repeatable. Everyone should be able to see them and recognize what they are at a glance.
+Your map needs to be detailed and simplistic. Try to keep illustrations simple, consistent, and easily repeatable. Everyone should be able to see them and recognize what they are at a glance.
 
 > >Running 5eFP on a budget? Use the following recipe:
 > > >1. Use six sided dice as if they were action dice. Six sided dice are easy to buy at your local grocery store. Treat a die roll of 1 as one action (1 bolt) and a result of 6 as two actions (2 bolts). All other results are blank.
