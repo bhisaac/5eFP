@@ -738,9 +738,17 @@ Whenever you successfully upgrade a Magic feature (i.e., "Magic I", "Magic II", 
 
 ---
 
+(Floating Section)
+
 # The 5eFP Framework
+5eFP games follow the same general rules framework. Maps make up the majority of game props.
+
 ## The World Map
-The world map is central to 5eFP games. Prepare a blank 14 square by 14 square map.
+Either use a world map provided through a boxed game or prepare a custom map with a width of 14 squares and a height of 14 squares. Graph paper makes a good backdrop for custom maps. The squares must be of a sufficient size to allow players to place tokens on them. One square on the world map typically measures 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters. Once the optimal size is determined, be consistent and use this size with all of your custom 5eFP maps.
+
+Create your world map, making sure to leave one square blank at the center of the map. The map can be as detailed or simplistic as needed. Players should be able to see at a glance the terrain and features of the entire map. Keeping it simple: use a color to represent terrain.
+
+with a width of 14 squares and a height of 14 squares.
 
 Aside: Running 5eFP on a budget? Use the following recipe.
 1. Use six sided dice instead of action dice. Treat a die roll of 1 as one action or bolt and a result of 6 as two actions or bolts.
