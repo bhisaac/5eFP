@@ -752,7 +752,7 @@ Choose one of two approaches:
 - Dimensions: 14 squares by 14 squares
 - Draw a clear boundary around each world map tile.
 - 1 square equals 1 inch or about 2.5 milimeters
-- Players should be able to place a poker chip on a world map tile without overlaping other chips or crossing over other world map tiles.
+- Players should be able to place a poker chip within a world map tile without overlaping other chips or crossing over other world map tiles.
 
 Custom world maps measure 14 by 14 squares. Graph paper makes a good backdrop for custom maps. The squares must be of a sufficient size to allow players to place tokens on them. Create them big enough to easily place a poker chip in them. One square on the world map typically measures 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters. Once the optimal size is determined, be consistent and use this size with all of your custom 5eFP maps.
 
