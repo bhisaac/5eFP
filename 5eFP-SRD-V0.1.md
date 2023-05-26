@@ -750,20 +750,19 @@ Choose one of two approaches:
 
 ### Custom World Map
 - Dimensions: 14 squares by 14 squares
-- Draw a clear boundary around each world map tile.
-- 1 square equals 1 inch or about 2.5 milimeters
+- Contains: (48) 2x2 world map tiles and (1) HQ tile and
+- Draw a clear boundary around each world map tile
+- 1 square equals 1 inch by 1 inch or about 2.5 milimeters by 2.5 milimeters
 - Players should be able to place a poker chip within a world map tile without overlaping other chips or crossing over other world map tiles.
 
-Custom world maps measure 14 by 14 squares. Graph paper makes a good backdrop for custom maps. The squares must be of a sufficient size to allow players to place tokens on them. Create them big enough to easily place a poker chip in them. One square on the world map typically measures 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters. Once the optimal size is determined, be consistent and use this size with all of your custom 5eFP maps.
+Create your world map, making sure to leave one 2x2 world map square blank at the center of the map for the HQ tile.
 
-Create your world map, making sure to leave one square blank at the center of the map. The map can be as detailed or simplistic as needed. Players should be able to see at a glance the terrain and features of the entire map. Keeping it simple: use a color to represent terrain.
+Your map can be as detailed or simplistic as needed. Try to keep illustrations simple, consistent, and easily repeatable. Everyone should be able to see them and recognize what they are at a glance.
 
-with a width of 14 squares and a height of 14 squares.
-
-Aside: Running 5eFP on a budget? Use the following recipe.
-1. Use six sided dice instead of action dice. Treat a die roll of 1 as one action or bolt and a result of 6 as two actions or bolts.
-2. Use a four poker decks different card backs. 1 deck for each map direction. Consult the story card descriptions in "Story Cards." A poker symbol and value corresponds to each seleciton for ease of reference.
-3. Use small coins or life counters in a bowl (preferably a single color everyone shares; red is an excellent color to use). Make sure you have enough for levels 1 through 7. You will need about 52 coins or counters. PCs draw from the coin/counter bowl and place them in a visible spot within their play area. PCs should be able to glance at a player's play area and know how many wounds they have. PCs return wound coins/counters from thier play area to the bowl when they are healed.
+Aside: Running 5eFP on a budget? Use the following recipe:
+1. Use six sided dice as if they were action dice. Six sided dice are easy to buy at your local grocery store. Treat a die roll of 1 as one action (1 bolt) and a result of 6 as two actions (2 bolts). All other results are blank.
+2. Use four different poker decks with unique card back artwork for each story cardinal direction. (consult the story card descriptions in TBA. A poker symbol and value corresponds to each seleciton for ease of reference.
+3. Use small coins or life counters in a bowl (all one color). Make sure you have enough for levels 1 through 7. You will need about 52 small coins or life counters. When PCs recieve 1 or more points of damage that cannot be prevented, they draw that many wounds from the coin/counter bowl and place them in a visible spot within their play area. All players should be able to glance at a player's play area and know how many wounds they have at all times. When PCs recieve 1 or more points of healing, they may return 1 wound back to the bowl of small coins or life counters.
 4. 
 
 A 14 x 14 grid map. This map begins obscured. The nature of this obscurity is detailed in your setting handbook. The HQ tile is placed at the map's center position. World map tiles are placed next to HQ as regions of the map are discovered. PCs must complete the following procedure in order to explore a world map tile:
