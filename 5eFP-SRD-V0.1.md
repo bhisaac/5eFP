@@ -750,8 +750,8 @@ Choose one of two approaches:
 
 ### Custom World Map
 - Dimensions: 14 squares by 14 squares
-- Contains: (48) 2x2 world map tiles, (1) 2x2 HQ tile
-- Draw a clear boundary around each world map tile
+- Contains: (12) 2x2 world map tiles for each cardinal direction, (1) 2x2 HQ tile
+- Draw clear boundaries around each world map tile (create a grid)
 - 1 square equals 1 inch by 1 inch or about 2.5 milimeters by 2.5 milimeters
 - Players should be able to place a poker chip within a world map tile without overlaping other chips or crossing over other world map tiles.
 
@@ -763,13 +763,13 @@ Your map needs to be detailed and simplistic. Try to keep illustrations simple, 
 > > >1. Use six sided dice as if they were action dice. Six sided dice are easy to buy at your local grocery store. Treat a die roll of 1 as one action (1 bolt) and a result of 6 as two actions (2 bolts). All other results are blank.
 > > >2. Use four different poker decks with unique card back artwork for each story cardinal direction. At least two varieties of poker decks are easy to buy at your local grocery store. Create an encounter table describing 52 story card encounters for each cardinal direciton. Each result has a corresponding poker symbol and value. Jokers are not shuffled into the decks.
 > > >3. Use 52 small coins or life counters in a bowl (all one color) to represent the wound deck. When PCs recieve 1 or more points of damage that cannot be prevented, they draw that many wounds from the coin/counter bowl and place them in a visible spot within their play area. All players should be able to glance at a player's play area and know how many wounds they have at all times. When PCs recieve 1 or more points of healing, they may return 1 wound back to the bowl of small coins or life counters.
-> > >4. Use a large coin to represent 5eFP Coin. Put a pool of 33 large coins into a bowl. When PCs gain a Coin, they draw a coin from the Coin bowl and place it in thier play area. When PCs spend 1 or more Coin, they return that many coins from their play area to the Coin bowl.
-> > >4. Create maps on foamboard.
+> > >4. Use a larger coin to represent 5eFP Coin. Put a pool of 15 larger coins into a bowl. When PCs gain a Coin, they draw a larger coin from the Coin bowl and place it in thier play area. Players should be able to see the number of Coin a player has at all times. When PCs spend 1 or more Coin, they return that many larger coins from their play area to the Coin bowl.
+> > >4. Create your maps on measured and cut foamboard. Try to use scrap parts to create other game props such as the HQ tile or 2x2 obscuring world map tiles.
 
-A 14 x 14 grid map. This map begins obscured. The nature of this obscurity is detailed in your setting handbook. The HQ tile is placed at the map's center position. World map tiles are placed next to HQ as regions of the map are discovered. PCs must complete the following procedure in order to explore a world map tile:
+The world map begins obscured. After tracing the world map, place obscuring world map tiles over it. The nature of this obscurity is detailed in your setting handbook. The HQ tile is the only tile that is not obscured at the begining of the game. The HQ tile is placed at the map's center position. Obscuring world map tiles are removed whenever the PCs explore the world map tile it obscures. The following procedure must be completed in order to explore a world map tile:
 
-1. **Preview.** Druids and rangers recieve a special bonus round before the selection step. Each druid and ranger PC, in turn, may choose one unexplored world map tile within the current level of play and preview it's terrain by temporarily removing the tile obscuring it. The player then returns the obscuring tile back to its original position when finished. Once all druids and rangers in the group have had a turn previewing unexplored world map tile terrains, gameplay resumes.
-2. **Select.** PCs collectively choose cardinal or ordinal directions and trace paths from the world map's center tile along the map until an unexplored world map tile is encountered within the current level of play. This becomes the selected world map tile.
+1. **Preview.** Druids and rangers recieve a special bonus round. Each druid and ranger PC, in turn, may choose one unexplored world map tile within the current level of play and preview it's terrain by temporarily removing its obscuring world map tile. Once finished, the player then returns the obscuring world map tile back to its original position.
+2. **Selection.** The PCs choose a cardinal or ordinal direction and trace a path from the HQ tile along the map until an obscured world map tile is encountered within the current level of play. This becomes the selected world map tile.
 3. **Prepare.** Players may choose to spend 1 round of preparation before deploying. See "Preparation."
 4. **Setup.** Place an empty (22 x 22) exploration map beside the world map. Roll a d20 twice. The first value represents the starting row. The second value represnets the starting column. Match the starting row and column to determine the starting position for the PCs.
 5. **Deploy.** The GM adds the starting map tile onto the exploration map at the starting position determined in the previous step, placing the party token onto it.
