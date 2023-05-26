@@ -738,9 +738,15 @@ Whenever you successfully upgrade a Magic feature (i.e., "Magic I", "Magic II", 
 
 ---
 
-(Floating Section)
+# The 5eFP Framework
+## The World Map
+The world map is central to 5eFP games. Prepare a blank 14 square by 14 square map.
 
-# World Map
+Aside: Running 5eFP on a budget? Use the following recipe.
+1. Use six sided dice instead of action dice. Treat a die roll of 1 as one action or bolt and a result of 6 as two actions or bolts.
+2. Use a four poker decks different card backs. 1 deck for each map direction. Consult the story card descriptions in "Story Cards." A poker symbol and value corresponds to each seleciton for ease of reference.
+3. Use small coins or life counters in a bowl (preferably a single color everyone shares; red is an excellent color to use). Make sure you have enough for levels 1 through 7. You will need about 52 coins or counters. PCs draw from the coin/counter bowl and place them in a visible spot within their play area. PCs should be able to glance at a player's play area and know how many wounds they have. PCs return wound coins/counters from thier play area to the bowl when they are healed.
+4. 
 
 A 14 x 14 grid map. This map begins obscured. The nature of this obscurity is detailed in your setting handbook. The HQ tile is placed at the map's center position. World map tiles are placed next to HQ as regions of the map are discovered. PCs must complete the following procedure in order to explore a world map tile:
 
