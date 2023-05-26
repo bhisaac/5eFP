@@ -750,7 +750,7 @@ Choose one of two approaches:
 
 ### Custom World Map
 - Dimensions: 14 squares by 14 squares
-- Contains: (48) 2x2 world map tiles and (1) HQ tile and
+- Contains: (48) 2x2 world map tiles and (1) 2x2 HQ tile and
 - Draw a clear boundary around each world map tile
 - 1 square equals 1 inch by 1 inch or about 2.5 milimeters by 2.5 milimeters
 - Players should be able to place a poker chip within a world map tile without overlaping other chips or crossing over other world map tiles.
