@@ -752,7 +752,7 @@ Choose one of two approaches:
 - Dimensions: 14 squares by 14 squares
 - Contains: (9) 2x2 world map tiles for each cardinal direction, (3) 2x2 world map tiles for each ordinal (hybrid) direciton, and (1) 2x2 HQ tile
 - Draw clear boundaries around each world map tile (create a grid). Hybrid tiles: draw a dashed diagonal line from one corner of a the world map tile to its opposite corner in a color that will stand out. This dashed line represents the highway. World map tiles containing a highway are considered hybrid. While exploring hybrid tiles, players draw and play story cards from both adjacent story directions at the same time. Roads are hybrid world map tiles. They contain equal portions of both adjacent story directions.
-- 1 square equals 1 inch by 1 inch or about 2.5 milimeters by 2.5 milimeters
+- 1 square equals 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters
 - Players should be able to place a poker chip within a world map tile without overlaping other chips or crossing over other world map tiles.
 
 Create your world map, making sure to leave one 2x2 world map square blank at the center of the map for the HQ tile.
