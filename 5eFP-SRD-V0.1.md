@@ -744,7 +744,17 @@ Whenever you successfully upgrade a Magic feature (i.e., "Magic I", "Magic II", 
 5eFP games follow the same general rules framework. Maps make up the majority of game props.
 
 ## The World Map
-Either use a world map provided through a boxed game or prepare a custom map with a width of 14 squares and a height of 14 squares. Graph paper makes a good backdrop for custom maps. The squares must be of a sufficient size to allow players to place tokens on them. One square on the world map typically measures 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters. Once the optimal size is determined, be consistent and use this size with all of your custom 5eFP maps.
+Choose one of two approaches:
+- Gather and use a world map provided through a boxed game or
+- Create a custom map
+
+### Custom World Map
+- Dimensions: 14 squares by 14 squares
+- Draw a clear boundary around each world map tile.
+- 1 square equals 1 inch or about 2.5 milimeters
+- Players should be able to place a poker chip on a world map tile without overlaping other chips or crossing over other world map tiles.
+
+Custom world maps measure 14 by 14 squares. Graph paper makes a good backdrop for custom maps. The squares must be of a sufficient size to allow players to place tokens on them. Create them big enough to easily place a poker chip in them. One square on the world map typically measures 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters. Once the optimal size is determined, be consistent and use this size with all of your custom 5eFP maps.
 
 Create your world map, making sure to leave one square blank at the center of the map. The map can be as detailed or simplistic as needed. Players should be able to see at a glance the terrain and features of the entire map. Keeping it simple: use a color to represent terrain.
 
