@@ -759,7 +759,7 @@ Create your world map, making sure to leave one 2x2 world map square blank at th
 
 Your map can be as detailed or simplistic as needed. Try to keep illustrations simple, consistent, and easily repeatable. Everyone should be able to see them and recognize what they are at a glance.
 
-> > > Aside: Running 5eFP on a budget? Use the following recipe:
+> >Running 5eFP on a budget? Use the following recipe:
 > > >1. Use six sided dice as if they were action dice. Six sided dice are easy to buy at your local grocery store. Treat a die roll of 1 as one action (1 bolt) and a result of 6 as two actions (2 bolts). All other results are blank.
 > > >2. Use four different poker decks with unique card back artwork for each story cardinal direction. At least two varieties of poker decks are easy to buy at your local grocery store. Create an encounter table describing 52 story card encounters for each cardinal direciton. Each result has a corresponding poker symbol and value. Jokers are not shuffled into the decks.
 > > >3. Use 52 small coins or life counters in a bowl (all one color) to represent the wound deck. When PCs recieve 1 or more points of damage that cannot be prevented, they draw that many wounds from the coin/counter bowl and place them in a visible spot within their play area. All players should be able to glance at a player's play area and know how many wounds they have at all times. When PCs recieve 1 or more points of healing, they may return 1 wound back to the bowl of small coins or life counters.
