@@ -741,19 +741,19 @@ Whenever you successfully upgrade a Magic feature (i.e., "Magic I", "Magic II", 
 (Floating Section)
 
 # The 5eFP Framework
-5eFP games follow the same general rules framework. Maps make up the majority of game props.
+5eFP games follow the same rules framework.
 
 ## The World Map
 Choose one of two approaches:
-- Gather and use a world map provided through a boxed game or
-- Create a custom map
+1. Gather and use a world map provided through a boxed game or
+2. Create a custom map
 
 ### Custom World Map
-- Dimensions: 14 squares by 14 squares
+- Map size: 14 squares by 14 squares
+- 1 square equals 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters
+- Players should be able to place a token the size of a poker chip within a world map tile without overlaping other chips or crossing over other world map tiles.
 - Contains: (9) 2x2 world map tiles for each cardinal direction, (3) 2x2 world map tiles for each ordinal (hybrid) direciton, and (1) 2x2 HQ tile
 - Draw clear boundaries around each world map tile (create a grid). Hybrid tiles: draw a dashed diagonal line from one corner of a the world map tile to its opposite corner in a color that will stand out. This dashed line represents the highway. World map tiles containing a highway are considered hybrid. While exploring hybrid tiles, players draw and play story cards from both adjacent story directions at the same time. Roads are hybrid world map tiles. They contain equal portions of both adjacent story directions.
-- 1 square equals 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters
-- Players should be able to place a poker chip within a world map tile without overlaping other chips or crossing over other world map tiles.
 
 Create your world map, making sure to leave one 2x2 world map square blank at the center of the map for the HQ tile.
 
