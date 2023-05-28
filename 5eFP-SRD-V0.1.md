@@ -879,9 +879,9 @@ If	either	weapon	has	the	thrown	property,	you	can	throw	the	weapon,	instead	of	m
 # Creating a Monster
 Consult the Monster Stats by Level table below and find your current level of play. The resulting stats gives you an idea of the capabilities of the creature.
 
-## Monster Stats by Level:
-| Level | Armor Class (AC) / Save DC | MAX Wounds: Elite (caster) | MAX Wounds: Elite (non-caster) | MAX Wounds Boss | Attack | Damage/Round (DPR) |
-| -- | -- | -- | -- | --|
+**Monster Stats by Level:**
+| Level | Armor Class, Save DC | MAX Wounds: Elite (caster) | ... Elite (non-caster) | ... Boss | Attack | Damage/Round (DPR) |
+| ----- | -------------------- | -------------------------- | ---------------------- | ---------| ------ | ------------------ |
 | 1 | 13 | 3 | 4 | 5 | +4 | 1 |
 | 2 | 15 | 4 | 5 | 6 | +6 | 2 |
 | 3 | 16 | 5 | 6 | 7 | +7 | 3 |
