@@ -896,22 +896,20 @@ Tracy wants to create a level 2 minion. First she creates a description.
 
 Tracy then creates a generic stat block:
 
+**Proximity Orb (minion)**
+*Small elemental, neutral*
+- **Armor Class** 15
+- **MAX Wounds** 1
+- **Speed** 8 squares
 ___
-> ## Proximity Orb (minion)
-> *Small elemental, neutral*
-> ___
-> - **Armor Class** 15
-> - **MAX Wounds** 1
-> - **Speed** 8 squares
-> ___
-> |STR|DEX|CON|INT|WIS|CHA|
-> |:---:|:---:|:---:|:---:|:---:|:---:|
-> |+0|+2|+1|+1|+2|-1|
-> ___
-> - **Senses** passive Perception 12
-> - **Languages** Understands primordial, cannot speak
-> - **Challenge** level 2
-> ___
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|+0|+2|+1|+1|+2|-1|
+___
+- **Senses** passive Perception 12
+- **Languages** Understands primordial, cannot speak
+- **Challenge** level 2
+___
 
 ---
 
