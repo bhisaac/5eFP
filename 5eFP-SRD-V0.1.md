@@ -881,7 +881,7 @@ Consult the Monster Stats by Level table below and find your current level of pl
 
 **Monster Stats by Level:**
 | Level | Armor Class (AC) | Save DC | Health Elite (caster) | Health Elite (other) | Health Boss | Attack | Damage / Round (DPR) |
-| ----- | ---------------- | ------- | --------------------- | -------------------- | ----------- | ------ | -------------------- |
+| :---: | :--------------: | :-----: | :-------------------: | :------------------: | :---------: | :----: | :------------------: |
 | 1 | 13 | 13 | 3 | 4 | 5 | +4 | 1 |
 | 2 | 15 | 15 | 4 | 5 | 6 | +6 | 2 |
 | 3 | 16 | 16 | 5 | 6 | 7 | +7 | 3 |
