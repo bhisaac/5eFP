@@ -902,14 +902,14 @@ ___
 > ___
 > - **Armor Class** 15
 > - **MAX Wounds** 1
-> - **Speed** 8
+> - **Speed** 8 squares
 > ___
 > |STR|DEX|CON|INT|WIS|CHA|
 > |:---:|:---:|:---:|:---:|:---:|:---:|
 > |+0|+2|+1|+1|+2|-1|
 > ___
 > - **Senses** passive Perception 12
-> - **Languages** Understands deep speech, but cannot speak
+> - **Languages** Understands primordial, cannot speak
 > - **Challenge** level 2
 > ___
 
