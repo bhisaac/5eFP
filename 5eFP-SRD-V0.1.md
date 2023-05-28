@@ -875,6 +875,24 @@ If	either	weapon	has	the	thrown	property,	you	can	throw	the	weapon,	instead	of	m
 
 ---
 
+(floating section)
+# Creating a Monster
+Consult the Monster Stats by Level table below and find your current level of play. The resulting stats gives you an idea of the capabilities of the creature.
+
+## Monster Stats by Level:
+| Level | Armor Class (AC) / Save DC | MAX Wounds: Elite (caster) | MAX Wounds: Elite (non-caster) | MAX Wounds Boss | Attack | Damage/Round (DPR) |
+| -- | -- | -- | -- | --|
+| 1 | 13 | 3 | 4 | 5 | +4 | 1 |
+| 2 | 15 | 4 | 5 | 6 | +6 | 2 |
+| 3 | 16 | 5 | 6 | 7 | +7 | 3 |
+| 4 | 17 | 6 | 7 | 8 | +8 | 4 |
+| 5 | 18 | 7 | 8 | 9 | +8 | 5 |
+| 6 | 19 | 8 | 9 | 10 | +10 | 6 |
+| 7 | 20 | 9 | 10 | 11 | +10 | 7 |
+
+
+---
+
 # 5eFP SRD \[playtest]
 
 Welcome to the fifth edition focus practice (5eFP), a new tabletop roleplaying game (TRPG) experience combining fun and immersive gameplay with deepening levels of self-exploration.
