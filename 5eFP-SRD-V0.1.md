@@ -890,6 +890,28 @@ Consult the Monster Stats by Level table below and find your current level of pl
 | 6 | 19 | 19 | 8 | 9 | 10 | +10 | 6 |
 | 7 | 20 | 20 | 9 | 10 | 11 | +10 | 7 |
 
+Tracy wants to create a level 2 minion. First she creates a description.
+
+> Levitating elemental orb that shocks any creature that gets too close.
+
+Tracy then creates a generic stat block:
+
+___
+> ## Proximity Orb (minion)
+> *Small elemental, neutral*
+> ___
+> - **Armor Class** 15
+> - **MAX Wounds** 1
+> - **Speed** 8
+> ___
+> |STR|DEX|CON|INT|WIS|CHA|
+> |:---:|:---:|:---:|:---:|:---:|:---:|
+> |+0|+2|+1|+1|+2|-1|
+> ___
+> - **Senses** passive Perception 12
+> - **Languages** Understands deep speech, but cannot speak
+> - **Challenge** level 2
+> ___
 
 ---
 
