@@ -896,23 +896,23 @@ Tracy wants to create a level 2 minion. First she creates a description.
 
 Tracy then creates a generic stat block:
 
-#### Proximity Orb (minion)
-*Small elemental, neutral*
-- **Armor Class** 15
-- **MAX Wounds** 1
-- **Speed** 8
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|+0|+2|+1|+1|+2|-1|
-
-- **Senses** passive Perception 12
-- **Languages** Understands primordial, cannot speak
-- **Challenge** level 2
-
-**Actions**
-
-**Jolt.** Melee Spell Attack: +5 to hit, reach 1, one target. Hit: 2 lightning damage.
+>#### Proximity Orb (minion)
+>*Small elemental, neutral*
+>- **Armor Class** 15
+>- **MAX Wounds** 1
+>- **Speed** 8
+>
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|+0|+2|+1|+1|+2|-1|
+>
+>- **Senses** passive Perception 12
+>- **Languages** Understands primordial, cannot speak
+>- **Challenge** level 2
+>
+>**Actions**
+>
+>**Jolt.** Melee Spell Attack: +5 to hit, reach 1, one target. Hit: 2 lightning damage.
 
 ---
 
