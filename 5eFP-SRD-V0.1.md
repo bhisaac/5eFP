@@ -901,9 +901,11 @@ Tracy then creates a generic stat block:
 - **Armor Class** 15
 - **MAX Wounds** 1
 - **Speed** 8 squares
+
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |+0|+2|+1|+1|+2|-1|
+
 - **Senses** passive Perception 12
 - **Languages** Understands primordial, cannot speak
 - **Challenge** level 2
