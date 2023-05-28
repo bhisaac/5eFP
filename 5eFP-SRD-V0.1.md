@@ -880,8 +880,8 @@ If	either	weapon	has	the	thrown	property,	you	can	throw	the	weapon,	instead	of	m
 Consult the Monster Stats by Level table below and find your current level of play. The resulting stats gives you an idea of the capabilities of the creature.
 
 **Monster Stats by Level:**
-| Level | Armor Class | Save DC | Health Elite (caster) | Elite (other) | Boss | Attack | Damage / Round (DPR) |
-| ----- | ----------- | ------- | --------------------- | ------------- | ---- | ------ | -------------------- |
+| Level | Armor Class (AC) | Save DC | Health Elite (caster) | Health Elite (other) | Health Boss | Attack | Damage / Round (DPR) |
+| ----- | ---------------- | ------- | --------------------- | -------------------- | ----------- | ------ | -------------------- |
 | 1 | 13 | 13 | 3 | 4 | 5 | +4 | 1 |
 | 2 | 15 | 15 | 4 | 5 | 6 | +6 | 2 |
 | 3 | 16 | 16 | 5 | 6 | 7 | +7 | 3 |
