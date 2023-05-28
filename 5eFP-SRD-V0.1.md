@@ -896,8 +896,7 @@ Tracy wants to create a level 2 minion. First she creates a description.
 
 Tracy then creates a generic stat block:
 
-**Proximity Orb (minion)**
-
+#### Proximity Orb (minion)
 *Small elemental, neutral*
 - **Armor Class** 15
 - **MAX Wounds** 1
