@@ -900,7 +900,7 @@ Tracy then creates a generic stat block:
 *Small elemental, neutral*
 - **Armor Class** 15
 - **MAX Wounds** 1
-- **Speed** 8 squares
+- **Speed** 8
 
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -909,6 +909,10 @@ Tracy then creates a generic stat block:
 - **Senses** passive Perception 12
 - **Languages** Understands primordial, cannot speak
 - **Challenge** level 2
+
+**Actions**
+
+**Jolt.** Melee Spell Attack: +5 to hit, reach 1, one target. Hit: 2 lightning damage.
 
 ---
 
