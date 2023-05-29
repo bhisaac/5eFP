@@ -880,32 +880,43 @@ If	either	weapon	has	the	thrown	property,	you	can	throw	the	weapon,	instead	of	m
 Consult the Monster Stats by Level table below and find your current level of play. The resulting stats gives you an idea of the capabilities of the creature.
 
 **Monster Stats by Level:**
-| **Level** | Armor Class (AC) | Save DC | Health Elite (caster) | Health Elite (other) | Health Boss | Attack | Damage / Round (DPR) |
+| Level | Armor Class (AC) | Save DC | Health Elite (caster) | Health Elite (other) | Health Boss | Attack | Damage / Round (DPR) |
 | :---: | :--------------: | :-----: | :-------------------: | :------------------: | :---------: | :----: | :------------------: |
-| **1** | 13 | 13 | 3 | 4 | 5 | +4 | 1 |
-| **2** | 15 | 15 | 4 | 5 | 6 | +6 | 2 |
-| **3** | 16 | 16 | 5 | 6 | 7 | +7 | 3 |
-| **4** | 17 | 17 | 6 | 7 | 8 | +8 | 4 |
-| **5** | 18 | 18 | 7 | 8 | 9 | +8 | 5 |
-| **6** | 19 | 19 | 8 | 9 | 10 | +10 | 6 |
-| **7** | 20 | 20 | 9 | 10 | 11 | +10 | 7 |
+| 1 | 13 | 13 | 3 | 4 | 5 | +4 | 1 |
+| 2 | 15 | 15 | 4 | 5 | 6 | +6 | 2 |
+| 3 | 16 | 16 | 5 | 6 | 7 | +7 | 3 |
+| 4 | 17 | 17 | 6 | 7 | 8 | +8 | 4 |
+| 5 | 18 | 18 | 7 | 8 | 9 | +8 | 5 |
+| 6 | 19 | 19 | 8 | 9 | 10 | +10 | 6 |
+| 7 | 20 | 20 | 9 | 10 | 11 | +10 | 7 |
 
 Tracy wants to create a level 2 minion. First she creates a description.
 
-> Levitating elemental orb that shocks any creature that gets too close.
+> Fast, levitating air elemental orb that shocks creatures who get too close.
 
 Tracy then creates a generic stat block:
 
 >#### Proximity Orb (minion)
 >*Small elemental, neutral*
 >- **Armor Class** 15
+
+Level 2 creates have an AC of 15.
+
 >- **MAX Wounds** 1
->- **Speed** 8
+
+Minions can only take 1 wound.
+
+>- **Speed** 6
+
+Small creatures normally have a base speed of 5. Since the orb levitates and doesn't have traditional locomotion, Tracy changes it to the more standard 6 squares.
+
 >
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|+0|+2|+1|+1|+2|-1|
->
+
+Tracy selects and assigns stats from the standard array \[-1,+0,+1,+1,+2,+2] to the proximity orb's ability scores. The orb isn't paticularly strong, but it is nimble and has fast reflexes. The orb also has higher than average INT and CON, and it has advanaced WIS. The orb doesn't have much need for a strong sense of self and, thus, has lower CHA.
+
 >- **Senses** passive Perception 12
 >- **Languages** Understands primordial, cannot speak
 >- **Challenge** level 2
@@ -913,6 +924,8 @@ Tracy then creates a generic stat block:
 >**Actions**
 >
 >**Jolt.** Melee Spell Attack: +5 to hit, reach 1, one target. Hit: 2 lightning damage.
+
+Level 2 creatures have an attack bonus of +5 and deal 2 points of damage. Tracy could have decided to add *multiattack* and had two attacks at +5 that dealt 1 point of lightning damage each. As long as the creature does not deal more damage than it's level would indicate, you can spread it around into any number of attacks.
 
 ---
 
