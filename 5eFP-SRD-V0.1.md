@@ -900,7 +900,7 @@ Tracy then creates a generic stat block:
 >*Small elemental, neutral*
 >- **Armor Class** 15
 
-Level 2 creates have an AC of 15.
+Level 2 creatures have an AC of 15.
 
 >- **MAX Wounds** 1
 
@@ -926,6 +926,20 @@ Tracy selects and assigns stats from the standard array \[-1,+0,+1,+1,+2,+2] to 
 >**Jolt.** Melee Spell Attack: +5 to hit, reach 1, one target. Hit: 2 lightning damage.
 
 Level 2 creatures have an attack bonus of +5 and deal 2 points of damage. Tracy could have decided to add *multiattack* and had two attacks at +5 that dealt 1 point of lightning damage each. As long as the creature does not deal more damage than it's level would indicate, you can spread it around into any number of attacks.
+
+## Creating a Trap
+Use the same table to determine the details of a trap. Treat the trap as if it were creating a creature.
+
+### Level 3 Arrow Trap
+- **Trigger.** Trap area.
+- **Duration.** Instantaneous.
+- **DEX Save DC.** 16
+- **Save for Half.** Yes
+- **Damage.** 3 piercing or 1 piercing (save)
+
+
+## Creating Social Encounters
+
 
 ---
 
