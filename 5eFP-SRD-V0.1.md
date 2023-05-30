@@ -876,7 +876,27 @@ If	either	weapon	has	the	thrown	property,	you	can	throw	the	weapon,	instead	of	m
 ---
 
 (floating section)
-# Creating a Monster
+# Creating Combat Encounters
+Building and running encounters requires no preparation or complicated formulas. All traps, creatures, and story-situations are considered encounters. Follow the following procedure to create an encounter:
+
+**GM TIP:** Combat encounters may resolve with or without combat. Resourceful PCs often find cleavers ways of bypassing combat. This is not cheating; it's cool. Whenever this happens, hand out Coin rewards as if the PCs had defeated the encounter using combat.
+
+1. **Level:** Determine the current level of play.
+2. If the encounter is a creature (or creatures):
+  - **Minions**
+    - **MAX Wounds:** 1
+    - **Bonus:** 2 + LEVEL
+    - **DC:** 12 + LEVEL
+  - **Elites**
+    - **MAX Wounds:** 2 + LEVEL (mage) / 3 + LEVEL (non-mage)
+    - **Bonus:** 4 + LEVEL
+    - **DC:** 12 + LEVEL
+  - **Boss**
+    - **MAX Wounds:** 4 + LEVEL
+    - **Bonus:** 4 + LEVEL
+    - **DC:** 14 + LEVEL
+
+
 Consult the Monster Stats by Level table below and find your current level of play. The resulting stats gives you an idea of the capabilities of the creature.
 
 **Monster Stats by Level:**
