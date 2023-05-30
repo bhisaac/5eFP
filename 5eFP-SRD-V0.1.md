@@ -887,14 +887,17 @@ Building and running encounters requires no preparation or complicated formulas.
     - **MAX Wounds:** 1
     - **Bonus:** 2 + LEVEL
     - **DC:** 12 + LEVEL
+    - **Damage:** 1
   - **Elites**
     - **MAX Wounds:** 2 + LEVEL (mage) / 3 + LEVEL (non-mage)
     - **Bonus:** 4 + LEVEL
     - **DC:** 12 + LEVEL
+    - **Damage:** LEVEL
   - **Boss**
     - **MAX Wounds:** 4 + LEVEL
     - **Bonus:** 4 + LEVEL
     - **DC:** 14 + LEVEL
+    - **Damage:** LEVEL
 
 
 Consult the Monster Stats by Level table below and find your current level of play. The resulting stats gives you an idea of the capabilities of the creature.
