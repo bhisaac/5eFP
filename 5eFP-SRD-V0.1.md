@@ -879,9 +879,19 @@ If	either	weapon	has	the	thrown	property,	you	can	throw	the	weapon,	instead	of	m
 # Creating Encounters
 Building and running encounters requires no preparation or complicated formulas. All traps, creatures, and story-situations are considered encounters and they all follow the same rules.
 
-**GM TIP:** Don't worry if encounters with creatures are resolved without combat. Resourceful PCs find cleavers ways of bypassing combat. Whenever this happens, award Coin as if the PCs had defeated the encounter using combat.
+**GM TIP:** Resourceful PCs find cleave ways of bypassing combat. Whenever this happens, award Coin as if the PCs had defeated the encounter using combat.
 
-Encounter statistics are determined by the current level of play (LEVEL).
+**LEVEL.** Encounter statistics are determined by the current level of play (LEVEL).
+
+**Damage.** If an encounter includes a creature, trap, or environmental condition that deals damage, then it deals no more than the listed value per round.
+
+**Armor Class (AC).** This value represents how difficult it is to attack a creature, adversary, or obstacle within the encounter.
+
+**Difficulty Class (DC).** Use this value as the target number needed for a PC action to succeed during the encounter.
+
+**MAX Wounds.** The total number of wounds the encounter can sustain. Creatures are knocked unconscious and must start making death saves. A minion’s MAX wounds is always 1. If you want to increase a minion’s MAX wounds, promote it to an elite or boss.
+
+**Attack Bonus.** The modifier you add to all d20 attack rolls used during the encounter.
 
 ## Generic Encounter Stats
 - **Damage:** LEVEL
@@ -894,12 +904,8 @@ Encounter statistics are determined by the current level of play (LEVEL).
 
 Minions don't need to be limited to creatures. Minion story-elements also arise. These are parts of the story that persist until the PCs intervene in some way. Intervention is defined as a successful PC action that directly affects the story. Becuase it is a minion story element, it only needs 1 success to resolve.
 
-### Elite Mage Stats
-- **MAX Wounds:** 2 + LEVEL
-- **Attack Bonus:** 4 + LEVEL
-
 ### Elite Stats
-- **MAX Wounds:** 3 + LEVEL
+- **MAX Wounds:** 2 + LEVEL
 - **Attack Bonus:** 4 + LEVEL
 
 Elites can represent persistant story-elements requiring a number of PC actions over time to resolve. Elite mage story-elements are intense situations which dissipate qucikly once addressed. They resolve after 2 successful PC actions change it in some way. Regular elite story elements need 3 successful PC actions to resolve.
