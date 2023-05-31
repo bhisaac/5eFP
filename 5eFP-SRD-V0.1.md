@@ -876,20 +876,20 @@ If	either	weapon	has	the	thrown	property,	you	can	throw	the	weapon,	instead	of	m
 ---
 
 (floating section)
-# Creating Encounters
-Building and running encounters requires no preparation or complicated formulas. All traps, creatures, and story-situations are considered encounters and they all follow the same rules.
+# Encounters
+5eFP uses encounters to describe anything PCs encounter while on a map. Traps, creatures, and story-situations are all considered encounters. All encounters use the same rules.
 
-**GM TIP:** Resourceful PCs find cleave ways of bypassing combat. Whenever this happens, award Coin as if the PCs had defeated the encounter using combat.
+**GM TIP:** Resourceful PCs find cleaver ways of bypassing combat. Whenever this happens, award Coin as if the PCs had defeated the encounter using combat without completing bonus combat objectives.
 
 **LEVEL.** Encounter statistics are determined by the current level of play (LEVEL).
 
-**Damage.** If an encounter includes a creature, trap, or environmental condition that deals damage, then it deals no more than the listed value per round.
+**Damage.** If an encounter includes a creature, a trap, or an environmental condition that deals damage, then it deals no more than the listed value per round.
 
 **Armor Class (AC).** This value represents how difficult it is to attack a creature, adversary, or obstacle within the encounter.
 
 **Difficulty Class (DC).** Use this value as the target number needed for a PC action to succeed during the encounter.
 
-**MAX Wounds.** The total number of wounds the encounter can sustain. Creatures are knocked unconscious and must start making death saves. A minion’s MAX wounds is always 1. If you want to increase a minion’s MAX wounds, promote it to an elite or boss.
+**MAX Wounds.** The total number of wounds the encounter can sustain. Creatures are knocked unconscious and must start making death saves when they reach their MAX wounds. A minion always has a MAX wounds of 1. If you want to increase a minion’s MAX wounds, promote it to an elite or boss.
 
 **Attack Bonus.** The modifier you add to all d20 attack rolls used during the encounter.
 
@@ -916,37 +916,22 @@ Elites can represent persistant story-elements requiring a number of PC actions 
 
 A boss represents a harrowing situation as a story element, requiring coordinated efforts and usually several successful PC actions to overcome. A boss story-element requires 5 successful PC actions to resolve.
 
-### Minion
-- **MAX Wounds:** 1
-- **Bonus:** 2 + LEVEL
-- **DC:** 12 + LEVEL
-- **Damage:** 1
+## Creating a Creature
+Use the generic encounter stats to begin creating a creature.
 
+~~for a basic framework. Then add on additional attacks, resistances, immunities, and special qualities. Set the DC of each feature to the encounter's generic DC value. Adjust the creatures~~
 
-- **Elites**
-    - **MAX Wounds:** 2 + LEVEL (mage) / 3 + LEVEL (non-mage)
-    - **Bonus:** 4 + LEVEL
-    - **DC:** 12 + LEVEL
-    - **Damage:** LEVEL
-  - **Boss**
-    - **MAX Wounds:** 4 + LEVEL
-    - **Bonus:** 4 + LEVEL
-    - **DC:** 14 + LEVEL
-    - **Damage:** LEVEL
+### Choose a Creature Type
+The creature's type can add attacks, resistances, immunities, and special qualities. Choose from the types provided below. A type's features are included in the descriptions.
 
+A monster’s type speaks to its fundamental nature. Certain spells, magic items, class features, and other effects in the game interact in special ways with creatures of a particular type. For example, an *arrow of dragon slaying* deals extra damage not only to dragons but also other creatures of the dragon type, such as dragon turtles and wyverns.
 
-Consult the Monster Stats by Level table below and find your current level of play. The resulting stats gives you an idea of the capabilities of the creature.
+The game includes the following monster types, which have no rules of their own.
 
-**Monster Stats by Level:**
-| Level | Armor Class (AC) | Save DC | Health Elite (caster) | Health Elite (other) | Health Boss | Attack | Damage / Round (DPR) |
-| :---: | :--------------: | :-----: | :-------------------: | :------------------: | :---------: | :----: | :------------------: |
-| 1 | 13 | 13 | 3 | 4 | 5 | +4 | 1 |
-| 2 | 15 | 15 | 4 | 5 | 6 | +6 | 2 |
-| 3 | 16 | 16 | 5 | 6 | 7 | +7 | 3 |
-| 4 | 17 | 17 | 6 | 7 | 8 | +8 | 4 |
-| 5 | 18 | 18 | 7 | 8 | 9 | +8 | 5 |
-| 6 | 19 | 19 | 8 | 9 | 10 | +10 | 6 |
-| 7 | 20 | 20 | 9 | 10 | 11 | +10 | 7 |
+**Aberrations** are utterly alien beings. Many of them have innate magical abilities drawn from the creature’s alien mind rather than the mystical forces of the world. The quintessential aberrations are aboleths, beholders, mind flayers, and slaadi.
+
+**Beasts** are nonhumanoid creatures that are a natural part of the fantasy ecology. Some of them have magical powers, but most are unintelligent and lack any society or language. Beasts include all varieties of ordinary animals, dinosaurs, and giant versions of animals.
+
 
 Tracy wants to create a level 2 minion. First she creates a description.
 
