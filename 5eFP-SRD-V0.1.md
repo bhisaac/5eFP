@@ -956,6 +956,9 @@ mages sometimes summon fiends to the material world to do their bidding. If an e
 **Plants** in this context are vegetable creatures, not ordinary flora. Most of them are ambulatory, and some are carnivorous. The quintessential plants are the shambling mound and the treant. Fungal creatures such as the gas spore and the myconid also fall into this category.
 
 **Undead** are once-living creatures brought to a horrifying state of undeath through the practice of necromantic magic or some unholy curse. Undead include walking corpses, such as vampires and zombies, as well as bodiless spirits, such as ghosts and specters.
+- **Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks that aren’t silvered
+- **Damage Immunities** necrotic, poison
+- **Condition Immunities** charmed, exhaustion, paralyzed, poisoned
 
 
 
