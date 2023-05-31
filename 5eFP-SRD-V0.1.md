@@ -902,14 +902,13 @@ Minions don't need to be limited to creatures. Minion story-elements also arise.
 - **MAX Wounds:** 3 + LEVEL
 - **Attack Bonus:** 4 + LEVEL
 
-Elites can represent persistant story elements requiring a number of PC actions over time to resolve. Elite mages represent intense story situations which dissipate qucikly once addressed. They resolve after 2 successful PC actions change it in some way. Regular elite story elements need 3 successful PC actions to resolve.
+Elites can represent persistant story-elements requiring a number of PC actions over time to resolve. Elite mage story-elements are intense situations which dissipate qucikly once addressed. They resolve after 2 successful PC actions change it in some way. Regular elite story elements need 3 successful PC actions to resolve.
 
 ### Boss Stats
 - **MAX Wounds:** 4 + LEVEL
 - **Attack Bonus:** 4 + LEVEL
 
-A boss represents a tough situation as a story element, requiring coordinated efforts and usually several successful PC actions to overcome. A boss story-element requires 5 successful PC actions to resolve.
-
+A boss represents a harrowing situation as a story element, requiring coordinated efforts and usually several successful PC actions to overcome. A boss story-element requires 5 successful PC actions to resolve.
 
 ### Minion
 - **MAX Wounds:** 1
