@@ -921,12 +921,12 @@ Choose minion, elite, or boss and use the corresponding generic encounter stats 
 
 ~~for a basic framework. Then add on additional attacks, resistances, immunities, and special qualities. Set the DC of each feature to the encounter's generic DC value. Adjust the creatures~~
 
-### Choose a Creature Type
-The creature's type can add attacks, resistances, immunities, and special qualities. Choose from the types provided below. A type's features are included in the descriptions.
+### Creature Type
+~~The creature's type can add attacks, resistances, immunities, and special qualities. Choose from the types provided below. A type's features are included in the descriptions.~~
 
 A monster’s type speaks to its fundamental nature. Certain spells, magic items, class features, and other effects in the game interact in special ways with creatures of a particular type. For example, an *arrow of dragon slaying* deals extra damage not only to dragons but also other creatures of the dragon type, such as dragon turtles and wyverns.
 
-The game includes the following monster types ~~, which have no rules of their own~~.
+The game includes the following monster types, which have no rules of their own.
 
 **Aberrations** are utterly alien beings. Many of them have innate magical abilities drawn from the creature’s alien mind rather than the mystical forces of the world. The quintessential aberrations are aboleths, beholders, mind flayers, and slaadi.
 
