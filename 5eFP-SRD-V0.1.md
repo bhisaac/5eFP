@@ -970,9 +970,9 @@ Zombies share the following statistics.
 
 **Undead Fortitude.** If the zombie reaches MAX wounds, it must make a CON saving throw with a DC of 11 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie recieves 1 point of healing.
 
-|### Minion|Elite|Boss|
+|Minion|Elite|Boss|
 |:----:|:---:|:--:|
-|test|test|test|
+|#### *Medium Undead, neutral evil*|test|test|
 
 ### Zombie Minion
 #### *Medium undead, neutral evil* 
