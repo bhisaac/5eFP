@@ -965,7 +965,8 @@ mages sometimes summon fiends to the material world to do their bidding. If an e
 # Monsters (Z)
 ## Zombies
 ### Zombie
-#### *Medium undead, neutral evil*
+#### *Medium undead, neutral evil* 
+- **Speed** 4
 |STR|DEX|CON|INT|WIS|CHA|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |+1|-2|+3|-4|-2|-3|
@@ -979,6 +980,23 @@ mages sometimes summon fiends to the material world to do their bidding. If an e
 
 #### Actions
 **Slam.** Melee Weapon Attack, reach 1, one target. Bludgeoning damage.
+
+### Ogre Zombie
+#### *Large undead, neutral evil*
+- **Speed** 5
+|STR|DEX|CON|INT|WIS|CHA|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|+4|-2|+4|-4|-2|-3|
+- **Saving Throws** WIS 2 + LEVEL
+- **Damage Immunities** poison
+- **Condition Immunities** poisoned
+- **Senses** darkvision 12 squares, passive Perception 8
+- **Languages** understands Common and Giant but can’t speak
+
+**Undead Fortitude.** If the zombie reaches MAX wounds, it must make a CON saving throw with a DC of 11 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie recieves 1 point of healing.
+
+#### Actions
+**Morningstar.** Melee Weapon Attack, reach 1, one target. Bludgeoning damage.
 
 ---
 
