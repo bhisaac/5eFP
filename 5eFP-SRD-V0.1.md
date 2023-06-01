@@ -959,7 +959,6 @@ mages sometimes summon fiends to the material world to do their bidding. If an e
 - **Damage Immunities** poison
 - **Condition Immunities** poisoned
 - **Senses** darkvision 12 squares
-- **Languages** the languages it knew in life (if any)
 
 ---
 
@@ -970,9 +969,10 @@ mages sometimes summon fiends to the material world to do their bidding. If an e
 |STR|DEX|CON|INT|WIS|CHA|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |+1|-2|+3|-4|-2|-3|
-- STR +1 DEX -2 CON +3 INT -4 WIS -2 CHA -3
-- **Saving Throws** Wis +0
-- **Senses** passive Perception 8
+- **Saving Throws** WIS 2 + LEVEL
+- **Damage Immunities** poison
+- **Condition Immunities** poisoned
+- **Senses** darkvision 12 squares, passive Perception 8
 
 ---
 
