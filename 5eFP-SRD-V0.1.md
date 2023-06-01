@@ -961,17 +961,25 @@ mages sometimes summon fiends to the material world to do their bidding. If an e
 
 # Monsters (Z)
 ## Zombies
-### Zombie
-#### *Medium undead, neutral evil* 
-- **Armor Class** 12 + LEVEL
-- **MAX Wounds** Minion: 1, Elite: 2 + LEVEL, Boss: 4 + LEVEL
-- **Speed** 4
-- **STR** +1 **DEX** -2 **CON** +3 **INT** -4 **WIS** -2 **CHA** -3 
+Zombies share the following statistics.
 - **Saving Throws** WIS 2 + LEVEL
 - **Damage Immunities** poison
 - **Condition Immunities** poisoned
 - **Senses** darkvision 12 squares, passive Perception 8
 - **Languages** understands the languages it knew in life but can’t speak
+
+**Undead Fortitude.** If the zombie reaches MAX wounds, it must make a CON saving throw with a DC of 11 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie recieves 1 point of healing.
+
+|### Minion|Elite|Boss|
+|:----:|:---:|:--:|
+|test|test|test|
+
+### Zombie Minion
+#### *Medium undead, neutral evil* 
+- **Armor Class** 12 + LEVEL
+- **MAX Wounds** 1
+- **Speed** 4
+- **STR** +1 **DEX** -2 **CON** +3 **INT** -4 **WIS** -2 **CHA** -3 
 
 **Undead Fortitude.** If the zombie reaches MAX wounds, it must make a CON saving throw with a DC of 11 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie recieves 1 point of healing.
 
