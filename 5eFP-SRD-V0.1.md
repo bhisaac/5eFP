@@ -984,6 +984,20 @@ Zombies share the following statistics.
 #### ACTIONS
 **Slam.** *Melee Weapon Attack:* +(LEVEL + 2) to hit, reach 1, one target. *Hit:* 1 bludgeoning damage.
 
+### Ogre Zombie Elite
+*Large Undead, neutral evil*
+
+**Armor Class** LEVEL + 12
+
+**MAX Wounds** LEVEL + 2
+
+**Speed** 5
+
+**Ability Scores** **STR**+4 **DEX**-2 **CON**+4 **INT**-4 **WIS**-2 **CHA**-3
+
+#### ACTIONS
+**Morningstar.** *Melee Weapon Attack:* +(LEVEL + 4) to hit, reach 1, one target. *Hit:* LEVEL bludgeoning damage.
+
 
 ||*neutral evil*|*neutral evil*|*neutral evil*|
 |**AC**|LEVEL + 12|LEVEL + 12|LEVEL + 14 (*natural*, *armor*)|
@@ -1009,9 +1023,9 @@ Zombies share the following statistics.
 **Undead Fortitude.** If the zombie reaches MAX wounds, it must make a CON saving throw with a DC of 11 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie recieves 1 point of healing.
 
 #### Actions
-**Slam.** *Melee Weapon Attack:* +(4 + LEVEL) to hit, reach 1, one target. *Hit:* LEVEL bludgeoning damage.
+**Slam.** *Melee Weapon Attack:* +(4 + LEVEL) to hit, reach 1, one target. *Hit:* (LEVEL) bludgeoning damage.
 
-### Ogre Zombie
+### Ogre Zombie Elite
 #### *Large undead, neutral evil*
 - **Speed** 5
 |STR|DEX|CON|INT|WIS|CHA|
