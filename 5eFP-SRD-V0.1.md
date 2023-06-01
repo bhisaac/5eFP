@@ -958,8 +958,23 @@ mages sometimes summon fiends to the material world to do their bidding. If an e
 **Undead** are once-living creatures brought to a horrifying state of undeath through the practice of necromantic magic or some unholy curse. Undead include walking corpses, such as vampires and zombies, as well as bodiless spirits, such as ghosts and specters.
 - **Damage Immunities** poison
 - **Condition Immunities** poisoned
+- **Senses** darkvision 12 squares
+- **Languages** the languages it knew in life (if any)
 
+---
 
+# Monsters (Z)
+## Zombies
+### Zombie
+#### *Medium undead, neutral evil*
+|STR|DEX|CON|INT|WIS|CHA|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|+1|-2|+3|-4|-2|-3|
+- STR +1 DEX -2 CON +3 INT -4 WIS -2 CHA -3
+- **Saving Throws** Wis +0
+- **Senses** passive Perception 8
+
+---
 
 Tracy wants to create a level 2 minion. First she creates a description.
 
