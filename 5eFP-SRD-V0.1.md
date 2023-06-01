@@ -919,7 +919,7 @@ A boss represents a harrowing situation as a story element, requiring coordinate
 ## Creating a Creature
 Choose minion, elite, or boss and use the corresponding generic encounter stats to begin creating your creature.
 
-~~for a basic framework. Then add on additional attacks, resistances, immunities, and special qualities. Set the DC of each feature to the encounter's generic DC value. Adjust the creatures~~
+...
 
 ### Creature Type
 ~~The creature's type can add attacks, resistances, immunities, and special qualities. Choose from the types provided below. A type's features are included in the descriptions.~~
@@ -956,9 +956,6 @@ mages sometimes summon fiends to the material world to do their bidding. If an e
 **Plants** in this context are vegetable creatures, not ordinary flora. Most of them are ambulatory, and some are carnivorous. The quintessential plants are the shambling mound and the treant. Fungal creatures such as the gas spore and the myconid also fall into this category.
 
 **Undead** are once-living creatures brought to a horrifying state of undeath through the practice of necromantic magic or some unholy curse. Undead include walking corpses, such as vampires and zombies, as well as bodiless spirits, such as ghosts and specters.
-- **Damage Immunities** poison
-- **Condition Immunities** poisoned
-- **Senses** darkvision 12 squares
 
 ---
 
