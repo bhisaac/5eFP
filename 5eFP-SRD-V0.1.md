@@ -963,10 +963,10 @@ mages sometimes summon fiends to the material world to do their bidding. If an e
 ## Zombies
 ### Zombie
 #### *Medium undead, neutral evil* 
+- **Armor Class** 12 + LEVEL, 14 + LEVEL (Boss)
+- **MAX Wounds** Minion: 1, Elite: 2 + LEVEL, Boss: 4 + LEVEL
 - **Speed** 4
-|STR|DEX|CON|INT|WIS|CHA|
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|+1|-2|+3|-4|-2|-3|
+- **STR** +1 **DEX** -2 **CON** +3 **INT** -4 **WIS** -2 **CHA** -3 
 - **Saving Throws** WIS 2 + LEVEL
 - **Damage Immunities** poison
 - **Condition Immunities** poisoned
