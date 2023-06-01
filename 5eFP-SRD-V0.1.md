@@ -973,12 +973,12 @@ Zombies share the following statistics.
 ||Minion|Elite|Boss|
 |-:|:---|:----|:---|
 ||*Medium Undead, neutral evil*|*Large Undead, neutral evil*|*Large Undead, neutral evil*|
-|**AC**|LEVEL + 12|LEVEL + 12|LEVEL + 14 (*natural*, *armor*)|
+|**AC**|LEVEL + 12||LEVEL + 14 (*natural*, *armor*)|
 |**Health**|1|LEVEL + 2|LEVEL + 4|
-|**Speed**|4|5|5|
-|**Abilities**|**STR** +1 **DEX** -2 **CON** +3 **INT** -4 **WIS** -2 **CHA** -3|**STR** +4 **DEX** -2 **CON** +4 **INT** -4 **WIS** -2 **CHA** -3|**STR** +4 **DEX** -2 **CON** +4 **INT** -4 **WIS** -2 **CHA** -3|
+|**Speed**|4|5||
+|**Abilities**|**STR** +1 **DEX** -2 **CON** +3 **INT** -4 **WIS** -2 **CHA** -3|**STR** +4 **CON** +4||
 |**ACTIONS**||||
-||**Slam.** *Melee Weapon Attack:* +(LEVEL + 2) to hit, reach 1, one target. *Hit:* 1 bludgeoning damage.|**Morningstar.** *Melee Weapon Attack:* +(LEVEL + 4), reach 1, one target. LEVEL bludgeoning damage.|**Morningstar.** *Melee Weapon Attack:* +(LEVEL + 4), reach 1, one target. LEVEL bludgeoning damage.|
+||**Slam.** *Melee Weapon Attack:* +(LEVEL + 2) to hit, reach 1, one target. *Hit:* 1 bludgeoning damage.|**Morningstar.** *Melee Weapon Attack:* +(LEVEL + 4), reach 1, one target. LEVEL bludgeoning damage.||
 ||||**LEGENDARY ACTIONS**|
 ||||Zombie Boss can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The lich regains spent legendary actions at the start of its turn.|
 ||||**Bolster (2 actions).** Gain LEVEL shield(s)|
