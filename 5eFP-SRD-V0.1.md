@@ -979,7 +979,9 @@ Zombies share the following statistics.
 
 **Speed** 4
 
-**Ability Scores** **STR**+1 **DEX**-2 **CON**+3 **INT**-4 **WIS**-2 **CHA**-3
+|STR|DEX|CON|INT|WIS|CHA|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|+1|-2|+3|-4|-2|-3|
 
 #### ACTIONS
 **Slam.** *Melee Weapon Attack:* +(LEVEL + 2) to hit, reach 1, one target. *Hit:* 1 bludgeoning damage.
@@ -993,7 +995,9 @@ Zombies share the following statistics.
 
 **Speed** 6
 
-**Ability Scores** **STR**+4 **DEX**-2 **CON**+4 **INT**-4 **WIS**-2 **CHA**-3
+|STR|DEX|CON|INT|WIS|CHA|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|+4|-2|+4|-4|-2|-3|
 
 #### ACTIONS
 **Morningstar.** *Melee Weapon Attack:* +(LEVEL + 4) to hit, reach 1, one target. *Hit:* LEVEL bludgeoning damage.
