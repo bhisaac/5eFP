@@ -971,15 +971,19 @@ Zombies share the following statistics.
 **Undead Fortitude.** If the zombie reaches MAX wounds, it must make a CON saving throw with a DC of 11 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie recieves 1 point of healing.
 
 ||Minion|Elite|Boss|
-|-:|:----:|:---:|:--:|
-||*Medium Undead, neutral evil*|*Medium Undead, neutral evil*|*Large Undead, neutral evil*|
-|**Armor Class**|LEVEL + 12|||
-|**MAX Wounds**|1|||
-|**Speed**|4|||
-|**Ability Scores**|**STR** +1 **DEX** -2 **CON** +3 **INT** -4 **WIS** -2 **CHA** -3|||
+|-:|:---|:----|:---|
+||*Medium Undead, neutral evil*|*Large Undead, neutral evil*|*Large Undead, neutral evil*|
+|**AC**|LEVEL + 12|LEVEL + 12|LEVEL + 14 (*natural*, *armor*)|
+|**Health**|1|LEVEL + 2|LEVEL + 4|
+|**Speed**|4|5|5|
+|**Abilities**|**STR** +1 **DEX** -2 **CON** +3 **INT** -4 **WIS** -2 **CHA** -3|**STR** +4 **DEX** -2 **CON** +4 **INT** -4 **WIS** -2 **CHA** -3|**STR** +4 **DEX** -2 **CON** +4 **INT** -4 **WIS** -2 **CHA** -3|
 |**ACTIONS**||||
-||**Slam.** *Melee Weapon Attack:* +(LEVEL + 2) to hit, reach 1, one target. *Hit:* 1 bludgeoning damage.|||
-|||||
+||**Slam.** *Melee Weapon Attack:* +(LEVEL + 2) to hit, reach 1, one target. *Hit:* 1 bludgeoning damage.|**Morningstar.** *Melee Weapon Attack:* +(LEVEL + 4), reach 1, one target. LEVEL bludgeoning damage.|**Morningstar.** *Melee Weapon Attack:* +(LEVEL + 4), reach 1, one target. LEVEL bludgeoning damage.|
+||||**LEGENDARY ACTIONS**|
+||||Zombie Boss can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The lich regains spent legendary actions at the start of its turn.|
+||||**Bolster (2 actions).** Gain LEVEL shield(s)|
+||||**Strike.**  Make one melee attack against an adjacent foe|
+||||**Parry.**  Spend a reaction to increase AC by +(LEVEL) against melee attacks until the end of the round|
 
 ### Zombie Minion
 #### *Medium undead, neutral evil* 
