@@ -973,6 +973,12 @@ mages sometimes summon fiends to the material world to do their bidding. If an e
 - **Damage Immunities** poison
 - **Condition Immunities** poisoned
 - **Senses** darkvision 12 squares, passive Perception 8
+- **Languages** understands the languages it knew in life but can’t speak
+
+- **Undead Fortitude.** If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.
+
+#### Actions
+- **Slam.** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage.
 
 ---
 
