@@ -970,16 +970,16 @@ Zombies share the following statistics.
 
 **Undead Fortitude.** If the zombie reaches MAX wounds, it must make a CON saving throw with a DC of 11 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie recieves 1 point of healing.
 
-|Minion|Elite|Boss|
-|:----:|:---:|:--:|
-|*Medium Undead, neutral evil*|.|.|
-|**Armor Class** 12| | |
-|**MAX Wounds** 1| | |
-|**Speed** 4| | |
-|**STR** +1 **DEX** -2 **CON** +3 **INT** -4 **WIS** -2 **CHA** -3|||
-|**ACTIONS**|||
-|**Slam.** *Melee Weapon Attack:* +(2 + LEVEL) to hit, reach 1, one target. *Hit:* 1 bludgeoning damage.|||
-||||
+||Minion|Elite|Boss|
+|-:|:----:|:---:|:--:|
+||*Medium Undead, neutral evil*|*Medium Undead, neutral evil*|*Large Undead, neutral evil*|
+|**Armor Class**|LEVEL + 12|||
+|**MAX Wounds**|1|||
+|**Speed**|4|||
+|**Ability Scores**|**STR** +1 **DEX** -2 **CON** +3 **INT** -4 **WIS** -2 **CHA** -3|||
+|**ACTIONS**||||
+||**Slam.** *Melee Weapon Attack:* +(LEVEL + 2) to hit, reach 1, one target. *Hit:* 1 bludgeoning damage.|||
+|||||
 
 ### Zombie Minion
 #### *Medium undead, neutral evil* 
