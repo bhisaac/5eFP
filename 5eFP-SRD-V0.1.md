@@ -976,7 +976,7 @@ mages sometimes summon fiends to the material world to do their bidding. If an e
 **Undead Fortitude.** If the zombie reaches MAX wounds, it must make a CON saving throw with a DC of 11 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie recieves 1 point of healing.
 
 #### Actions
-**Slam.** Melee Weapon Attack, reach 1, one target. Bludgeoning damage.
+**Slam.** *Melee Weapon Attack:* +(4 + LEVEL) to hit, reach 1, one target. *Hit:* LEVEL bludgeoning damage.
 
 ### Ogre Zombie
 #### *Large undead, neutral evil*
