@@ -972,7 +972,14 @@ Zombies share the following statistics.
 
 |Minion|Elite|Boss|
 |:----:|:---:|:--:|
-|#### *Medium Undead, neutral evil*|test|test|
+|*Medium Undead, neutral evil*|.|.|
+|**Armor Class** 12| | |
+|**MAX Wounds** 1| | |
+|**Speed** 4| | |
+|**STR** +1 **DEX** -2 **CON** +3 **INT** -4 **WIS** -2 **CHA** -3|||
+|**ACTIONS**|||
+|**Slam.** *Melee Weapon Attack:* +(2 + LEVEL) to hit, reach 1, one target. *Hit:* 1 bludgeoning damage.|||
+||||
 
 ### Zombie Minion
 #### *Medium undead, neutral evil* 
