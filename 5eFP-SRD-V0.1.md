@@ -968,98 +968,70 @@ Zombies share the following statistics.
 - **Senses** darkvision 12 squares, passive Perception 8
 - **Languages** understands the languages it knew in life but can’t speak
 
-**Undead Fortitude.** If the zombie reaches MAX wounds, it must make a CON saving throw with a DC of 11 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie recieves 1 point of healing.
+**Undead Fortitude.** If the zombie reaches MAX wounds, it must make a CON saving throw with a DC of 12 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie recieves 1 point of healing.
 
-### Zombie Minion
-*Medium Undead, neutral evil*
+>---
+>### Zombie Minion
+>*Medium Undead, neutral evil*
+>
+>**Armor Class** LEVEL + 12
+>
+>**MAX Wounds** 1
+>
+>**Speed** 4
+>
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:-:|:-:|:-:|:-:|:-:|:-:|
+>|+1|-2|+3|-4|-2|-3|
+>
+>#### ACTIONS
+>**Slam.** *Melee Weapon Attack:* +(LEVEL + 2) to hit, reach 1, one target. *Hit:* 1 bludgeoning damage.
+>---
 
-**Armor Class** LEVEL + 12
+>---
+>### Ogre Zombie Elite
+>*Large Undead, neutral evil*
+>
+>**Armor Class** LEVEL + 12
+>
+>**MAX Wounds** LEVEL + 2
+>
+>**Speed** 6
+>
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:-:|:-:|:-:|:-:|:-:|:-:|
+>|+4|-2|+4|-4|-2|-3|
+>
+>#### ACTIONS
+>**Morningstar.** *Melee Weapon Attack:* +(LEVEL + 4) to hit, reach 1, one target. *Hit:* LEVEL bludgeoning damage.
+>---
 
-**MAX Wounds** 1
-
-**Speed** 4
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|+1|-2|+3|-4|-2|-3|
-
-#### ACTIONS
-**Slam.** *Melee Weapon Attack:* +(LEVEL + 2) to hit, reach 1, one target. *Hit:* 1 bludgeoning damage.
-
-### Ogre Zombie Elite
-*Large Undead, neutral evil*
-
-**Armor Class** LEVEL + 12
-
-**MAX Wounds** LEVEL + 2
-
-**Speed** 6
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|+4|-2|+4|-4|-2|-3|
-
-#### ACTIONS
-**Morningstar.** *Melee Weapon Attack:* +(LEVEL + 4) to hit, reach 1, one target. *Hit:* LEVEL bludgeoning damage.
-
-### Ogre Zombie Boss
-*Large Undead, neutral evil*
-
-**Armor Class** LEVEL + 14
-
-**MAX Wounds** LEVEL + 4
-
-**Speed** 6
-
-**Ability Scores** **STR**+4 **DEX**-2 **CON**+4 **INT**-4 **WIS**-2 **CHA**-3
-
-#### ACTIONS
-**Morningstar.** *Melee Weapon Attack:* +(LEVEL + 4) to hit, reach 1, one target. *Hit:* LEVEL bludgeoning damage.
-
-#### LEGENDARY ACTIONS
-Ogre zombie bosses can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The ogre zombie boss regains spent legendary actions at the start of its turn.
-- **Bolster (2 actions).** Gain LEVEL shield(s)
-- **Strike (1 action).**  Make one melee attack against an adjacent foe
-- **Parry (1 action).**  Spend a reaction to increase AC by +(LEVEL) against melee attacks until the end of the round
+>---
+>### Ogre Zombie Boss
+>*Large Undead, neutral evil*
+>
+>**Armor Class** LEVEL + 14
+>
+>**MAX Wounds** LEVEL + 4
+>
+>**Speed** 6
+>
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:-:|:-:|:-:|:-:|:-:|:-:|
+>|+4|-2|+4|-4|-2|-3|
+>
+>#### ACTIONS
+>**Morningstar.** *Melee Weapon Attack:* +(LEVEL + 4) to hit, reach 1, one target. *Hit:* LEVEL bludgeoning damage.
+>
+>#### LEGENDARY ACTIONS
+>Ogre zombie bosses can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The ogre zombie boss regains spent legendary actions at the start of its turn.
+>- **Bolster (2 actions).** Gain LEVEL shield(s)
+>- **Strike (1 action).**  Make one melee attack against an adjacent foe
+>- **Parry (1 action).**  Spend a reaction to increase AC by +(LEVEL) against melee attacks until the end of the round
 
 ---
 
-Tracy wants to create a level 2 minion. First she creates a description.
 
-> Fast, levitating air elemental orb that shocks creatures who get too close.
-
-Tracy then creates a generic stat block:
-
->#### Proximity Orb (minion)
->*Small elemental, neutral*
->- **Armor Class** 15
-
-Level 2 creatures have an AC of 15.
-
->- **MAX Wounds** 1
-
-Minions can only take 1 wound.
-
->- **Speed** 6
-
-Small creatures normally have a base speed of 5. Since the orb levitates and doesn't have traditional locomotion, Tracy changes it to the more standard 6 squares.
-
->
->|STR|DEX|CON|INT|WIS|CHA|
->|:---:|:---:|:---:|:---:|:---:|:---:|
->|+0|+2|+1|+1|+2|-1|
-
-Tracy selects and assigns stats from the standard array \[-1,+0,+1,+1,+2,+2] to the proximity orb's ability scores. The orb isn't paticularly strong, but it is nimble and has fast reflexes. The orb also has higher than average INT and CON, and it has advanaced WIS. The orb doesn't have much need for a strong sense of self and, thus, has lower CHA.
-
->- **Senses** passive Perception 12
->- **Languages** Understands primordial, cannot speak
->- **Challenge** level 2
->
->**Actions**
->
->**Jolt.** Melee Spell Attack: +5 to hit, reach 1, one target. Hit: 2 lightning damage.
-
-Level 2 creatures have an attack bonus of +5 and deal 2 points of damage. Tracy could have decided to add *multiattack* and had two attacks at +5 that dealt 1 point of lightning damage each. As long as the creature does not deal more damage than it's level would indicate, you can spread it around into any number of attacks.
 
 ## Creating a Trap
 Use the same table to determine the details of a trap. Treat the trap as if it were creating a creature.
