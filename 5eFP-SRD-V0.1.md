@@ -959,6 +959,76 @@ mages sometimes summon fiends to the material world to do their bidding. If an e
 
 ---
 
+# Monsters (A)
+## Awakened Plant
+Awakened plants share the following statistics.
+- **Damage Vulnerability** fire
+- **Damage Resistances** piercing
+- **Senses** darkvision 12 squares, passive Perception 8
+- **Languages** understands the languages it knew in life but can’t speak
+
+**False Appearance.** While the tree remains motionless, it is indistinguishable from a normal tree.
+
+An **awakened plant** is an ordinary plant given sentience and mobility by the *awaken* spell or similar magic.
+
+### Awakened Shrub Minion
+*Small plant, unaligned*
+
+**Armor Class** LEVEL + 12
+
+**MAX Wounds** 1
+
+**Speed** 4
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|-4|-1|+0|+0|+0|-2|
+
+#### ACTIONS
+**Rake.** *Melee Weapon Attack:* +(LEVEL + 2) to hit, reach 1, one target. *Hit:* 1 slashing damage.
+
+### Awakened Tree Elite
+*Huge plant, unaligned*
+
+**Armor Class** LEVEL + 12
+
+**MAX Wounds** LEVEL + 2
+
+**Speed** 4
+
+**Damage Resistances** bludgeoning
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|+4|-2|+2|+0|+0|-2|
+
+#### ACTIONS
+**Slam.** *Melee Weapon Attack:* +(LEVEL + 4) to hit, reach 2, one target. *Hit:* LEVEL bludgeoning damage.
+
+### Awakened Tree Boss
+*Huge plant, unaligned*
+
+**Armor Class** LEVEL + 12
+
+**MAX Wounds** LEVEL + 4
+
+**Speed** 4
+
+**Damage Resistances** bludgeoning
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|+4|-2|+2|+0|+0|-2|
+
+#### ACTIONS
+**Slam.** *Melee Weapon Attack:* +(LEVEL + 4) to hit, reach 2, one target. *Hit:* LEVEL bludgeoning damage.
+
+#### LEGENDARY ACTIONS
+Awakened tree bosses can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The awakened tree boss regains spent legendary actions at the start of its turn.
+- **Bolster (2 actions).** Gain LEVEL shield(s). Eeach shield negates 1 point of damage. Once a shield is used, it is lost.
+- **Slam (1 action).** Make one slam attack against a foe within reach.
+- **Awaken (1 action).** Animate a nearby plant as if it were subject to the *awaken* spell. Treat the plant as an awakened shrub minion.
+
 # Monsters (Z)
 ## Zombies
 Zombies share the following statistics.
@@ -1020,9 +1090,11 @@ Zombies share the following statistics.
 
 #### LEGENDARY ACTIONS
 Ogre zombie bosses can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The ogre zombie boss regains spent legendary actions at the start of its turn.
-- **Bolster (2 actions).** Gain LEVEL shield(s)
-- **Strike (1 action).**  Make one melee attack against an adjacent foe
-- **Parry (1 action).**  Spend a reaction to increase AC by +(LEVEL) against melee attacks until the end of the round
+- **Bolster (2 actions).** Gain LEVEL shield(s). Eeach shield negates 1 point of damage. Once a shield is used, it is lost.
+- **Strike (1 action).** Make one melee attack against an adjacent foe.
+- **Parry (1 action).** Spend a reaction to increase AC by +(LEVEL) against melee attacks until the end of the round.
+
+
 
 ---
 
