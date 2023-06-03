@@ -1026,7 +1026,7 @@ An **awakened plant** is an ordinary plant given sentience and mobility by the *
 Awakened tree bosses can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The awakened tree boss regains spent legendary actions at the start of its turn.
 - **Bolster (2 actions).** Gain LEVEL shield(s). Eeach shield negates 1 point of damage. Once a shield is used, it is lost.
 - **Slam (1 action).** Make one slam attack against a foe within reach.
-- **Awaken (1 action).** Animate a nearby plant as if it were subject to the *awaken* spell. Treat the plant as an awakened shrub minion.
+- **Awaken (1 action per minion).** Reanimate a defeated awakened shrub minion within reach for each action spent. Treat the plant as an awakened shrub minion.
 
 # Monsters (Z)
 ## Zombies
