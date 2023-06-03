@@ -965,7 +965,6 @@ Awakened plants share the following statistics.
 - **Damage Vulnerability** fire
 - **Damage Resistances** piercing
 - **Senses** passive Perception 10
-- **Languages** understands the languages it knew in life but can’t speak
 
 **False Appearance.** While the tree remains motionless, it is indistinguishable from a normal tree.
 
