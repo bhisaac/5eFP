@@ -964,7 +964,7 @@ mages sometimes summon fiends to the material world to do their bidding. If an e
 Awakened plants share the following statistics.
 - **Damage Vulnerability** fire
 - **Damage Resistances** piercing
-- **Senses** darkvision 12 squares, passive Perception 8
+- **Senses** passive Perception 10
 - **Languages** understands the languages it knew in life but can’t speak
 
 **False Appearance.** While the tree remains motionless, it is indistinguishable from a normal tree.
