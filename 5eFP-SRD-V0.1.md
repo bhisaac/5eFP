@@ -966,7 +966,7 @@ Awakened plants share the following statistics.
 - **Damage Resistances** piercing
 - **Senses** passive Perception 10
 
-**False Appearance.** While the tree remains motionless, it is indistinguishable from a normal tree.
+**False Appearance.** While the awakened plant remains motionless, it is indistinguishable from a normal plant.
 
 An **awakened plant** is an ordinary plant given sentience and mobility by the *awaken* spell or similar magic.
 
