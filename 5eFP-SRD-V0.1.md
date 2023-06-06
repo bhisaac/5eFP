@@ -1036,6 +1036,7 @@ Liches share the following statistics.
 - **Damage Immunities** poison
 - **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
 - **Senses** truesight 12 squares, passive Perception 12
+- **Skills** Insight (4 + LEVEL), Perception (2 + LEVEL)
 - **Languages** Common. If paired with creatures of different types, liches always know their languages (if any) as well. Liches can know up to 4 additional languages. Choose additional languages from draconic, primordial, sylvan, and deepspeech.
 
 **Rejuvenation.** If it has a phylactery, a destroyed lich respawns once the PCs recall to HQ, healing all wounds and becoming active again. The new body appears within 5 feet of the phylactery. Phylacteries for minions and elites are located near where they are first encountered in urns, gravestones, or buried under 1 square. Boss phylacteries are safeguarded behind hidden passages, traps, or hidden within seemingly simple items.
@@ -1057,6 +1058,7 @@ Liches share the following statistics.
 
 #### ACTIONS
 **Cantrips (at will):** mage hand, prestidigitation, ray of frost
+
 **Paralyzing Touch.** Melee Spell Attack: LEVEL + 2 to hit, reach 1, one creature. Hit: 1 cold damage. The target must succeed on a DC (12 + LEVEL) Constitution saving throw or be paralyzed for until the end of the encounter. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. 
 
 
