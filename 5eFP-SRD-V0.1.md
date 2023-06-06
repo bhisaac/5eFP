@@ -1065,15 +1065,15 @@ Liches share the following statistics.
 
 |  |          |
 |-:|:---------|
-|**Minion**|**Features**|
+|**Minion**|**Features:**|
 ||**Spellcasting.** Liches are spellcasters. Thier spellcasting ability is Intelligence (2 + LEVEL to hit, save DC 12 + LEVEL). Liches have the following wizard spells prepared:|
 ||- Cantrips (at will): *mage hand, prestidigitation, ray of frost*|
-||**Actions**|
+||**Actions:**|
 ||**Paralyzing Touch.** Melee Spell Attack: (2 + LEVEL) to hit, reach 1, one creature. Hit: 1 cold damage. The target must succeed on a DC (12 + LEVEL) Constitution saving throw or be paralyzed until the end of the encounter. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.|
-|**Elite**|**Features**|
+|**Elite**|**Features:**|
 ||**Legendary Resistances (3/Day).** If liches fail a saving throw, they can decide to use this feature to succeed instead.|
-||**Actions**|
-||**Paralyzing Touch.** Add +2 to hit; Hit: increase damage to (LEVEL) cold damage|
+||**Actions:**|
+||**Paralyzing Touch.** ⇧ +2 to hit; Hit: increase damage to (LEVEL) cold damage|
 
 
 
