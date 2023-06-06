@@ -1073,7 +1073,7 @@ Liches share the following statistics.
 |**Elite**|**Features:**|
 ||**Legendary Resistances (3/Day).** If liches fail a saving throw, they can decide to use this feature to succeed instead.|
 ||**Actions:**|
-||**Paralyzing Touch.** ⇧ +2 to hit; Hit: increase damage to (LEVEL) cold damage|
+||**⇧ Paralyzing Touch.** +2 to hit; (LEVEL) cold damage|
 
 
 
