@@ -1028,6 +1028,75 @@ Awakened tree bosses can take 3 legendary actions, choosing from the options bel
 - **Slam (1 action).** Make one slam attack against a foe within reach.
 - **Awaken (1 action per minion).** Reanimate a defeated awakened shrub minion within reach for each action spent. Treat the plant as an awakened shrub minion.
 
+# Monsters (L)
+## Liches
+Liches share the following statistics.
+- **Saving Throws** CON 2 + LEVEL, INT 3 + LEVEL, WIS 1 + LEVEL
+- **Damage Resistances** cold, lighting, necrotic
+- **Damage Immunities** poison
+- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
+- **Senses** truesight 12 squares, passive Perception 12
+- **Languages** Common. If paired with creatures of different types, liches always know their languages (if any) as well. Liches can know up to 4 additional languages. Choose additional languages from draconic, primordial, sylvan, and deepspeech.
+**Rejuvenation.** If it has a phylactery, a destroyed lich respawns once the PCs recall to HQ, healing all wounds and becoming active again. The new body appears within 5 feet of the phylactery. Phylacteries for minions and elites are located near where they are first encountered in urns, gravestones, or buried under 1 square. Boss phylacteries are safeguarded behind hidden passages, traps, or hidden within seemingly simple items.
+
+**Turn Resistance.** The lich has advantage on saving throws against any effect that turns undead.
+
+### Lich Minion
+*Medium Undead, any evil alignment*
+
+**Armor Class** LEVEL + 12
+
+**MAX Wounds** 1
+
+**Speed** 6
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|+0|+3|+3|+5|+2|+3|
+
+#### ACTIONS
+**Cantrips (at will):** mage hand, prestidigitation, ray of frost
+**Paralyzing Touch.** Melee Spell Attack: LEVEL + 2 to hit, reach 1, one creature. Hit: 1 cold damage. The target must succeed on a DC (12 + LEVEL) Constitution saving throw or be paralyzed for until the end of the encounter. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. 
+
+
+### Ogre Zombie Elite
+*Large Undead, neutral evil*
+
+**Armor Class** LEVEL + 12
+
+**MAX Wounds** LEVEL + 2
+
+**Speed** 6
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|+4|-2|+4|-4|-2|-3|
+
+#### ACTIONS
+**Morningstar.** *Melee Weapon Attack:* +(LEVEL + 4) to hit, reach 1, one target. *Hit:* LEVEL bludgeoning damage.
+
+### Ogre Zombie Boss
+*Large Undead, neutral evil*
+
+**Armor Class** LEVEL + 14
+
+**MAX Wounds** LEVEL + 4
+
+**Speed** 6
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|+4|-2|+4|-4|-2|-3|
+
+#### ACTIONS
+**Morningstar.** *Melee Weapon Attack:* +(LEVEL + 4) to hit, reach 1, one target. *Hit:* LEVEL bludgeoning damage.
+
+#### LEGENDARY ACTIONS
+Ogre zombie bosses can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The ogre zombie boss regains spent legendary actions at the start of its turn.
+- **Bolster (2 actions).** Gain LEVEL shield(s). Eeach shield negates 1 point of damage. Once a shield is used, it is lost.
+- **Strike (1 action).** Make one melee attack against an adjacent foe.
+- **Parry (1 action).** Spend a reaction to increase AC by +(LEVEL) against melee attacks until the end of the round.
+
 # Monsters (Z)
 ## Zombies
 Zombies share the following statistics.
