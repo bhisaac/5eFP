@@ -1059,7 +1059,7 @@ Liches share the following statistics.
 #### ACTIONS
 **Cantrips (at will):** mage hand, prestidigitation, ray of frost
 
-**Paralyzing Touch.** Melee Spell Attack: LEVEL + 2 to hit, reach 1, one creature. Hit: 1 cold damage. The target must succeed on a DC (12 + LEVEL) Constitution saving throw or be paralyzed for until the end of the encounter. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. 
+**Paralyzing Touch.** Melee Spell Attack: (2 + LEVEL) to hit, reach 1, one creature. Hit: 1 cold damage. The target must succeed on a DC (12 + LEVEL) Constitution saving throw or be paralyzed until the end of the encounter. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. 
 
 
 ### Ogre Zombie Elite
