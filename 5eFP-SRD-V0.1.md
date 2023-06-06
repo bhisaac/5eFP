@@ -1053,7 +1053,7 @@ Liches share the following statistics.
 
 **Speed** 6
 
-|   |Minion|Elite|Boss|
+|   |**Minion**|**Elite**|**Boss**|
 |:-:|:----:|:---:|:--:|
 |**Armor Class**|12 + LEVEL|14 + LEVEL|14 + LEVEL|
 |**MAX Wounds**|1|2 + LEVEL|4 + LEVEL|
@@ -1062,6 +1062,20 @@ Liches share the following statistics.
 |STR|DEX|CON|INT|WIS|CHA|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |+0|+3|+3|+5|+2|+3|
+
+#### ACTIONS
+|  |**Action**|
+|-:|:--------:|
+|**Minion**||
+||**Spellcasting.** Liches are spellcasters. Thier spellcasting ability is Intelligence (2 + LEVEL to hit, save DC 12 + LEVEL). Liches have the following wizard spells prepared:
+- Cantrips (at will): mage hand, prestidigitation, ray of frost|
+||**Cantrips (at will).** mage hand, prestidigitation, ray of frost|
+||**Paralyzing Touch.** Melee Spell Attack: (2 + LEVEL) to hit, reach 1, one creature. Hit: 1 cold damage. The target must succeed on a DC (12 + LEVEL) Constitution saving throw or be paralyzed until the end of the encounter. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.|
+|**Elite**||
+||**Paralyzing Touch.** +2 to hit; Hit: LEVEL cold damage|
+||**Legendary Resistances (3/Day).** If liches fail a saving throw, they can decide to use this feature to succeed instead.|
+
+
 
 #### ACTIONS
 **Cantrips (at will):** mage hand, prestidigitation, ray of frost
