@@ -1030,6 +1030,8 @@ Awakened tree bosses can take 3 legendary actions, choosing from the options bel
 
 # Monsters (L)
 ## Liches
+*Medium Undead, evil*
+
 Liches share the following statistics.
 - **Saving Throws** CON 2 + LEVEL, INT 3 + LEVEL, WIS 1 + LEVEL
 - **Damage Resistances** cold, lighting, necrotic
@@ -1039,18 +1041,23 @@ Liches share the following statistics.
 - **Skills** Insight (4 + LEVEL), Perception (2 + LEVEL)
 - **Languages** Common. If paired with creatures of different types, liches always know their languages (if any) as well. Liches can know up to 4 additional languages. Choose additional languages from draconic, primordial, sylvan, and deepspeech.
 
-**Rejuvenation.** If it has a phylactery, a destroyed lich respawns once the PCs recall to HQ, healing all wounds and becoming active again. The new body appears within 1 square of the phylactery. Phylacteries for minions and elites are located near where they are first encountered in urns, gravestones, or buried under 1 square. Boss phylacteries are safeguarded behind hidden passages, traps, or hidden within seemingly simple items.
+**Rejuvenation.** If it has a phylactery, a destroyed lich respawns once the PCs recall to HQ, healing all wounds and becoming active again. The new body appears within 1 square of the phylactery. Phylacteries for minions and elites are located near where they are first encountered in containers, urns, gravestones, buried under 1 square or ontop of a 1 square ledge. Boss phylacteries are safeguarded behind hidden passages, traps, or cleverly hidden within mundane items.
 
 **Turn Resistance.** The lich has advantage on saving throws against any effect that turns undead.
 
-### Lich Minion
-*Medium Undead, any evil alignment*
+### Minion
 
 **Armor Class** LEVEL + 12
 
 **MAX Wounds** 1
 
 **Speed** 6
+
+|   |Minion|Elite|Boss|
+|:-:|:----:|:---:|:--:|
+|**Armor Class**|12 + LEVEL|14 + LEVEL|14 + LEVEL|
+|**MAX Wounds**|1|2 + LEVEL|4 + LEVEL|
+|**Speed**|6|6|6|
 
 |STR|DEX|CON|INT|WIS|CHA|
 |:-:|:-:|:-:|:-:|:-:|:-:|
