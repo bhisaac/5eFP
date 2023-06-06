@@ -1039,7 +1039,7 @@ Liches share the following statistics.
 - **Skills** Insight (4 + LEVEL), Perception (2 + LEVEL)
 - **Languages** Common. If paired with creatures of different types, liches always know their languages (if any) as well. Liches can know up to 4 additional languages. Choose additional languages from draconic, primordial, sylvan, and deepspeech.
 
-**Rejuvenation.** If it has a phylactery, a destroyed lich respawns once the PCs recall to HQ, healing all wounds and becoming active again. The new body appears within 5 feet of the phylactery. Phylacteries for minions and elites are located near where they are first encountered in urns, gravestones, or buried under 1 square. Boss phylacteries are safeguarded behind hidden passages, traps, or hidden within seemingly simple items.
+**Rejuvenation.** If it has a phylactery, a destroyed lich respawns once the PCs recall to HQ, healing all wounds and becoming active again. The new body appears within 1 square of the phylactery. Phylacteries for minions and elites are located near where they are first encountered in urns, gravestones, or buried under 1 square. Boss phylacteries are safeguarded behind hidden passages, traps, or hidden within seemingly simple items.
 
 **Turn Resistance.** The lich has advantage on saving throws against any effect that turns undead.
 
