@@ -959,6 +959,11 @@ mages sometimes summon fiends to the material world to do their bidding. If an e
 
 ---
 
+# Monster Abilities
+**Bolster X.** This creature gains **bolster X**, where *X* is a pool of points used to mitigate incoming damage. As long as this creature has a bolster pool of 1 or more, it may assign 1 or more bolster points as a free action to reduce the damage by 1 for each point spent. Spent points are lost. Whenever this creature gains two or more bolster pools, it keeps the largest bolster pool and discards the rest.
+
+---
+
 # Monsters (A)
 ## Awakened Plant
 Awakened plants share the following statistics.
@@ -1084,7 +1089,7 @@ Liches share the following statistics.
 ||**Bolster (1 Action).** The lich must target a minion within 12 squares. If a target is aquired, it is immediately destroyed, granting **bolster 2** to the lich.|
 ||**Cantrip (1 Action).** The lich casts a cantrip|
 ||**Paralyzing Touch (2 Actions).** The lich uses its Paralyzing Touch.|
-||**Frightening Gaze (2 Actions).** The lich fixes its gaze on one creature it an see within 2 squares of it. The target must succeed on a DC (14 + LEVEL) Wisdom saving throw against this magic or become frightened until the end of the encounter. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target’s saving throw is successful or the effect ends for it, the target is immune to the lich’s gaze for the next 24 hours.|
+||**Frightening Gaze (2 Actions).** The lich fixes its gaze on one creature it can see within 2 squares of it. The target must succeed on a DC (14 + LEVEL) Wisdom saving throw against this magic or become frightened until the end of the encounter. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target’s saving throw is successful or the effect ends for it, the target is immune to the lich’s gaze for the next 24 hours.|
 ||**Disrupt Life (3 Actions).** Each non-undead creature within 5 squares of the lich must make a DC (14 + LEVEL) Constitution saving throw against this magic, taking 3 necrotic damage on a failed save, or 1 necrotic damage on a successful one.| 
 
 # Monsters (Z)
