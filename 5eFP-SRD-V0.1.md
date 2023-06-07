@@ -1040,9 +1040,9 @@ Liches share the following statistics.
 |**Elite**|**Features**|
 ||**⇧ Spellcasting.** (4 + LEVEL) to hit, save DC (14 + LEVEL). Liches have the following additional wizard spells prepared. LEVEL unlocks additional spell levels and spell slots.|
 
-|  |          |
-|-:|:---------|
-|**LEVEL**|**Features (another name?)**|
+|   |          |
+|:-:|:---------|
+|**LEVEL**||
 |**1**|1st level (4 slots): *detect magic, magic missile, shield, thunderwave*|
 ||2nd level (3 slots): *acid arrow, detect thoughts, invisibility, mirror image*|
 |**2**|3rd level (3 slots): *animate dead, counterspell, dispel magic, fireball*|
