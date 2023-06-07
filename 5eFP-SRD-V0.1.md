@@ -1025,16 +1025,17 @@ An **awakened plant** is an ordinary plant given sentience and mobility by the *
 |+4|-2|+2|+0|+0|-2|
 
 #### ACTIONS
-**Slam.** *Melee Weapon Attack:* +(LEVEL + 4) to hit, reach 2, one target. *Hit:* LEVEL bludgeoning damage.
+**Slam.** *Melee Weapon Attack:* (LEVEL + 4) to hit, reach 2, one target. *Hit:* LEVEL bludgeoning damage.
 
 #### LEGENDARY ACTIONS
 Awakened tree bosses can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The awakened tree boss regains spent legendary actions at the start of its turn.
+
+- **Awaken (1 Action/minion).** Reanimate a defeated awakened shrub minion within reach for each action spent. Treat the plant as an awakened shrub minion.
+- **Slam (1 Action).** Make one slam attack against a foe.
 - **Bolster (2 Actions).** The awakened tree boss gains **bolster (1 + LEVEL)**.
-- **Slam (1 Action).** Make one slam attack against a foe within reach.
-- **Awaken (1 Action per minion).** Reanimate a defeated awakened shrub minion within reach for each action spent. Treat the plant as an awakened shrub minion.
 
 # Monsters (L)
-## Liches
+## Lich
 *Medium Undead, evil*
 
 Liches share the following statistics.
@@ -1093,7 +1094,7 @@ Liches share the following statistics.
 ||**Disrupt Life (3 Actions).** Each non-undead creature within 5 squares of the lich must make a DC (14 + LEVEL) Constitution saving throw against this magic, taking 3 necrotic damage on a failed save, or 1 necrotic damage on a successful one.| 
 
 # Monsters (Z)
-## Zombies
+## Zombie
 Zombies share the following statistics.
 - **Saving Throws** WIS 2 + LEVEL
 - **Damage Immunities** poison
