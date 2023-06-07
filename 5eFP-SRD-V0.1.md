@@ -1052,6 +1052,9 @@ Liches share the following statistics.
 |**5:**|7th level (1 slot): *finger of death, plane shift*|
 |**5:**|8th level (1 slot): *dominate monster, power word stun*|
 |**7**|9th level (1 slot): *power word kill*|
+
+|  |          |
+|-:|:---------|
 ||**Legendary Resistances (3/Day).** If liches fail a saving throw, they can decide to use this feature to succeed instead.|
 |||
 ||**Actions**|
