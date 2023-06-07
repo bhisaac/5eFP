@@ -1004,6 +1004,8 @@ An awakened plant is an ordinary plant given sentience and mobility by the *awak
 ## Lich
 *Medium Undead, evil*
 
+Once fine robes hang in tatters from this withered corpse’s frame. A pale blue light shines from where its eyes should be.
+
 Liches share the following statistics.
 - **Saving Throws** CON 2 + LEVEL, INT 3 + LEVEL, WIS 1 + LEVEL
 - **Damage Resistances** cold, lighting, necrotic
