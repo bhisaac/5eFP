@@ -1086,11 +1086,10 @@ Liches share the following statistics.
 |||
 ||**Actions**|
 ||**⇧ Paralyzing Touch.** +2 to hit; (LEVEL) cold damage|
-|**Boss**|**Features:**|
-||**Legendary Actions:**|
+|**Boss**|**Legendary Actions**|
 ||The lich can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The lich regains spent legendary actions at the start of its turn.|
 |||
-||**Cantrip.** The lich casts a cantrip|
+||**Cantrip (1 Action).** The lich casts a cantrip|
 ||**Paralyzing Touch (2 Actions).** The lich uses its Paralyzing Touch.|
 ||**Frightening Gaze (2 Actions).** The lich fixes its gaze on one creature it an see within 2 squares of it. The target must succeed on a DC (14 + LEVEL) Wisdom saving throw against this magic or become frightened until the end of the encounter. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target’s saving throw is successful or the effect ends for it, the target is immune to the lich’s gaze for the next 24 hours.|
 ||**Disrupt Life (3 Actions).** Each non-undead creature within 5 squares of the lich must make a DC (14 + LEVEL) Constitution saving throw against this magic, taking 3 necrotic damage on a failed save, or half as much damage on a successful one.|
