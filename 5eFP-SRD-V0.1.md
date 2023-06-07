@@ -1029,9 +1029,9 @@ An **awakened plant** is an ordinary plant given sentience and mobility by the *
 
 #### LEGENDARY ACTIONS
 Awakened tree bosses can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The awakened tree boss regains spent legendary actions at the start of its turn.
-- **Bolster (2 actions).** Gain LEVEL shield(s). Eeach shield negates 1 point of damage. Once a shield is used, it is lost.
-- **Slam (1 action).** Make one slam attack against a foe within reach.
-- **Awaken (1 action per minion).** Reanimate a defeated awakened shrub minion within reach for each action spent. Treat the plant as an awakened shrub minion.
+- **Bolster (2 Actions).** The awakened tree boss gains **bolster (1 + LEVEL)**.
+- **Slam (1 Action).** Make one slam attack against a foe within reach.
+- **Awaken (1 Action per minion).** Reanimate a defeated awakened shrub minion within reach for each action spent. Treat the plant as an awakened shrub minion.
 
 # Monsters (L)
 ## Liches
@@ -1086,8 +1086,8 @@ Liches share the following statistics.
 |**Boss**|**Legendary Actions**|
 ||The lich can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The lich regains spent legendary actions at the start of its turn.|
 |||
-||**Bolster (1 Action).** The lich must target a minion within 12 squares. If a target is aquired, it is immediately destroyed, granting **bolster 2** to the lich.|
 ||**Cantrip (1 Action).** The lich casts a cantrip|
+||**Bolster (2 Actions).** The lich must target a minion within 12 squares. If a target is aquired, it is immediately destroyed, granting **bolster 2** to the lich.|
 ||**Paralyzing Touch (2 Actions).** The lich uses its Paralyzing Touch.|
 ||**Frightening Gaze (2 Actions).** The lich fixes its gaze on one creature it can see within 2 squares of it. The target must succeed on a DC (14 + LEVEL) Wisdom saving throw against this magic or become frightened until the end of the encounter. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target’s saving throw is successful or the effect ends for it, the target is immune to the lich’s gaze for the next 24 hours.|
 ||**Disrupt Life (3 Actions).** Each non-undead creature within 5 squares of the lich must make a DC (14 + LEVEL) Constitution saving throw against this magic, taking 3 necrotic damage on a failed save, or 1 necrotic damage on a successful one.| 
