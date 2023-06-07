@@ -991,8 +991,8 @@ An awakened plant is an ordinary plant given sentience and mobility by the *awak
 |**Minion**|**Actions**|
 ||**Rake.** *Melee Weapon Attack:* (2 + LEVEL) to hit, reach 1, one target. *Hit:* 1 slashing damage.|
 |**Elite**|**Features**|
-||*Huge plant, unaligned*|
-||**⇧ Ability.** The awakened plant elite uses the following ability scores: STR +4; DEX -2; CON +2; INT +0; WIS +0; CHA -2|
+||**⇧ Size.** *Huge*|
+||**⇧ Ability.** The awakened plant elite ability scores: STR +4; DEX -2; CON +2; INT +0; WIS +0; CHA -2|
 ||**⇧ Rake.** (4 + LEVEL) to hit, reach 2, one target. *Hit:* (LEVEL) slashing damage.|
 |**Boss**|**Legendary Actions**|
 ||Awakened tree bosses can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The awakened tree boss regains spent legendary actions at the start of its turn.|
