@@ -960,7 +960,7 @@ mages sometimes summon fiends to the material world to do their bidding. If an e
 ---
 
 # Monster Abilities
-**Bolster X.** This creature gains **bolster X**, where *X* is a pool of points used to mitigate incoming damage. As long as this creature has a bolster pool of 1 or more, it may assign 1 or more bolster points as a free action to reduce the damage by 1 for each point spent. Spent points are lost. Whenever this creature gains two or more bolster pools, it keeps the largest bolster pool and discards the rest.
+**Bolster X.** This creature gains **bolster X**, where *X* is a pool of points used to reduce incoming damage. As long as this creature has a bolster pool of 1 or more, it may assign 1 or more bolster points as a free action to reduce the damage by 1 for each point spent. Spent points are lost. Whenever this creature gains two or more bolster pools, it keeps the largest bolster pool and discards the rest.
 
 ---
 
@@ -982,11 +982,10 @@ An awakened plant is an ordinary plant given sentience and mobility by the *awak
 |**MAX Wounds**|1|2 + LEVEL|4 + LEVEL|
 |**Speed**|4|4|4|
 
-|STR|DEX|CON|INT|WIS|CHA|
+|*STR*|*DEX*|*CON*|*INT*|*WIS*|*CHA*|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |-4|-1|+0|+0|+0|-2|
 
-|  |          |
 |-:|:---------|
 |**Minion**|**Actions**|
 ||**Rake.** *Melee Weapon Attack:* (2 + LEVEL) to hit, reach 1, one target. *Hit:* 1 slashing damage.|
