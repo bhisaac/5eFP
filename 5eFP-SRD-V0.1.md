@@ -1045,14 +1045,6 @@ Liches share the following statistics.
 
 **Turn Resistance.** The lich has advantage on saving throws against any effect that turns undead.
 
-### Minion
-
-**Armor Class** LEVEL + 12
-
-**MAX Wounds** 1
-
-**Speed** 6
-
 |   |**Minion**|**Elite**|**Boss**|
 |--:|:----:|:---:|:--:|
 |**Armor Class**|12 + LEVEL|14 + LEVEL|14 + LEVEL|
@@ -1092,53 +1084,7 @@ Liches share the following statistics.
 ||**Cantrip (1 Action).** The lich casts a cantrip|
 ||**Paralyzing Touch (2 Actions).** The lich uses its Paralyzing Touch.|
 ||**Frightening Gaze (2 Actions).** The lich fixes its gaze on one creature it an see within 2 squares of it. The target must succeed on a DC (14 + LEVEL) Wisdom saving throw against this magic or become frightened until the end of the encounter. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target’s saving throw is successful or the effect ends for it, the target is immune to the lich’s gaze for the next 24 hours.|
-||**Disrupt Life (3 Actions).** Each non-undead creature within 5 squares of the lich must make a DC (14 + LEVEL) Constitution saving throw against this magic, taking 3 necrotic damage on a failed save, or half as much damage on a successful one.|
-
-
-
-#### ACTIONS
-**Cantrips (at will):** mage hand, prestidigitation, ray of frost
-
-**Paralyzing Touch.** Melee Spell Attack: (2 + LEVEL) to hit, reach 1, one creature. Hit: 1 cold damage. The target must succeed on a DC (12 + LEVEL) Constitution saving throw or be paralyzed until the end of the encounter. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. 
-
-
-### Ogre Zombie Elite
-*Large Undead, neutral evil*
-
-**Armor Class** LEVEL + 12
-
-**MAX Wounds** LEVEL + 2
-
-**Speed** 6
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|+4|-2|+4|-4|-2|-3|
-
-#### ACTIONS
-**Morningstar.** *Melee Weapon Attack:* +(LEVEL + 4) to hit, reach 1, one target. *Hit:* LEVEL bludgeoning damage.
-
-### Ogre Zombie Boss
-*Large Undead, neutral evil*
-
-**Armor Class** LEVEL + 14
-
-**MAX Wounds** LEVEL + 4
-
-**Speed** 6
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|+4|-2|+4|-4|-2|-3|
-
-#### ACTIONS
-**Morningstar.** *Melee Weapon Attack:* +(LEVEL + 4) to hit, reach 1, one target. *Hit:* LEVEL bludgeoning damage.
-
-#### LEGENDARY ACTIONS
-Ogre zombie bosses can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The ogre zombie boss regains spent legendary actions at the start of its turn.
-- **Bolster (2 actions).** Gain LEVEL shield(s). Eeach shield negates 1 point of damage. Once a shield is used, it is lost.
-- **Strike (1 action).** Make one melee attack against an adjacent foe.
-- **Parry (1 action).** Spend a reaction to increase AC by +(LEVEL) against melee attacks until the end of the round.
+||**Disrupt Life (3 Actions).** Each non-undead creature within 5 squares of the lich must make a DC (14 + LEVEL) Constitution saving throw against this magic, taking 3 necrotic damage on a failed save, or 1 necrotic damage on a successful one.| 
 
 # Monsters (Z)
 ## Zombies
