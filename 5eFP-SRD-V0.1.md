@@ -966,9 +966,9 @@ mages sometimes summon fiends to the material world to do their bidding. If an e
 
 # Monsters (A)
 ## Awakened Plant
-An awakened plant is an ordinary plant given sentience and mobility by the *awaken* spell or similar magic.
+*Small plant, unaligned*
 
-Awakened plants share the following statistics.
+An awakened plant is an ordinary plant given sentience and mobility by the *awaken* spell or similar magic. Awakened plants share the following statistics.
 - **Damage Vulnerability** fire
 - **Damage Resistances** piercing
 - **Senses** passive Perception 10
