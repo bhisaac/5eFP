@@ -995,8 +995,8 @@ An awakened plant is an ordinary plant given sentience and mobility by the *awak
 ||**⇧ Ability Scores.** STR +4; DEX -2; CON +2; INT +0; WIS +0; CHA -2|
 ||**⇧ Rake.** (4 + LEVEL) to hit, reach 2, one target. *Hit:* (LEVEL) slashing damage.|
 |**Boss**|**Legendary Actions**|
-||Awakened tree bosses can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The awakened tree boss regains spent legendary actions at the start of its turn.|
-||**Awaken (1 Action/minion).** Reanimate a defeated awakened shrub minion within reach for each action spent. Treat the plant as an awakened shrub minion.|
+||Awakened plant bosses can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The awakened plant boss regains spent legendary actions at the start of its turn.|
+||**Awaken (1 Action/minion).** Revive one defeated awakened plant minion within reach for each point spent. Awakened plants defeated with fire cannot be revived in this way.|
 ||**Slam (1 Action).** Make one slam attack against a foe.|
 ||**Bolster (2 Actions).** The awakened tree boss gains **bolster (1 + LEVEL)**.|
 
