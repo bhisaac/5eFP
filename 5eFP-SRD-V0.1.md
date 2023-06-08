@@ -1032,13 +1032,13 @@ Liches share the following statistics.
 |  |          |
 |-:|:---------|
 |**Minion**|**Features**|
-||**Spellcasting.** Liches are spellcasters. Thier spellcasting ability is Intelligence (2 + LEVEL to hit, save DC 12 + LEVEL). Liches have the following wizard spells prepared:|
+||**Spellcasting.** Lich minions are spellcasters. Thier spellcasting ability is Intelligence (2 + LEVEL to hit, save DC 12 + LEVEL). Liches have the following wizard spells prepared:|
 ||**Cantrips (at will):** *mage hand, prestidigitation, ray of frost*|
 |||
 ||**Actions**|
 ||**Paralyzing Touch.** Melee Spell Attack: (2 + LEVEL) to hit, reach 1, one creature. Hit: 1 cold damage. The target must succeed on a DC (12 + LEVEL) Constitution saving throw or be paralyzed until the end of the encounter. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.|
 |**Elite**|**Features**|
-||**⇧ Spellcasting.** (4 + LEVEL) to hit, save DC (14 + LEVEL). Liches have the following additional wizard spells prepared. LEVEL unlocks additional spell levels and spell slots.|
+||**⇧ Spellcasting.** (4 + LEVEL) to hit, save DC (14 + LEVEL). A lich elite has the following additional wizard spells prepared. LEVEL determines spell levels and spell slots.
 
 |   |          |
 |:-:|:---------|
@@ -1052,6 +1052,7 @@ Liches share the following statistics.
 |**5:**|7th level (1 slot): *finger of death, plane shift*|
 |**5:**|8th level (1 slot): *dominate monster, power word stun*|
 |**7**|9th level (1 slot): *power word kill*|
+||If LEVEL is listed more than once, the lich elite gains both benefits.|
 
 |  |          |
 |-:|:---------|
