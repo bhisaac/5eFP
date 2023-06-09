@@ -1008,14 +1008,9 @@ An awakened plant is an ordinary plant given sentience and mobility by the *awak
 - **Damage Resistances** piercing
 - **Senses** passive Perception 10
 - **Languages** understands Common in addition to the languages used by their creator but can’t speak.
+- **Speed** 4
 
 **False Appearance.** While the awakened plant remains motionless, it is indistinguishable from a normal plant.
-
-|   |**Minion**|**Elite**|**Boss**|
-|--:|:----:|:---:|:--:|
-|**Armor Class**|12 + LEVEL|14 + LEVEL|14 + LEVEL|
-|**MAX Wounds**|1|2 + LEVEL|4 + LEVEL|
-|**Speed**|4|4|4|
 
 |*STR*|*DEX*|*CON*|*INT*|*WIS*|*CHA*|
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -1024,12 +1019,13 @@ An awakened plant is an ordinary plant given sentience and mobility by the *awak
 |||
 |-:|:---------|
 |**Minion**|**Actions**|
-||**Rake.** *Melee Weapon Attack:* (2 + LEVEL) to hit, reach 1, one target. *Hit:* 1 slashing damage.|
+||**Rake.** *Melee Weapon Attack*, reach 1, one target. *Hit:* slashing damage.|
 |**Elite**|**Features**|
-||**⇧ Size.** *Huge*|
+||**⇧ Size.** *Huge*, increase reach by +1|
 ||**⇧ Ability Scores.** STR +4; DEX -2; CON +2; INT +0; WIS +0; CHA -2|
-||**⇧ Rake.** (4 + LEVEL) to hit, reach 2, one target. *Hit:* (LEVEL) slashing damage.|
-|**Boss**|**Legendary Actions**|
+|**Boss**|**Actions**|
+||**Slam.** *Melee Weapon Attack*, reach 2, one target. *Hit:* bludgeoning damage.|
+||**Legendary Actions**|
 ||Awakened plant bosses can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The awakened plant boss regains spent legendary actions at the start of its turn.|
 ||**Awaken (1 Action/minion).** Revive one defeated awakened plant minion within reach for each point spent. Awakened plants defeated with fire cannot be revived in this way.|
 ||**Slam (1 Action).** Make one slam attack against a foe.|
