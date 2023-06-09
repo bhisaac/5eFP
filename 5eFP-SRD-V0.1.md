@@ -983,19 +983,19 @@ Refer to the following table to determine further details about the encounter.
 
 |   |**Minion**|**Elite**|**Boss**|
 |--:|:----:|:---:|:--:|
-|**Armor Class**|12 + LEVEL|13 + LEVEL|14 + LEVEL|
-|**Save DC**|12 + LEVEL|13 + LEVEL|14 + LEVEL|
+|**Armor Class (AC)**|12 + LEVEL|13 + LEVEL|14 + LEVEL|
+|**Difficulty Class (DC)**|12 + LEVEL|13 + LEVEL|14 + LEVEL|
 |**Attack Modifier**|2 + LEVEL|3 + LEVEL|4 + LEVEL|
-|**Damage per Round**|1|LEVEL|LEVEL + 1|
+|**Damage**|1|LEVEL|LEVEL + 1|
 |**MAX Wounds**|1|2 + LEVEL|4 + LEVEL|
 
 **Armor Class (AC).** If the PCs take an attack action with a melee or ranged attack against the encounter, they must hit an AC equal to this number to succeed.
 
-**Save DC.** If the encounter requires a saving throw to resolve an effect, the save DC equals this number.
+**Difficulty Class (DC).** If the encounter requires a saving throw to resolve an effect, the save DC equals this number.
 
 **Attack Modifier.** If any part of the encounter can attack, it uses this number as the attack bonus.
 
-**Damage per Round.** If any part of the encounter deals damage, it deals a number of points of damage equal to this number.
+**Damage.** If any part of the encounter deals damage, it deals a number of points of damage equal to this number.
 
 **MAX Wounds.** If any part of the encounter can sustain points of damage, it gains MAX wounds equal to this number.
 
