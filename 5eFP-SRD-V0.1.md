@@ -1000,14 +1000,15 @@ Refer to the following table to determine further details about the encounter.
 **MAX Wounds.** If any part of the encounter can sustain points of damage, it gains MAX wounds equal to this number.
 
 # Monsters (A)
-## Awakened Plant
+## Awakened Shrub
 *Small plant, unaligned*
 
-An awakened plant is an ordinary plant given sentience and mobility by the *awaken* spell or similar magic. Awakened plants share the following statistics.
+An awakened shrub is an ordinary plant given sentience and mobility by the *awaken* spell or similar magic. Awakened shrubs share the following statistics.
 - **Damage Vulnerability** fire
 - **Damage Resistances** piercing
 - **Senses** passive Perception 10
 - **Languages** understands Common in addition to the languages used by their creator but can’t speak.
+- **Size** small
 - **Speed** 4
 
 **False Appearance.** While the awakened plant remains motionless, it is indistinguishable from a normal plant.
