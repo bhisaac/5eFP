@@ -887,7 +887,7 @@ Monsters are born and thrive in the wild places between settlements. Creature en
 |  |     |
 |-:|:----|
 |**Minion**||
-||Place a number of minions onto the playingfield equal to the number of players + 1.||
+|Place a number of minions onto the playingfield equal to the number of players + 1.||
 |**Elite**||
 |Place a number of minions onto the playingfield equal to the number of players + 1.||
 |Place up to 2 elites onto the playingfield.||
