@@ -1036,8 +1036,8 @@ Liches share the following statistics.
 
 |   |**Minion**|**Elite**|**Boss**|
 |--:|:----:|:---:|:--:|
-|**Armor Class**|12 + LEVEL|14 + LEVEL|14 + LEVEL|
-|**Attack Modifier**|2 + LEVEL|4 + LEVEL|4 + LEVEL|
+|**Armor Class**|12 + LEVEL|13 + LEVEL|14 + LEVEL|
+|**Attack Modifier**|2 + LEVEL|3 + LEVEL|4 + LEVEL|
 |**Damage per Round**|1|LEVEL|LEVEL + 1|
 |**MAX Wounds**|1|2 + LEVEL|4 + LEVEL|
 |**Speed**|6|6|6|
