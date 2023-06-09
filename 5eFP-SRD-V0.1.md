@@ -986,7 +986,7 @@ Refer to the following table to determine further details about the encounter.
 |**Armor Class (AC)**|12 + LEVEL|13 + LEVEL|14 + LEVEL|
 |**Difficulty Class (DC)**|12 + LEVEL|13 + LEVEL|14 + LEVEL|
 |**Attack Modifier**|2 + LEVEL|3 + LEVEL|4 + LEVEL|
-|**Damage**|1|LEVEL|LEVEL + 1|
+|**Damage**|1|LEVEL|1 + LEVEL|
 |**MAX Wounds**|1|2 + LEVEL|4 + LEVEL|
 
 **Armor Class (AC).** If the PCs take an attack action with a melee or ranged attack against the encounter, they must hit an AC equal to this number to succeed.
