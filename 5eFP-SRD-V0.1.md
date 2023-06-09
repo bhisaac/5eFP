@@ -1021,7 +1021,7 @@ An awakened plant is an ordinary plant given sentience and mobility by the *awak
 |**Minion**|**Actions**|
 ||**Rake.** *Melee Weapon Attack*, reach 1, one target. *Hit:* slashing damage.|
 |**Elite**|**Features**|
-||**⇧ Size.** *Huge*, increase reach by +1|
+||**⇧ Size.** *Huge*|
 ||**⇧ Ability Scores.** STR +4; DEX -2; CON +2; INT +0; WIS +0; CHA -2|
 |**Boss**|**Actions**|
 ||**Slam.** *Melee Weapon Attack*, reach 2, one target. *Hit:* bludgeoning damage.|
