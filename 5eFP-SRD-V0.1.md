@@ -877,13 +877,32 @@ If	either	weapon	has	the	thrown	property,	you	can	throw	the	weapon,	instead	of	m
 
 (floating section)
 # Encounters
-5eFP uses encounters to describe anything PCs encounter while on a map. Traps, creatures, and story-situations are all considered encounters. All encounters use the same rules.
+5eFP uses encounters to describe all the adversity PCs encounter while exploring a map. Traps, creatures, and challenging story-situations are all considered encounters. An encounter's statistics are determined by the type of encounter and the level of play. This section details each type and provides templates for quick gameplay.
 
-**GM TIP:** Resourceful PCs find cleaver ways of bypassing combat. Whenever this happens, award Coin as if the PCs had defeated the encounter using combat without completing bonus combat objectives.
+## Type
+Encounter type describes what kind of encounter it is.
+### Creature
+Monsters are born and thrive in the wild places between settlements. Creature encounters rely on combat and tactics. They involve one of three templates:
+
+|  |     |
+|-:|:---:|
+|**Minion**||
+||Place a number of minions onto the playingfield equal to the number of players + 1.|
+|**Elite**||
+||Place a number of minions onto the playingfield equal to the number of players + 1.|
+||Place up to 2 elites onto the playingfield.|
+|**Boss**||
+||Place a number of minions onto the playingfield equal to the number of players + 1.|
+||Place 1 boss onto the playingfield adjacent to a minion.|
+
+### Dungeon
+### Settlement
+### Story
+### Trap
 
 **LEVEL.** Encounter statistics are determined by the current level of play (LEVEL).
 
-**Damage.** If an encounter includes a creature, a trap, or an environmental condition that deals damage, then it deals no more than the listed value per round.
+**Damage.** If an encounter includes a creature, a trap, an environmental condition, or some feature that deals damage, then it deals no more than the listed value per round.
 
 **Armor Class (AC).** This value represents how difficult it is to attack a creature, adversary, or obstacle within the encounter.
 
