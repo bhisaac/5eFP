@@ -991,7 +991,7 @@ Refer to the following table to determine further details about the encounter.
 
 **Armor Class (AC).** If the PCs take an attack action with a melee or ranged attack against the encounter, they must hit an AC equal to this number to succeed.
 
-**Difficulty Class (DC).** If the encounter requires a saving throw to resolve an effect, the save DC equals this number.
+**Difficulty Class (DC).** If the encounter requires a saving throw or skill check, set the DC to this number.
 
 **Attack Modifier.** If any part of the encounter can attack, it uses this number as the attack bonus.
 
