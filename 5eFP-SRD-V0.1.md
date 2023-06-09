@@ -884,9 +884,9 @@ Encounter type describes what kind of encounter it is.
 ### Creature
 Monsters are born and thrive in the wild places between settlements. Creature encounters often rely on combat and tactics, but they do not require combat to overcome. Creature encounters are defined as one of three templates:
 
-- **Minion.** Place a number of minions onto the playingfield equal to the number of PCs + 1.
-- **Elite.** Place a number of minions onto the playingfield equal to the number of PCs + 1. Place up to 2 elites onto the playingfield.
-- **Boss.** Place a number of minions onto the playingfield equal to the number of PCs + 1. Place 1 boss onto the playingfield adjacent to a minion.
+- **Minion.** Place (number of PCs + 1) minions onto the playingfield.
+- **Elite.** As **Minion**, add 2 elites onto the playingfield.
+- **Boss.** As **Minion**, add 1 boss onto the playingfield adjacent to a minion.
 
 ### Dungeon
 ### Settlement
