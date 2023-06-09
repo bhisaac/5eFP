@@ -977,7 +977,17 @@ mages sometimes summon fiends to the material world to do their bidding. If an e
 ---
 
 # Monsters
-Monsters are alphabetized into sections by creature name. A creature section may contain statistics for up to four varieties of the same monster. Typical varities include minion, elite, and boss versions.
+Monsters are alphabetized by creature name. A creature section may contain up to four varieties of the same monster. Typical varities include minion, elite, and boss.
+
+Refer to the following table to determine further details about the encounter.
+
+|   |**Minion**|**Elite**|**Boss**|
+|--:|:----:|:---:|:--:|
+|**Armor Class**|12 + LEVEL|13 + LEVEL|14 + LEVEL|
+|**Save DC**|12 + LEVEL|13 + LEVEL|14 + LEVEL|
+|**Attack Modifier**|2 + LEVEL|3 + LEVEL|4 + LEVEL|
+|**Damage per Round**|1|LEVEL|LEVEL + 1|
+|**MAX Wounds**|1|2 + LEVEL|4 + LEVEL|
 
 # Monsters (A)
 ## Awakened Plant
