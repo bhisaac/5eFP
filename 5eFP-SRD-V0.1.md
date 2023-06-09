@@ -885,7 +885,7 @@ Encounter type describes what kind of encounter it is.
 Monsters are born and thrive in the wild places between settlements. Creature encounters rely on combat and tactics. They involve one of three templates:
 
 |  |     |
-|-:|:---:|
+|-:|:----|
 |**Minion**||
 ||Place a number of minions onto the playingfield equal to the number of players + 1.|
 |**Elite**||
