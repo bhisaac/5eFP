@@ -877,7 +877,7 @@ If	either	weapon	has	the	thrown	property,	you	can	throw	the	weapon,	instead	of	m
 
 (floating section)
 # Encounters
-5eFP uses encounters to describe all the adversity PCs encounter while exploring a map. Traps, creatures, and challenging story-situations are all considered encounters. An encounter's statistics are determined by the type of encounter and the level of play. This section details each type and provides templates for quick gameplay.
+5eFP uses encounters to describe all the adversity PCs encounter while exploring a map. Traps, creatures, and challenging story situations are all considered encounters. An encounter's statistics are determined by the type of encounter, the number of PCs, and the level of play. This section details each type and provides templates for quick gameplay.
 
 ## Type
 Encounter type describes what kind of encounter it is.
