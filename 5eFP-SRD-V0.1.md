@@ -1055,7 +1055,7 @@ Awakened shrub bosses can take 3 legendary actions, choosing from the options be
 
 **Rake (1 Action).** Make one rake attack against a foe.
 
-**Thrash (1 Action).** The awakened shrub boss
+**Thrash (1 Action).** The awakened shrub boss deals piercing damge to adjacent foes. A successful DEX save reduces the damage by half.
 
 **Bolster (2 Actions).** The awakened shrub boss gains **bolster (1 + LEVEL)**.
 
