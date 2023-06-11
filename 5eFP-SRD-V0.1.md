@@ -1046,6 +1046,8 @@ An awakened shrub is an ordinary plant given sentience and mobility by the *awak
 ### Boss Features
 **⇧ Size.** Increase the awakened shrub minion's size to large (2x2).
 
+**⇧ Rake.** *Melee Weapon Attack*, ***reach 2***, one target. *Hit:* slashing damage.
+
 #### Legendary Actions
 Awakened shrub bosses can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The awakened shrub boss regains spent legendary actions at the start of its turn.
 
