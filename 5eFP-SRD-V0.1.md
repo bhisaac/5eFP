@@ -875,50 +875,53 @@ After the conclusion of a 5eFP session, players take 1 or more rounds of downtim
 At the start of a player's downtime round, that player may (board game: choose and place a worker from thier character sheet on the appropriate regions on the HQ map) choose and gain the benefits of one downtime activity (see below). All PCs have this basic option no matter how many Coin they have.
 
 ### Downtime Activities
-Whenever a PC chooses a specific downtime activity, it cannot be chosen again until the beginning of the next round of downtime. 
+Whenever a PC chooses a specific downtime activity, it cannot be chosen again until the beginning of the next round of downtime. During a round of downtime, a PC can perform the following actions:
 
-#### Crafting
+- **1 Action.** Choose and gain the benefit of 1 downtime activity.
+- **1 Reaction.** You have one reaction during a round of downtime. Once you use your reaction, you cannot do so again until the beginning of the next round of downtime.
+- **1 Bonus Action.** You may perform one bonus action during a round of downtime.
+- **1 Object Interaction.** You may equip or unequip one item.
+
+### Crafting
 Choose this option to create items used in the game.
 
 You can craft nonmagical objects, including adventuring equipment and works of art. You must be proficient with tools related to the object you are trying to create (typically artisan’s tools). You might also need access to special materials or locations necessary to create it. For example, someone proficient with smith’s tools needs a forge in order to craft a sword or suit of armor.
 
-For every day of downtime you spend crafting, you can craft one or more items with a total market value not exceeding 5 gp, and you must expend raw materials worth half the total market value. If something you want to craft has a market value greater than 5 gp, you make progress every day in 5-­‐‑ gp increments until you reach the market value of the item. For example, a suit of plate armor (market value 1,500 gp) takes 300 days to craft by yourself.
-Multiple characters can combine their efforts toward the crafting of a single item, provided that the characters all have proficiency with the requisite tools and are working together in the same place. Each character contributes 5 gp worth of effort for every day spent helping to craft the item. For example, three characters with the requisite tool proficiency and the proper facilities can craft a suit of plate armor in 100 days, at a total cost of 750 gp.
+For every round of downtime you spend crafting, you can craft one item. The cost of creating some items requires spending more than one downtime round.
+
+Multiple characters can combine their efforts toward the crafting of a single item, provided that the characters all have the relevant tools equipped and are working together in the same place. Each additional character contributes +1 downtime round toward crafting the item. For example, three characters with the requisite tool proficiency and the proper facilities contribute +3 downtime rounds toward crafting a suit of plate armor. Crafting plate armor requires 6 rounds of downtime.
 While crafting, you can maintain a modest lifestyle without having to pay 1 gp per day, or a comfortable lifestyle at half the normal cost.
 
 Whenever you choose the crafting downtime activity, you can choose to create any 1 of the following items, provided you meet the prerequisites:
 
-|  |  |
-|-:|:-|
-||**Healing Potion**|
-|**Requires**|healer class or|
-||(a) proficiency with herbalism kit, (b) herbalism kit equiped, and (c) a herbalism trade good equipped|
+**Healing Potion.** You create a minor healing potion.
+- (a) herbalism kit equiped and (b) 1 herbs trade good equipped, or (a) healer class
 
-
-**Healing Potion.** You create a minor healing potion. Required:
+**Holy Water.** You create holy water.
 - healer class or
-- (a) proficiency with herbalism kit, (b) herbalism kit equiped, and (c) 1 herbs trade good equipped
+- (a) acolyte bakground and (b) temple building
 
-**Holy Water.** You create holy water. Required:
-- healer class
-
-**Trade Goods.** You harvest, gather, or forge trade goods. Remove 1 quipped trade goods from your equipment: gain +1 round of downtime activity. Required:
-- (a) guild artisan background or
-- (a) 1 trade good equipped, (b) proficiency with relevant tool, and (c) the relevant tool is equipped
+**Trade Goods.** You harvest, gather, or forge trade goods. Remove 1 trade good from your inventory: gain +1 round of downtime activity. Required:
+- (a) guild artisan background and (b) artisan guildhall building, or
+- (a) 1 trade good in your inventory and (b) the relevant tool is equipped
 
 **.**
 
-#### Practicing a Profession
+### Practicing a Profession
+You gain the benefits of rest and repairs without spending 1 Coin.
+
+Roll a Performance check and 
+
+If you are a member of an organization that can provide gainful employment, such as a temple or a thieves’ guild, you earn enough to support a comfortable lifestyle instead.
+If you have proficiency in the Performance skill and put your performance skill to use during your downtime, you earn enough to support a wealthy lifestyle instead.
+
+### Recuperating
 
 
-
-#### Recuperating
-
-
-#### Researching
+### Researching
 
 
-#### Training
+### Training
 
 
 
