@@ -865,6 +865,74 @@ Acolytes are shaped by their experience in temples or other religious communitie
 
 ---
 
+# Equipment
+## Coin
+5eFP campaign settings use Coin to represent wealth, experience, and reputation. The name of a Coin may change in some 5eFP campaign settings. For example, Coins may be referred to as "gold pieces" in a mideval fantasy setting whereas Coin may refer to "credits" in a futuristic sci-fi setting. Regardless of how they are described, all Coins use the same rules.
+
+### Spending Coin
+After the conclusion of a 5eFP session, players take 1 or more rounds of downtime. At the start of the downtime phase, PCs roll thier downtime initiative. Each rolls a d20 and adds the number of Coins they currently have. This is called the downtime initiative, or just initiative.
+
+At the start of a player's downtime round, that player may (board game: choose and place a worker from thier character sheet on the appropriate regions on the HQ map) choose and gain the benefits of one downtime activity (see below). All PCs have this basic option no matter how many Coin they have.
+
+### Downtime Activities
+Whenever a PC chooses a specific downtime activity, it cannot be chosen again until the beginning of the next round of downtime. 
+
+#### Crafting
+Choose this option to create items used in the game.
+
+You can craft nonmagical objects, including adventuring equipment and works of art. You must be proficient with tools related to the object you are trying to create (typically artisan’s tools). You might also need access to special materials or locations necessary to create it. For example, someone proficient with smith’s tools needs a forge in order to craft a sword or suit of armor.
+
+For every day of downtime you spend crafting, you can craft one or more items with a total market value not exceeding 5 gp, and you must expend raw materials worth half the total market value. If something you want to craft has a market value greater than 5 gp, you make progress every day in 5-­‐‑ gp increments until you reach the market value of the item. For example, a suit of plate armor (market value 1,500 gp) takes 300 days to craft by yourself.
+Multiple characters can combine their efforts toward the crafting of a single item, provided that the characters all have proficiency with the requisite tools and are working together in the same place. Each character contributes 5 gp worth of effort for every day spent helping to craft the item. For example, three characters with the requisite tool proficiency and the proper facilities can craft a suit of plate armor in 100 days, at a total cost of 750 gp.
+While crafting, you can maintain a modest lifestyle without having to pay 1 gp per day, or a comfortable lifestyle at half the normal cost.
+
+Whenever you choose the crafting downtime activity, you can choose to create any 1 of the following items, provided you meet the prerequisites:
+
+|  |   |
+|-:|:-:|
+||**Healing Potion**|
+|**Requires**|healer class or|
+|(a) proficiency with herbalism kit,||
+|(b) herbalism kit equiped, and||
+|(c) a herbalism trade good equipped||
+
+
+**Healing Potion.** You create a minor healing potion. Required:
+- healer class or
+- (a) proficiency with herbalism kit, (b) herbalism kit equiped, and (c) 1 herbs trade good equipped
+
+**Holy Water.** You create holy water. Required:
+- healer class
+
+**Trade Goods.** You harvest, gather, or forge trade goods. Remove 1 quipped trade goods from your equipment: gain +1 round of downtime activity. Required:
+- (a) guild artisan background or
+- (a) 1 trade good equipped, (b) proficiency with relevant tool, and (c) the relevant tool is equipped
+
+**.**
+
+#### Practicing a Profession
+
+
+
+#### Recuperating
+
+
+#### Researching
+
+
+#### Training
+
+
+
+Common coins come in several different denominations based on the relative worth of the metal from which they are made. The three most common coins are the gold piece (gp), the silver piece (sp), and the copper piece (cp).
+With one gold piece, a character can buy a bedroll, 50 feet of good rope, or a goat. A skilled (but not exceptional) artisan can earn one gold piece a day. The gold piece is the standard unit of measure for wealth, even if the coin itself is not commonly used. When merchants discuss deals that involve goods or services worth hundreds or thousands of gold pieces, the transactions don’t usually involve the exchange of individual coins. Rather, the gold piece is a standard measure of value, and the actual exchange is in gold bars, letters of credit, or valuable goods.
+One gold piece is worth ten silver pieces, the most prevalent coin among commoners. A silver piece buys a laborer’s work for half a day, a flask of lamp oil, or a night’s rest in a poor inn.
+One silver piece is worth ten copper pieces, which are common among laborers and beggars. A single copper piece buys a candle, a torch, or a piece of chalk.
+In addition, unusual coins made of other precious metals sometimes appear in treasure hoards. The electrum piece (ep) and the platinum piece (pp) originate from fallen empires and lost kingdoms, and they sometimes arouse suspicion and skepticism when used in transactions. An electrum piece is worth five silver pieces, and a platinum piece is worth ten gold pieces.
+A standard coin weighs about a third of an ounce, so fifty coins weigh a pound.
+
+---
+
 # Making An Attack
 ## Two-Weapon Fighting (needs playtesting)
 ~~When	you	take	the	Attack	action	and	attack	with	a	light	melee	weapon	that	you’re	holding	in	one	hand,	you	can	use	a	bonus	action	to	attack	with	a	different light melee	weapon	that	you’re	holding	in	the	other	hand.	You	don’t	add	your	ability	modifier	to	the	damage	of	the	bonus	attack,	unless	that	modifier	is	negative.~~
