@@ -993,7 +993,7 @@ Not all monsters in the game will respond to reason or diplomacy. Some monsters 
 5eFP frequently presents monster encounters filled with adversarial creatures the PCs must push through to finish mission objectives. While the game can comfortably filfill a combat or tactical wargame role, it is flexible enough to allow cleaver PCs to bypass combat entirely. Whenever the PCs resolve a monster encounter without defeating or forcibly subduing its creatures, award Coin as if they had defeated the encounter with combat.
 
 ## Monster Descriptions and Statistics
-Monsters are alphabetized by creature name. A creature section may contain up to four varieties of the same monster. Typical varities include minion, elite, and boss. Refer to the following table to determine the base statistics for each creature type.
+Monsters are alphabetized by creature name. A creature section may contain up to four varieties of the same monster. Typical varities include minion, elite, and boss. Refer to the table below to determine the base statistics for each creature type.
 
 **Armor Class (AC).** If the PCs take an action against the encounter resulting in a melee or ranged attack, they must hit an AC equal to this number to succeed.
 
@@ -1012,6 +1012,13 @@ Monsters are alphabetized by creature name. A creature section may contain up to
 |**Attack Modifier**|2 + LEVEL|3 + LEVEL|4 + LEVEL|
 |**Damage**|1|LEVEL|1 + LEVEL|
 |**MAX Wounds**|1|2 + LEVEL|4 + LEVEL|
+
+### Customizing Monster Encounters
+Monster encounters can be adapted by GMs to fulfill alternative roles in a combat. For example, a GM may wish to alter a minion by increasing its AC to represent a heavily armored creature. A creature's statistics provided through it's type can be modified by increasing a statistic by up to +LEVEL. If a statistic is increased this way, the GM must reduce another statistic by an equal amount. 
+
+When reducing statistics, GMs can only choose and reduce a creature statistic used in the encounter. For example, during a level 1 monster encounter, the GM wants increases an awakened shrub minion's AC by +1. The cost of increasing the minion's AC is paid by decreasing its attack modifier by -1. The GM cannot choose and decrease MAX wounds below 1 for minions, below 2 for elites, and below 5 for bosses. GMs also cannot reduce damage below 1 for minions. In this example, the GM was not able to decrease the DC statistic by -1 becuase the awakened shrub minion doesn't possess a statistic that uses a DC.
+
+A creature's statistics can be increased any number of times, provided the GM can decrease another statistic by the same amount.
 
 ## Monsters (A)
 ### Awakened Shrub
