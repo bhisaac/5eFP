@@ -972,21 +972,27 @@ mages sometimes summon fiends to the material world to do their bidding. If an e
 ---
 
 # Monster Abilities
-**Bolster X.** This creature gains **bolster X**, where *X* is a pool of points used to reduce incoming damage. As long as this creature has a bolster pool of 1 or more, it may assign 1 or more bolster points as a free action to reduce the damage by 1 for each point spent. Spent points are lost. Whenever a creature has two or more bolster pools, it keeps the largest bolster pool and discards the rest.
+## Bolster X
+This creature gains **bolster X**, where *X* is a pool of points used to reduce incoming damage. As long as this creature has a bolster pool of 1 or more, it may assign 1 or more bolster points as a free action to reduce the damage by 1 for each point spent. Spent points are lost. Whenever a creature has two or more bolster pools, it keeps the largest bolster pool and discards the rest.
+
+## Damage Resistances
+This creature resists any damage dealt from the listed damage types. Whenever this creature is assigned 1 or more points of damage from a damage type listed, divide the assigned damage in half.
+
+
 
 ---
 
 # Monsters
-### The Role of Monsters in 5eFP
+## The Role of Monsters in 5eFP
 Monsters usually have bad reputations in the stories we tell one another and ourselves. Monsters can be aggressive, amoral, and adversarial. They are encountered while PCs strive to complete mission objecctives. But some monsters are more even-tempered, and some are unlockable species PCs can play. "Monster" is a term of convienience for backward compatability with the fifth edition d20 system. When we see "monster," we are encouraged to look at them as shadows or distored reflections of ourselves who resist growth and change.
 
-### Befriending Monsters
+## Befriending Monsters
 Not all monsters in the game will respond to reason or diplomacy. Some monsters such as mindless undead or automatons lack the ability to hear or comprehend appeals to their better nature. Creatures with a degree of intelligence and wisdom may respond favorably to acts of kindness. A favorable Insight check followed by a successful Medicine check can influence a monster and turn the tide of agression and violence toward peace and understanding.
 
-### Combat is Optional
+## Combat is Optional
 5eFP frequently presents monster encounters filled with adversarial creatures the PCs must push through to finish mission objectives. While the game can comfortably filfill a combat or tactical wargame role, it is flexible enough to allow cleaver PCs to bypass combat entirely. Whenever the PCs resolve a monster encounter without defeating or forcibly subduing its creatures, award Coin as if they had defeated the encounter with combat.
 
-### Monster Descriptions and Statistics
+## Monster Descriptions and Statistics
 Monsters are alphabetized by creature name. A creature section may contain up to four varieties of the same monster. Typical varities include minion, elite, and boss. Refer to the following table to determine the base statistics for each creature type.
 
 **Armor Class (AC).** If the PCs take an action against the encounter resulting in a melee or ranged attack, they must hit an AC equal to this number to succeed.
@@ -1007,8 +1013,8 @@ Monsters are alphabetized by creature name. A creature section may contain up to
 |**Damage**|1|LEVEL|1 + LEVEL|
 |**MAX Wounds**|1|2 + LEVEL|4 + LEVEL|
 
-# Monsters (A)
-## Awakened Shrub
+## Monsters (A)
+### Awakened Shrub
 *Small plant, unaligned*
 
 An awakened shrub is an ordinary plant given sentience and mobility by the *awaken* spell or similar magic. Awakened shrubs share the following statistics.
@@ -1050,8 +1056,8 @@ An awakened shrub is an ordinary plant given sentience and mobility by the *awak
 ||**Slam (1 Action).** Make one slam attack against a foe.|
 ||**Bolster (2 Actions).** The awakened plant boss gains **bolster (1 + LEVEL)**.|
 
-# Monsters (L)
-## Lich
+## Monsters (L)
+### Lich
 *Medium Undead, evil*
 
 Once fine robes hang in tatters from this withered corpse’s frame. A pale blue light shines from where its eyes should be.
@@ -1122,8 +1128,8 @@ Liches share the following statistics.
 ||**Frightening Gaze (2 Actions).** The lich fixes its gaze on one creature it can see within 2 squares of it. The target must succeed on a DC (14 + LEVEL) Wisdom saving throw against this magic or become frightened until the end of the encounter. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target’s saving throw is successful or the effect ends for it, the target is immune to the lich’s gaze for the next 24 hours.|
 ||**Disrupt Life (3 Actions).** Each non-undead creature within 5 squares of the lich must make a DC (14 + LEVEL) Constitution saving throw against this magic, taking 3 necrotic damage on a failed save, or 1 necrotic damage on a successful one.| 
 
-# Monsters (Z)
-## Zombie
+## Monsters (Z)
+### Zombie
 Zombies share the following statistics.
 - **Saving Throws** WIS 2 + LEVEL
 - **Damage Immunities** poison
