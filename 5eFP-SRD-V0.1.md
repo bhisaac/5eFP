@@ -972,24 +972,23 @@ mages sometimes summon fiends to the material world to do their bidding. If an e
 ---
 
 # Monster Abilities
-**Bolster X.** This creature gains **bolster X**, where *X* is a pool of points used to reduce incoming damage. As long as this creature has a bolster pool of 1 or more, it may assign 1 or more bolster points as a free action to reduce the damage by 1 for each point spent. Spent points are lost. Whenever this creature gains two or more bolster pools, it keeps the largest bolster pool and discards the rest.
+**Bolster X.** This creature gains **bolster X**, where *X* is a pool of points used to reduce incoming damage. As long as this creature has a bolster pool of 1 or more, it may assign 1 or more bolster points as a free action to reduce the damage by 1 for each point spent. Spent points are lost. Whenever a creature has two or more bolster pools, it keeps the largest bolster pool and discards the rest.
 
 ---
 
 # Monsters
-Monsters are alphabetized by creature name. A creature section may contain up to four varieties of the same monster. Typical varities include minion, elite, and boss.
+## The Role of Monsters in 5eFP
+Monsters usually have bad reputations in the stories we tell one another and ourselves. Monsters can be aggressive, amoral, and adversarial. They are encountered while PCs strive to complete mission objecctives. But some monsters are more even-tempered, and some are unlockable species PCs can play. "Monster" is a term of convienience for backward compatability with the fifth edition d20 system. When we see "monster," we are encouraged to look at them as shadows or distored reflections of ourselves who resist growth and change.
 
-Refer to the following table to determine further details about the encounter.
+## Befriending Monsters
+Not all monsters in the game will respond to reason or diplomacy. Some monsters such as mindless undead or automatons lack the ability to hear or comprehend appeals to their better nature. Creatures with a degree of intelligence and wisdom may respond favorably to acts of kindness. A favorable Insight check followed by a successful Medicine check can influence a monster and turn the tide of agression and violence toward peace and understanding.
 
-|   |**Minion**|**Elite**|**Boss**|
-|--:|:----:|:---:|:--:|
-|**Armor Class (AC)**|12 + LEVEL|13 + LEVEL|14 + LEVEL|
-|**Difficulty Class (DC)**|12 + LEVEL|13 + LEVEL|14 + LEVEL|
-|**Attack Modifier**|2 + LEVEL|3 + LEVEL|4 + LEVEL|
-|**Damage**|1|LEVEL|1 + LEVEL|
-|**MAX Wounds**|1|2 + LEVEL|4 + LEVEL|
+## Combat is Optional
+5eFP frequently presents monster encounters filled with adversarial creatures the PCs must push through to finish mission objectives. While the game can comfortably filfill a combat or tactical wargame role, it is flexible enough to allow cleaver PCs to bypass combat entirely. Whenever the PCs resolve a monster encounter without defeating or forcibly subduing its creatures, award Coin as if they had defeated the encounter with combat.
 
-**Armor Class (AC).** If the PCs take an attack action with a melee or ranged attack against the encounter, they must hit an AC equal to this number to succeed.
+Monsters are alphabetized by creature name. A creature section may contain up to four varieties of the same monster. Typical varities include minion, elite, and boss. Refer to the following table to determine the default statistics for each creature type.
+
+**Armor Class (AC).** If the PCs take an action against the encounter resulting in a melee or ranged attack, they must hit an AC equal to this number to succeed.
 
 **Difficulty Class (DC).** If the encounter requires a saving throw or skill check, set the DC to this number.
 
@@ -998,6 +997,14 @@ Refer to the following table to determine further details about the encounter.
 **Damage.** If any part of the encounter deals damage, it deals a number of points of damage equal to this number.
 
 **MAX Wounds.** If any part of the encounter can sustain points of damage, it gains MAX wounds equal to this number.
+
+|   |**Minion**|**Elite**|**Boss**|
+|--:|:----:|:---:|:--:|
+|**Armor Class (AC)**|12 + LEVEL|13 + LEVEL|14 + LEVEL|
+|**Difficulty Class (DC)**|12 + LEVEL|13 + LEVEL|14 + LEVEL|
+|**Attack Modifier**|2 + LEVEL|3 + LEVEL|4 + LEVEL|
+|**Damage**|1|LEVEL|1 + LEVEL|
+|**MAX Wounds**|1|2 + LEVEL|4 + LEVEL|
 
 # Monsters (A)
 ## Awakened Shrub
