@@ -1040,28 +1040,22 @@ An awakened shrub is an ordinary plant given sentience and mobility by the *awak
 
 **Rake.** *Melee Weapon Attack*, reach 1, one target. *Hit:* slashing damage.
 
-**Legendary Actions.** Awakened shrub bosses can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The awakened plant boss regains spent legendary actions at the start of its turn.
+### Elite Features
+**⇧ Size.** Increase the awakened shrub elite's size to medium (1x1).
+
+### Boss Features
+**⇧ Size.** Increase the awakened shrub minion's size to large (2x2).
+
+#### Legendary Actions
+Awakened shrub bosses can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The awakened shrub boss regains spent legendary actions at the start of its turn.
 
 **Awaken (1 Action/minion).** Revive one defeated awakened plant minion within reach for each point spent. Awakened plants defeated with fire cannot be revived in this way.
 
 **Rake (1 Action).** Make one rake attack against a foe.
 
-**Bolster (2 Actions).** The awakened plant boss gains **bolster (1 + LEVEL)**.
+**Thrash (1 Action).** The awakened shrub boss
 
-|||
-|-:|:---------|
-|**Minion**|**Actions**|
-||**Rake.** *Melee Weapon Attack*, reach 1, one target. *Hit:* slashing damage.|
-|**Elite**|**Features**|
-||**⇧ Size.** *Huge*|
-||**⇧ Ability Scores.** STR +4; DEX -2; CON +2; INT +0; WIS +0; CHA -2|
-|**Boss**|**Actions**|
-||**Slam.** *Melee Weapon Attack*, reach 2, one target. *Hit:* bludgeoning damage.|
-||**Legendary Actions**|
-||Awakened plant bosses can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The awakened plant boss regains spent legendary actions at the start of its turn.|
-||**Awaken (1 Action/minion).** Revive one defeated awakened plant minion within reach for each point spent. Awakened plants defeated with fire cannot be revived in this way.|
-||**Slam (1 Action).** Make one slam attack against a foe.|
-||**Bolster (2 Actions).** The awakened plant boss gains **bolster (1 + LEVEL)**.|
+**Bolster (2 Actions).** The awakened shrub boss gains **bolster (1 + LEVEL)**.
 
 ## Monsters (L)
 ### Lich
