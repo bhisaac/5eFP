@@ -892,9 +892,7 @@ Whenever you choose the crafting downtime activity, you can choose to create any
 |-:|:-:|
 ||**Healing Potion**|
 |**Requires**|healer class or|
-|(a) proficiency with herbalism kit,||
-|(b) herbalism kit equiped, and||
-|(c) a herbalism trade good equipped||
+||(a) proficiency with herbalism kit, (b) herbalism kit equiped, and (c) a herbalism trade good equipped|
 
 
 **Healing Potion.** You create a minor healing potion. Required:
