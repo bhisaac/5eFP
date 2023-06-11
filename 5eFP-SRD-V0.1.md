@@ -888,8 +888,8 @@ While crafting, you can maintain a modest lifestyle without having to pay 1 gp p
 
 Whenever you choose the crafting downtime activity, you can choose to create any 1 of the following items, provided you meet the prerequisites:
 
-|  |   |
-|-:|:-:|
+|  |  |
+|-:|:-|
 ||**Healing Potion**|
 |**Requires**|healer class or|
 ||(a) proficiency with herbalism kit, (b) herbalism kit equiped, and (c) a herbalism trade good equipped|
