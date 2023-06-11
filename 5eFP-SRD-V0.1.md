@@ -1051,7 +1051,7 @@ An awakened shrub is an ordinary plant given sentience and mobility by the *awak
 #### Legendary Actions
 Awakened shrub bosses can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The awakened shrub boss regains spent legendary actions at the start of its turn.
 
-**Awaken (1 Action/minion).** Revive one defeated awakened plant minion within reach for each point spent. Awakened plants defeated with fire cannot be revived in this way.
+**Awaken (1 Action/minion).** Revive one defeated plant minion within line of sight for each point spent. Plant minions defeated with fire cannot be revived in this way.
 
 **Rake (1 Action).** Make one rake attack against a foe.
 
