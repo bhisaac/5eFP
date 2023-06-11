@@ -977,16 +977,17 @@ mages sometimes summon fiends to the material world to do their bidding. If an e
 ---
 
 # Monsters
-## The Role of Monsters in 5eFP
+### The Role of Monsters in 5eFP
 Monsters usually have bad reputations in the stories we tell one another and ourselves. Monsters can be aggressive, amoral, and adversarial. They are encountered while PCs strive to complete mission objecctives. But some monsters are more even-tempered, and some are unlockable species PCs can play. "Monster" is a term of convienience for backward compatability with the fifth edition d20 system. When we see "monster," we are encouraged to look at them as shadows or distored reflections of ourselves who resist growth and change.
 
-## Befriending Monsters
+### Befriending Monsters
 Not all monsters in the game will respond to reason or diplomacy. Some monsters such as mindless undead or automatons lack the ability to hear or comprehend appeals to their better nature. Creatures with a degree of intelligence and wisdom may respond favorably to acts of kindness. A favorable Insight check followed by a successful Medicine check can influence a monster and turn the tide of agression and violence toward peace and understanding.
 
-## Combat is Optional
+### Combat is Optional
 5eFP frequently presents monster encounters filled with adversarial creatures the PCs must push through to finish mission objectives. While the game can comfortably filfill a combat or tactical wargame role, it is flexible enough to allow cleaver PCs to bypass combat entirely. Whenever the PCs resolve a monster encounter without defeating or forcibly subduing its creatures, award Coin as if they had defeated the encounter with combat.
 
-Monsters are alphabetized by creature name. A creature section may contain up to four varieties of the same monster. Typical varities include minion, elite, and boss. Refer to the following table to determine the default statistics for each creature type.
+### Monster Descriptions and Statistics
+Monsters are alphabetized by creature name. A creature section may contain up to four varieties of the same monster. Typical varities include minion, elite, and boss. Refer to the following table to determine the base statistics for each creature type.
 
 **Armor Class (AC).** If the PCs take an action against the encounter resulting in a melee or ranged attack, they must hit an AC equal to this number to succeed.
 
