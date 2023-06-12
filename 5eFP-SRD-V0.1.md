@@ -1160,34 +1160,19 @@ Liches share the following statistics.
 ### Elite Features
 **⇧ Spellcasting.** A lich elite has the following additional wizard spells prepared. LEVEL determines spell levels and spell slots.
 
-|  |  |
+|||
 |-:|:-|
-|**LEVEL 1**|1st level (4 slots): *detect magic, magic missile, shield, thunderwave*|
-||2nd level (3 slots): *acid arrow, detect thoughts, invisibility, mirror image*|
-|**LEVEL 2**|3rd level (3 slots): *animate dead, counterspell, dispel magic, fireball*|
-|**LEVEL 3**|4th level (3 slots): *detect magic, magic missile, shield, thunderwave*|
-||5th level (3 slots): *acid arrow, detect thoughts, invisibility, mirror image*|
-
-**LEVEL 1**
-- 1st level (4 slots): *detect magic, magic missile, shield, thunderwave*
-- 2nd level (3 slots): *acid arrow, detect thoughts, invisibility, mirror image*
-
-**LEVEL 2**
-- 3rd level (3 slots): *animate dead, counterspell, dispel magic, fireball*
-
-**LEVEL 3**
-- 4th level (3 slots): *detect magic, magic missile, shield, thunderwave*
-- 5th level (3 slots): *acid arrow, detect thoughts, invisibility, mirror image*
-
-**LEVEL 4**
-- 6th level (1 slot): *disintegrate, globe of invulnerability*
-
-**LEVEL 5, 6**
-- 7th level (1 slot): *finger of death, plane shift*
-- 8th level (1 slot): *dominate monster, power word stun*
-
-**LEVEL 7**
-- 9th level (1 slot): *power word kill*
+|**LEVEL**||
+|**1**|1st level (4 slots): *detect magic, magic missile, shield, thunderwave*|
+|**1**|2nd level (3 slots): *acid arrow, detect thoughts, invisibility, mirror image*|
+|**2**|3rd level (3 slots): *animate dead, counterspell, dispel magic, fireball*|
+|**3**|4th level (3 slots): *blight, dimension door*|
+|**3**|5th level (3 slots): *cloudkill, scrying*|
+|**4**|6th level (1 slot): *disintegrate, globe of invulnerability*|
+|**5:**|7th level (1 slot): *finger of death, plane shift*|
+|**5:**|8th level (1 slot): *dominate monster, power word stun*|
+|**7**|9th level (1 slot): *power word kill*|
+||If LEVEL is listed more than once, the lich elite gains both benefits.|
 
 ### Boss Features
 #### Legendary Actions
