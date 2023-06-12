@@ -1159,11 +1159,41 @@ Liches share the following statistics.
 
 ### Elite Features
 **⇧ Spellcasting.** A lich elite has the following additional wizard spells prepared. LEVEL determines spell levels and spell slots.
-- **1** 1st level (4 slots): *detect magic, magic missile, shield, thunderwave*
-- **2**
+
+**LEVEL 1**
+- 1st level (4 slots): *detect magic, magic missile, shield, thunderwave*
+- 2nd level (3 slots): *acid arrow, detect thoughts, invisibility, mirror image*
+
+**LEVEL 2**
+- 3rd level (3 slots): *animate dead, counterspell, dispel magic, fireball*
+
+**LEVEL 3**
+- 4th level (3 slots): *detect magic, magic missile, shield, thunderwave*
+- 5th level (3 slots): *acid arrow, detect thoughts, invisibility, mirror image*
+
+**LEVEL 4**
+- 6th level (1 slot): *disintegrate, globe of invulnerability*
+
+**LEVEL 5, 6**
+- 7th level (1 slot): *finger of death, plane shift*
+- 8th level (1 slot): *dominate monster, power word stun*
+
+**LEVEL 7**
+- 9th level (1 slot): *power word kill*
 
 ### Boss Features
+#### Legendary Actions
+The lich can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The lich regains spent legendary actions at the start of its turn.
 
+**Cantrip (1 Action).** The lich casts a cantrip
+
+**Bolster (2 Actions).** The lich must be able to target a minion within 12 squares to use this legendary action. The lich gains **bolster 2**.
+
+**Paralyzing Touch (2 Actions).** The lich uses its Paralyzing Touch.
+
+**Frightening Gaze (2 Actions).** The lich fixes its gaze on one creature it can see within 2 squares of it. The target must succeed on a WIS saving throw or become frightened until the end of the encounter. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target’s saving throw is successful or the effect ends for it, the target is immune to the lich’s gaze for the next 24 hours.
+
+**Disrupt Life (3 Actions).** Each non-undead creature within 5 squares of the lich must make a CON saving throw, taking 3 necrotic damage on a failed save, or 1 necrotic damage on a successful one.
 
 |  |          |
 |-:|:---------|
