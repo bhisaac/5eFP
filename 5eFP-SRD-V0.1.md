@@ -1141,24 +1141,29 @@ Liches share the following statistics.
 - **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
 - **Senses** truesight 12 squares, passive Perception 12
 - **Skills** Insight (4 + LEVEL), Perception (2 + LEVEL)
-- **Languages** Common. Liches may know up to 4 additional languages.
+- **Languages** Common. A lich knows up to 4 additional languages.
+- **Speed** 6
 
 **Rejuvenation.** If it has a phylactery, a destroyed lich respawns once the PCs recall to HQ, healing all wounds and becoming active again. The new body appears within 1 square of the phylactery. Phylacteries for minions and elites are located near where they are first encountered in containers, urns, gravestones, buried under 1 square or ontop of a 1 square ledge. Boss phylacteries are safeguarded behind hidden passages, traps, or cleverly hidden within mundane items.
 
 **Turn Resistance.** The lich has advantage on saving throws against any effect that turns undead.
 
-|   |**Minion**|**Elite**|**Boss**|
-|--:|:----:|:---:|:--:|
-|**Armor Class**|12 + LEVEL|13 + LEVEL|14 + LEVEL|
-|**Save DC**|12 + LEVEL|13 + LEVEL|14 + LEVEL|
-|**Attack Modifier**|2 + LEVEL|3 + LEVEL|4 + LEVEL|
-|**Damage per Round**|1|LEVEL|LEVEL + 1|
-|**MAX Wounds**|1|2 + LEVEL|4 + LEVEL|
-|**Speed**|6|6|6|
-
 |STR|DEX|CON|INT|WIS|CHA|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |+0|+3|+3|+5|+2|+3|
+
+**Spellcasting.** Lich minions are spellcasters. Thier spellcasting ability is INT. Lich minions have the following wizard spells prepared:
+- **Cantrips (at will):** *mage hand, prestidigitation, ray of frost*
+
+**Paralyzing Touch.** Melee Spell Attack, reach 1, one creature. Hit: cold damage. The target must succeed on a CON saving throw or be paralyzed until the end of the encounter. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+### Elite Features
+**⇧ Spellcasting.** A lich elite has the following additional wizard spells prepared. LEVEL determines spell levels and spell slots.
+- **1** 1st level (4 slots): *detect magic, magic missile, shield, thunderwave*
+- **2**
+
+### Boss Features
+
 
 |  |          |
 |-:|:---------|
