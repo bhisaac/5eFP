@@ -1190,70 +1190,36 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 
 ## Monsters (Z)
 ### Zombie
+*Medium Undead, neutral evil*
+
 Zombies share the following statistics.
 - **Saving Throws** WIS 2 + LEVEL
 - **Damage Immunities** poison
 - **Condition Immunities** poisoned
 - **Senses** darkvision 12 squares, passive Perception 8
 - **Languages** understands the languages it knew in life but can’t speak
+- **Speed** 4
 
-**Undead Fortitude.** If the zombie reaches MAX wounds, it must make a CON saving throw with a DC of 12 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie recieves 1 point of healing.
-
-### Zombie Minion
-*Medium Undead, neutral evil*
-
-**Armor Class** LEVEL + 12
-
-**MAX Wounds** 1
-
-**Speed** 4
+**Undead Fortitude.** If the zombie reaches MAX wounds, it must make a CON saving throw with a DC of 12 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie receives 1 point of healing.
 
 |STR|DEX|CON|INT|WIS|CHA|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |+1|-2|+3|-4|-2|-3|
 
-#### ACTIONS
-**Slam.** *Melee Weapon Attack:* +(LEVEL + 2) to hit, reach 1, one target. *Hit:* 1 bludgeoning damage.
+**Slam.** *Melee Weapon Attack*, reach 1, one target. *Hit:* bludgeoning damage.
 
-### Ogre Zombie Elite
-*Large Undead, neutral evil*
+### Elite Features
+**Multiattack.** The zombie elite makes two slam attacks.
 
-**Armor Class** LEVEL + 12
+**Pack Tactics.** The zombie elite has advantage on an attack roll against a creature if at least one minion is within 1 square of the creature and the minion isn’t incapacitated.
 
-**MAX Wounds** LEVEL + 2
+**⇧ Stats.** A zombie elite uses the following ability scores: **STR** +4 **DEX** -2 **CON** +4 **INT** -4 **WIS** -2 **CHA** -3.
 
-**Speed** 6
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|+4|-2|+4|-4|-2|-3|
-
-#### ACTIONS
-**Morningstar.** *Melee Weapon Attack:* +(LEVEL + 4) to hit, reach 1, one target. *Hit:* LEVEL bludgeoning damage.
-
-### Ogre Zombie Boss
-*Large Undead, neutral evil*
-
-**Armor Class** LEVEL + 14
-
-**MAX Wounds** LEVEL + 4
-
-**Speed** 6
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|+4|-2|+4|-4|-2|-3|
-
-#### ACTIONS
-**Morningstar.** *Melee Weapon Attack:* +(LEVEL + 4) to hit, reach 1, one target. *Hit:* LEVEL bludgeoning damage.
-
-#### LEGENDARY ACTIONS
-Ogre zombie bosses can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The ogre zombie boss regains spent legendary actions at the start of its turn.
-- **Bolster (2 actions).** Gain LEVEL shield(s). Eeach shield negates 1 point of damage. Once a shield is used, it is lost.
-- **Strike (1 action).** Make one melee attack against an adjacent foe.
-- **Parry (1 action).** Spend a reaction to increase AC by +(LEVEL) against melee attacks until the end of the round.
-
-
+### Boss Features
+#### Legendary Actions
+Zombie bosses can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The zombie boss regains spent legendary actions at the start of its turn.
+- **Bolster (2 Actions).** To choose this action, the zombie boss must be adjacent to a minion. The zombie boss gains **bolster (LEVEL)**.
+- **Slam (1 Action).** Make one slam attack against an adjacent foe.
 
 ---
 
