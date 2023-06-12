@@ -1160,6 +1160,14 @@ Liches share the following statistics.
 ### Elite Features
 **⇧ Spellcasting.** A lich elite has the following additional wizard spells prepared. LEVEL determines spell levels and spell slots.
 
+|  |  |
+|-:|:-|
+|**LEVEL 1**|1st level (4 slots): *detect magic, magic missile, shield, thunderwave*|
+||2nd level (3 slots): *acid arrow, detect thoughts, invisibility, mirror image*|
+|**LEVEL 2**|3rd level (3 slots): *animate dead, counterspell, dispel magic, fireball*|
+|**LEVEL 3**|4th level (3 slots): *detect magic, magic missile, shield, thunderwave*|
+||5th level (3 slots): *acid arrow, detect thoughts, invisibility, mirror image*|
+
 **LEVEL 1**
 - 1st level (4 slots): *detect magic, magic missile, shield, thunderwave*
 - 2nd level (3 slots): *acid arrow, detect thoughts, invisibility, mirror image*
