@@ -1049,9 +1049,25 @@ Monsters are alphabetized by creature name. A creature section may contain up to
 |**MAX Wounds**|1|2 + LEVEL|4 + LEVEL|
 
 ### Customizing Monster Encounters
-Monster encounters can be adapted by GMs to fulfill alternative roles in a combat. For example, a GM may wish to alter a minion by increasing its AC to represent a heavily armored creature. A creature's statistics provided through it's type can be modified by increasing a statistic by up to +LEVEL. If a statistic is increased this way, the GM must reduce another statistic by an equal amount. 
+Monster encounters can be adapted by GMs to fulfill alternative roles in combat. For example, a GM may wish to alter a minion by increasing its AC to represent a heavily armored creature. A creature's statistics provided through its type can be modified by increasing a statistic by up to +(LEVEL). If a statistic is increased this way, the GM must reduce another statistic by an equal amount.
 
-When reducing statistics, GMs can only choose and reduce a creature statistic used in the encounter. For example, during a level 1 monster encounter, the GM increases an awakened shrub minion's AC by +1. The cost of increasing the minion's AC is paid by decreasing its attack modifier by -1. The GM cannot choose and decrease MAX wounds below 1 for minions, below 2 for elites, and below 5 for bosses. GMs also cannot reduce damage below 1 for minions. In this example, the GM was not able to decrease the DC statistic by -1 becuase the awakened shrub minion doesn't possess a statistic that uses a DC.
+When reducing statistics, GMs can only choose and reduce a creature statistic used in the encounter. For example, during a level 1 monster encounter, the GM increases an awakened shrub minion's AC by +1. The cost of increasing the minion's AC is paid by decreasing its attack modifier by -1.
+
+The GM cannot choose and decrease MAX wounds below 1 for minions, below 2 for elites, and below 5 for bosses. GMs cannot reduce damage below 1 for minions. A monster's speed cannot be reduced below 2 squares. In this example, the GM was not able to decrease the DC statistic by -1 because the awakened shrub minion doesn't possess a statistic that uses a DC.
+
+Some common statistic changes:
+
+MAX Wounds +1; Speed -1 or AC -1
+
+The monster can take one more point of damage but it becomes either slower or easier to hit.
+
+AC +1; DC -1
+
+The monster becomes harder to hit with melee and ranged attacks but easier to resist as DC decreases.
+
+DC +1; AC -1
+
+The monster's DC becomes harder to resist, but easier to hit.
 
 A creature's statistics can be increased any number of times, provided the GM can decrease another statistic by the same amount.
 
@@ -1179,7 +1195,11 @@ Zombies share the following statistics.
 
 **Pack Tactics.** The zombie elite has advantage on an attack roll against a creature if at least one minion is within 1 square of the creature and the minion isn’t incapacitated.
 
-**⇧ Stats.** A zombie elite uses the following ability scores: **STR** +4 **DEX** -2 **CON** +4 **INT** -4 **WIS** -2 **CHA** -3.
+**⇧ Stats.** A zombie elite uses the following upgraded ability scores:
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|**+4**|-2|**+4**|-4|-2|-3|
 
 ### Boss Features
 #### Legendary Actions
