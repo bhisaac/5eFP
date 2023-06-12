@@ -1193,8 +1193,6 @@ Zombies share the following statistics.
 ### Elite Features
 **Multiattack.** The zombie elite makes two slam attacks.
 
-**Pack Tactics.** The zombie elite has advantage on an attack roll against a creature if at least one minion is within 1 square of the creature and the minion isn’t incapacitated.
-
 **⇧ Stats.** A zombie elite uses the following upgraded ability scores:
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -1202,6 +1200,8 @@ Zombies share the following statistics.
 |**+4**|-2|**+4**|-4|-2|-3|
 
 ### Boss Features
+**Pack Tactics.** The zombie boss has advantage on an attack roll against a creature if at least one minion is within 1 square of the creature and the minion isn’t incapacitated.
+
 #### Legendary Actions
 Zombie bosses can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The zombie boss regains spent legendary actions at the start of its turn.
 - **Bolster (2 Actions).** To choose this action, the zombie boss must be adjacent to a minion. The zombie boss gains **bolster (LEVEL)**.
