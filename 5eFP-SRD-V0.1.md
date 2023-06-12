@@ -948,6 +948,12 @@ If	either	weapon	has	the	thrown	property,	you	can	throw	the	weapon,	instead	of	m
 # Encounters
 5eFP uses encounters to describe all the adversity PCs encounter while exploring a map. Traps, creatures, and challenging story situations are all considered encounters. An encounter's statistics are determined by the type of encounter, the number of PCs, and the level of play. This section details each type and provides templates for quick gameplay.
 
+Minions don't need to be limited to just creatures. Minion story elements also arise. These parts of the story persist until the PCs intervene in some way. Intervention is defined as a successful PC action that directly affects the story. Because it is a minion story element, it only needs one success to resolve.
+
+Elites can represent persistent story elements requiring several PC actions over time to resolve. Elite mage story elements are intense situations that dissipate quickly once addressed. They resolve after two successful PC actions change it in some way. Regular elite story elements need three successful PC actions to resolve.
+
+A boss represents a harrowing situation as a story element, requiring coordinated efforts and usually several successful PC actions to overcome. A boss story element requires five successful PC actions to resolve.
+
 ## Type
 Encounter type describes what kind of encounter it is.
 ### Creature
@@ -962,50 +968,10 @@ Monsters are born and thrive in the wild places between settlements. Creature en
 ### Story
 ### Trap
 
-**LEVEL.** Encounter statistics are determined by the current level of play (LEVEL).
-
-**Damage.** If an encounter includes a creature, a trap, an environmental condition, or some feature that deals damage, then it deals no more than the listed value per round.
-
-**Armor Class (AC).** This value represents how difficult it is to attack a creature, adversary, or obstacle within the encounter.
-
-**Difficulty Class (DC).** Use this value as the target number needed for a PC action to succeed during the encounter.
-
-**MAX Wounds.** The total number of wounds the encounter can sustain. Creatures are knocked unconscious and must start making death saves when they reach their MAX wounds. A minion always has a MAX wounds of 1. If you want to increase a minion’s MAX wounds, promote it to an elite or boss.
-
-**Attack Bonus.** The modifier you add to all d20 attack rolls used during the encounter.
-
-## Generic Encounter Stats
-- **Damage:** LEVEL
-- **AC:** 12 + LEVEL
-- **DC:** 12 + LEVEL 
-
-### Minion Stats
-- **MAX Wounds:** 1
-- **Attack Bonus:** 2 + LEVEL
-
-Minions don't need to be limited to creatures. Minion story-elements also arise. These are parts of the story that persist until the PCs intervene in some way. Intervention is defined as a successful PC action that directly affects the story. Becuase it is a minion story element, it only needs 1 success to resolve.
-
-### Elite Stats
-- **MAX Wounds:** 2 + LEVEL
-- **Attack Bonus:** 4 + LEVEL
-
-Elites can represent persistant story-elements requiring a number of PC actions over time to resolve. Elite mage story-elements are intense situations which dissipate qucikly once addressed. They resolve after 2 successful PC actions change it in some way. Regular elite story elements need 3 successful PC actions to resolve.
-
-### Boss Stats
-- **MAX Wounds:** 4 + LEVEL
-- **Attack Bonus:** 4 + LEVEL
-
-A boss represents a harrowing situation as a story element, requiring coordinated efforts and usually several successful PC actions to overcome. A boss story-element requires 5 successful PC actions to resolve.
-
-## Creating a Creature
-Choose minion, elite, or boss and use the corresponding generic encounter stats to begin creating your creature.
-
 ...
 
 ### Creature Type
-~~The creature's type can add attacks, resistances, immunities, and special qualities. Choose from the types provided below. A type's features are included in the descriptions.~~
-
-A monster’s type speaks to its fundamental nature. Certain spells, magic items, class features, and other effects in the game interact in special ways with creatures of a particular type. For example, an *arrow of dragon slaying* deals extra damage not only to dragons but also other creatures of the dragon type, such as dragon turtles and wyverns.
+A monster’s type speaks to its fundamental nature. Certain spells, magic items, class features, and other effects in the game interact in special ways with creatures of a particular type. For example, an *arrow of dragon slaying* deals extra damage not only to dragons but also to other creatures of the dragon type, such as dragon turtles and wyverns.
 
 The game includes the following monster types, which have no rules of their own.
 
