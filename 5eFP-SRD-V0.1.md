@@ -989,11 +989,11 @@ Encounter elements cannot be reduced below the following values:
 ### Common Monster Modifiers
 |   |   |  |
 |:-:|:-:|:-|
-|**+1**|**-1**|**Effect**|
-|MAX Wounds|Speed|Endurance increases at the expense of maneuverability.|
-|MAX Wounds|AC|Endurance increases, but it's easier to hit.|
-|AC|DC|Harder to hit with melee and ranged attacks, but easier to resist.|
-|DC|AC|Harder to resist but easier to hit with melee and ranged attacks.|
+|**+1 Stat**|**-1 Stat**|**Effect**|
+|MAX Wounds|Speed|Endurance increases at the cost of maneuverability.|
+|MAX Wounds|AC|Endurance increases, but easier to hit.|
+|AC|DC|Harder to hit, easier to resist.|
+|DC|AC|Harder to resist, easier to hit.|
 
 # Encounter Type
 Encounter type describes what kind of encounter it is.
