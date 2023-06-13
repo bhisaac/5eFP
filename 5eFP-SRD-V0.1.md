@@ -1164,7 +1164,7 @@ Some special abilities have restrictions on the number of times they can be used
 
 **Bolster X.** The notation "Bolster X" means a monster can use a special pool of points to reduce incoming damage. As long as this creature has a bolster pool of 1 or more, it may assign 1 or more bolster points as a free action and reduce incoming damage by 1 for each point spent. Spent points are lost. Whenever a creature has two or more bolster pools, it keeps the largest bolster pool and discards the rest.
 
-For example, "Bolster 2" means a monster can use up to 2 bolster points as a free action to reduce incoming damage by up to 2 points. If the creature uses 1 bolster point, it then has "Bolster 1." If it later gains "Bolster 2," the creature gains "Bolster 2" and discards "Bolster 1."
+For example, "Bolster 2" means a monster can use up to 2 bolster points as a free action to reduce incoming damage by an amount equal to the number of bolster points spent. If the creature uses 1 bolster point, it then has "Bolster 1." If it later gains "Bolster 2," the creature gains "Bolster 2" and discards "Bolster 1."
 
 **X/Game.** The notation “X/Game” means a special ability can be used X number of times during a 5eFP game. That monster regains expended uses when the game session ends. For example, “1/Game” means a special ability can be used once during a 5eFP game.
 
