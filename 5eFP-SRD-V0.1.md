@@ -1040,6 +1040,8 @@ Monsters are alphabetized by creature name. A creature section may contain up to
 
 **MAX Wounds.** If any part of the encounter can sustain points of damage, it gains MAX wounds equal to this number.
 
+**Legendary Actions.** A boss can take 3 legendary actions, choosing from the options defined in the boss' statistics. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The boss regains spent legendary actions at the start of its turn.
+
 |   |**Minion**|**Elite**|**Boss**|
 |--:|:----:|:---:|:--:|
 |**Armor Class (AC)**|12 + LEVEL|13 + LEVEL|14 + LEVEL|
@@ -1100,8 +1102,6 @@ An awakened shrub is an ordinary plant given sentience and mobility by the *awak
 **⇧ Rake.** *Melee Weapon Attack*, ***reach 2***, one target. *Hit:* slashing damage.
 
 #### Legendary Actions
-Awakened shrub bosses can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The awakened shrub boss regains spent legendary actions at the start of its turn.
-
 **Awaken (1 Action/minion).** Revive one defeated plant minion within line of sight for each point spent. Plant minions defeated with fire cannot be revived in this way.
 
 **Rake (1 Action).** Make one rake attack against a foe.
@@ -1158,8 +1158,6 @@ Liches share the following statistics.
 
 ### Boss Features
 #### Legendary Actions
-The lich can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The lich regains spent legendary actions at the start of its turn.
-
 **Cantrip (1 Action).** The lich casts a cantrip
 
 **Bolster (2 Actions).** The lich must be able to target a minion within 12 squares to use this legendary action. The lich gains **bolster 2**.
@@ -1202,8 +1200,7 @@ Zombies share the following statistics.
 ### Boss Features
 **Pack Tactics.** The zombie boss has advantage on an attack roll against a creature if at least one minion is within 1 square of the creature and the minion isn’t incapacitated.
 
-#### Legendary Actions
-Zombie bosses can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The zombie boss regains spent legendary actions at the start of its turn.
+### Legendary Actions
 - **Bolster (2 Actions).** To choose this action, the zombie boss must be adjacent to a minion. The zombie boss gains **bolster (LEVEL)**.
 - **Slam (1 Action).** Make one slam attack against an adjacent foe.
 
