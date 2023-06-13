@@ -975,43 +975,28 @@ If	either	weapon	has	the	thrown	property,	you	can	throw	the	weapon,	instead	of	m
 **MAX Wounds.** If any part of the encounter can sustain points of damage, it gains MAX wounds equal to this number. Any PC action taken to end an encounter is considered damage. Thus, a diplomatic crisis may have a MAX wounds stat representing how many times the PCs must affect the encounter before it resolves.
 
 ## Customizing Encounters
-The encounter statistics provided above represent average statistics. Further customization allows alternatives, depending on the desired encounter traits. Any number of statistics may be increased by up to +(LEVEL), provided another statistic is decreased by the same amount. GMs can only choose and reduce a statistic if it is used in the encounter. For example, during a level 1 monster encounter, the GM increases an awakened shrub minion's AC by +1. The cost of increasing the minion's AC is paid by the GM choosing to decrease the awakened shrub minion's attack modifier by -1. In this example, the GM couldn't decrease the DC statistic by -1 because the awakened shrub minion doesn't possess a statistic using a DC. However, if the monster encounter included an environmental condition requiring a saving throw to resist, the GM could reduce the encounter's DC by -1.
+The encounter statistics provided represent average values. Any number of statistics may be increased by up to +(LEVEL), provided another statistic is decreased by the same amount. Only stats used in an encounter can be customized. For example, during a level 1 monster encounter, the GM increases an awakened shrub minion's AC by +1. The cost of increasing the minion's AC is paid by the GM choosing to decrease the awakened shrub minion's attack modifier by -1. In this example, the GM couldn't decrease the DC stat by -1 because the awakened shrub minion doesn't possess a stat using a DC. However, if the encounter includes a condition or effect requiring a saving throw to resist, the DC stat can be decreased by -1.
 
-### Static Minion Statistics
-You cannot customize MAX wounds or damage for minions. 
+A minion's MAX wounds or damage cannot be customized.
 
-### Maximums
-Encounter elements cannot exceed the following values:
-- **Ability Scores.** +5
-
-### Minimums
+### Minimum Stats
 Encounter elements cannot be reduced below the following values:
-- **Ability Scores.** -5
 - **Speed.** 2
 - **MAX Wounds (elite).** 2
 - **MAX Wounds (boss).** 5 
 - **DC.** 12 (minion), 13 (elite), 14 (boss)
 - **Damage.** 1
 
-When reducing statistics, GMs can only choose and reduce a creature statistic used in the encounter. For example, during a level 1 monster encounter, the GM increases an awakened shrub minion's AC by +1. The cost of increasing the minion's AC is paid by decreasing its attack modifier by -1. 
-
-## Type
+## Encounter Type
 Encounter type describes what kind of encounter it is.
-### Creature
-Monsters are born and thrive in the wild places between settlements. Creature encounters often rely on combat and tactics, but they do not require combat to overcome. Creature encounters are defined as one of three templates:
+### Monster
+Monsters are born and thrive in the wild places between settlements. Creature encounters often rely on combat and tactics, but they do not require combat to overcome. Monster encounters use one of three templates:
 
-- **Minion.** Place (number of PCs + 1) minions onto the playingfield.
-- **Elite.** As **Minion**, add 2 elites onto the playingfield.
-- **Boss.** As **Minion**, add 1 boss onto the playingfield adjacent to a minion.
+- **Minion.** Place (number of PCs + 1) minions onto the playing field.
+- **Elite.** As **Minion** plus add 2 elites onto the playing field.
+- **Boss.** As **Minion** plus add 1 boss onto the playing field adjacent to a minion.
 
-### Dungeon
-### Settlement
-### Story
-### Trap
-
-...
-
-### Creature Type
+#### Monster Type
 A monster’s type speaks to its fundamental nature. Certain spells, magic items, class features, and other effects in the game interact in special ways with creatures of a particular type. For example, an *arrow of dragon slaying* deals extra damage not only to dragons but also to other creatures of the dragon type, such as dragon turtles and wyverns.
 
 The game includes the following monster types, which have no rules of their own.
@@ -1045,16 +1030,22 @@ mages sometimes summon fiends to the material world to do their bidding. If an e
 
 **Undead** are once-living creatures brought to a horrifying state of undeath through the practice of necromantic magic or some unholy curse. Undead include walking corpses, such as vampires and zombies, as well as bodiless spirits, such as ghosts and specters.
 
----
-
-# Monster Abilities
+#### Monster Features
 ## Bolster X
 This creature gains **bolster X**, where *X* is a pool of points used to reduce incoming damage. As long as this creature has a bolster pool of 1 or more, it may assign 1 or more bolster points as a free action to reduce the damage by 1 for each point spent. Spent points are lost. Whenever a creature has two or more bolster pools, it keeps the largest bolster pool and discards the rest.
 
 ## Damage Resistances
 This creature resists any damage dealt from the listed damage types. Whenever this creature is assigned 1 or more points of damage from a damage type listed, divide the assigned damage in half.
 
+### Dungeon
 
+### Settlement
+
+### Story
+
+### Trap
+
+...
 
 ---
 
