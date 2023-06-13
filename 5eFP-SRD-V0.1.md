@@ -1028,53 +1028,60 @@ Not all monsters in the game will respond to reason or diplomacy. Some monsters 
 5eFP frequently presents monster encounters filled with adversarial creatures the PCs must push through to finish mission objectives. While the game can comfortably filfill a combat or tactical wargame role, it is flexible enough to allow cleaver PCs to bypass combat entirely. Whenever the PCs resolve a monster encounter without defeating or forcibly subduing its creatures, award Coin as if they had defeated the encounter with combat.
 
 ## Monster Statistics
-Monsters are alphabetized by creature name. A creature section may contain up to four varieties of the same monster. Typical varities include minion, elite, and boss. Refer to the table below to determine the base statistics for each creature type.
+Monsters are alphabetized by creature name. A creature section may contain up to four varieties of the same monster. Typical varieties include minion, elite, and boss. Refer to the table below to determine the base statistics for each creature type.
 
 |   |**Minion**|**Elite**|**Boss**|
 |--:|:----:|:---:|:--:|
 |**Armor Class (AC)**|12 + LEVEL|13 + LEVEL|14 + LEVEL|
 |**Difficulty Class (DC)**|12 + LEVEL|13 + LEVEL|14 + LEVEL|
-|**Attack Modifier**|2 + LEVEL|3 + LEVEL|4 + LEVEL|
+|**Bonus**|2 + LEVEL|3 + LEVEL|4 + LEVEL|
 |**Damage**|1|LEVEL|1 + LEVEL|
 |**MAX Wounds**|1|2 + LEVEL|4 + LEVEL|
 
-**Armor Class (AC).** If the PCs take an action against the encounter resulting in a melee or ranged attack, they must hit an AC equal to this number to succeed.
+**Armor Class (AC).** If the PCs take action against an encounter resulting in a melee or ranged attack, they must hit an AC equal to this number to succeed.
 
-**Difficulty Class (DC).** If the encounter requires a saving throw or skill check, set the DC to this number.
+**Difficulty Class (DC).** If an encounter requires a saving throw or skill check, set the DC to this number.
 
-**Attack Modifier.** If any part of the encounter can attack, it uses this number as the attack bonus.
+**Bonus.** If any part of an encounter relies on a modifier to a d20 roll, it uses this number as the modifier.
 
 **Damage.** If any part of the encounter deals damage, it deals a number of points of damage equal to this number.
 
 **MAX Wounds.** If any part of the encounter can sustain points of damage, it gains MAX wounds equal to this number.
 
+## Customizing Monster Encounters
+The encounter statistics provided above represent average statistics. Further customization allows alternatives, depending on the desired encounter traits. Any number of statistics may be increased by up to +(LEVEL), provided another statistic is decreased by the same amount. GMs can only choose and reduce a monster statistic if it is used in the encounter. For example, during a level 1 monster encounter, the GM increases an awakened shrub minion's AC by +1. The cost of increasing the minion's AC is paid by the GM choosing to decrease the awakened shrub minion's attack modifier by -1. In this example, the GM couldn't decrease the DC statistic by -1 because the awakened shrub minion doesn't possess a statistic using a DC.
+
+### Static Minion Statistics
+You cannot customize MAX wounds or damage for minions. 
+
+### Maximums
+Encounter elements cannot exceed the following values:
+- **Ability Scores.** +5
+
+### Minimums
+Encounter elements cannot be reduced below the following values:
+- **Ability Scores.** -5
+- **Speed.** 2
+- **MAX Wounds (elite).** 2
+- **MAX Wounds (boss).** 5 
+- **DC.** 12 (minion), 13 (elite), 14 (boss)
+- **Damage.** 1
+
+When reducing statistics, GMs can only choose and reduce a creature statistic used in the encounter. For example, during a level 1 monster encounter, the GM increases an awakened shrub minion's AC by +1. The cost of increasing the minion's AC is paid by decreasing its attack modifier by -1. 
+
+### Common Monster Modifiers
+|   |   |  |
+|:-:|:-:|:-|
+|**+1**|**-1**|**Effect**|
+|MAX Wounds|Speed|Endurance increases at the expense of maneuverability.|
+|MAX Wounds|AC|Endurance increases, but it's easier to hit.|
+|AC|DC|Harder to hit with melee and ranged attacks, but easier to resist.|
+|DC|AC|Harder to resist but easier to hit with melee and ranged attacks.|
+
 ## Monster Descriptions
 Each monster entry begins with minion statistics described first, followed by additional statistics for elite and boss versions. The information presented in a monster entry is additive. The elite version contains all the minion statistics and the elite statistics. Elite monster statistics override minion statistics when found under the elite features section. A ⇧ symbol followed by the name of the minion feature indicates an upgraded version.
 
 **Legendary Actions.** A boss can take 3 legendary actions, choosing from the options defined in the boss' statistics. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The boss regains spent legendary actions at the start of its turn.
-
-### Customizing Monster Encounters
-Monster encounters can be adapted by GMs to fulfill alternative roles in combat. For example, a GM may wish to alter a minion by increasing its AC to represent a heavily armored creature. A creature's statistics provided through its type can be modified by increasing a statistic by up to +(LEVEL). If a statistic is increased this way, the GM must reduce another statistic by an equal amount.
-
-When reducing statistics, GMs can only choose and reduce a creature statistic used in the encounter. For example, during a level 1 monster encounter, the GM increases an awakened shrub minion's AC by +1. The cost of increasing the minion's AC is paid by decreasing its attack modifier by -1.
-
-The GM cannot choose and decrease MAX wounds below 1 for minions, below 2 for elites, and below 5 for bosses. GMs cannot reduce damage below 1 for minions. A monster's speed cannot be reduced below 2 squares. In this example, the GM was not able to decrease the DC statistic by -1 because the awakened shrub minion doesn't possess a statistic that uses a DC.
-
-Some common statistic changes:
-
-MAX Wounds +1; Speed -1 or AC -1
-
-The monster can take one more point of damage but it becomes either slower or easier to hit.
-
-AC +1; DC -1
-
-The monster becomes harder to hit with melee and ranged attacks but easier to resist as DC decreases.
-
-DC +1; AC -1
-
-The monster's DC becomes harder to resist, but easier to hit.
-
-A creature's statistics can be increased any number of times, provided the GM can decrease another statistic by the same amount.
 
 ## Monsters (A)
 ### Awakened Shrub
