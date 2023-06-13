@@ -956,11 +956,11 @@ If	either	weapon	has	the	thrown	property,	you	can	throw	the	weapon,	instead	of	m
 |**Damage**|1|LEVEL|1 + LEVEL|
 |**MAX Wounds**|1|2 + LEVEL|4 + LEVEL|
 
-**Minion.** Minions represent simple encounters. Monster encounters treat minions as creatures with minimal stats that can only sustain 1 point of damage. Non-monster encounters represent situations where PCs must meet a single challenge to overcome the encounter. Examples: a trap that does not reset or a simple skill challenge such as a locked door. While minion monster encounters are resolved in rounds, non-monster encounters may take several minutes to resolve.
+**Minion.** Minions represent simple encounters. Monster encounters treat minions as creatures with minimal stats that can only sustain one point of damage with MAX wounds of 1. Non-monster encounters represent situations where PCs must meet a single challenge to overcome the encounter. Examples: a trap that does not reset or picking a lock. While minion monster encounters are resolved in rounds, non-monster encounters may take minutes to resolve.
 
 **Elite.** Elites represent advanced encounters. Monster encounters treat elites as creatures with advanced stats and features. Non-monster encounters represent situations where PCs must overcome adversity several times before achieving completion. Examples: convince a skeptical creature of something or gather clues. While elite monster encounters are resolved in rounds, non-monster elite encounters may take an hour to resolve.
 
-**Boss.** Bosses represent difficult encounters. Monster encounters treat bosses as creatures with advanced tactics benefiting from the presence of one or more minions. Non-monster encounters represent difficult situations where PCs must overcome challenging conditions several times while also dealing with some simultaneous minion encounters. Examples: attempt to sway the opinion of an adversary and its minions or put out a fire spreading through a village while rescuing trapped villagers. While boss monster encounters are resolved in rounds, non-monster boss encounters may take several hours to resolve.
+**Boss.** Bosses represent difficult encounters. Monster encounters treat bosses as creatures with advanced tactics benefiting from the presence of one or more minions. Non-monster encounters represent difficult situations where PCs must overcome challenging conditions several times while also dealing with some simultaneous minion encounters. Examples: attempt to sway the opinion of an adversary and associated followers or put out a fire spreading through a village while rescuing trapped villagers. While boss monster encounters are resolved in rounds, non-monster boss encounters may take several hours to resolve.
 
 **Armor Class (AC).** If the PCs take action against an encounter resulting in a melee or ranged attack, they must hit an AC equal to this number to succeed.
 
@@ -971,6 +971,27 @@ If	either	weapon	has	the	thrown	property,	you	can	throw	the	weapon,	instead	of	m
 **Damage.** If any part of the encounter deals damage, it deals a number of points of damage equal to this number.
 
 **MAX Wounds.** If any part of the encounter can sustain points of damage, it gains MAX wounds equal to this number. Any PC action taken to end an encounter is considered damage. Thus, a diplomatic crisis may have a MAX wounds stat representing how many times the PCs must affect the encounter before it resolves.
+
+## Customizing Encounters
+The encounter statistics provided above represent average statistics. Further customization allows alternatives, depending on the desired encounter traits. Any number of statistics may be increased by up to +(LEVEL), provided another statistic is decreased by the same amount. GMs can only choose and reduce a statistic if it is used in the encounter. For example, during a level 1 monster encounter, the GM increases an awakened shrub minion's AC by +1. The cost of increasing the minion's AC is paid by the GM choosing to decrease the awakened shrub minion's attack modifier by -1. In this example, the GM couldn't decrease the DC statistic by -1 because the awakened shrub minion doesn't possess a statistic using a DC. However, if the monster encounter included an environmental condition requiring a saving throw to resist, the GM could reduce the encounter's DC by -1.
+
+### Static Minion Statistics
+You cannot customize MAX wounds or damage for minions. 
+
+### Maximums
+Encounter elements cannot exceed the following values:
+- **Ability Scores.** +5
+
+### Minimums
+Encounter elements cannot be reduced below the following values:
+- **Ability Scores.** -5
+- **Speed.** 2
+- **MAX Wounds (elite).** 2
+- **MAX Wounds (boss).** 5 
+- **DC.** 12 (minion), 13 (elite), 14 (boss)
+- **Damage.** 1
+
+When reducing statistics, GMs can only choose and reduce a creature statistic used in the encounter. For example, during a level 1 monster encounter, the GM increases an awakened shrub minion's AC by +1. The cost of increasing the minion's AC is paid by decreasing its attack modifier by -1. 
 
 ## Type
 Encounter type describes what kind of encounter it is.
