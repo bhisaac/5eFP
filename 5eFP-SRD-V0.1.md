@@ -962,6 +962,8 @@ If	either	weapon	has	the	thrown	property,	you	can	throw	the	weapon,	instead	of	m
 
 **Boss.** Bosses represent difficult encounters. Monster encounters treat bosses as creatures with advanced tactics benefiting from the presence of one or more minions. Non-monster encounters represent difficult situations where PCs must overcome challenging conditions several times while also dealing with some simultaneous minion encounters. Examples: attempt to sway the opinion of an adversary and associated followers or put out a fire spreading through a village while rescuing trapped villagers. While boss monster encounters are resolved in rounds, non-monster boss encounters may take several hours to resolve.
 
+**LEVEL.** The current level of play.
+
 **Armor Class (AC).** If the PCs take action against an encounter resulting in a melee or ranged attack, they must hit an AC equal to this number to succeed.
 
 **Difficulty Class (DC).** If an encounter requires a saving throw or skill check, set the DC to this number.
