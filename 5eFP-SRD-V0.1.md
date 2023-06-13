@@ -992,6 +992,7 @@ Encounter elements cannot be reduced below the following values:
 |**+1 Stat**|**-1 Stat**|**Effect**|
 |MAX Wounds|Speed|Endurance increases at the cost of maneuverability.|
 |MAX Wounds|AC|Endurance increases, but easier to hit.|
+|AC|MAX Wounds|Harder to hit, doesn't last as long.|
 |AC|DC|Harder to hit, easier to resist.|
 |DC|AC|Harder to resist, easier to hit.|
 
