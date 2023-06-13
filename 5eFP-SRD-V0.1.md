@@ -948,13 +948,19 @@ If	either	weapon	has	the	thrown	property,	you	can	throw	the	weapon,	instead	of	m
 # Encounters
 5eFP uses encounters to describe all the adversity PCs encounter while exploring a map. Traps, creatures, and challenging story situations are all considered encounters. Use the following table to determine the base statistics of an encounter.
 
-|   |**Minion** [^1]|**Elite** [^2]|**Boss** [^3]|
+|   |**Minion**|**Elite**|**Boss**|
 |--:|:----:|:---:|:--:|
 |**Armor Class (AC)**|12 + LEVEL|13 + LEVEL|14 + LEVEL|
 |**Difficulty Class (DC)**|12 + LEVEL|13 + LEVEL|14 + LEVEL|
 |**Bonus**|2 + LEVEL|3 + LEVEL|4 + LEVEL|
 |**Damage**|1|LEVEL|1 + LEVEL|
 |**MAX Wounds**|1|2 + LEVEL|4 + LEVEL|
+
+**Minion.** Minions represent simple encounters. Monster encounters treat minions as creatures with minimal stats. Non-monster encounters use the minion designation to determine how difficult it is to overcome or influence an encounter.
+
+**Elite.** Elites represent advanced encounters. Monster encounters treat elites as creatures with advanced stats and features. Non-monster encounters represent situations where PCs must overcome adversity several times before achieving completion.
+
+**Boss.** Bosses represent difficult encounters. Monster encounters treat bosses as creatures with advanced tactics benefiting from the presence of one or more minions. Non-monster encounters represent difficult situations where PCs must overcome challenging conditions several times while also dealing with some simultaneous minion encounters.
 
 **Armor Class (AC).** If the PCs take action against an encounter resulting in a melee or ranged attack, they must hit an AC equal to this number to succeed.
 
@@ -964,11 +970,7 @@ If	either	weapon	has	the	thrown	property,	you	can	throw	the	weapon,	instead	of	m
 
 **Damage.** If any part of the encounter deals damage, it deals a number of points of damage equal to this number.
 
-**MAX Wounds.** If any part of the encounter can sustain points of damage, it gains MAX wounds equal to this number.
-
-[^1] Minions don't need to be limited to just creatures. Minion story elements also arise. These parts of the story persist until the PCs intervene in some way. Intervention is defined as a successful PC action that directly affects the story. Because it is a minion story element, it only needs one success to resolve.
-[^2] Elites can represent persistent story elements requiring several PC actions over time to resolve. Elite mage story elements are intense situations that dissipate quickly once addressed. They resolve after two successful PC actions change it in some way. Regular elite story elements need three successful PC actions to resolve.
-[^3] A boss represents a harrowing situation as a story element, requiring coordinated efforts and usually several successful PC actions to overcome. A boss story element requires five successful PC actions to resolve.
+**MAX Wounds.** If any part of the encounter can sustain points of damage, it gains MAX wounds equal to this number. Any PC action taken to end an encounter is considered damage. Thus, a diplomatic crisis may have a MAX wounds stat representing how many times the PCs must affect the encounter before it resolves.
 
 ## Type
 Encounter type describes what kind of encounter it is.
