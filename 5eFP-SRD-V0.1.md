@@ -946,13 +946,29 @@ If	either	weapon	has	the	thrown	property,	you	can	throw	the	weapon,	instead	of	m
 
 (floating section)
 # Encounters
-5eFP uses encounters to describe all the adversity PCs encounter while exploring a map. Traps, creatures, and challenging story situations are all considered encounters. An encounter's statistics are determined by the type of encounter, the number of PCs, and the level of play. This section details each type and provides templates for quick gameplay.
+5eFP uses encounters to describe all the adversity PCs encounter while exploring a map. Traps, creatures, and challenging story situations are all considered encounters. Use the following table to determine the base statistics of an encounter.
 
-Minions don't need to be limited to just creatures. Minion story elements also arise. These parts of the story persist until the PCs intervene in some way. Intervention is defined as a successful PC action that directly affects the story. Because it is a minion story element, it only needs one success to resolve.
+|   |**Minion[^1]**|**Elite[^2]**|**Boss[^3]**|
+|--:|:----:|:---:|:--:|
+|**Armor Class (AC)**|12 + LEVEL|13 + LEVEL|14 + LEVEL|
+|**Difficulty Class (DC)**|12 + LEVEL|13 + LEVEL|14 + LEVEL|
+|**Bonus**|2 + LEVEL|3 + LEVEL|4 + LEVEL|
+|**Damage**|1|LEVEL|1 + LEVEL|
+|**MAX Wounds**|1|2 + LEVEL|4 + LEVEL|
 
-Elites can represent persistent story elements requiring several PC actions over time to resolve. Elite mage story elements are intense situations that dissipate quickly once addressed. They resolve after two successful PC actions change it in some way. Regular elite story elements need three successful PC actions to resolve.
+**Armor Class (AC).** If the PCs take action against an encounter resulting in a melee or ranged attack, they must hit an AC equal to this number to succeed.
 
-A boss represents a harrowing situation as a story element, requiring coordinated efforts and usually several successful PC actions to overcome. A boss story element requires five successful PC actions to resolve.
+**Difficulty Class (DC).** If an encounter requires a saving throw or skill check, set the DC to this number.
+
+**Bonus.** If any part of an encounter relies on a modifier to a d20 roll, it uses this number as the modifier.
+
+**Damage.** If any part of the encounter deals damage, it deals a number of points of damage equal to this number.
+
+**MAX Wounds.** If any part of the encounter can sustain points of damage, it gains MAX wounds equal to this number.
+
+[^1] Minions don't need to be limited to just creatures. Minion story elements also arise. These parts of the story persist until the PCs intervene in some way. Intervention is defined as a successful PC action that directly affects the story. Because it is a minion story element, it only needs one success to resolve.
+[^2] Elites can represent persistent story elements requiring several PC actions over time to resolve. Elite mage story elements are intense situations that dissipate quickly once addressed. They resolve after two successful PC actions change it in some way. Regular elite story elements need three successful PC actions to resolve.
+[^3] A boss represents a harrowing situation as a story element, requiring coordinated efforts and usually several successful PC actions to overcome. A boss story element requires five successful PC actions to resolve.
 
 ## Type
 Encounter type describes what kind of encounter it is.
@@ -1028,7 +1044,7 @@ Not all monsters in the game will respond to reason or diplomacy. Some monsters 
 5eFP frequently presents monster encounters filled with adversarial creatures the PCs must push through to finish mission objectives. While the game can comfortably filfill a combat or tactical wargame role, it is flexible enough to allow cleaver PCs to bypass combat entirely. Whenever the PCs resolve a monster encounter without defeating or forcibly subduing its creatures, award Coin as if they had defeated the encounter with combat.
 
 ## Monster Statistics
-Monsters are alphabetized by creature name. A creature section may contain up to four varieties of the same monster. Typical varieties include minion, elite, and boss. Refer to the table below to determine the base statistics for each creature type.
+Monsters are alphabetized by creature name. A creature section contains three varieties of the same monster: minion, elite, and boss. Refer to the table below to determine the base statistics for each creature type.
 
 |   |**Minion**|**Elite**|**Boss**|
 |--:|:----:|:---:|:--:|
