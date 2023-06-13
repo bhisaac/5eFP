@@ -948,7 +948,7 @@ If	either	weapon	has	the	thrown	property,	you	can	throw	the	weapon,	instead	of	m
 # Encounters
 5eFP uses encounters to describe all the adversity PCs encounter while exploring a map. Traps, creatures, and challenging story situations are all considered encounters. Use the following table to determine the base statistics of an encounter.
 
-|   |**Minion[^1]**|**Elite[^2]**|**Boss[^3]**|
+|   |**Minion**[^1]|**Elite**[^2]|**Boss**[^3]|
 |--:|:----:|:---:|:--:|
 |**Armor Class (AC)**|12 + LEVEL|13 + LEVEL|14 + LEVEL|
 |**Difficulty Class (DC)**|12 + LEVEL|13 + LEVEL|14 + LEVEL|
