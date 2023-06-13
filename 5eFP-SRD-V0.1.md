@@ -1027,8 +1027,16 @@ Not all monsters in the game will respond to reason or diplomacy. Some monsters 
 ## Combat is Optional
 5eFP frequently presents monster encounters filled with adversarial creatures the PCs must push through to finish mission objectives. While the game can comfortably filfill a combat or tactical wargame role, it is flexible enough to allow cleaver PCs to bypass combat entirely. Whenever the PCs resolve a monster encounter without defeating or forcibly subduing its creatures, award Coin as if they had defeated the encounter with combat.
 
-## Monster Descriptions and Statistics
+## Monster Statistics
 Monsters are alphabetized by creature name. A creature section may contain up to four varieties of the same monster. Typical varities include minion, elite, and boss. Refer to the table below to determine the base statistics for each creature type.
+
+|   |**Minion**|**Elite**|**Boss**|
+|--:|:----:|:---:|:--:|
+|**Armor Class (AC)**|12 + LEVEL|13 + LEVEL|14 + LEVEL|
+|**Difficulty Class (DC)**|12 + LEVEL|13 + LEVEL|14 + LEVEL|
+|**Attack Modifier**|2 + LEVEL|3 + LEVEL|4 + LEVEL|
+|**Damage**|1|LEVEL|1 + LEVEL|
+|**MAX Wounds**|1|2 + LEVEL|4 + LEVEL|
 
 **Armor Class (AC).** If the PCs take an action against the encounter resulting in a melee or ranged attack, they must hit an AC equal to this number to succeed.
 
@@ -1040,15 +1048,10 @@ Monsters are alphabetized by creature name. A creature section may contain up to
 
 **MAX Wounds.** If any part of the encounter can sustain points of damage, it gains MAX wounds equal to this number.
 
-**Legendary Actions.** A boss can take 3 legendary actions, choosing from the options defined in the boss' statistics. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The boss regains spent legendary actions at the start of its turn.
+## Monster Descriptions
+Each monster entry begins with minion statistics described first, followed by additional statistics for elite and boss versions. The information presented in a monster entry is additive. The elite version contains all the minion statistics and the elite statistics. Elite monster statistics override minion statistics when found under the elite features section. A ⇧ symbol followed by the name of the minion feature indicates an upgraded version.
 
-|   |**Minion**|**Elite**|**Boss**|
-|--:|:----:|:---:|:--:|
-|**Armor Class (AC)**|12 + LEVEL|13 + LEVEL|14 + LEVEL|
-|**Difficulty Class (DC)**|12 + LEVEL|13 + LEVEL|14 + LEVEL|
-|**Attack Modifier**|2 + LEVEL|3 + LEVEL|4 + LEVEL|
-|**Damage**|1|LEVEL|1 + LEVEL|
-|**MAX Wounds**|1|2 + LEVEL|4 + LEVEL|
+**Legendary Actions.** A boss can take 3 legendary actions, choosing from the options defined in the boss' statistics. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The boss regains spent legendary actions at the start of its turn.
 
 ### Customizing Monster Encounters
 Monster encounters can be adapted by GMs to fulfill alternative roles in combat. For example, a GM may wish to alter a minion by increasing its AC to represent a heavily armored creature. A creature's statistics provided through its type can be modified by increasing a statistic by up to +(LEVEL). If a statistic is increased this way, the GM must reduce another statistic by an equal amount.
