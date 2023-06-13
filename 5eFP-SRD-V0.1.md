@@ -946,7 +946,7 @@ If	either	weapon	has	the	thrown	property,	you	can	throw	the	weapon,	instead	of	m
 
 (floating section)
 # Encounters
-5eFP uses encounters to describe all the adversity PCs encounter while exploring a map. Traps, creatures, and challenging story situations are all considered encounters. Use the following table to determine the base statistics of an encounter.
+5eFP uses encounters to describe all the adversity PCs find while exploring a map. Traps, creatures, and challenging story situations are all considered encounters. Use the following table to determine the base statistics of an encounter.
 
 |   |**Minion**|**Elite**|**Boss**|
 |--:|:----:|:---:|:--:|
@@ -956,11 +956,11 @@ If	either	weapon	has	the	thrown	property,	you	can	throw	the	weapon,	instead	of	m
 |**Damage**|1|LEVEL|1 + LEVEL|
 |**MAX Wounds**|1|2 + LEVEL|4 + LEVEL|
 
-**Minion.** Minions represent simple encounters. Monster encounters treat minions as creatures with minimal stats. Non-monster encounters use the minion designation to determine how difficult it is to overcome or influence an encounter.
+**Minion.** Minions represent simple encounters. Monster encounters treat minions as creatures with minimal stats that can only sustain 1 point of damage. Non-monster encounters represent situations where PCs must meet a single challenge to overcome the encounter. Examples: a trap that does not reset or a simple skill challenge such as a locked door. While minion monster encounters are resolved in rounds, non-monster encounters may take several minutes to resolve.
 
-**Elite.** Elites represent advanced encounters. Monster encounters treat elites as creatures with advanced stats and features. Non-monster encounters represent situations where PCs must overcome adversity several times before achieving completion.
+**Elite.** Elites represent advanced encounters. Monster encounters treat elites as creatures with advanced stats and features. Non-monster encounters represent situations where PCs must overcome adversity several times before achieving completion. Examples: convince a skeptical creature of something or gather clues. While elite monster encounters are resolved in rounds, non-monster elite encounters may take an hour to resolve.
 
-**Boss.** Bosses represent difficult encounters. Monster encounters treat bosses as creatures with advanced tactics benefiting from the presence of one or more minions. Non-monster encounters represent difficult situations where PCs must overcome challenging conditions several times while also dealing with some simultaneous minion encounters.
+**Boss.** Bosses represent difficult encounters. Monster encounters treat bosses as creatures with advanced tactics benefiting from the presence of one or more minions. Non-monster encounters represent difficult situations where PCs must overcome challenging conditions several times while also dealing with some simultaneous minion encounters. Examples: attempt to sway the opinion of an adversary and its minions or put out a fire spreading through a village while rescuing trapped villagers. While boss monster encounters are resolved in rounds, non-monster boss encounters may take several hours to resolve.
 
 **Armor Class (AC).** If the PCs take action against an encounter resulting in a melee or ranged attack, they must hit an AC equal to this number to succeed.
 
