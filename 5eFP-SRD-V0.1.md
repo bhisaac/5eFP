@@ -986,31 +986,21 @@ Encounter elements cannot be reduced below the following values:
 - **DC.** 12 (minion), 13 (elite), 14 (boss)
 - **Damage.** 1
 
-### Common Monster Modifiers
-|   |   |  |
-|:-:|:-:|:-|
-|**+1 Stat**|**-1 Stat**|**Effect**|
-|MAX Wounds|Speed|Endurance increases at the cost of maneuverability.|
-|MAX Wounds|AC|Endurance increases, but easier to hit.|
-|AC|MAX Wounds|Harder to hit, doesn't last as long.|
-|AC|DC|Harder to hit, easier to resist.|
-|DC|AC|Harder to resist, easier to hit.|
-
 # Encounter Type
 Encounter type describes what kind of encounter it is.
 
 ## Monster
-Monsters are born and thrive in the wild places between settlements. Creature encounters often rely on combat and tactics, but they do not require combat to overcome. Whenever PCs resolve a monster encounter without defeating or forcibly subduing its creatures, award Coin as if they had defeated the encounter with combat. Monster encounters use one of three templates:
+A monster’s statistics, sometimes referred to as its **stat block**, provide the essential information that you need to run the monster.
 
-- **Minion.** Place (number of PCs + 1) minions onto the playing field.
-- **Elite.** As **Minion** plus add 2 elites onto the playing field.
-- **Boss.** As **Minion** plus add 1 boss onto the playing field adjacent to a minion.
+>Monster encounters use one of three templates: (where does this section go?)
+>
+>- **Minion.** Place (number of PCs + 1) minions onto the playing field.
+>- **Elite.** As **Minion** plus add 2 elites onto the playing field.
+>- **Boss.** As **Minion** plus add 1 boss onto the playing field adjacent to a minion.
 
-Monsters usually have bad reputations in the stories we tell one another and ourselves. Monsters can be aggressive, amoral, and adversarial. They are encountered while PCs strive to complete mission objectives. But some monsters are more even-tempered, and some are unlockable species PCs can play. "Monster" is a term of convenience for backward compatibility with the fifth edition d20 system. When we see "monster," we are encouraged to look at them as shadows or distorted reflections of ourselves who resist growth and change.
+### Size
 
-Not all monsters in the game will respond to reason or diplomacy. Some monsters such as mindless undead or constructs lack the ability to hear or comprehend appeals to their better nature. Creatures with a degree of intelligence and wisdom may respond favorably to acts of kindness. A favorable Insight check followed by a successful Medicine check can influence a monster and turn the tide of aggression and violence toward peace and understanding.
-
-### Monster Type
+### Type
 A monster’s type speaks to its fundamental nature. Certain spells, magic items, class features, and other effects in the game interact in special ways with creatures of a particular type. For example, an *arrow of dragon slaying* deals extra damage not only to dragons but also to other creatures of the dragon type, such as dragon turtles and wyverns.
 
 The game includes the following monster types, which have no rules of their own.
@@ -1044,12 +1034,186 @@ mages sometimes summon fiends to the material world to do their bidding. If an e
 
 **Undead** are once-living creatures brought to a horrifying state of undeath through the practice of necromantic magic or some unholy curse. Undead include walking corpses, such as vampires and zombies, as well as bodiless spirits, such as ghosts and specters.
 
-### Monster Features
-**Bolster X.** This creature gains **bolster X**, where *X* is a pool of points used to reduce incoming damage. As long as this creature has a bolster pool of 1 or more, it may assign 1 or more bolster points as a free action to reduce the damage by 1 for each point spent. Spent points are lost. Whenever a creature has two or more bolster pools, it keeps the largest bolster pool and discards the rest.
+#### Tags
+A monster might have one or more tags appended to its type, in parentheses. For example, an orc has the *humanoid (orc)* type. The parenthetical tags provide additional categorization for certain creatures. The tags have no rules of their own, but something in the game, such as a magic item, might refer to them. For instance, a spear that is especially effective at fighting demons would work against any monster that has the demon tag.
 
-**Damage Resistance.** This creature resists any damage dealt from the listed damage types. Whenever this creature is assigned 1 or more points of damage from a listed damage type, divide the assigned damage in half (minimum 1 damage).
+### Alignment
+A monster’s alignment provides a clue to its disposition and how it behaves in a roleplaying or combat situation. For example, a chaotic evil monster might be difficult to reason with and might attack characters on sight, whereas a neutral monster might be willing to negotiate.
+
+The alignment specified in a monster’s stat block is the default. Feel free to depart from it and change a monster’s alignment to suit the needs of your campaign. If you want a good-­‐‑aligned green dragon or an evil storm giant, there’s nothing stopping you.
+
+Some creatures can have **any alignment**. In other words, you choose the monster’s alignment. Some monster’s alignment entry indicates a tendency or aversion toward law, chaos, good, or evil. For example, a berserker can be any chaotic alignment (chaotic good, chaotic neutral, or chaotic evil), as befits its wild nature.
+
+Many creatures of low intelligence have no comprehension of law or chaos, good or evil. They don’t make moral or ethical choices, but rather act on instinct. These creatures are **unaligned**, which means they don’t have an alignment.
+
+### Speed
+A monster’s speed tells you how far it can move on its turn measured in squares.
+
+All creatures have a walking speed, simply called the monster’s speed. Creatures that have no form of ground-­based locomotion have a walking speed of 0.
+
+Some creatures have one or more of the following additional movement modes.
+
+#### Burrow
+A monster that has a burrowing speed can use that speed to move through sand, earth, mud, or ice. A monster can’t burrow through solid rock unless it has a special trait that allows it to do so.
+
+#### Climb
+A monster that has a climbing speed can use all or part of its movement to move on vertical surfaces. The monster doesn’t need to spend extra movement to climb.
+
+#### Fly
+A monster that has a flying speed can use all or part of its movement to fly. Some monsters have the ability to hover, which makes them hard to knock out of the air. Such a monster stops hovering when it dies.
+
+#### Swim
+A monster that has a swimming speed doesn’t need to spend extra movement to swim.
+
+### Ability Scores
+Every monster has six ability scores (STR, DEX, CON, INT, WIS, and CHA) and corresponding modifiers.
+
+### Saving Throws
+The Saving Throws entry is reserved for creatures that are adept at resisting certain kinds of effects. For example, a creature that isn’t easily charmed or frightened might gain a bonus on its WIS saving throws. Most creatures don’t have special saving throw bonuses, in which case this section is absent.
+
+### Skills
+The Skills entry is reserved for monsters that are proficient in one or more skills. For example, a monster that is very perceptive and stealthy might have bonuses to Perception and Performance checks.
+
+Other modifiers might apply. For instance, a monster might have a larger-­than-­expected bonus (usually double its proficiency bonus) to account for its heightened expertise.
+
+### Vulnerabilities, Resistances, and Immunities
+Some creatures have vulnerability, resistance, or immunity to certain types of damage. Particular creatures are even resistant or immune to damage from nonmagical attacks (a magical attack is an attack delivered by a spell, a magic item, or another magical source). In addition, some creatures are immune to certain conditions.
+
+### Senses
+The Senses entry notes a monster’s passive Wisdom (Perception) score, as well as any special senses the monster might have. Special senses are described below.
+
+#### Blindsight
+A monster with blindsight can perceive its surroundings without relying on sight, within a specific radius.
+Creatures without eyes, such as grimlocks and gray oozes, typically have this special sense, as do creatures with echolocation or heightened senses, such as bats and true dragons.
+If a monster is naturally blind, it has a parenthetical note to this effect, indicating that the radius of its blindsight defines the maximum range of its perception.
+
+#### Darkvision
+A monster with darkvision can see in the dark within a specific radius. The monster can see in dim light within the radius as if it were bright light, and in darkness as if it were dim light. The monster can’t discern color in darkness, only shades of gray. Many creatures that live underground have this special sense.
+
+>#### Armor, Weapon, and Tool Proficiencies
+>Assume that a creature is proficient with its armor, weapons, and tools. If you swap them out, you decide whether the creature is >proficient with its new equipment.
+>
+>For example, a hill giant typically wears hide armor and wields a greatclub. You could equip a hill giant with chain mail and a >greataxe instead, and assume the giant is proficient with both, one or the other, or neither.
+
+#### Tremorsense
+A monster with tremorsense can detect and pinpoint the origin of vibrations within a specific radius, provided that the monster and the source of the vibrations are in contact with the same ground or substance. Tremorsense can’t be used to detect flying or incorporeal creatures. Many burrowing creatures, such as ankhegs and umber hulks, have this special sense.
+
+#### Truesight
+A monster with truesight can, out to a specific range, see in normal and magical darkness, see invisible creatures and objects, automatically detect visual illusions and succeed on saving throws against them, and perceive the original form of a shapechanger or a creature that is transformed by magic. Furthermore, the monster can see into the Ethereal Plane within the same range.
+
+### Languages
+The languages that a monster can speak are listed in alphabetical order. Sometimes a monster can understand a language but can’t speak it, and this is noted in its entry. A “—” indicates that a creature neither speaks nor understands any language.
+
+#### Telepathy
+Telepathy is a magical ability that allows a monster to communicate mentally with another creature within a specified range. The contacted creature doesn’t need to share a language with the monster to communicate in this way with it, but it must be able to understand at least one language. A creature without telepathy can receive and respond to telepathic messages but can’t initiate or terminate a telepathic conversation.
+
+A telepathic monster doesn’t need to see a contacted creature and can end the telepathic contact at any time. The contact is broken as soon as the two creatures are no longer within range of each other or if the telepathic monster contacts a different creature within range. A telepathic monster can initiate or terminate a telepathic conversation without using an action, but while the monster is incapacitated, it can’t initiate telepathic contact, and any current contact is terminated.
+
+A creature within the area of an *antimagic field* or in any other location where magic doesn’t function can’t send or receive telepathic messages.
+
+### Challenge
+When determining the challenge of a monster encounter, let *N* equal the number of PCs + 1.
+
+An appropriately equipped and well-rested party of adventurers should be able to defeat *N* minions, *N* minions and two elites, or *N* minions and one boss without suffering any deaths.
+
+### Special Traits
+Special traits (which appear before any actions or reactions) are characteristics that are likely to be relevant in a combat encounter and that require some explanation.
+
+#### Innate Spellcasting
+A monster with the innate ability to cast spells has the Innate Spellcasting special trait. Unless noted otherwise, an innate spell of 1st level or higher is always cast at its lowest possible level and can’t be cast at a higher level.
+
+An innate spell can have special rules or restrictions. For example, a drow mage can innately cast the *levitate* spell, but the spell has a “self only” restriction, which means that the spell affects only the drow mage.
+
+A monster’s innate spells can’t be swapped out with other spells.
+
+#### Spellcasting
+A monster with the Spellcasting special trait has a spellcaster level and spell slots, which it uses to cast its spells of 1st level and higher. The spellcaster level is also used for any cantrips included in the feature.
+
+The monster has a list of spells known or prepared from a specific class. The list might also include spells from a feature in that class, such as the Divine Domain feature of the cleric or the Druid Circle feature of the druid. The monster is considered a member of that class when attuning to or using a magic item that requires membership in the class or access to its spell list.
+
+A monster can cast a spell from its list at a higher level if it has the spell slot to do so. For example, a drow mage with the 3rd-­level lightning bolt spell can cast it as a 5th-­level spell by using one of its 5th-­level spell slots.
+
+You can change the spells that a monster knows or has prepared, replacing any spell on its spell list with a spell of the same level and from the same class list. If you do so, you might cause the monster to be a greater or lesser threat than suggested by its description.
+
+#### Psionics
+A monster that casts spells using only the power of its mind has the psionics tag added to its Spellcasting or Innate Spellcasting special trait. This tag carries no special rules of its own, but other parts of the game might refer to it. A monster that has this tag typically doesn’t require any components to cast its spells.
+
+### Actions
+When a monster takes its action, it can choose from the options in the Actions section of its stat block or use one of the actions available to all creatures, such as the Dash or Hide action, as described in the Player’s Handbook.
+
+#### Melee and Ranged Attacks
+The most common actions that a monster will take in combat are melee and ranged attacks. These can be spell attacks or weapon attacks, where the “weapon” might be a manufactured item or a natural weapon, such as a claw or tail spike. For more information on different kinds of attacks, see (TBD).
+
+**Creature vs. Target.** The target of a melee or ranged attack is usually either one creature or one target, the difference being that a “target” can be a creature or an object.
+
+**Hit.** Any damage dealt or other effects that occur as a result of an attack hitting a target are described after the “Hit” notation.
+
+**Miss.** If an attack has an effect that occurs on a miss, that information is presented after the “Miss:” notation.
+
+#### Multiattack
+A creature that can make multiple attacks on its turn has the Multiattack action. A creature can’t use Multiattack when making an opportunity attack, which must be a single melee attack.
+
+#### Ammunition
+A monster carries enough ammunition to make its ranged attacks. Defeated monsters using ammunition drop (basic ammunition).
+
+### Reactions
+If a monster can do something special with its reaction, that information is contained here. If a creature has no special reaction, this section is absent.
+
+### Limited Usage
+Some special abilities have restrictions on the number of times they can be used.
+
+**Bolster X.** The notation "Bolster X" means a monster can use a special pool of points to reduce incoming damage. As long as this creature has a bolster pool of 1 or more, it may assign 1 or more bolster points as a free action and reduce incoming damage by 1 for each point spent. Spent points are lost. Whenever a creature has two or more bolster pools, it keeps the largest bolster pool and discards the rest.
+
+For example, "Bolster 2" means a monster can use up to 2 bolster points as a free action to reduce incoming damage by up to 2 points. If the creature uses 1 bolster point, it then has "Bolster 1." If it later gains "Bolster 2," the creature gains "Bolster 2" and discards "Bolster 1."
+
+**X/Game.** The notation “X/Game” means a special ability can be used X number of times during a 5eFP game. That monster regains expended uses when the game session ends. For example, “1/Game” means a special ability can be used once during a 5eFP game.
+
+**Recharge X–Y.** The notation “Recharge X–Y” means a monster can use a special ability once and that the ability then has a random chance of recharging during each subsequent round of combat. At the start of each of the monster’s turns, roll three action dice. If the number of actions equals one of the numbers in the recharge notation, the monster regains the use of the special ability. The ability also recharges when the monster finishes a short rest.
+
+For example, “Recharge 3–4” means a monster can use the special ability once. Then, at the start of the monster’s turn, it regains the use of that ability if it rolls 3 or 4 actions after rolling three action dice.
+
+**Recharge after a Short Rest.** This notation means that a monster can use a special ability once and then must finish a short rest to use it again.
+
+>#### Grapple Rules for Monsters
+>Many monsters have special attacks that allow them to quickly grapple prey. When a monster hits with such an attack, it doesn’t need to make an additional ability check to determine whether the grapple succeeds, unless the attack says otherwise.
+>
+>A creature grappled by the monster can use its action to try to escape. To do so, it must succeed on a Performance check.
+
+### Equipment
+A stat block rarely refers to equipment, other than armor or weapons used by a monster. A creature that customarily wears clothes, such as a humanoid, is assumed to be dressed appropriately.
+
+You can equip monsters with additional gear and trinkets however you like, and you decide how much of a monster’s equipment is recoverable after the creature is slain and whether any of that equipment is still usable. A battered suit of armor made for a monster is rarely usable by someone else, for instance.
+
+If a spellcasting monster needs material components to cast its spells, assume that it has the material components it needs to cast the spells in its stat block.
+
+## Bosses are Legendary Creatures
+Bosses are legendary creatures because they can do things that ordinary creatures can’t. They can take special actions outside their turn, and they might exert magical or mundane influence for miles around.
+
+If a creature assumes the form of a boss, such as through a spell, it doesn’t gain that form’s legendary actions, lair actions, or regional effects.
+
+### Legendary Actions
+A boss can take a certain number of special actions—called legendary actions—outside its turn. Only one legendary action option can be used at a time and only at the end of another creature’s turn. A creature regains its spent legendary actions at the start of its turn. It can forgo using them, and it can’t use them while incapacitated or otherwise unable to take actions. If surprised, it can’t use them until after its first turn in the combat.
+
+### A Boss' Lair
+A boss might have a section describing its lair and the special effects it can create while there, either by act of will or simply by being present. Such a section applies only to a boss that spends a great deal of time in its lair.
+
+#### Lair Actions
+If a legendary creature has lair actions, it can use them to harness the ambient magic in its lair. On initiative count 20 (losing all initiative ties), it can use one of its lair action options. It can’t do so while incapacitated or otherwise unable to take actions. If surprised, it can’t use one until after its first turn in the combat.
+
+#### Regional Effects
+The mere presence of a boss can have strange and wondrous effects on its environment, as noted in this section. Regional effects end abruptly or dissipate over time when the boss dies.
+
+### Monster Descriptions
+All monster descriptions are detailed in Appendix MM.
 
 ## Dungeon
+Dungeon encounters use the encounter stats provided to determine the strength of any monsters, traps, and other adversity found in a contained, multi-room structure. Details such as light levels, room height, wall and floor composition, and type of doors in the dungeon are described first.
+
+If a dungeon features a staircase leading to a higher or lower floor of the dungeon, LEVEL is treated as if it were one level higher for each floor change. Floor changes are cumulative if they advance in the same direction. LEVEL does not change for PCs.
+
+Dungeons may have one or more bonus features.
+
+**Danger Room.** These rooms are always obscured by a door or an opaque phenomenon that is clearly labeled as deadly. If the PCs advance into a danger room, they must face a boss battle at difficulty (LEVEL + 2). If the PCs succeed in overcoming the boss, an unlocked and untapped ornate chest appears. Each PC may, in turn, approach the chest and open it. The PC then chooses and adds one treasure to their equipment from three discovered treasures (roll once on mundane treasures for their class, once on advanced treasures for their class, and once for magic items).
 
 ## Settlement
 
@@ -1061,63 +1225,7 @@ mages sometimes summon fiends to the material world to do their bidding. If an e
 
 ---
 
-# Monsters
-## Monster Statistics
-Monsters are alphabetized by creature name. A creature section contains three varieties of the same monster: minion, elite, and boss. Refer to the table below to determine the base statistics for each creature type.
-
-|   |**Minion**|**Elite**|**Boss**|
-|--:|:----:|:---:|:--:|
-|**Armor Class (AC)**|12 + LEVEL|13 + LEVEL|14 + LEVEL|
-|**Difficulty Class (DC)**|12 + LEVEL|13 + LEVEL|14 + LEVEL|
-|**Bonus**|2 + LEVEL|3 + LEVEL|4 + LEVEL|
-|**Damage**|1|LEVEL|1 + LEVEL|
-|**MAX Wounds**|1|2 + LEVEL|4 + LEVEL|
-
-**Armor Class (AC).** If the PCs take action against an encounter resulting in a melee or ranged attack, they must hit an AC equal to this number to succeed.
-
-**Difficulty Class (DC).** If an encounter requires a saving throw or skill check, set the DC to this number.
-
-**Bonus.** If any part of an encounter relies on a modifier to a d20 roll, it uses this number as the modifier.
-
-**Damage.** If any part of the encounter deals damage, it deals a number of points of damage equal to this number.
-
-**MAX Wounds.** If any part of the encounter can sustain points of damage, it gains MAX wounds equal to this number.
-
-## Customizing Monster Encounters
-The encounter statistics provided above represent average statistics. Further customization allows alternatives, depending on the desired encounter traits. Any number of statistics may be increased by up to +(LEVEL), provided another statistic is decreased by the same amount. GMs can only choose and reduce a monster statistic if it is used in the encounter. For example, during a level 1 monster encounter, the GM increases an awakened shrub minion's AC by +1. The cost of increasing the minion's AC is paid by the GM choosing to decrease the awakened shrub minion's attack modifier by -1. In this example, the GM couldn't decrease the DC statistic by -1 because the awakened shrub minion doesn't possess a statistic using a DC.
-
-### Static Minion Statistics
-You cannot customize MAX wounds or damage for minions. 
-
-### Maximums
-Encounter elements cannot exceed the following values:
-- **Ability Scores.** +5
-
-### Minimums
-Encounter elements cannot be reduced below the following values:
-- **Ability Scores.** -5
-- **Speed.** 2
-- **MAX Wounds (elite).** 2
-- **MAX Wounds (boss).** 5 
-- **DC.** 12 (minion), 13 (elite), 14 (boss)
-- **Damage.** 1
-
-When reducing statistics, GMs can only choose and reduce a creature statistic used in the encounter. For example, during a level 1 monster encounter, the GM increases an awakened shrub minion's AC by +1. The cost of increasing the minion's AC is paid by decreasing its attack modifier by -1. 
-
-### Common Monster Modifiers
-|   |   |  |
-|:-:|:-:|:-|
-|**+1**|**-1**|**Effect**|
-|MAX Wounds|Speed|Endurance increases at the expense of maneuverability.|
-|MAX Wounds|AC|Endurance increases, but it's easier to hit.|
-|AC|DC|Harder to hit with melee and ranged attacks, but easier to resist.|
-|DC|AC|Harder to resist but easier to hit with melee and ranged attacks.|
-
-## Monster Descriptions
-Each monster entry begins with minion statistics described first, followed by additional statistics for elite and boss versions. The information presented in a monster entry is additive. The elite version contains all the minion statistics and the elite statistics. Elite monster statistics override minion statistics when found under the elite features section. A ⇧ symbol followed by the name of the minion feature indicates an upgraded version.
-
-**Legendary Actions.** A boss can take 3 legendary actions, choosing from the options defined in the boss' statistics. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The boss regains spent legendary actions at the start of its turn.
-
+# Appendix MM
 ## Monsters (A)
 ### Awakened Shrub
 *Small plant, unaligned*
@@ -1146,7 +1254,7 @@ An awakened shrub is an ordinary plant given sentience and mobility by the *awak
 
 **⇧ Rake.** *Melee Weapon Attack*, ***reach 2***, one target. *Hit:* slashing damage.
 
-#### Legendary Actions
+#### Legendary Actions (3 Actions)
 **Awaken (1 Action/minion).** Revive one defeated plant minion within line of sight for each point spent. Plant minions defeated with fire cannot be revived in this way.
 
 **Rake (1 Action).** Make one rake attack against a foe.
@@ -1154,6 +1262,26 @@ An awakened shrub is an ordinary plant given sentience and mobility by the *awak
 **Thrash (1 Action).** The awakened shrub boss deals piercing damge to adjacent foes. A successful DEX save reduces the damage by half.
 
 **Bolster (2 Actions).** The awakened shrub boss gains **bolster (1 + LEVEL)**.
+
+## Monsters (B)
+
+## Monsters (C)
+
+## Monsters (D)
+
+## Monsters (E)
+
+## Monsters (F)
+
+## Monsters (G)
+
+## Monsters (H)
+
+## Monsters (I)
+
+## Monsters (J)
+
+## Monsters (K)
 
 ## Monsters (L)
 ### Lich
@@ -1202,7 +1330,7 @@ Liches share the following statistics.
 ||If LEVEL is listed more than once, the lich elite gains both benefits.|
 
 ### Boss Features
-#### Legendary Actions
+#### Legendary Actions (3 Actions)
 **Cantrip (1 Action).** The lich casts a cantrip
 
 **Bolster (2 Actions).** The lich must be able to target a minion within 12 squares to use this legendary action. The lich gains **bolster 2**.
@@ -1212,6 +1340,32 @@ Liches share the following statistics.
 **Frightening Gaze (2 Actions).** The lich fixes its gaze on one creature it can see within 2 squares of it. The target must succeed on a WIS saving throw or become frightened until the end of the encounter. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target’s saving throw is successful or the effect ends for it, the target is immune to the lich’s gaze for the next 24 hours.
 
 **Disrupt Life (3 Actions).** Each non-undead creature within 5 squares of the lich must make a CON saving throw, taking 3 necrotic damage on a failed save, or 1 necrotic damage on a successful one.
+
+## Monsters (M)
+
+## Monsters (N)
+
+## Monsters (O)
+
+## Monsters (P)
+
+## Monsters (Q)
+
+## Monsters (R)
+
+## Monsters (S)
+
+## Monsters (T)
+
+## Monsters (U)
+
+## Monsters (V)
+
+## Monsters (W)
+
+## Monsters (X)
+
+## Monsters (Y)
 
 ## Monsters (Z)
 ### Zombie
@@ -1245,25 +1399,9 @@ Zombies share the following statistics.
 ### Boss Features
 **Pack Tactics.** The zombie boss has advantage on an attack roll against a creature if at least one minion is within 1 square of the creature and the minion isn’t incapacitated.
 
-### Legendary Actions
+### Legendary Actions (3 Actions)
 - **Bolster (2 Actions).** To choose this action, the zombie boss must be adjacent to a minion. The zombie boss gains **bolster (LEVEL)**.
 - **Slam (1 Action).** Make one slam attack against an adjacent foe.
-
----
-
-## Creating a Trap
-Use the same table to determine the details of a trap. Treat the trap as if it were creating a creature.
-
-### Level 3 Arrow Trap
-- **Trigger.** Trap area.
-- **Duration.** Instantaneous.
-- **DEX Save DC.** 16
-- **Save for Half.** Yes
-- **Damage.** 3 piercing or 1 piercing (save)
-
-
-## Creating Social Encounters
-
 
 ---
 
