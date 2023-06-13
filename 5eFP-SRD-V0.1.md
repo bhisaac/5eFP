@@ -946,7 +946,7 @@ If	either	weapon	has	the	thrown	property,	you	can	throw	the	weapon,	instead	of	m
 
 (floating section)
 # Encounters
-5eFP uses encounters to describe all the adversity PCs find while exploring a map. Traps, creatures, and challenging story situations are all considered encounters. Use the following table to determine the base statistics of an encounter.
+5eFP uses encounters to describe the adversity PCs find while exploring maps. Traps, unfavorable environmental conditions, creatures, and challenging story situations are all considered encounters. Use the following table to determine the base statistics for all encounters.
 
 |   |**Minion**|**Elite**|**Boss**|
 |--:|:----:|:---:|:--:|
@@ -979,7 +979,6 @@ The encounter statistics provided represent average values. Any number of statis
 
 A minion's MAX wounds or damage cannot be customized.
 
-### Minimum Stats
 Encounter elements cannot be reduced below the following values:
 - **Speed.** 2
 - **MAX Wounds (elite).** 2
@@ -987,16 +986,17 @@ Encounter elements cannot be reduced below the following values:
 - **DC.** 12 (minion), 13 (elite), 14 (boss)
 - **Damage.** 1
 
-## Encounter Type
+# Encounter Type
 Encounter type describes what kind of encounter it is.
-### Monster
+
+## Monster
 Monsters are born and thrive in the wild places between settlements. Creature encounters often rely on combat and tactics, but they do not require combat to overcome. Monster encounters use one of three templates:
 
 - **Minion.** Place (number of PCs + 1) minions onto the playing field.
 - **Elite.** As **Minion** plus add 2 elites onto the playing field.
 - **Boss.** As **Minion** plus add 1 boss onto the playing field adjacent to a minion.
 
-#### Monster Type
+### Monster Type
 A monster’s type speaks to its fundamental nature. Certain spells, magic items, class features, and other effects in the game interact in special ways with creatures of a particular type. For example, an *arrow of dragon slaying* deals extra damage not only to dragons but also to other creatures of the dragon type, such as dragon turtles and wyverns.
 
 The game includes the following monster types, which have no rules of their own.
@@ -1030,20 +1030,18 @@ mages sometimes summon fiends to the material world to do their bidding. If an e
 
 **Undead** are once-living creatures brought to a horrifying state of undeath through the practice of necromantic magic or some unholy curse. Undead include walking corpses, such as vampires and zombies, as well as bodiless spirits, such as ghosts and specters.
 
-#### Monster Features
-## Bolster X
-This creature gains **bolster X**, where *X* is a pool of points used to reduce incoming damage. As long as this creature has a bolster pool of 1 or more, it may assign 1 or more bolster points as a free action to reduce the damage by 1 for each point spent. Spent points are lost. Whenever a creature has two or more bolster pools, it keeps the largest bolster pool and discards the rest.
+### Monster Features
+**Bolster X.** This creature gains **bolster X**, where *X* is a pool of points used to reduce incoming damage. As long as this creature has a bolster pool of 1 or more, it may assign 1 or more bolster points as a free action to reduce the damage by 1 for each point spent. Spent points are lost. Whenever a creature has two or more bolster pools, it keeps the largest bolster pool and discards the rest.
 
-## Damage Resistances
-This creature resists any damage dealt from the listed damage types. Whenever this creature is assigned 1 or more points of damage from a damage type listed, divide the assigned damage in half.
+**Damage Resistance.** This creature resists any damage dealt from the listed damage types. Whenever this creature is assigned 1 or more points of damage from a damage type listed, divide the assigned damage in half.
 
-### Dungeon
+## Dungeon
 
-### Settlement
+## Settlement
 
-### Story
+## Story
 
-### Trap
+## Trap
 
 ...
 
