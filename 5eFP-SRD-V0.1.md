@@ -1163,6 +1163,30 @@ For example, if two clerics cast _bless_ on the same target, that character gain
 |**Level 9**|
 |foresight, power word kill, true polymorph|
 
+### Cleric Spells
+|  |
+|:-|
+|**Cantrips (Level 0)**|
+|guidance, light, mending, resistance, sacred flame, spare the dying, thaumaturgy|
+|**Level 1**|
+|bane, bless, command, create or destroy water, cure wounds, detect evil and good, detect magic, detect poison and disease, guiding bolt, healing word, inflict wounds, protection from evil and good, purify food and drink, sanctuary, shield of faith|
+|**Level 2**|
+|aid, augury, blindness/deafness, calm emotions, continual flame, enhance ability, find traps, gentle repose, hold person, lesser restoration, locate object, prayer of healing, protection from poison, silence, spiritual weapon, warding bond, zone of truth|
+|**Level 3**|
+|animate dead, beacon of hope, bestow curse, clairvoyance, create food and water, daylight, dispel magic, glyph of warding, magic circle, mass healing word, meld into stone, protection from energy, remove curse, revivify, sending, speak with dead, spirit guardians, tongues, water walk|
+|**Level 4**|
+|banishment, control water, death ward, divination, freedom of movement, guardian of faith, locate creature, stone shape|
+|**Level 5**|
+|commune, contagion, dispel evil and good, flame strike, geas, greater restoration, hallow, insect plague, legend lore, mass cure wounds, planar binding, raise dead, scrying|
+|**Level 6**|
+|blade barrier, create undead, find the path, forbiddance, harm, heal, heroes feast, planar ally, true seeing, word of recall|
+|**Level 7**|
+|conjure celestial, divine word, etherealness, fire storm, plane shift, regenerate, resurrection, symbol|
+|**Level 8**|
+|antimagic field, control weather, earthquake, holy aura|
+|**Level 9**|
+|astral projection, gate, mass heal, true ressurection|
+
 #### Cantrips (0 Level)
 - Dancing Lights
 - Light
