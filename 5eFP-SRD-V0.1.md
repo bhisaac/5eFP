@@ -1187,38 +1187,29 @@ For example, if two clerics cast _bless_ on the same target, that character gain
 |**Level 9**|
 |astral projection, gate, mass heal, true ressurection|
 
-#### Cantrips (0 Level)
-- Dancing Lights
-- Light
-- Mage Hand
-- Mending
-- Message
-- Minor Illusion
-- Prestidigitation
-- True Strike
-- Vicious Mockery
-
-#### 1st Level
-- Animal Friendship
-- Bane
-- Charm Person
-- Comprehend Languages
-- Cure Wounds
-- Detect Magic
-- Disguise Self
-- Faerie Fire
-- Feather Fall
-- Healing Word
-- Heroism
-- Hideous Laughter
-- Identify
-- Illusory Script
-- Longstrider
-- Silent Image
-- Sleep
-- Speak with Animals
-- Thunderwave
-- Unseen Servant
+### Druid Spells
+|  |
+|:-|
+|**Cantrips (Level 0)**|
+|druidcraft, guidance, mending, poison spray, produce flame, resistance, shillelagh|
+|**Level 1**|
+|animal friendship, charm person, create or destroy water, cure wounds, detect magic, detect poison and disease, entangle, faerie fire, fog cloud, goodberry, healing word, jump, longstrider, purify food and drink, speak with animals, thunderwave|
+|**Level 2**|
+|animal messenger, barkskin, darkvision, enhance ability, find traps, flame blade, flaming sphere, gust of wind, heat metal, hold person, lesser restoration, locate animals or plants, locate object, moonbeam, pass without trace, protection from poison, spike growth|
+|**Level 3**|
+|call lightning, conjure animals, daylight, dispel Magic, meld into stone, plant growth, protection from energy, sleet storm, speak with plants, water breathing, water walk, wind wall|
+|**Level 4**|
+|blight, confusion, conjure minor elementals, conjure woodland beings, control water, dominate beast, freedom of movement, giant insect, hallucinatory terrain, ice storm, locate creature, polymorph, stone shape, stoneskin, wall of fire|
+|**Level 5**|
+|antilife shell, awaken, commune with nature, conjure elemental, contagion, geas, greater restoration, insect plague, mass cure wounds, planar binding, reincarnate, scrying, tree stride, wall of stone|
+|**Level 6**|
+|conjure fey, find the path, heal, heroes’ feast, move earth, sunbeam, transport via plants, wall of thorns, wind walk|
+|**Level 7**|
+|fire storm, mirage arcane, plane shift, regenerate, reverse gravity|
+|**Level 8**|
+|animal shapes, antipathy/sympathy, control weather, earthquake, feeblemind, sunburst|
+|**Level 9**|
+|foresight, shapechange, storm of vengeance, true resurrection|
 
 ---
 
