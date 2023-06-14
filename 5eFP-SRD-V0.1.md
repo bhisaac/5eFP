@@ -1140,12 +1140,12 @@ For example, if two clerics cast _bless_ on the same target, that character gain
 
 ## Spell Lists
 ### Bard Spells
-|   |  |
-|:-:|:-|
-|**Cantrips (Level 0)**||
-||dancing lights, light, mage hand, mending, message, minor illusion, prestidigitation, true Strike, vicious mockery|
-|**Level 1**||
-||animal friendship, bane, charm person, comprehend languages, cure wounds, detect magic, disguise self, faerie fire, feather fall, healing word, heroism, hideous laughter, identify, illusory script, longstrider, silent image, sleep, speak with animals, thunderwave, unseen servant|
+|  |
+|:-|
+|**Cantrips (Level 0)**|
+|dancing lights, light, mage hand, mending, message, minor illusion, prestidigitation, true Strike, vicious mockery|
+|**Level 1**|
+|animal friendship, bane, charm person, comprehend languages, cure wounds, detect magic, disguise self, faerie fire, feather fall, healing word, heroism, hideous laughter, identify, illusory script, longstrider, silent image, sleep, speak with animals, thunderwave, unseen servant|
 
 #### Cantrips (0 Level)
 - Dancing Lights
