@@ -1146,6 +1146,22 @@ For example, if two clerics cast _bless_ on the same target, that character gain
 |dancing lights, light, mage hand, mending, message, minor illusion, prestidigitation, true Strike, vicious mockery|
 |**Level 1**|
 |animal friendship, bane, charm person, comprehend languages, cure wounds, detect magic, disguise self, faerie fire, feather fall, healing word, heroism, hideous laughter, identify, illusory script, longstrider, silent image, sleep, speak with animals, thunderwave, unseen servant|
+|**Level 2**|
+|animal messenger, blindness/deafness, calm emotions, detect thoughts, enhance ability, enthrall, heat metal, hold person, invisibility, knock, lesser restoration, locate animals or plants, locate object, magic mouth, see invisibility, shatter, silence, suggestion, zone of truth|
+|**Level 3**|
+|bestow curse, clairvoyance, dispel magic, fear, glyph of warding, hypnotic pattern, major image, nondetection, plant growth, sending, speak with dead, speak with plants, stinking cloud, tiny hut, tongues|
+|**Level 4**|
+|compulsion, confusion, dimension door, freedom of movement, greater invisibility, hallucinatory terrain, locate creature, polymorph|
+|**Level 5**|
+||
+|**Level 6**|
+||
+|**Level 7**|
+||
+|**Level 8**|
+||
+|**Level 9**|
+||
 
 #### Cantrips (0 Level)
 - Dancing Lights
