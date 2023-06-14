@@ -1213,7 +1213,7 @@ If a dungeon contains a passage leading to a higher or lower floor of the dungeo
 
 Dungeons may have one or more bonus features.
 
-**Danger Room.** These rooms are always obscured by a door or an opaque phenomenon that is clearly labeled as deadly. If the PCs advance into a danger room, they must face a boss battle at difficulty (LEVEL + 2). If the PCs succeed in overcoming the boss, an unlocked and untapped ornate chest appears. Each PC may, in turn, approach the chest and open it. The PC then chooses and adds one treasure to their equipment from three discovered treasures (roll once on mundane treasures for their class, once on advanced treasures for their class, and once for magic items).
+**Danger Room.** These rooms are always obscured by a reinforced and locked door or an opaque phenomenon keeping creatures out that is clearly labeled as deadly. PCs must first acknowledge the warnings to enter a danger room. Acknowledgment unlocks the door or phenomenon, allowing passage. If the PCs advance into a danger room, they must face a boss battle at difficulty (LEVEL + 1). The way out vanishes the moment the PCs reach the danger room and does not reappear until the end of the encounter. The monster encounter is set up as if there are five PCs (even if the party is less than five) and two bonus elites are added to the encounter. If the PCs overcome the encounter, an unlocked, trap-free ornate chest appears. Each PC may, in turn, approach the chest and open it. The PC then chooses and adds one treasure to their equipment from three discovered treasures (roll once on mundane treasures for their class, once on advanced treasures for their class, and once for magic items).
 
 ## Settlement
 
