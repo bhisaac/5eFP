@@ -1153,15 +1153,15 @@ For example, if two clerics cast _bless_ on the same target, that character gain
 |**Level 4**|
 |compulsion, confusion, dimension door, freedom of movement, greater invisibility, hallucinatory terrain, locate creature, polymorph|
 |**Level 5**|
-||
+|animate objects, awaken, dominate person, dream, geas, greater restoration, hold monster, legend lore, mass cure wounds, mislead, modify memory, planar binding, raise dead, scrying, seeming, teleportation circle|
 |**Level 6**|
-||
+|eyebite, find the path, guards and wards, irresistible dance, mass suggestion, programmed illusion, true seeing|
 |**Level 7**|
-||
+|arcane sword, etherealness, forcecage, magnificent mansion, mirage arcane, project image, regenerate, resurrection, symbol, teleport|
 |**Level 8**|
-||
+|dominate monster, feeblemind, glibness, mind blank, power word stun|
 |**Level 9**|
-||
+|foresight, power word kill, true polymorph|
 
 #### Cantrips (0 Level)
 - Dancing Lights
