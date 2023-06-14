@@ -1140,6 +1140,13 @@ For example, if two clerics cast _bless_ on the same target, that character gain
 
 ## Spell Lists
 ### Bard Spells
+|  |  |  |
+|:-|:-|:-|
+|**Cantrips (0 Level)**|**1st Level**|**2nd Level**|
+|Dancing Lights|Animal Friendship|Animal Messenger|
+|Light|Bane|Blindness/Deafness|
+|Mage Hand|Charm Person|Calm Emotions|
+
 #### Cantrips (0 Level)
 - Dancing Lights
 - Light
