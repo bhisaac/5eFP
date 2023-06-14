@@ -1211,6 +1211,58 @@ For example, if two clerics cast _bless_ on the same target, that character gain
 |**Level 9**|
 |foresight, shapechange, storm of vengeance, true resurrection|
 
+### Paladin Spells
+|  |
+|:-|
+|**Level 1**|
+|bless, command, cure wounds, detect evil and good, detect magic, detect poison and disease, divine favor, heroism, protection from evil and good, purify food and drink, shield of faith|
+|**Level 2**|
+|aid, branding smite, find steed, lesser restoration, locate object, magic weapon, protection from poison, zone of truth|
+|**Level 3**|
+|create food and water, daylight, dispel magic, magic circle, remove curse, revivify|
+|**Level 4**|
+|banishment, death ward, locate creature|
+|**Level 5**|
+|dispel evil and good, geas, raise dead|
+
+### Ranger Spells
+|  |
+|:-|
+|**Level 1**|
+|alarm, animal friendship, cure wounds, detect magic, detect poison and disease, fog cloud, goodberry, hunter's mark, jump, longstrider, speak with animals|
+|**Level 2**|
+|animal messenger, barkskin, darkvision, find traps, lesser restoration, locate animals or plants, locate object, pass without trace, protection from poison, silence, spike growth|
+|**Level 3**|
+|conjure animals, daylight, nondetection, plant growth, protection from energy, speak with plants, water breathing, water walk, wind wall|
+|**Level 4**|
+|conjure woodland beings, freedom of movement, locate creature, stoneskin|
+|**Level 5**|
+|commune with nature, tree stride|
+
+### Sorcerer Spells
+|  |
+|:-|
+|**Cantrips (Level 0)**|
+|acid splash, chill touch, dancing lights, fire bolt, light, mage hand, mending, message, minor illusion, poison spray, prestidigitation, ray of frost, shocking grasp, true strike|
+|**Level 1**|
+|burning hands, charm person, color spray, comprehend languages, detect magic, disguise self, expeditious retreat, false life, feather fall, fog cloud, jump, mage armor, magic missile, shield, silent image, sleep, thunderwave|
+|**Level 2**|
+|alter self, blindness/deafness, blur, darkness, darkvision, detect thoughts, enhance ability, enlarge/reduce, gust of wind, hold person, invisibility, knock, levitate, mirror image, misty step, scorching ray, see invisibility, shatter, spider climb, suggestion, web|
+|**Level 3**|
+|blink, clairvoyance, counterspell, daylight, dispel magic, fear, fireball, fly, gaseous form, haste, hypnotic pattern, lightning bolt, major image, protection from energy, sleet storm, slow, stinking cloud, tongues, water breathing, water walk|
+|**Level 4**|
+|banishment, blight, confusion, dimension door, dominate beast, greater invisibility, ice storm, polymorph, stoneskin, wall of fire|
+|**Level 5**|
+|animate objects, cloudkill, cone of cold, creation, dominate person, hold monster, insect plague, seeming, telekinesis, teleportation circle, wall of stone|
+|**Level 6**|
+|chain lightning, circle of death, disintegrate, eyebite, globe of invulnerability, mass suggestion, move earth, sunbeam, true seeing|
+|**Level 7**|
+|delayed blast fireball, etherealness, finger of death, fire storm, plane shift, prismatic spray, reverse gravity, teleport|
+|**Level 8**|
+|dominate monster, earthquake, incendiary cloud, power word stun, sunburst|
+|**Level 9**|
+|gate, meteor swarm, power word kill, time stop, wish|
+
 ---
 
 (floating section)
