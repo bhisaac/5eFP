@@ -1600,8 +1600,7 @@ Dungeons may have one or more bonus features.
 # Appendix PHS
 ## Spell Descriptions
 #### Acid Arrow
-_2nd-level evocation_
-|  |
+|_2nd-level evocation_|
 |:-|
 |**Casting Time:** 1 action|
 |**Range:** 18|
