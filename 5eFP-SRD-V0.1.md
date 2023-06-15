@@ -1599,11 +1599,9 @@ Dungeons may have one or more bonus features.
 
 # Appendix PHS
 ## Spell Descriptions
-|  |
-|:-|
-|#### Acid Arrow|
+#### Acid Arrow
 |_2nd-level evocation_|
-||
+|:-|
 |**Casting Time:** 1 action|
 |**Range:** 18|
 |**Components:** V, S, M (powdered rhubarb leaf and an adder's stomach)|
