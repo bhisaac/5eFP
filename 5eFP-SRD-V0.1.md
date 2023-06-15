@@ -1311,6 +1311,9 @@ For example, if two clerics cast _bless_ on the same target, that character gain
 |**Level 9**|
 |astral projection, foresight, gate, imprisonment, meteor swarm, power word kill, prismatic wall, shapechange, time stop, true polymorph, weird, wish|
 
+### Spell Descriptions
+For complete descriptions of each spell, see Appendix PHS.
+
 ---
 
 (floating section)
@@ -1591,6 +1594,24 @@ Dungeons may have one or more bonus features.
 ## Trap
 
 ...
+
+---
+
+# Appendix PHS
+## Spell Descriptions
+
+### Spells (A)
+#### Acid Arrow
+_2nd-level evocation_
+
+**Casting Time:** 1 action
+**Range:** 18
+**Components:** V, S, M (powdered rhubarb leaf and an adder's stomach)
+**Duration:** Instantaneous
+
+A shimmering green arrow streaks toward a target within range and bursts in a spray of acid. Make a ranged spell attack against the target. On a hit, the target takes 1 acid damage immediately and 1 acid damage at the end of its next turn.
+
+**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage (both initial and later) increases by +1 for each slot level above 2nd.
 
 ---
 
