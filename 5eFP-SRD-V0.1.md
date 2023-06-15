@@ -1263,6 +1263,54 @@ For example, if two clerics cast _bless_ on the same target, that character gain
 |**Level 9**|
 |gate, meteor swarm, power word kill, time stop, wish|
 
+### Warlock Spells
+|  |
+|:-|
+|**Cantrips (Level 0)**|
+|chill touch, eldritch blast, mage hand, minor illusion, poison spray, prestidigitation, true strike|
+|**Level 1**|
+|charm person, comprehend languages, expeditious retreat, hellish rebuke, illusory script, protection from evil and good, unseen servant|
+|**Level 2**|
+|darkness, enthrall, hold person, invisibility, mirror image, misty step, ray of enfeeblement, shatter, spider climb, suggestion|
+|**Level 3**|
+|counterspell, dispel magic, fear, fly, gaseous form, hypnotic pattern, magic circle, major image, remove curse, tongues, vampiric touch|
+|**Level 4**|
+|banishment, blight, dimension door, hallucinatory terrain|
+|**Level 5**|
+|contact other plane, dream, hold monster, scrying|
+|**Level 6**|
+|circle of death, conjure fey, create undead, eyebite, flesh to stone, mass suggestion, true seeing|
+|**Level 7**|
+|etherealness, finger of death, forcecage, plane shift|
+|**Level 8**|
+|demiplane, dominate monster, feeblemind, glibness, power word stun|
+|**Level 9**|
+|astral projection, foresight, imprisonment, power word kill, true polymorph|
+
+### Wizard Spells
+|  |
+|:-|
+|**Cantrips (Level 0)**|
+|acid splash, chill touch, dancing lights, fire bolt, light, mage hand, mending, message, minor illusion, poison spray, prestidigitation, ray of frost, shocking grasp, true strike|
+|**Level 1**|
+|alarm, burning hands, charm person, color spray, comprehend languages, detect magic, disguise self, expeditious retreat, false life, feather fall, find familiar, floating disk, fog cloud, grease, hideous laughter, identify, illusory script, jump, longstrider, mage armor, magic missile, protection from evil and good, shield, silent image, sleep, thunderwave, unseen servant|
+|**Level 2**|
+|acid arrow, alter self, arcane lock, arcanist’s magic aura, blindness/deafness, blur, continual flame, darkness, darkvision, detect thoughts, enlarge/reduce, flaming sphere, gentle repose, gust of wind, hold person, invisibility, knock, levitate, locate object, magic mouth, magic weapon, mirror image, misty step, ray of enfeeblement, rope trick, scorching ray, see invisibility, shatter, spider climb, suggestion, web|
+|**Level 3**|
+|animate dead, bestow curse, blink, clairvoyance, counterspell, dispel magic, fear, fireball, fly, gaseous form, glyph of warding, haste, hypnotic pattern, lightning bolt, magic circle, major image, nondetection, phantom steed, protection from energy, remove curse, sending, sleet storm, slow, stinking cloud, tiny hut, tongues, vampiric touch, water breathing|
+|**Level 4**|
+|arcane eye, banishment, black tentacles, blight, confusion, conjure minor elementals, control water, dimension door, fabricate, faithful hound, fire shield, greater invisibility, hallucinatory terrain, ice storm, locate creature, phantasmal killer, polymorph, private sanctum, resilient sphere, secret chest, stone shape, stoneskin, wall of fire|
+|**Level 5**|
+|animate objects, arcane hand, cloudkill, cone of cold, conjure elemental, contact other plane, creation, dominate person, dream, geas, hold monster, legend lore, mislead, modify memory, passwall, planar binding, scrying, seeming, telekinesis, telepathic bond, teleportation circle, wall of force, wall of stone|
+|**Level 6**|
+|chain lightning, circle of death, contingency, create undead, disintegrate, eyebite, flesh to stone, freezing sphere, globe of invulnerability, guards and wards, instant summons, irresistible dance, magic jar, mass suggestion, move earth, programmed illusion, sunbeam, true seeing, wall of ice|
+|**Level 7**|
+|arcane sword, delayed blast fireball, etherealness, finger of death, forcecage, magnificent mansion, mirage arcane, plane shift, prismatic spray, project image, reverse gravity, sequester, simulacrum, symbol, teleport|
+|**Level 8**|
+|antimagic field, antipathy/sympathy, clone, control weather, demiplane, dominate monster, feeblemind, incendiary cloud, maze, mind blank, power word stun, sunburst|
+|**Level 9**|
+|astral projection, foresight, gate, imprisonment, meteor swarm, power word kill, prismatic wall, shapechange, time stop, true polymorph, weird, wish|
+
 ---
 
 (floating section)
