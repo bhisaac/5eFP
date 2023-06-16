@@ -1722,6 +1722,7 @@ Your unarmed strikes deal 1 bludgeoning, piercing, or slashing damage, as approp
 - 1 (1 bolt): Weal, for good results
 - 6 (2 bolts): Woe, for bad results
 - 2-5 (blank): Mixed or unclear results
+
 |  |
 |:-|
 |The spell doesn’t take into account any possible circumstances that might change the outcome, such as the casting of additional spells or the loss or gain of a companion.|
