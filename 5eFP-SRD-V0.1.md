@@ -1324,7 +1324,10 @@ If a spell states that a material component is consumed by the spell, the caster
 A spellcaster must have a hand free to access a spell’s material components—or to hold a spellcasting focus—but it can be the same hand that he or she uses to perform somatic components.
 
 ### Duration
-A spell’s duration is the length of time the spell persists. A duration can be expressed in rounds, minutes, hours, or even years. Some spells specify that their effects last until the spells are dispelled or destroyed.
+A spell’s duration is the length of time the spell persists. A duration can be the length of an encounter or the length of a game session. Some spells specify that their effects last until the spells are dispelled or destroyed.
+
+#### Encounter
+A number of spells have durations longer than an instant but shorter than a game session. These spells persist for the length of an encounter. Whenever you cast these spells while on the overland movement map of a world map tile, their effects remain as long as you do not change maps. If you change maps due to a random encounter or by entering a foothold, the spell's duration ends when you resolve the random encounter or when you complete the foothold.
 
 #### Instantaneous
 Many spells are instantaneous. The spell harms, heals, creates, or alters a creature or an object in a way that can’t be dispelled, because its magic exists only for an instant.
@@ -1714,19 +1717,92 @@ Your unarmed strikes deal 1 bludgeoning, piercing, or slashing damage, as approp
 |**Components:** V, S, M (talisman)|
 |**Duration:** Instantaneous|
 ||
-|By casting gem-­inlaid sticks, rolling dragon bones, laying out ornate cards, or employing some other divining tool, you receive an omen from an otherworldly entity about the results of a specific course of action that you plan to take before recalling back to HQ. The GM rolls three action dice and compares the the number of facing values to the following possible omens:|
+|By casting gem-­inlaid sticks, rolling dragon bones, laying out ornate cards, or employing some other divining tool, you receive an omen from an otherworldly entity about the results of a specific course of action that you plan to take before recalling back to HQ. The GM rolls an action die (d6) and compares the number of bolt symbols to the following possible omens:|
 ||
-- 1: Weal, for good results
-- 2: Woe, for bad results
-- 3: Weal and woe, for both good and bad results
-- Nothing, for results that aren’t especially good or bad
-
+- 1 (1 bolt): Weal, for good results
+- 6 (2 bolts): Woe, for bad results
+- 2-5 (blank): Mixed or unclear results
 |  |
 |:-|
 |The spell doesn’t take into account any possible circumstances that might change the outcome, such as the casting of additional spells or the loss or gain of a companion.|
-|The GM makes any necessary adjustments to the story to add these results.|
+|The GM makes any necessary adjustments to the narrative to incorporate these readings into the story.|
 
 ### Spells (B)
+#### Bane
+|_1st-­level enchantment_|
+|:-|
+|**Casting Time:** 1 action|
+|**Range:** 6|
+|**Components:** V, S, M (a drop of blood)|
+|**Duration:** Concentration (encounter)|
+||
+|Up to three creatures of your choice that you can see within range must make CHA saving throws. Whenever a target that fails this saving throw makes an attack roll or a saving throw before the spell ends, the target must roll with disadvantage. This spell removes the effects of *bless.*|
+|**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.|
+
+#### Barkskin
+|_2nd-­level transmutation_|
+|:-|
+|**Casting Time:** 1 action|
+|**Range:** Touch|
+|**Components:** V, S, M (a handful of oak bark)|
+|**Duration:** Concentration (encounter)|
+||
+|You touch a willing creature. Until the spell ends, the target’s skin has a rough, bark-­like appearance, and the target’s AC can’t be less than 16, regardless of what kind of armor it is wearing.|
+
+#### Bless
+|_1st-­level enchantment_|
+|:-|
+|**Casting Time:** 1 action|
+|**Range:** 6|
+|**Components:** V, S, M (a sprinkling of holy water)|
+|**Duration:** Concentration (encounter)|
+||
+|You bless up to three creatures of your choice within range. Whenever a target makes an attack roll or a saving throw before the spell ends, the target makes these rolls with advantage. This spell removes the effects of *bane.*|
+|**At Higher Levels.** At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.|
+
+#### Blindness/Deafness
+|_2nd-­level necromancy_|
+|:-|
+|**Casting Time:** 1 action|
+|**Range:** 6|
+|**Components:** V|
+|**Duration:** Encounter|
+||
+|You can blind or deafen a foe. Choose one creature that you can see within range to make a CON saving throw. If it fails, the target is either blinded or deafened (your choice) for the duration. At the end of each of its turns, the target can make a CON saving throw. On a success, the spell ends.|
+|**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.|
+
+#### Blur
+|_2nd-­level illusion_|
+|:-|
+|**Casting Time:** 1 action|
+|**Range:** Self|
+|**Components:** V|
+|**Duration:** Concentration (encounter)|
+||
+|Your body becomes blurred, shifting and wavering to all who can see you. For the duration, any creature has disadvantage on attack rolls against you. An attacker is immune to this effect if it doesn’t rely on sight, as with blindsight, or can see through illusions, as with truesight.|
+
+#### Branding Smite
+|_2nd-­level evocation_|
+|:-|
+|**Casting Time:** 1 bonus action|
+|**Range:** Self|
+|**Components:** V|
+|**Duration:** Concentration (encounter)|
+||
+|The next time you hit a creature with a weapon attack before this spell ends, the weapon gleams with astral radiance as you strike. The attack deals an extra 1 radiant damage to the target, which becomes visible if it's invisible, and the target sheds dim light in a 1 square radius and can't become invisible until the spell ends.|
+|**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the extra damage increases by +1 for each slot level above 2nd|
+
+#### Burning Hands
+|_1st-­level evocation_|
+|:-|
+|**Casting Time:** 1 action|
+|**Range:** Self|
+|**Components:** V, S|
+|**Duration:** Instantaneous|
+||
+|As you hold your hands with thumbs touching and fingers spread, a thin sheet of flames shoots forth from your outstretched fingertips. Each creature in a 3-­square cone must make a DEX saving throw. A creature takes 1 fire damage on a failed save, or half as much damage on a successful one (minimum 1 damage). The fire ignites any flammable objects in the area that aren’t being worn or carried.|
+|**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by +1 for each slot level above 1st.|
+
 #### NAME
 |_LEVEL_|
 |:-|
@@ -1737,6 +1813,77 @@ Your unarmed strikes deal 1 bludgeoning, piercing, or slashing damage, as approp
 ||
 |DESC|
 |**At Higher Levels.** HIGHER|
+
+### Spells (C)
+
+#### NAME
+|_LEVEL_|
+|:-|
+|**Casting Time:** 1 action|
+|**Range:** 18|
+|**Components:** V, S, M (MATERIAL)|
+|**Duration:** Instantaneous|
+||
+|DESC|
+|**At Higher Levels.** HIGHER|
+
+Calm Emotions
+2nd-­‐‑level enchantment
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Concentration, up to 1 minute
+You attempt to suppress strong emotions in a group of people. Each humanoid in a 20-­‐‑foot-­‐‑radius sphere centered on a point you choose within range must make a Charisma saving throw; a creature can choose to fail this saving throw if it wishes. If a creature fails its saving throw, choose one of the following two effects.
+You can suppress any effect causing a target to be charmed or frightened. When this spell ends, any suppressed effect resumes, provided that its duration has not expired in the meantime.
+Alternatively, you can make a target indifferent about creatures of your choice that it is hostile toward. This indifference ends if the target is attacked or harmed by a spell or if it witnesses any of its friends being harmed. When the spell ends, the creature becomes hostile again, unless the GM rules otherwise.
+
+
+
+### Spells (D)
+
+### Spells (E)
+
+### Spells (F)
+
+### Spells (G)
+
+### Spells (H)
+
+### Spells (I)
+
+### Spells (J)
+
+### Spells (K)
+
+### Spells (L)
+
+### Spells (M)
+
+### Spells (N)
+
+### Spells (O)
+
+### Spells (P)
+
+### Spells (Q)
+
+### Spells (R)
+
+### Spells (S)
+
+### Spells (T)
+
+### Spells (U)
+
+### Spells (V)
+
+### Spells (W)
+
+### Spells (X)
+
+### Spells (Y)
+
+### Spells (Z)
 
 ---
 
