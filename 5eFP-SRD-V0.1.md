@@ -959,7 +959,7 @@ If	either	weapon	has	the	thrown	property,	you	can	throw	the	weapon,	instead	of	m
 |**Bonus**|2 + LEVEL|3 + LEVEL|4 + LEVEL|
 |**Damage**|1|LEVEL|1 + LEVEL|
 |**MAX Wounds**|1|2 + LEVEL|4 + LEVEL|
-|**Forced Movement**|1|LEVEL|LEVEL|
+|**Forced Movement**|1|1-2|2|
 
 **Minion.** Minions represent simple encounters. Monster encounters treat minions as creatures with minimal stats that can only sustain one point of damage with MAX wounds of 1. Non-monster encounters represent situations where PCs must meet a single challenge to overcome the encounter. Examples: a trap that does not reset or picking a lock. While minion monster encounters are resolved in rounds, non-monster encounters may take minutes to resolve.
 
