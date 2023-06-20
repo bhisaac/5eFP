@@ -959,6 +959,7 @@ If	either	weapon	has	the	thrown	property,	you	can	throw	the	weapon,	instead	of	m
 |**Bonus**|2 + LEVEL|3 + LEVEL|4 + LEVEL|
 |**Damage**|1|LEVEL|1 + LEVEL|
 |**MAX Wounds**|1|2 + LEVEL|4 + LEVEL|
+|**Forced Movement**|1|LEVEL|LEVEL|
 
 **Minion.** Minions represent simple encounters. Monster encounters treat minions as creatures with minimal stats that can only sustain one point of damage with MAX wounds of 1. Non-monster encounters represent situations where PCs must meet a single challenge to overcome the encounter. Examples: a trap that does not reset or picking a lock. While minion monster encounters are resolved in rounds, non-monster encounters may take minutes to resolve.
 
@@ -977,6 +978,8 @@ If	either	weapon	has	the	thrown	property,	you	can	throw	the	weapon,	instead	of	m
 **Damage.** If any part of the encounter deals damage, it deals a number of points of damage equal to this number.
 
 **MAX Wounds.** If any part of the encounter can sustain points of damage, it gains MAX wounds equal to this number. Any PC action taken to end an encounter is considered damage. Thus, a diplomatic crisis may have a MAX wounds stat representing how many times the PCs must affect the encounter before it resolves.
+
+**Forced Movement.** If any part of the encounter imposes forced movement, this number represents the number of squares of forced movement. If no direction is stated, the movement is a push.
 
 ## Customizing Encounters
 The encounter statistics provided represent average values. Any number of statistics may be increased by up to +(LEVEL), provided another statistic is decreased by the same amount. Only stats used in an encounter can be customized. For example, during a level 1 monster encounter, the GM increases an awakened shrub minion's AC by +1. The cost of increasing the minion's AC is paid by the GM choosing to decrease the awakened shrub minion's attack modifier by -1. In this example, the GM couldn't decrease the DC stat by -1 because the awakened shrub minion doesn't possess a stat using a DC. However, if the encounter includes a condition or effect requiring a saving throw to resist, the DC stat can be decreased by -1.
