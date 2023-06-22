@@ -3,19 +3,13 @@
 The description of each species includes species traits that are common to members of that species. The following entries appear among the traits of most species.
 
 ### Ability Score Increase
-Every species increases one character’s ability score by +1. Most species also grant an additional improved ability score at character creation, provided a +1 or +2 is assigned to the listed ability score.
+Every species increases one character’s ability score by +1. Most species also grant an additional improved ability score at character creation, providing a +1 or +2 is assigned to the listed ability score.
 
 ### Age
 The age entry notes the age when a member of the species is considered an adult, as well as the species’ expected lifespan. This information can help you decide how old your character is at the start of the game. You can choose any age for your character, which could provide an explanation for some of your ability scores. For example, if you play a young or very old character, your age could explain a particularly low Strength or Constitution score, while advanced age could account for a high Intelligence or Wisdom.
 
 ### Alignment
 Most species have tendencies toward certain alignments, described in this entry. These are not binding for player characters, but considering why your dwarf is chaotic, for example, in defiance of lawful dwarf society can help you better define your character.
-
-#### Playable Alignments
-- **GOOD.** Favors the common good for all. Fairness and consideration of others.
-- **LAWFUL.** Best able to turn chaos into a degree of order with purpose.
-- **CHAOTIC.** Best able to grow and adapt to changes.
-- **NEUTRAL.** Undecided. Understands that there are times and places for each alignment.
 
 ### Size
 Characters of most species are Medium, a size category including creatures that are roughly 4 to 8 feet tall. Members of a few species are Small (between 2 and 4 feet tall), which means that certain rules of the game affect them differently. The most important of these rules is that Small characters have trouble wielding heavy weapons, as explained in “Equipment.”
@@ -26,8 +20,8 @@ Your speed determines how far you can move when traveling (“Adventuring”) an
 ### Languages
 By virtue of your species, your character can speak, read, and write certain languages.
 
-### Varities
-Some species have one or more varities. Each variety has the traits of the parent species in addition to the traits specified for their variety. Relationships among varities differ significantly from species to species and world to world.
+### Varieties
+Some species have one or more varieties. Each variety has the traits of the parent species in addition to the traits specified for their variety. Relationships among varieties differ significantly from species to species and world to world.
 
 ## Dwarf
 ### Dwarf Traits
@@ -934,6 +928,38 @@ A standard coin weighs about a third of an ounce, so fifty coins weigh a pound.
 
 ---
 
+# Feats
+A feat represents a talent or an area of expertise that gives a character special capabilities. It embodies training, experience, and abilities beyond what a class provides.
+
+At certain levels, your class gives you the Ability Score Improvement feature. Using the optional feats rule, you can forgo taking that feature to take a feat of your choice instead. You can take each feat only once, unless the feat’s description says otherwise.
+
+You must meet any prerequisite specified in a feat to take that feat. If you ever lose a feat’s prerequisite, you can’t use that feat until you regain the prerequisite. For example, the Grappler feat requires you to have a Strength of 13 or higher. If your Strength is reduced below 13 somehow—perhaps by a withering curse—you can’t benefit from the Grappler feat until your Strength is restored.
+
+## Armor Training: Heavy (Plate)
+_Prerequisite: Medium Armor Training_
+
+You gain proficiency in heavy armor and shields. If you already had proficiency in heavy armor, you instead gain the following benefit:
+- A the beginning of each of your turns, if you are wearing heavy armor, you gain **bolster 1*.
+
+## Armor Training: Medium (Chain)
+_Prerequisite: Medium Armor Training_
+
+You gain proficiency in medium armor and shields. If you already had proficiency in medium armor, you instead gain the following benefit:
+- Medium armor no longer imposes disadvantage on performance checks.
+
+## Armor Training: Light (Leather)
+You gain proficiency in light armor. If you already had proficiency in light armor, you instead gain the following benefit:
+- (something).
+
+## Grappler
+_Prerequisite: STR +1 or higher_
+
+You’ve developed the skills necessary to hold your own in close-­‐‑quarters grappling. You gain the following benefits:
+• You have advantage on attack rolls against a creature you are grappling.
+• You can use your action to try to pin a creature grappled by you. To do so, make another grapple check. If you succeed, you and the creature are both restrained until the grapple ends.
+
+---
+
 # Making An Attack
 ## Two-Weapon Fighting (needs playtesting)
 ~~When	you	take	the	Attack	action	and	attack	with	a	light	melee	weapon	that	you’re	holding	in	one	hand,	you	can	use	a	bonus	action	to	attack	with	a	different light melee	weapon	that	you’re	holding	in	the	other	hand.	You	don’t	add	your	ability	modifier	to	the	damage	of	the	bonus	attack,	unless	that	modifier	is	negative.~~
@@ -1229,6 +1255,15 @@ Dungeons may have one or more bonus features.
 ## Trap
 
 ...
+
+---
+
+(floating section)
+# Playable Alignments
+- **GOOD.** Favors the common good for all. Fairness and consideration of others.
+- **LAWFUL.** Best able to turn chaos into a degree of order with purpose.
+- **CHAOTIC.** Best able to grow and adapt to changes.
+- **NEUTRAL.** Undecided. Understands that there are times and places for each alignment.
 
 ---
 
