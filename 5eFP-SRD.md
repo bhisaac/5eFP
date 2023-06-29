@@ -4,7 +4,7 @@ Our stories tend to favor the light but also include the dark. We wish to reach 
 > **TV-PG**
 > 
 > This program contains material that parents may find unsuitable for younger children.
-> Programs may contain some material that parents or guardians may find inappropriate for younger children. Programs assigned a TV-PG > rating may include infrequent coarse language, some sexual content, some suggestive dialogue, or moderate violence.
+> Programs may contain some material that parents or guardians may find inappropriate for younger children. Programs assigned a TV-PG-rating may include infrequent coarse language, some sexual content, some suggestive dialogue, or moderate violence.
 > 
 > **TV-14**
 > 
