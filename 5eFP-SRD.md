@@ -1,3 +1,23 @@
+## Content Ratings
+Our stories tend to favor the light but also include the dark. We wish to reach the largest audience possible, including people who do not measure life in terms of "light" or "dark." All humans are a mixed bag of positive and negative traits. We are walking contradictions of opposing forces somehow balanced by the will to survive. We want diversity and inclusivity because they attract players. **Content is suitable for rating TV-PG, though TV-14-rated content is also permitted.**
+
+> **TV-PG**
+> 
+> This program contains material that parents may find unsuitable for younger children.
+> Programs may contain some material that parents or guardians may find inappropriate for younger children. Programs assigned a TV-PG > rating may include infrequent coarse language, some sexual content, some suggestive dialogue, or moderate violence.
+> 
+> **TV-14**
+> 
+> This program contains material that most parents would find unsuitable for children under 14 years of age.
+> Programs contain material that parents or adult guardians may find unsuitable for children under the age of 14.
+> The FCC warns that "parents are cautioned to exercise some care in monitoring this program and are cautioned against letting children under the age of 14 watch unattended."
+> Programs with this rating may contain intensely suggestive dialogue, strong coarse language, intense sexual situations, or intense violence.
+
+## No Convincing
+We abstain from convincing one another of anything. Our story seeks its own reward by adding collective experiences where precious time and attention can be shared between those who walk similar but different journeys through life. We get to know one another deeper without convincing or swaying opinions. Players leave the same as they arrive but with greater experience.
+
+---
+
 # Species
 ## Species Traits
 The description of each species includes species traits that are common to members of that species. The following entries appear among the traits of most species.
