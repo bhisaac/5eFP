@@ -1146,9 +1146,9 @@ If a monster is naturally blind, it has a parenthetical note to this effect, ind
 A monster with darkvision can see in the dark within a specific radius. The monster can see in dim light within the radius as if it were bright light, and in darkness as if it were dim light. The monster can’t discern color in darkness, only shades of gray. Many creatures that live underground have this special sense.
 
 >#### Armor, Weapon, and Tool Proficiencies
->Assume that a creature is proficient with its armor, weapons, and tools. If you swap them out, you decide whether the creature is >proficient with its new equipment.
+>Assume that a creature is proficient with its armor, weapons, and tools. If you swap them out, you decide whether the creature is proficient with its new equipment.
 >
->For example, a hill giant typically wears hide armor and wields a greatclub. You could equip a hill giant with chain mail and a >greataxe instead, and assume the giant is proficient with both, one or the other, or neither.
+>For example, a hill giant typically wears hide armor and wields a greatclub. You could equip a hill giant with chain mail and a greataxe instead, and assume the giant is proficient with both, one or the other, or neither.
 
 #### Tremorsense
 A monster with tremorsense can detect and pinpoint the origin of vibrations within a specific radius, provided that the monster and the source of the vibrations are in contact with the same ground or substance. Tremorsense can’t be used to detect flying or incorporeal creatures. Many burrowing creatures, such as ankhegs and umber hulks, have this special sense.
@@ -1264,7 +1264,7 @@ All monster descriptions are detailed in Appendix MM.
 ## Dungeon
 Dungeon encounters use the encounter stats provided to determine the strength of any monsters, traps, and other adversity found in one floor of a contained, multi-room structure. Details such as light levels, room height, wall and floor composition, and type of doors in the dungeon are described first.
 
-If a dungeon contains a passage leading to a higher or lower floor of the dungeon, LEVEL increases by +1. Floor changes are cumulative if they advance in the same direction. If a set of stairs in a level 1 dungeon leads down two floors, the new floor would be a LEVEL + 2 (level 3) area. While searching the level 3 floor, the PCs find a rope leading up through a hole in the floor. They climb the rope and find themselves on a new level 2 floor. Then, if the PCs found a staircase leading up, the next floor would return to a level 1 area.
+If a dungeon contains a passage leading to a higher or lower floor of the dungeon, LEVEL increases by +3. Floor changes are cumulative if they advance in the same direction. If a set of stairs in a level 1 dungeon leads down two floors, the new floor would be a LEVEL + 6 (level 7) area. While searching the level 7 floor, the PCs find a rope leading up through a hole in the floor. They climb the rope and find themselves on a level 4 floor. Then, if the PCs found a staircase leading up, the next floor would return to a level 1 area.
 
 Dungeons may have one or more bonus features.
 
