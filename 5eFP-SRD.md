@@ -1933,6 +1933,19 @@ Alternatively, you can make a target indifferent about creatures of your choice 
 ### Spells (S)
 
 ### Spells (T)
+#### Thunderwave
+|1st-level evocation|
+|:-|
+|**Casting Time:** 1 action|
+|**Range:** Self (3-square cube)|
+|**Components:** V, S|
+|**Duration:** Instantaneous|
+||
+|A wave of thunderous force sweeps out from you. Each creature in a 3-square cube originating from you must make a CON saving throw. On a failed save, a creature takes 1 thunder damage and is pushed 2 squares away from you. On a successful save, the creature takes only 1 thunder damage and isn’t pushed.|
+|In addition, unsecured objects that are completely within the area of effect are automatically pushed 2 squares away from you by the spell’s effect, and the spell emits a thunderous boom audible on the entire map.|
+|**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by +1 for each slot level above 1st.|
+
+
 
 ### Spells (U)
 
