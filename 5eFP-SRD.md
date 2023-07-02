@@ -961,7 +961,7 @@ You must meet any prerequisite specified in a feat to take that feat. If you eve
 _Prerequisite: Medium Armor Training_
 
 You gain proficiency in heavy armor and shields. If you already had proficiency in heavy armor, you instead gain the following benefit:
-- A the beginning of each of your turns, if you are wearing heavy armor, you gain **bolster 1*.
+- A the beginning of each of your turns, if you are wearing heavy armor, you gain **bolster 1**.
 
 ## Armor Training: Medium (Chain)
 _Prerequisite: Medium Armor Training_
@@ -971,14 +971,14 @@ You gain proficiency in medium armor and shields. If you already had proficiency
 
 ## Armor Training: Light (Leather)
 You gain proficiency in light armor. If you already had proficiency in light armor, you instead gain the following benefit:
-- (something).
+- TBD
 
 ## Grappler
 _Prerequisite: STR +1 or higher_
 
-You’ve developed the skills necessary to hold your own in close-­‐‑quarters grappling. You gain the following benefits:
-• You have advantage on attack rolls against a creature you are grappling.
-• You can use your action to try to pin a creature grappled by you. To do so, make another grapple check. If you succeed, you and the creature are both restrained until the grapple ends.
+You’ve developed the skills necessary to hold your own in close-­quarters grappling. You gain the following benefits:
+- You have advantage on attack rolls against a creature you are grappling.
+- You can use your action to try to pin a creature grappled by you. To do so, make another grapple check. If you succeed, you and the creature are both restrained until the grapple ends.
 
 ---
 
@@ -998,16 +998,16 @@ If	either	weapon	has	the	thrown	property,	you	can	throw	the	weapon,	instead	of	m
 
 (floating section)
 # Encounters
-5eFP uses encounters to describe the adversity PCs find while exploring maps. Traps, unfavorable environmental conditions, creatures, and challenging story situations are all considered encounters. Use the following table to determine the base statistics for all encounters.
+5eFP uses encounters to describe the adversity PCs find while exploring maps. Traps, unfavorable environmental conditions, creatures, and challenging story situations are all considered encounters. Use the following table to determine the base statistics for all encounters. Except for foced movement and minion damage and minion MAX wounds, add LEVEL, the current level of play, to the base values.
 
 |   |**Minion**|**Elite**|**Boss**|
 |--:|:----:|:---:|:--:|
-|**Armor Class (AC)**|12 + LEVEL|13 + LEVEL|14 + LEVEL|
-|**Difficulty Class (DC)**|12 + LEVEL|13 + LEVEL|14 + LEVEL|
-|**Bonus**|2 + LEVEL|3 + LEVEL|4 + LEVEL|
-|**Damage**|1|LEVEL|1 + LEVEL|
-|**MAX Wounds**|1|2 + LEVEL|4 + LEVEL|
-|**Forced Movement**|1|1-2|2|
+|**Armor Class (AC)**|12|13|14|
+|**Difficulty Class (DC)**|12|13|14|
+|**Bonus**|+2|+3|+4|
+|**Damage**|1|0|1|
+|**MAX Wounds**|1|2|4|
+|**Forced Movement**|1|1 or 2|2|
 
 **Minion.** Minions represent simple encounters. Monster encounters treat minions as creatures with minimal stats that can only sustain one point of damage with MAX wounds of 1. Non-monster encounters represent situations where PCs must meet a single challenge to overcome the encounter. Examples: a trap that does not reset or picking a lock. While minion monster encounters are resolved in rounds, non-monster encounters may take minutes to resolve.
 
