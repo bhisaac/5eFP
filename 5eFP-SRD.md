@@ -1,5 +1,5 @@
 ## Content Ratings
-Our stories tend to favor the light but also include the dark. We wish to reach the largest audience possible, including people who do not measure life in terms of "light" or "dark." All humans are a mixed bag of positive and negative traits. We are walking contradictions of opposing forces somehow balanced by the will to survive. We want diversity and inclusivity because they attract players. **Content is suitable for rating TV-PG, though TV-14-rated content is also permitted.**
+Our stories tend to favor the light but also include the dark. We wish to reach the largest audience possible, including people who do not measure life in terms of "light" or "dark." All humans are a mixed bag of positive and negative traits. We are walking contradictions of opposing forces balanced by the will to survive. We support diversity and inclusivity in 5eFP because they are desirable traits and because both traits attract players. **Content is suitable for rating TV-PG, though TV-14-rated content is also permitted.**
 
 > **TV-PG**
 > 
