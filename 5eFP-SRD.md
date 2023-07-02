@@ -998,7 +998,7 @@ If	either	weapon	has	the	thrown	property,	you	can	throw	the	weapon,	instead	of	m
 
 (floating section)
 # Encounters
-5eFP uses encounters to describe the adversity PCs find while exploring maps. Traps, unfavorable environmental conditions, creatures, and challenging story situations are all considered encounters. Use the following table to determine the base statistics for all encounters. Except for foced movement and minion damage and minion MAX wounds, add LEVEL, the current level of play, to the base values.
+5eFP uses encounters to describe the adversity PCs find while exploring maps. Traps, unfavorable environmental conditions, creatures, and challenging story situations are all considered encounters. Use the following table to determine the base statistics for all encounters. Except for forced movement, minion damage, and minion MAX wounds, add LEVEL to the base values.
 
 |   |**Minion**|**Elite**|**Boss**|
 |--:|:----:|:---:|:--:|
@@ -1035,11 +1035,11 @@ The encounter statistics provided represent average values. Any number of statis
 A minion's MAX wounds or damage cannot be customized.
 
 Encounter elements cannot be reduced below the following values:
-- **Speed.** 2
-- **MAX Wounds (elite).** 2
-- **MAX Wounds (boss).** 5 
-- **DC.** 12 (minion), 13 (elite), 14 (boss)
-- **Damage.** 1
+- **Speed** 2
+- **MAX Wounds (elite)** 2
+- **MAX Wounds (boss)** 5 
+- **DC** 12 (minion), 13 (elite), 14 (boss)
+- **Damage** 1
 
 # Encounter Type
 Encounter type describes what kind of encounter it is.
