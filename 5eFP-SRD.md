@@ -2,16 +2,14 @@
 Our stories tend to favor the light but also include the dark. We wish to reach the largest audience possible, including people who do not measure life in terms of "light" or "dark." All humans are a mixed bag of positive and negative traits. We are walking contradictions of opposing forces balanced by the will to survive. We support diversity and inclusivity in 5eFP because they are desirable traits and because both traits attract players. **Content is suitable for rating TV-PG, though TV-14-rated content is also permitted.**
 
 > **TV-PG**
+> **_Parental Guidance Suggested_**
 > 
-> This program contains material that parents may find unsuitable for younger children.
-> Programs may contain some material that parents or guardians may find inappropriate for younger children. Programs assigned a TV-PG rating may include infrequent coarse language, some sexual content, some suggestive dialogue, or moderate violence.
+> 5eFP games contain material that parents may find unsuitable for younger children. Many parents may want to play 5eFP with their younger children. The theme itself may call for parental guidance and/or the program may contain one or more of the following: some suggestive dialogue (D), infrequent coarse language (L), some sexual situations (S), or moderate violence (V).
 > 
 > **TV-14**
+> **_Parents Strongly Cautioned_**
 > 
-> This program contains material that most parents would find unsuitable for children under 14 years of age.
-> Programs contain material that parents or adult guardians may find unsuitable for children under the age of 14.
-> The FCC warns that "parents are cautioned to exercise some care in monitoring this program and are cautioned against letting children under the age of 14 watch unattended."
-> Programs with this rating may contain intensely suggestive dialogue, strong coarse language, intense sexual situations, or intense violence.
+> 5eFP games may contain material many parents would find unsuitable for children under 14 years of age. Parents are strongly urged to exercise greater care in monitoring this game and are cautioned against letting children under the age of 14 play unattended. This program may contain one or more of the following: intensely suggestive dialogue (D), strong coarse language (L), intense sexual situations (S), or intense violence (V).
 
 ## No Convincing or Pursuing
 We abstain from convincing one another of anything. Our story seeks its own reward by adding collective experiences where time and attention can be shared between those who walk similar but different journeys through life. We get to know one another deeper without convincing or swaying opinions. Players leave the same as they arrive but with greater experience.
