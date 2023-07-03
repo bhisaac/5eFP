@@ -14,7 +14,7 @@ Our stories tend to favor the light but also include the dark. We wish to reach 
 > Programs with this rating may contain intensely suggestive dialogue, strong coarse language, intense sexual situations, or intense violence.
 
 ## No Convincing or Pursuing
-We abstain from convincing one another of anything. Our story seeks its own reward by adding collective experiences where precious time and attention can be shared between those who walk similar but different journeys through life. We get to know one another deeper without convincing or swaying opinions. Players leave the same as they arrive but with greater experience.
+We abstain from convincing one another of anything. Our story seeks its own reward by adding collective experiences where time and attention can be shared between those who walk similar but different journeys through life. We get to know one another deeper without convincing or swaying opinions. Players leave the same as they arrive but with greater experience.
 
 While player participation is preferred, players may exit this practice at anytime without being pursued or censured.
 
