@@ -2,11 +2,13 @@
 Our stories tend to favor the light but also include the dark. We wish to reach the largest audience possible, including people who do not measure life in terms of "light" or "dark." All humans are a mixed bag of positive and negative traits. We are walking contradictions of opposing forces balanced by the will to survive. We support diversity and inclusivity in 5eFP because they are desirable traits and because both traits attract players. **Content is suitable for rating TV-PG, though TV-14-rated content is also permitted.**
 
 > **TV-PG**
+> 
 > **_Parental Guidance Suggested_**
 > 
 > 5eFP games contain material that parents may find unsuitable for younger children. Many parents may want to play 5eFP with their younger children. The theme itself may call for parental guidance and/or the program may contain one or more of the following: some suggestive dialogue (D), infrequent coarse language (L), some sexual situations (S), or moderate violence (V).
 > 
 > **TV-14**
+> 
 > **_Parents Strongly Cautioned_**
 > 
 > 5eFP games may contain material many parents would find unsuitable for children under 14 years of age. Parents are strongly urged to exercise greater care in monitoring this game and are cautioned against letting children under the age of 14 play unattended. This program may contain one or more of the following: intensely suggestive dialogue (D), strong coarse language (L), intense sexual situations (S), or intense violence (V).
