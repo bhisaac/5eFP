@@ -5,19 +5,15 @@ A copy of this service agreement must be included within any product or service 
 Use of the 5eFP SRD is limited to short-term, non-therapeutic counseling that may be inappropriate for individuals needing clinical therapy. Providers may use the 5eFP SRD to provide a platform for self-exploration and non-therapeutic counseling without licenses or credentials. However, recipients and providers must sign both a nondisclosure and confidentiality agreement (see Appendix NDCA) and a non-medical counseling agreement (see Appendix NMCA) stating that they understand that any 5eFP offerings, recommendations, and implementations are to remain confidential to the participants receiving the service. Additionally, sharing 5eFP SRD-related services requires the explicit understanding that such services are not necessarily considered clinical therapy or endorsed by a licensed and credentialed therapist. Non-medical counseling is supportive and addresses general living conditions, life skills, improving relationships at home and work, stress management, adjustment issues, marital problems, parenting, and grief and loss.
 
 ## Content Ratings
-5eFP content is suitable for rating TV-PG. Gamemasters who use 5eFP may, at their discretion, create content suitable for rating TV-14, provided they clearly rate their content as TV-14.
+5eFP content is rated ESRB-T (Teen). Gamemasters using the 5eFP SRD may, at their discretion, create ESRB-MA (Mature 17+) content, provided they clearly state that their entire offering is rated ESRB-MA (Mature 17+).
 
-> **TV-PG**
+> **ESRB-T (Teen)**
 > 
-> **_Parental Guidance Suggested_**
+>5eFP content is generally suitable for ages 13 and up. May contain violence, suggestive themes, crude humor, minimal blood, simulated gambling and/or infrequent use of strong language. 
 > 
-> 5eFP games contain material that parents may find unsuitable for younger children. Many parents may want to play 5eFP with their younger children. The theme itself may call for parental guidance and/or the program may contain one or more of the following: some suggestive dialogue (D), infrequent coarse language (L), some sexual situations (S), or moderate violence (V).
+> **ESRB-MA (Mature 17+)**
 > 
-> **TV-14**
-> 
-> **_Parents Strongly Cautioned_**
-> 
-> 5eFP games may contain material many parents would find unsuitable for children under 14 years of age. Parents are strongly urged to exercise greater care in monitoring this game and are cautioned against letting children under the age of 14 play unattended. This program may contain one or more of the following: intensely suggestive dialogue (D), strong coarse language (L), intense sexual situations (S), or intense violence (V).
+> 5eFP content is generally suitable for ages 17 and up. May contain intense violence, blood and gore, sexual content and/or strong language.
 
 ## No Convincing or Pursuing
 We abstain from convincing one another of anything. Our story seeks its own reward by adding collective experiences where time and attention can be shared between those who walk similar but different journeys through life. We get to know one another deeper without convincing or swaying opinions. Players leave the same as they arrive but with greater experience.
