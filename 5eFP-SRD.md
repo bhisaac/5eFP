@@ -14,9 +14,9 @@ Use of the 5eFP SRD is limited to short-term, non-therapeutic counseling that ma
 5eFP content is generally suitable for ages 17 and up. May contain intense violence, blood and gore, sexual content and/or strong language.
 
 ## 1.3 No Convincing or Pursuing
-We abstain from convincing one another of anything. Our story seeks its own reward by adding collective experiences where time and attention can be shared between those who walk similar but different journeys through life. We get to know one another deeper without convincing or swaying opinions. Players leave the same as they arrive but with greater experience.
+We refrain from convincing one another of anything. Our story seeks its own reward by adding collective experiences where time and attention can be shared between those who walk similar but different journeys through life. We get to know one another deeper without convincing or swaying opinions. Players leave the same as they arrive but with greater experience.
 
-While player participation is preferred, players may exit this practice at anytime without being pursued or censured. Voluntary withdrawal does not render contracts between participant and provider null and void. Any agreed-upon conditions and/or requirements remain in effect for the entire duration of the practice.
+While player participation is preferred, players may exit this practice at anytime without being pursued or censured. Voluntary withdrawal does not render contracts between participant and provider null and void. Any agreed-upon conditions and/or requirements remain in effect for the entire duration of each binding agreement.
 
 ---
 
