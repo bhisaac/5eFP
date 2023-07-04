@@ -1,21 +1,21 @@
-# 1. | Service Agreement
+# 1. Service Agreement
 A copy of this service agreement must be included within any product or service that uses any part of the 5eFP system reference document (SRD).
 
-## 1.1 | Non-Medical Counseling, Self-Exploration
+## 1.1 Non-Medical Counseling, Self-Exploration
 Use of the 5eFP SRD is limited to short-term, non-therapeutic counseling that may be inappropriate for individuals needing clinical therapy. Providers may use the 5eFP SRD to provide a platform for self-exploration and non-therapeutic counseling without licenses or credentials. However, recipients and providers must sign both a nondisclosure and confidentiality agreement (see Appendix NDCA) and a non-medical counseling agreement (see Appendix NMCA) stating that they understand that any 5eFP offerings, recommendations, and implementations are to remain confidential to the participants receiving the service. Additionally, sharing 5eFP SRD-related services requires the explicit understanding that such services are not necessarily considered clinical therapy or endorsed by a licensed and credentialed therapist. Non-medical counseling is supportive and addresses general living conditions, life skills, improving relationships at home and work, stress management, adjustment issues, marital problems, parenting, and grief and loss.
 
-## 1.2 | Content Ratings
+## 1.2 Content Ratings
 5eFP content is rated **ESRB-T (Teen)**. Gamemasters using the 5eFP SRD may, at their discretion, create **ESRB-MA (Mature 17+)** content, provided they clearly state that their entire offering is rated **ESRB-MA (Mature 17+)**.
 
-> 1.2.1 | **ESRB-T (Teen)**
+> 1.2.1 **ESRB-T (Teen)**
 > 
 > 5eFP content is generally suitable for ages 13 and up. May contain violence, suggestive themes, crude humor, minimal blood, simulated gambling and/or infrequent use of strong language. 
 > 
-> 1.2.2 | **ESRB-MA (Mature 17+)**
+> 1.2.2 **ESRB-MA (Mature 17+)**
 > 
 > 5eFP content is generally suitable for ages 17 and up. May contain intense violence, blood and gore, sexual content and/or strong language.
 
-## 1.3 | No Convincing or Pursuing
+## 1.3 No Convincing or Pursuing
 We abstain from convincing one another of anything. Our story seeks its own reward by adding collective experiences where time and attention can be shared between those who walk similar but different journeys through life. We get to know one another deeper without convincing or swaying opinions. Players leave the same as they arrive but with greater experience.
 
 While player participation is preferred, players may exit this practice at anytime without being pursued or censured. Voluntary withdrawal does not render contracts between participant and provider null and void. Any agreed-upon conditions and/or requirements remain in effect for the entire duration of the practice.
