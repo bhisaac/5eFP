@@ -1,5 +1,11 @@
+# Service Agreement
+A copy of this service agreement must be included within any product or service that uses any part of the 5eFP system reference document (SRD).
+
+## Non-Medical Counseling, Self-Exploration
+Use of the 5eFP SRD is limited to short-term, non-therapeutic counseling that is inappropriate for individuals needing clinical therapy. Providers may use the 5eFP SRD to provide a platform for self-exploration and non-therapeutic counseling without licenses or credentials. However, recipients and providers must sign both a nondisclosure and confidentiality agreement (see Appendix NDA) and a non-medical counseling agreement (see Appendix NMCA) stating that they understand that any 5eFP offerings, recommendations, and implementations are to remain confidential to the participants receiving the service. Additionally, sharing 5eFP SRD-related services requires the explicit understanding that such services are not necessarily considered clinical therapy or endorsed by a licensed and credentialed therapist. Non-medical counseling is supportive and addresses general living conditions, life skills, improving relationships at home and work, stress management, adjustment issues, marital problems, parenting, and grief and loss.
+
 ## Content Ratings
-5eFP content is suitable for rating TV-PG, though TV-14-rated content is also permitted.
+5eFP content is suitable for rating TV-PG. Gamemasters who use 5eFP may, at their discretion, create content suitable for rating TV-14, provided they clearly rate their content as TV-14.
 
 > **TV-PG**
 > 
