@@ -20,6 +20,13 @@ While player participation is preferred, players may exit this practice at anyti
 
 ---
 
+# Introduction
+## How to Play
+### Round Down
+There's one more general rule you need to know at the outset. Whenever you divide a number in the game, round down if you end up with a fraction, even if the fraction is one-half or greater (minimum 1).
+
+---
+
 # Species
 ## Species Traits
 The description of each species includes species traits that are common to members of that species. The following entries appear among the traits of most species.
