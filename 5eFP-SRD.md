@@ -1,4 +1,4 @@
-# 1. Service Agreement
+# 1. 5eFP Service Agreement
 A copy of this service agreement must be included within any product or service that uses any part of the 5eFP system reference document (SRD).
 
 ## 1.1 Non-Medical Counseling, Self-Exploration
