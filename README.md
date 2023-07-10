@@ -19,7 +19,7 @@ Join our growing 5eFP community and start contributing. 5eFP needs ***sponsors**
 - **Game Masters (GMs)** are interested in providing GM feedback regarding 5eFP game mechanics, pre-generated characters, and any sample setting materials. GMs are also interested in running 5eFP games.
 - **Player Characters (PCs)** want to play a character and provide regular PC feedback within the 5eFP Enchanted Forest setting.
 
-This project needs reliable and dedicated PCs, GMs, and contributors with any of the following skills (in no particular order):
+This project needs openminded, reliable, and dedicated PCs, GMs, and contributors who appreciate and engender curiosity toward themselves, toward fellow players, and toward 5eFP's developing game mechanics. This project is looking for any of the following skills (in no particular order):
 
 - **Emotional Intelligence.** The capacity to be aware of, control, and express one's emotions, and to handle interpersonal relationships judiciously and empathetically.
 - **5eFP Apps.** Proficiency or familiarity with **Arrangr**, **Discord**, **Roll20**, and **Zoom**.
