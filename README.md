@@ -29,15 +29,16 @@ This project needs openminded, reliable, and dedicated PCs, GMs, and contributor
 - **Rules lawyer and/or 5e SRD 5.1 experience.** 5eFP needs to work for everybody who picks it up and decides to give it a try. Therefore, the rules must make sense and apply to all circumstances described in the 5eFP core rules and setting handbook. Rules lawyers use their discernment to help make the rules "low-crunch"/simple, intuitive, consistent, and accurate. Prior 5e SRD 5.1 experience preferred.
 - **Notetaking/short-hand skills.** One PC per party must be comfortable taking on the 5eFP session's notetaker role. New game elements or developments can arise randomly during gameplay. A public record is kept, including any plot developments or revelations discovered during gameplay that have something to do with the overall story of the Enchanted Forest. Notes do not need to be elaborate. For example, an Enchanted Forest map tile might have something like the following as a note:
 
-| Tier 1: North East Highway: Bandit Cave (Barrow) NE |
-| --------------------------------------------------- |
-| Cave system extending beneath the surface level |
+| Level 1 Area: North East: Bandit Cave (Barrow)  |
+| ----------------------------------------------- |
+| Cave system extends beneath the surface |
 | Dark antechamber, lit dungeon |
-| Goblins: elite goblin mage (civilized), elite goblin scoundrel (out of place weapon: crossbow) |
-| Eladrin caravan captives and goods: freed captives, returned goods (+1 eladrin enclave) |
+| Goblins: elite goblin mage, elite goblin scoundrel (unusual weapon: crossbow) |
+| Eladrin caravan captives and goods: freed captives, returned goods |
+| +1 Rep: Eladrin Enclave |
 | Treasure: healing potion |
 | Hidden, furnished study with floor switch behind locked mechanism/door |
-| Evidence of a goblin controller/boss: letters found at study desk--"spread chaos on highway" |
+| Evidence of a goblin boss: letters found at study desk--"spread chaos on the highway" |
 | False wall in the north operated by a switch in hidden study leads to additional rooms |
 
 ---
