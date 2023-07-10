@@ -5,13 +5,16 @@ An exact copy of this service agreement must be included within products or serv
 Use of the 5eFP SRD is limited to short-term, non-therapeutic counseling that may be inappropriate for individuals needing clinical therapy. Providers may use the 5eFP SRD to offer a platform for self-exploration and non-therapeutic counseling without needing licenses or credentials. However, recipients and providers must sign both a nondisclosure and confidentiality agreement (see Appendix NDCA) and a non-medical counseling agreement (see Appendix NMCA) stating that they understand that any 5eFP offerings, recommendations, and implementations are to remain confidential to the participants receiving the service. Additionally, sharing 5eFP SRD-related services requires the explicit understanding that such services are not necessarily considered clinical therapy or endorsed by a licensed and credentialed therapist. Non-medical counseling is supportive and addresses general living conditions, life skills, improving relationships at home and work, stress management, adjustment issues, marital problems, parenting, and grief and loss.
 
 ## 1.2 Content Ratings
-5eFP content is rated **ESRB-T (Teen)**. Gamemasters using the 5eFP SRD may, at their discretion, create **ESRB-MA (Mature 17+)** content, provided they clearly state that their entire offering is rated **ESRB-MA (Mature 17+)**.
+5eFP content is rated **ESRB-T (Teen)**. Gamemasters using the 5eFP SRD may, at their discretion, create **ESRB-MA (Mature 17+)** or **ESRB-AO (Adults Only 18+)** content, provided they clearly state that their entire offering is rated **ESRB-MA (Mature 17+)** or **ESRB-MA (Mature 17+)** respectively.
 
 #### 1.2.1 **ESRB-T (Teen)**
 5eFP content is generally suitable for ages 13 and up. May contain violence, suggestive themes, crude humor, minimal blood, simulated gambling and/or infrequent use of strong language. 
 
 #### 1.2.2 **ESRB-MA (Mature 17+)**
 5eFP content is generally suitable for ages 17 and up. May contain intense violence, blood and gore, sexual content and/or strong language.
+
+#### 1.2.2 **ESRB-AO (Adults Only 18+)**
+5eFP content suitable only for adults ages 18 and up. May include prolonged scenes of intense violence, blood and gore, sexual content and/or gambling with real currency.
 
 ## 1.3 No Convincing or Pursuing
 We refrain from convincing one another of anything. Our story seeks its own reward by adding collective experiences where time and attention can be shared between those who walk similar but different journeys through life. We get to know one another deeper without convincing or swaying opinions. Players leave the same as they arrive but with greater experience.
