@@ -35,11 +35,6 @@ Content suitable only for adults ages 18 and up. May include prolonged scenes of
 
 **c.** 5eFP games use Coin as currency. Coin is earned through gameplay and can not be purchased with real currency. Content may include gambling with Coin, but never with real currency.
 
-## 1.4 No Convincing or Pursuing
-We refrain from convincing one another of anything. Our story seeks its own reward by adding collective experiences where time and attention can be shared between those who walk similar but different journeys through life. We get to know one another deeper without convincing or swaying opinions. Players leave the same as they arrive but with greater experience.
-
-While player participation is preferred, players may exit this practice at anytime without being pursued or censured. Voluntary withdrawal does not render contracts between participant and provider null and void. Any agreed-upon conditions and/or requirements remain in effect for the entire duration of each binding agreement.
-
 ---
 
 # Introduction
