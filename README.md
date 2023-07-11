@@ -47,9 +47,3 @@ This work includes material taken from the System Reference Document 5.1 ("SRD 5
 the Coast LLC and available at [https://dnd.wizards.com/resources/systems-reference-document](https://dnd.wizards.com/resources/systems-reference-document). The
 SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International License available at
 [https://creativecommons.org/licenses/by/4.0/legalcode](https://creativecommons.org/licenses/by/4.0/legalcode).
-
----
-
-### The Difference Between 5e SRD 5.1 (CC BY 4.0) and 5eFP SRD (CC BY-ND 4.0)
-
-The 5e SRD 5.1 uses the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) license, while the 5eFP SRD uses the [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/legalcode) license. Derivatives or changes to the content in the 5e SRD 5.1 are permitted; however, they are not permitted within the 5eFP SRD. Content creators may use, publish, and distribute 5eFP within their original settings, characters, and content.
