@@ -2,10 +2,6 @@
 An exact copy of this service agreement must be included within products or services using any part of the 5eFP system reference document (SRD) [https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md](https://bit.ly/5eFPSRD)
 
 ## 1.1 Non-Medical Counseling
-Use of the 5eFP SRD is limited to short-term, non-therapeutic counseling that may be inappropriate for individuals needing clinical therapy. Gamemasters (GMs) may use the 5eFP SRD to offer a platform for non-therapeutic counseling without holding a license or credential to do so. Non-medical counseling is supportive and addresses general living conditions, life skills, improving relationships at home and work, stress management, adjustment issues, marital problems, parenting, and grief and loss.
-
-The 5eFP SRD is limited to short-term, non-therapeutic counseling that may be inappropriate for individuals needing clinical therapy. Gamemasters (GMs) can use it to provide non-medical counseling without a need for licenses and credentials for support with general living, stress, relationships, parenting, and grief.
-
 Use of the 5eFP SRD is limited to short-term, non-therapeutic counseling that may be inappropriate for individuals requiring clinical therapy. Gamemasters (GMs) may use the 5eFP SRD to offer a non-therapeutic counseling platform without needing licenses or credentials. Non-therapeutic counseling is supportive and addresses general living conditions, life skills, improving relationships at home and work, stress management, adjustment issues, marital problems, parenting, and grief and loss.
 
 ## 1.2 Content Ratings
