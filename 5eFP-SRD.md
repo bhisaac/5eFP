@@ -9,7 +9,7 @@ Non-medical counseling is short-term, situational, and problem-solving counselin
 ## 1.2 Non-Endorsement
 Use of the 5eFP service agreement does not directly or indirectly endorse any product or service that is or will be provided, whether directly or indirectly related to this agreement, from another party, its successors, permitted assigns, or licensees. A party will not in any way state or imply that the 5eFP service agreement is an endorsement of any such product or service by another party or any of its organizational units or employees.
 
-Distribution of the 5eFP service agreement does not create a relationship. The 5eFP SRD makes its licenses and related information available "as-is". No warranties are provided regarding its licenses, any material licensed under their terms and conditions, or any related information.
+Distribution of the 5eFP service agreement does not create a relationship. The 5eFP SRD makes its related information available "as-is." No warranties are provided regarding any terms and conditions or any related information.
 
 ## 1.3 Content Ratings
 5eFP content is rated **ESRB-T (Teen)** by default. Gamemasters (GMs) using the 5eFP SRD may, at their discretion, create **ESRB-MA (Mature 17+)** or **ESRB-AO (Adults Only 18+)** content, provided they clearly state that their entire offering is rated **ESRB-MA (Mature 17+)** or **ESRB-AO (Adults Only 18+)** respectively.
