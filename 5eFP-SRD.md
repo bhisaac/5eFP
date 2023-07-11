@@ -6,7 +6,9 @@ Use of the 5eFP SRD is limited to short-term, non-medical counseling that may be
 
 Non-medical counseling is short-term, situational, and problem-solving counseling. It is an avenue to deal with personal life issues in the context of a confidential relationship with a Gamemaster (GM) professional, maximizing the client’s coping skills to resolve personal issues. Non-medical counseling is supportive and may address general living conditions, life skills, improving relationships at home and work, stress management, adjustment issues, marital problems, parenting, and grief and loss.
 
-|||
+#### 1.1.1 Personal Life Issues Examples
+|  |  |
+|:-|:-|
 |Well-Being|Parent/Child Communications|
 |Loss & Grief|Conflict Resolution|
 |Marital/Couples Issues|Divorce|
