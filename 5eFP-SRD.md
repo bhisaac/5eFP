@@ -4,28 +4,12 @@ An exact copy of this service agreement must be included within products or serv
 ## 1.1 Non-Medical Counseling
 Use of the 5eFP SRD is limited to short-term, non-medical counseling that may be inappropriate for individuals requiring clinical therapy or for individuals requiring conventional medical or therapeutic treatments by a licensed and credentialed mental health clinician or provider.
 
-Non-medical counseling is short-term, situational, and problem-solving counseling. It is an avenue to deal with personal life issues in the context of a confidential relationship with a Gamemaster (GM) professional, maximizing the client’s coping skills to resolve personal issues. Non-medical counseling is supportive and may address general living conditions, life skills, improving relationships at home and work, stress management, adjustment issues, marital problems, parenting, and grief and loss.
-
-#### 1.1.1 Personal Life Issues Examples
-|  |  |
-|:-|:-|
-|Well-Being|Parent/Child Communications|
-|Loss & Grief|Conflict Resolution|
-|Marital/Couples Issues|Divorce|
-|Family Relationships & Concerns|Decision Making|
-|Homesickness|Decision Making|
-|Making Friends|Anxiety|
-|Serious Illness in Family|Stress|
-|Parenting|Anger|
-|Self-Esteem/Independence|Addictive Relationships|
-|Conflicts With Friends/Roommates|Loneliness|
-
-Gamemasters (GMs) may use the 5eFP SRD to offer a non-therapeutic counseling platform without needing licenses or credentials. Non-therapeutic counseling is supportive and addresses general living conditions, life skills, improving relationships at home and work, stress management, adjustment issues, marital problems, parenting, and grief and loss.
+Non-medical counseling is short-term, situational, and problem-solving counseling. It is a technique to deal with personal life issues in the context of a confidential relationship with a Gamemaster (GM) professional, supporting the client’s awareness of themselves to aid the resolution of personal issues. Non-medical counseling is supportive and may address any number of potential issues as identified by the client, such as general living conditions, life skills, improving relationships at home and work, stress management, adjustment issues, marital problems, parenting, and grief and loss.
 
 #### 1.1.1 Non-Endorsement
-Use of the 5eFP service agreement does not directly or indirectly endorse any product or service that is or will be provided, whether directly or indirectly related to this Agreement, from another Party, its successors, permitted assigns, or licensees. A Party will not in any way state or imply that this Agreement is an endorsement of any such product or service by another Party or any of its organizational units or employees.
+Use of the 5eFP service agreement does not directly or indirectly endorse any product or service that is or will be provided, whether directly or indirectly related to this agreement, from another party, its successors, permitted assigns, or licensees. A party will not in any way state or imply that the 5eFP service agreement is an endorsement of any such product or service by another party or any of its organizational units or employees.
 
-Creative Commons Corporation (“Creative Commons”) is not a law firm and does not provide legal services or legal advice. Distribution of Creative Commons public licenses does not create a lawyer-client or other relationship. Creative Commons makes its licenses and related information available on an “as-is” basis. Creative Commons gives no warranties regarding its licenses, any material licensed under their terms and conditions, or any related information. Creative Commons disclaims all liability for damages resulting from their use to the fullest extent possible.
+Distribution of the 5eFP service agreement does not create a relationship. The 5eFP SRD makes its licenses and related information available "as-is". No warranties are provided regarding its licenses, any material licensed under their terms and conditions, or any related information.
 
 ## 1.2 Content Ratings
 5eFP content is rated **ESRB-T (Teen)** by default. Gamemasters (GMs) using the 5eFP SRD may, at their discretion, create **ESRB-MA (Mature 17+)** or **ESRB-AO (Adults Only 18+)** content, provided they clearly state that their entire offering is rated **ESRB-MA (Mature 17+)** or **ESRB-AO (Adults Only 18+)** respectively.
