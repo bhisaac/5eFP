@@ -15,6 +15,9 @@ Use of the 5eFP SRD is limited to short-term, non-therapeutic counseling that ma
 
 #### 1.2.2 **ESRB-AO (Adults Only 18+)**
 5eFP content suitable only for adults ages 18 and up. May include prolonged scenes of intense violence, blood and gore, sexual content and/or gambling with real currency.
+- 5eFP games use Coin as currency.
+- Coins are earned through gameplay and can not be purchased with real currency.
+- Content may include gambling with Coin, but never with real currency.
 
 ## 1.3 No Convincing or Pursuing
 We refrain from convincing one another of anything. Our story seeks its own reward by adding collective experiences where time and attention can be shared between those who walk similar but different journeys through life. We get to know one another deeper without convincing or swaying opinions. Players leave the same as they arrive but with greater experience.
