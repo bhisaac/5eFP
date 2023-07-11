@@ -2,7 +2,23 @@
 An exact copy of this service agreement must be included within products or services using any part of the 5eFP system reference document (SRD) [https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md](https://bit.ly/5eFPSRD)
 
 ## 1.1 Non-Medical Counseling
-Use of the 5eFP SRD is limited to short-term, non-therapeutic counseling that may be inappropriate for individuals requiring clinical therapy. Gamemasters (GMs) may use the 5eFP SRD to offer a non-therapeutic counseling platform without needing licenses or credentials. Non-therapeutic counseling is supportive and addresses general living conditions, life skills, improving relationships at home and work, stress management, adjustment issues, marital problems, parenting, and grief and loss.
+Use of the 5eFP SRD is limited to short-term, non-medical counseling that may be inappropriate for individuals requiring clinical therapy or for individuals requiring conventional medical or therapeutic treatments by a licensed and credentialed mental health clinician or provider.
+
+Non-medical counseling is short-term, situational, and problem-solving counseling. It is an avenue to deal with personal life issues in the context of a confidential relationship with a Gamemaster (GM) professional, maximizing the client’s coping skills to resolve personal issues. Non-medical counseling is supportive and may address general living conditions, life skills, improving relationships at home and work, stress management, adjustment issues, marital problems, parenting, and grief and loss.
+
+|||
+|Well-Being|Parent/Child Communications|
+|Loss & Grief|Conflict Resolution|
+|Marital/Couples Issues|Divorce|
+|Family Relationships & Concerns|Decision Making|
+|Homesickness|Decision Making|
+|Making Friends|Anxiety|
+|Serious Illness in Family|Stress|
+|Parenting|Anger|
+|Self-Esteem/Independence|Addictive Relationships|
+|Conflicts With Friends/Roommates|Loneliness|
+
+Gamemasters (GMs) may use the 5eFP SRD to offer a non-therapeutic counseling platform without needing licenses or credentials. Non-therapeutic counseling is supportive and addresses general living conditions, life skills, improving relationships at home and work, stress management, adjustment issues, marital problems, parenting, and grief and loss.
 
 #### 1.1.1 Non-Endorsement
 Use of the 5eFP service agreement does not directly or indirectly endorse any product or service that is or will be provided, whether directly or indirectly related to this Agreement, from another Party, its successors, permitted assigns, or licensees. A Party will not in any way state or imply that this Agreement is an endorsement of any such product or service by another Party or any of its organizational units or employees.
