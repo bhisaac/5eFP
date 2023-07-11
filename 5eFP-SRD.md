@@ -7,7 +7,7 @@ Use of the 5eFP SRD is limited to short-term, non-therapeutic counseling that ma
 ## 1.2 Content Ratings
 5eFP content is rated **ESRB-T (Teen)** by default. Gamemasters (GMs) using the 5eFP SRD may, at their discretion, create **ESRB-MA (Mature 17+)** or **ESRB-AO (Adults Only 18+)** content, provided they clearly state that their entire offering is rated **ESRB-MA (Mature 17+)** or **ESRB-AO (Adults Only 18+)** respectively.
 
-**a.** **Private Use.** The content ratings presented below are required whenever 5eFP is shared with the general public. These guidelines are not requirements for GMs who run unpublished homebrew campaigns or for GMs hosting private 5eFP games.
+**a.** **Private Use.** The content ratings presented below are required whenever 5eFP is shared with the general public. While highly recommended, these guidelines are not requirements for GMs who run unpublished homebrew campaigns or for GMs hosting private 5eFP games.
 
 #### 1.2.1 **ESRB-T (Teen)**
 Content generally suitable for ages 13 and up. May contain violence, suggestive themes, crude humor, minimal blood, simulated gambling and/or infrequent use of strong language. 
