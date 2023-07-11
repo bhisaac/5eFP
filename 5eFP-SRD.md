@@ -13,14 +13,18 @@ Content generally suitable for ages 13 and up. May contain violence, suggestive 
 #### 1.2.2 **ESRB-MA (Mature 17+)**
 Content generally suitable for ages 17 and up. May contain intense violence, blood and gore, sexual content and/or strong language.
 
-#### 1.2.2 **ESRB-AO (Adults Only 18+)**
+**a.** 5eFP content contains minimal blood and gore.
+
+**b.** 5eFP content omits intense sexual content.
+
+#### 1.2.3 **ESRB-AO (Adults Only 18+)**
 Content suitable only for adults ages 18 and up. May include prolonged scenes of intense violence, blood and gore, sexual content and/or gambling with real currency.
 
-**a.** 5eFP games use Coin as currency.
+**a.** 5eFP content contains minimal blood and gore.
 
-**b.** Coins are earned through gameplay and can not be purchased with real currency.
+**b.** 5eFP content omits prolonged scenes of intense sexual content.
 
-**c.** Content may include gambling with Coin, but never with real currency.
+**c.** 5eFP games use Coin as currency. Coin is earned through gameplay and can not be purchased with real currency. Content may include gambling with Coin, but never with real currency.
 
 ## 1.3 No Convincing or Pursuing
 We refrain from convincing one another of anything. Our story seeks its own reward by adding collective experiences where time and attention can be shared between those who walk similar but different journeys through life. We get to know one another deeper without convincing or swaying opinions. Players leave the same as they arrive but with greater experience.
