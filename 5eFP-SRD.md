@@ -2,7 +2,7 @@
 An exact copy of this service agreement must be included within products or services using any part of the 5eFP system reference document (SRD) [https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md](https://bit.ly/5eFPSRD)
 
 ## 1.2 Content Ratings
-Published 5eFP content shared with the general public is rated **ESRB-T (Teen)** by default. Gamemasters (GMs) may, at their discretion, create **ESRB-MA (Mature 17+)** or **ESRB-AO (Adults Only 18+)** content for their games, provided they clearly state that their entire offering is rated **ESRB-MA (Mature 17+)** or **ESRB-AO (Adults Only 18+)** respectively.
+Published 5eFP content shared with the general public is rated **ESRB-T (Teen)**. Gamemasters (GMs) may, at their discretion, create **ESRB-MA (Mature 17+)** or **ESRB-AO (Adults Only 18+)** content for their games, provided they clearly state that their entire offering is rated **ESRB-MA (Mature 17+)** or **ESRB-AO (Adults Only 18+)** respectively.
 
 **a.** Content ratings do not apply for GMs running unpublished 5eFP campaigns or those hosting private 5eFP games.
 
