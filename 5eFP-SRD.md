@@ -1,21 +1,16 @@
 # 1. 5eFP Service Agreement
 An exact copy of this service agreement must be included within products or services using any part of the 5eFP system reference document (SRD) [https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md](https://bit.ly/5eFPSRD)
 
-## 1.1 Non-Medical Counseling
-Use of the 5eFP SRD is limited to short-term, non-medical counseling that may be inappropriate for individuals requiring clinical therapy or for individuals requiring conventional medical or therapeutic treatments by a licensed and credentialed mental health clinician or provider.
-
-Non-medical counseling is short-term, situational, and problem-solving counseling. It is a technique to deal with personal life issues in the context of a confidential relationship with a Gamemaster (GM) professional, supporting the client’s awareness of themselves to aid the resolution of personal issues. Non-medical counseling is supportive and may address any number of potential issues as identified by the client, such as general living conditions, life skills, improving relationships at home and work, stress management, adjustment issues, marital problems, parenting, and grief and loss.
-
 ## 1.2 Content Ratings
-5eFP content is rated **ESRB-T (Teen)** by default. Gamemasters (GMs) using the 5eFP SRD may, at their discretion, create **ESRB-MA (Mature 17+)** or **ESRB-AO (Adults Only 18+)** content, provided they clearly state that their entire offering is rated **ESRB-MA (Mature 17+)** or **ESRB-AO (Adults Only 18+)** respectively.
+Published 5eFP content shared with the general public is rated **ESRB-T (Teen)** by default. Gamemasters (GMs) may, at their discretion, create **ESRB-MA (Mature 17+)** or **ESRB-AO (Adults Only 18+)** content for their games, provided they clearly state that their entire offering is rated **ESRB-MA (Mature 17+)** or **ESRB-AO (Adults Only 18+)** respectively.
 
-**a.** **Private Use Exceptions.** The content ratings presented are required whenever 5eFP is shared with the general public. While highly recommended, these guidelines are not requirements for GMs who run unpublished homebrew campaigns or for GMs hosting private 5eFP games.
+**a.** Content ratings do not apply for GMs running unpublished 5eFP campaigns or those hosting private 5eFP games.
 
 #### 1.2.1 **ESRB-T (Teen)**
-Content generally suitable for ages 13 and up. May contain violence, suggestive themes, crude humor, minimal blood, simulated gambling and/or infrequent use of strong language. 
+Content suitable for ages 13 and up. May contain violence, suggestive themes, crude humor, minimal blood, simulated gambling and/or infrequent use of strong language. 
 
 #### 1.2.2 **ESRB-MA (Mature 17+)**
-Content generally suitable for ages 17 and up. May contain intense violence, blood and gore, sexual content and/or strong language.
+Content suitable for ages 17 and up. May contain intense violence, blood and gore, sexual content and/or strong language.
 
 **a.** 5eFP content contains minimal blood and gore.
 
