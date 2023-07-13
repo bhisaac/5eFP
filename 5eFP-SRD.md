@@ -152,8 +152,8 @@ It’s hard to make generalizations about humans, but your human character has t
 **Ability Score Increase.** One ability score of your choice increases by +1.
 
 **Adaptable.** Choose and gain one species trait:
-- **Able.** Choose an ability score unmodified by your ability score increase trait. The chosen ability score increases by +1. You also gain proficiency in one skill of your choice.
-- **Feat.** You gain one feat.
+- Choose an ability score unmodified by your ability score increase trait. The chosen ability score increases by +1. You also gain proficiency in one skill of your choice.
+- You gain one feat.
 
 **Age.** Humans reach adulthood in their late teens and live less than a century.
 
