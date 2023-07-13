@@ -112,7 +112,7 @@ As a wealden elf, you have keen senses and intuition, and your attunement to nat
 
 **Expeditious.** Your base speed increases by +1 square while traveling through natural terrain.
 
-**Fade.** You can attempt performance checks to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomenon.
+**Fade.** You can attempt performance checks to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomenon but you must not move or take additional actions to do so.
 
 ## Halfling
 ### Halfling Traits
