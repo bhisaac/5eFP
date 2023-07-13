@@ -61,14 +61,14 @@ As a hill dwarf, you have keen senses, deep intuition, and remarkable resilience
 
 **Ability Score Increase.** If you assign a +1 or +2 to your Wisdom score during character creation, increase your Wisdom score by an additional +1.
 
-**Dwarven Toughness**. You max wounds increases by +1.
+**Dwarven Toughness**. Your MAX wounds increase by +1.
 
 ### Highlander Dwarf
-As a highlander dwarf, you are accustomed to rugged living at high altitudes and within mountain-dwellings.
+As a highlander dwarf, you are accustomed to rugged living at high altitudes and within mountain dwellings.
 
 **Ability Score Increase.** If you assign a +1 or +2 to your Strength score during character creation, increase your Strength score by an additional +1.
 
-**Bonus Feat.** You gain the *Moderately Armored* feat, ignoring any prerequisites.
+**Bonus Feat.** You gain the *Armor Training (Heavy)* feat, ignoring any prerequisites.
 
 ## Elf
 ### Elf Traits
@@ -93,26 +93,26 @@ Your elf character has a variety of natural abilities, result of thousands of ye
 **Trance.** Elves don’t need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is “trance.”) While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
 
 ### High Elf
-As a high elf, you have a keen mind and a mastery of at least the basics of magic. In many fantasy gaming worlds, there are two kinds of high elves. One type is haughty and reclusive, believing themselves to be superior to non-elves and even other elves. The other type is more common and more friendly, and often encountered among humans and other species.
+As a high elf, you have strong ties to nature and magic. In many fantasy gaming worlds, there are two kinds of high elves. One type is haughty and reclusive, believing themselves to be superior to non-elves and even other elves. The other type is more common and more friendly, and often encountered among humans and other species.
 
 **Ability Score Increase.** If you assign a +1 or +2 to your Intelligence score during character creation, increase your Intelligence score by an additional +1.
 
 **Elf Weapon Training.** You have proficiency with the longsword, shortsword, shortbow, and longbow.
 
-**Cantrip.** You know one cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it.
+**Magical Attunement.** Choose and gain one species trait:
+- **Arcane.** You know one cantrip of your choice from the wizard spell list. Intellignece is your spellcasting ability for it. You can also speak, read, and write one extra language of your choice.
+- **Feywild.** You can cast the *misty step* spell once using this trait. You regain the ability to do so when you finish a short or long rest.
 
-**Extra Language.** You can speak, read, and write one extra language of your choice.
+### Wealden Elf
+As a wealden elf, you have keen senses and intuition, and your fleet feet carry you quickly and stealthily through your native forests. Wealden elves tend to be reclusive and distrusting of non-elves.
 
-### Eladrin
-Creatures with strong ties to nature and magic, eladrin live in the twilight lands of the Feywild. Their cities sometimes cross over to the Material Plane, appearing briefly in mountain valleys or deep within a forest before fading back into the Feywild.
-
-An eladrin's hair is often white, silver, or pale gold, and they wear it long and loose. Their eyes are pearly and opalescent orbs of vibrant blue, violet, or green, lacking pupils.
-
-**Ability Score Increase.** If you assign a +1 or +2 to your Intelligence score during character creation, increase your Intelligence score by an additional +1.
+**Ability Score Increase.** If you assign a +1 or +2 to your Wisdom score during character creation, increase your Wisdom score by an additional +1.
 
 **Elf Weapon Training.** You have proficiency with the longsword, shortsword, shortbow, and longbow.
 
-**Fey Step.** You can cast the *misty step* spell once using this trait. You regain the ability to do so when you finish a short or long rest.
+**Expeditious.** Your base speed increases by +1 square while traveling through natural terrain.
+
+**Fade.** You can attempt performance checks to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomenon.
 
 ## Halfling
 ### Halfling Traits
