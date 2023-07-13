@@ -104,7 +104,7 @@ As a high elf, you have strong ties to nature and magic. In many fantasy gaming 
 - **Feywild.** You can cast the *misty step* spell once using this trait. You regain the ability to do so when you finish a short or long rest.
 
 ### Wealden Elf
-As a wealden elf, you have keen senses and intuition, and your fleet feet carry you quickly and stealthily through your native forests. Wealden elves tend to be reclusive and distrusting of non-elves.
+As a wealden elf, you have keen senses and intuition, and your attunement to nature carries you quickly and stealthily through your native forests. Wealden elves tend to be reclusive and distrusting of non-elves.
 
 **Ability Score Increase.** If you assign a +1 or +2 to your Wisdom score during character creation, increase your Wisdom score by an additional +1.
 
