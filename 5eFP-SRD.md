@@ -964,7 +964,7 @@ _Prerequisite: Proficiency with light armor_
 You gain proficiency with medium armor and shields. Increase your maximum DEX bonus allowed while wearing medium armor by +1. Medium armor no longer imposes disadvantage on performance checks.
 
 ## Armor Training (Light)
-You gain proficiency with light armor. Increase your speed by +1 square while wearing light armor.
+You gain proficiency with light armor.
 
 ## Grappler
 _Prerequisite: STR +1 or higher_
