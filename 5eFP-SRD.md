@@ -151,7 +151,7 @@ It’s hard to make generalizations about humans, but your human character has t
 
 **Ability Score Increase.** One ability score of your choice increases by +1.
 
-**Adaptable.** Choose and gain a species trait:
+**Adaptable.** Choose and gain one species trait:
 - **Able.** Choose an ability score unmodified by your ability score increase trait. The chosen ability score increases by +1. You also gain proficiency in one skill of your choice.
 - **Feat.** You gain one feat.
 
