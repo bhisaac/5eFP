@@ -104,7 +104,7 @@ As a high elf, you have strong ties to nature and magic. In many fantasy gaming 
 - **Feywild.** You can cast the *misty step* spell once using this trait. You regain the ability to do so when you finish a short or long rest.
 
 ### Wealden Elf
-As a wealden elf, you have keen senses and intuition, and your attunement to nature carries you quickly and stealthily through your native forests. Wealden elves tend to be reclusive and distrusting of non-elves.
+As a wealden elf, you have deep awareness and intuition, and your attunement to nature carries you quickly and stealthily through natural terrain. Wealden elves tend to be reclusive and distrusting of non-elves.
 
 **Ability Score Increase.** If you assign a +1 or +2 to your Wisdom score during character creation, increase your Wisdom score by an additional +1.
 
@@ -112,7 +112,7 @@ As a wealden elf, you have keen senses and intuition, and your attunement to nat
 
 **Expeditious.** Your base speed increases by +1 square while traveling through natural terrain.
 
-**Nature's Veil.** You can attempt Performance checks to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomenon. You remain hidden as long as you do not move or take any other actions.
+**Nature's Veil.** You can attempt Performance checks to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomenon. You remain hidden as long as you only take movement actions.
 
 ## Halfling
 ### Halfling Traits
