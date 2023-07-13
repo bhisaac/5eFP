@@ -953,21 +953,18 @@ At certain levels, your class gives you the Ability Score Improvement feature. U
 
 You must meet any prerequisite specified in a feat to take that feat. If you ever lose a feat’s prerequisite, you can’t use that feat until you regain the prerequisite. For example, the Grappler feat requires you to have a Strength of 13 or higher. If your Strength is reduced below 13 somehow—perhaps by a withering curse—you can’t benefit from the Grappler feat until your Strength is restored.
 
-## Armor Training: Heavy (Plate)
-_Prerequisite: Medium Armor Training_
+## Armor Training (Heavy)
+_Prerequisite: Armor Training (Medium)_
 
-You gain proficiency in heavy armor and shields. If you already had proficiency in heavy armor, you instead gain the following benefit:
-- A the beginning of each of your turns, if you are wearing heavy armor, you gain **bolster 1**.
+You gain proficiency with heavy armor and shields. At the beginning of each of your turns, if you are wearing heavy armor, you gain **bolster 1**.
 
-## Armor Training: Medium (Chain)
-_Prerequisite: Medium Armor Training_
+## Armor Training (Medium)
+_Prerequisite: Armor Training (Light)_
 
-You gain proficiency in medium armor and shields. If you already had proficiency in medium armor, you instead gain the following benefit:
-- Medium armor no longer imposes disadvantage on performance checks.
+You gain proficiency with medium armor and shields. Increase your maximum DEX bonus allowed while wearing medium armor by +1. Medium armor no longer imposes disadvantage on performance checks.
 
-## Armor Training: Light (Leather)
-You gain proficiency in light armor. If you already had proficiency in light armor, you instead gain the following benefit:
-- TBD
+## Armor Training (Light)
+You gain proficiency with light armor. Increase your speed by +1 square while wearing light armor.
 
 ## Grappler
 _Prerequisite: STR +1 or higher_
