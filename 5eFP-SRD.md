@@ -954,12 +954,12 @@ At certain levels, your class gives you the Ability Score Improvement feature. U
 You must meet any prerequisite specified in a feat to take that feat. If you ever lose a feat’s prerequisite, you can’t use that feat until you regain the prerequisite. For example, the Grappler feat requires you to have a Strength of 13 or higher. If your Strength is reduced below 13 somehow—perhaps by a withering curse—you can’t benefit from the Grappler feat until your Strength is restored.
 
 ## Armor Training (Heavy)
-_Prerequisite: Medium armor proficiency_
+_Prerequisite: Proficiency with medium armor_
 
 You gain proficiency with heavy armor and shields. At the beginning of each of your turns, if you are wearing heavy armor, you gain **bolster 1**.
 
 ## Armor Training (Medium)
-_Prerequisite: light armor proficiency_
+_Prerequisite: Proficiency with light armor_
 
 You gain proficiency with medium armor and shields. Increase your maximum DEX bonus allowed while wearing medium armor by +1. Medium armor no longer imposes disadvantage on performance checks.
 
