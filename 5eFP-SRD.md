@@ -61,7 +61,7 @@ As a hill dwarf, you have keen senses, deep intuition, and remarkable resilience
 
 **Ability Score Increase.** If you assign a +1 or +2 to your Wisdom score during character creation, increase your Wisdom score by an additional +1.
 
-**Dwarven Toughness**. Your MAX wounds increase by +1.
+**Dwarven Toughness**. Your MAX wounds increases by +1.
 
 ### Highlander Dwarf
 As a highlander dwarf, you are accustomed to rugged living at high altitudes and within mountain dwellings.
@@ -144,6 +144,15 @@ Lightfoots are more prone to wanderlust than other halflings, and often dwell al
 **Ability Score Increase.** If you assign a +1 or +2 to your Charisma score during character creation, increase your Charisma score by an additional +1.
 
 **Naturally Stealthy.** You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you.
+
+### Hardy
+Hardy halflings are tougher than average, sharing similar characteristics with dwarves. Their tribes can be found in remote areas or near dwarven clans, though some do make their way to civilized lands.
+
+**Ability Score Increase.** If you assign a +1 or +2 to your Constitution score during character creation, increase your Constitution score by an additional +1.
+
+**Resilience.** Choose and gain one species trait:
+- Your MAX wounds increases by +1.
+- You have advantage on saving throws against poison, and you have resistance against poison damage.
 
 ## Human
 ### Human Traits
