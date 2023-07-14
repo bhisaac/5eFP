@@ -112,7 +112,7 @@ As a wealden elf, you have deep awareness and intuition, and your attunement to 
 
 **Expeditious.** Your base speed increases by +1 square while traveling through natural terrain.
 
-**Nature's Veil.** You can attempt Performance checks to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomenon. You remain hidden as long as you only take movement actions.
+**Naturemeld.** You have advantage on Performance checks to hide and move silently while in natural terrain.
 
 ## Halfling
 ### Halfling Traits
