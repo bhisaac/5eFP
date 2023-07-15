@@ -761,13 +761,13 @@ Whenever you successfully upgrade a Magic feature (i.e., "Magic I", "Magic II", 
 
 # Equipment
 ## Armor
-Fantasy gaming worlds are a vast tapestry made up of many different cultures, each with its own technology level. For this reason, adventurers have access to a variety of armor types, ranging from leather armor to chain mail to costly plate armor, with several other kinds of armor in between. The Armor table collects the most commonly available types of armor found in the game and separates them into three categories: light armor, medium armor, and heavy armor. Many warriors supplement their armor with a shield.
+Fantasy gaming worlds are a vast tapestry made up of many different cultures, each with its own technology level. For this reason, adventurers have access to a variety of armor types, ranging from leather armor to chain mail to costly plate armor, with several other kinds of armor in between. The Armor table collects the most commonly available types of armor found in the game and separates them into ~three~ four categories: ~light armor~ cloth, leather, ~medium armor~ chain, and ~heavy armor~ plate. Many warriors supplement their armor with a shield.
 
 The Armor table shows the cost, weight, and other properties of the common types of armor worn in fantasy gaming worlds.
 
-Armor Proficiency. Anyone can put on a suit of armor or strap a shield to an arm. Only those proficient in the armor’s use know how to wear it effectively, however. Your class gives you proficiency with certain types of armor. If you wear armor that you lack proficiency with, you have disadvantage on any ability check, saving throw, or attack roll that involves Strength or Dexterity, and you can’t cast spells.
+*Armor Proficiency.* Anyone can put on a suit of armor or strap a shield to an arm. Only those proficient in the armor’s use know how to wear it effectively, however. Your class gives you proficiency with certain types of armor. If you wear armor that you lack proficiency with, you have disadvantage on any ability check, saving throw, or attack roll that involves Strength or Dexterity, and you can’t cast spells.
 
-Armor Class (AC). Armor protects its wearer from attacks. The armor (and shield) you wear determines your base Armor Class.
+*Armor Class (AC).* Armor protects its wearer from attacks. The armor (and shield) you wear determines your base Armor Class.
 
 ---
 
