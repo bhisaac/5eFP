@@ -904,7 +904,7 @@ PCs may spend coins during downtime (see Between Adventures) or during preparati
 A game feature may temporarily grant PCs the ability to spend one or more coins. The feature explains when this happens and provides guidelines for how many coins a PC can choose to spend.
 
 ## Selling Treasure
-Opportunities abound to find treasure, equipment, weapons, armor, and more in the dungeons you explore. Normally, you can sell your treasures and trinkets when you return to HQ~, provided that you can find buyers and merchants interested in your loot~.
+Opportunities abound to find treasure, equipment, weapons, armor, and more in the dungeons you explore. Normally, you can sell your treasures and trinkets when you return to HQ ~, provided that you can find buyers and merchants interested in your loot~.
 
 **Arms, Armor, and Other Equipment.** As a general rule, undamaged weapons, armor, and other equipment fetch half their cost when sold in a market. This means you must sell two pieces of equipment in order to receive +1⛁.  Weapons and armor used by monsters are rarely in good enough condition to sell.
 
