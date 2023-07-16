@@ -891,7 +891,7 @@ Acolytes are shaped by their experience in temples or other religious communitie
 A 5eFP game uses coins (**⛁**), a single denomination representing wealth, resources, experience, and reputation. The name of a coin may change in some 5eFP games. For example, coins might be called "gold pieces" in a medieval fantasy setting, while coins might refer to "credits" in a futuristic sci-fi setting. A game's setting handbook details what coins are called in a game. All coins use the following rules.
 
 ## Earning Coins
-GMs award 1**⛁** whenever PCs complete an encounter. Award +1**⛁** coin when the following conditions are met:
+GMs award 1**⛁** whenever PCs complete an encounter. Award +1⛁ coin when the following conditions are met:
 
 - The PCs find one or more treasures.
 - The PCs increase one or more reputations.
@@ -899,10 +899,25 @@ GMs award 1**⛁** whenever PCs complete an encounter. Award +1**⛁** coin when
 The number of coins GMs award when encounters are completed increases to 2**⛁** starting at 3rd level and 3**⛁** beginning at 6th level.
 
 ### Spending Coins
-PCs may spend coins during downtime (see Downtime) or during preparation (see Preparation) before deploying to a world map tile. PCs may spend any number of coins. Occasionally a game feature may temporarily grant the ability to spend one or more coins. The feature explains when this happens and provides guidelines for how many coins a PC can choose to spend. Once a coin is spent, it is lost.
+PCs may spend coins during downtime (see Between Adventures) or during preparation (see Preparation) before deploying to a world map tile. PCs may spend any number of coins. Once a coin is spent, it is lost.
+
+A game feature may temporarily grant PCs the ability to spend one or more coins. The feature explains when this happens and provides guidelines for how many coins a PC can choose to spend.
+
+## Selling Treasure
+Opportunities abound to find treasure, equipment, weapons, armor, and more in the dungeons you explore. Normally, you can sell your treasures and trinkets when you return to HQ~, provided that you can find buyers and merchants interested in your loot~.
+
+**Arms, Armor, and Other Equipment.** As a general rule, undamaged weapons, armor, and other equipment fetch half their cost when sold in a market. This means you must sell two pieces of equipment in order to receive +1⛁.  Weapons and armor used by monsters are rarely in good enough condition to sell.
+
+**Magic Items.** Selling magic items is problematic. Finding someone to buy a potion or a scroll isn’t too hard, but other items are out of the realm of most but the wealthiest nobles. Likewise, aside from a few common magic items, you won’t normally come across magic items or spells to purchase. The value of magic is far beyond what simple coins represent and should always be treated as such. 
+
+PCs may choose to create a magic item marketplace by unlocking this building through downtime research.
+
+**Gems, Jewelry, and Art Objects.** These items are included in the description of coins. Coins do not differentiate between coins, gems, jewelry, and art for ease of use and simplicity.
+
+**Trade Goods.** On the borderlands, many people conduct transactions through barter. Like gems and art objects, trade goods—bars of iron, bags of salt, livestock, and so on—retain their full value in the market and can be used as currency.
 
 ## Armor
-Fantasy gaming worlds are a vast tapestry made up of many different cultures, each with its own technology level. For this reason, adventurers have access to a variety of armor types, ranging from leather armor to chain mail to costly plate armor, with several other kinds of armor in between. The Armor table collects the most commonly available types of armor found in the game and separates them into ~three~ four categories: ~light armor~ cloth, leather, ~medium armor~ chain, and ~heavy armor~ plate. Many warriors supplement their armor with a shield.
+Fantasy gaming worlds are a vast tapestry made up of many different cultures, each with its own technology level. For this reason, adventurers have access to a variety of armor types, ranging from leather armor to chain mail to costly plate armor, with several other kinds of armor in between. The Armor table collects the most commonly available types of armor found in the game and separates them into four categories: cloth, leather, chain, and plate. Many warriors supplement their armor with a shield.
 
 The Armor table shows the cost, weight, and other properties of the common types of armor worn in fantasy gaming worlds.
 
@@ -913,13 +928,13 @@ The Armor table shows the cost, weight, and other properties of the common types
 ---
 
 (floating section)
-# Downtime
-At the start of a player's downtime round, that player may (board game: choose and place a worker from thier character sheet on the appropriate regions on the HQ map) choose and gain the benefits of one downtime activity (see below). All PCs have this basic option no matter how many Coin they have.
+# Between Adventures
+At the start of a player's downtime round, that player may (board game: choose and place a worker from their character sheet on the appropriate regions on the HQ map) choose and gain the benefits of one downtime activity (see below). All PCs have this basic option no matter how many coins they have.
 
 ## Spending Coin
 After the conclusion of a 5eFP session, players take 1 or more rounds of downtime. At the start of the downtime phase, PCs each roll a d20, adding the number of coins they currently have as a modifier. This number represents their downtime initiative. Each rolls a d20 and adds the number of Coins they currently have. This is called the downtime initiative, or just initiative.
 
-### Downtime Activities
+## Downtime Activities
 Whenever a PC chooses a specific downtime activity, it cannot be chosen again until the beginning of the next round of downtime. During a round of downtime, a PC can perform the following actions:
 
 - **1 Action.** Choose and gain the benefit of 1 downtime activity.
