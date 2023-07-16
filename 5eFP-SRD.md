@@ -759,18 +759,6 @@ Whenever you successfully upgrade a Magic feature (i.e., "Magic I", "Magic II", 
 
 ---
 
-# Equipment
-## Armor
-Fantasy gaming worlds are a vast tapestry made up of many different cultures, each with its own technology level. For this reason, adventurers have access to a variety of armor types, ranging from leather armor to chain mail to costly plate armor, with several other kinds of armor in between. The Armor table collects the most commonly available types of armor found in the game and separates them into ~three~ four categories: ~light armor~ cloth, leather, ~medium armor~ chain, and ~heavy armor~ plate. Many warriors supplement their armor with a shield.
-
-The Armor table shows the cost, weight, and other properties of the common types of armor worn in fantasy gaming worlds.
-
-**Armor Proficiency.** Anyone can put on a suit of armor or strap a shield to an arm. Only those proficient in the armor’s use know how to wear it effectively, however. Your class gives you proficiency with certain types of armor. If you wear armor that you lack proficiency with, you have disadvantage on any ability check, saving throw, or attack roll that involves Strength or Dexterity, and you can’t cast spells.
-
-**Armor Class (AC).** Armor protects its wearer from attacks. The armor (and shield) you wear determines your base Armor Class.
-
----
-
 (Floating Section)
 
 # The 5eFP Framework
@@ -899,13 +887,37 @@ Acolytes are shaped by their experience in temples or other religious communitie
 ---
 
 # Equipment
-## Coin
-5eFP campaign settings use Coin to represent wealth, experience, and reputation. The name of a Coin may change in some 5eFP campaign settings. For example, Coins may be referred to as "gold pieces" in a mideval fantasy setting whereas Coin may refer to "credits" in a futuristic sci-fi setting. Regardless of how they are described, all Coins use the same rules.
+## Coins
+A 5eFP game uses coins (**⛁**), a single denomination representing wealth, resources, experience, and reputation. The name of a coin may change in some 5eFP games. For example, coins might be called "gold pieces" in a medieval fantasy setting, while coins might refer to "credits" in a futuristic sci-fi setting. A game's setting handbook details what coins are called in a game. All coins use the following rules.
 
-### Spending Coin
-After the conclusion of a 5eFP session, players take 1 or more rounds of downtime. At the start of the downtime phase, PCs roll thier downtime initiative. Each rolls a d20 and adds the number of Coins they currently have. This is called the downtime initiative, or just initiative.
+## Earning Coins
+GMs award 1**⛁** whenever PCs complete an encounter. Award +1**⛁** coin when the following conditions are met:
 
+- The PCs find one or more treasures.
+- The PCs increase one or more reputations.
+
+The number of coins GMs award when encounters are completed increases to 2**⛁** starting at 3rd level and 3**⛁** beginning at 6th level.
+
+### Spending Coins
+PCs may spend coins during downtime (see Downtime) or during preparation (see Preparation) before deploying to a world map tile. PCs may spend any number of coins. Occasionally a game feature may temporarily grant the ability to spend one or more coins. The feature explains when this happens and provides guidelines for how many coins a PC can choose to spend. Once a coin is spent, it is lost.
+
+## Armor
+Fantasy gaming worlds are a vast tapestry made up of many different cultures, each with its own technology level. For this reason, adventurers have access to a variety of armor types, ranging from leather armor to chain mail to costly plate armor, with several other kinds of armor in between. The Armor table collects the most commonly available types of armor found in the game and separates them into ~three~ four categories: ~light armor~ cloth, leather, ~medium armor~ chain, and ~heavy armor~ plate. Many warriors supplement their armor with a shield.
+
+The Armor table shows the cost, weight, and other properties of the common types of armor worn in fantasy gaming worlds.
+
+**Armor Proficiency.** Anyone can put on a suit of armor or strap a shield to an arm. Only those proficient in the armor’s use know how to wear it effectively, however. Your class gives you proficiency with certain types of armor. If you wear armor that you lack proficiency with, you have disadvantage on any ability check, saving throw, or attack roll that involves Strength or Dexterity, and you can’t cast spells.
+
+**Armor Class (AC).** Armor protects its wearer from attacks. The armor (and shield) you wear determines your base Armor Class.
+
+---
+
+(floating section)
+# Downtime
 At the start of a player's downtime round, that player may (board game: choose and place a worker from thier character sheet on the appropriate regions on the HQ map) choose and gain the benefits of one downtime activity (see below). All PCs have this basic option no matter how many Coin they have.
+
+## Spending Coin
+After the conclusion of a 5eFP session, players take 1 or more rounds of downtime. At the start of the downtime phase, PCs each roll a d20, adding the number of coins they currently have as a modifier. This number represents their downtime initiative. Each rolls a d20 and adds the number of Coins they currently have. This is called the downtime initiative, or just initiative.
 
 ### Downtime Activities
 Whenever a PC chooses a specific downtime activity, it cannot be chosen again until the beginning of the next round of downtime. During a round of downtime, a PC can perform the following actions:
