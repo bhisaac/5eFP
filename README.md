@@ -35,7 +35,7 @@ This project needs openminded, reliable, and dedicated PCs, GMs, and contributor
 | Dark antechamber, lit dungeon |
 | Goblins: elite goblin mage, elite goblin scoundrel (unusual weapon: crossbow) |
 | Eladrin caravan captives and goods: freed captives, returned goods |
-| Reputation: +1 Eladrin Enclave |
+| Reputation: +1 Elven Enclave |
 | Treasure: healing potion |
 | Hidden, furnished study with floor switch behind locked mechanism/door |
 | Evidence of a goblin boss: letters found at study desk--"spread chaos on the highway" |
