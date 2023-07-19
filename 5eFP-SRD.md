@@ -191,7 +191,7 @@ Choose and place each score as desired. Two ability scores represent advanced ab
 **MAX Wounds:** 6 + CON
 
 ### Proficiencies
-**Armor:** Light armor, medium armor, shields
+**Armor:** Cloth, leather, chain, shields
 
 **Weapons:** Simple weapons, martial weapons
 
@@ -210,7 +210,7 @@ You start with the following equipment, in addition to the equipment granted by 
 ## Rage
 In battle, you fight with primal ferocity. On your turn, you can enter a rage as a bonus action that lasts until the end of the encounter.
 
-While raging, you gain the following benefits if you aren’t wearing heavy armor:
+While raging, you gain the following benefits if you aren’t wearing plate armor:
 - You have advantage on Strength checks and Strength saving throws.
 - Damage dealt to you by minions is reduced to 0.
 - You gain resistance to bludgeoning, piercing, and slashing damage (minimum 1).
@@ -222,7 +222,7 @@ Your rage ends early if you are knocked unconscious or if your turn ends and you
 Once you have raged twice, you must finish a long rest before you can rage again.
 
 ## Unarmored Defense
-While you are not wearing any armor, your Armor Class equals 10 + DEX + CON. You can use a shield and still gain this benefit.
+While you are not wearing any leather, chain, or plate armor, your Armor Class equals 10 + DEX + CON. You can use a shield and still gain this benefit.
 
 # Bard
 ## Class Features
