@@ -941,6 +941,7 @@ The Armor table shows the cost, weight, and other properties of the common types
 ||
 |:-|
 |**Cloth Armor**|
+||
 |Padded, disadvantage|
 |Healer Outfit|
 |Mage Outfit|
