@@ -179,7 +179,7 @@ It’s hard to make generalizations about humans, but your human character has t
 (floating section)
 # Character Creation
 ## Ability Scores
-Whenever you create a new character for a 5eFP game, assign ability scores using the standard array: (+2, +2, +1, +1, +0, -1)
+Whenever you create a new character, assign ability scores using the standard array: (+2, +2, +1, +1, +0, -1)
 
 Choose and place each score as desired. Two ability scores represent advanced ability and talent (+2), another two represent aptitude (+1), another ability score represents average ability (+0), and the last ability score is challenged by adversity and unfavorable circumstances (-1).
 
