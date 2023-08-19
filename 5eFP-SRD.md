@@ -930,12 +930,25 @@ The Armor table shows the cost, weight, and other properties of the common types
 |||
 |:-|:-|
 |Shield|+2 AC|
-|Cloth|AC 11|
-|Leather|AC 13|
-|Chain|AC 16|
-|Plate|AC 18|
+|No Armor|AC 10 + DEX|
+|Cloth|AC 11 + DEX|
+|Leather|AC 13 + DEX|
+|Chain|AC 16 (STR 13), disadvantage|
+|Plate|AC 18 (STR 15), disadvantage|
 
----
+...
+
+||
+|:-|
+|**Cloth Armor**|
+|Padded, disadvantage|
+|Healer Outfit|
+|Mage Outfit|
+|Scoundrel Outfit|
+|Warrior Outfit|
+|Cloth armor provides comfort and support, insulating against temperature extremes, difficult or rough terrain, and weather conditions.|
+
+Armor listed with disadvantage assigns disadvantage to any Performance skill check used for quick, agile, and stealthy actions.
 
 ---
 
