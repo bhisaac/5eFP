@@ -31,8 +31,9 @@ This project needs openminded, reliable, and dedicated PCs, GMs, and contributor
 
 | \[Level 1] North East: Bandit Cave (Barrow)  |
 | ----------------------------------------------- |
-| Cave system extends beneath the surface |
+| Cleverly fabricated cave system extends beneath the surface |
 | Dark antechamber, lit dungeon |
+| Trap: curtin, noise maker |
 | Goblins: minions, elite mage, elite scoundrel (crossbow), boss |
 | Elven Enclave caravan (captives, goods): freed captives, returned goods |
 | Reputation: +1 Elven Enclave |
