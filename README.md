@@ -34,9 +34,9 @@ This project needs openminded, reliable, and dedicated PCs, GMs, and contributor
 | Cave system extends beneath the surface |
 | Dark antechamber, lit dungeon |
 | Goblins: minions, elite mage, elite scoundrel (crossbow), boss |
-| Elven caravan (captives, goods): freed captives, returned goods |
+| Elven Enclave caravan (captives, goods): freed captives, returned goods |
 | Reputation: +1 Elven Enclave |
-| Treasure: healing potion |
+| Treasure: healing potion, coin |
 | Hidden, furnished study with floor switch behind locked mechanism/door |
 | Evidence of a goblin boss: letters written in Common found at study desk--"spread chaos on the highway" |
 | False wall in the north operated by a switch in hidden study leads to additional rooms |
