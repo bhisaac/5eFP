@@ -949,7 +949,7 @@ The Armor table shows the cost, weight, and other properties of the common types
 |Warrior Outfit|
 |Cloth armor provides comfort and support, insulating against temperature extremes, difficult or rough terrain, and weather conditions.|
 
-Armor listed with disadvantage assigns disadvantage to any Performance skill check used for quick, agile, and stealthy actions.
+Armor listed with disadvantage imposes disadvantage to any Performance skill check used for quick, agile, and stealthy actions while the armor is equipped.
 
 ---
 
