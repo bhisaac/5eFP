@@ -139,7 +139,7 @@ Your halfling character has a number of traits in common with all other halfling
 ### Lightfoot
 As a lightfoot halfling, you can easily hide from notice, even using other people as cover. You’re inclined to be affable and get along well with others.
 
-Lightfoots are more prone to wanderlust than other halflings, and often dwell alongside other races or take up a nomadic life.
+Lightfoots are more prone to wanderlust than other halflings, and often dwell alongside other species or take up a nomadic life.
 
 **Ability Score Increase.** If you assign a +1 or +2 to your Charisma score during character creation, increase your Charisma score by an additional +1.
 
@@ -573,7 +573,7 @@ You	start	with	the	following	equipment,	in	addition	to	the	equipment	granted	by	
 - A	longbow	and	arrows
 
 ### Favored Enemy
-You	have	significant experience	studying,	tracking,	hunting,	and	even	talking	to	a	certain	type	of	enemy. Choose	a	type	of	favored	enemy:	aberrations,	beasts, celestials,	constructs,	dragons,	elementals, fey,	fiends,	giants,	monstrosities,	oozes,	plants,	or undead.	Alternatively,	you	can	select	two	~~races~~ species	of	humanoid	(such	as	gnolls	and	orcs)	as	favored enemies.
+You	have	significant experience	studying,	tracking,	hunting,	and	even	talking	to	a	certain	type	of	enemy. Choose	a	type	of	favored	enemy:	aberrations,	beasts, celestials,	constructs,	dragons,	elementals, fey,	fiends,	giants,	monstrosities,	oozes,	plants,	or undead.	Alternatively,	you	can	select	two species	of	humanoid	(such	as	gnolls	and	orcs)	as	favored enemies.
 
 You	have	advantage	on	Survival	checks	to	track	your	favored	enemies,	as	well	as	on Insight	checks	to recall	information	about	them.
 
@@ -854,7 +854,7 @@ In addition, most backgrounds give a character proficiency with one or more tool
 If a character would gain the same proficiency from two different sources, he or she can choose a different proficiency of the same kind (skill or tool) instead.
 
 ### Languages
-Some backgrounds also allow characters to learn additional languages beyond those given by race. See “Languages.”
+Some backgrounds also allow characters to learn additional languages beyond those given by species. See “Languages.”
 
 ### Equipment
 Each background provides a package of starting equipment. If you use the optional rule to spend coin on gear, you do not receive the starting equipment from your background.
@@ -1111,7 +1111,7 @@ The game includes the following monster types, which have no rules of their own.
 
 **Dragons** are large reptilian creatures of ancient origin and tremendous power. True dragons, including the good metallic dragons and the evil chromatic dragons, are highly intelligent and have innate magic. Also in this category are creatures distantly related to true dragons, but less powerful, less intelligent, and less magical, such as wyverns and pseudodragons.
 
-**Elementals** are creatures native to the elemental planes. Some creatures of this type are little more than animate masses of their respective elements, including the creatures simply called elementals. Others have biological forms infused with elemental energy. The races of genies, including djinn and efreet, form the most important civilizations on the elemental planes. Other elemental creatures include azers and invisible stalkers.
+**Elementals** are creatures native to the elemental planes. Some creatures of this type are little more than animate masses of their respective elements, including the creatures simply called elementals. Others have biological forms infused with elemental energy. The genie species, including djinn and efreet, form the most important civilizations on the elemental planes. Other elemental creatures include azers and invisible stalkers.
 
 **Fey** are magical creatures closely tied to the forces of nature. They dwell in twilight groves and misty forests. In some worlds, they are closely tied to the Feywild, also called the Plane of Faerie. Some are also found in the Outer Planes, particularly the planes of Arborea and the Beastlands. Fey include dryads, pixies, and satyrs.
 
@@ -1120,7 +1120,7 @@ mages sometimes summon fiends to the material world to do their bidding. If an e
 
 **Giants** tower over humans and their kind. They are humanlike in shape, though some have multiple heads (ettins) or deformities (fomorians). The six varieties of true giant are hill giants, stone giants, frost giants, fire giants, cloud giants, and storm giants. Besides these, creatures such as ogres and trolls are giants.
 
-**Humanoids** are the main peoples of a fantasy gaming world, both civilized and savage, including humans and a tremendous variety of other species. They have language and culture, few if any innate magical abilities (though most humanoids can learn spellcasting), and a bipedal form. The most common humanoid races are the ones most suitable as player characters: humans, dwarves, elves, and halflings. Almost as numerous but far more savage and brutal, and almost uniformly evil, are the races of goblinoids (goblins, hobgoblins, and bugbears), orcs, gnolls, lizardfolk, and kobolds.
+**Humanoids** are the main peoples of a fantasy gaming world, both civilized and savage, including humans and a tremendous variety of other species. They have language and culture, few if any innate magical abilities (though most humanoids can learn spellcasting), and a bipedal form. The most common humanoid species are the ones most suitable as player characters: humans, dwarves, elves, and halflings. Almost as numerous but far more savage and brutal, and almost uniformly evil, are the goblinoids (goblins, hobgoblins, and bugbears), orcs, gnolls, lizardfolk, and kobolds.
 
 **Monstrosities** are monsters in the strictest sense—frightening creatures that are not ordinary, not truly natural, and almost never benign. Some are the results of magical experimentation gone awry (such as owlbears), and others are the product of terrible curses (including minotaurs and yuan-ti). They defy categorization, and in some sense serve as a catch-all category for creatures that don’t fit into any other type.
 
@@ -1760,7 +1760,7 @@ For example, if two clerics cast _bless_ on the same target, that character gain
 ||
 |You assume a different form. When you cast the spell, choose one of the following options, the effects of which last for the duration of the spell. While the spell lasts, you can end one option as an action to gain the benefits of a different one.|
 |**Aquatic Adaptation.** You adapt your body to an aquatic environment, sprouting gills and growing webbing between your fingers. You can breathe underwater and gain a swimming speed equal to your walking speed.|
-|**Change Appearance.** You transform your appearance. You decide what you look like, including your height, weight, facial features, sound of your voice, hair length, coloration, and distinguishing characteristics, if any. You can make yourself appear as a member of another race, though none of your statistics change. You also can’t appear as a creature of a different size than you, and your basic shape stays the same; if you’re bipedal, you can’t use this spell to become quadrupedal, for instance. At any time for the duration of the spell, you can use your action to change your appearance in this way again.|
+|**Change Appearance.** You transform your appearance. You decide what you look like, including your height, weight, facial features, sound of your voice, hair length, coloration, and distinguishing characteristics, if any. You can make yourself appear as a member of another species, though none of your statistics change. You also can’t appear as a creature of a different size than you, and your basic shape stays the same; if you’re bipedal, you can’t use this spell to become quadrupedal, for instance. At any time for the duration of the spell, you can use your action to change your appearance in this way again.|
 |**Natural Weapons.** You grow claws, fangs, spines, horns, or a different natural weapon of your choice.
 Your unarmed strikes deal 1 bludgeoning, piercing, or slashing damage, as appropriate to the natural weapon you chose, and you are proficient with your unarmed strikes. Finally, the natural weapon is magic and you have a +1 bonus to the attack and damage rolls you make using it.|
 
