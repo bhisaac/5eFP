@@ -42,7 +42,7 @@ Your dwarf character has an assortment of inborn abilities, part and parcel of d
 
 **Size.** Dwarves stand between 4 and 5 feet tall and average about 150 pounds. Your size is Medium.
 
-**Speed.** Your base walking speed is 5 squares. Your speed is not reduced by wearing heavy armor.
+**Speed.** Your base walking speed is no fewer than 5 squares.
 
 **Darkvision.** Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 12 squares of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
 
@@ -72,7 +72,7 @@ As a highlander dwarf, you are accustomed to rugged living at high altitudes and
 
 ## Elf
 ### Elf Traits
-Your elf character has a variety of natural abilities, result of thousands of years of elven refinement.
+Your elf character has a variety of natural abilities, a result of thousands of years of elven refinement.
 
 **Ability Score Increase.** Your Dexterity score increases by +1.
 
