@@ -933,10 +933,10 @@ The Armor table shows the cost, weight, and other properties of the common types
 |No Armor|AC 10 + DEX|
 |Cloth|AC 11 + DEX|
 |Leather|AC 13 + DEX|
-|Chain|AC 16 (STR 13), disadvantage|
-|Plate|AC 18 (STR 15), disadvantage|
-||In order to equip chain armor, you must have STR 13 or higher.|
-||In order to equip plate armor, you must have STR 15 or higher.|
+|Chain|AC 16 (STR +1), disadvantage|
+|Plate|AC 18 (STR +2), disadvantage|
+||In order to equip chain armor, you must have STR +1 or higher.|
+||In order to equip plate armor, you must have STR +2 or higher.|
 
 ...
 
@@ -945,11 +945,32 @@ The Armor table shows the cost, weight, and other properties of the common types
 |**Cloth Armor**|
 ||
 |Padded, disadvantage|
-|Healer Outfit|
-|Mage Outfit|
-|Scoundrel Outfit|
-|Warrior Outfit|
-|Cloth armor provides comfort and support, insulating against temperature extremes, difficult or rough terrain, and adverse weather conditions.|
+|Class Outfit|
+|Cloth armor provides comfort, utility, and support—insulating against temperature extremes, difficult or rough terrain, and adverse weather conditions.|
+
+||
+|:-|
+|**Leather Armor**|
+||
+|Leather|
+|Studded Leather|
+|Hide|
+
+||
+|:-|
+|**Chain Armor**|
+||
+|Breastplate, disadvantage|
+|Chain Shirt|
+|Chain Mail, disadvantage|
+|Half Plate, disadvantage|
+
+||
+|:-|
+|**Plate Armor**|
+||
+|Full Plate, disadvantage|
+|Splint, disadvantage|
 
 Armor listed with disadvantage imposes disadvantage to any Performance skill check used for quick, agile, and stealthy actions while the armor is equipped.
 
