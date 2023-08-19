@@ -930,7 +930,7 @@ The Armor table shows the cost, weight, and other properties of the common types
 |||
 |:-|:-|
 |Shield|+2 AC|
-|Cloth|AC 12|
+|Cloth|AC 11|
 |Leather|AC 13|
 |Chain|AC 16|
 |Plate|AC 18|
