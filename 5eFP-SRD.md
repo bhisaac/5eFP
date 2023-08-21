@@ -186,7 +186,8 @@ Choose and place each score as desired. Two ability scores represent advanced ab
 ---
 
 # Barbarian
-## Class Features
+#### Class Features
+
 #### Health
 **MAX Wounds:** 6 + CON
 
