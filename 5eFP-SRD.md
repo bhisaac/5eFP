@@ -187,10 +187,10 @@ Choose and place each score as desired. Two ability scores represent advanced ab
 
 # Barbarian
 ## Class Features
-### Health
+#### Health
 **MAX Wounds:** 6 + CON
 
-### Proficiencies
+#### Proficiencies
 **Armor:** Cloth, leather, chain, shields
 
 **Weapons:** Simple weapons, martial weapons
@@ -207,7 +207,7 @@ You start with the following equipment, in addition to the equipment granted by 
 - (*a*) handaxes or (*b*) any simple weapon
 - An explorer's pack and javelins
 
-## Rage
+### Rage
 In battle, you fight with primal ferocity. On your turn, you can enter a rage as a bonus action that lasts until the end of the encounter.
 
 While raging, you gain the following benefits if you aren’t wearing plate armor:
@@ -221,15 +221,15 @@ Your rage ends early if you are knocked unconscious or if your turn ends and you
 
 Once you have raged twice, you must finish a long rest before you can rage again.
 
-## Unarmored Defense
+### Unarmored Defense
 While you are not wearing chain or plate armor, add CON (minimum +0) to your Armor Class. You can use a shield and still gain this benefit.
 
 # Bard
-## Class Features
-### Health
+#### Class Features
+#### Health
 **MAX Wounds:** 4 + CON
 
-### Proficiencies
+#### Proficiencies
 **Armor:** Light armor
 
 **Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords
@@ -276,7 +276,7 @@ You can cast any bard spell you know as a ritual if that spell has the ritual ta
 #### Spellcasting Focus
 You can use a musical instrument (see “Equipment”) as a spellcasting focus for your bard spells.
 
-## Bardic Inspiration
+### Bardic Inspiration
 You can inspire others through stirring words or music. To do so, you use a bonus action on your turn to choose one creature other than yourself within 10 squares of you who can hear you. That creature gains three Bardic Inspiration action dice.
 
 For the remainder of the encounter, the creature can choose to roll all action dice and add the result to one ability check, attack roll, or saving throw it makes. The creature can wait until after it rolls the d20 before deciding to use the Bardic Inspiration dice, but must decide before the GM says whether the roll succeeds or fails. Once the Bardic Inspiration dice are rolled, they are lost. A creature can have only three Bardic Inspiration dice at one time.
