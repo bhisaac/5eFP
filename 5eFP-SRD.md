@@ -277,7 +277,7 @@ You can cast any bard spell you know as a ritual if that spell has the ritual ta
 #### Spellcasting Focus
 You can use a musical instrument (see “Equipment”) as a spellcasting focus for your bard spells.
 
-### Bardic Inspiration
+#### Bardic Inspiration
 You can inspire others through stirring words or music. To do so, you use a bonus action on your turn to choose one creature other than yourself within 10 squares of you who can hear you. That creature gains three Bardic Inspiration action dice.
 
 For the remainder of the encounter, the creature can roll any Bardic Inspiration action dice and add the result to one ability check, attack roll, or saving throw it makes. The creature can wait until after it rolls the d20 before deciding to use the Bardic Inspiration action dice but must decide before the GM says whether the roll succeeds or fails. Once the Bardic Inspiration action dice are rolled, they are lost. If the creature has Bardic Inspiration action dice and gains more, it decides whether to keep the ones it has or gain the new ones.
