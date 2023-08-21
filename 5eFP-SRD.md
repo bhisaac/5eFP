@@ -359,13 +359,13 @@ You gain proficiency with heavy armor.
 Your healing spells are more effective. Whenever you use a spell of 1st level or higher to heal a creature's wounds, the creature heals one additional wound per spell level.
 
 ## Druid
-## Class Features
+#### Class Features
 As a druid, you gain the following class features. 
   
-### Health
+#### Health
 **MAX Wounds:** 3 + CON
 
-### Proficiencies
+#### Proficiencies
 **Armor:** Light armor, medium armor, shields (druids will not wear armor or use shields made of metal)
 
 **Weapons:** Clubs, daggers, darts, javelins, maces, quarterstaffs, scimitars, sickles, slings, spears
@@ -376,50 +376,50 @@ As a druid, you gain the following class features.
 
 **Skills:** Choose one from Insight, Medicine, Perception, Performance, and Survival
 
-### Equipment
+#### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
 
 - (*a*) a wooden shield or (*b*) any simple weapon
 - (*a*) a scimitar or (*b*) any simple melee weapon
 - Leather armor, an explorer's pack, and a druidic focus
 
-## Druidic
+### Druidic
 You know Druidic, the secret language of druids. You can speak the language and use it to leave hidden messages. You and others who know this language automatically spot such a message. Others spot the message’s presence with a successful (DC 15) Perception check but can’t decipher it without magic.
 
-## Spellcasting
+#### Spellcasting
 Drawing on the divine essence of nature itself, you can cast spells to shape that essence to your will.
 
-### Cantrips
+#### Cantrips
 You know two druid cantrips of your choice.
 
-### Preparing and Casting Spells
+#### Preparing and Casting Spells
 You begin the game with two 1st level spell slots. To cast one of your spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest. For example, if you know the 1st-level spell *cure wounds* and have a 1st-level and a 2nd-level spell slot available, you can cast cure wounds using either slot. Casting the spell doesn’t remove it from your list of prepared spells.
 
 You prepare the list of druid spells that are available for you to cast, choosing from the druid spell list. When you do so, choose a number of druid spells equal to WIS + your level (minimum of one spell). The spells must be of a level for which you have spell slots.
 
 You can change your list of prepared spells at HQ. While away from HQ, you can prepare a new list of cleric spells by completing a short rest in prayer and meditation.
 
-### Spellcasting Ability
+#### Spellcasting Ability
 Wisdom is your spellcasting ability for your druid spells, since your magic draws upon your devotion and attunement to nature. You use your Wisdom whenever a druid spell refers to your spellcasting ability. In addition, you use WIS when setting the saving throw DC for a druid spell you cast and when making an attack roll with one.
 
 **Spell save DC** = 10 + WIS
 
 **Spell attack modifier** = 2 + WIS
 
-### Ritual Casting
+#### Ritual Casting
 You can cast a druid spell as a ritual if that spell has the ritual tag and you have the spell prepared.
 
-### Spellcasting Focus
+#### Spellcasting Focus
 You can use a druidic focus (see “Equipment”) as a spellcasting focus for your druid spells.
 
-# Fighter
-## Class Features
+## Fighter
+#### Class Features
 As	a	fighter,	you	gain	the	following	class	features.
 
-### Health
+#### Health
 **MAX Wounds:** 5 + CON
 
-### Proficiencies
+#### Proficiencies
 **Armor:** All	armor,	shields
 
 **Weapons:** Simple	weapons,	martial	weapons
@@ -430,7 +430,7 @@ As	a	fighter,	you	gain	the	following	class	features.
 
 **Skills:** Choose one from Insight, Performance, and Survival
 
-### Equipment
+#### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
 
 - (*a*) chain	mail	or (*b*) leather	armor,	longbow,	and arrows
@@ -448,27 +448,21 @@ You	gain	a	+2	bonus	to	attack	rolls	you	make	with ranged	weapons.
 While	you	are	wearing	armor,	you	gain	a	+1	bonus	to	AC.
 
 #### Dueling
-~~When	you	are	wielding	a	melee	weapon	in	one	hand and	no	other	weapons,	you	gain	a	+2	bonus	to	damage	rolls	with	that	weapon.~~
-
 When	you	are	wielding	a	melee	weapon	in	one	hand and	no	other	weapons,	you	gain	a	+1	bonus	to	damage	dealt	with	that	weapon.
 
 #### Great Weapon Fighting
-~~When	you	roll	a	1	or	2	on	a	damage	die	for	an	attack	you	make	with	a	melee	weapon	that	you	are	wielding	with	two	hands,	you	can	reroll	the	die and	must	use	the	new	roll,	even	if	the	new	roll	is	a	1	or	a	2. The	weapon	must	have	the	two-handed	or versatile	property	for	you	to	gain	this benefit.~~
-
-Whenever you attack and miss with a melee weapon you are wielding with two hands, you may reroll the attack. The	weapon	must	have	the	two-handed	or versatile	property	for	you	to	gain	this benefit.
+Whenever you attack and miss with a melee weapon you are wielding with two hands, you may reroll the attack and must use the new roll. The	weapon	must	have	the	two-handed	or versatile	property	for	you	to	gain	this benefit.
 
 #### Protection
 When	a	creature	you	can	see	attacks	a	target	other	than	you	that	is	within	1 square	of	you,	you	can	use	your	reaction	to	impose	disadvantage	on	the attack roll.	You	must	be	wielding	a	shield.
 
-#### Two-Weapon Fighting (needs playtesting)
-~~When	you	engage	in	two-weapon	fighting,	you	can add	your	ability score	to	the	damage	of	the	second	attack.~~
-
-When you engage in two weapon fighting and successfully hit a creature with your secondary attack, you may deal 1 point of damage to another creature within 1 square of you. This bonus damage type is the same as the secondary attack.
+#### Two-Weapon Defense
+While you have a weapon equipped in both hands, you gain a +1 bonus to AC.
 
 ### Second Wind
-You	have	a	limited	well	of	stamina	that	you	can	draw	on	to	protect	yourself	from	harm.	On	your	turn,	you	can	use	a	bonus	action	to return up to	~~1d10~~	1 +	your	fighter	level wounds back to the wound deck.	Once	you	use	this	feature, you	must	finish	a	short	~~or long~~ rest	before	you	can use	it	again.
+You	have	a	limited	well	of	stamina	that	you	can	draw	on	to	protect	yourself	from	harm.	On	your	turn,	you	can	use	a	bonus	action	to heal 1 +	your fighter	level wounds.	Once	you	use	this	feature, you	must	finish	a	short or long rest	before	you	can use	it	again.
 
-# Monk
+## Monk
 ## Class Features
 As	a	monk,	you	gain	the	following	class	features.
 
