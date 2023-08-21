@@ -947,8 +947,6 @@ The Armor table shows the cost, weight, and other properties of the common types
 |**Leather Armor**||
 |||
 |Leather|1⛁|
-|Studded Leather|1⛁|
-|Hide|1⛁|
 |||
 |**Chain Armor**||
 |||
