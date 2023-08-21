@@ -280,18 +280,18 @@ You can use a musical instrument (see “Equipment”) as a spellcasting focus f
 ### Bardic Inspiration
 You can inspire others through stirring words or music. To do so, you use a bonus action on your turn to choose one creature other than yourself within 10 squares of you who can hear you. That creature gains three Bardic Inspiration action dice.
 
-For the remainder of the encounter, the creature can choose to roll all action dice and add the result to one ability check, attack roll, or saving throw it makes. The creature can wait until after it rolls the d20 before deciding to use the Bardic Inspiration dice, but must decide before the GM says whether the roll succeeds or fails. Once the Bardic Inspiration dice are rolled, they are lost. A creature can have only three Bardic Inspiration dice at one time.
+For the remainder of the encounter, the creature can roll any Bardic Inspiration action dice and add the result to one ability check, attack roll, or saving throw it makes. The creature can wait until after it rolls the d20 before deciding to use the Bardic Inspiration action dice but must decide before the GM says whether the roll succeeds or fails. Once the Bardic Inspiration action dice are rolled, they are lost. If the creature has Bardic Inspiration action dice and gains more, it decides whether to keep the ones it has or gain the new ones.
 
 You can use this feature a number of times equal to your CHA (minimum 1). You regain any expended uses when you finish a long rest.
 
 # Cleric
-## Class Features
+#### Class Features
 As a cleric, you gain the following class features. 
   
-### Health
+#### Health
 **MAX Wounds:** 4 + CON
 
-### Proficiencies
+#### Proficiencies
 **Armor:** Light armor, medium armor, shields
 
 **Weapons:** Simple weapons
@@ -302,7 +302,7 @@ As a cleric, you gain the following class features.
 
 **Skills:** Choose one from Insight, Medicine, and Performance
 
-### Equipment
+#### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
 
 - (*a*) a mace or (*b*) a warhammer (if proficient)
@@ -311,30 +311,30 @@ You start with the following equipment, in addition to the equipment granted by 
 - (*a*) a priest’s pack or (*b*) an explorer’s pack
 - A shield and a holy symbol
 
-## Spellcasting
+#### Spellcasting
 As a conduit for divine power, you can cast cleric spells. 
 
-### Cantrips
+#### Cantrips
 You know three cleric cantrips of your choice.
 
-### Preparing and Casting Spells
+#### Preparing and Casting Spells
 You begin the game with two 1st level spell slots. To cast one of your spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest. For example, if you know the 1st-level spell *cure wounds* and have a 1st-level and a 2nd-level spell slot available, you can cast cure wounds using either slot. Casting the spell doesn’t remove it from your list of prepared spells.
 
 You prepare the list of cleric spells that are available for you to cast, choosing from the cleric spell list. When you do so, choose a number of cleric spells equal to WIS + your level (minimum of one spell). The spells must be of a level for which you have spell slots.
 
 You can change your list of prepared spells at HQ. While away from HQ, you can prepare a new list of cleric spells by completing a short rest in prayer and meditation.
 
-### Spellcasting Ability
+#### Spellcasting Ability
 Wisdom is your spellcasting ability for your cleric spells. The power of your spells comes from your devotion to your deity. You use your Wisdom whenever a cleric spell refers to your spellcasting ability. In addition, you use WIS when setting the saving throw DC for a cleric spell you cast and when making an attack roll with one.
 
 **Spell save DC** = 10 + WIS
 
 **Spell attack modifier** = 2 + WIS
 
-### Ritual Casting
+#### Ritual Casting
 You can cast a cleric spell as a ritual if that spell has the ritual tag and you have the spell prepared.
 
-### Spellcasting Focus
+#### Spellcasting Focus
 You can use a holy symbol (see “Equipment”) as a spellcasting focus for your cleric spells.
 
 ### Divine Domain
