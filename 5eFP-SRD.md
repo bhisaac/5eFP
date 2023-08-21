@@ -929,14 +929,12 @@ The Armor table shows the cost, weight, and other properties of the common types
 
 |||
 |:-|:-|
-|Shield|+2 AC|
 |No Armor|AC 10 + DEX|
 |Cloth|AC 11 + DEX|
 |Leather|AC 13 + DEX|
-|Chain|AC 16 (STR +1), disadvantage|
-|Plate|AC 18 (STR +2), disadvantage|
-||In order to equip chain armor, you must have STR +1 or higher.|
-||In order to equip plate armor, you must have STR +2 or higher.|
+|Chain|AC 16 (STR +1 or greater)|
+|Plate|AC 18 (STR +2 or greater)|
+|Shield|+2 AC|
 
 ...
 
@@ -945,28 +943,19 @@ The Armor table shows the cost, weight, and other properties of the common types
 |**Cloth Armor**|
 ||
 |Padded, disadvantage|
-|Class Outfit|
-|Cloth armor provides comfort, utility, and support—insulating against temperature extremes, difficult or rough terrain, and adverse weather conditions.|
-
 ||
-|:-|
 |**Leather Armor**|
 ||
 |Leather|
 |Studded Leather|
 |Hide|
-
 ||
-|:-|
 |**Chain Armor**|
 ||
-|Breastplate, Max DEX +2, disadvantage|
-|Chain Shirt, DEX|
 |Chain Mail, disadvantage|
 |Half Plate, Max DEX +2, disadvantage|
-
+|Breastplate, Max DEX +2|
 ||
-|:-|
 |**Plate Armor**|
 ||
 |Full Plate, disadvantage|
