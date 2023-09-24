@@ -925,33 +925,30 @@ The Armor table shows the cost, weight, and other properties of the common types
 |||
 |:-|:-|
 |No Armor|AC 10 + DEX|
-|Cloth|AC 11 + DEX|
-|Leather|AC 13 + DEX|
-|Chain|AC 16 (STR +1 or greater)|
-|Plate|AC 18 (STR +2 or greater)|
+|Light Armor|AC 11 + DEX|
+|Medium Armor|AC 16 (STR +1 or greater)|
+|Heavy Armor|AC 18 (STR +2 or greater)|
 |Shield|+2 AC|
 
 ...
 
-|||
-|:-|:-|
-|**Cloth Armor**||
-|||
-|Padded, disadvantage|1⛁|
-||
-|**Leather Armor**||
-|||
-|Leather|1⛁|
-|||
-|**Chain Armor**||
-|||
-|Chain Mail, disadvantage|2⛁|
-|Half Plate, Max DEX +2, disadvantage|3⛁|
-|Breastplate, Max DEX +2|4⛁|
-|||
-|**Plate Armor**||
-|||
-|Full Plate, disadvantage|5⛁|
+||||
+|:-|:-|:-|
+|**Light Armor**|**Modifiers**|**Cost**|
+||||
+|Padded|Disadvantage|1⛁|
+|Leather||1⛁|
+|Studded Leather|+1|2⛁|
+||||
+|**Medium Armor**|**Modifiers**|**Cost**|
+||||
+|Half Plate|Max DEX +2, disadvantage|3⛁|
+|Breastplate|Max DEX +2|4⛁|
+||||
+|**Heavy Armor**|**Modifiers**|**Cost**|
+||||
+|Chain Mail|Disadvantage|2⛁|
+|Full Plate|Disadvantage|5⛁|
 
 Armor listed with disadvantage imposes disadvantage to any Performance skill check used for quick, agile, and stealthy actions while the armor is equipped.
 
