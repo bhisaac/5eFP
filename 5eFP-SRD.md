@@ -192,7 +192,7 @@ Choose and place each score as desired. Two ability scores represent advanced ab
 **MAX Wounds:** 6 + CON
 
 #### Proficiencies
-**Armor:** Cloth, leather, chain, shields
+**Armor:** Light armor, medium armor, shields
 
 **Weapons:** Simple weapons, martial weapons
 
