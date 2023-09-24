@@ -223,7 +223,7 @@ Your rage ends early if you are knocked unconscious or if your turn ends and you
 Once you have raged twice, you must finish a long rest before you can rage again.
 
 ### Unarmored Defense
-While you are not wearing chain or plate armor, add CON (minimum +0) to your Armor Class. You can use a shield and still gain this benefit.
+While you are not wearing armor, add CON (minimum +0) to your Armor Class. You can use a shield and still gain this benefit.
 
 # Bard
 #### Class Features
