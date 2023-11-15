@@ -769,21 +769,21 @@ Elements of a 5eFP game:
 - Scale: 1 square equals 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters
 - Contains: (9) 2x2 world map tiles for each cardinal direction, (3) 2x2 world map tiles for each ordinal (hybrid) direction, and (1) 2x2 HQ tile
 
-Draw clear boundaries around each world map tile (use a grid). Hybrid tiles: draw a dashed diagonal line from one corner of the world map tile to its opposite corner in a color that will stand out. This dashed line represents the highway. World map tiles containing a highway are considered hybrid. While exploring hybrid tiles, players draw and play story cards from both adjacent story directions simultaneously. Roads are hybrid world map tiles. They contain equal portions of both adjacent story directions.
+Draw clear boundaries around each world map tile (use a grid). Hybrid tiles: draw a dashed diagonal line from one corner of the world map tile to its opposite corner in a color that will stand out. This dashed line represents the road or highway. World map tiles containing a highway are considered hybrid. While exploring hybrid tiles, players simultaneously draw and play story cards from both adjacent story directions.
 
-The world map begins obscured. After choosing or creating the world map, place obscuring world map tiles over it. The nature of this obscurity is detailed in your setting handbook. The HQ (headquarters) tile is the only tile that is not obscured at the beginning of the game. The HQ tile is placed at the map's center position. Obscuring world map tiles are removed whenever the PCs explore the world map tile it obscures. The following procedure must be completed to explore a world map tile:
+The world map begins obscured. After choosing or creating the world map, place obscuring world map tiles over it. The nature of this obscurity is detailed in your setting handbook. The HQ (headquarters) tile is the only one not obscured at the beginning of the game. The HQ tile is placed at the map's center position. Obscuring world map tiles are removed whenever the PCs explore the world map tile it obscures. The following procedure must be completed to explore a world map tile:
 
 - Explore 55% or more of the map.
 - Find and resolve 3 footholds.
 - Locate an item or perform an action according to the setting handbook.
 
-Steps taken before deployment.
+Steps taken for world map deployment.
 1. **Preview.** Druids and rangers receive a special bonus round. Each druid and ranger PC, in initiative order, may choose one unexplored world map tile within the current level of play and preview its terrain by temporarily removing its obscuring world map tile. Once finished, the player then returns the obscuring world map tile back to its original position.
 2. **Selection.** The PCs, as a group, choose a cardinal or ordinal direction and trace a path from the HQ tile along the map until an obscured world map tile is encountered within the current level of play. This becomes the selected world map tile.
 3. **Prepare.** Players may choose to spend 1 round of preparation before deploying. See "Preparation."
 4. **Setup.** Place an empty (22 x 22) exploration map beside the world map. Roll a d20 onto the exploration map before placing any tiles and note the location of where the dice lands. This determines the starting position for the PCs.
 5. **Deploy.** The GM reveals the starting map tile on the exploration map at the starting position determined in the previous step, placing the party token onto it.
-6. **Chooose Party Token Controller.** PCs appoint one player as the party token controller. This player can be the party leader, but this is not required. The PC with the most overland movement bonuses is typically the party token controller. Some background, species, and class features provide significant bonuses while controlling the party token during the exploration phase.
+6. **Choose Party Token Controller.** PCs appoint one player as the party token controller. This player can be the party leader, but this is not required. The PC with the most overland movement bonuses is typically the party token controller. Some background, species, and class features provide significant bonuses while controlling the party token during the exploration phase.
 7. **Move the party token.** The party token controller moves the token, lifting any obscuring tiles encountered along the way. Removing an obscuring tile may reveal one of several potential world map features called footholds:
     - Dungeons
     - Creatures
@@ -805,12 +805,12 @@ HQ usually remains in one static location while PCs deploy on missions outward f
 Sometimes HQs create satellite locations within the world map. Treat satellite locations as extensions of HQ. PCs can spend their downtime in HQ or within one of HQ's satellite locations, which may provide alternative benefits. Satellite locations are less secure than HQ, but remain relatively safe and protected, provided PCs meet HQ's upkeep costs. Local circumstances, conditions, and disturbances can affect the safety and protection offered by HQ. A temporary suspension of HQ protection results in PCs losing the ability to rest and repair. Coins spent on rest and repairs are lost during these circumstances.
 
 ## Game Session Start
-You always begin the game at HQ.
+Unless stated otherwise, you always begin the game at HQ.
 
 You begin the game by revealing the HQ world map tile to all players. Place the HQ tile at the world map center tile position, reading any read-aloud text listed in your setting handbook for the start of the game.
 
 ## Game Session End
-You always end the game at HQ. The following occurs when PCs return to HQ:
+Unless stated otherwise, you always end the game at HQ. The following occurs when PCs return to HQ:
 1. All ongoing encounter powers, abilities, and features end.
 2. PCs may pay 1 Coin for rest and repairs.
 3. PCs take one downtime round (worker placement) by placing their token on a building within HQ (or linked through HQ at a satellite location).
