@@ -211,7 +211,7 @@ You start with the following equipment, in addition to the equipment granted by 
 ### Rage
 In battle, you fight with primal ferocity. On your turn, you can enter a rage as a bonus action that lasts until the end of the encounter.
 
-While raging, you gain the following benefits if you aren’t wearing plate armor:
+While raging, you gain the following benefits if you aren’t wearing heavy armor:
 - You have advantage on Strength checks and Strength saving throws.
 - Damage dealt to you by minions is reduced to 0.
 - You gain resistance to bludgeoning, piercing, and slashing damage (minimum 1).
