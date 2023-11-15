@@ -732,9 +732,9 @@ You	start	with	the	following	equipment,	in	addition to	the	equipment	granted	by	
 - Leather	armor,	any	simple	weapon,	and	two daggers
 
 ### Otherworldly Patron
-You	have	struck	a	bargain	with	an otherworldly	being	of	your	choice:	the	Archfey,	the	Shadow, or the Light,	each	of	which	is	detailed	at	the	end	of	the	class	description.	Your	choice	grants	you	features.
+You	have	struck	a	bargain	with	an otherworldly	being	of	your	choice:	the	Archfey,	the	Blade, or the Celestial,	each	of	which	is	detailed	at	the	end	of	the	class	description.	Your	choice	grants	you	features.
 
-(Shadow and Light replace the Elder Gods and Fiend.)
+(The Blade and Celestial replace the Outer Gods and Fiend. These entities are classic choices for warlock, but they're just too dark and evil for 5eFP gameplay. Players who wish to explore a darker theme should look into the Blade otherworldly patron or choose an Archfey from the winter court.)
 
 ### Pact Magic
 Your	arcane	research	and	the	magic	bestowed	on you	by	your	patron	have	given	you	facility	with spells.
