@@ -189,7 +189,7 @@ Choose and place each score as desired. Two ability scores represent advanced ab
 #### Class Features
 
 #### Health
-**MAX Wounds:** 6 + CON
+**MAX Wounds:** 6 + Constitution (CON)
 
 #### Proficiencies
 **Abilities:** Strength (STR), Constitution (CON)
@@ -228,7 +228,7 @@ While you are not wearing armor, add CON (minimum +0) to your Armor Class. You c
 # Bard
 #### Class Features
 #### Health
-**MAX Wounds:** 4 + CON
+**MAX Wounds:** 4 + Constitution (CON)
 
 #### Proficiencies
 **Abilities:** Dexterity (DEX), Charisma (CHA)
@@ -289,7 +289,7 @@ You can use this feature a number of times equal to your CHA (minimum 1). You re
 As a cleric, you gain the following class features. 
   
 #### Health
-**MAX Wounds:** 4 + CON
+**MAX Wounds:** 4 + Constitution (CON)
 
 #### Proficiencies
 **Abilities:** Wisdom (WIS), Charisma (CHA)
@@ -363,7 +363,7 @@ Your healing spells are more effective. Whenever you use a spell of 1st level or
 As a druid, you gain the following class features. 
   
 #### Health
-**MAX Wounds:** 3 + CON
+**MAX Wounds:** 3 + Constitution (CON)
 
 #### Proficiencies
 **Abilities:** Intelligence (INT), Wisdom (WIS)
@@ -417,7 +417,7 @@ You can use a druidic focus (see “Equipment”) as a spellcasting focus for yo
 As	a	fighter,	you	gain	the	following	class	features.
 
 #### Health
-**MAX Wounds:** 5 + CON
+**MAX Wounds:** 5 + Constitution (CON)
 
 #### Proficiencies
 **Abilities:** Strength (STR), Constitution (CON)
@@ -467,7 +467,7 @@ You	have	a	limited	well	of	stamina	that	you	can	draw	on	to	protect	yourself	from
 As	a	monk,	you	gain	the	following	class	features.
 
 ### Health
-**MAX Wounds:** 5 + CON
+**MAX Wounds:** 5 + Constitution (CON)
 
 ### Proficiencies
 **Abilities:** Strength (STR), Dexterity (DEX)
@@ -506,7 +506,7 @@ Certain	monasteries	use	specialized	forms	of	monk	weapons.	For	example,	you	migh
 As	a	paladin,	you	gain	the	following	class	features.
 
 ### Health
-**MAX Wounds:** 4 + CON
+**MAX Wounds:** 4 + Constitution (CON)
 
 ### Proficiencies
 **Abilities:** Wisdom (WIS), Charisma (CHA)
@@ -546,7 +546,7 @@ This	feature	has	no	effect	on	undead	and constructs.
 As	a	ranger,	you	gain	the	following	class	features.
 
 ### Health
-**MAX Wounds:** 4 + CON
+**MAX Wounds:** 4 + Constitution (CON)
 
 ### Proficiencies
 **Abilities:** Strength (STR), Dexterity (DEX)
@@ -590,7 +590,7 @@ While	traveling	in	your	favored	terrain,	you	gain	the	following	benefits:
 As	a	rogue,	you	have	the following	class	features.
 
 ### Health
-**MAX Wounds:** 4 + CON
+**MAX Wounds:** 4 + Constitution (CON)
 
 ### Proficiencies
 **Abilities:** Dexterity (DEX), Intelligence (INT)
@@ -627,6 +627,9 @@ In	addition,	you	understand	a	set	of	secret	signs	and	symbols	used	to	convey	sho
 # Sorcerer
 ## Class Features
 As	a	sorcerer,	you	gain	the	following	class	features.
+
+### Health
+**MAX Wounds:** 3 + Constitution (CON)
 
 ### Proficiencies
 **Abilities:** Constitution (CON), Charisma (CHA)
@@ -711,7 +714,7 @@ Additionally,	parts	of	your	skin	are	covered	by	a	thin	sheen	of	dragon-like	scal
 As	a	warlock,	you	gain	the	following	class	features.
 
 ### Health
-**MAX Wounds:** 3 + CON
+**MAX Wounds:** 3 + Constitution (CON)
 
 ### Proficiencies
 **Armor:**	Light	armor
