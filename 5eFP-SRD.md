@@ -192,7 +192,7 @@ Choose and place each score as desired. Two ability scores represent advanced ab
 **MAX Wounds:** 6 + Constitution (CON)
 
 #### Proficiencies
-**Abilities:** Strength (STR), Constitution (CON)
+**Abilities:** Strength (STR), CON
 
 **Armor:** Light armor, medium armor, shields
 
@@ -420,7 +420,7 @@ As	a	fighter,	you	gain	the	following	class	features.
 **MAX Wounds:** 5 + Constitution (CON)
 
 #### Proficiencies
-**Abilities:** Strength (STR), Constitution (CON)
+**Abilities:** Strength (STR), CON
 
 **Armor:** All	armor,	shields
 
@@ -632,7 +632,7 @@ As	a	sorcerer,	you	gain	the	following	class	features.
 **MAX Wounds:** 3 + Constitution (CON)
 
 ### Proficiencies
-**Abilities:** Constitution (CON), Charisma (CHA)
+**Abilities:** CON, Charisma (CHA)
 
 **Armor:**	None
 
