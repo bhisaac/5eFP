@@ -757,33 +757,27 @@ Whenever you successfully upgrade a Magic feature (i.e., "Magic I", "Magic II", 
 (Floating Section)
 
 # The 5eFP Framework
-5eFP games follow the same rules framework.
+5eFP games follow the same rules framework. Elements of a 5eFP game:
+- Fast Travel. Once a destination is set on the world map, the PCs instantly arrive at an unexplored map tile.
+- Recall. Once deployed, PCs may recall back to headquarters anytime by performing a special 1-minute ritual. Alternatively, PCs all recall back to HQ after 8 hours have elapsed. A PC may only recall once daily.
+- The beginning of a game session almost always begins at headquarters (HQ).
+- The end of a game session almost always ends at HQ.
+- Players play PCs who are part of an adventuring guild or organization that provides a job board.
 
 ## The World Map
-Choose one of two approaches:
-1. Gather and use a world map provided through a boxed game or
-2. Create a custom map
+Map size: 14 squares by 14 squares
+Scale: 1 square equals 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters
+Contains: (9) 2x2 world map tiles for each cardinal direction, (3) 2x2 world map tiles for each ordinal (hybrid) direction, and (1) 2x2 HQ tile
 
-### Custom World Map
-- Map size: 14 squares by 14 squares
-- 1 square equals 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters
-- Players should be able to place a token the size of a poker chip within a world map tile without overlaping other chips or crossing over other world map tiles.
-- Contains: (9) 2x2 world map tiles for each cardinal direction, (3) 2x2 world map tiles for each ordinal (hybrid) direciton, and (1) 2x2 HQ tile
-- Draw clear boundaries around each world map tile (create a grid). Hybrid tiles: draw a dashed diagonal line from one corner of a the world map tile to its opposite corner in a color that will stand out. This dashed line represents the highway. World map tiles containing a highway are considered hybrid. While exploring hybrid tiles, players draw and play story cards from both adjacent story directions at the same time. Roads are hybrid world map tiles. They contain equal portions of both adjacent story directions.
+Draw clear boundaries around each world map tile (use a grid). Hybrid tiles: draw a dashed diagonal line from one corner of the world map tile to its opposite corner in a color that will stand out. This dashed line represents the highway. World map tiles containing a highway are considered hybrid. While exploring hybrid tiles, players draw and play story cards from both adjacent story directions simultaneously. Roads are hybrid world map tiles. They contain equal portions of both adjacent story directions.
 
-Create your world map, making sure to leave one 2x2 world map square blank at the center of the map for the HQ tile.
+The world map begins obscured. After choosing or creating the world map, place obscuring world map tiles over it. The nature of this obscurity is detailed in your setting handbook. The HQ (headquarters) tile is the only tile that is not obscured at the beginning of the game. The HQ tile is placed at the map's center position. Obscuring world map tiles are removed whenever the PCs explore the world map tile it obscures. The following procedure must be completed to explore a world map tile:
 
-Your map needs to be detailed and simplistic. Try to keep illustrations simple, consistent, and easily repeatable. Everyone should be able to see them and recognize what they are at a glance.
+- Explore 55% or more of the map.
+- Find and resolve 3 footholds.
+- Locate an item or perform an action according to the setting handbook.
 
-> >Running 5eFP with commonly available game tools:
-> > >1. Use six sided dice as if they were action dice. Six sided dice are easy to buy at your local grocery store. Treat a die roll of 1 as one action (1 bolt) and a result of 6 as two actions (2 bolts). All other results are blank.
-> > >2. Use four different poker decks with unique card back artwork for each story cardinal direction. At least two varieties of poker decks are easy to buy at your local grocery store. Create an encounter table describing 52 story card encounters for each cardinal direciton. Each result has a corresponding poker symbol and value. Jokers are shuffled into the decks. Jokers add a story card from the story deck located in the opposite cardinal direciton. For example, if you draw a story card from the NORTH deck and you draw a joker, you discard the joker and replace it with the top story card from the SOUTH deck.
-> > >3. Use 52 small coins or life counters in a bowl (all one color) to represent the wound deck. When PCs recieve 1 or more points of damage that cannot be prevented, they draw that many wounds from the coin/counter bowl and place them in a visible spot within their play area. All players should be able to glance at a player's play area and know how many wounds they have at all times. When PCs recieve 1 or more points of healing, they may return 1 wound back to the bowl of small coins or life counters.
-> > >4. Use a larger coin to represent 5eFP Coin. Put a pool of 15 larger coins into a bowl. When PCs gain a Coin, they draw a larger coin from the Coin bowl and place it in thier play area. Players should be able to see the number of Coin a player has at all times. When PCs spend 1 or more Coin, they return that many larger coins from their play area to the Coin bowl.
-> > >5. Create your maps on measured and cut foamboard. Try to use scrap parts to create other game props such as the HQ tile or 2x2 obscuring world map tiles. Create (48) 2x2 obscuring world map tiles. You can paint these black or use a black marker, or use black foamboard.
-> > >6. Use poker chips for PC and creature tokens. Collect five sets of different colored poker chips (look for a rainbow color scheme) containing 24 chips each. Buy a sticker book with 1.5 inch (about 3.8 centimeters) diameter colored dots with the same or similar rainbow color scheme. Affix the stickers of the chosen color onto the front and back side of your PC's poker chip. Gather the 24 pocker chips matching your PC's color. Reserve a number of colored poker chips equal your character's speed in your playing area. Set aside the remaining colored chips. Whenever your PC moves, you use these colored poker chips to trace your movement.
-
-The world map begins obscured. After tracing the world map, place obscuring world map tiles over it. The nature of this obscurity is detailed in your setting handbook. The HQ tile is the only tile that is not obscured at the begining of the game. The HQ tile is placed at the map's center position. Obscuring world map tiles are removed whenever the PCs explore the world map tile it obscures. The following procedure must be completed in order to explore a world map tile:
+The world map begins obscured. After tracing the world map, place obscuring world map tiles over it. The nature of this obscurity is detailed in your setting handbook. The HQ tile is the only tile that is not obscured at the beginning of the game. The HQ tile is placed at the map's center position. Obscuring world map tiles are removed whenever the PCs explore the world map tile it obscures. The following procedure must be completed to explore a world map tile:
 
 1. **Preview.** Druids and rangers recieve a special bonus round. Each druid and ranger PC, in turn, may choose one unexplored world map tile within the current level of play and preview it's terrain by temporarily removing its obscuring world map tile. Once finished, the player then returns the obscuring world map tile back to its original position.
 2. **Selection.** The PCs choose a cardinal or ordinal direction and trace a path from the HQ tile along the map until an obscured world map tile is encountered within the current level of play. This becomes the selected world map tile.
