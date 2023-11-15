@@ -765,9 +765,9 @@ Whenever you successfully upgrade a Magic feature (i.e., "Magic I", "Magic II", 
 - Players play PCs who are part of an adventuring guild or organization that provides a job board.
 
 ## The World Map
-Map size: 14 squares by 14 squares
-Scale: 1 square equals 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters
-Contains: (9) 2x2 world map tiles for each cardinal direction, (3) 2x2 world map tiles for each ordinal (hybrid) direction, and (1) 2x2 HQ tile
+- Map size: 14 squares by 14 squares
+- Scale: 1 square equals 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters
+- Contains: (9) 2x2 world map tiles for each cardinal direction, (3) 2x2 world map tiles for each ordinal (hybrid) direction, and (1) 2x2 HQ tile
 
 Draw clear boundaries around each world map tile (use a grid). Hybrid tiles: draw a dashed diagonal line from one corner of the world map tile to its opposite corner in a color that will stand out. This dashed line represents the highway. World map tiles containing a highway are considered hybrid. While exploring hybrid tiles, players draw and play story cards from both adjacent story directions simultaneously. Roads are hybrid world map tiles. They contain equal portions of both adjacent story directions.
 
