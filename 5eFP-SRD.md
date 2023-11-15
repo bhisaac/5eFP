@@ -766,20 +766,38 @@ The beings that serve as patrons for warlocks are mighty inhabitants of other pl
 Some patrons collect warlocks, doling out mystic knowledge relatively freely or boasting of their ability to bind mortals to their will. Other patrons bestow their power only grudgingly, and might make a pact with only one warlock. Warlocks who serve the same patron might view each other as allies, siblings, or rivals.
 
 ### The Elemental
-You have made a pact with an elemental from within the Primordial Chaos, the home plane of existence for all elementals. Your elemental patron is strictly neutral in outlook and temperament swayed by their attunement to a particular element. Earth elemental tends to be steady, tenacious, and indomitable. Water elementals tend to be flexible and aware. Fire elementals tend to be activating, charged, and focused. Air elementals tend to be expansive and mobile. Elementals rarely involve themselves in mortal affairs or circumstances unless the elemental balance is threatened in some way. Such beings desire the propagation of their particular element and elemental outlook upon the prime material plane through you, their chosen vessel. Elementals powerful enough to forge a pact include genies and djin including Dao (earth), Djinni (air), Efreeti (fire), Marid (water), and Primordials including Phoneix (fire), Leviathan (water), Zaratan (earth), Elder Tempest (air).
+You have made a pact with an elemental from within the Primordial Chaos, the home plane of existence for all elementals. Your elemental patron is strictly neutral in outlook and temperament, swayed by their attunement to a particular element. Earth elementals tend to be steady, tenacious, and indomitable. Water elementals tend to be flexible and aware. Fire elementals tend to be activating, charged, and focused. Air elementals tend to be expansive and mobile. Elementals rarely involve themselves in mortal affairs or circumstances unless the elemental balance is threatened somehow. Such beings desire the propagation of their particular element and elemental outlook upon the prime material plane through you, their chosen vessel. Elementals powerful enough to forge a pact include genies and djin, including Dao (earth), Djinni (air), Efreeti (fire), Marid (water), and Primordials, including Phoneix (fire), Leviathan (water), Zaratan (earth), and Elder Tempest (air).
 
 ## Expanded Spell List
-The Elemental lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you, depending on your patron's elemental attunement.
+The Elemental lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you, depending on your patron's elemental attunement. If a spell is limited in any way, the limitation is listed in parenthesis after the spell name.
 
-Earth Expanded Spells
+**Earth Expanded Spells**
 |||
 |:-:|:-:|
 |Spell Level|Spells|
 |1st|Jump, Longstrider|
-|2nd|Enlarge/Reduce, Hold Person|
-|3rd|Slow, Tiny Hut|
-|4th|Conjure Minor Elementals, Stoneskin|
+|2nd|Enlarge/Reduce, Acid Arrow|
+|3rd|Slow, Meld into Stone|
+|4th|Conjure Minor Elementals (earth), Stoneskin|
+|5th|Conjure Elemental (earth), Hold Monster|
+|6th|Flesh to Stone, Move Earth|
+|7th|Magnificent Mansion, Force Cage|
+|8th|Antimagic Field, Earthquake|
+|9th|Time Stop, Gate (primordial chaos)|
+
+**Water Expanded Spells**
 |||
+|:-:|:-:|
+|Spell Level|Spells|
+|1st|Create or Destroy Water, Fog Cloud|
+|2nd|Alter Self, Enhance Ability|
+|3rd|Create Food and Water, Water Walk|
+|4th|Conjure Minor Elementals (water), Control Water|
+|5th|Conjure Elemental (water), Cone of Cold|
+|6th|Freezing Sphere, Find the Path|
+|7th|--, --|
+|8th|--, --|
+|9th|--, Gate (primordial chaos)|
 
 
 ---
