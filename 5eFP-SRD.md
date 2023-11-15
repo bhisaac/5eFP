@@ -10,7 +10,7 @@ Certain features and affects in the game allow you to divide a number by half or
 The description of each species includes species traits that are common to members of that species. The following entries appear among the traits of most species.
 
 ### Ability Score Increase
-Every species increases one character’s ability score by +1. Most species also grant an additional improved ability score that gains an additional +1 if you assign a +1 or +2 to the listed ability score during character creation.
+Every species increases one character’s ability score by +1. Most species also grant another improved ability score that gains an additional +1 if you assign a +1 or +2 to the listed ability score during character creation.
 
 ### Age
 The age entry notes the age when a member of the species is considered an adult, as well as the species’ expected lifespan. This information can help you decide how old your character is at the start of the game. You can choose any age for your character, which could provide an explanation for some of your ability scores. For example, if you play a young or very old character, your age could explain a particularly low Strength or Constitution score, while advanced age could account for a high Intelligence or Wisdom.
