@@ -374,7 +374,7 @@ As a druid, you gain the following class features.
 
 **Saving Throws:** Intelligence, Wisdom
 
-**Skills:** Choose one from Insight, Medicine, Perception, Performance, and Survival
+**Skills:** Choose	any two skills
 
 #### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
@@ -612,9 +612,7 @@ You	start	with	the	following	equipment,	in	addition	to	the	equipment	granted	by	
 - (a)	Leather	armor,	two	daggers,	and	thieves’	tools
 
 ### Expertise
-When you gain this feature, choose	two	of	your	skill	proficiencies,	or	one	of	your	skill	proficiencies	and	your	proficiency	with	thieves’	tools.	Increase your	bonus	by +1 for	the	chosen	proficiencies.
-
-Whenever an upgrade increases either of the choosen proficiencies' bonus, increase the bonus by an additional +1. 
+When you gain this feature, choose	two	of	your	skill	proficiencies,	or	one	of	your	skill	proficiencies	and	your	proficiency	with	thieves’	tools.	As long as the chosen proficiencies or tools do not already have expertise, you gain expertise in the chosen skills or tools. (Expertise allows you to add your level to your bonus twice.) 
 
 ### Sneak Attack
 You	know	how	to	strike	subtly	and	exploit	a	foe’s	distraction.	Once	per	turn,	you	can	deal	an	extra	+1 damage	to	one	creature	you	hit	with	an	attack	if	you	have advantage	on	the	attack	roll.	The	attack	must	use	a	finesse	or	a	ranged weapon.
