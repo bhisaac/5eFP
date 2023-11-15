@@ -732,9 +732,9 @@ You	start	with	the	following	equipment,	in	addition to	the	equipment	granted	by	
 - Leather	armor,	any	simple	weapon,	and	two daggers
 
 ### Otherworldly Patron
-You	have	struck	a	bargain	with	an otherworldly	being	of	your	choice:	the	Archfey,	the	Elemental, or the Raven,	each	of	which	is	detailed	at	the	end	of	the	class	description.	Your	choice	grants	you	features.
+You	have	struck	a	bargain	with	an otherworldly	being	of	your	choice:	the	Archfey,	the	Shadow, or the Light,	each	of	which	is	detailed	at	the	end	of	the	class	description.	Your	choice	grants	you	features.
 
-(The Raven replaces the Elder Gods, and the Elemental replaces the Fiend.) 
+(Shadow and Light replace the Elder Gods and Fiend.)
 
 ### Pact Magic
 Your	arcane	research	and	the	magic	bestowed	on you	by	your	patron	have	given	you	facility	with spells.
