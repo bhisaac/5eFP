@@ -467,7 +467,7 @@ You	have	a	limited	well	of	stamina	that	you	can	draw	on	to	protect	yourself	from
 As	a	monk,	you	gain	the	following	class	features.
 
 ### Health
-**MAX Wounds:** 4 + CON
+**MAX Wounds:** 5 + CON
 
 ### Proficiencies
 **Armor:** None
@@ -499,14 +499,14 @@ You	gain	the	following	benefits	while	you	are	unarmed	or	wielding	only	monk	weap
 - Your unarmed attacks deal 1 point of bludgeoning damage.
 - When	you	use	the	Attack	action	with	an	unarmed strike	or	a	monk	weapon	on	your	turn,	you	can make	one	unarmed	strike	as	a	bonus	action.	For	example,	if	you	take	the Attack	action	and	attack with	a	quarterstaff,	you can	also	make	an	unarmed	strike	as	a	bonus	action,	assuming	you	haven’t already	taken	a	bonus	action	this	turn.
 
-Certain	monasteries	use	specialized	forms	of	the monk	weapons.	For	example,	you	might	use	a	club that	is	two	lengths	of	wood	connected	by	a	short chain	(called	a	nunchaku)	or	a	sickle	with	a	shorter, straighter	blade	(called	a	kama).	Whatever	name	you use	for	a	monk	weapon,	you	can	use	the	game	statistics	provided	for	the	weapon.
+Certain	monasteries	use	specialized	forms	of	monk	weapons.	For	example,	you	might	use	a	club that	is	two	lengths	of	wood	connected	by	a	short chain	(called	a	nunchaku)	or	a	sickle	with	a	shorter, straighter	blade	(called	a	kama).	Whatever	name	you use	for	a	monk	weapon,	you	can	use	the	game	statistics	provided	for	the	weapon.
 
 ## Paladin
 ### Class Features
 As	a	paladin,	you	gain	the	following	class	features.
 
 ### Health
-**MAX Wounds:** 5 + CON
+**MAX Wounds:** 4 + CON
 
 ### Proficiencies
 **Armor:** All armor, shields
@@ -528,7 +528,7 @@ You	start	with	the	following	equipment,	in	addition	to	the	equipment	granted	by	
 - Chain	mail	and	a	holy	symbol
 
 ### Divine Sense
-The	presence	of	strong	evil	registers	on	your	senses like	a	noxious	odor,	and	powerful	good	rings	like heavenly	music	in	your	ears.	As	an	action,	you	can open	your awareness	to	detect	such	forces.	Until	the end	of	your	next	turn,	you	know	the	location	of	any celestial,	fiend,	or	undead	within	60	feet	of	you	that is	not	behind	total	cover.	You	know	the	type	(celestial,	fiend,	or	undead)	of	any	being	whose	presence	you	sense,	but	not	its	identity	(the	vampire	Count	Strahd	von	Zarovich,	for	instance).	Within	the same	radius,	you	also	detect	the	presence	of	any	place	or	object	that	has	been	consecrated	or	desecrated,	as	with	the	hallow spell.
+The	presence	of	strong	evil	registers	on	your	senses like	a	noxious	odor,	and	powerful	good	rings	like heavenly	music	in	your	ears.	As	an	action,	you	can open	your awareness	to	detect	such	forces.	Until	the end	of	your	next	turn,	you	know	the	location	of	any celestial,	fiend,	or	undead	within	12 squares	of	you	that is	not	behind	total	cover.	You	know	the	type	(celestial,	fiend,	or	undead)	of	any	being	whose	presence	you	sense,	but	not	its	identity	(the	vampire	Count	Strahd	von	Zarovich,	for	instance).	Within	the same	radius,	you	also	detect	the	presence	of	any	place	or	object	that	has	been	consecrated	or	desecrated,	as	with	the	hallow spell.
 
 You	can	use	this	feature	a	number	of	times	equal to	1	+	CHA.	You	regain	all	expended	uses whenever you return to HQ.
 
