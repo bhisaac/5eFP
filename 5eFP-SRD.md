@@ -397,7 +397,7 @@ You begin the game with two 1st level spell slots. To cast one of your spells, y
 
 You prepare the list of druid spells that are available for you to cast, choosing from the druid spell list. When you do so, choose a number of druid spells equal to WIS + your level (minimum of one spell). The spells must be of a level for which you have spell slots.
 
-You can change your list of prepared spells at HQ. While away from HQ, you can prepare a new list of cleric spells by completing a short rest in prayer and meditation.
+You can change your list of prepared spells at HQ. While away from HQ, you can prepare a new list of cleric spells by completing a short rest in prayer or meditation.
 
 #### Spellcasting Ability
 Wisdom is your spellcasting ability for your druid spells, since your magic draws upon your devotion and attunement to nature. You use your Wisdom whenever a druid spell refers to your spellcasting ability. In addition, you use WIS when setting the saving throw DC for a druid spell you cast and when making an attack roll with one.
