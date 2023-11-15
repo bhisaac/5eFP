@@ -192,13 +192,13 @@ Choose and place each score as desired. Two ability scores represent advanced ab
 **MAX Wounds:** 6 + Constitution (CON)
 
 #### Proficiencies
-**Abilities:** Strength (STR), CON
-
 **Armor:** Light armor, medium armor, shields
 
 **Weapons:** Simple weapons, martial weapons
 
 **Tools:** None
+
+**Abilities:** Strength (STR), CON
 
 **Skills:** Choose one from Perception, Performance, and Survival
 
@@ -231,13 +231,13 @@ While you are not wearing armor, add CON (minimum +0) to your Armor Class. You c
 **MAX Wounds:** 4 + Constitution (CON)
 
 #### Proficiencies
-**Abilities:** Dexterity (DEX), Charisma (CHA)
-
 **Armor:** Light armor
 
 **Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords
 
 **Tools:** Three musical instruments of your choice
+
+**Abilities:** Dexterity (DEX), Charisma (CHA)
 
 **Skills:** Choose any two skills
 
@@ -292,13 +292,13 @@ As a cleric, you gain the following class features.
 **MAX Wounds:** 4 + Constitution (CON)
 
 #### Proficiencies
-**Abilities:** Wisdom (WIS), Charisma (CHA)
-
 **Armor:** Light armor, medium armor, shields
 
 **Weapons:** Simple weapons
 
 **Tools:** None
+
+**Abilities:** Wisdom (WIS), Charisma (CHA)
 
 **Skills:** Choose one from Insight, Medicine, and Performance
 
@@ -366,13 +366,13 @@ As a druid, you gain the following class features.
 **MAX Wounds:** 3 + Constitution (CON)
 
 #### Proficiencies
-**Abilities:** Intelligence (INT), Wisdom (WIS)
-
 **Armor:** Light armor, medium armor, shields (druids will not wear armor or use shields made of metal)
 
 **Weapons:** Clubs, daggers, darts, javelins, maces, quarterstaffs, scimitars, sickles, slings, spears
 
 **Tools:** Herbalism kit
+
+**Abilities:** Intelligence (INT), Wisdom (WIS)
 
 **Skills:** Choose	any two skills
 
@@ -420,13 +420,13 @@ As	a	fighter,	you	gain	the	following	class	features.
 **MAX Wounds:** 5 + Constitution (CON)
 
 #### Proficiencies
-**Abilities:** Strength (STR), CON
-
 **Armor:** All	armor,	shields
 
 **Weapons:** Simple	weapons,	martial	weapons
 
 **Tools:** None
+
+**Abilities:** Strength (STR), CON
 
 **Skills:** Choose one from Insight, Performance, and Survival
 
@@ -470,14 +470,14 @@ As	a	monk,	you	gain	the	following	class	features.
 **MAX Wounds:** 5 + Constitution (CON)
 
 ### Proficiencies
-**Abilities:** Strength (STR), Dexterity (DEX)
-
 **Armor:** None
 
 **Weapons:** Simple	weapons,	shortswords
 
 **Tools:** Choose	one	type	of	artisan’s	tools	or	one	
 musical	instrument
+
+**Abilities:** Strength (STR), Dexterity (DEX)
 
 **Skills:** Choose one from Insight or Performance
 
@@ -509,13 +509,13 @@ As	a	paladin,	you	gain	the	following	class	features.
 **MAX Wounds:** 4 + Constitution (CON)
 
 ### Proficiencies
-**Abilities:** Wisdom (WIS), Charisma (CHA)
-
 **Armor:** All armor, shields
 
 **Weapons:** Simple	weapons,	martial	weapons
 
 **Tools:** None
+
+**Abilities:** Wisdom (WIS), Charisma (CHA)
 
 **Skills:** Choose one from Insight, Medicine, Performance
 
@@ -549,13 +549,13 @@ As	a	ranger,	you	gain	the	following	class	features.
 **MAX Wounds:** 4 + Constitution (CON)
 
 ### Proficiencies
-**Abilities:** Strength (STR), Dexterity (DEX)
-
 **Armor:** Light	armor,	medium	armor,	shields
 
 **Weapons:** Simple	weapons,	martial	weapons
 
 **Tools:** None
+
+**Abilities:** Strength (STR), Dexterity (DEX)
 
 **Skills:** Choose one from Insight, Perception, Performance, or Survival
 
@@ -593,13 +593,13 @@ As	a	rogue,	you	have	the following	class	features.
 **MAX Wounds:** 4 + Constitution (CON)
 
 ### Proficiencies
-**Abilities:** Dexterity (DEX), Intelligence (INT)
-
 **Armor:** Light	armor
 
 **Weapons:** Simple	weapons,	hand	crossbows, longswords,	rapiers,	shortswords
 
 **Tools:**	Thieves’	tools
+
+**Abilities:** Dexterity (DEX), Intelligence (INT)
 
 **Skills:**	Choose	any two skills
 
@@ -632,13 +632,13 @@ As	a	sorcerer,	you	gain	the	following	class	features.
 **MAX Wounds:** 3 + Constitution (CON)
 
 ### Proficiencies
-**Abilities:** CON, Charisma (CHA)
-
 **Armor:**	None
 
 **Weapons:** Daggers,	darts,	slings,	quarterstaffs,	light	crossbows
 
 **Tools:**	None
+
+**Abilities:** CON, Charisma (CHA)
 
 **Skills:** Choose	one	from	Insight or	Performance
 
