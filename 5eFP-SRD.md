@@ -732,9 +732,7 @@ You	start	with	the	following	equipment,	in	addition to	the	equipment	granted	by	
 - Leather	armor,	any	simple	weapon,	and	two daggers
 
 ### Otherworldly Patron
-You	have	struck	a	bargain	with	an otherworldly	being	of	your	choice:	the	Archfey,	the	Blade, or the Celestial,	each	of	which	is	detailed	at	the	end	of	the	class	description.	Your	choice	grants	you	features.
-
-(The Blade and Celestial replace the Outer Gods and Fiend. These entities are classic choices for warlock, but they're just too dark and evil for 5eFP gameplay. Players who wish to explore a darker theme should look into the Blade otherworldly patron or choose an Archfey from the winter court.)
+You	have	struck	a	bargain	with	an otherworldly	being	of	your	choice:	the	Archfey,	the	Elemental, or the Celestial,	each	of	which	is	detailed	at	the	end	of	the	class	description.	Your	choice	grants	you	features.
 
 ### Pact Magic
 Your	arcane	research	and	the	magic	bestowed	on you	by	your	patron	have	given	you	facility	with spells.
@@ -751,6 +749,38 @@ For	example,	if	you	know	the	1st-level	spell	burning	hands and	have	a	1st-level	
 You know two 1st-level spells of your choice from the warlock spell list.
 
 Whenever you successfully upgrade a Magic feature (i.e., "Magic I", "Magic II", "Magic III", etc.), you can choose one of the warlock spells you know and replace it with another spell from the warlock spell list, which also must be of a level for which you have spell slots.
+
+### Spellcasting Ability
+Charisma is your spellcasting ability for your warlock spells,	so you use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your CHA when setting the saving throw DC for a warlock spell you cast and when making an attack roll with one.
+
+**Spell save DC** = 10 + CHA
+
+**Spell attack modifier** = 2 + CHA
+
+### Spellcasting Focus
+You	can	use	an	arcane focus	as	a	spellcasting	focus for	your	warlock	spells.
+
+## Otherworldly Patrons
+The beings that serve as patrons for warlocks are mighty inhabitants of other planes of existence—not gods, but almost godlike in their power. Various patrons give their warlocks access to different powers and invocations, and expect significant favors in return.
+
+Some patrons collect warlocks, doling out mystic knowledge relatively freely or boasting of their ability to bind mortals to their will. Other patrons bestow their power only grudgingly, and might make a pact with only one warlock. Warlocks who serve the same patron might view each other as allies, siblings, or rivals.
+
+### The Elemental
+You have made a pact with an elemental from within the Primordial Chaos, the home plane of existence for all elementals. Your elemental patron is strictly neutral in outlook and temperament swayed by their attunement to a particular element. Earth elemental tends to be steady, tenacious, and indomitable. Water elementals tend to be flexible and aware. Fire elementals tend to be activating, charged, and focused. Air elementals tend to be expansive and mobile. Elementals rarely involve themselves in mortal affairs or circumstances unless the elemental balance is threatened in some way. Such beings desire the propagation of their particular element and elemental outlook upon the prime material plane through you, their chosen vessel. Elementals powerful enough to forge a pact include genies and djin including Dao (earth), Djinni (air), Efreeti (fire), Marid (water), and Primordials including Phoneix (fire), Leviathan (water), Zaratan (earth), Elder Tempest (air).
+
+## Expanded Spell List
+The Elemental lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you, depending on your patron's elemental attunement.
+
+Earth Expanded Spells
+|||
+|:-:|:-:|
+|Spell Level|Spells|
+|1st|Jump, Longstrider|
+|2nd|Enlarge/Reduce, Hold Person|
+|3rd|Slow, Tiny Hut|
+|4th|Conjure Minor Elementals, Stoneskin|
+|||
+
 
 ---
 
