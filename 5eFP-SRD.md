@@ -110,9 +110,9 @@ As a wealden elf, you have deep awareness and intuition, and your attunement to 
 
 **Elf Weapon Training.** You have proficiency with the longsword, shortsword, shortbow, and longbow.
 
-**Expeditious.** Your base speed increases by +1 square while traveling through natural terrain.
+**Expeditious.** Your base speed increases by +1 square while traveling through squares that include natural terrain (forest, plains, swamp, hills, highland, mountains, arctic, tundra, desert, badlands, sea, ocean, (others?)).
 
-**Naturemeld.** You have advantage on Performance checks to hide and move silently while in natural terrain.
+**Naturemeld.** You have advantage on Performance checks to hide and move silently while standing on a square that includes natural terrain.
 
 ## Halfling
 ### Halfling Traits
