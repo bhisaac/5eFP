@@ -34,7 +34,7 @@ Some species have one or more varieties. Each variety has the traits of the pare
 ### Dwarf Traits
 Your dwarf character has an assortment of inborn abilities, part and parcel of dwarven nature.
 
-**Ability Score Increase.** Your Constitution score increases by +1.
+**Ability Score Increase.** Your Constitution (CON) score increases by +1.
 
 **Age.** Dwarves mature at the same rate as humans, but they’re considered young until they reach the age of 50. On average, they live about 350 years.
 
@@ -59,14 +59,14 @@ Your dwarf character has an assortment of inborn abilities, part and parcel of d
 ### Hill Dwarf
 As a hill dwarf, you have keen senses, deep intuition, and remarkable resilience.
 
-**Ability Score Increase.** If you assign a +1 or +2 to your Wisdom score during character creation, increase your Wisdom score by an additional +1.
+**Ability Score Increase.** If you assign a +1 or +2 to your Wisdom score (WIS) during character creation, increase your WIS by an additional +1.
 
 **Dwarven Toughness**. Your MAX wounds increase by +1.
 
 ### Highlander Dwarf
 As a highlander dwarf, you are accustomed to rugged living at high altitudes and within mountain dwellings.
 
-**Ability Score Increase.** If you assign a +1 or +2 to your Strength score during character creation, increase your Strength score by an additional +1.
+**Ability Score Increase.** If you assign a +1 or +2 to your Strength score (STR) during character creation, increase your STR by an additional +1.
 
 **Dwarven Armor Training.** You gain light and medium armor proficiency.
 
@@ -74,7 +74,7 @@ As a highlander dwarf, you are accustomed to rugged living at high altitudes and
 ### Elf Traits
 Your elf character has a variety of natural abilities, a result of thousands of years of elven refinement.
 
-**Ability Score Increase.** Your Dexterity score increases by +1.
+**Ability Score Increase.** Your Dexterity score (DEX) increases by +1.
 
 **Age.** Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old.
 
@@ -95,18 +95,18 @@ Your elf character has a variety of natural abilities, a result of thousands of 
 ### High Elf
 As a high elf, you have strong ties to nature and magic. In many fantasy gaming worlds, there are two kinds of high elves. One type is haughty and reclusive, believing themselves to be superior to non-elves and even other elves. The other type is more common and more friendly, and often encountered among humans and other species.
 
-**Ability Score Increase.** If you assign a +1 or +2 to your Intelligence score during character creation, increase your Intelligence score by an additional +1.
+**Ability Score Increase.** If you assign a +1 or +2 to your Intelligence score (INT) during character creation, increase your INT by an additional +1.
 
 **Elf Weapon Training.** You have proficiency with the longsword, shortsword, shortbow, and longbow.
 
 **Magical Attunement.** Choose and gain one species trait:
-- **Arcane.** You know one cantrip of your choice from the wizard spell list. Intellignece is your spellcasting ability for it. You can also speak, read, and write one extra language of your choice.
+- **Arcane.** You know one cantrip of your choice from the wizard spell list. INT is your spellcasting ability for it. You can also speak, read, and write one extra language of your choice.
 - **Feywild.** You can cast the *misty step* spell once using this trait. You regain the ability to do so when you finish a short or long rest.
 
 ### Wealden Elf
 As a wealden elf, you have deep awareness and intuition, and your attunement to nature carries you quickly and stealthily through natural terrain. Wealden elves tend to be reclusive and distrusting of non-elves.
 
-**Ability Score Increase.** If you assign a +1 or +2 to your Wisdom score during character creation, increase your Wisdom score by an additional +1.
+**Ability Score Increase.** If you assign a +1 or +2 to your Wisdom score (WIS) during character creation, increase your WIS by an additional +1.
 
 **Elf Weapon Training.** You have proficiency with the longsword, shortsword, shortbow, and longbow.
 
@@ -118,7 +118,7 @@ As a wealden elf, you have deep awareness and intuition, and your attunement to 
 ### Halfling Traits
 Your halfling character has a number of traits in common with all other halflings.
 
-**Ability Score Increase.** Your Dexterity score increases by +1.
+**Ability Score Increase.** Your Dexterity score (DEX) increases by +1.
 
 **Age.** A halfling reaches adulthood at the age of 20 and generally lives into the middle of his or her second century.
 
@@ -141,14 +141,14 @@ As a lightfoot halfling, you can easily hide from notice, even using other peopl
 
 Lightfoots are more prone to wanderlust than other halflings, and often dwell alongside other species or take up a nomadic life.
 
-**Ability Score Increase.** If you assign a +1 or +2 to your Charisma score during character creation, increase your Charisma score by an additional +1.
+**Ability Score Increase.** If you assign a +1 or +2 to your Charisma score (CHA) during character creation, increase your CHA by an additional +1.
 
 **Naturally Stealthy.** You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you.
 
 ### Hardy
 Hardy halflings are tougher than average, sharing similar characteristics with dwarves. Their tribes can be found in remote areas or near dwarven clans, though some do make their way to civilized lands.
 
-**Ability Score Increase.** If you assign a +1 or +2 to your Constitution score during character creation, increase your Constitution score by an additional +1.
+**Ability Score Increase.** If you assign a +1 or +2 to your Constitution score (CON) during character creation, increase your CON by an additional +1.
 
 **Resilience.** Choose and gain one species trait:
 - Your MAX wounds increases by +1.
@@ -239,7 +239,7 @@ While you are not wearing armor, add CON (minimum +0) to your Armor Class. You c
 
 **Tools:** Three musical instruments of your choice
 
-**Skills:** Choose one from Insight, Medicine, Perception, Performance, and Survival
+**Skills:** Choose any two skills
 
 #### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
@@ -265,7 +265,7 @@ You know four 1st-level spells of your choice from the bard spell list.
 Whenever you unlock a Magic feature (i.e., Magic I, Magic II, Magic III, etc.), you can choose one of the bard spells you know and replace it with another spell from the bard spell list, which also must be of a level for which you have spell slots.
 
 #### Spellcasting Ability
-Charisma is your spellcasting ability for your bard spells. Your magic comes from the heart and soul you pour into the performance of your music or oration. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your CHA when setting the saving throw DC for a bard spell you cast and when making an attack roll with one.
+Charisma (CHA) is your spellcasting ability for your bard spells. Your magic comes from the heart and soul you pour into the performance of your music or oration. You use your CHA whenever a spell refers to your spellcasting ability. In addition, you use your CHA when setting the saving throw DC for a bard spell you cast and when making an attack roll with one.
 
 **Spell save DC** = 10 + CHA
 
@@ -325,7 +325,7 @@ You prepare the list of cleric spells that are available for you to cast, choosi
 You can change your list of prepared spells at HQ. While away from HQ, you can prepare a new list of cleric spells by completing a short rest in prayer or meditation.
 
 #### Spellcasting Ability
-Wisdom is your spellcasting ability for your cleric spells. The power of your spells comes from your devotion to your deity. You use your Wisdom whenever a cleric spell refers to your spellcasting ability. In addition, you use WIS when setting the saving throw DC for a cleric spell you cast and when making an attack roll with one.
+Wisdom (WIS) is your spellcasting ability for your cleric spells. The power of your spells comes from your devotion to your deity. You use your WIS whenever a cleric spell refers to your spellcasting ability. In addition, you use WIS when setting the saving throw DC for a cleric spell you cast and when making an attack roll with one.
 
 **Spell save DC** = 10 + WIS
 
@@ -400,7 +400,7 @@ You prepare the list of druid spells that are available for you to cast, choosin
 You can change your list of prepared spells at HQ. While away from HQ, you can prepare a new list of cleric spells by completing a short rest in prayer or meditation.
 
 #### Spellcasting Ability
-Wisdom is your spellcasting ability for your druid spells, since your magic draws upon your devotion and attunement to nature. You use your Wisdom whenever a druid spell refers to your spellcasting ability. In addition, you use WIS when setting the saving throw DC for a druid spell you cast and when making an attack roll with one.
+Wisdom (WIS) is your spellcasting ability for your druid spells, since your magic draws upon your devotion and attunement to nature. You use your WIS whenever a druid spell refers to your spellcasting ability. In addition, you use WIS when setting the saving throw DC for a druid spell you cast and when making an attack roll with one.
 
 **Spell save DC** = 10 + WIS
 
@@ -451,13 +451,13 @@ While	you	are	wearing	armor,	you	gain	a	+1	bonus	to	AC.
 When	you	are	wielding	a	melee	weapon	in	one	hand and	no	other	weapons,	you	gain	a	+1	bonus	to	damage	dealt	with	that	weapon.
 
 #### Great Weapon Fighting
-Whenever you attack and miss with a melee weapon you are wielding with two hands, you may reroll the attack and must use the new roll. The	weapon	must	have	the	two-handed	or versatile	property	for	you	to	gain	this benefit.
+Whenever you attack and miss with a melee weapon you are wielding with two hands, you may reroll the attack once and must use the new roll. The	weapon	must	have	the	two-handed	or versatile	property	for	you	to	gain	this benefit.
 
 #### Protection
 When	a	creature	you	can	see	attacks	a	target	other	than	you	that	is	within	1 square	of	you,	you	can	use	your	reaction	to	impose	disadvantage	on	the attack roll.	You	must	be	wielding	a	shield.
 
 #### Two-Weapon Defense
-While you have a weapon equipped in both hands, you gain a +1 bonus to AC.
+While you have a weapon equipped in each hand, you gain a +1 bonus to AC.
 
 ### Second Wind
 You	have	a	limited	well	of	stamina	that	you	can	draw	on	to	protect	yourself	from	harm.	On	your	turn,	you	can	use	a	bonus	action	to heal 1 +	your fighter	level wounds.	Once	you	use	this	feature, you	must	finish	a	short or long rest	before	you	can use	it	again.
@@ -489,13 +489,13 @@ You start with the following equipment, in addition to the equipment granted by 
 - darts
 
 ### Unarmored Defense
-While	you	are	wearing	no	armor	and	not	wielding	a	shield,	your	AC	equals	10	+	DEX	+	WIS.
+While	you	are	wearing	no	armor	and	not	wielding	a	shield,	your	AC	equals	10	+	DEX	+	WISDOM (WIS).
 
 ### Martial Arts
 Your	practice	of	martial	arts	gives	you	mastery	of	combat	styles	that	use	unarmed	strikes	and	monk	weapons,	which	are	shortswords	and	any	simple	melee	weapons	that don’t	have	the	two-handed	or	heavy	property.
 
 You	gain	the	following	benefits	while	you	are	unarmed	or	wielding	only	monk	weapons	and	you	aren’t	wearing	armor	or	wielding	a	shield:
-- You	can	use	DEX	instead	of	STR	for	the attack	rolls	of	your	unarmed	strikes and	monk	weapons.
+- You	can	use	DEX	instead	of	Strength (STR)	for	the attack	rolls	of	your	unarmed	strikes and	monk	weapons.
 - Your unarmed attacks deal 1 point of bludgeoning damage.
 - When	you	use	the	Attack	action	with	an	unarmed strike	or	a	monk	weapon	on	your	turn,	you	can make	one	unarmed	strike	as	a	bonus	action.	For	example,	if	you	take	the Attack	action	and	attack with	a	quarterstaff,	you can	also	make	an	unarmed	strike	as	a	bonus	action,	assuming	you	haven’t already	taken	a	bonus	action	this	turn.
 
@@ -530,7 +530,7 @@ You	start	with	the	following	equipment,	in	addition	to	the	equipment	granted	by	
 ### Divine Sense
 The	presence	of	strong	evil	registers	on	your	senses like	a	noxious	odor,	and	powerful	good	rings	like heavenly	music	in	your	ears.	As	an	action,	you	can open	your awareness	to	detect	such	forces.	Until	the end	of	your	next	turn,	you	know	the	location	of	any celestial,	fiend,	or	undead	within	12 squares	of	you	that is	not	behind	total	cover.	You	know	the	type	(celestial,	fiend,	or	undead)	of	any	being	whose	presence	you	sense,	but	not	its	identity	(the	vampire	Count	Strahd	von	Zarovich,	for	instance).	Within	the same	radius,	you	also	detect	the	presence	of	any	place	or	object	that	has	been	consecrated	or	desecrated,	as	with	the	hallow spell.
 
-You	can	use	this	feature	a	number	of	times	equal to	1	+	CHA.	You	regain	all	expended	uses whenever you return to HQ.
+You	can	use	this	feature	a	number	of	times	equal to	1	+	CHA.	You	regain	all	expended	uses whenever you return to Headquarters (HQ).
 
 ### Lay on Hands
 Your	blessed	touch	can	heal	wounds.	You	have	a pool	of	healing	power	that	replenishes	when you return to HQ.	With	that	pool,	you	can	heal	a total	number	of	wounds equal	to	your	paladin	level	×	5.
@@ -667,7 +667,7 @@ You know two 1st-level spells of your choice from the sorcerer spell list.
 Whenever you successfully upgrade a Magic feature (i.e., "Magic I", "Magic II", "Magic III", etc.), you can choose one of the sorcerer spells you know and replace it with another spell from the sorcerer spell list, which also must be of a level for which you have spell slots.
 
 ### Spellcasting Ability
-Charisma is your spellcasting ability for your sorcerer spells,	since	the	power	of	your	magic	relies	on	your	ability	to	project	your	will	into	the	world. You use your CHA whenever a spell refers to your spellcasting ability. In addition, you use your CHA when setting the saving throw DC for a sorcerer spell you cast and when making an attack roll with one.
+Charisma (CHA) is your spellcasting ability for your sorcerer spells,	since	the	power	of	your	magic	relies	on	your	ability	to	project	your	will	into	the	world. You use your CHA whenever a spell refers to your spellcasting ability. In addition, you use your CHA when setting the saving throw DC for a sorcerer spell you cast and when making an attack roll with one.
 
 **Spell save DC** = 10 + CHA
 
@@ -754,7 +754,7 @@ You know two 1st-level spells of your choice from the warlock spell list.
 Whenever you successfully upgrade a Magic feature (i.e., "Magic I", "Magic II", "Magic III", etc.), you can choose one of the warlock spells you know and replace it with another spell from the warlock spell list, which also must be of a level for which you have spell slots.
 
 ### Spellcasting Ability
-Charisma is your spellcasting ability for your warlock spells,	so you use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your CHA when setting the saving throw DC for a warlock spell you cast and when making an attack roll with one.
+Charisma (CHA) is your spellcasting ability for your warlock spells,	so you use your CHA whenever a spell refers to your spellcasting ability. In addition, you use your CHA when setting the saving throw DC for a warlock spell you cast and when making an attack roll with one.
 
 **Spell save DC** = 10 + CHA
 
