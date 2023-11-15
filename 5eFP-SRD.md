@@ -61,14 +61,14 @@ As a hill dwarf, you have keen senses, deep intuition, and remarkable resilience
 
 **Ability Score Increase.** If you assign a +1 or +2 to your Wisdom score during character creation, increase your Wisdom score by an additional +1.
 
-**Dwarven Toughness**. Your MAX wounds increases by +1.
+**Dwarven Toughness**. Your MAX wounds increase by +1.
 
 ### Highlander Dwarf
 As a highlander dwarf, you are accustomed to rugged living at high altitudes and within mountain dwellings.
 
 **Ability Score Increase.** If you assign a +1 or +2 to your Strength score during character creation, increase your Strength score by an additional +1.
 
-**Dwarven Armor Training.** You gain proficiency with coth, leather, and chain armor.
+**Dwarven Armor Training.** You gain light and medium armor proficiency.
 
 ## Elf
 ### Elf Traits
