@@ -575,13 +575,13 @@ You	have	advantage	on	Survival	checks	to	track	your	favored	enemies,	as	well	as	
 When	you	gain	this	feature,	you	also	learn	one language	of	your	choice	that	is	spoken	by	your favored	enemies,	if	they	speak	one	at all.
 
 ### Natural Explorer
-You	are	particularly	familiar	with	one	type	of	natural environment	and	are	adept	at	traveling	and surviving	in	such	regions.	Choose	one	type	of	favored	terrain: arctic,	coast,	desert,	forest, grassland,	mountain,	or	swamp.	When	you	make	a skill	check	related	to	your	favored	terrain,	your	proficiency	bonus	is	doubled	if	you	are	using	a	skill	that	you’re	proficient	in.
+You	are	particularly	familiar	with	one	type	of	natural environment	and	are	adept	at	traveling	and surviving	in	such	regions.	Choose	one	type	of	favored	terrain: arctic,	coast,	desert,	forest, grassland,	mountain,	or	swamp.	While in your favored terrain, proficient skill checks	related	to	your	favored	terrain gain expertise. (Expertise allows you to add your level to your bonus twice.)
 
-While	traveling	~~for	an	hour	or	more~~	in	your	favored	terrain,	you	gain	the	following	benefits:
+While	traveling	in	your	favored	terrain,	you	gain	the	following	benefits:
 - Difficult	terrain	doesn’t	slow	your	group’s	travel.
 - Your	group	can’t	become	lost	except	by	magical means.
-- Even	when	you	are	engaged	in	another	activity while	traveling	(such	as	foraging,	navigating,	or tracking),	you	remain	alert	to	danger.
-- ~~If	you	are	traveling	alone,	you~~ Your group may	move	stealthily at	a	normal	pace.
+- Your	group always acts on the surprise round.
+- Your group may	move	stealthily at	a	normal	pace.
 - When	you	forage,	you	find	twice	as	much	food	as you	normally	would.
 - While	tracking	other	creatures,	you	also	learn their	exact	number,	their	sizes,	and	how	long	ago they	passed	through	the	area.
 
@@ -612,7 +612,7 @@ You	start	with	the	following	equipment,	in	addition	to	the	equipment	granted	by	
 - (a)	Leather	armor,	two	daggers,	and	thieves’	tools
 
 ### Expertise
-When you gain this feature, choose	two	of	your	skill	proficiencies,	or	one	of	your	skill	proficiencies	and	your	proficiency	with	thieves’	tools.	As long as the chosen proficiencies or tools do not already have expertise, you gain expertise in the chosen skills or tools. (Expertise allows you to add your level to your bonus twice.) 
+When you gain this feature, choose	two	of	your	skill	proficiencies,	or	one	of	your	skill	proficiencies	and	your	proficiency	with	thieves’	tools.	As long as the chosen proficiencies or tools do not already have expertise, you gain expertise in the chosen skills or tools. (Expertise allows you to add your level to your bonus twice.)
 
 ### Sneak Attack
 You	know	how	to	strike	subtly	and	exploit	a	foe’s	distraction.	Once	per	turn,	you	can	deal	an	extra	+1 damage	to	one	creature	you	hit	with	an	attack	if	you	have advantage	on	the	attack	roll.	The	attack	must	use	a	finesse	or	a	ranged weapon.
@@ -757,12 +757,12 @@ Whenever you successfully upgrade a Magic feature (i.e., "Magic I", "Magic II", 
 (Floating Section)
 
 # The 5eFP Framework
-5eFP games follow the same rules framework. Elements of a 5eFP game:
-- Fast Travel. Once a destination is set on the world map, the PCs instantly arrive at an unexplored map tile.
-- Recall. Once deployed, PCs may recall back to headquarters anytime by performing a special 1-minute ritual. Alternatively, PCs all recall back to HQ after 8 hours have elapsed. A PC may only recall once daily.
-- The beginning of a game session almost always begins at headquarters (HQ).
-- The end of a game session almost always ends at HQ.
-- Players play PCs who are part of an adventuring guild or organization that provides a job board.
+All 5eFP games follow the same rules framework.
+
+Elements of a 5eFP game:
+- **Fast Travel.** Once a destination is set on the world map, the PCs instantly arrive at an unexplored map tile.
+- **Recall.** Once deployed, PCs may recall back to headquarters anytime by performing a special 1-minute ritual. Alternatively, PCs all recall back to HQ after 8 hours have elapsed. A PC may only recall once daily.
+- **Headquarters (HQ).** The game has a centralized organization linking each PC to one another. Players almost always begin and end a game session at HQ.
 
 ## The World Map
 - Map size: 14 squares by 14 squares
@@ -777,22 +777,21 @@ The world map begins obscured. After choosing or creating the world map, place o
 - Find and resolve 3 footholds.
 - Locate an item or perform an action according to the setting handbook.
 
-The world map begins obscured. After tracing the world map, place obscuring world map tiles over it. The nature of this obscurity is detailed in your setting handbook. The HQ tile is the only tile that is not obscured at the beginning of the game. The HQ tile is placed at the map's center position. Obscuring world map tiles are removed whenever the PCs explore the world map tile it obscures. The following procedure must be completed to explore a world map tile:
-
-1. **Preview.** Druids and rangers recieve a special bonus round. Each druid and ranger PC, in turn, may choose one unexplored world map tile within the current level of play and preview it's terrain by temporarily removing its obscuring world map tile. Once finished, the player then returns the obscuring world map tile back to its original position.
-2. **Selection.** The PCs choose a cardinal or ordinal direction and trace a path from the HQ tile along the map until an obscured world map tile is encountered within the current level of play. This becomes the selected world map tile.
+Steps taken before deployment.
+1. **Preview.** Druids and rangers receive a special bonus round. Each druid and ranger PC, in initiative order, may choose one unexplored world map tile within the current level of play and preview its terrain by temporarily removing its obscuring world map tile. Once finished, the player then returns the obscuring world map tile back to its original position.
+2. **Selection.** The PCs, as a group, choose a cardinal or ordinal direction and trace a path from the HQ tile along the map until an obscured world map tile is encountered within the current level of play. This becomes the selected world map tile.
 3. **Prepare.** Players may choose to spend 1 round of preparation before deploying. See "Preparation."
-4. **Setup.** Place an empty (22 x 22) exploration map beside the world map. Roll a d20 twice. The first value represents the starting row. The second value represnets the starting column. Match the starting row and column to determine the starting position for the PCs.
-5. **Deploy.** The GM adds the starting map tile onto the exploration map at the starting position determined in the previous step, placing the party token onto it.
+4. **Setup.** Place an empty (22 x 22) exploration map beside the world map. Roll a d20 onto the exploration map before placing any tiles and note the location of where the dice lands. This determines the starting position for the PCs.
+5. **Deploy.** The GM reveals the starting map tile on the exploration map at the starting position determined in the previous step, placing the party token onto it.
 6. **Chooose Party Token Controller.** PCs appoint one player as the party token controller. This player can be the party leader, but this is not required. The PC with the most overland movement bonuses is typically the party token controller. Some background, species, and class features provide significant bonuses while controlling the party token during the exploration phase.
-7. **Move the party token.** The party token controller moves the token, lifting any obscuring tiles encountered along the way. Removing an obscuring tile may reveal one 5 potential world map features or footholds:
-    - A dungeon
-    - A creature (or creatures)
-    - A village
-    - A building
-    - A treasure
-    - A trap
-    - A setting handbook specific feature or item necessary for completion.
+7. **Move the party token.** The party token controller moves the token, lifting any obscuring tiles encountered along the way. Removing an obscuring tile may reveal one of several potential world map features called footholds:
+    - Dungeons
+    - Creatures
+    - Villages or settlements
+    - Buildings
+    - Treasures
+    - Traps
+    - Specific features or items necessary for completion as outlined in your setting handbook.
 
 # Exploration Map
 
