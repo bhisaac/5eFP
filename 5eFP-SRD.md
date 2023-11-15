@@ -546,7 +546,7 @@ This	feature	has	no	effect	on	undead	and constructs.
 As	a	ranger,	you	gain	the	following	class	features.
 
 ### Health
-**MAX Wounds:** 5 + CON
+**MAX Wounds:** 4 + CON
 
 ### Proficiencies
 **Armor:** Light	armor,	medium	armor,	shields
