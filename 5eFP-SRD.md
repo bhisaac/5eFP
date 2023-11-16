@@ -212,7 +212,7 @@ You start with the following equipment, in addition to the equipment granted by 
 In battle, you fight with primal ferocity. On your turn, you can enter a rage as a bonus action that lasts until the end of the encounter.
 
 While raging, you gain the following benefits if you aren’t wearing heavy armor:
-- You have advantage on Strength checks and Strength saving throws.
+- You have advantage on STR checks and STR saving throws.
 - Damage dealt to you by minions is reduced to 0.
 - You gain resistance to bludgeoning, piercing, and slashing damage (minimum 1).
  
@@ -223,7 +223,7 @@ Your rage ends early if you are knocked unconscious or if your turn ends and you
 Once you have raged twice, you must finish a long rest before you can rage again.
 
 ### Unarmored Defense
-While you are not wearing armor, add CON (minimum +0) to your Armor Class. You can use a shield and still gain this benefit.
+While you are not wearing armor, add CON (minimum +0) to your Armor Class (AC). You can use a shield and still gain this benefit.
 
 # Bard
 #### Class Features
@@ -645,7 +645,7 @@ As	a	sorcerer,	you	gain	the	following	class	features.
 ### Equipment
 You	start	with	the	following	equipment,	in	addition	to	the	equipment	granted	by	your	background:
 
-- (a)	a	light	crossbow	and	20	bolts	or	(b)	any	simple weapon
+- (a)	a	light	crossbow	and	bolts	or	(b)	any	simple weapon
 - (a)	a	component	pouch	or	(b)	an	arcane	focus
 - (a)	a	dungeoneer’s	pack	or	(b)	an	explorer’s	pack
 - Two	daggers
@@ -729,7 +729,7 @@ As	a	warlock,	you	gain	the	following	class	features.
 
 ### Equipment
 You	start	with	the	following	equipment,	in	addition to	the	equipment	granted	by	your	background:
-- (a)	a	light	crossbow and	20	bolts	or	(b)	any	simple weapon
+- (a)	a	light	crossbow and bolts	or	(b)	any	simple weapon
 - (a)	a	component	pouch	or	(b)	an	arcane	focus
 - (a)	a	scholar’s	pack	or	(b)	a	dungeoneer’s	pack
 - Leather	armor,	any	simple	weapon,	and	two daggers
