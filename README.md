@@ -5,7 +5,7 @@
 
 ### Playtest Material.
 
-_The content and game mechanics detailed within the 5eFP system reference document (SRD) are presented as a playtest for feedback and development purposes. These game mechanics are in draft form, usable in any d20 fifth edition campaign (5eFP also works with any game or game system), but not refined by final game development. These game mechanics are subject to change as needed, according to feedback provided by 5eFP contributors, Game Masters (GMs), and Player Characters (PCs)._
+_The content and game mechanics detailed within the 5eFP system reference document (SRD) are presented as a playtest for feedback and development purposes. These game mechanics are in draft form, usable in any d20 fifth edition campaign (5eFP inspiration and dedication rules also work with any game or game system), but not refined by final game development. These game mechanics are subject to change as needed, according to feedback provided by 5eFP contributors, Game Masters (GMs), and Player Characters (PCs)._
 
 ---
 
