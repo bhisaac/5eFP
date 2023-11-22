@@ -735,7 +735,7 @@ You	start	with	the	following	equipment,	in	addition to	the	equipment	granted	by	
 - Leather	armor,	any	simple	weapon,	and	two daggers
 
 ### Otherworldly Patron
-You	have	struck	a	bargain	with	an otherworldly	being	of	your	choice:	the	Archfey, the Celestial,	or the	Primordial each	of	which	is	detailed	at	the	end	of	the	class	description.	Your	choice	grants	you	features.
+You ~~have	struck	a	bargain	with~~ are in the service of an otherworldly	being	of	your	choice:	the	Fey, the Celestial,	or the	Primordial each	of	which	is	detailed	at	the	end	of	the	class	description.	Your	choice	grants	you	features.
 
 ### Pact Magic
 Your	arcane	research	and	the	magic	bestowed	on you	by	your	patron	have	given	you	facility	with spells.
