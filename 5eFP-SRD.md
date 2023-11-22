@@ -791,6 +791,58 @@ The Primordial lets you choose from an expanded list of spells when you learn a 
 ## Elemental Attunement
 Starting at 1st level, your patron bestows upon you the ability to shift and adapt elemental energies within the spells you cast from the Primordial expanded spell list. Whenever you cast a spell from the Primordial expanded spell list that deals energy damage, you may choose to replace the energy type with the type preferred by your patron (Phoenix: fire, Laviathon: cold, Zaraton: acid, and Elder Tempest: lightning).
 
+# Wizard
+## Class Features
+As	a	wizard,	you	gain	the	following	class	features.
+
+### Health
+**MAX Wounds:** 3 + Constitution (CON)
+
+### Proficiencies
+**Armor:**	None
+
+**Weapons:**	Daggers, darts, slings, quarterstaffs, light crossbows
+
+**Tools:** None
+
+**Abilities:** Intelligence (INT), Wisdom (WIS)
+
+**Skills:** Choose	one skill from Insight or Medicine
+
+### Equipment
+You	start	with	the	following	equipment,	in	addition to	the	equipment	granted	by	your	background:
+- (a) a quarterstaff or (b) a dagger
+- (a) a component pouch or (b) an arcane focus
+- (a) a scholar’s pack or (b) an explorer’s pack
+- A spellbook
+
+### Spellcasting
+As a student of arcane magic, you have a spellbook containing spells that show the first glimmerings of your true power.
+
+### Cantrips
+You know three cantrips of your choice from the wizard spell list.
+
+### Spellbook
+At 1st level, you have a spellbook containing six 1st-­level wizard spells of your choice. Your spellbook is the repository of the wizard spells you know, except your cantrips, which are fixed in your mind.
+
+### Preparing and Casting Spells
+You begin the game with two 1st level spell slots. To cast one of your spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.
+
+You prepare the list of wizard spells that are available for you to cast. To do so, choose a number of wizard spells from your spellbook equal to your INT + your level (minimum of one spell). The spells must be of a level for which you have spell slots.
+
+For example, if you’re a wizard who has upgraded to Magic III, you have four 1st-­level and two 2nd-­level spell slots. With an INT of +3, your list of prepared spells can include six spells of 1st or 2nd level, in any combination, chosen from your spellbook. If you prepare the 1st-­level spell *magic missile*, you can cast it using a 1st-­level or a 2nd-­level slot. Casting the spell doesn’t remove it from your list of prepared spells.
+
+You can change your list of prepared spells when you finish a long rest. Preparing a new list of wizard spells requires time spent studying your spellbook and memorizing the incantations and gestures you must make to cast the spell: at least 1 minute per spell level for each spell on your list.
+
+### Spellcasting Ability
+Intelligence (INT) is your spellcasting ability for your wizard spells,	since you learn your spells through dedicated study and memorization. You use your INT whenever a spell refers to your spellcasting ability. In addition, you use your INT when setting the saving throw DC for a sorcerer spell you cast and when making an attack roll with one.
+
+**Spell save DC** = 9 + INT
+
+**Spell attack modifier** = 1 + INT
+
+### Spellcasting Focus
+You	can	use	an	arcane focus	as	a	spellcasting	focus for	your	wizard	spells.
 
 
 ---
