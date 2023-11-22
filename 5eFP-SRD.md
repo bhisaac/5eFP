@@ -788,8 +788,8 @@ The Primordial lets you choose from an expanded list of spells when you learn a 
 |8th|Control Weather, Incendiary Cloud|
 |9th|Gate, Prismatic Wall|
 
-## Elemental Adept
-Starting at 1st level, your patron bestowes upon you the ability to shift and adapt elemental energies within the spells you cast from the Primordial expanded spell list. Whenever you cast a spell from the Primordial expanded spell list that deals energy damage, you may choose to replace the energy type with the type prefered by your patron (Phoenix: fire, Laviathon: cold, Zaraton: acid, and Elder Tempest: lightning).
+## Elemental Attunement
+Starting at 1st level, your patron bestows upon you the ability to shift and adapt elemental energies within the spells you cast from the Primordial expanded spell list. Whenever you cast a spell from the Primordial expanded spell list that deals energy damage, you may choose to replace the energy type with the type preferred by your patron (Phoenix: fire, Laviathon: cold, Zaraton: acid, and Elder Tempest: lightning).
 
 
 
