@@ -33,7 +33,7 @@ This project needs openminded, reliable, and dedicated PCs, GMs, and contributor
 | ----------------------------------------------- |
 | Cleverly fabricated cave system extends beneath the surface |
 | Dark antechamber, lit dungeon |
-| Trap: curtin, noise maker |
+| Trap: curtain, noise maker |
 | Goblins: minions, elite mage (area, acid), elite scoundrel (crossbow), boss |
 | Elven Enclave caravan (captives, goods): freed captives, returned goods |
 | Reputation: +1 Elven Enclave |
