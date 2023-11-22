@@ -267,9 +267,9 @@ Whenever you unlock a Magic feature (i.e., Magic I, Magic II, Magic III, etc.), 
 #### Spellcasting Ability
 Charisma (CHA) is your spellcasting ability for your bard spells. Your magic comes from the heart and soul you pour into the performance of your music or oration. You use your CHA whenever a spell refers to your spellcasting ability. In addition, you use your CHA when setting the saving throw DC for a bard spell you cast and when making an attack roll with one.
 
-**Spell save DC** = 10 + CHA
+**Spell save DC** = 9 + CHA
 
-**Spell attack modifier** = 2 + CHA
+**Spell attack modifier** = 1 + CHA
 
 #### Ritual Casting
 You can cast any bard spell you know as a ritual if that spell has the ritual tag.
@@ -327,9 +327,9 @@ You can change your list of prepared spells at HQ. While away from HQ, you can p
 #### Spellcasting Ability
 Wisdom (WIS) is your spellcasting ability for your cleric spells. The power of your spells comes from your devotion to your deity. You use your WIS whenever a cleric spell refers to your spellcasting ability. In addition, you use WIS when setting the saving throw DC for a cleric spell you cast and when making an attack roll with one.
 
-**Spell save DC** = 10 + WIS
+**Spell save DC** = 9 + WIS
 
-**Spell attack modifier** = 2 + WIS
+**Spell attack modifier** = 1 + WIS
 
 #### Ritual Casting
 You can cast a cleric spell as a ritual if that spell has the ritual tag and you have the spell prepared.
@@ -402,9 +402,9 @@ You can change your list of prepared spells at HQ. While away from HQ, you can p
 #### Spellcasting Ability
 Wisdom (WIS) is your spellcasting ability for your druid spells, since your magic draws upon your devotion and attunement to nature. You use your WIS whenever a druid spell refers to your spellcasting ability. In addition, you use WIS when setting the saving throw DC for a druid spell you cast and when making an attack roll with one.
 
-**Spell save DC** = 10 + WIS
+**Spell save DC** = 9 + WIS
 
-**Spell attack modifier** = 2 + WIS
+**Spell attack modifier** = 1 + WIS
 
 #### Ritual Casting
 You can cast a druid spell as a ritual if that spell has the ritual tag and you have the spell prepared.
@@ -669,9 +669,9 @@ Whenever you successfully upgrade a Magic feature (i.e., "Magic I", "Magic II", 
 ### Spellcasting Ability
 Charisma (CHA) is your spellcasting ability for your sorcerer spells,	since	the	power	of	your	magic	relies	on	your	ability	to	project	your	will	into	the	world. You use your CHA whenever a spell refers to your spellcasting ability. In addition, you use your CHA when setting the saving throw DC for a sorcerer spell you cast and when making an attack roll with one.
 
-**Spell save DC** = 10 + CHA
+**Spell save DC** = 9 + CHA
 
-**Spell attack modifier** = 2 + CHA
+**Spell attack modifier** = 1 + CHA
 
 ### Spellcasting Focus
 You	can	use	an	arcane focus	as	a	spellcasting	focus for	your	sorcerer	spells.
@@ -735,7 +735,7 @@ You	start	with	the	following	equipment,	in	addition to	the	equipment	granted	by	
 - Leather	armor,	any	simple	weapon,	and	two daggers
 
 ### Otherworldly Patron
-You	have	struck	a	bargain	with	an otherworldly	being	of	your	choice:	the	Archfey,	the	Primordial, or the Celestial,	each	of	which	is	detailed	at	the	end	of	the	class	description.	Your	choice	grants	you	features.
+You	have	struck	a	bargain	with	an otherworldly	being	of	your	choice:	the	Archfey, the Celestial,	or the	Primordial each	of	which	is	detailed	at	the	end	of	the	class	description.	Your	choice	grants	you	features.
 
 ### Pact Magic
 Your	arcane	research	and	the	magic	bestowed	on you	by	your	patron	have	given	you	facility	with spells.
@@ -756,9 +756,9 @@ Whenever you successfully upgrade a Magic feature (i.e., "Magic I", "Magic II", 
 ### Spellcasting Ability
 Charisma (CHA) is your spellcasting ability for your warlock spells,	so you use your CHA whenever a spell refers to your spellcasting ability. In addition, you use your CHA when setting the saving throw DC for a warlock spell you cast and when making an attack roll with one.
 
-**Spell save DC** = 10 + CHA
+**Spell save DC** = 9 + CHA
 
-**Spell attack modifier** = 2 + CHA
+**Spell attack modifier** = 1 + CHA
 
 ### Spellcasting Focus
 You	can	use	an	arcane focus	as	a	spellcasting	focus for	your	warlock	spells.
