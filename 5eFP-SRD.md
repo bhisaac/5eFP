@@ -735,7 +735,7 @@ You	start	with	the	following	equipment,	in	addition to	the	equipment	granted	by	
 - Leather	armor,	any	simple	weapon,	and	two daggers
 
 ### Otherworldly Patron
-You	have	struck	a	bargain	with	an otherworldly	being	of	your	choice:	the	Archfey,	the	Elemental, or the Celestial,	each	of	which	is	detailed	at	the	end	of	the	class	description.	Your	choice	grants	you	features.
+You	have	struck	a	bargain	with	an otherworldly	being	of	your	choice:	the	Archfey,	the	Primordial, or the Celestial,	each	of	which	is	detailed	at	the	end	of	the	class	description.	Your	choice	grants	you	features.
 
 ### Pact Magic
 Your	arcane	research	and	the	magic	bestowed	on you	by	your	patron	have	given	you	facility	with spells.
@@ -768,39 +768,29 @@ The beings that serve as patrons for warlocks are mighty inhabitants of other pl
 
 Some patrons collect warlocks, doling out mystic knowledge relatively freely or boasting of their ability to bind mortals to their will. Other patrons bestow their power only grudgingly, and might make a pact with only one warlock. Warlocks who serve the same patron might view each other as allies, siblings, or rivals.
 
-### The Elemental
-You have made a pact with an elemental from within the Primordial Chaos, the home plane of existence for all elementals. Your elemental patron is strictly neutral in outlook and temperament, swayed by their attunement to a particular element. Earth elementals tend to be steady, tenacious, and indomitable. Water elementals tend to be flexible and aware. Fire elementals tend to be activating, charged, and focused. Air elementals tend to be expansive and mobile. Elementals rarely involve themselves in mortal affairs or circumstances unless the elemental balance is threatened somehow. Such beings desire the propagation of their particular element and elemental outlook upon the prime material plane through you, their chosen vessel. Elementals powerful enough to forge a pact include genies and djin, including Dao (earth), Djinni (air), Efreeti (fire), Marid (water), and Primordials, including Phoneix (fire), Leviathan (water), Zaratan (earth), and Elder Tempest (air).
+### The Primordial
+You have made a pact with a powerful elemental from within the Primordial Chaos, the home plane of existence for all elementals. Your primordial patron is strictly neutral in outlook and temperament, swayed only by their attunement to a specific elemental quality. Earth tends to be steady, tenacious, and indomitable. Water tends to be flexible and aware. Fire tends to be activating, charged, and focused. Air tends to be expansive and mobile. Primordials rarely involve themselves in mortal affairs or circumstances unless the elemental balance is threatened somehow. Such beings desire the propagation of the elements and thier elemental outlook upon the prime material plane through you, their chosen vessel. Primordials powerful enough to forge a pact and thier preferred elemental outlook include Phoneix (fire), Leviathan (water), Zaratan (earth), and Elder Tempest (air).
 
 ## Expanded Spell List
-The Elemental lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you, depending on your patron's elemental attunement. If a spell is limited in any way, the limitation is listed in parenthesis after the spell name.
+The Primordial lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
 
-**Earth Expanded Spells**
+**PRIMORDIAL EXPANDED SPELLS**
 |||
 |:-:|:-:|
 |Spell Level|Spells|
-|1st|Jump, Longstrider|
-|2nd|Enlarge/Reduce, Acid Arrow|
-|3rd|Slow, Meld into Stone|
-|4th|Conjure Minor Elementals (earth), Stoneskin|
-|5th|Conjure Elemental (earth), Hold Monster|
-|6th|Flesh to Stone, Move Earth|
-|7th|Magnificent Mansion, Force Cage|
-|8th|Antimagic Field, Earthquake|
-|9th|Time Stop, Gate (primordial chaos)|
+|1st|Burning Hands, Thunderwave|
+|2nd|Acid Arrow, Flaming Sphere|
+|3rd|Fireball, Lightning Bolt|
+|4th|Conjure Minor Elementals, Wall of Fire|
+|5th|Conjure Elemental, Cone of Cold|
+|6th|Chain Lightning, Freezing Sphere|
+|7th|Delayed Blast Fireball, Prismatic Spray|
+|8th|Control Weather, Incendiary Cloud|
+|9th|Gate, Prismatic Wall|
 
-**Water Expanded Spells**
-|||
-|:-:|:-:|
-|Spell Level|Spells|
-|1st|Create or Destroy Water, Fog Cloud|
-|2nd|Alter Self, Enhance Ability|
-|3rd|Create Food and Water, Water Walk|
-|4th|Conjure Minor Elementals (water), Control Water|
-|5th|Conjure Elemental (water), Cone of Cold|
-|6th|Freezing Sphere, Find the Path|
-|7th|--, --|
-|8th|--, --|
-|9th|--, Gate (primordial chaos)|
+## Elemental Adept
+Starting at 1st level, your patron bestowes upon you the ability to shift and adapt elemental energies within the spells you cast from the Primordial expanded spell list. Whenever you cast a spell from the Primordial expanded spell list that deals energy damage, you may choose to replace the energy type with the type prefered by your patron (Phoenix: fire, Laviathon: cold, Zaraton: acid, and Elder Tempest: lightning).
+
 
 
 ---
