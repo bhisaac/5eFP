@@ -854,18 +854,20 @@ Each time you complete a Spells upgrade, you can add two wizard spells of your c
 > 
 > Copying that spell into your spellbook involves reproducing the basic form of the spell, then deciphering the unique system of notation used by the wizard who wrote it. You must practice the spell until you understand the sounds or gestures required, then transcribe it into your spellbook using your own notation.
 > 
-> For each level of the spell, the process takes 2 hours and costs 50 gp. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it. Once you have spent this time and money, you can prepare the spell just like your other spells.
+> For each level of the spell, the process takes 2 hours and costs 1 coin. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it. Once you have spent this time and coin, you can prepare the spell just like your other spells.
 > 
-> ***Replacing the Book.*** You can copy a spell from your own spellbook into another book—for example, if you want to make a backup copy of your spellbook. This is just like copying a new spell into your spellbook, but faster and easier, since you understand your own notation and already know how to cast the spell. You need spend only 1 hour and 10 gp for each level of the copied spell.
+> ***Replacing the Book.*** You can copy a spell from your own spellbook into another book—for example, if you want to make a backup copy of your spellbook. This is just like copying a new spell into your spellbook, but faster and easier, since you understand your own notation and already know how to cast the spell. You need spend only 1 hour for each level of the copied spell.
 > 
-> If you lose your spellbook, you can use the same
-procedure to transcribe the spells that you have prepared
-into a new spellbook. Filling out the remainder of your spellbook requires you to find new spells to do so, as normal. For this reason, many wizards keep backup spellbooks in a safe
-place.
+> If you lose your spellbook, you can use the same procedure to transcribe the spells that you have prepared
+into a new spellbook. Filling out the remainder of your spellbook requires you to find new spells to do so, as normal. For this reason, many wizards keep backup spellbooks in a safe place.
 > 
-> ***The Book’s Appearance.*** Your spellbook is a unique
-compilation of spells, with its own decorative flourishes and
+> ***The Book’s Appearance.*** Your spellbook is a unique compilation of spells, with its own decorative flourishes and
 margin notes. It might be a plain, functional leather volume that you received as a gift from your master, a finely bound gilt-edged tome you found in an ancient library, or even a loose collection of notes scrounged together after you lost your previous spellbook in a mishap.
+
+### Arcane Recovery
+You have learned to regain some of your magical energy by studying your spellbook. Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than your wizard level, and none of the slots can be 6th level or higher.
+
+For example, if you’re a 2nd-­level wizard, you can recover up to two levels worth of spell slots. You can recover either a 2nd-­level spell slot or two 1st-­level spell slots.
 
 ---
 
