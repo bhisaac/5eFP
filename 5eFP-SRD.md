@@ -835,7 +835,7 @@ For example, if you’re a wizard who has upgraded Magic three times, you have f
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of wizard spells requires time spent studying your spellbook and memorizing the incantations and gestures you must make to cast the spell: at least 1 minute per spell level for each spell on your list.
 
 ### Spellcasting Ability
-INT is your spellcasting ability for your wizard spells,	since you learn your spells through dedicated study and memorization. You use your INT whenever a spell refers to your spellcasting ability. In addition, you use your INT when setting the saving throw DC for a sorcerer spell you cast and when making an attack roll with one.
+INT is your spellcasting ability for your wizard spells,	since you learn your spells through dedicated study and memorization. You use your INT whenever a spell refers to your spellcasting ability. In addition, you use your INT when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one.
 
 **Spell save DC** = 9 + INT + level
 
