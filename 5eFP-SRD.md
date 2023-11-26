@@ -1011,72 +1011,6 @@ You might also have ties to a specific temple dedicated to your chosen deity or 
 ### Suggested Characteristics
 Acolytes are shaped by their experience in temples or other religious communities. Their study of the history and tenets of their faith and their relationships to temples, shrines, or hierarchies affect their mannerisms and ideals. Their flaws might be some hidden hypocrisy or heretical idea, or an ideal or bond taken to an extreme.
 
----
-
-(Floating Section)
-
-# The 5eFP Framework
-All 5eFP games follow the same rules framework.
-
-Elements of a 5eFP game:
-- **Fast Travel.** Once a destination is set on the world map, the PCs instantly arrive at an unexplored map tile.
-- **Recall.** Once deployed, PCs may recall back to headquarters anytime by performing a special 1-minute ritual. Alternatively, PCs all recall back to HQ after 8 hours have elapsed. A PC may only recall once daily.
-- **Headquarters (HQ).** The game has a centralized organization linking each PC to one another. Players almost always begin and end a game session at HQ.
-
-## The World Map
-- Map size: 14 squares by 14 squares
-- Scale: 1 square equals 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters
-- Contains: (9) 2x2 world map tiles for each cardinal direction, (3) 2x2 world map tiles for each ordinal (hybrid) direction, and (1) 2x2 HQ tile
-
-Draw clear boundaries around each world map tile (use a grid). Hybrid tiles: draw a dashed diagonal line from one corner of the world map tile to its opposite corner in a color that will stand out. This dashed line represents the road or highway. World map tiles containing a highway are considered hybrid. While exploring hybrid tiles, players simultaneously draw and play story cards from both adjacent story directions.
-
-The world map begins obscured. After choosing or creating the world map, place obscuring world map tiles over it. The nature of this obscurity is detailed in your setting handbook. The HQ (headquarters) tile is the only one not obscured at the beginning of the game. The HQ tile is placed at the map's center position. Obscuring world map tiles are removed whenever the PCs explore the world map tile it obscures. The following procedure must be completed to explore a world map tile:
-
-- Explore 55% or more of the map.
-- Find and resolve 3 footholds.
-- Locate an item or perform an action according to the setting handbook.
-
-Steps taken for world map deployment.
-1. **Preview.** Druids and rangers receive a special bonus round. Each druid and ranger PC, in initiative order, may choose one unexplored world map tile within the current level of play and preview its terrain by temporarily removing its obscuring world map tile. Once finished, the player then returns the obscuring world map tile back to its original position.
-2. **Selection.** The PCs, as a group, choose a cardinal or ordinal direction and trace a path from the HQ tile along the map until an obscured world map tile is encountered within the current level of play. This becomes the selected world map tile.
-3. **Prepare.** Players may choose to spend 1 round of preparation before deploying. See "Preparation."
-4. **Setup.** Place an empty (22 x 22) exploration map beside the world map. Roll a d20 onto the exploration map before placing any tiles and note the location of where the dice lands. This determines the starting position for the PCs.
-5. **Deploy.** The GM reveals the starting map tile on the exploration map at the starting position determined in the previous step, placing the party token onto it.
-6. **Choose Party Token Controller.** PCs appoint one player as the party token controller. This player can be the party leader, but this is not required. The PC with the most overland movement bonuses is typically the party token controller. Some background, species, and class features provide significant bonuses while controlling the party token during the exploration phase.
-7. **Move the party token.** The party token controller moves the token, lifting any obscuring tiles encountered along the way. Removing an obscuring tile may reveal one of several potential world map features called footholds:
-    - Dungeons
-    - Creatures
-    - Villages or settlements
-    - Buildings
-    - Treasures
-    - Traps
-    - Specific features or items necessary for completion as outlined in your setting handbook.
-
-# Exploration Map
-
-# Encounter Map
-
-# Headquarters (HQ)
-Headquarters (HQ) represents the core organization(s) that all player characters (PCs) belong to within a 5eFP campaign setting. HQ can be an organization, a settlement, an outpost, a watch tower, a ship, or a station. All HQs have a dedicated society of supporters who help PCs complete HQ missions and guarantee safety and protection from whatever awaits beyond HQ's borders, provided PCs pay HQ's upkeep cost. See your setting handbook for more details on HQ upkeep costs.
-
-HQ usually remains in one static location while PCs deploy on missions outward from the world map's center. However, some HQs relocate on the world map while other HQs have movable tokens representing a deployable vehicle or station with sufficient life support. Deployable HQ tokens function identically to static HQ world map tiles.
-
-Sometimes HQs create satellite locations within the world map. Treat satellite locations as extensions of HQ. PCs can spend their downtime in HQ or within one of HQ's satellite locations, which may provide alternative benefits. Satellite locations are less secure than HQ, but remain relatively safe and protected, provided PCs meet HQ's upkeep costs. Local circumstances, conditions, and disturbances can affect the safety and protection offered by HQ. A temporary suspension of HQ protection results in PCs losing the ability to rest and repair. Coins spent on rest and repairs are lost during these circumstances.
-
-## Game Session Start
-Unless stated otherwise, you always begin the game at HQ.
-
-You begin the game by revealing the HQ world map tile to all players. Place the HQ tile at the world map center tile position, reading any read-aloud text listed in your setting handbook for the start of the game.
-
-## Game Session End
-Unless stated otherwise, you always end the game at HQ. The following occurs when PCs return to HQ:
-1. All ongoing encounter powers, abilities, and features end.
-2. PCs may pay 1 Coin for rest and repairs.
-3. PCs take one downtime round (worker placement) by placing their token on a building within HQ (or linked through HQ at a satellite location).
-4. PCs gain the benefits of completing a long rest.
-
----
-
 # Equipment
 ## Coins
 A 5eFP game uses coins (**⛁**), a single denomination representing wealth, resources, experience, and reputation. The name of a coin may change in some 5eFP games. For example, coins might be called "gold pieces" in a medieval fantasy setting, while coins might refer to "credits" in a futuristic sci-fi setting. A game's setting handbook details what coins are called in a game. All coins use the following rules.
@@ -1150,6 +1084,70 @@ Armor listed with disadvantage imposes disadvantage to any Performance skill che
 
 ---
 
+(Floating Section)
+
+# The 5eFP Framework
+All 5eFP games follow the same rules framework.
+
+Elements of a 5eFP game:
+- **Fast Travel.** Once a destination is set on the world map, the PCs instantly arrive at an unexplored map tile.
+- **Recall.** Once deployed, PCs may recall back to headquarters anytime by performing a special 1-minute ritual. Alternatively, PCs all recall back to HQ after 8 hours have elapsed. A PC may only recall once daily.
+- **Headquarters (HQ).** The game has a centralized organization linking each PC to one another. Players almost always begin and end a game session at HQ.
+
+## The World Map
+- Map size: 14 squares by 14 squares
+- Scale: 1 square equals 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters
+- Contains: (9) 2x2 world map tiles for each cardinal direction, (3) 2x2 world map tiles for each ordinal (hybrid) direction, and (1) 2x2 HQ tile
+
+Draw clear boundaries around each world map tile (use a grid). Hybrid tiles: draw a dashed diagonal line from one corner of the world map tile to its opposite corner in a color that will stand out. This dashed line represents the road or highway. World map tiles containing a highway are considered hybrid. While exploring hybrid tiles, players simultaneously draw and play story cards from both adjacent story directions.
+
+The world map begins obscured. After choosing or creating the world map, place obscuring world map tiles over it. The nature of this obscurity is detailed in your setting handbook. The HQ (headquarters) tile is the only one not obscured at the beginning of the game. The HQ tile is placed at the map's center position. Obscuring world map tiles are removed whenever the PCs explore the world map tile it obscures. The following procedure must be completed to explore a world map tile:
+
+- Explore 55% or more of the map.
+- Find and resolve 3 footholds.
+- Locate an item or perform an action according to the setting handbook.
+
+Steps taken for world map deployment.
+1. **Preview.** Druids and rangers receive a special bonus round. Each druid and ranger PC, in initiative order, may choose one unexplored world map tile within the current level of play and preview its terrain by temporarily removing its obscuring world map tile. Once finished, the player then returns the obscuring world map tile back to its original position.
+2. **Selection.** The PCs, as a group, choose a cardinal or ordinal direction and trace a path from the HQ tile along the map until an obscured world map tile is encountered within the current level of play. This becomes the selected world map tile.
+3. **Prepare.** Players may choose to spend 1 round of preparation before deploying. See "Preparation."
+4. **Setup.** Place an empty (22 x 22) exploration map beside the world map. Roll a d20 onto the exploration map before placing any tiles and note the location of where the dice lands. This determines the starting position for the PCs.
+5. **Deploy.** The GM reveals the starting map tile on the exploration map at the starting position determined in the previous step, placing the party token onto it.
+6. **Choose Party Token Controller.** PCs appoint one player as the party token controller. This player can be the party leader, but this is not required. The PC with the most overland movement bonuses is typically the party token controller. Some background, species, and class features provide significant bonuses while controlling the party token during the exploration phase.
+7. **Move the party token.** The party token controller moves the token, lifting any obscuring tiles encountered along the way. Removing an obscuring tile may reveal one of several potential world map features called footholds:
+    - Dungeons
+    - Creatures
+    - Villages or settlements
+    - Buildings
+    - Treasures
+    - Traps
+    - Specific features or items necessary for completion as outlined in your setting handbook.
+
+# Exploration Map
+
+# Encounter Map
+
+# Headquarters (HQ)
+Headquarters (HQ) represents the core organization(s) that all player characters (PCs) belong to within a 5eFP campaign setting. HQ can be an organization, a settlement, an outpost, a watch tower, a ship, or a station. All HQs have a dedicated society of supporters who help PCs complete HQ missions and guarantee safety and protection from whatever awaits beyond HQ's borders, provided PCs pay HQ's upkeep cost. See your setting handbook for more details on HQ upkeep costs.
+
+HQ usually remains in one static location while PCs deploy on missions outward from the world map's center. However, some HQs relocate on the world map while other HQs have movable tokens representing a deployable vehicle or station with sufficient life support. Deployable HQ tokens function identically to static HQ world map tiles.
+
+Sometimes HQs create satellite locations within the world map. Treat satellite locations as extensions of HQ. PCs can spend their downtime in HQ or within one of HQ's satellite locations, which may provide alternative benefits. Satellite locations are less secure than HQ, but remain relatively safe and protected, provided PCs meet HQ's upkeep costs. Local circumstances, conditions, and disturbances can affect the safety and protection offered by HQ. A temporary suspension of HQ protection results in PCs losing the ability to rest and repair. Coins spent on rest and repairs are lost during these circumstances.
+
+## Game Session Start
+Unless stated otherwise, you always begin the game at HQ.
+
+You begin the game by revealing the HQ world map tile to all players. Place the HQ tile at the world map center tile position, reading any read-aloud text listed in your setting handbook for the start of the game.
+
+## Game Session End
+Unless stated otherwise, you always end the game at HQ. The following occurs when PCs return to HQ:
+1. All ongoing encounter powers, abilities, and features end.
+2. PCs may pay 1 Coin for rest and repairs.
+3. PCs take one downtime round (worker placement) by placing their token on a building within HQ (or linked through HQ at a satellite location).
+4. PCs gain the benefits of completing a long rest.
+
+---
+
 (floating section)
 # Between Adventures
 At the start of a player's downtime round, that player may (board game: choose and place a worker from their character sheet on the appropriate regions on the HQ map) choose and gain the benefits of one downtime activity (see below). All PCs have this basic option no matter how many coins they have.
@@ -1208,12 +1206,12 @@ If you have proficiency in the Performance skill and put your performance skill 
 
 
 
-Common coins come in several different denominations based on the relative worth of the metal from which they are made. The three most common coins are the gold piece (gp), the silver piece (sp), and the copper piece (cp).
+~~Common coins come in several different denominations based on the relative worth of the metal from which they are made. The three most common coins are the gold piece (gp), the silver piece (sp), and the copper piece (cp).
 With one gold piece, a character can buy a bedroll, 50 feet of good rope, or a goat. A skilled (but not exceptional) artisan can earn one gold piece a day. The gold piece is the standard unit of measure for wealth, even if the coin itself is not commonly used. When merchants discuss deals that involve goods or services worth hundreds or thousands of gold pieces, the transactions don’t usually involve the exchange of individual coins. Rather, the gold piece is a standard measure of value, and the actual exchange is in gold bars, letters of credit, or valuable goods.
 One gold piece is worth ten silver pieces, the most prevalent coin among commoners. A silver piece buys a laborer’s work for half a day, a flask of lamp oil, or a night’s rest in a poor inn.
 One silver piece is worth ten copper pieces, which are common among laborers and beggars. A single copper piece buys a candle, a torch, or a piece of chalk.
 In addition, unusual coins made of other precious metals sometimes appear in treasure hoards. The electrum piece (ep) and the platinum piece (pp) originate from fallen empires and lost kingdoms, and they sometimes arouse suspicion and skepticism when used in transactions. An electrum piece is worth five silver pieces, and a platinum piece is worth ten gold pieces.
-A standard coin weighs about a third of an ounce, so fifty coins weigh a pound.
+A standard coin weighs about a third of an ounce, so fifty coins weigh a pound.~~
 
 ---
 
