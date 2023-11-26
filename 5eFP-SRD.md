@@ -967,8 +967,11 @@ Additionally, if you have inspiration, you can reward another player for good ro
 
 >> For example,
 >>> (_GM:_) "The room opens up, exposing a sprawling cliff face leading to the top of the spire."
+>>> 
 >>> (_Player 1:_) "I spend my inspiration to activate inspired PERFORMANCE."
+>>> 
 >>> (_GM:_) "OK, great. Tell us a little about what action you're character wants to take. And then, when you're ready, tell us what happens."
+>>> 
 >>> (_Player 1:_) "Thanks. Lita leaps onto the cliff face, finds her grip, and makes her way to the top."
 >>>
 >>_Player 1_'s action resolves a successful Performance check without rolling to begin climbing the cliff face to reach the top of the spire, which is 40 squares above Lita's position. _Player 1_ has indicated that this climb is important in some way. While climbing the cliff, Lita then makes all attacks, ability checks, and saves with advantage. Later on, during the cliff-face encounter, Lita's skill is tested once again due to strong winds. She must succeed on a Performance check to keep her grip. Because she is still in the same cliff-face encounter, she rolls Performance with advantage.
