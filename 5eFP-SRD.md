@@ -847,6 +847,11 @@ You	can	use	an	arcane focus	as	a	spellcasting	focus for	your	wizard	spells.
 ### Learning Spells of 1st Level and Higher
 Each time you complete a Spells upgrade, you can add two wizard spells of your choice to your spellbook for free. Each of these spells must be of a level for which you have spell slots. On your adventures, you might find other spells that you can add to your spellbook (see the “Your Spellbook” sidebar).
 
+### Arcane Recovery
+You have learned to regain some of your magical energy by studying your spellbook. Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than your wizard level, and none of the slots can be 6th level or higher.
+
+For example, if you’re a 2nd-­level wizard, you can recover up to two levels worth of spell slots. You can recover either a 2nd-­level spell slot or two 1st-­level spell slots.
+
 > ### Your Spellbook
 > The spells that you add to your spellbook as you gain levels reflect the arcane research you conduct on your own, as well as intellectual breakthroughs you have had about the nature of the multiverse. You might find other spells during your adventures. You could discover a spell recorded on a scroll in an evil wizard’s chest, for example, or in a dusty tome in an ancient library.
 > 
@@ -864,10 +869,101 @@ into a new spellbook. Filling out the remainder of your spellbook requires you t
 > ***The Book’s Appearance.*** Your spellbook is a unique compilation of spells, with its own decorative flourishes and
 margin notes. It might be a plain, functional leather volume that you received as a gift from your master, a finely bound gilt-edged tome you found in an ancient library, or even a loose collection of notes scrounged together after you lost your previous spellbook in a mishap.
 
-### Arcane Recovery
-You have learned to regain some of your magical energy by studying your spellbook. Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than your wizard level, and none of the slots can be 6th level or higher.
+# Beyond 1st Level
+Players gain experience by discovering and resolving world map tiles. When all tiles in the current level of play are discovered and resolved, the next level of play on the world map unlocks and players advance to the next level. This is called gaining a level.
 
-For example, if you’re a 2nd-­level wizard, you can recover up to two levels worth of spell slots. You can recover either a 2nd-­level spell slot or two 1st-­level spell slots.
+When your character gains a level, you can spend Coin to gain additional features available to your background, class, or species. These features are detailed in the background, class, and species descriptions below. Some of these features allow you to increase one ability score by +1. You can’t increase an ability score above +5.
+
+Each time you gain a level, your MAX wounds increases by +1.
+
+Whenever your CON changes, recalculate your MAX wounds with the new CON score.
+
+## Alignment
+A typical creature in the game world has an alignment, which broadly describes its moral and personal attitudes. Alignment is a combination of two factors: one identifies morality (good, evil, or neutral), and the other describes attitudes toward society and order (lawful, chaotic, or neutral). Thus, nine distinct alignments--six playable alignments and three NPC-only alignments--define the possible combinations.
+
+These brief summaries of the nine alignments describe the typical behavior of a creature with that alignment. Player characters must select a non-evil alignment at character creation. Individuals might vary significantly from that typical behavior, and few people are perfectly and consistently faithful to the precepts of their alignment.
+
+**Lawful good** (LG) creatures can be counted on to do the right thing as expected by society. Gold dragons, paladins, and most dwarves are lawful good.
+
+**Neutral good** (NG) folk do the best they can to help others according to their needs. Many celestials, some cloud giants, and most gnomes are neutral good.
+
+**Chaotic good** (CG) creatures act as their conscience directs, with little regard for what others expect. Copper dragons, many elves, and unicorns are chaotic good.
+
+**Lawful neutral** (LN) individuals act in accordance with law, tradition, or personal codes. Many monks and some wizards are lawful neutral.
+
+**Neutral** (N) is the alignment of those who prefer to steer clear of moral questions and don’t take sides, doing what seems best at the time. Lizardfolk, most druids, and many humans are neutral.
+
+**Chaotic neutral** (CN) creatures follow their whims, holding their personal freedom above all else. Many barbarians and rogues, and some bards, are chaotic neutral.
+
+**Lawful evil** (LE) creatures methodically take what they want, within the limits of a code of tradition, loyalty, or order. Devils, blue dragons, and hobgoblins are lawful evil.
+
+**Neutral evil** (NE) is the alignment of those who do whatever they can get away with, without compassion or qualms. Many drow, some cloud giants, and goblins are neutral evil.
+
+**Chaotic evil** (CE) creatures act with arbitrary violence, spurred by their greed, hatred, or bloodlust. Demons, red dragons, and orcs are chaotic evil.
+
+### Alignment in the Multiverse
+For many thinking creatures, alignment is a moral choice. Humans, dwarves, elves, and other humanoid species can choose whether to follow the paths of good or evil, law or chaos. According to myth, the good-­aligned gods who created these races gave them free will to choose their moral paths, knowing that good without free will is slavery.
+
+The evil deities who created other species, though, made those species to serve them. Those species have strong inborn tendencies that match the nature of their gods. Most orcs share the violent, savage nature of the orc gods, and are thus inclined toward evil. Even if an orc chooses a good alignment, it struggles against its innate tendencies for its entire life. (Even half-­orcs feel the lingering pull of the orc god’s influence.)
+
+Alignment is an essential part of the nature of celestials and fiends. A devil does not choose to be lawful evil, and it doesn’t tend toward lawful evil, but rather it is lawful evil in its essence. If it somehow ceased to be lawful evil, it would cease to be a devil.
+
+Most creatures that lack the capacity for rational thought do not have alignments—they are unaligned. Such a creature is incapable of making a moral or ethical choice and acts according to its bestial nature. Sharks are savage predators, for example, but they are not evil; they have no alignment.
+
+## Languages
+Your species indicates the languages your character can speak by default, and your background might give you access to one or more additional languages of your choice. Note these languages on your character sheet.
+
+Choose your languages from the Standard Languages table, or choose one that is common in your campaign. With your GM’s permission, you can instead choose a language from the Exotic Languages table or a secret language, such as thieves’ cant or the tongue of druids.
+
+Some of these languages are actually families of languages with many dialects. For example, the Primordial language includes the Auran, Aquan, Ignan, and Terran dialects, one for each of the four elemental planes. Creatures that speak different dialects of the same language can communicate with one another.
+
+**STANDARD LANGUAGES**
+|Language|Typical Speakers|Script|
+|:-|:-|:-|
+|Common|Humans|Common|
+|Dwarvish|Dwarves|Dwarvish|
+|Elvish|Elves|Elvish|
+|Giant|Ogres, giants|Dwarvish|
+|Gnomish|Gnomes|Dwarvish|
+|Goblin|Goblinoids|Dwarvish|
+|Halfling|Halflings|Common|
+|Orc|Orcs|Dwarvish|
+
+**EXOTIC LANGUAGES**
+|Language|Typical Speakers|Script|
+|:-|:-|:-|
+|Abyssal|Demons|Infernal|
+|Celestial|Celestials|Celestial|
+|Draconic|Dragons, dragonborn|Draconic|
+|Deep Speech|Aboleths, cloakers|--|
+|Infernal|Devils|Infernal|
+|Primordial|Elementals|Dwarvish|
+|Sylvan|Fey creatures|Elvish|
+|Undercommon|Underworld traders|Elvish|
+
+## Inspiration
+Inspiration is a rule the GM uses to reward you when you show up to play a game session on time and for playing your character in an exceptional way.
+
+### Gaining Inspiration
+At the beginning of each game session, PCs choose and dedicate two skills. Once the choices are made, they cannot be changed until the beginning of the next game session. Your GM then awards inspiration to all present PCs. Your GM also has the option to grant you inspiration for various reasons during gameplay. Generally, inspiration is given when you effectively portray your character in a compelling way. Your GM or setting handbook may introduce other ways to earn inspiration during the game.
+
+You either have inspiration or you don’t—you can’t stockpile multiple “inspirations” for later use.
+
+### Using Inspiration
+If you have inspiration, you can expend it when you make an attack roll, saving throw, or ability check. Spending your inspiration gives you advantage on that roll. Alternatively, you may expend your inspiration to activate an inspired version of a dedicated skill.
+
+Additionally, if you have inspiration, you can reward another player for good roleplaying, clever thinking, or simply doing something exciting in the game. When another player character does something that really contributes to the story in a fun and interesting way, you can give up your inspiration to give that character inspiration.
+
+### Inspired SKills
+***Insight.*** Your character can easily determine sincerity, true motives, and intentions within the current scene. Illusions, misdirections, disguises, or actions with the intent to deceive appear transparent to you. Your GM refunds your inspiration if no additional information is gained.
+
+***Medicine.*** Choose any number of targets your character can see within 30 feet of you who are unconscious or dying. Each target immediately stabilizes and wakes up with minimum health.
+
+***Perception.*** Your character receives all available pieces of information regarding the current scene. Hidden doors, creatures, traps, ambushes, whispered conversations. Anything arising from sense data or information gained through the five senses. Your GM refunds your inspiration if no additional information is gained.
+
+***Performance.*** Whenever your character declares an action on their turn, you may use this feature to decide the outcome of the action and whether or not it was successful. You must choose to use your inspiration in this way before rolling any dice and before the GM declares the result of your action.
+
+***Survival.*** Your character finds a path leading to another desired location on the current map. The revealed path is one of many potential pathways. This is the swiftest path. Alternatively, once per game session, you can use your inspired Survival to activate the inspired version of another skill you didn't dedicate at the beginning of the game.
 
 ---
 
