@@ -879,7 +879,7 @@ Each time you gain a level, your MAX wounds increases by +1.
 Whenever your CON changes, recalculate your MAX wounds with the new CON score.
 
 ## Alignment
-A typical creature in the game world has an alignment, which broadly describes its moral and personal attitudes. Alignment is a combination of two factors: one identifies morality (good, evil, or neutral), and the other describes attitudes toward society and order (lawful, chaotic, or neutral). Thus, nine distinct alignments--six playable alignments and three NPC-only alignments--define the possible combinations.
+A typical creature in the game world has an alignment, which broadly describes its moral and personal attitudes. Alignment is a combination of two factors: one identifies morality (good, evil, or neutral), and the other describes attitudes toward society and order (lawful, chaotic, or neutral). Thus, nine distinct alignments define the possible combinations.
 
 These brief summaries of the nine alignments describe the typical behavior of a creature with that alignment. Player characters must select a non-evil alignment at character creation. Individuals might vary significantly from that typical behavior, and few people are perfectly and consistently faithful to the precepts of their alignment.
 
@@ -920,6 +920,7 @@ Some of these languages are actually families of languages with many dialects. F
 **STANDARD LANGUAGES**
 |Language|Typical Speakers|Script|
 |:-|:-|:-|
+||||
 |Common|Humans|Common|
 |Dwarvish|Dwarves|Dwarvish|
 |Elvish|Elves|Elvish|
@@ -932,6 +933,7 @@ Some of these languages are actually families of languages with many dialects. F
 **EXOTIC LANGUAGES**
 |Language|Typical Speakers|Script|
 |:-|:-|:-|
+||||
 |Abyssal|Demons|Infernal|
 |Celestial|Celestials|Celestial|
 |Draconic|Dragons, dragonborn|Draconic|
@@ -950,20 +952,20 @@ At the beginning of each game session, PCs choose and dedicate two skills. Once 
 You either have inspiration or you don’t—you can’t stockpile multiple “inspirations” for later use.
 
 ### Using Inspiration
-If you have inspiration, you can expend it when you make an attack roll, saving throw, or ability check. Spending your inspiration gives you advantage on that roll. Alternatively, you may expend your inspiration to activate an inspired version of a dedicated skill.
+If you have inspiration, you can expend it when you make an attack roll, saving throw, or ability check. Spending your inspiration gives you advantage on that roll. Alternatively, you may expend your inspiration anytime to activate an inspired version of a dedicated skill. You do not roll dice whenever you activate an inspired version of a dedicated skill. You automatically receive the listed benefits.
 
 Additionally, if you have inspiration, you can reward another player for good roleplaying, clever thinking, or simply doing something exciting in the game. When another player character does something that really contributes to the story in a fun and interesting way, you can give up your inspiration to give that character inspiration.
 
 ### Inspired SKills
-***Insight.*** Your character can easily determine sincerity, true motives, and intentions within the current scene. Illusions, misdirections, disguises, or actions with the intent to deceive appear transparent to you. Your GM refunds your inspiration if no additional information is gained.
+***Insight.*** Your character can easily determine sincerity, true motives, and intentions within the current scene. Illusions, misdirections, disguises, or actions intending to deceive appear transparent to you. Your GM refunds your inspiration if no additional information is gained.
 
 ***Medicine.*** Choose any number of targets your character can see within 30 feet of you who are unconscious or dying. Each target immediately stabilizes and wakes up with minimum health.
 
-***Perception.*** Your character receives all available pieces of information regarding the current scene. Hidden doors, creatures, traps, ambushes, whispered conversations. Anything arising from sense data or information gained through the five senses. Your GM refunds your inspiration if no additional information is gained.
+***Perception.*** Your character receives all available pieces of information regarding the current scene. Hidden doors, creatures, traps, ambushes, whispered conversations—anything arising from sense data or information gained through the five senses. Your GM refunds your inspiration if no additional information is gained.
 
-***Performance.*** Whenever your character declares an action on their turn, you may use this feature to decide the outcome of the action and whether or not it was successful. You must choose to use your inspiration in this way before rolling any dice and before the GM declares the result of your action.
+***Performance.*** You decide the outcome of the next action your character declares on their turn. You must use your inspiration this way before taking an action or rolling any dice.
 
-***Survival.*** Your character finds a path leading to another desired location on the current map. The revealed path is one of many potential pathways. This is the swiftest path. Alternatively, once per game session, you can use your inspired Survival to activate the inspired version of another skill you didn't dedicate at the beginning of the game.
+***Survival.*** Your character finds a path leading to another desired location on the current map. The revealed path is one of many potential pathways, must be traversable, and cannot put PCs directly into harm's way. Your GM refunds your inspiration if no pathway is revealed. Alternatively, once per game session, you can use your inspired Survival to activate the inspired version of another skill you didn't dedicate at the beginning of the game.
 
 ---
 
