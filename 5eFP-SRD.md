@@ -984,7 +984,7 @@ Additionally, if you have inspiration, you can reward another player for good ro
 >>> 
 >>> _(Player 1)_ "I jump out of the shadows where I'm hiding and attack the goblin, catching it off guard and unaware. I strike with a critical hit, dealing maximum damage to the creature, adding my sneak attack damage."
 >>> 
->> In this example, _Player 1_'s action resolves a successful attack action from a hidden position and then resolves. The action does not continue on subsequent rounds.
+>> In this example, _Player 1_'s action resolves a successful attack action from a hidden position and then finishes. The action does not continue on subsequent rounds.
 
 ***SURVIVAL.*** Your character finds a path leading to another desired location on the current map. The revealed path must be traversable and cannot put PCs directly into harm's way. Your GM refunds your inspiration if no pathway is revealed. Alternatively, once per game session, you can use your inspired Survival to activate the inspired version of another skill you didn't dedicate at the beginning of the game.
 
