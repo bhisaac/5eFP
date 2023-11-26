@@ -947,7 +947,7 @@ Some of these languages are actually families of languages with many dialects. F
 Inspiration is a rule the GM uses to reward you when you show up to play a game session on time and for playing your character in an exceptional way.
 
 ### Gaining Inspiration
-At the beginning of each game session, PCs choose and dedicate two skills. Once the choices are made, they cannot be changed until the beginning of the next game session. Your GM then awards inspiration to all present PCs. Your GM also has the option to grant you inspiration for various reasons during gameplay. Generally, inspiration is given when you effectively portray your character in a compelling way. Your GM or setting handbook may introduce other ways to earn inspiration during the game.
+At the beginning of each game session, PCs choose and dedicate two skills. Once the choices are made, the chosen dedications cannot be changed until the beginning of the next game session. Your GM then awards inspiration to all present PCs. Your GM also has the option to grant you inspiration for various reasons during gameplay. Generally, inspiration is given when you effectively portray your character in a compelling way. Your GM or setting handbook may introduce other ways to earn inspiration during the game.
 
 You either have inspiration or you don’t—you can’t stockpile multiple “inspirations” for later use.
 
@@ -956,16 +956,24 @@ If you have inspiration, you can expend it when you make an attack roll, saving 
 
 Additionally, if you have inspiration, you can reward another player for good roleplaying, clever thinking, or simply doing something exciting in the game. When another player character does something that really contributes to the story in a fun and interesting way, you can give up your inspiration to give that character inspiration.
 
-### Inspired SKills
-***Insight.*** Your character can easily determine sincerity, true motives, and intentions within the current scene. Illusions, misdirections, disguises, or actions intending to deceive appear transparent to you. Your GM refunds your inspiration if no additional information is gained.
+### Inspired Skills
+***INSIGHT.*** Your character can easily determine sincerity, true motives, and intentions within the current scene. Illusions, misdirections, disguises, or actions intending to deceive appear transparent to you. Your GM refunds your inspiration if no additional information is gained.
 
-***Medicine.*** Choose any number of targets your character can see within 30 feet of you who are unconscious or dying. Each target immediately stabilizes and wakes up with minimum health.
+***MEDICINE.*** Choose any number of targets your character can see within 30 feet of you who are unconscious or dying. Each target immediately stabilizes and wakes up with minimum health.
 
-***Perception.*** Your character receives all available pieces of information regarding the current scene. Hidden doors, creatures, traps, ambushes, whispered conversations—anything arising from sense data or information gained through the five senses. Your GM refunds your inspiration if no additional information is gained.
+***PERCEPTION.*** Your character receives all available pieces of information regarding the current scene. Hidden doors, creatures, traps, ambushes, whispered conversations—anything arising from sense data or information gained through the five senses. Your GM refunds your inspiration if no additional information is gained.
 
-***Performance.*** You decide the outcome of the next action your character declares on their turn. You must use your inspiration this way before taking an action or rolling any dice.
+***PERFORMANCE.*** You decide the outcome of the next action your character declares on their turn. You must use your inspiration this way before taking an action or rolling any dice. If the result of your chosen action further affects you on subsequent rounds, roll all attacks, ability checks, and saves relating to your chosen action with advantage until the end of the encounter.
 
-***Survival.*** Your character finds a path leading to another desired location on the current map. The revealed path is one of many potential pathways, must be traversable, and cannot put PCs directly into harm's way. Your GM refunds your inspiration if no pathway is revealed. Alternatively, once per game session, you can use your inspired Survival to activate the inspired version of another skill you didn't dedicate at the beginning of the game.
+For example,
+(_GM:_) "The room opens up, exposing a sprawling cliff face leading to the top of the spire."
+(_Player 1:_) "I spend my inspiration to activate inspired PERFORMANCE."
+(_GM:_) "OK, great. Tell us a little about what action you're character wants to take. And then, when you're ready, tell us what happens."
+(_Player 1:_) "Thanks. Lita leaps onto the cliff face, finds her grip, and makes her way to the top."
+
+_Player 1_'s action resolves a successful Performance check without rolling to begin climbing the cliff face to reach the top of the spire, which is 40 squares above Lita's position. _Player 1_ has indicated that this climb is important in some way. While climbing the cliff, Lita then makes all attacks, ability checks, and saves with advantage. Later on, during the cliff-face encounter, Lita's skill is tested once again due to strong winds. She must succeed on a Performance check to keep her grip. Because she is still in the same cliff-face encounter, she rolls Performance with advantage.
+
+***SURVIVAL.*** Your character finds a path leading to another desired location on the current map. The revealed path must be traversable and cannot put PCs directly into harm's way. Your GM refunds your inspiration if no pathway is revealed. Alternatively, once per game session, you can use your inspired Survival to activate the inspired version of another skill you didn't dedicate at the beginning of the game.
 
 # Backgrounds
 Every story has a beginning. Your character’s background reveals where you came from, how you became an adventurer, and your place in the world. Your dwarf warrior might have been a courageous knight or a grizzled soldier. Your halfling mage could have been a sage or an artisan. Your elf scoundrel might have gotten by as a guild thief or commanded audiences as a jester.
