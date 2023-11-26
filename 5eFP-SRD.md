@@ -974,6 +974,7 @@ Additionally, if you have inspiration, you can reward another player for good ro
 >>> 
 >>> (_Player 1:_) "Thanks. Lita leaps onto the cliff face, finds her grip, and makes her way to the top."
 >>> 
+>>> ...
 >>> 
 >>> _(GM)_ "Lita, it's your turn."
 >>> _(Player 1)_ "I spend my inspiration to activate inspired PERFORMANCE."
