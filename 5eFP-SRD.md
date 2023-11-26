@@ -963,18 +963,25 @@ Additionally, if you have inspiration, you can reward another player for good ro
 
 ***PERCEPTION.*** Your character receives all available pieces of information regarding the current scene. Hidden doors, creatures, traps, ambushes, whispered conversations—anything arising from sense data or information gained through the five senses. Your GM refunds your inspiration if no additional information is gained.
 
-***PERFORMANCE.*** You decide the outcome of the next action your character declares on their turn. You must use your inspiration this way before taking an action or rolling any dice. If the result of your chosen action further affects you on subsequent rounds, roll all attacks, ability checks, and saves relating to your chosen action with advantage until the end of the encounter.
+***PERFORMANCE.*** You decide the outcome of the next action your character declares on their turn. You must use your inspiration this way before taking an action or rolling any dice. If the result of your chosen action further affects you on subsequent rounds, roll all attacks, ability checks, and saves relating to the chosen action with advantage until the end of the encounter.
 
 >> For example,
 >>> (_GM:_) "The room opens up, exposing a sprawling cliff face leading to the top of the spire."
 >>> 
 >>> (_Player 1:_) "I spend my inspiration to activate inspired PERFORMANCE."
 >>> 
->>> (_GM:_) "OK, great. Tell us a little about what action you're character wants to take. And then, when you're ready, tell us what happens."
+>>> (_GM:_) "OK, great. Tell us about what action you're character wants to take. And then, when you're ready, tell us what happens."
 >>> 
 >>> (_Player 1:_) "Thanks. Lita leaps onto the cliff face, finds her grip, and makes her way to the top."
->>>
->>_Player 1_'s action resolves a successful Performance check without rolling to begin climbing the cliff face to reach the top of the spire, which is 40 squares above Lita's position. _Player 1_ has indicated that this climb is important in some way. While climbing the cliff, Lita then makes all attacks, ability checks, and saves with advantage. Later on, during the cliff-face encounter, Lita's skill is tested once again due to strong winds. She must succeed on a Performance check to keep her grip. Because she is still in the same cliff-face encounter, she rolls Performance with advantage.
+>>> s
+>>> s
+>>> _(GM)_ "Lita, it's your turn."
+>>> _(Player 1)_ "I spend my inspiration to activate inspired PERFORMANCE."
+>>> _(GM)_ "OK, great. Tell us about what action you're character wants to take. And then, when you're ready, tell us what happens."
+>>> _(Player 1)_ "I jump out of where I'm hiding and attack the goblin, catching it off guard and unaware. I strike with a critical hit, dealing maximum damage to the creature, adding my sneak attack damage."
+>>> 
+>> In the first example, _Player 1_'s action resolves a successful Performance check without rolling to begin climbing the cliff face to reach the top of the spire, which is 40 squares above Lita's position. _Player 1_ has indicated that this climb is important in some way. While climbing the cliff, Lita then makes all attacks, ability checks, and saves with advantage. Later on, during the cliff-face encounter, Lita's skill is tested once again due to strong winds. She must succeed on a Performance check to keep her grip. Because she is still in the same cliff-face encounter, she rolls Performance with advantage.
+>> In the second example, _Player 1_'s action resolves a successful attack action from a hidden position and then resolves. The action does not continue on subsequent rounds.
 
 ***SURVIVAL.*** Your character finds a path leading to another desired location on the current map. The revealed path must be traversable and cannot put PCs directly into harm's way. Your GM refunds your inspiration if no pathway is revealed. Alternatively, once per game session, you can use your inspired Survival to activate the inspired version of another skill you didn't dedicate at the beginning of the game.
 
