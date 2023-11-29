@@ -879,6 +879,12 @@ A typical creature in the game world has an alignment, which broadly describes i
 
 These brief summaries of the nine alignments describe the typical behavior of a creature with that alignment. Player characters must select a non-evil alignment at character creation. Individuals might vary significantly from that typical behavior, and few people are perfectly and consistently faithful to the precepts of their alignment.
 
+> # Playable Alignments
+>> - **GOOD.** Favors the common good for all. Fairness and consideration of others.
+>> - **LAWFUL.** Best able to turn chaos into a degree of order with purpose.
+>> - **CHAOTIC.** Best able to grow and adapt to changes.
+>> - **NEUTRAL.** Undecided. Understands that there is a time and place for each alignment.
+
 **Lawful good** (LG) creatures can be counted on to do the right thing as expected by society. Gold dragons, paladins, and most dwarves are lawful good.
 
 **Neutral good** (NG) folk do the best they can to help others according to their needs. Many celestials, some cloud giants, and most gnomes are neutral good.
@@ -1314,7 +1320,7 @@ If	either	weapon	has	the	thrown	property,	you	can	throw	the	weapon,	instead	of	m
 **Forced Movement.** If any part of the encounter imposes forced movement, this number represents the number of squares of forced movement. If no direction is stated, the movement is a push.
 
 ## Customizing Encounters
-The encounter statistics provided represent average values. Any number of statistics may be increased by up to +(LEVEL), provided another statistic is decreased by the same amount. Only stats used in an encounter can be customized. For example, during a level 1 monster encounter, the GM increases an awakened shrub minion's AC by +1. The cost of increasing the minion's AC is paid by the GM choosing to decrease the awakened shrub minion's attack modifier by -1. In this example, the GM couldn't decrease the DC stat by -1 because the awakened shrub minion doesn't possess a stat using a DC. However, if the encounter includes a condition or effect requiring a saving throw to resist, the DC stat can be decreased by -1.
+The encounter statistics provided represent average values. Any number of statistics may be increased by up to +(LEVEL), provided the same amount decreases another statistic. Only stats used in an encounter can be customized. For example, during a level 1 monster encounter, the GM increases an awakened shrub minion's AC by +1. The cost of increasing the minion's AC is paid by the GM choosing to decrease the awakened shrub minion's attack modifier by -1. In this example, the GM couldn't decrease the DC stat by -1 because the awakened shrub minion doesn't possess a stat using a DC. However, if the encounter includes a condition or effect requiring a saving throw to resist, the DC stat can be decreased by -1.
 
 A minion's MAX wounds or damage cannot be customized.
 
@@ -1331,7 +1337,7 @@ Encounter type describes what kind of encounter it is.
 ## Monster
 A monster’s statistics, sometimes referred to as its **stat block**, provide the essential information that you need to run the monster.
 
->Monster encounters use one of three templates: (where does this section go?)
+>Monster encounters use one of three templates:
 >
 >- **Minion.** Place (number of PCs + 1) minions onto the playing field.
 >- **Elite.** As **Minion** plus add 2 elites onto the playing field.
@@ -1354,12 +1360,11 @@ The game includes the following monster types, which have no rules of their own.
 
 **Dragons** are large reptilian creatures of ancient origin and tremendous power. True dragons, including the good metallic dragons and the evil chromatic dragons, are highly intelligent and have innate magic. Also in this category are creatures distantly related to true dragons, but less powerful, less intelligent, and less magical, such as wyverns and pseudodragons.
 
-**Elementals** are creatures native to the elemental planes. Some creatures of this type are little more than animate masses of their respective elements, including the creatures simply called elementals. Others have biological forms infused with elemental energy. The genie species, including djinn and efreet, form the most important civilizations on the elemental planes. Other elemental creatures include azers and invisible stalkers.
+**Elementals** are creatures native to the elemental planes. Some creatures of this type are little more than animate masses of their respective elements, including the creatures simply called elementals or the Primordials. Others have biological forms infused with elemental energy. The genie species, including djinn and efreet, form the most important civilizations on the elemental planes. Other elemental creatures include azers and invisible stalkers.
 
 **Fey** are magical creatures closely tied to the forces of nature. They dwell in twilight groves and misty forests. In some worlds, they are closely tied to the Feywild, also called the Plane of Faerie. Some are also found in the Outer Planes, particularly the planes of Arborea and the Beastlands. Fey include dryads, pixies, and satyrs.
 
-**Fiends** are creatures of wickedness that are native to the Lower Planes. A few are the servants of deities, but many more labor under the leadership of archdevils and demon princes. Evil priests and
-mages sometimes summon fiends to the material world to do their bidding. If an evil celestial is a rarity, a good fiend is almost inconceivable. Fiends include demons, devils, hell hounds, rakshasas, and yugoloths.
+**Fiends** are creatures of wickedness that are native to the Lower Planes. A few are the servants of deities, but many more labor under the leadership of archdevils and demon princes. Evil priests and mages sometimes summon fiends to the material world to do their bidding. If an evil celestial is a rarity, a good fiend is almost inconceivable. Fiends include demons, devils, hell hounds, rakshasas, and yugoloths.
 
 **Giants** tower over humans and their kind. They are humanlike in shape, though some have multiple heads (ettins) or deformities (fomorians). The six varieties of true giant are hill giants, stone giants, frost giants, fire giants, cloud giants, and storm giants. Besides these, creatures such as ogres and trolls are giants.
 
@@ -1505,7 +1510,7 @@ Some special abilities have restrictions on the number of times they can be used
 
 For example, "Bolster 2" means a monster can use up to 2 bolster points as a free action to reduce incoming damage by an amount equal to the number of bolster points spent. If the creature uses 1 bolster point, it then has "Bolster 1." If it later gains "Bolster 2," the creature gains "Bolster 2" and discards "Bolster 1."
 
-**X/Game.** The notation “X/Game” means a special ability can be used X number of times during a 5eFP game. That monster regains expended uses when the game session ends. For example, “1/Game” means a special ability can be used once during a 5eFP game.
+**X/Game.** The notation “X/Game” means a special ability or feature can only be used X number of times during one 5eFP game session.
 
 **Recharge X–Y.** The notation “Recharge X–Y” means a monster can use a special ability once and that the ability then has a random chance of recharging during each subsequent round of combat. At the start of each of the monster’s turns, roll three action dice. If the number of actions equals one of the numbers in the recharge notation, the monster regains the use of the special ability. The ability also recharges when the monster finishes a short rest.
 
@@ -1516,7 +1521,7 @@ For example, “Recharge 3–4” means a monster can use the special ability on
 >#### Grapple Rules for Monsters
 >Many monsters have special attacks that allow them to quickly grapple prey. When a monster hits with such an attack, it doesn’t need to make an additional ability check to determine whether the grapple succeeds, unless the attack says otherwise.
 >
->A creature grappled by the monster can use its action to try to escape. To do so, it must succeed on a Performance check.
+>A creature grappled by the monster can use its action to try to escape. To do so, it must succeed on a contested Performance check.
 
 ### Equipment
 A stat block rarely refers to equipment, other than armor or weapons used by a monster. A creature that customarily wears clothes, such as a humanoid, is assumed to be dressed appropriately.
@@ -1540,7 +1545,7 @@ A boss might have a section describing its lair and the special effects it can c
 If a legendary creature has lair actions, it can use them to harness the ambient magic in its lair. On initiative count 20 (losing all initiative ties), it can use one of its lair action options. It can’t do so while incapacitated or otherwise unable to take actions. If surprised, it can’t use one until after its first turn in the combat.
 
 #### Regional Effects
-The mere presence of a boss can have strange and wondrous effects on its environment, as noted in this section. Regional effects end abruptly or dissipate over time when the boss dies.
+The mere presence of a boss can have strange and wondrous effects on its environment, as noted in this section. Regional effects end abruptly or dissipate over time when the boss is defeated.
 
 ### Monster Descriptions
 All monster descriptions are detailed in Appendix MM.
@@ -1561,17 +1566,6 @@ Dungeons may have one or more bonus features.
 ## Trap
 
 ...
-
----
-
-(floating section)
-# Playable Alignments
-- **GOOD.** Favors the common good for all. Fairness and consideration of others.
-- **LAWFUL.** Best able to turn chaos into a degree of order with purpose.
-- **CHAOTIC.** Best able to grow and adapt to changes.
-- **NEUTRAL.** Undecided. Understands that there are times and places for each alignment.
-
----
 
 # Appendix PHS
 # Spellcasting
