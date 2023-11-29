@@ -881,8 +881,11 @@ These brief summaries of the nine alignments describe the typical behavior of a 
 
 > ### Playable Alignments
 >> **GOOD.** Favors the common good for all. Fairness and consideration of others.
+>> 
 >> **LAWFUL.** Best able to turn chaos into a degree of order with purpose.
+>> 
 >> **CHAOTIC.** Best able to grow and adapt to changes.
+>> 
 >> **NEUTRAL.** Undecided. Understands that there is a time and place for each alignment.
 
 **Lawful good** (LG) creatures can be counted on to do the right thing as expected by society. Gold dragons, paladins, and most dwarves are lawful good.
