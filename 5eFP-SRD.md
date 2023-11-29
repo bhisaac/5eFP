@@ -1035,13 +1035,13 @@ Acolytes are shaped by their experience in temples or other religious communitie
 
 # Equipment
 ## Coins
-A 5eFP game uses coins (**⛁**), a single denomination representing wealth, resources, experience, and reputation. The name of a coin may change in some 5eFP games. For example, coins might be called "gold pieces" in a medieval fantasy setting, while coins might refer to "credits" in a futuristic sci-fi setting. A game's setting handbook details what coins are called in a game. All coins use the following rules.
+A 5eFP game uses coins (**⛁** equals 1 coin), a single denomination representing wealth, resources, experience, and reputation. The name of a coin may change in some 5eFP games. For example, coins might be called "gold pieces" in a medieval fantasy setting, while coins might refer to "credits" in a futuristic sci-fi setting. A game's setting handbook details what coins are called in a game. All coins use the following rules.
 
 ## Earning Coins
-GMs award 1**⛁** whenever PCs complete an encounter. Award +1⛁ coin when the following conditions are met:
+GMs award **⛁** whenever PCs complete an encounter. Award +⛁ when the following conditions are met:
 
-- The PCs find one or more treasures.
-- The PCs increase one or more reputations.
+- The PCs find one or more treasures during the encounter.
+- The PCs increase one or more reputations during the encounter.
 
 The number of coins GMs award when encounters are completed increases to 2**⛁** starting at 3rd level and 3**⛁** beginning at 6th level.
 
@@ -1088,8 +1088,8 @@ The Armor table shows the cost, weight, and other properties of the common types
 |:-|:-|:-|
 |**Light Armor**|**Modifiers**|**Cost**|
 ||||
-|Padded|Disadvantage|1⛁|
-|Leather||1⛁|
+|Padded|Disadvantage|⛁|
+|Leather||⛁|
 |Studded Leather|+1|2⛁|
 ||||
 |**Medium Armor**|**Modifiers**|**Cost**|
@@ -1099,7 +1099,7 @@ The Armor table shows the cost, weight, and other properties of the common types
 ||||
 |**Heavy Armor**|**Modifiers**|**Cost**|
 ||||
-|Chain Mail|Disadvantage|2⛁|
+|Chain Mail|Disadvantage|3⛁|
 |Full Plate|Disadvantage|5⛁|
 
 Armor listed with disadvantage imposes disadvantage to any Performance skill check used for quick, agile, and stealthy actions while the armor is equipped.
