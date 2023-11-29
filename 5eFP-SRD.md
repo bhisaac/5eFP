@@ -3,8 +3,6 @@
 ### Character Creation
 **Ability Scores**
 
-<code style="color : pink">PINK!</code>
-
 Whenever you create a new character, assign ability scores using the standard array: (+2, +2, +1, +1, +0, -1)
 
 Choose and place each score as desired. Two ability scores represent advanced ability and talent (+2), another two represent aptitude (+1), another ability score represents average ability (+0), and the last ability score is challenged by adversity and unfavorable circumstances (-1).
