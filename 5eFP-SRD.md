@@ -1194,7 +1194,7 @@ Whenever a PC chooses a specific downtime activity, it cannot be chosen again un
 - **1 Action.** Choose and gain the benefit of 1 downtime activity.
 - **1 Reaction.** You have one reaction during a round of downtime. Once you use your reaction, you cannot do so again until the beginning of the next round of downtime.
 - **1 Bonus Action.** You may perform one bonus action during a round of downtime.
-- **1 Object Interaction.** You may equip or unequip one item.
+- **1 Object Interaction.** You may equip or unequip items.
 
 ### Crafting
 Choose this option to create items used in the game.
