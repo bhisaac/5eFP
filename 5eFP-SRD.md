@@ -1113,6 +1113,8 @@ The Armor table shows the cost, weight, and other properties of the common types
 
 Armor listed with disadvantage imposes disadvantage to any Performance skill check used for quick, agile, and stealthy actions while the armor is equipped.
 
+When wearing armor that is listed as having Max DEX +2, your Dexterity modifier can only modify your Armor Class (AC) by a maximum of +2. This means that if you have DEX +3 and you wear medium armor with Max DEX +2, you can only apply a +2 modifier to your AC, and the remaining +1 modifier is ignored.
+
 ---
 
 (Floating Section)
