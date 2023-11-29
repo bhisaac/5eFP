@@ -10,8 +10,6 @@ Choose and place each score as desired. Two ability scores represent advanced ab
 ### Round Down
 Certain features and effects in the game allow you to divide a number by half or more. Whenever you divide a number, round down if you end up with a fraction, even if the fraction is one-half or greater (minimum 1).
 
----
-
 # Species
 ## Species Traits
 The description of each species includes species traits that are common to members of that species. The following entries appear among the traits of most species.
@@ -106,7 +104,7 @@ As a high elf, you have strong ties to nature and magic. In many fantasy gaming 
 
 **Elf Weapon Training.** You have proficiency with the longsword, shortsword, shortbow, and longbow.
 
-**Magical Attunement.** Choose and gain one species trait:
+**Magic Attunement.** Choose and gain one species trait:
 - **Arcane.** You know one cantrip of your choice from the wizard spell list. INT is your spellcasting ability for it. You can also speak, read, and write one extra language of your choice.
 - **Feywild.** You can cast the *misty step* spell once using this trait. You regain the ability to do so when you finish a short or long rest.
 
