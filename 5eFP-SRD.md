@@ -1,7 +1,13 @@
 # Introduction
 ## How to Play
+### Character Creation
+#### Ability Scores
+Whenever you create a new character, assign ability scores using the standard array: (+2, +2, +1, +1, +0, -1)
+
+Choose and place each score as desired. Two ability scores represent advanced ability and talent (+2), another two represent aptitude (+1), another ability score represents average ability (+0), and the last ability score is challenged by adversity and unfavorable circumstances (-1).
+
 ### Round Down
-Certain features and affects in the game allow you to divide a number by half or more. Whenever you divide a number, round down if you end up with a fraction, even if the fraction is one-half or greater (minimum 1).
+Certain features and effects in the game allow you to divide a number by half or more. Whenever you divide a number, round down if you end up with a fraction, even if the fraction is one-half or greater (minimum 1).
 
 ---
 
@@ -173,17 +179,6 @@ It’s hard to make generalizations about humans, but your human character has t
 **Speed.** Your base walking speed is 6 squares.
 
 **Languages.** You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on.
-
----
-
-(floating section)
-# Character Creation
-## Ability Scores
-Whenever you create a new character, assign ability scores using the standard array: (+2, +2, +1, +1, +0, -1)
-
-Choose and place each score as desired. Two ability scores represent advanced ability and talent (+2), another two represent aptitude (+1), another ability score represents average ability (+0), and the last ability score is challenged by adversity and unfavorable circumstances (-1).
-
----
 
 # Barbarian
 #### Class Features
