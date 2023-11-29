@@ -1280,12 +1280,6 @@ When you take the Attack action and attack with a light melee weapon that you're
 
 If	either	weapon	has	the	thrown	property,	you	can	throw	the	weapon,	instead	of	making	a	melee	attack	with	it.
 
----
-
-
-
----
-
 (floating section)
 # Encounters
 5eFP uses encounters to describe the adversity PCs find while exploring maps. Traps, unfavorable environmental conditions, creatures, and challenging story situations are all considered encounters. Use the following table to determine the base statistics for all encounters. Except for forced movement, minion damage, and minion MAX wounds, add LEVEL to the base values.
