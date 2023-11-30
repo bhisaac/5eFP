@@ -1217,7 +1217,7 @@ When you use an action, bonus action, or reaction to attack with a net, you can 
 **Simple Melee Weapons**
 ||||||
 |:-|:-|:-|:-|:-|
-|**Name**|**Cost**|**Damage**|**Equipment Slots**|**Properties**|
+|**Name**|**Cost**|**Damage**|**Slots**|**Properties**|
 |Club|⛁|1 bludgeoning|1|Light|
 |Dagger|⛁|1 piercing|1|Finess, light, thrown (range 4/12)|
 |Greatclub|⛁|1 bludgeoning|2|Two-handed|
