@@ -1218,25 +1218,25 @@ When you use an action, bonus action, or reaction to attack with a net, you can 
 ||||||
 |:-|:-:|:-|:-:|:-|
 |**Name**|**Cost**|**Damage**|**Slots**|**Properties**|
-|Club|⛁|1 bludgeoning|1|Light|
-|Dagger|⛁|1 piercing|1|Finess, light, thrown (range 4/12)|
-|Greatclub|⛁|1 bludgeoning|2|Two-handed|
-|Handaxe|⛁|1 slashing|1|Light, thrown (range 4/12)|
-|Javelin|⛁|1 piercing|1|Thrown (range 6/24)|
-|Light hammer|⛁|1 bludgeoning|1|Light, thrown (range 4/12)|
-|Mace|⛁|1 bludgeoning|1|--|
-|Quarterstaff|⛁|1 bludgeoning|2|Versatile|
-|Sickle|⛁|1 slashing|1|Light|
-|Spear|⛁|1 piercing|1|Thrown (range 4/12), versatile|
+|Club|1⛁|1 bludgeoning|1|Light|
+|Dagger|1⛁|1 piercing|1|Finess, light, thrown (range 4/12)|
+|Greatclub|1⛁|1 bludgeoning|2|Two-handed|
+|Handaxe|1⛁|1 slashing|1|Light, thrown (range 4/12)|
+|Javelin|1⛁|1 piercing|1|Thrown (range 6/24)|
+|Light hammer|1⛁|1 bludgeoning|1|Light, thrown (range 4/12)|
+|Mace|1⛁|1 bludgeoning|1|--|
+|Quarterstaff|1⛁|1 bludgeoning|2|Versatile|
+|Sickle|1⛁|1 slashing|1|Light|
+|Spear|1⛁|1 piercing|1|Thrown (range 4/12), versatile|
 
 **Simple Ranged Weapons**
 ||||||
 |:-|:-:|:-|:-:|:-|
 |**Name**|**Cost**|**Damage**|**Slots**|**Properties**|
 |Crossbow, light|2⛁|1 piercing|1|Ammunition (range 16/64), loading, two-handed|
-|Dart|⛁|1 piercing|1|Finesse, thrown (range 4/12)|
+|Dart|1⛁|1 piercing|1|Finesse, thrown (range 4/12)|
 |Shortbow|2⛁|1 percing|1|Ammunition (range 16/64), two-handed|
-|Sling|⛁|1 bludgeoning|1|Ammunitio (range 16/24)|
+|Sling|1⛁|1 bludgeoning|1|Ammunitio (range 16/24)|
 
 
 ---
