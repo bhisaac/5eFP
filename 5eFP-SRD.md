@@ -1216,7 +1216,7 @@ When you use an action, bonus action, or reaction to attack with a net, you can 
 
 **Simple Melee Weapons**
 ||||||
-|:-|:-|:-|:-|:-|
+|:-|:-:|:-|:-:|:-|
 |**Name**|**Cost**|**Damage**|**Slots**|**Properties**|
 |Club|⛁|1 bludgeoning|1|Light|
 |Dagger|⛁|1 piercing|1|Finess, light, thrown (range 4/12)|
@@ -1231,8 +1231,8 @@ When you use an action, bonus action, or reaction to attack with a net, you can 
 
 **Simple Ranged Weapons**
 ||||||
-|:-|:-|:-|:-|:-|
-||||||
+|:-|:-:|:-|:-:|:-|
+|**Name**|**Cost**|**Damage**|**Slots**|**Properties**|
 |Crossbow, light|2⛁|1 piercing|1|Ammunition (range 16/64), loading, two-handed|
 |Dart|⛁|1 piercing|1|Finesse, thrown (range 4/12)|
 |Shortbow|2⛁|1 percing|1|Ammunition (range 16/64), two-handed|
