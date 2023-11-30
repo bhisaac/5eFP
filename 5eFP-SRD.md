@@ -1077,9 +1077,36 @@ Fantasy gaming worlds are a vast tapestry made up of many different cultures, ea
 
 The Armor table shows the cost, weight, and other properties of the common types of armor worn in fantasy gaming worlds.
 
-**Armor Proficiency.** Anyone can put on a suit of armor or strap a shield to an arm. Only those proficient in the armor’s use know how to wear it effectively, however. Your class gives you proficiency with certain types of armor. If you wear armor that you lack proficiency with, you have disadvantage on any skill check, saving throw, or attack roll that involves Strength or Dexterity, and you can’t cast spells.
+***Armor Proficiency.*** Anyone can put on a suit of armor or strap a shield to an arm. Only those proficient in the armor’s use know how to wear it effectively, however. Your class gives you proficiency with certain types of armor. If you wear armor that you lack proficiency with, you have disadvantage on any skill check, saving throw, or attack roll that involves Strength or Dexterity, and you can’t cast spells.
 
-**Armor Class (AC).** Armor protects its wearer from attacks. The armor (and shield) you wear determines your base Armor Class.
+***Armor Class (AC).*** Armor protects its wearer from attacks. The armor (and shield) you wear determines your base Armor Class.
+
+***Heavy Armor.*** Heavier armor interferes with the wearer’s ability to move quickly, stealthily, and freely. If the Armor table shows “Str +1” or “Str +2”, the armor reduces the wearer’s speed by 10 feet unless the wearer has a Strength score equal to or higher than the listed score.
+
+***Stealth.*** If the Armor table shows “Disadvantage”, the wearer has disadvantage on Performance (stealth) checks.
+
+***Shields.*** A shield is made from wood or metal and is carried in one hand. Wielding a shield increases your Armor Class by 2. You can benefit from only one shield at a time.
+
+### Light Armor
+Made from supple and thin materials, light armor favors agile adventurers since it offers some protection without sacrificing mobility. If you wear light armor, you add your DEX to your Armor Class.
+
+***Padded.*** Padded armor consists of quilted layers of cloth and batting.
+
+***Leather.*** The breastplate and shoulder protectors of this armor are made of leather that has been stiffened by being boiled in oil. The rest of the armor is made of softer and more flexible materials.
+
+***Studded Leather.*** Made from tough but flexible leather, studded leather is reinforced with close-­set rivets or spikes.
+
+### Medium Armor
+Medium armor offers more protection than light armor, but it also impairs movement more. If you wear medium armor, you add your DEX, to a MAX DEX of +2, to your Armor Class.
+
+***Breastplate.*** This armor consists of a fitted metal chest piece worn with supple leather. Although it leaves the legs and arms relatively unprotected, this armor provides good protection for the wearer’s vital organs while leaving the wearer relatively unencumbered.
+
+***Chain Mail.*** Made of interlocking metal rings, chain mail includes a layer of quilted fabric worn underneath the mail to prevent chafing and to cushion the impact of blows. The suit includes gauntlets.
+
+### Heavy Armor
+***Half Plate.*** Half plate consists of shaped metal plates that cover most of the wearer’s body. It does not include leg protection beyond simple greaves that are attached with leather straps.
+
+***Plate.*** Plate consists of shaped, interlocking metal plates to cover the entire body. A suit of plate includes gauntlets, heavy leather boots, a visored helmet, and thick layers of padding underneath the armor. Buckles and straps distribute the weight over the body.
 
 ...
 
@@ -1087,7 +1114,7 @@ The Armor table shows the cost, weight, and other properties of the common types
 |:-|:-|
 |No Armor|AC 10 + DEX|
 |Light Armor|AC 11 + DEX|
-|Medium Armor|AC 16 (STR +1 or greater)|
+|Medium Armor|AC 16 (STR +1 or greater), Max DEX +2|
 |Heavy Armor|AC 18 (STR +2 or greater)|
 |Shield|+2 AC|
 
@@ -1103,18 +1130,104 @@ The Armor table shows the cost, weight, and other properties of the common types
 ||||
 |**Medium Armor**|**Modifiers**|**Cost**|
 ||||
-|Half Plate|Max DEX +2, disadvantage|3⛁|
-|Breastplate|Max DEX +2|4⛁|
+|Breastplate||6⛁|
+|Chain Mail|Disadvantage|3⛁|
 ||||
 |**Heavy Armor**|**Modifiers**|**Cost**|
 ||||
-|Chain Mail|Disadvantage|3⛁|
-|Full Plate|Disadvantage|5⛁|
+|Half Plate|Disadvantage|6⛁|
+|Full Plate|Disadvantage|12⛁|
 
 Armor listed with disadvantage imposes disadvantage to any Performance skill check used for quick, agile, and stealthy actions while the armor is equipped.
 
 When wearing armor that is listed as having Max DEX +2, your Dexterity modifier can only modify your Armor Class (AC) by a maximum of +2. This means that if you have DEX +3 and you wear medium armor with Max DEX +2, you can only apply a +2 modifier to your AC, and the remaining +1 modifier is ignored.
 
+### Getting Into and Out of Armor
+The time it takes to don or doff armor depends on the armor’s category.
+
+***Don.*** This is the time it takes to put on armor. You benefit from the armor’s AC only if you take the full time to don the suit of armor.
+
+***Doff.*** This is the time it takes to take off armor. If you have help, reduce this time by half.
+
+**Donning and Doffing Armor**
+||||
+|:-|:-|:-|
+|**Category**|**Don**|**Doff**|
+|Light|1 minute|1 minute|
+|Medium|5 minutes|1 minute|
+|Heavy|10 minutes|5 minutes|
+|Shield|1 action|1 action|
+
+## Weapons
+Your class grants proficiency in certain weapons, reflecting both the class’s focus and the tools you are most likely to use. Whether you favor a longsword or a longbow, your weapon and your ability to wield it effectively can mean the difference between life and death while adventuring.
+
+The Weapons table shows the most common weapons used in the fantasy gaming worlds, their price and weight, the damage they deal when they hit, and any special properties they possess. Every weapon is classified as either melee or ranged. A **melee weapon** is used to attack a target within 5 feet of you, whereas a **ranged weapon** is used to attack a target at a distance.
+
+### Weapon Proficiency
+Your species, class, and feats can grant you proficiency with certain weapons or categories of weapons. The two categories are simple and martial. Most people can use simple weapons with proficiency. These weapons include clubs, maces, and other weapons often found in the hands of commoners. Martial weapons, including swords, axes, and polearms, require more specialized training to use effectively. Most warriors use martial weapons because these weapons put their fighting style and training to best use.
+
+Proficiency with a weapon allows you to add your LEVEL to the attack roll for any attack you make with that weapon. If you make an attack roll using a weapon with which you lack proficiency, you do not add your LEVEL to the attack roll.
+
+### Weapon Properties
+Many weapons have special properties related to their use, as shown in the Weapons table.
+
+**_Ammunition._** You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, roll 1 action die. If you roll 1 action, your ammunition depletes (turn the ammunition card sideways). If your ammunition is already depleted, you have only one piece of ammunition left, represented by turning the card upside down. After using the last piece of ammunition, return the ammunition card to the equipment deck. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-­handed weapon). At the end of the battle, you can reclaim ammunition and remove the depleted condition on one depleted ammunition used in the battle by taking 1 minute to search the battlefield.
+
+If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon (see “Improvised Weapons” later in the section). A sling must be loaded to deal any damage when used in this way.
+
+**_Finesse._** When making an attack with a finesse weapon, you use your choice of your STR or DEX for attack rolls.
+
+**_Heavy._** Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon’s size and bulk make it too large for a Small creature to use effectively.
+
+**_Light._** A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons.
+
+**_Loading._** Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an action, bonus action, or reaction to fire it, regardless of the number of attacks you can normally make.
+
+**_Range._** A weapon that can be used to make a ranged attack has a range in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon’s normal range in feet, and the second indicates the weapon’s long range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can’t attack a target beyond the weapon’s long range.
+
+**_Reach._** This weapon adds +1 square to your reach when you attack with it, as well as when determining your reach for opportunity attacks with it.
+
+**_Special._** A weapon with the special property has unusual rules governing its use, explained in the weapon’s description (see “Special Weapons” later in this section).
+
+**_Thrown._** If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your STR, but if you throw a dagger, you can use either your STR or your DEX, since the dagger has the finesse property.
+
+**_Two-­Handed._** This weapon requires two hands when you attack with it.
+
+**_Versatile._** This weapon can be used with one or two hands. A damage value in parentheses appears with the property—the damage when the weapon is used with two hands to make a melee attack.
+
+#### Improvised Weapons
+Sometimes characters don’t have their weapons and have to attack with whatever is at hand. An improvised weapon includes any object you can wield in one or two hands, such as broken glass, a table leg, a frying pan, a wagon wheel, or a dead goblin.
+
+Often, an improvised weapon is similar to an actual weapon and can be treated as such. For example, a table leg is akin to a club. At the GM’s option, characters proficient with a weapon can use a similar object as if it were that weapon and add their LEVEL to its attack bonus.
+
+An object that bears no resemblance to a weapon deals 1 damage (the GM assigns a damage type appropriate to the object). If a character uses a ranged weapon to make a melee attack, or throws a melee weapon that does not have the thrown property, it also deals 1 damage. An improvised thrown weapon has a normal range of 4 squares and a long range of 12 squares.
+
+#### Silvered Weapons
+Some monsters that have immunity or resistance to nonmagical weapons are susceptible to silver weapons, so cautious adventurers invest extra coin to plate their weapons with silver. You can silver a single weapon or one ammunition at a forge for 6⛁. You may spend silver to reduce this cost to 3⛁. This cost represents not only the price of the silver, but the time and expertise needed to add silver to the weapon without making it less effective.
+
+#### Special Weapons
+Weapons with special rules are described here.
+
+**_Lance._** You have disadvantage when you use a lance to attack a target within 1 square of you. Also, a lance requires two hands to wield when you aren’t mounted.
+
+**_Net._** A Large or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 STR check, freeing itself or another creature within its reach on a success. Dealing 1 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net.
+
+When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.
+
+**Weapons**
+|||||||
+|:-|:-|:-|:-|:-|:-|
+|Simple Melee Weapons||||||
+||Club|||||
+||Dagger|||||
+||Greatclub|||||
+||Handaxe|||||
+||Javelin|||||
+||Light hammer|||||
+||Mace|||||
+||Quarterstaff|||||
+||Sickle|||||
+||Spear|||||
 ---
 
 (Floating Section)
