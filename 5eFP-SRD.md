@@ -1236,7 +1236,7 @@ When you use an action, bonus action, or reaction to attack with a net, you can 
 |Crossbow, light|2⛁|1 piercing|1|Ammunition (range 16/64), loading, two-handed|
 |Dart|1⛁|1 piercing|1|Finesse, thrown (range 4/12)|
 |Shortbow|2⛁|1 percing|1|Ammunition (range 16/64), two-handed|
-|Sling|1⛁|1 bludgeoning|1|Ammunitio (range 16/24)|
+|Sling|1⛁|1 bludgeoning|1|Ammunition (range 16/24)|
 
 
 ---
