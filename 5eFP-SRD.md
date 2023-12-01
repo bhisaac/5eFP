@@ -1356,49 +1356,12 @@ Tinderbox. This small container holds flint, fire steel, and tinder (usually dry
 
 Torch. A torch burns for 1 hour, providing bright light in a 20-­‐‑foot radius and dim light for an additional 20 feet. If you make a melee attack with a burning torch and hit, it deals 1 fire damage.
 
-##### MULTI-USE ADVENTURING GEAR
-|||||
-|:-|:-:|:-|:-|
-|**Item**|**Cost**|**Slots**|**Properties**|
-|Acid (vial)||||
-|Alchemist's fire (flask)||||
-|Antitoxin (vial)||||
-|Arrows||||
-|Ball bearings (bag)||||
-|Blowgun needles||||
-|Caltrops (bag)||||
-|Candle||||
-|Chalk||||
-|Climber's kit||||
-|Component pouch||||
-|Crossbow bolts||||
-|Fishing tackle||||
-|Healer's kit||||
-|Holy water||||
-|Lamp||||
-|Lantern, bullseye||||
-|Lantern, hooded||||
-|Oil||||
-|Paper (one sheet)||||
-|Parchment (one sheet)||||
-|Perfume (vial)||||
-|Poison, basic (vial)||||
-|Rations (1 day)||||
-|Sealing wax||||
-|Sling bullets||||
-|Soap||||
-|Spikes, iron (10)||||
-|Tinderbox||||
-|Torch||||
-|Waterskin||||
-|Whetstone||||
-
-##### ADVENTURING GEAR
+#### GEAR
 |||||
 |:-|:-:|:-|:-|
 |**Item**|**Cost**|**Slots**|**Properties**|
 |Abacus||||
-|Backpack|||Includes bedroll, mess kit, rations (1 day), Waterskin, torch/hooded lamp, rope (hempen/silk), 1 bag, and blanket|
+|Backpack|||Includes bedroll, mess kit, rations (1 day), Waterskin, torch/hooded lamp, rope, bag, and blanket|
 |Bell||||
 |Book||||
 |Bottle, glass||||
@@ -1420,8 +1383,8 @@ Torch. A torch burns for 1 hour, providing bright light in a 20-­‐‑foot rad
 |Manacles||||
 |Mess kit||||
 |Mirror, steel||||
+|Perfume (vial)||||
 |Pick, miner's||||
-|Pouch||||
 |Ram, portable||||
 |Sack||||
 |Signal whistle||||
@@ -1430,7 +1393,41 @@ Torch. A torch burns for 1 hour, providing bright light in a 20-­‐‑foot rad
 |Tent, two-person||||
 |Vial||||
 
-##### ARCANE FOCUS ADVENTURING GEAR
+#### MULTI-USE GEAR
+|||||
+|:-|:-:|:-|:-|
+|**Item**|**Cost**|**Slots**|**Properties**|
+|Alchemist's kit|||Includes tools, alchemist's fire, acid (vial), candle, parchment (one sheet), ink (vial), ink pen, vial|
+|Healer's kit|||Includes antitoxin (vial)|
+|Artisan's Tools||||
+|Survival Kit|||Includes dagger, string, tinderbox, handaxe, piton, tent, rope, whetstone, needle and thread, flint and steel, torch/hooded lamp|
+|Arrows||||
+|Ball bearings (bag)||||
+|Blowgun needles||||
+|Caltrops (bag)||||
+|Candle||||
+|Chalk||||
+|Climber's kit||||
+|Component pouch||||
+|Crossbow bolts||||
+|Fishing tackle||||
+|Holy water||||
+|Lamp||||
+|Lantern, bullseye||||
+|Lantern, hooded||||
+|Paper (one sheet)||||
+|Parchment (one sheet)||||
+|Poison, basic (vial)||||
+|Pouch||||
+|Rations (1 day)||||
+|Sealing wax||||
+|Sling bullets||||
+|Soap||||
+|Spikes, iron (10)||||
+|Tinderbox||||
+|Whetstone||||
+
+#### ARCANE FOCUS
 |||||
 |:-|:-:|:-|:-|
 |**Item**|**Cost**|**Slots**|**Properties**|
@@ -1440,7 +1437,7 @@ Torch. A torch burns for 1 hour, providing bright light in a 20-­‐‑foot rad
 |Staff||||
 |Wand||||
 
-##### DRUIDIC FOCUS ADVENTURING GEAR
+#### DRUIDIC FOCUS
 |||||
 |:-|:-:|:-|:-|
 |**Item**|**Cost**|**Slots**|**Properties**|
@@ -1449,7 +1446,7 @@ Torch. A torch burns for 1 hour, providing bright light in a 20-­‐‑foot rad
 |Wodden staff||||
 |Yew wand||||
 
-##### HOLY SYMBOL ADVENTURING GEAR
+#### HOLY SYMBOL
 |||||
 |:-|:-:|:-|:-|
 |**Item**|**Cost**|**Slots**|**Properties**|
