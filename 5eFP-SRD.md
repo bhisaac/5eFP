@@ -1356,110 +1356,106 @@ Tinderbox. This small container holds flint, fire steel, and tinder (usually dry
 
 Torch. A torch burns for 1 hour, providing bright light in a 20-­‐‑foot radius and dim light for an additional 20 feet. If you make a melee attack with a burning torch and hit, it deals 1 fire damage.
 
-**ADVENTURING GEAR**
+##### MULTI-USE ADVENTURING GEAR
+|||||
+|:-|:-:|:-|:-|
+|**Item**|**Cost**|**Slots**|**Properties**|
+|Acid (vial)||||
+|Alchemist's fire (flask)||||
+|Antitoxin (vial)||||
+|Arrows||||
+|Ball bearings (bag)||||
+|Blowgun needles||||
+|Caltrops (bag)||||
+|Candle||||
+|Chalk||||
+|Climber's kit||||
+|Component pouch||||
+|Crossbow bolts||||
+|Fishing tackle||||
+|Healer's kit||||
+|Holy water||||
+|Lamp||||
+|Lantern, bullseye||||
+|Lantern, hooded||||
+|Oil||||
+|Paper (one sheet)||||
+|Parchment (one sheet)||||
+|Perfume (vial)||||
+|Poison, basic (vial)||||
+|Rations (1 day)||||
+|Sealing wax||||
+|Sling bullets||||
+|Soap||||
+|Spikes, iron (10)||||
+|Tinderbox||||
+|Torch||||
+|Waterskin||||
+|Whetstone||||
+
+##### ADVENTURING GEAR
 |||||
 |:-|:-:|:-|:-|
 |**Item**|**Cost**|**Slots**|**Properties**|
 |Abacus||||
-|Acid (vial)|||Multi-use|
-|Alchemist's fire (flask)|||Multi-use|
-|Arrows|||Multi-use|
-|Blowgun needles|||Multi-use|
-|Crossbow bolts|||Multi-use|
-|Sling bullets|||Multi-use|
-|Antitoxin (vial)|||Multi-use|
-|Crystal|||Arcane focus|
-|Orb|||Arcane focus|
-|Rod|||Arcane focus|
-|Staff|||Arcane focus|
-|Wand|||Arcane focus|
-|Backpack||||
-|Ball bearings (bag)|||Multi-use|
-|Barrel||||
-|Basket||||
-|Bedroll||||
+|Backpack|||Includes bedroll, mess kit, rations (1 day), Waterskin, torch/hooded lamp, rope (hempen/silk), 1 bag, and blanket|
 |Bell||||
-|Blanket||||
-|Block and tackle||||
 |Book||||
 |Bottle, glass||||
-|Bucket||||
-|Caltrops (bag)|||Multi-use|
-|Candle|||Multi-use|
-|Case, crossbow bolt||||
 |Case, map or scroll||||
-|Chain (2 squares)||||
-|Chalk|||Multi-use|
+|Chain (10 feet)||||
 |Chest||||
-|Climber's kit|||Multi-use|
-|Clothes, common||||
-|Clothes, costume||||
-|Clothes, fine||||
 |Clothes, traveler's||||
-|Component pouch|||Multi-use|
-|Crowbar||||
-|Sprig of mistletoe|||Druidic focus|
-|Totem|||Druidic focus|
-|Wodden staff|||Druidic focus|
-|Yew wand|||Druidic focus|
-|Fishing tackle|||Multi-use|
-|Flask or tankard||||
+|Clothes, cold winter||||
 |Grappling hook||||
 |Hammer||||
 |Hammer, sledge||||
-|Healer's kit|||Multi-use|
-|Healing Potion|||Multi-use|
-||||Holy symbol|
-|Amulet|||Holy symbol|
-|Emblem|||Holy symbol|
-|Reliquary|||Holy symbol|
-|Holy water|||Multi-use|
+|Healing Potion||||
 |Hourglass||||
-|Hunting trap|||Multi-use|
-|Ink (1 ounce bottle)|||Multi-use|
 |Ink pen||||
 |Jug or pitcher||||
 |Ladder (10-foot)||||
-|Lamp|||Multi-use|
-|Lantern, bullseye|||Multi-use|
-|Lantern, hooded|||Multi-use|
 |Lock||||
 |Magnifying glass||||
 |Manacles||||
 |Mess kit||||
 |Mirror, steel||||
-|Oil|||Multi-use|
-|Paper (one sheet)|||Multi-use|
-|Parchment (one sheet)|||Multi-use|
-|Perfume (vial)|||Multi-use|
 |Pick, miner's||||
-|Piton||||
-|Poison, basic (vial)|||Multi-use|
-|Pole (10-foot)||||
-|Pot, iron||||
 |Pouch||||
-|Quiver||||
 |Ram, portable||||
-|Rations (1 day)|||Multi-use|
-|Robes||||
-|Rope, hempen (50 feet)||||
-|Rope, silk (50 feet)||||
 |Sack||||
-|Scale, merchant's||||
-|Sealing wax|||Multi-use|
-|Shovel||||
 |Signal whistle||||
-|Signet ring||||
-|Soap|||Multi-use|
 |Spellbook||||
-|Spikes, iron (10)|||Multi-use|
 |Spyglass||||
 |Tent, two-person||||
-|Tinderbox|||Multi-use|
-|Torch|||Multi-use|
 |Vial||||
-|Waterskin||||
-|Whetstone||||
+
+##### ARCANE FOCUS ADVENTURING GEAR
+|||||
+|:-|:-:|:-|:-|
+|**Item**|**Cost**|**Slots**|**Properties**|
+|Crystal||||
+|Orb||||
+|Rod||||
+|Staff||||
+|Wand||||
+
+##### DRUIDIC FOCUS ADVENTURING GEAR
+|||||
+|:-|:-:|:-|:-|
+|**Item**|**Cost**|**Slots**|**Properties**|
+|Sprig of mistletoe||||
+|Totem||||
+|Wodden staff||||
+|Yew wand||||
+
+##### HOLY SYMBOL ADVENTURING GEAR
+|||||
+|:-|:-:|:-|:-|
+|**Item**|**Cost**|**Slots**|**Properties**|
+|Amulet||||
+|Emblem||||
+|Reliquary||||
 
 
 ---
