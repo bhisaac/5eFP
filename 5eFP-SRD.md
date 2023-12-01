@@ -1397,7 +1397,7 @@ Torch. A torch burns for 1 hour, providing bright light in a 20-­‐‑foot rad
 |||||
 |:-|:-:|:-|:-|
 |**Item**|**Cost**|**Slots**|**Properties**|
-|Burgler's Pack|||Includes backpack, ball bearings, string (10 feet), bell, candle, crowbar, hammer, piton, hooded lantern, oil, rations (1 day), tinderbox, waterskin|
+|Burgler's Pack|||Includes backpack, ball bearings, string (10 feet), bell, candle, crowbar, hammer, piton, hooded lantern, flask of oil, rations (1 day), tinderbox, waterskin|
 |Diplomat's Pack|||Includes chest, a case for maps and scrolls, a set of fine clothes, a bottle of ink, an ink pen, a lamp, a flask of oil, paper (1 sheet), a vial of perfume, sealing wax, and soap.|
 |Dungeoneer’s Pack|||Includes backpack, crowbar, hammer, piton, torch, tinderbox, rations (1 day), and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it.|
 |Entertainer’s Pack|||Includes a backpack, a blanket, 2 costumes, a candle, rations (1 day), a waterskin, and a disguise kit.|
