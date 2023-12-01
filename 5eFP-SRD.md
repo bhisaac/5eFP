@@ -1397,6 +1397,13 @@ Torch. A torch burns for 1 hour, providing bright light in a 20-­‐‑foot rad
 |||||
 |:-|:-:|:-|:-|
 |**Item**|**Cost**|**Slots**|**Properties**|
+|Burgler's Pack|||Includes backpack, ball bearings, string (10 feet), bell, candle, crowbar, hammer, piton, hooded lantern, oil, rations (1 day), tinderbox, waterskin|
+|Diplomat's Pack|||Includes chest, a case for maps and scrolls, a set of fine clothes, a bottle of ink, an ink pen, a lamp, a flask of oil, paper (1 sheet), a vial of perfume, sealing wax, and soap.|
+|Dungeoneer’s Pack|||Includes backpack, crowbar, hammer, piton, torch, tinderbox, rations (1 day), and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it.|
+|Entertainer’s Pack|||Includes a backpack, a blanket, 2 costumes, a candle, rations (1 day), a waterskin, and a disguise kit.|
+|Explorer’s Pack|||Includes a backpack, a blanket, a mess kit, a tinderbox, a torch, rations (1 day), and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it.|
+|Priest’s Pack|||Includes a backpack, a blanket, a candle, a tinderbox, an alms box, 2 blocks of incense, a censer, vestments, rations (1 day), and a waterskin.|
+|Scholar’s Pack|||Includes a backpack, a book of lore, a bottle of ink, an ink pen, parchment (1 sheet), a little bag of sand, and a small knife.|
 |Alchemist's kit|||Includes tools, alchemist's fire, acid (vial), candle, parchment (one sheet), ink (vial), ink pen, vial|
 |Healer's kit|||Includes antitoxin (vial)|
 |Artisan's Tools||||
