@@ -1104,8 +1104,6 @@ Medium armor offers more protection than light armor, but it also impairs moveme
 ***Chain Mail.*** Made of interlocking metal rings, chain mail includes a layer of quilted fabric worn underneath the mail to prevent chafing and to cushion the impact of blows. The suit includes gauntlets.
 
 ### Heavy Armor
-***Half Plate.*** Half plate consists of shaped metal plates that cover most of the wearer’s body. It does not include leg protection beyond simple greaves that are attached with leather straps.
-
 ***Plate.*** Plate consists of shaped, interlocking metal plates to cover the entire body. A suit of plate includes gauntlets, heavy leather boots, a visored helmet, and thick layers of padding underneath the armor. Buckles and straps distribute the weight over the body.
 
 ...
@@ -1126,7 +1124,6 @@ Medium armor offers more protection than light armor, but it also impairs moveme
 ||||
 |Padded|Disadvantage|⛁|
 |Leather||⛁|
-|Studded Leather|+1|2⛁|
 ||||
 |**Medium Armor**|**Modifiers**|**Cost**|
 ||||
@@ -1135,7 +1132,6 @@ Medium armor offers more protection than light armor, but it also impairs moveme
 ||||
 |**Heavy Armor**|**Modifiers**|**Cost**|
 ||||
-|Half Plate|Disadvantage|6⛁|
 |Full Plate|Disadvantage|12⛁|
 
 Armor listed with disadvantage imposes disadvantage to any Performance skill check used for quick, agile, and stealthy actions while the armor is equipped.
