@@ -950,8 +950,11 @@ DRUID
 >> FORMS
 >>> **_Astral._** You have 3 + CON MAX wounds while in astral form. When you choose this form, you may change your shape from a beast to a humanoid. If you do, you gain a number of additional features, and you appear translucent.
 >>>> Lunar Attunement. ...
+>>>
 >>> **_Defender._** You have 5 + CON MAX wounds while in defender form. If your size is less than large, it increases to large.
+>>> 
 >>> **_Stealthy._** You have 4 + CON MAX wounds while in stealthy form. While in stealthy form you gain proficiency with Performance and Perception, and you gain a pounce attack (if you don't already have one).
+>>> 
 >>> **_Travel._** You have 1 MAX wounds while in travel form. When you activate this form, choose any creatures within 6 squares of you. You and the chosen creatures transform into travel forms. If a combat encounter begins, your wild shape and all travel forms end. You may use the Dash action as a free action on each of your turns while in travel form.
 >> 
 >> You can use this feature twice. You regain expended uses when you finish a short or long rest.
