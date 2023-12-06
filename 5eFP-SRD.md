@@ -927,12 +927,11 @@ Some Channel Divinity effects require saving throws. When you use such an effect
 >> **_Turn Undead. (action)_** You present your holy symbol and speak a prayer censuring the undead. Each undead that can see or hear you within 6 squares of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for the rest of the encounter or until it takes any damage.
 >>
 >> A turned creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 6 squares of you. It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.
-
+>> 
 > #### Divine Domain Feature
 >> LIFE
->> - testing 1
->> - testing 2
->> You gain the ability to channel divine energy directly from your deity, using that energy to fuel magical effects. You start with two such effects: Turn Undead and an effect determined by your domain. Some domains grant you additional effects as you advance in levels, as noted in the domain description.
+>> 
+>> **_Preserve Life. (action)_** You present your holy symbol and evoke healing energy that can heal a number of wounds equal to five times your cleric level. Choose any creatures within 6 squares of you, and divide the healing among them. You can’t use this feature on an undead or a construct.
 
 
 ||LEVEL 2||
