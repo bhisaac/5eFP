@@ -945,10 +945,10 @@ DRUID
 |3⛁|Spells II|(+1) 1st-level spell slot, (+2) 2nd-level spell slots|
 
 > #### Wild Shape (action)
->> You magically assume the shape of a beast that you have seen before. When you use this feature, set aside the wounds in your hand (if any) and choose a wild shape form. Your wild shape cannot benefit from any swim or fly speeds it may have.
+>> You magically assume the shape of a beast that you have seen before. When you use this feature, set aside any wounds in your hand and choose a wild shape form. Your wild shape form cannot benefit from any swim or fly speeds it may have.
 >> 
->> FORMS
->>> **_Astral._** You have 2 MAX wounds while in astral form. When you choose this form, you do not assume the shape of a beast. You remain in your normal form while gaining a number of additional features. Your form appears translucent, taking on an indigo tint filled with points of moving lights.
+>> WILD SHAPE FORMS
+>>> **_Astral._** You have 2 MAX wounds while in astral form. When you choose this form, you do not assume the shape of a beast. You remain in your normal form while gaining a number of additional features. Your form becomes translucent, taking on an indigo tint filled with points of moving lights.
 >>>> **_Lunar Attunement._** Whenever you cast a 1st-level or higher spell with a spell slot that has no visible effect (i.e., _cure wounds_), you lose solar attunement and gain lunar attunement. If you already have lunar attunement, remove lunar attunement and activate _starfall_ (see below).
 >>>> 
 >>>> **_Solar Attunement._** Whenever you cast a 1st-level or higher spell with a spell slot that has a visible effect (i.e., _entangle_), you lose lunar attunement and gain solar attunement. If you already have solar attunement, remove solar attunement and activate _starfall_ (see below).
@@ -959,20 +959,33 @@ DRUID
 >>> 
 >>> **_Stealthy._** You have 4 + CON MAX wounds while in stealthy form. While in stealthy form you gain proficiency with Performance and Perception, and you gain a pounce attack (if you don't already have one).
 >>> 
->>> **_Travel._** You have 1 MAX wounds while in travel form. When you activate this form, choose any creatures within 6 squares of you. You and the chosen creatures transform into travel forms. If a combat encounter begins, your wild shape and all travel forms end. You may use the Dash action as a free action on each of your turns while in travel form.
+>>> **_Travel._** You have 1 MAX wounds while in travel form. When you activate this form, choose any creatures within 6 squares of you. You and the chosen creatures transform into travel forms and move together. If a combat encounter begins or if 1 or more points of damage is dealt to you, your wild shape and all travel forms end. You may use the Dash action as a free action on each of your turns while in travel form. Once you activate travel form, you may reactivate travel form at any time for the rest of the day while moving the party token on the overland map.
 >> 
 >> You can use this feature twice. You regain expended uses when you finish a short or long rest.
+>>
+>> You can stay in a beast shape for a number of hours equal to half your level. You then revert to your normal form unless you expend another use of this feature. You can revert to your normal form earlier by using a bonus action on your turn. You automatically revert if you fall unconscious, gain maximum wounds, or die.
+>>
+>> While you are transformed, the following rules apply:
+>> - 
+
+> #### Druid Circle
+>> You magically assume the shape of a beast that you have seen before. When you use this feature, set aside any wounds in your hand and choose a wild shape form. Your wild shape form cannot benefit from any swim or fly speeds it may have.
 >> 
->> Your druid level determines the beasts you can transform into, as shown in the Beast Shapes table. At 2nd level, for example, you can transform into any beast that has a challenge rating of 1/4 or lower that doesn’t have a flying or swimming speed.
+>> WILD SHAPE FORMS
+>>> **_Astral._** You have 2 MAX wounds while in astral form. When you choose this form, you do not assume the shape of a beast. You remain in your normal form while gaining a number of additional features. Your form becomes translucent, taking on an indigo tint filled with points of moving lights.
+>>>> **_Lunar Attunement._** Whenever you cast a 1st-level or higher spell with a spell slot that has no visible effect (i.e., _cure wounds_), you lose solar attunement and gain lunar attunement. If you already have lunar attunement, remove lunar attunement and activate _starfall_ (see below).
+>>>> 
+>>>> **_Solar Attunement._** Whenever you cast a 1st-level or higher spell with a spell slot that has a visible effect (i.e., _entangle_), you lose lunar attunement and gain solar attunement. If you already have solar attunement, remove solar attunement and activate _starfall_ (see below).
+>>>> 
+>>>> **_Starfall. (free action)_** A shooting star forms above your head and strikes a creature within 12 squares of you. If the creature is friendly, it heals 1 wound and allows the creature to make one additional saving throw to resist an ongoing negative condition. If the creature is not a friendly target, it must succeed on a DEX saving throw using your spellcasting save DC or take 1 point of radiant damage. You then gain Lunar Attunement or Solar Attunement.
+>>> 
+>>> **_Defender._** You have 5 + CON MAX wounds while in defender form. If your size is less than large, it increases to large.
+>>> 
+>>> **_Stealthy._** You have 4 + CON MAX wounds while in stealthy form. While in stealthy form you gain proficiency with Performance and Perception, and you gain a pounce attack (if you don't already have one).
+>>> 
+>>> **_Travel._** You have 1 MAX wounds while in travel form. When you activate this form, choose any creatures within 6 squares of you. You and the chosen creatures transform into travel forms and move together. If a combat encounter begins, your wild shape and all travel forms end. You may use the Dash action as a free action on each of your turns while in travel form.
 >> 
->> **_Turn Undead. (action)_** You present your holy symbol and speak a prayer censuring the undead. Each undead that can see or hear you within 6 squares of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for the rest of the encounter or until it takes any damage.
->> 
->> A turned creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 6 squares of you. It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.
->> 
-> #### Divine Domain Feature
->> LIFE
->> 
->> **_Preserve Life. (action)_** You present your holy symbol and evoke healing energy that can heal a number of wounds equal to five times your cleric level. Choose any creatures within 6 squares of you, and divide the healing among them. You can’t use this feature on an undead or a construct.
+>> You can use this feature twice. You regain expended uses when you finish a short or long rest.
 
 ## Alignment
 A typical creature in the game world has an alignment, which broadly describes its moral and personal attitudes. Alignment is a combination of two factors: one identifies morality (good, evil, or neutral), and the other describes attitudes toward society and order (lawful, chaotic, or neutral). Thus, nine distinct alignments define the possible combinations.
