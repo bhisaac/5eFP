@@ -875,8 +875,37 @@ Each time you gain a level, your MAX wounds increases by +1.
 
 Whenever your CON changes, recalculate your MAX wounds with the new CON score.
 
-### Class Upgrades
+### Level 1 Class Upgrades
 BARBARIAN
+||||
+|-:|:-|:-|
+|**Cost**|**Feature**|**Details**|
+|2⛁|Reckless Attack|You can trade defense for attack power|
+|2⛁|Danger Sense|Your uncanny perception grants advantage to Dexterity saves vs. effects you can see|
+|2⛁|Primal Path|Path of the Berserker|
+|3⛁|Rage I|+1 rage/day|
+
+BARD
+||||
+|-:|:-|:-|
+|**Cost**|**Feature**|**Details**|
+|2⛁|Jack of All Trades|Add half your level to nonproficient ability checks|
+|2⛁|Song of Rest (d6)|You and your allies heal an additional wound at the end of a short rest|
+|3⛁|Bard College|College of Lore|
+|3⛁|Expertise|Choose and gain expertise with two ability score proficiencies.|
+
+> #### College of Lore
+>> Bards of the College of Lore know something about most things, collecting bits of knowledge from sources as diverse as scholarly tomes and peasant tales. Whether singing folk ballads in taverns or elaborate compositions in royal courts, these bards use their gifts to hold audiences spellbound. When the applause dies down, the audience members might find themselves questioning everything they held to be true, from their faith in the priesthood of the local temple to their loyalty to the king.
+>> 
+>> The loyalty of these bards lies in the pursuit of beauty and truth, not in fealty to a monarch or following the tenets of a deity. A noble who keeps such a bard as a herald or advisor knows that the bard would rather be honest than politic.
+>> 
+>> The college’s members gather in libraries and sometimes in actual colleges, complete with classrooms and dormitories, to share their lore with one another. They also meet at festivals or affairs of state, where they can expose corruption, unravel lies, and poke fun at self-­important figures of authority.
+>> .
+>> **_Bonus Proficiencies._** You gain proficiency with one skill of your choice.
+>> .
+>> **_Cutting Words._** You learn how to use your wit to distract, confuse, and otherwise sap the confidence and competence of others. When a creature that you can see within 12 squares of you makes an attack roll, an ability check, or a damage roll, you can use your reaction to expend one of your uses of Bardic Inspiration, rolling Bardic Inspiration action dice and subtracting the number rolled from the creature’s roll. You can choose to use this feature after the creature makes its roll, but before the GM determines whether the attack roll or ability check succeeds or fails, or before the creature deals its damage. The creature is immune if it can’t hear you or if it’s immune to being charmed.
+
+CLERIC
 ||||
 |-:|:-|:-|
 |**Cost**|**Feature**|**Details**|
@@ -884,7 +913,8 @@ BARBARIAN
 |2⛁|Danger Sense|Your uncanny perception grants advantage to Dexterity saves vs. effects you can see|
 |2⛁|Primal Path|Path of the Berserker (SRD) or (other?)|
 |3⛁|Rage I|+1 rage/day|
-||||
+
+
 ||LEVEL 2||
 |1⛁|Ability Score Improvement / Feat|Increase one ability score by +1 / Gain 1 feat|
 |2⛁|Extra Attack I|You can attack twice, instead of once, whenever you take the Attack action on your turn|
