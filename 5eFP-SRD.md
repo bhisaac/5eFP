@@ -880,10 +880,15 @@ BARBARIAN
 ||||
 |-:|:-|:-|
 |**Cost**|**Feature**|**Details**|
-|2⛁|Reckless Attack|You can trade defense for attack power|
-|2⛁|Danger Sense|Your uncanny perception grants advantage to Dexterity saves vs. effects you can see|
+|2⛁|Reckless Attack|Your attack rolls and the attack rolls directed at you gain advantage until the beginning of your next turn|
+|2⛁|Danger Sense|You gain advantage to Dexterity saves vs. effects you can see|
 |2⛁|Primal Path|Path of the Berserker|
 |3⛁|Rage I|+1 rage/day|
+
+> #### Path of the Berserker
+>> For some barbarians, rage is a means to an end--that end being violence. The Path of the Berserker is a path of untrammeled fury, slick with blood. As you enter the berserker’s rage, you thrill in the chaos of battle, heedless of your own health or well-­being.
+>> 
+>> **_Frenzy._** You can go into a frenzy when you rage. If you do so, for the duration of your rage you can make a single melee weapon attack as a bonus action on each of your turns after this one. When your rage ends, you suffer one level of exhaustion (as described in Appendix PH-­A).
 
 BARD
 ||||
@@ -909,10 +914,25 @@ CLERIC
 ||||
 |-:|:-|:-|
 |**Cost**|**Feature**|**Details**|
-|2⛁|Reckless Attack|You can trade defense for attack power|
-|2⛁|Danger Sense|Your uncanny perception grants advantage to Dexterity saves vs. effects you can see|
-|2⛁|Primal Path|Path of the Berserker (SRD) or (other?)|
-|3⛁|Rage I|+1 rage/day|
+|2⛁|Channel Divinity (1/rest)|...|
+|2⛁|Divine Domain Feature|...|
+|3⛁|Spells I|(+1) 1st-level spell slot, (+2) 2nd-level spell slots|
+
+> #### Channel Divinity (1/rest)
+>> You gain the ability to channel divine energy directly from your deity, using that energy to fuel magical effects. You start with two such effects: Turn Undead and an effect determined by your domain. Some domains grant you additional effects as you advance in levels, as noted in the domain description.
+>>
+>> When you use your Channel Divinity, you choose which effect to create. You must then finish a short or long rest to use your Channel Divinity again.
+Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your cleric spell save DC.
+>> 
+>> **_Turn Undead. (action)_** You present your holy symbol and speak a prayer censuring the undead. Each undead that can see or hear you within 6 squares of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for the rest of the encounter or until it takes any damage.
+>>
+>> A turned creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 6 squares of you. It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.
+
+> #### Divine Domain Feature
+>> LIFE
+>> - testing 1
+>> - testing 2
+>> You gain the ability to channel divine energy directly from your deity, using that energy to fuel magical effects. You start with two such effects: Turn Undead and an effect determined by your domain. Some domains grant you additional effects as you advance in levels, as noted in the domain description.
 
 
 ||LEVEL 2||
