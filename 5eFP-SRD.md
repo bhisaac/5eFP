@@ -1,4 +1,5 @@
-# Introduction
+Your uncanny perception grants advantage to Dexterity 
+saves vs. effects you can see# Introduction
 ## How to Play
 ### Character Creation
 **Ability Scores**
@@ -883,6 +884,13 @@ BARBARIAN
 |2⛁|Danger Sense|Your uncanny perception grants advantage to Dexterity saves vs. effects you can see|
 |2⛁|Primal Path|Path of the Berserker (SRD) or (other?)|
 |3⛁|Rage I|+1 rage/day|
+||||
+||LEVEL 2||
+|1⛁|Ability Score Improvement / Feat|Increase one ability score by +1 / Gain 1 feat|
+|2⛁|Extra Attack I|You can attack twice, instead of once, whenever you take the Attack action on your turn|
+|2⛁|Fast Movement I|Your movement speed while not wearing heavy armor increases by +2|
+|3⛁|Primal Path Feature|Mindless Rage (you can’t be charmed or frightened while raging), (other?)|
+|3⛁|Rage II|+1 rage/day|
 
 ## Alignment
 A typical creature in the game world has an alignment, which broadly describes its moral and personal attitudes. Alignment is a combination of two factors: one identifies morality (good, evil, or neutral), and the other describes attitudes toward society and order (lawful, chaotic, or neutral). Thus, nine distinct alignments define the possible combinations.
