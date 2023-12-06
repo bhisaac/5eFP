@@ -1,5 +1,4 @@
-Your uncanny perception grants advantage to Dexterity 
-saves vs. effects you can see# Introduction
+# Introduction
 ## How to Play
 ### Character Creation
 **Ability Scores**
