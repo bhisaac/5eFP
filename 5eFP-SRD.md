@@ -874,6 +874,16 @@ Each time you gain a level, your MAX wounds increases by +1.
 
 Whenever your CON changes, recalculate your MAX wounds with the new CON score.
 
+### Class Upgrades
+BARBARIAN
+||||
+|-:|:-|:-|
+|**Cost**|**Feature**|**Details**|
+|2⛁|Reckless Attack|You can trade defense for attack power|
+|2⛁|Danger Sense|Your uncanny perception grants advantage to Dexterity saves vs. effects you can see|
+|2⛁|Primal Path|Path of the Berserker (SRD) or (other?)|
+|3⛁|Rage I|+1 rage/day|
+
 ## Alignment
 A typical creature in the game world has an alignment, which broadly describes its moral and personal attitudes. Alignment is a combination of two factors: one identifies morality (good, evil, or neutral), and the other describes attitudes toward society and order (lawful, chaotic, or neutral). Thus, nine distinct alignments define the possible combinations.
 
