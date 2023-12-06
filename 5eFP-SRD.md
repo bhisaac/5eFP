@@ -900,9 +900,9 @@ BARD
 >> The loyalty of these bards lies in the pursuit of beauty and truth, not in fealty to a monarch or following the tenets of a deity. A noble who keeps such a bard as a herald or advisor knows that the bard would rather be honest than politic.
 >> 
 >> The college’s members gather in libraries and sometimes in actual colleges, complete with classrooms and dormitories, to share their lore with one another. They also meet at festivals or affairs of state, where they can expose corruption, unravel lies, and poke fun at self-­important figures of authority.
->> .
+>> 
 >> **_Bonus Proficiencies._** You gain proficiency with one skill of your choice.
->> .
+>> 
 >> **_Cutting Words._** You learn how to use your wit to distract, confuse, and otherwise sap the confidence and competence of others. When a creature that you can see within 12 squares of you makes an attack roll, an ability check, or a damage roll, you can use your reaction to expend one of your uses of Bardic Inspiration, rolling Bardic Inspiration action dice and subtracting the number rolled from the creature’s roll. You can choose to use this feature after the creature makes its roll, but before the GM determines whether the attack roll or ability check succeeds or fails, or before the creature deals its damage. The creature is immune if it can’t hear you or if it’s immune to being charmed.
 
 CLERIC
