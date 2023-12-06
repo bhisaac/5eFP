@@ -896,8 +896,10 @@ BARD
 |**Cost**|**Feature**|**Details**|
 |2⛁|Jack of All Trades|Add half your level to nonproficient ability checks|
 |2⛁|Song of Rest (d6)|You and your allies heal an additional wound at the end of a short rest|
+|2⛁|Spells I|(+1) known spell, (+1) 1st-level spell slot|
 |3⛁|Bard College|College of Lore|
 |3⛁|Expertise|Choose and gain expertise with two ability score proficiencies.|
+|3⛁|Spells II|(+1) known spell, (+1) 1st-level spell slot, (+2) 2nd-level spell slots|
 
 > #### College of Lore
 >> Bards of the College of Lore know something about most things, collecting bits of knowledge from sources as diverse as scholarly tomes and peasant tales. Whether singing folk ballads in taverns or elaborate compositions in royal courts, these bards use their gifts to hold audiences spellbound. When the applause dies down, the audience members might find themselves questioning everything they held to be true, from their faith in the priesthood of the local temple to their loyalty to the king.
@@ -933,13 +935,6 @@ Some Channel Divinity effects require saving throws. When you use such an effect
 >> 
 >> **_Preserve Life. (action)_** You present your holy symbol and evoke healing energy that can heal a number of wounds equal to five times your cleric level. Choose any creatures within 6 squares of you, and divide the healing among them. You can’t use this feature on an undead or a construct.
 
-
-||LEVEL 2||
-|1⛁|Ability Score Improvement / Feat|Increase one ability score by +1 / Gain 1 feat|
-|2⛁|Extra Attack I|You can attack twice, instead of once, whenever you take the Attack action on your turn|
-|2⛁|Fast Movement I|Your movement speed while not wearing heavy armor increases by +2|
-|3⛁|Primal Path Feature|Mindless Rage (you can’t be charmed or frightened while raging), (other?)|
-|3⛁|Rage II|+1 rage/day|
 
 ## Alignment
 A typical creature in the game world has an alignment, which broadly describes its moral and personal attitudes. Alignment is a combination of two factors: one identifies morality (good, evil, or neutral), and the other describes attitudes toward society and order (lawful, chaotic, or neutral). Thus, nine distinct alignments define the possible combinations.
