@@ -933,7 +933,7 @@ Some Channel Divinity effects require saving throws. When you use such an effect
 > #### Divine Domain Feature
 >> LIFE
 >> 
->> **_Preserve Life. (action)_** You present your holy symbol and evoke healing energy that can heal a number of wounds equal to five times your cleric level. Choose any creatures within 6 squares of you, and divide the healing among them. You can’t use this feature on an undead or a construct.
+>> **_Preserve Life. (action)_** You present your holy symbol and evoke healing energy that can heal up to five wounds. Choose any creatures within 6 squares of you, and divide the healing among them. You can’t use this feature on an undead or a construct.
 
 DRUID
 ||||
