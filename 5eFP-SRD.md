@@ -948,8 +948,12 @@ DRUID
 >> You magically assume the shape of a beast that you have seen before. When you use this feature, set aside the wounds in your hand (if any) and choose a wild shape form. Your wild shape cannot benefit from any swim or fly speeds it may have.
 >> 
 >> FORMS
->>> **_Astral._** You have 3 + CON MAX wounds while in astral form. When you choose this form, you may change your shape from a beast to a humanoid. If you do, you gain a number of additional features, and you appear translucent.
->>>> Lunar Attunement. ...
+>>> **_Astral._** You have 2 MAX wounds while in astral form. When you choose this form, you do not assume the shape of a beast. You remain in your normal form while gaining a number of additional features. Your form appears translucent, taking on an indigo tint filled with points of moving lights.
+>>>> Lunar Attunement. Whenever you cast a 1st-level or higher spell with a spell slot that has no visible effect (i.e., _cure wounds_), you lose solar attunement and gain lunar attunement. If you already have lunar attunement, remove lunar attunement and activate _starfall_ (see below).
+>>>> 
+>>>> Solar Attunement. Whenever you cast a 1st-level or higher spell with a spell slot that has a visible effect (i.e., _entangle_), you lose lunar attunement and gain solar attunement. If you already have solar attunement, remove solar attunement and activate _starfall_ (see below).
+>>>> 
+>>>> **_Starfall. (free action)_** A shooting star forms above your head and strikes a creature within 12 squares of you. If the creature is friendly, it heals 1 wound and allows the creature to make one additional saving throw to resist an ongoing negative condition. If the creature is not a friendly target, it must succeed on a DEX saving throw using your spellcasting save DC or take 1 point of radiant damage.
 >>>
 >>> **_Defender._** You have 5 + CON MAX wounds while in defender form. If your size is less than large, it increases to large.
 >>> 
