@@ -949,12 +949,12 @@ DRUID
 >> 
 >> FORMS
 >>> **_Astral._** You have 2 MAX wounds while in astral form. When you choose this form, you do not assume the shape of a beast. You remain in your normal form while gaining a number of additional features. Your form appears translucent, taking on an indigo tint filled with points of moving lights.
->>>> Lunar Attunement. Whenever you cast a 1st-level or higher spell with a spell slot that has no visible effect (i.e., _cure wounds_), you lose solar attunement and gain lunar attunement. If you already have lunar attunement, remove lunar attunement and activate _starfall_ (see below).
+>>>> **_Lunar Attunement._** Whenever you cast a 1st-level or higher spell with a spell slot that has no visible effect (i.e., _cure wounds_), you lose solar attunement and gain lunar attunement. If you already have lunar attunement, remove lunar attunement and activate _starfall_ (see below).
 >>>> 
->>>> Solar Attunement. Whenever you cast a 1st-level or higher spell with a spell slot that has a visible effect (i.e., _entangle_), you lose lunar attunement and gain solar attunement. If you already have solar attunement, remove solar attunement and activate _starfall_ (see below).
+>>>> **_Solar Attunement._** Whenever you cast a 1st-level or higher spell with a spell slot that has a visible effect (i.e., _entangle_), you lose lunar attunement and gain solar attunement. If you already have solar attunement, remove solar attunement and activate _starfall_ (see below).
 >>>> 
->>>> **_Starfall. (free action)_** A shooting star forms above your head and strikes a creature within 12 squares of you. If the creature is friendly, it heals 1 wound and allows the creature to make one additional saving throw to resist an ongoing negative condition. If the creature is not a friendly target, it must succeed on a DEX saving throw using your spellcasting save DC or take 1 point of radiant damage.
->>>
+>>>> **_Starfall. (free action)_** A shooting star forms above your head and strikes a creature within 12 squares of you. If the creature is friendly, it heals 1 wound and allows the creature to make one additional saving throw to resist an ongoing negative condition. If the creature is not a friendly target, it must succeed on a DEX saving throw using your spellcasting save DC or take 1 point of radiant damage. You then gain Lunar Attunement or Solar Attunement.
+>>> 
 >>> **_Defender._** You have 5 + CON MAX wounds while in defender form. If your size is less than large, it increases to large.
 >>> 
 >>> **_Stealthy._** You have 4 + CON MAX wounds while in stealthy form. While in stealthy form you gain proficiency with Performance and Perception, and you gain a pounce attack (if you don't already have one).
@@ -962,11 +962,11 @@ DRUID
 >>> **_Travel._** You have 1 MAX wounds while in travel form. When you activate this form, choose any creatures within 6 squares of you. You and the chosen creatures transform into travel forms. If a combat encounter begins, your wild shape and all travel forms end. You may use the Dash action as a free action on each of your turns while in travel form.
 >> 
 >> You can use this feature twice. You regain expended uses when you finish a short or long rest.
->>
+>> 
 >> Your druid level determines the beasts you can transform into, as shown in the Beast Shapes table. At 2nd level, for example, you can transform into any beast that has a challenge rating of 1/4 or lower that doesn’t have a flying or swimming speed.
 >> 
 >> **_Turn Undead. (action)_** You present your holy symbol and speak a prayer censuring the undead. Each undead that can see or hear you within 6 squares of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for the rest of the encounter or until it takes any damage.
->>
+>> 
 >> A turned creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 6 squares of you. It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.
 >> 
 > #### Divine Domain Feature
