@@ -978,26 +978,26 @@ DRUID
 >>> 
 >>> The Circle of the Land is made up of mystics and sages who safeguard ancient knowledge and rites through a vast oral tradition. These druids meet within sacred circles of trees or standing stones to whisper primal secrets in Druidic. The circle’s wisest members preside as the chief priests of communities that hold to the Old Faith and serve as advisors to the rulers of those folk. As a member of this circle, your magic is influenced by the land where you were initiated into the circle’s mysterious rites.
 >>>
->>>> **_Bonus Cantrip._** When you choose this circle, you learn one additional druid cantrip of your choice.
->>>> 
->>>> **_Natural Recovery._** You can regain some of your magical energy by sitting in meditation and communing with nature. During a short rest, you choose expended spell slots to recover. The spell slots can have a combined level that is equal to your level, and none of the slots can be 6th level or higher. You can’t use this feature again until you finish a long rest.
->>>>
->>>> For example, when you are a 2nd-­level druid, you can recover up to two levels worth of spell slots. You can recover either a 2nd-­level slot or two 1st-level slots.
->>>>
->>>> **_Circle Spells._** Your mystical connection to the land infuses you with the ability to cast certain spells. You gain access to circle spells connected to the land where you became a druid. Choose that land—arctic, coast, desert, forest, grassland, mountain, or swamp—and consult the associated list of spells.
->>>>
->>>> Once you gain access to a circle spell, you always have it prepared, and it doesn’t count against the number of spells you can prepare each day. If you gain access to a spell that doesn’t appear on the druid spell list, the spell is nonetheless a druid spell for you.
->>>>
->>>> |||
->>>> |:-|:-|
->>>> |**Land**|**Circle Spells**|
->>>> |Arctic|_hold person_, _spike growth_|
->>>> |Coast|_mirror image_, _misty step_|
->>>> |Desert|_blur_, _silence_|
->>>> |Forest|_barkskin_, _spider climb_|
->>>> |Grassland|_invisibility_, _pass without trace_|
->>>> |Mountain|_spider climb_, _spike growth_|
->>>> |Swamp|_acid arrow_, _darkness_|
+>>> **_Bonus Cantrip._** When you choose this circle, you learn one additional druid cantrip of your choice.
+>>> 
+>>> **_Natural Recovery._** You can regain some of your magical energy by sitting in meditation and communing with nature. During a short rest, you choose expended spell slots to recover. The spell slots can have a combined level that is equal to your level, and none of the slots can be 6th level or higher. You can’t use this feature again until you finish a long rest.
+>>>
+>>> For example, when you are a 2nd-­level druid, you can recover up to two levels worth of spell slots. You can recover either a 2nd-­level slot or two 1st-level slots.
+>>>
+>>> **_Circle Spells._** Your mystical connection to the land infuses you with the ability to cast certain spells. You gain access to circle spells connected to the land where you became a druid. Choose that land—arctic, coast, desert, forest, grassland, mountain, or swamp—and consult the associated list of spells.
+>>>
+>>> Once you gain access to a circle spell, you always have it prepared, and it doesn’t count against the number of spells you can prepare each day. If you gain access to a spell that doesn’t appear on the druid spell list, the spell is nonetheless a druid spell for you.
+>>>
+>>> |||
+>>> |:-|:-|
+>>> |**Land**|**Circle Spells**|
+>>> |Arctic|_hold person_, _spike growth_|
+>>> |Coast|_mirror image_, _misty step_|
+>>> |Desert|_blur_, _silence_|
+>>> |Forest|_barkskin_, _spider climb_|
+>>> |Grassland|_invisibility_, _pass without trace_|
+>>> |Mountain|_spider climb_, _spike growth_|
+>>> |Swamp|_acid arrow_, _darkness_|
 
 ## Alignment
 A typical creature in the game world has an alignment, which broadly describes its moral and personal attitudes. Alignment is a combination of two factors: one identifies morality (good, evil, or neutral), and the other describes attitudes toward society and order (lawful, chaotic, or neutral). Thus, nine distinct alignments define the possible combinations.
