@@ -973,7 +973,9 @@ DRUID
 >
 > #### Druid Circle
 >> You choose to identify with a circle of druids, such as the Circle of the Land.
->>> ##### Circle of the Land
+>> 
+>>> Circle of the Land
+>>> 
 >>> The Circle of the Land is made up of mystics and sages who safeguard ancient knowledge and rites through a vast oral tradition. These druids meet within sacred circles of trees or standing stones to whisper primal secrets in Druidic. The circle’s wisest members preside as the chief priests of communities that hold to the Old Faith and serve as advisors to the rulers of those folk. As a member of this circle, your magic is influenced by the land where you were initiated into the circle’s mysterious rites.
 >>>
 >>>> **_Bonus Cantrip._** When you choose this circle, you learn one additional druid cantrip of your choice.
@@ -996,22 +998,6 @@ DRUID
 >>>> |Grassland|_invisibility_, _pass without trace_|
 >>>> |Mountain|_spider climb_, _spike growth_|
 >>>> |Swamp|_acid arrow_, _darkness_|
->> 
->> WILD SHAPE FORMS
->>> **_Astral._** You have 2 MAX wounds while in astral form. When you choose this form, you do not assume the shape of a beast. You remain in your normal form while gaining a number of additional features. Your form becomes translucent, taking on an indigo tint filled with points of moving lights.
->>>> **_Lunar Attunement._** Whenever you cast a 1st-level or higher spell with a spell slot that has no visible effect (i.e., _cure wounds_), you lose solar attunement and gain lunar attunement. If you already have lunar attunement, remove lunar attunement and activate _starfall_ (see below).
->>>> 
->>>> **_Solar Attunement._** Whenever you cast a 1st-level or higher spell with a spell slot that has a visible effect (i.e., _entangle_), you lose lunar attunement and gain solar attunement. If you already have solar attunement, remove solar attunement and activate _starfall_ (see below).
->>>> 
->>>> **_Starfall. (free action)_** A shooting star forms above your head and strikes a creature within 12 squares of you. If the creature is friendly, it heals 1 wound and allows the creature to make one additional saving throw to resist an ongoing negative condition. If the creature is not a friendly target, it must succeed on a DEX saving throw using your spellcasting save DC or take 1 point of radiant damage. You then gain Lunar Attunement or Solar Attunement.
->>> 
->>> **_Defender._** You have 5 + CON MAX wounds while in defender form. If your size is less than large, it increases to large.
->>> 
->>> **_Stealthy._** You have 4 + CON MAX wounds while in stealthy form. While in stealthy form you gain proficiency with Performance and Perception, and you gain a pounce attack (if you don't already have one).
->>> 
->>> **_Travel._** You have 1 MAX wounds while in travel form. When you activate this form, choose any creatures within 6 squares of you. You and the chosen creatures transform into travel forms and move together. If a combat encounter begins, your wild shape and all travel forms end. You may use the Dash action as a free action on each of your turns while in travel form.
->> 
->> You can use this feature twice. You regain expended uses when you finish a short or long rest.
 
 ## Alignment
 A typical creature in the game world has an alignment, which broadly describes its moral and personal attitudes. Alignment is a combination of two factors: one identifies morality (good, evil, or neutral), and the other describes attitudes toward society and order (lawful, chaotic, or neutral). Thus, nine distinct alignments define the possible combinations.
