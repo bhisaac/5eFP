@@ -969,7 +969,7 @@ DRUID
 >> - When you transform, you assume the wild shape form's MAX wounds. When you revert to your normal form, you return all wound cards you set aside before you transformed. However, if you revert because your wild shape form gained maximum wounds, any excess wounds carry over to your normal form. For example, if you take 2 damage in a wild shape form and have room for only 1 wound, you revert and take 1 damage. As long as the excess damage doesn’t cause you to reach your maximum wounds, you aren’t knocked unconscious.
 >> - You can’t cast spells, and your ability to speak or take any action that requires hands is limited to the capabilities of your wild shape form. Transforming doesn’t break your concentration on a spell you’ve already cast, however, or prevent you from taking actions that are part of a spell, such as call lightning, that you’ve already cast. You may cast spells, speak, and take normal actions while in astral form.
 >> - You retain the benefit of any features from your class, race, or other source and can use them if the new form is physically capable of doing so. However, you can’t use any of your special senses, such as darkvision, unless your new form also has that sense.
-
+>
 > #### Druid Circle
 >> You magically assume the shape of a beast that you have seen before. When you use this feature, set aside any wounds in your hand and choose a wild shape form. Your wild shape form cannot benefit from any swim or fly speeds it may have.
 >> 
