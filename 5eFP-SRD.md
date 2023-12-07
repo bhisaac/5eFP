@@ -969,9 +969,32 @@ DRUID
 >> - When you transform, you assume the wild shape form's MAX wounds. When you revert to your normal form, you return all wound cards you set aside before you transformed. However, if you revert because your wild shape form gained maximum wounds, any excess wounds carry over to your normal form. For example, if you take 2 damage in a wild shape form and have room for only 1 wound, you revert and take 1 damage. As long as the excess damage doesn’t cause you to reach your maximum wounds, you aren’t knocked unconscious.
 >> - You can’t cast spells, and your ability to speak or take any action that requires hands is limited to the capabilities of your wild shape form. Transforming doesn’t break your concentration on a spell you’ve already cast, however, or prevent you from taking actions that are part of a spell, such as call lightning, that you’ve already cast. You may cast spells, speak, and take normal actions while in astral form.
 >> - You retain the benefit of any features from your class, race, or other source and can use them if the new form is physically capable of doing so. However, you can’t use any of your special senses, such as darkvision, unless your new form also has that sense.
+>> - You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the GM decides whether it is practical for the new form to wear a piece of equipment, based on the creature’s shape and size. Your equipment doesn’t change size or shape to match the new form, and any equipment that the new form can’t wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.
 >
 > #### Druid Circle
->> You magically assume the shape of a beast that you have seen before. When you use this feature, set aside any wounds in your hand and choose a wild shape form. Your wild shape form cannot benefit from any swim or fly speeds it may have.
+>> You choose to identify with a circle of druids, such as the Circle of the Land.
+>>> ##### Circle of the Land
+>>> The Circle of the Land is made up of mystics and sages who safeguard ancient knowledge and rites through a vast oral tradition. These druids meet within sacred circles of trees or standing stones to whisper primal secrets in Druidic. The circle’s wisest members preside as the chief priests of communities that hold to the Old Faith and serve as advisors to the rulers of those folk. As a member of this circle, your magic is influenced by the land where you were initiated into the circle’s mysterious rites.
+>>>
+>>>> **_Bonus Cantrip._** When you choose this circle, you learn one additional druid cantrip of your choice.
+>>>> **_Natural Recovery._** You can regain some of your magical energy by sitting in meditation and communing with nature. During a short rest, you choose expended spell slots to recover. The spell slots can have a combined level that is equal to your level, and none of the slots can be 6th level or higher. You can’t use this feature again until you finish a long rest.
+>>>>
+>>>> For example, when you are a 2nd-­level druid, you can recover up to two levels worth of spell slots. You can recover either a 2nd-­level slot or two 1st-level slots.
+>>>>
+>>>> **_Circle Spells._** Your mystical connection to the land infuses you with the ability to cast certain spells. You gain access to circle spells connected to the land where you became a druid. Choose that land—arctic, coast, desert, forest, grassland, mountain, or swamp—and consult the associated list of spells.
+>>>>
+>>>> Once you gain access to a circle spell, you always have it prepared, and it doesn’t count against the number of spells you can prepare each day. If you gain access to a spell that doesn’t appear on the druid spell list, the spell is nonetheless a druid spell for you.
+>>>>
+>>>> |||
+>>>> |:-|:-|
+>>>> |**Land**|**Circle Spells**|
+>>>> |Arctic|_hold person_, _spike growth_|
+>>>> |Coast|_mirror image_, _misty step_|
+>>>> |Desert|_blur_, _silence_|
+>>>> |Forest|_barkskin_, _spider climb_|
+>>>> |Grassland|_invisibility_, _pass without trace_|
+>>>> |Mountain|_spider climb_, _spike growth_|
+>>>> |Swamp|_acid arrow_, _darkness_|
 >> 
 >> WILD SHAPE FORMS
 >>> **_Astral._** You have 2 MAX wounds while in astral form. When you choose this form, you do not assume the shape of a beast. You remain in your normal form while gaining a number of additional features. Your form becomes translucent, taking on an indigo tint filled with points of moving lights.
