@@ -47,7 +47,12 @@ By virtue of your species, your character can speak, read, and write certain lan
 Some species have one or more varieties. Each variety has the traits of the parent species in addition to the traits specified for their variety. Relationships among varieties differ significantly from species to species and world to world.
 
 ## Dwarf
+
+|HILL DWARF|HIGHLANDER DWARF|
+|:-|:-|:-|:-|
+
 ### Dwarf Traits
+
 Your dwarf character has an assortment of inborn abilities, part and parcel of dwarven nature.
 
 **Ability Score Increase.** Your Constitution (CON) score increases by +1.
