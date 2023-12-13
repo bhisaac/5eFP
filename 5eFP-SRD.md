@@ -17,7 +17,12 @@ Choose and place each score as desired. Two ability scores represent advanced ab
 Certain features and effects in the game allow you to divide a number by half or more. Whenever you divide a number, round down if you end up with a fraction, even if the fraction is one-half or greater (minimum 1).
 
 # Species
+
+|DWARF|ELF|HALFLING|HUMAN|
+|:-|:-|:-|:-|
+
 ## Species Traits
+
 The description of each species includes species traits that are common to members of that species. The following entries appear among the traits of most species.
 
 ### Ability Score Increase
