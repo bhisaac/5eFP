@@ -18,8 +18,8 @@ Certain features and effects in the game allow you to divide a number by half or
 
 # Species
 
-|[DWARF](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#dwarf)|ELF|HALFLING|HUMAN|
-|:-|:-|:-|:-|
+|[DWARF](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#dwarf)|ELF|HALFLING|HUMAN|[⇧](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#introduction)|
+|:-|:-|:-|:-|:-:|
 
 ## Species Traits
 
