@@ -89,6 +89,10 @@ As a hill dwarf, you have keen senses, deep intuition, and remarkable resilience
 **Dwarven Toughness**. Your MAX wounds increase by +1.
 
 ### Highlander Dwarf
+
+|[⇦](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#dwarf)|[⇧](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#introduction)|
+|:-:|:-:|
+
 As a highlander dwarf, you are accustomed to rugged living at high altitudes and within mountain dwellings.
 
 **Ability Score Increase.** If you assign a +1 or +2 to your Strength score (STR) during character creation, increase your STR by an additional +1.
