@@ -1,8 +1,5 @@
 # Introduction
 
-|[SPECIES](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#species)|[BACKGROUNDS](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#backgrounds)|CLASSES|UPGRADES|FEATS|EQUIPMENT|COMBAT|SPELLS|CREATURES|
-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
-
 ## How to Play
 
 ### Character Creation
@@ -17,9 +14,6 @@ Choose and place each score as desired. Two ability scores represent advanced ab
 Certain features and effects in the game allow you to divide a number by half or more. Whenever you divide a number, round down if you end up with a fraction, even if the fraction is one-half or greater (minimum 1).
 
 # Species
-
-|[⇦](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#introduction)|[DWARF](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#dwarf)|ELF|HALFLING|HUMAN|[⇧](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#introduction)|
-|:-:|:-|:-|:-|:-|:-:|
 
 ## Species Traits
 
@@ -47,9 +41,6 @@ By virtue of your species, your character can speak, read, and write certain lan
 Some species have one or more varieties. Each variety has the traits of the parent species in addition to the traits specified for their variety. Relationships among varieties differ significantly from species to species and world to world.
 
 ## Dwarf
-
-|[⇦](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#species)|[HILL](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#hill-dwarf)|[HIGHLANDER](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#highlander-dwarf)|[⇧](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#introduction)|
-|:-:|:-|:-|:-:|
 
 ### Dwarf Traits
 
@@ -79,9 +70,6 @@ Your dwarf character has an assortment of inborn abilities, part and parcel of d
 
 ### Hill Dwarf
 
-|[⇦](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#dwarf)|[⇧](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#introduction)|
-|:-:|:-:|
-
 As a hill dwarf, you have keen senses, deep intuition, and remarkable resilience.
 
 **Ability Score Increase.** If you assign a +1 or +2 to your Wisdom score (WIS) during character creation, increase your WIS by an additional +1.
@@ -90,9 +78,6 @@ As a hill dwarf, you have keen senses, deep intuition, and remarkable resilience
 
 ### Highlander Dwarf
 
-|[⇦](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#dwarf)|[⇧](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#introduction)|
-|:-:|:-:|
-
 As a highlander dwarf, you are accustomed to rugged living at high altitudes and within mountain dwellings.
 
 **Ability Score Increase.** If you assign a +1 or +2 to your Strength score (STR) during character creation, increase your STR by an additional +1.
@@ -100,7 +85,9 @@ As a highlander dwarf, you are accustomed to rugged living at high altitudes and
 **Dwarven Armor Training.** You gain light and medium armor proficiency.
 
 ## Elf
+
 ### Elf Traits
+
 Your elf character has a variety of natural abilities, a result of thousands of years of elven refinement.
 
 **Ability Score Increase.** Your Dexterity score (DEX) increases by +1.
@@ -122,6 +109,7 @@ Your elf character has a variety of natural abilities, a result of thousands of 
 **Trance.** Elves don’t need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is “trance.”) While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
 
 ### High Elf
+
 As a high elf, you have strong ties to nature and magic. In many fantasy gaming worlds, there are two kinds of high elves. One type is haughty and reclusive, believing themselves to be superior to non-elves and even other elves. The other type is more common and more friendly, and often encountered among humans and other species.
 
 **Ability Score Increase.** If you assign a +1 or +2 to your Intelligence score (INT) during character creation, increase your INT by an additional +1.
@@ -133,6 +121,7 @@ As a high elf, you have strong ties to nature and magic. In many fantasy gaming 
 - **Feywild.** You can cast the *misty step* spell once using this trait. You regain the ability to do so when you finish a short or long rest.
 
 ### Wealden Elf
+
 As a wealden elf, you have deep awareness and intuition, and your attunement to nature carries you quickly and stealthily through natural terrain. Wealden elves tend to be reclusive and distrusting of non-elves.
 
 **Ability Score Increase.** If you assign a +1 or +2 to your Wisdom score (WIS) during character creation, increase your WIS by an additional +1.
@@ -144,7 +133,9 @@ As a wealden elf, you have deep awareness and intuition, and your attunement to 
 **Naturemeld.** You have advantage on stealth Performance checks while moving through squares that include natural terrain (arctic,	coast,	desert,	forest, grassland,	mountain,	or	swamp).
 
 ## Halfling
+
 ### Halfling Traits
+
 Your halfling character has a number of traits in common with all other halflings.
 
 **Ability Score Increase.** Your Dexterity score (DEX) increases by +1.
@@ -166,6 +157,7 @@ Your halfling character has a number of traits in common with all other halfling
 **Languages.** You can speak, read, and write Common and Halfling. The Halfling language isn’t secret, but halflings are loath to share it with others. They write very little, so they don’t have a rich body of literature. Their oral tradition, however, is very strong. Almost all halflings speak Common to converse with the people in whose lands they dwell or through which they are traveling.
 
 ### Lightfoot
+
 As a lightfoot halfling, you can easily hide from notice, even using other people as cover. You’re inclined to be affable and get along well with others.
 
 Lightfoots are more prone to wanderlust than other halflings, and often dwell alongside other species or take up a nomadic life.
@@ -175,6 +167,7 @@ Lightfoots are more prone to wanderlust than other halflings, and often dwell al
 **Naturally Stealthy.** You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you.
 
 ### Hardy
+
 Hardy halflings are tougher than average, sharing similar characteristics with dwarves. Their tribes can be found in remote areas or near dwarven clans, though some do make their way to civilized lands.
 
 **Ability Score Increase.** If you assign a +1 or +2 to your Constitution score (CON) during character creation, increase your CON by an additional +1.
@@ -184,7 +177,9 @@ Hardy halflings are tougher than average, sharing similar characteristics with d
 - You have advantage on saving throws against poison, and you have resistance against poison damage.
 
 ## Human
+
 ### Human Traits
+
 It’s hard to make generalizations about humans, but your human character has these traits.
 
 **Ability Score Increase.** One ability score of your choice increases by +1.
@@ -204,12 +199,15 @@ It’s hard to make generalizations about humans, but your human character has t
 **Languages.** You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on.
 
 # Barbarian
+
 #### Class Features
 
 #### Health
+
 **MAX Wounds:** 6 + Constitution (CON)
 
 #### Proficiencies
+
 **Armor:** Light armor, medium armor, shields
 
 **Weapons:** Simple weapons, martial weapons
@@ -221,12 +219,14 @@ It’s hard to make generalizations about humans, but your human character has t
 **Skills:** Choose one from Perception, Performance, and Survival
 
 #### Equipment
+
 You start with the following equipment, in addition to the equipment granted by your background:
 - (*a*) a greataxe or (*b*) any martial melee weapon
 - (*a*) handaxes or (*b*) any simple weapon
 - An explorer's pack and javelins
 
 ### Rage
+
 In battle, you fight with primal ferocity. On your turn, you can enter a rage as a bonus action that lasts until the end of the encounter.
 
 While raging, you gain the following benefits if you aren’t wearing heavy armor:
@@ -241,14 +241,19 @@ Your rage ends early if you are knocked unconscious or if your turn ends and you
 Once you have raged twice, you must finish a long rest before you can rage again.
 
 ### Unarmored Defense
+
 While you are not wearing armor, add CON (minimum +0) to your Armor Class (AC). You can use a shield and still gain this benefit.
 
 # Bard
+
 #### Class Features
+
 #### Health
+
 **MAX Wounds:** 4 + Constitution (CON)
 
 #### Proficiencies
+
 **Armor:** Light armor
 
 **Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords
@@ -1174,9 +1179,6 @@ A background contains suggested personal characteristics based on your backgroun
 You might want to tweak some of the features of a background so it better fits your character or the campaign setting. To customize a background, you can replace one feature with any other one, choose any two skills, and choose a total of two tool proficiencies or languages from the sample backgrounds. You can either use the equipment package from your background or spend coin on gear as described in the equipment section. (If you spend coin, you can’t also take the equipment package suggested for your class.) Finally, choose two personality traits, one ideal, one bond, and one flaw. If you can’t find a feature that matches your desired background, work with your GM to create one.
 
 ## Acolyte
-|[⇦](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#backgrounds)|[FEATURE](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#feature-shelter-of-the-faithful)|[⇧](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#introduction)|
-|:-:|:-|:-:|
-
 
 You have spent your life in the service of a temple to a specific god or pantheon of gods. You act as an intermediary between the realm of the holy and the mortal world, performing sacred rites and offering sacrifices in order to conduct worshipers into the presence of the divine. You are not necessarily a cleric—performing sacred rites is not the same thing as channeling divine power.
 
@@ -1189,9 +1191,6 @@ Choose a god, a pantheon of gods, or some other quasi-divine being from among th
 **Equipment:** A holy symbol (a gift to you when you entered the priesthood), a prayer book or prayer wheel, 5 sticks of incense, vestments, a set of common clothes, and a pouch containing 1 Coin.
 
 ### Feature: Shelter of the Faithful
-
-|[⇦](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#acolyte)|[⇧](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#introduction)|
-|:-:|:-:|
 
 As an acolyte, you command the respect of those who share your faith, and you can perform the religious ceremonies of your deity. Whenever you spend a downtime round at a temple, shrine, or other established presence of your faith, you gain Rest and Repairs for free. Additionally, the following downtime options open up for you and for your allies in the HQ temple. After finishing the downtime round, you may gain holy water.
 - Spend herbs to get (1) healing potion.
