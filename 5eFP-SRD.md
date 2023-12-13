@@ -926,8 +926,8 @@ BARD
 ||||
 |-:|:-|:-|
 |**Cost**|**Feature**|**Details**|
-|2⛁|Jack of All Trades|Add half your level to nonproficient ability checks|
-|2⛁|Song of Rest (d6)|You and your allies heal an additional wound at the end of a short rest|
+|2⛁|Jack of All Trades|You roll nonproficient ability checks with advantage.|
+|2⛁|Song of Rest|You and your allies heal an additional wound at the end of a short rest|
 |2⛁|Spells I|(+1) known spell, (+1) 1st-level spell slot|
 |3⛁|Bard College|College of Lore|
 |3⛁|Expertise|Choose and gain expertise with two ability score proficiencies.|
