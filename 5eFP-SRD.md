@@ -1,6 +1,6 @@
 # Introduction
 
-[Warlock](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#warlock)
+# [Warlock](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#warlock)
 
 ## How to Play
 
