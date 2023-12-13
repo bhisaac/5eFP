@@ -922,11 +922,13 @@ BARBARIAN
 >> 
 >> **_Frenzy._** You can go into a frenzy when you rage. If you do so, for the duration of your rage you can make a single melee weapon attack as a bonus action on each of your turns after this one. When your rage ends, you suffer one level of exhaustion (as described in Appendix PH-­A).
 
+to any ability check you make that doesn’t already include your proficiency bonus.
+
 BARD
 ||||
 |-:|:-|:-|
 |**Cost**|**Feature**|**Details**|
-|2⛁|Jack of All Trades|You roll nonproficient ability checks with advantage.|
+|2⛁|Jack of All Trades|+1 bonus to ability checks made with non-proficient abilities.|
 |2⛁|Song of Rest|You and your allies heal an additional wound at the end of a short rest|
 |2⛁|Spells I|(+1) known spell, (+1) 1st-level spell slot|
 |3⛁|Bard College|College of Lore|
