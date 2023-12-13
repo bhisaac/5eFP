@@ -48,7 +48,7 @@ Some species have one or more varieties. Each variety has the traits of the pare
 
 ## Dwarf
 
-|⇦|HILL|HIGHLANDER|⇧|
+|[⇦](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#species)|HILL|HIGHLANDER|⇧|
 |:-|:-|:-:|:-:|
 
 ### Dwarf Traits
