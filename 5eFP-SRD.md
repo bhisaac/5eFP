@@ -904,15 +904,19 @@ Each time you gain a level, your MAX wounds increases by +1.
 Whenever your CON changes, recalculate your MAX wounds with the new CON score.
 
 ### Level 1 Class Upgrades
+
 BARBARIAN
 ||||
 |-:|:-|:-|
 |**Cost**|**Feature**|**Details**|
-|2⛁|Reckless Attack|Your attack rolls and the attack rolls directed at you gain advantage until the beginning of your next turn|
+|2⛁|Reckless Attack|You can throw aside all concern for defense to attack with fierce determination.|
 |2⛁|Danger Sense|You gain advantage to Dexterity saves vs. effects you can see|
 |2⛁|Primal Path|Path of the Berserker|
 |3⛁|Rage I|+1 rage/day|
 
+> #### Reckless Attack
+>> When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you advantage on melee weapon attack rolls using STR during this turn, but attack rolls against you have advantage until your next turn.
+>> 
 > #### Path of the Berserker
 >> For some barbarians, rage is a means to an end--that end being violence. The Path of the Berserker is a path of untrammeled fury, slick with blood. As you enter the berserker’s rage, you thrill in the chaos of battle, heedless of your own health or well-­being.
 >> 
