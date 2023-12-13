@@ -926,11 +926,11 @@ BARD
 ||||
 |-:|:-|:-|
 |**Cost**|**Feature**|**Details**|
-|2⛁|Jack of All Trades|+1 to ability checks made with non-proficient abilities.|
+|2⛁|Jack of All Trades|+1 to ability checks made with non-proficient abilities|
 |2⛁|Song of Rest|You and your allies heal an additional wound at the end of a short rest|
 |2⛁|Spells I|(+1) known spell, (+1) 1st-level spell slot|
 |3⛁|Bard College|College of Lore|
-|3⛁|Expertise|Choose and gain expertise with two ability score proficiencies.|
+|3⛁|Expertise|Choose and gain expertise with two ability score proficiencies|
 |3⛁|Spells II|(+1) known spell, (+1) 1st-level spell slot, (+2) 2nd-level spell slots|
 
 > #### College of Lore
