@@ -1,6 +1,11 @@
 # Introduction
+
+[Warlock](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#warlock)
+
 ## How to Play
+
 ### Character Creation
+
 **Ability Scores**
 
 Whenever you create a new character, assign ability scores using the standard array: (+2, +2, +1, +1, +0, -1)
