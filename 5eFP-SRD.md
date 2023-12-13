@@ -1,6 +1,10 @@
-# Introduction
+# Contents
 
-# [Warlock](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#warlock)
+||||||||||
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|**SPECIES**|**BACKGROUNDS**|**CLASSES**|**FEATS**|**EQUIPMENT**|**COMBAT**|**SPELLS**|**MAGIC ITEMS**|**CREATURES**|
+
+# Introduction
 
 ## How to Play
 
