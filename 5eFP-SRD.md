@@ -49,7 +49,7 @@ Some species have one or more varieties. Each variety has the traits of the pare
 ## Dwarf
 
 |[⇦](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#species)|[HILL](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#hill-dwarf)|[HIGHLANDER](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#highlander-dwarf)|[⇧](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#introduction)|
-|:-|:-|:-:|:-:|
+|:-:|:-|:-|:-:|
 
 ### Dwarf Traits
 
@@ -78,6 +78,10 @@ Your dwarf character has an assortment of inborn abilities, part and parcel of d
 **Languages.** You can speak, read, and write Common and Dwarvish. Dwarvish is full of hard consonants and guttural sounds, and those characteristics spill over into whatever other language a dwarf might speak.
 
 ### Hill Dwarf
+
+|[⇦](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#dwarf)|[⇧](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#introduction)|
+|:-:|:-:|
+
 As a hill dwarf, you have keen senses, deep intuition, and remarkable resilience.
 
 **Ability Score Increase.** If you assign a +1 or +2 to your Wisdom score (WIS) during character creation, increase your WIS by an additional +1.
