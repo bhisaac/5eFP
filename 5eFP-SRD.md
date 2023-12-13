@@ -918,7 +918,7 @@ BARBARIAN
 >> When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you advantage on melee weapon attack rolls using STR during this turn, but attack rolls against you have advantage until your next turn.
 >> 
 > #### Path of the Berserker
->> For some barbarians, rage is a means to an end--that end being violence. The Path of the Berserker is a path of untrammeled fury, slick with blood. As you enter the berserker’s rage, you thrill in the chaos of battle, heedless of your own health or well-­being.
+>> For some barbarians, rage is a means to an end—that end being violence. The Path of the Berserker is a path of untrammeled fury, slick with blood. As you enter the berserker’s rage, you thrill in the chaos of battle, heedless of your own health or well-­being.
 >> 
 >> **_Frenzy._** You can go into a frenzy when you rage. If you do so, for the duration of your rage you can make a single melee weapon attack as a bonus action on each of your turns after this one. When your rage ends, you suffer one level of exhaustion (as described in Appendix PH-­A).
 
@@ -1438,7 +1438,7 @@ This section describes items that have special rules or require further explanat
 
 **_Antitoxin._** A creature that drinks this vial of liquid gains advantage on saving throws against poison for 1 hour. It confers no benefit to undead or constructs.
 
-**_Arcane Focus._** An arcane focus is a special item— an orb, a crystal, a rod, a specially constructed staff, a wand-­‐‑like length of wood, or some similar item— designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus.
+**_Arcane Focus._** An arcane focus is a special item—an orb, a crystal, a rod, a specially constructed staff, a wand-­like length of wood, or some similar item—designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus.
 
 Ball Bearings. As an action, you can spill these tiny metal balls from their pouch to cover a level, square area that is 10 feet on a side. A creature moving across the covered area must succeed on a DC 10 Dexterity saving throw or fall prone. A creature moving through the area at half speed doesn’t need to make the save.
 
