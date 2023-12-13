@@ -1,8 +1,7 @@
 # Contents
 
-||||||||||
-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
-|**SPECIES**|**BACKGROUNDS**|**CLASSES**|**FEATS**|**EQUIPMENT**|**COMBAT**|**SPELLS**|**MAGIC ITEMS**|**CREATURES**|
+|**SPECIES**|**BACKGROUNDS**|**CLASSES**|**UPGRADES**|**FEATS**|**EQUIPMENT**|**COMBAT**|**SPELLS**|**MAGIC ITEMS**|**CREATURES**|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
 
 # Introduction
 
