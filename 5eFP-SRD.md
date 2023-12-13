@@ -1,7 +1,7 @@
+# Introduction
+
 |[SPECIES](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#species)|BACKGROUNDS|CLASSES|UPGRADES|FEATS|EQUIPMENT|COMBAT|SPELLS|CREATURES|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
-
-# Introduction
 
 ## How to Play
 
