@@ -1175,7 +1175,7 @@ You might want to tweak some of the features of a background so it better fits y
 
 ## Acolyte
 |[⇦](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#backgrounds)|[FEATURE](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#feature-shelter-of-the-faithful)|[⇧](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#introduction)|
-|:-:|:-|:-|:-|:-:|
+|:-:|:-|:-:|
 
 
 You have spent your life in the service of a temple to a specific god or pantheon of gods. You act as an intermediary between the realm of the holy and the mortal world, performing sacred rites and offering sacrifices in order to conduct worshipers into the presence of the divine. You are not necessarily a cleric—performing sacred rites is not the same thing as channeling divine power.
