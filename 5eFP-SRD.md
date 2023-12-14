@@ -1162,9 +1162,10 @@ The most important question to ask about your background is what changed? Why di
 The sample backgrounds presented here provide both concrete benefits (features, proficiencies, and languages) and roleplaying suggestions.
 
 ### Proficiencies
-Each background gives a character proficiency in two skills (described in “Using Ability Scores”).
-In addition, most backgrounds give a character proficiency with one or more tools (detailed in “Equipment”).
-If your character would gain the same proficiency from two different sources, choose a different proficiency of the same kind (skill or tool) instead.
+
+Most backgrounds give a character proficiency with one or more tools (detailed in "Equipment").
+
+If your character would gain the same proficiency from two different sources, choose a different tool proficiency instead.
 
 ### Languages
 Some backgrounds also allow characters to learn additional languages beyond those given by species. See “Languages.”
@@ -1173,7 +1174,7 @@ Some backgrounds also allow characters to learn additional languages beyond thos
 Each background provides a package of starting equipment.
 
 ### Suggested Characteristics
-A background contains suggested personal characteristics based on your background. You can pick characteristics, roll dice to determine them randomly, or use the suggestions as inspiration for characteristics of your own creation.
+A background contains suggested personal characteristics based on your background. You can pick characteristics, determine them randomly, or use the suggestions as inspiration for characteristics of your own creation.
 
 ### Customizing a Background
 You might want to tweak some of the features of a background so it better fits your character or the campaign setting. To customize a background, you can replace one feature with any other one, choose any two skills, and choose a total of two tool proficiencies or languages from the sample backgrounds. You can either use the equipment package from your background or spend coin on gear as described in the equipment section. (If you spend coin, you can’t also take the equipment package suggested for your class.) Finally, choose two personality traits, one ideal, one bond, and one flaw. If you can’t find a feature that matches your desired background, work with your GM to create one.
@@ -1184,30 +1185,26 @@ You have spent your life in the service of a temple to a specific god or pantheo
 
 Choose a god, a pantheon of gods, or some other quasi-divine being from among those listed in "Fantasy-Historical Pantheons" or those specified by your GM, and work with your GM to detail the nature of your religious service. Were you a lesser functionary in a temple, raised from childhood to assist the priests in the sacred rites? Or were you a high priest who suddenly experienced a call to serve your god in a different way? Perhaps you were the leader of a small cult outside of any established temple structure, or even an occult group that served a fiendish master that you now deny.
 
-#### Proficiencies
-
-**Skills:** Insight
-
-**Equipment:** A holy symbol (a gift to you when you entered the priesthood), a prayer book or prayer wheel, 5 sticks of incense, vestments, a set of common clothes, and a pouch containing 1 Coin.
+**Equipment:** A holy symbol (a gift to you when you entered the priesthood), a prayer book or prayer wheel, incense, vestments, a set of common clothes, and a pouch containing 1 Coin.
 
 ### Feature: Shelter of the Faithful
 
 As an acolyte, you command the respect of those who share your faith, and you can perform the religious ceremonies of your deity. Whenever you spend a downtime round at a temple, shrine, or other established presence of your faith, you gain Rest and Repairs for free. Additionally, the following downtime options open up for you and for your allies in the HQ temple. After finishing the downtime round, you may gain holy water.
 - Spend herbs to get (1) healing potion.
-- Spend 1 coin to cast *lesser restoration*.
-- Spend 5 coins to cast *greater restoration*.
-- Spend 25 coins to cast *raise dead* on a fallen ally.
+- Spend ⛁ to cast *lesser restoration*.
+- Spend 5⛁ to cast *greater restoration*.
+- Spend 25⛁ coins to cast *raise dead* on a fallen ally.
 
 You might also have ties to a specific temple dedicated to your chosen deity or pantheon, and you have a residence there. This could be the temple where you used to serve, if you remain on good terms with it, or a temple where you have found a new home. While near your temple, you can call upon the priests for assistance, provided the assistance you ask for is not hazardous and you remain in good standing with your temple.
 
-### Suggested Characteristics
-Acolytes are shaped by their experience in temples or other religious communities. Their study of the history and tenets of their faith and their relationships to temples, shrines, or hierarchies affect their mannerisms and ideals. Their flaws might be some hidden hypocrisy or heretical idea, or an ideal or oath taken to an extreme.
-
 # Equipment
+
 ## Coins
+
 A 5eFP game uses coins (**⛁** equals 1 coin), a single denomination representing wealth, resources, experience, and reputation. The name of a coin may change in some 5eFP games. For example, coins might be called "gold pieces" in a medieval fantasy setting, while coins might refer to "credits" in a futuristic sci-fi setting. A game's setting handbook details what coins are called in a game. All coins use the following rules.
 
 ## Earning Coins
+
 GMs award **⛁** whenever PCs complete an encounter. Award +⛁ when the following conditions are met:
 
 - The PCs find one or more treasures during the encounter.
@@ -1223,7 +1220,7 @@ A game feature may temporarily grant PCs the ability to spend one or more coins.
 ## Selling Treasure
 Opportunities abound to find treasure, equipment, weapons, armor, and more in the dungeons you explore. Normally, you can sell your treasures and trinkets when you return to HQ ~, provided that you can find buyers and merchants interested in your loot~.
 
-**Arms, Armor, and Other Equipment.** As a general rule, undamaged weapons, armor, and other equipment fetch half their cost when sold in a market. This means you must sell two pieces of equipment in order to receive +1⛁.  Weapons and armor used by monsters are rarely in good enough condition to sell.
+**Arms, Armor, and Other Equipment.** As a general rule, undamaged weapons, armor, and other equipment fetch half their cost when sold in a market. This means you must sell two pieces of the same equipment in order to receive any coins.  Weapons and armor used by monsters are rarely in good enough condition to sell.
 
 **Magic Items.** Selling magic items is problematic. Finding someone to buy a potion or a scroll isn’t too hard, but other items are out of the realm of most but the wealthiest nobles. Likewise, aside from a few common magic items, you won’t normally come across magic items or spells to purchase. The value of magic is far beyond what simple coins represent and should always be treated as such. 
 
@@ -1238,11 +1235,11 @@ Fantasy gaming worlds are a vast tapestry made up of many different cultures, ea
 
 The Armor table shows the cost, weight, and other properties of the common types of armor worn in fantasy gaming worlds.
 
-***Armor Proficiency.*** Anyone can put on a suit of armor or strap a shield to an arm. Only those proficient in the armor’s use know how to wear it effectively, however. Your class gives you proficiency with certain types of armor. If you wear armor that you lack proficiency with, you have disadvantage on any skill check, saving throw, or attack roll that involves Strength or Dexterity, and you can’t cast spells.
+***Armor Proficiency.*** Anyone can put on a suit of armor or strap a shield to an arm. Only those proficient in the armor’s use know how to wear it effectively, however. Your class gives you proficiency with certain types of armor. If you wear armor that you lack proficiency with, you have disadvantage on any skill check, saving throw, or attack roll that involves STR or DEX, and you can’t cast spells.
 
 ***Armor Class (AC).*** Armor protects its wearer from attacks. The armor (and shield) you wear determines your base Armor Class.
 
-***Heavy Armor.*** Heavier armor interferes with the wearer’s ability to move quickly, stealthily, and freely. If the Armor table shows “Str +1” or “Str +2”, the armor reduces the wearer’s speed by 10 feet unless the wearer has a Strength score equal to or higher than the listed score.
+***Heavy Armor.*** Heavier armor interferes with the wearer’s ability to move quickly, stealthily, and freely. If the Armor table shows “Str +1” or “Str +2”, the armor reduces the wearer’s speed by 2 squares unless the wearer has a STR score equal to or higher than the listed score.
 
 ***Stealth.*** If the Armor table shows “Disadvantage”, the wearer has disadvantage on Performance (stealth) checks.
 
