@@ -214,9 +214,7 @@ It’s hard to make generalizations about humans, but your human character has t
 
 **Tools:** None
 
-**Abilities:** Strength (STR), CON
-
-**Skills:** Choose one from Perception, Performance, and Survival
+**Abilities:** Strength (STR), Constitution (CON)
 
 #### Equipment
 
@@ -238,7 +236,7 @@ If you are able to cast spells, you can’t cast them or concentrate on them whi
 
 Your rage ends early if you are knocked unconscious or if your turn ends and you haven’t attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.
 
-Once you have raged twice, you must finish a long rest before you can rage again.
+You can rage twice daily. ~~Once you have raged twice, you must finish a long rest before you can rage again.~~
 
 ### Unarmored Defense
 
@@ -262,9 +260,8 @@ While you are not wearing armor, add CON (minimum +0) to your Armor Class (AC). 
 
 **Abilities:** Dexterity (DEX), Charisma (CHA)
 
-**Skills:** Choose any two skills
-
 #### Equipment
+
 You start with the following equipment, in addition to the equipment granted by your background:
 - (*a*) a rapier or (*b*) a longsword, or (*c*) any simple weapon
 - (*a*) a diplomat's pack or (*b*) an entertainer's pack
@@ -272,22 +269,27 @@ You start with the following equipment, in addition to the equipment granted by 
 - Leather armor and dagger
 
 #### Spellcasting
+
 You have learned to untangle and reshape the fabric of reality in harmony with your wishes and music.
 
 #### Cantrips
+
 You know two bard cantrips of your choice.
 
 #### Spell Slots
+
 You begin the game with two 1st level spell slots. To cast one of your spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you return to HQ.
 
 For example, if you know the 1st-level spell *cure wounds* and have a 1st-level and a 2nd-level spell slot available, you can cast cure wounds using either slot.
 
 #### Spells Known
+
 You know four 1st-level spells of your choice from the bard spell list.
 
 Whenever you unlock a Magic feature (i.e., Magic I, Magic II, Magic III, etc.), you can choose one of the bard spells you know and replace it with another spell from the bard spell list, which also must be of a level for which you have spell slots.
 
 #### Spellcasting Ability
+
 Charisma (CHA) is your spellcasting ability for your bard spells. Your magic comes from the heart and soul you pour into the performance of your music or oration. You use your CHA whenever a spell refers to your spellcasting ability. In addition, you use your CHA when setting the saving throw DC for a bard spell you cast and when making an attack roll with one.
 
 **Spell save DC** = 10 + CHA
@@ -295,26 +297,33 @@ Charisma (CHA) is your spellcasting ability for your bard spells. Your magic com
 **Spell attack modifier** = 2 + CHA
 
 #### Ritual Casting
+
 You can cast any bard spell you know as a ritual if that spell has the ritual tag.
 
 #### Spellcasting Focus
+
 You can use a musical instrument (see “Equipment”) as a spellcasting focus for your bard spells.
 
 #### Bardic Inspiration
+
 You can inspire others through stirring words or music. To do so, you use a bonus action on your turn to choose one creature other than yourself within 10 squares of you who can hear you. That creature gains three Bardic Inspiration action dice.
 
 For the remainder of the encounter, the creature can roll any Bardic Inspiration action dice and add the result to one ability check, attack roll, or saving throw it makes. The creature can wait until after it rolls the d20 before deciding to use the Bardic Inspiration action dice but must decide before the GM says whether the roll succeeds or fails. Once the Bardic Inspiration action dice are rolled, they are lost. If the creature has Bardic Inspiration action dice and gains more, it decides whether to keep the ones it has or gain the new ones.
 
-You can use this feature a number of times equal to your CHA (minimum 1). You regain any expended uses when you finish a long rest.
+You can use this feature a number of times per day equal to your CHA (minimum 1).
 
 # Cleric
+
 #### Class Features
-As a cleric, you gain the following class features. 
-  
+
+As a cleric, you gain the following class features.
+
 #### Health
+
 **MAX Wounds:** 4 + Constitution (CON)
 
 #### Proficiencies
+
 **Armor:** Light armor, medium armor, shields
 
 **Weapons:** Simple weapons
@@ -323,9 +332,8 @@ As a cleric, you gain the following class features.
 
 **Abilities:** Wisdom (WIS), Charisma (CHA)
 
-**Skills:** Choose one from Insight, Medicine, and Performance
-
 #### Equipment
+
 You start with the following equipment, in addition to the equipment granted by your background:
 
 - (*a*) a mace or (*b*) a warhammer (if proficient)
@@ -335,12 +343,15 @@ You start with the following equipment, in addition to the equipment granted by 
 - A shield and a holy symbol
 
 #### Spellcasting
+
 As a conduit for divine power, you can cast cleric spells. 
 
 #### Cantrips
+
 You know three cleric cantrips of your choice.
 
 #### Preparing and Casting Spells
+
 You begin the game with two 1st level spell slots. To cast one of your spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest. For example, if you know the 1st-level spell *cure wounds* and have a 1st-level and a 2nd-level spell slot available, you can cast cure wounds using either slot. Casting the spell doesn’t remove it from your list of prepared spells.
 
 You prepare the list of cleric spells that are available for you to cast, choosing from the cleric spell list. When you do so, choose a number of cleric spells equal to WIS + your level (minimum of one spell). The spells must be of a level for which you have spell slots.
@@ -348,6 +359,7 @@ You prepare the list of cleric spells that are available for you to cast, choosi
 You can change your list of prepared spells at HQ. While away from HQ, you can prepare a new list of cleric spells by completing a short rest in prayer or meditation.
 
 #### Spellcasting Ability
+
 Wisdom (WIS) is your spellcasting ability for your cleric spells. The power of your spells comes from your devotion to your deity. You use your WIS whenever a cleric spell refers to your spellcasting ability. In addition, you use WIS when setting the saving throw DC for a cleric spell you cast and when making an attack roll with one.
 
 **Spell save DC** = 10 + WIS
@@ -355,40 +367,52 @@ Wisdom (WIS) is your spellcasting ability for your cleric spells. The power of y
 **Spell attack modifier** = 2 + WIS
 
 #### Ritual Casting
+
 You can cast a cleric spell as a ritual if that spell has the ritual tag and you have the spell prepared.
 
 #### Spellcasting Focus
+
 You can use a holy symbol (see “Equipment”) as a spellcasting focus for your cleric spells.
 
 #### Divine Domain
+
 Choose one domain related to your deity, such as Life. Each domain is detailed at the end of the class description, and each one provides examples of gods associated with it. Your choice grants you domain spells and other features.
 
 #### Domain Spells
+
 Each domain has a list of domain spells. You always have domain spells prepared and they don't count against the number of spells you can prepare while at HQ or during a short rest.
 
 If you gain a domain spell that isn't a cleric spell, the spell is nonetheless a cleric spell for you.
 
 ### Life Domain
+
 The Life domain focuses on the vibrant positive energy—one of the fundamental forces of the universe—that sustains all life. The gods of life promote vitality and health through healing the sick and wounded, caring for those in need, and driving away the forces of death and undeath. Almost any non-evil deity can claim influence over this domain, particularly agricultural deities (such as Chauntea, Arawai, and Demeter), sun gods (such as Lathander, Pelor, and Re-Horakhty), gods of healing or endurance (such as Ilmater, Mishakal, Apollo, and Diancecht), and gods of home and community (such as Hestia, Hathor, and Boldrei).
 
 #### Life Domain Spells
+
 - bless
 - cure wounds
 
 #### Bonus Proficiency
+
 You gain proficiency with heavy armor.
 
 #### Disciple of Life
+
 Your healing spells are more effective. Whenever you use a spell of 1st level or higher to heal a creature's wounds, the creature heals one additional wound per spell level.
 
 ## Druid
+
 #### Class Features
+
 As a druid, you gain the following class features. 
   
 #### Health
+
 **MAX Wounds:** 3 + Constitution (CON)
 
 #### Proficiencies
+
 **Armor:** Light armor, medium armor, shields (druids will not wear armor or use shields made of metal)
 
 **Weapons:** Clubs, daggers, darts, javelins, maces, quarterstaffs, scimitars, sickles, slings, spears
@@ -396,8 +420,6 @@ As a druid, you gain the following class features.
 **Tools:** Herbalism kit
 
 **Abilities:** Intelligence (INT), Wisdom (WIS)
-
-**Skills:** Choose	any two skills
 
 #### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
