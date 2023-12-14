@@ -1081,7 +1081,7 @@ DRUID
 >>> 
 >>> **_Defender._** You have 5 + CON MAX wounds while in defender form. If your size is less than large, it increases to large.
 >>> 
->>> **_Stealthy._** You have 4 + CON MAX wounds while in stealthy form. While in stealthy form you gain proficiency with Performance and Perception, and you gain a pounce attack (if you don't already have one).
+>>> **_Stealthy._** You have 4 + CON MAX wounds while in stealthy form. While in stealthy form you roll Performance and Perception checks with advantage, and you gain a pounce attack (if you don't already have one).
 >>> 
 >>> **_Travel._** You have 1 MAX wounds while in travel form. When you activate this form, choose any creatures within 6 squares of you. You and the chosen creatures transform into travel forms and move together. If a combat encounter begins or if 1 or more points of damage is dealt to you, your wild shape and all travel forms end. You may use the Dash action as a free action on each of your turns while in travel form. Once you activate travel form, you may reactivate travel form at any time for the rest of the day while moving the party token on the overland map.
 >> 
