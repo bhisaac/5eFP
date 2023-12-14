@@ -236,7 +236,7 @@ If you are able to cast spells, you can’t cast them or concentrate on them whi
 
 Your rage ends early if you are knocked unconscious or if your turn ends and you haven’t attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.
 
-You can rage twice daily. ~~Once you have raged twice, you must finish a long rest before you can rage again.~~
+You can rage twice per game.
 
 ### Unarmored Defense
 
@@ -1242,7 +1242,7 @@ Additionally, if you have inspiration, you can reward another player for good ro
 >>> 
 >> In example 2, _Player 1_'s action resolves a successful attack action from a hidden position and then finishes. The action does not continue on subsequent rounds.
 
-***SURVIVAL.*** Your character finds a path leading to another desired location on the current map. The revealed path must be traversable and cannot put PCs directly into harm's way. Your GM refunds your inspiration if no pathway is revealed. Alternatively, once per game session, you can use your inspired Survival to activate the inspired version of another skill you didn't dedicate at the beginning of the game.
+***SURVIVAL.*** Your character finds a path leading to another desired location on the current map. The revealed path must be traversable and cannot put PCs directly into harm's way. Your GM refunds your inspiration if no pathway is revealed. Alternatively, once per game session, you can use your inspired Survival to activate the inspired version of a skill you didn't dedicate at the beginning of the current game session.
 
 # Backgrounds
 
@@ -1294,7 +1294,7 @@ You might also have ties to a specific temple dedicated to your chosen deity or 
 
 ## Coins
 
-A 5eFP game uses coins (**⛁** equals 1 coin), a single denomination representing wealth, resources, experience, and reputation. The name of a coin may change in some 5eFP games. For example, coins might be called "gold pieces" in a medieval fantasy setting, while coins might refer to "credits" in a futuristic sci-fi setting. A game's setting handbook details what coins are called in a game. All coins use the following rules.
+5eFP games use coins (**⛁** equals 1 coin), a single denomination representing wealth, resources, experience, and reputation. The name of a coin may change in some games. For example, coins might be called "gold pieces" in a medieval fantasy setting, while coins might refer to "credits" in a futuristic sci-fi setting. A game's setting handbook details what coins are called. All coins use the following rules.
 
 ## Earning Coins
 
@@ -1715,8 +1715,8 @@ All 5eFP games follow the same rules framework.
 
 Elements of a 5eFP game:
 - **Fast Travel.** Once a destination is set on the world map, the PCs instantly arrive at an unexplored map tile.
-- **Recall.** Once deployed, PCs may recall back to headquarters anytime by performing a special 1-minute ritual. Alternatively, PCs all recall back to HQ after 8 hours have elapsed. A PC may only recall once daily.
-- **Headquarters (HQ).** The game has a centralized organization linking each PC to one another. Players almost always begin and end a game session at HQ.
+- **Recall.** Once deployed, PCs may recall back to headquarters anytime by performing a special 1-minute ritual. Alternatively, PCs all recall back to HQ after 8 hours have elapsed. A PC may only recall once per game session.
+- **Headquarters (HQ).** The game has a centralized organization linking each PC to one another. Players almost always begin and end a game at HQ.
 
 ## The World Map
 - Map size: 14 squares by 14 squares
@@ -1752,6 +1752,7 @@ Steps taken for world map deployment.
 # Encounter Map
 
 # Headquarters (HQ)
+
 Headquarters (HQ) represents the core organization(s) that all player characters (PCs) belong to within a 5eFP campaign setting. HQ can be an organization, a settlement, an outpost, a watch tower, a ship, or a station. All HQs have a dedicated society of supporters who help PCs complete HQ missions and guarantee safety and protection from whatever awaits beyond HQ's borders, provided PCs pay HQ's upkeep cost. See your setting handbook for more details on HQ upkeep costs.
 
 HQ usually remains in one static location while PCs deploy on missions outward from the world map's center. However, some HQs relocate on the world map while other HQs have movable tokens representing a deployable vehicle or station with sufficient life support. Deployable HQ tokens function identically to static HQ world map tiles.
@@ -1759,11 +1760,13 @@ HQ usually remains in one static location while PCs deploy on missions outward f
 Sometimes HQs create satellite locations within the world map. Treat satellite locations as extensions of HQ. PCs can spend their downtime in HQ or within one of HQ's satellite locations, which may provide alternative benefits. Satellite locations are less secure than HQ, but remain relatively safe and protected, provided PCs meet HQ's upkeep costs. Local circumstances, conditions, and disturbances can affect the safety and protection offered by HQ. A temporary suspension of HQ protection results in PCs losing the ability to rest and repair. Coins spent on rest and repairs are lost during these circumstances.
 
 ## Game Session Start
+
 Unless stated otherwise, you always begin the game at HQ.
 
 You begin the game by revealing the HQ world map tile to all players. Place the HQ tile at the world map center tile position, reading any read-aloud text listed in your setting handbook for the start of the game.
 
 ## Game Session End
+
 Unless stated otherwise, you always end the game at HQ. The following occurs when PCs return to HQ:
 1. All ongoing encounter powers, abilities, and features end.
 2. PCs may pay 1 Coin for rest and repairs.
@@ -1777,7 +1780,7 @@ Unless stated otherwise, you always end the game at HQ. The following occurs whe
 At the start of a player's downtime round, that player may (board game: choose and place a worker from their character sheet on the appropriate regions on the HQ map) choose and gain the benefits of one downtime activity (see below). All PCs have this basic option no matter how many coins they have.
 
 ## Spending Coin
-After the conclusion of a 5eFP session, players take 1 or more rounds of downtime. At the start of the downtime phase, PCs each roll a d20, adding the number of coins they currently have as a modifier. This number represents their downtime initiative. Each rolls a d20 and adds the number of Coins they currently have. This is called the downtime initiative, or just initiative.
+After the conclusion of a game session, players take 1 or more rounds of downtime. At the start of the downtime phase, PCs each roll a d20, adding the number of coins they currently have as a modifier. This number represents their downtime initiative. Each rolls a d20 and adds the number of Coins they currently have. This is called the downtime initiative, or just initiative.
 
 ## Downtime Activities
 Whenever a PC chooses a specific downtime activity, it cannot be chosen again until the beginning of the next round of downtime. During a round of downtime, a PC can perform the following actions:
@@ -1936,6 +1939,7 @@ A monster’s statistics, sometimes referred to as its **stat block**, provide t
 ### Size
 
 ### Type
+
 A monster’s type speaks to its fundamental nature. Certain spells, magic items, class features, and other effects in the game interact in special ways with creatures of a particular type. For example, an *arrow of dragon slaying* deals extra damage not only to dragons but also to other creatures of the dragon type, such as dragon turtles and wyverns.
 
 The game includes the following monster types, which have no rules of their own.
@@ -1969,6 +1973,7 @@ The game includes the following monster types, which have no rules of their own.
 **Undead** are once-living creatures brought to a horrifying state of undeath through the practice of necromantic magic or some unholy curse. Undead include walking corpses, such as vampires and zombies, as well as bodiless spirits, such as ghosts and specters.
 
 #### Tags
+
 A monster might have one or more tags appended to its type, in parentheses. For example, an orc has the *humanoid (orc)* type. The parenthetical tags provide additional categorization for certain creatures. The tags have no rules of their own, but something in the game, such as a magic item, might refer to them. For instance, a spear that is especially effective at fighting demons would work against any monster that has the demon tag.
 
 ### Alignment
@@ -2070,6 +2075,7 @@ A monster can cast a spell from its list at a higher level if it has the spell s
 You can change the spells that a monster knows or has prepared, replacing any spell on its spell list with a spell of the same level and from the same class list. If you do so, you might cause the monster to be a greater or lesser threat than suggested by its description.
 
 #### Psionics
+
 A monster that casts spells using only the power of its mind has the psionics tag added to its Spellcasting or Innate Spellcasting special trait. This tag carries no special rules of its own, but other parts of the game might refer to it. A monster that has this tag typically doesn’t require any components to cast its spells.
 
 ### Actions
@@ -2100,7 +2106,7 @@ Some special abilities have restrictions on the number of times they can be used
 
 For example, "Bolster 2" means a monster can use up to 2 bolster points as a free action to reduce incoming damage by an amount equal to the number of bolster points spent. If the creature uses 1 bolster point, it then has "Bolster 1." If it later gains "Bolster 2," the creature gains "Bolster 2" and discards "Bolster 1."
 
-**X/Game.** The notation “X/Game” means a special ability or feature can only be used X number of times during one 5eFP game session.
+**X/Game.** The notation “X/Game” means a special ability or feature can only be used X number of times during one game session.
 
 **Recharge X–Y.** The notation “Recharge X–Y” means a monster can use a special ability once and that the ability then has a random chance of recharging during each subsequent round of combat. At the start of each of the monster’s turns, roll three action dice. If the number of actions equals one of the numbers in the recharge notation, the monster regains the use of the special ability. The ability also recharges when the monster finishes a short rest.
 
@@ -2255,9 +2261,11 @@ A spellcaster must have a hand free to access a spell’s material components—
 A spell’s duration is the length of time the spell persists. A duration can be the length of an encounter or the length of a game session. Some spells specify that their effects last until the spells are dispelled or destroyed.
 
 #### Encounter
-A number of spells have durations longer than an instant but shorter than a game session. These spells persist for the length of an encounter. Whenever you cast these spells while on the overland movement map of a world map tile, their effects remain as long as you do not change maps. If you change maps due to a random encounter or by entering a foothold, the spell's duration ends when you resolve the random encounter or when you complete the foothold.
+
+A number of spells have durations longer than an instant but shorter than a game session. These spells persist for the length of an encounter. Whenever you cast these spells while on the overland movement map of a world map tile, their effects remain as long as you do not change maps. If you change maps due to an encounter or by entering a foothold, the spell's duration ends when you resolve the random encounter or when you complete the foothold.
 
 #### Instantaneous
+
 Many spells are instantaneous. The spell harms, heals, creates, or alters a creature or an object in a way that can’t be dispelled, because its magic exists only for an instant.
 
 #### Recall
