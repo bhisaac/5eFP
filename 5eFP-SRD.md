@@ -1205,7 +1205,7 @@ A 5eFP game uses coins (**⛁** equals 1 coin), a single denomination representi
 
 ## Earning Coins
 
-GMs award **⛁** whenever PCs complete an encounter. Award +⛁ when the following conditions are met:
+GMs award **⛁** whenever PCs complete an encounter. Award +⛁ if any of the following conditions are met:
 
 - The PCs find one or more treasures during the encounter.
 - The PCs increase one or more reputations during the encounter.
