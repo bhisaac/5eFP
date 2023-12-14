@@ -607,11 +607,11 @@ You	can	use	this	feature	a	number	of	times	equal to	1	+	CHA.	You	regain	all	expe
 
 ### Lay on Hands
 
-Your	blessed	touch	can	heal	wounds.	You	have	a pool	of	healing	power	that	replenishes	when you return to HQ.	With	that	pool,	you	can	heal	a total	number	of	wounds equal	to	your	paladin	level	×	5.
+Your	blessed	touch	can	heal	wounds.	You	have	a reserve	of	healing	power	that	replenishes	when you return to HQ. You can assign up to 5 points of healing with your reserve.
 
-As	an	action,	you	can touch a wounded creature and	choose to expend 1 or more points from your healing pool, up to the maximum amount remaining in your pool. Each point heals one of the creature's wounds.
+As	an	action,	you	can touch a wounded creature and	spend 1 or more points of healing, up to the maximum amount remaining in your reserve. The creature receives the healing.
 
-Alternatively,	you	can	expend	5	points	from your	pool	of	healing	to	cure	the	target	of	one	disease or	neutralize	one	poison	affecting	it.	You	can	cure multiple diseases	and	neutralize	multiple	poisons with	a	single	use	of	Lay	on	Hands,	expending	points	separately	for	each	one.
+Alternatively,	you	can	expend	5	points	from your reserve	to	cure	the	target	of	one	disease or	neutralize	one	poison	affecting	it.	You	can	cure multiple diseases	and	neutralize	multiple	poisons with	a	single	use	of	Lay	on	Hands,	expending	points	separately	for	each	one.
 
 This	feature	has	no	effect	on	undead	and constructs.
 
