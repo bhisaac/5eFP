@@ -1153,9 +1153,6 @@ Additionally, if you have inspiration, you can reward another player for good ro
 
 # Backgrounds
 
-|[⇦](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#introduction)|[ACOLYTE](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#acolyte)|...|[⇧](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#introduction)|
-|:-:|:-|:-|:-:|
-
 Every story has a beginning. Your character’s background reveals where you came from, how you became an adventurer, and your place in the world. Your dwarf warrior might have been a courageous knight or a grizzled soldier. Your halfling mage could have been a sage or an artisan. Your elf scoundrel might have gotten by as a guild thief or commanded audiences as a jester.
 
 Choosing a background provides you with traits and important story cues about your character’s identity. Backgrounds describe all events leading up to joining a life of adventure. Your starting gear represents the implements and reagents typical of your chosen background. How did you learn the skills of your class? Refer to your setting handbook for potential answers to these questions.
