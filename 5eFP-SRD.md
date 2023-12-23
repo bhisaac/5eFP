@@ -1869,7 +1869,23 @@ You’ve developed the skills necessary to hold your own in close-­quarters gra
 - You have advantage on attack rolls against a creature you are grappling.
 - You can use your action to try to pin a creature grappled by you. To do so, make another grapple check. If you succeed, you and the creature are both restrained until the grapple ends.
 
----
+# Party Buffs
+
+When PCs form a party, they may choose one of three beneficial effects which last until the end of a game session.
+
+## Defender
+
+- **Sieze the Initiative.** Whenever a combat encounter begins, you immediately take one turn before rolling your initiative. Then roll initiate as normal. Skip your first round of combat. You resume normal gameplay on subsequent turns.
+- **Taunt.** Your attacks, provocations, and damaging effects are harder to ignore. If you attack, damage, or adversely affect one or more creatures, those creatures are considered taunted. A creature is also taunted by you if you are the closest visible target to the creature. Taunted creatures must include you as a target with any attack, effect, or spell whenever possible. Creatures lose the taunted condition whenever they receive 1 or more points of damage from a PC with the healer or damage party buff.
+- **Soak.** At the beginning of a combat encounter, you gain Bolster 2.
+
+## Healer
+
+- The first time you target a creature with a spell, attack, or feature on each of your turns, you gain a follow-up free action. After completing your spell, attack, or feature, choose 1 creature within 1 square of your target. The chosen creature recives 1 point of healing and may make an additional saving throw to end an ongoing negative condition.
+
+## Damage
+
+TBA
 
 # Making An Attack
 ## Two-Weapon Fighting (needs playtesting)
