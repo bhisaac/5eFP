@@ -186,7 +186,7 @@ It’s hard to make generalizations about humans, but your human character has t
 
 **Adaptable.** Choose and gain one species trait:
 - Choose an ability score unmodified by your ability score increase trait. The chosen ability score increases by +1.
-- You gain one feat. You also gain proficiency in one skill of your choice.
+- You gain one feat. Additionally, choose a skill. Ability checks with the chosen skill gain advantage.
 
 **Age.** Humans reach adulthood in their late teens and live less than a century.
 
@@ -256,7 +256,7 @@ While you are not wearing armor, add CON (minimum +0) to your Armor Class (AC). 
 
 **Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords
 
-**Tools:** Three musical instruments of your choice
+**Tools:** Three musical instruments of your choice.
 
 **Abilities:** Dexterity (DEX), Charisma (CHA)
 
