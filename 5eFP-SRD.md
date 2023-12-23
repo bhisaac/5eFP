@@ -1875,7 +1875,7 @@ When PCs form a party, they may choose one of three beneficial effects which las
 
 ## Defender
 
-- **Sieze the Initiative.** Whenever a combat encounter begins, you immediately take one turn before rolling your initiative. Then roll initiate as normal. Skip your first round of combat. You resume normal gameplay on subsequent turns.
+- **Sieze the Initiative.** Whenever a combat encounter begins, you immediately take one turn before rolling your initiative. Then roll initiative as normal. Skip your first round of combat. You resume normal gameplay on subsequent turns.
 - **Taunt.** Your attacks, provocations, and damaging effects are harder to ignore. If you attack, damage, or adversely affect one or more creatures, those creatures are considered taunted. A creature is also taunted by you if you are the closest visible target to the creature. Taunted creatures must include you as a target with any attack, effect, or spell whenever possible. Creatures lose the taunted condition whenever they receive 1 or more points of damage from a PC with the healer or damage party buff.
 - **Soak.** At the beginning of a combat encounter, you gain Bolster 2.
 
