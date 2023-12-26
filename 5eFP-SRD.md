@@ -2001,6 +2001,14 @@ Some creatures can have **any alignment**. In other words, you choose the monste
 
 Many creatures of low intelligence have no comprehension of law or chaos, good or evil. They don’t make moral or ethical choices, but rather act on instinct. These creatures are **unaligned**, which means they don’t have an alignment.
 
+### Size
+
+- If an elite monster's size is less than medium, its size becomes medium.
+
+- If a boss monster's size is less than large, its size becomes large. 
+
+If a monster minion is small, the elite version's size increases to medium. If an elite monster's size is medium, the boss version's size increases to large.
+
 ### Speed
 A monster’s speed tells you how far it can move on its turn measured in squares.
 
@@ -2148,7 +2156,15 @@ Bosses are legendary creatures because they can do things that ordinary creature
 If a creature assumes the form of a boss, such as through a spell, it doesn’t gain that form’s legendary actions, lair actions, or regional effects.
 
 ### Legendary Actions
-A boss can take a certain number of special actions—called legendary actions—outside its turn. Only one legendary action option can be used at a time and only at the end of another creature’s turn. A creature regains its spent legendary actions at the start of its turn. It can forgo using them, and it can’t use them while incapacitated or otherwise unable to take actions. If surprised, it can’t use them until after its first turn in the combat.
+
+A boss can take up to three special actions—called legendary actions—outside its turn. Only one legendary action option can be used at a time and only at the end of another creature’s turn. A creature regains its spent legendary actions at the start of its turn. It can forgo using them, and it can’t use them while incapacitated or otherwise unable to take actions. If surprised, it can’t use them until after its first turn in the combat.
+
+#### Default Legendary Actions
+
+All bosses automatically have the following legendary actions.
+
+- **Attack (1 Action).** The boss makes one attack against a creature within range.
+- **Bolster (2 Actions).** The boss gains **bolster (1 + LEVEL)**. A boss can only activate this legendary action if a minion is within its line of sight.
 
 ### A Boss' Lair
 A boss might have a section describing its lair and the special effects it can create while there, either by act of will or simply by being present. Such a section applies only to a boss that spends a great deal of time in its lair.
@@ -2854,11 +2870,15 @@ Alternatively, you can make a target indifferent about creatures of your choice 
 ---
 
 # Appendix MM
+
 ## Monsters (A)
+
 ### Awakened Shrub
+
 *Small plant, unaligned*
 
 An awakened shrub is an ordinary plant given sentience and mobility by the *awaken* spell or similar magic. Awakened shrubs share the following statistics.
+
 - **Damage Vulnerability** fire
 - **Damage Resistances** piercing
 - **Senses** passive Perception 10
@@ -2868,28 +2888,19 @@ An awakened shrub is an ordinary plant given sentience and mobility by the *awak
 
 **False Appearance.** While the awakened plant remains motionless, it is indistinguishable from a normal plant.
 
-|*STR*|*DEX*|*CON*|*INT*|*WIS*|*CHA*|
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|-4|-1|+0|+0|+0|-2|
+### Attacks
 
 **Rake.** *Melee Weapon Attack*, reach 1, one target. *Hit:* slashing damage.
 
-### Elite Features
-**⇧ Size.** Increase the awakened shrub elite's size to medium (1x1).
-
 ### Boss Features
-**⇧ Size.** Increase the awakened shrub minion's size to large (2x2).
 
-**⇧ Rake.** *Melee Weapon Attack*, ***reach 2***, one target. *Hit:* slashing damage.
+**⇧ Rake.** *Melee Weapon Attack*, **⇧ *reach 2***, one target. *Hit:* slashing damage.
 
-#### Legendary Actions (3 Actions)
-**Awaken (1 Action/minion).** Revive one defeated plant minion within line of sight for each point spent. Plant minions defeated with fire cannot be revived in this way.
+#### Legendary Actions
 
-**Rake (1 Action).** Make one rake attack against a foe.
+**Revive (1 Action/minion).** Restore one defeated plant minion within line of sight to full health for each point spent. Plant minions defeated with fire cannot be revived in this way.
 
-**Thrash (1 Action).** The awakened shrub boss deals piercing damge to adjacent foes. A successful DEX save reduces the damage by half.
-
-**Bolster (2 Actions).** The awakened shrub boss gains **bolster (1 + LEVEL)**.
+**Thrash (1 Action).** The awakened shrub boss deals slashing damage to adjacent foes. A successful DEX save reduces the damage by half.
 
 ## Monsters (B)
 
@@ -2931,21 +2942,19 @@ Liches share the following statistics.
 
 **Turn Resistance.** The lich has advantage on saving throws against any effect that turns undead.
 
-|STR|DEX|CON|INT|WIS|CHA|
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|+0|+3|+3|+5|+2|+3|
-
 **Spellcasting.** Lich minions are spellcasters. Thier spellcasting ability is INT. Lich minions have the following wizard spells prepared:
 - **Cantrips (at will):** *mage hand, prestidigitation, ray of frost*
+
+### Attacks
 
 **Paralyzing Touch.** Melee Spell Attack, reach 1, one creature. Hit: cold damage. The target must succeed on a CON saving throw or be paralyzed until the end of the encounter. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ### Elite Features
-**⇧ Spellcasting.** A lich elite has the following additional wizard spells prepared. LEVEL determines spell levels and spell slots.
 
-|||
+**⇧ Spellcasting.** A lich elite has the following additional wizard spells prepared. LEVEL determines spell levels and spell slots. If LEVEL is listed more than once, the lich elite gains both benefits.
+
+|LEVEL||
 |-:|:-|
-|**LEVEL**||
 |**1**|1st level (4 slots): *detect magic, magic missile, shield, thunderwave*|
 |**1**|2nd level (3 slots): *acid arrow, detect thoughts, invisibility, mirror image*|
 |**2**|3rd level (3 slots): *animate dead, counterspell, dispel magic, fireball*|
@@ -2955,19 +2964,16 @@ Liches share the following statistics.
 |**5**|7th level (1 slot): *finger of death, plane shift*|
 |**5**|8th level (1 slot): *dominate monster, power word stun*|
 |**7**|9th level (1 slot): *power word kill*|
-||If LEVEL is listed more than once, the lich elite gains both benefits.|
 
 ### Boss Features
-#### Legendary Actions (3 Actions)
+
+#### Legendary Actions
+
 **Cantrip (1 Action).** The lich casts a cantrip
 
-**Bolster (2 Actions).** The lich must be able to target a minion within 12 squares to use this legendary action. The lich gains **bolster 2**.
+**Frightening Gaze (2 Actions).** The lich fixes its gaze on one creature it can see within 2 squares of it. The target must succeed on a WIS saving throw or become frightened until the end of the encounter. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target’s saving throw is successful or the effect ends for it, the target is immune to the lich’s gaze until the end of the game session.
 
-**Paralyzing Touch (2 Actions).** The lich uses its Paralyzing Touch.
-
-**Frightening Gaze (2 Actions).** The lich fixes its gaze on one creature it can see within 2 squares of it. The target must succeed on a WIS saving throw or become frightened until the end of the encounter. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target’s saving throw is successful or the effect ends for it, the target is immune to the lich’s gaze for the next 24 hours.
-
-**Disrupt Life (3 Actions).** Each non-undead creature within 5 squares of the lich must make a CON saving throw, taking 3 necrotic damage on a failed save, or 1 necrotic damage on a successful one.
+**Disrupt Life (3 Actions).** Each non-undead creature within 5 squares of the lich must make a CON saving throw, taking necrotic damage on a failed save, or half damage on a successful one.
 
 ## Monsters (M)
 
@@ -3009,27 +3015,17 @@ Zombies share the following statistics.
 
 **Undead Fortitude.** If the zombie reaches MAX wounds, it must make a CON saving throw with a DC of 12 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie receives 1 point of healing.
 
-|STR|DEX|CON|INT|WIS|CHA|
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|+1|-2|+3|-4|-2|-3|
+### Attacks
 
 **Slam.** *Melee Weapon Attack*, reach 1, one target. *Hit:* bludgeoning damage.
 
 ### Elite Features
+
 **Multiattack.** The zombie elite makes two slam attacks.
 
-**⇧ Stats.** A zombie elite uses the following upgraded ability scores:
-
-|STR|DEX|CON|INT|WIS|CHA|
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|**+4**|-2|**+4**|-4|-2|-3|
-
 ### Boss Features
-**Pack Tactics.** The zombie boss has advantage on an attack roll against a creature if at least one minion is within 1 square of the creature and the minion isn’t incapacitated.
 
-### Legendary Actions (3 Actions)
-- **Bolster (2 Actions).** To choose this action, the zombie boss must be adjacent to a minion. The zombie boss gains **bolster (LEVEL)**.
-- **Slam (1 Action).** Make one slam attack against an adjacent foe.
+**Pack Tactics.** The zombie boss has advantage on an attack roll against a creature if at least one minion is within 1 square of the creature and the minion isn’t incapacitated.
 
 # Appendix PH-A: Conditions
 
