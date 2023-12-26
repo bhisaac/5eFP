@@ -1885,7 +1885,7 @@ When PCs form a party, they may choose one of three beneficial effects which las
 
 ## Damage
 
-The first time you target a creature with a spell, attack, or feature on each of your turns, you gain a follow-up free action: chose a creature within 1 square. The creature takes 1 point of damage. The damage type remains the same or piercing (if no type is designated).
+- The first time you target a creature with a spell, attack, or feature on each of your turns, you gain a follow-up free action: chose a creature within 1 square. The creature takes 1 point of damage. The damage type remains the same or piercing (if no type is designated).
 
 # Making An Attack
 ## Two-Weapon Fighting (needs playtesting)
