@@ -1724,13 +1724,17 @@ Elements of a 5eFP game:
 >>
 >> You can add random encounters back in by assigning up to five random encounters as footholds contained within an unexplored world map tile. When PCs encounter a foothold, they draw and resolve a creature encounter instead of drawing a story card until all random encounters are resolved.
 
-- **Recall.** Once deployed, PCs may recall back to headquarters anytime by performing a special 1-minute ritual. Any PC not currently located at HQ is automatically recalled back to HQ at the end of a game session. A PC may only recall once per game session.
+- **Recall.** Once deployed, PCs may recall back to headquarters anytime by performing a special 1-minute ritual. Recalled PCs return to HQ. Any PC not currently located at HQ automatically returns to HQ at the end of a game session. A PC may only recall once per game session.
 
 > For Game Masters: How do the PCs recall?
 > 
 >> What technology does the game use to make this happen? Teleportation? Airlifting? Shuttles?
 >>
->> For example, in Enchanted Forest, the PCs use mystic skipping stone artifacts gifted to them when they graduate as a Queen's Herald. The stones cannot be destroyed. Each stone is unique and bonded to exactly one PC. PCs and their bonded stones simultaneously recall to HQ.
+>> For example, in Enchanted Forest, the PCs use mystic skipping stone artifacts gifted to them when they graduate as a Queen's Herald. The stones are powerful magic items that cannot be destroyed. Each stone is unique and bonded to exactly one PC. PCs and their bonded stones simultaneously recall to HQ.
+>>
+> For Game Masters: Why do the PCs recall automatically after 8 hours?
+> 
+>> A condition or situation afflicts the world map. This condition or situation makes prolonged contact impossible or lethal. What's going on in your world map that explains this limit? For example, in Enchanted Forest, the Enchantress Queen can only keep the PCs safe from the Nightmare for up to 8 hours once the PCs have finished deploying on the world map. The Enchantress Queen must then finish a long rest before undertaking another deployment.
 
 - **Headquarters (HQ).** The game has a centralized organization linking each PC to one another. Players almost always begin and end a game at HQ.
 
