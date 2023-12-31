@@ -1907,6 +1907,16 @@ When PCs form a party, they may choose one of three beneficial effects which las
 
 - The first time you target a creature with a spell, attack, or feature on each of your turns, you gain a follow-up free action: chose a creature within 1 square. The creature takes 1 point of damage. The damage type remains the same or piercing (if no type is designated).
 
+# Party Token
+
+While deployed on the world map, the PCs designate one player as the party token controller. The controller of the party token can transfer control at any time before taking an action or a movement. All PCs are contained within the party token. The party token can move up to the party controller's speed but must do so in 1-square increments. Each time the party token moves, the PCs may take one turn in initiative order.
+
+## Overland
+
+## Dungeon
+
+
+
 # Making An Attack
 ## Two-Weapon Fighting (needs playtesting)
 ~~When	you	take	the	Attack	action	and	attack	with	a	light	melee	weapon	that	you’re	holding	in	one	hand,	you	can	use	a	bonus	action	to	attack	with	a	different light melee	weapon	that	you’re	holding	in	the	other	hand.	You	don’t	add	your	ability	modifier	to	the	damage	of	the	bonus	attack,	unless	that	modifier	is	negative.~~
