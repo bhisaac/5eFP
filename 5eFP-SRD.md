@@ -1718,11 +1718,11 @@ Elements of a 5eFP game:
 
 > For Game Masters: Why is it Randomized?
 >> 
->> Try to make it sound believable and logical. For example, in Enchanted Forest, PCs use mystic skipping stones to fast travel to unexplored world map tiles. The stones are imprecise in where they land. This is a good reason why it is randomized. Others include getting lost, strong currents, resistance, or interference. Believability is important. If you buy into your explanation, your players will likely do so too. Fantasy realms are wondrous, but they also adhere to a set of consistent and believable rules.
+>> Try to make it sound believable and logical. For example, in Enchanted Forest, PCs use mystic skipping stones to fast travel to unexplored world map tiles. The stones are imprecise in where they land. This is a good reason why it is randomized. Others include getting lost, strong currents, resistance, or interference. Believability is important. If you buy into your explanation, your players will likely do so too. Fantasy realms are wondrous, but they also adhere to consistent and believable rules.
 >>
 > Variant Rules: Add Random Encounters
 >>
->> You can add random encounters back in, by assigning any random encounter results as footholds contained within an unexplored world map tile. Then, change all directions to hybrid directions (see World Map).
+>> You can add random encounters back in by assigning up to five random encounters as footholds contained within an unexplored world map tile. When PCs encounter a foothold, they draw and resolve a creature encounter instead of drawing a story card until all random encounters are resolved.
 
 - **Recall.** Once deployed, PCs may recall back to headquarters anytime by performing a special 1-minute ritual. Any PC not currently located at HQ is automatically recalled back to HQ at the end of a game session. A PC may only recall once per game session.
 
