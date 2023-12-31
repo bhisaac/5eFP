@@ -1083,7 +1083,7 @@ DRUID
 >>> 
 >>> **_Stealthy._** You have 4 + CON MAX wounds while in stealthy form. While in stealthy form you roll Performance and Perception checks with advantage, and you gain a pounce attack (if you don't already have one).
 >>> 
->>> **_Travel._** You have 1 MAX wounds while in travel form. When you activate this form, choose any creatures within 6 squares of you. You and the chosen creatures transform into travel forms and move together. If a combat encounter begins or if 1 or more points of damage is dealt to you, your wild shape and all travel forms end. You may use the Dash action as a free action on each of your turns while in travel form. Once you activate travel form, you may reactivate travel form at any time for the rest of the day while moving the party token on the overland map.
+>>> **_Travel._** You have 1 MAX wounds while in travel form. When you activate this form, choose any creatures within 6 squares of you. You and the chosen creatures transform into travel forms and move together. If a combat encounter begins or if 1 or more points of damage is dealt to you, your wild shape and all travel forms end. You may use the Dash action as a free action on each of your turns while in travel form. Once you activate travel form, you may reactivate travel form at any time for the rest of the day while moving the party token on the overland map (see Overland Map).
 >> 
 >> You can use this feature twice. You regain expended uses when you finish a short or long rest.
 >>
@@ -1714,7 +1714,14 @@ Torch. A torch burns for 1 hour, providing bright light in a 20-­‐‑foot rad
 All 5eFP games follow the same rules framework.
 
 Elements of a 5eFP game:
-- **Fast Travel.** Once a destination is set on the world map, the PCs instantly arrive at an unexplored map tile.
+- **Fast Travel.** Once a destination is revealed and set on the world map, PCs may choose that destination and deploy to it instantly without random encounters. The party's starting location on an unexplored world map tile is randomized.
+
+>> For Game Masters: Why is it Randomized?
+> GMs need only determine Why is it randomized. Try to make it sound believable and logical. For example, in Enchanted Forest, PCs use mystic skipping stones to fast travel to unexplored world map tiles. The stones are imprecise in where they land. This is a good reason why it is randomized. Others include getting lost, strong currents, . Believability is key. If you buy into it, your players are likely to do so as well. Fantasy realms are wondrous, but they adhere to a set of consistent and believable rules as well.
+>
+>> Variant Rules: Add Random Encounters
+> You can add random encounters back in, if desired, by assigning the random encounter results as footholds contained within an unexplored world map tile. Then change all story directions to hybrid story directions.
+
 - **Recall.** Once deployed, PCs may recall back to headquarters anytime by performing a special 1-minute ritual. Alternatively, PCs all recall back to HQ after 8 hours have elapsed. A PC may only recall once per game session.
 - **Headquarters (HQ).** The game has a centralized organization linking each PC to one another. Players almost always begin and end a game at HQ.
 
