@@ -1734,7 +1734,7 @@ Elements of a 5eFP game:
 >>
 > For Game Masters: Why do the PCs recall automatically after 8 hours?
 > 
->> A condition or situation afflicts the world map. This condition or situation makes prolonged contact impossible or lethal. What's going on in your world map that explains this limit? For example, in Enchanted Forest, the Enchantress Queen can only keep the PCs safe from the Nightmare for up to 8 hours once the PCs have finished deploying on the world map. The Enchantress Queen must then finish a long rest before undertaking another deployment.
+>> A condition or situation afflicts the world map. This condition or situation makes prolonged contact impossible or lethal. What's going on in your world map that explains this limit? For example, in Enchanted Forest, the Enchantress Queen can only keep the PCs safe from the Nightmare for up to 8 hours once the PCs have finished deploying. The Enchantress Queen must then finish a long rest before undertaking another deployment.
 
 - **Headquarters (HQ).** The game has a centralized organization linking each PC to one another. Players almost always begin and end a game at HQ.
 
