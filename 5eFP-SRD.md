@@ -1714,25 +1714,32 @@ Torch. A torch burns for 1 hour, providing bright light in a 20-­‐‑foot rad
 All 5eFP games follow the same rules framework.
 
 Elements of a 5eFP game:
-- **Fast Travel.** Once a destination is revealed and set on the world map, PCs may choose that destination and deploy to it instantly without random encounters. The party's starting location on an unexplored world map tile is randomized.
+- **Fast Travel.** Once a destination is revealed and set on the world map, PCs may choose it and deploy to it instantly without random encounters. The party's starting location on an unexplored world map tile is randomized.
 
 > For Game Masters: Why is it Randomized?
 >> 
->> GMs need only determine Why is it randomized. Try to make it sound believable and logical. For example, in Enchanted Forest, PCs use mystic skipping stones to fast travel to unexplored world map tiles. The stones are imprecise in where they land. This is a good reason why it is randomized. Others include getting lost, strong currents, . Believability is key. If you buy into it, your players are likely to do so as well. Fantasy realms are wondrous, but they adhere to a set of consistent and believable rules as well.
+>> Try to make it sound believable and logical. For example, in Enchanted Forest, PCs use mystic skipping stones to fast travel to unexplored world map tiles. The stones are imprecise in where they land. This is a good reason why it is randomized. Others include getting lost, strong currents, resistance, or interference. Believability is important. If you buy into your explanation, your players will likely do so too. Fantasy realms are wondrous, but they also adhere to a set of consistent and believable rules.
 >>
 > Variant Rules: Add Random Encounters
 >>
->> You can add random encounters back in, if desired, by assigning the random encounter results as footholds contained within an unexplored world map tile. Then change all story directions to hybrid story directions.
+>> You can add random encounters back in, by assigning any random encounter results as footholds contained within an unexplored world map tile. Then, change all directions to hybrid directions (see World Map).
 
-- **Recall.** Once deployed, PCs may recall back to headquarters anytime by performing a special 1-minute ritual. Alternatively, PCs all recall back to HQ after 8 hours have elapsed. A PC may only recall once per game session.
+- **Recall.** Once deployed, PCs may recall back to headquarters anytime by performing a special 1-minute ritual. Any PC not currently located at HQ is automatically recalled back to HQ at the end of a game session. A PC may only recall once per game session.
+
+> For Game Masters: How do the PCs recall?
+> 
+>> What technology does the game use to make this happen? Teleportation? Airlifting? Shuttles?
+>>
+>> For example, in Enchanted Forest, the PCs use mystic skipping stone artifacts gifted to them when they graduate as a Queen's Herald. The stones cannot be destroyed. Each stone is unique and bonded to exactly one PC. PCs and their bonded stones simultaneously recall to HQ.
+
 - **Headquarters (HQ).** The game has a centralized organization linking each PC to one another. Players almost always begin and end a game at HQ.
 
-## The World Map
+## World Map
 - Map size: 14 squares by 14 squares
 - Scale: 1 square equals 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters
 - Contains: (9) 2x2 world map tiles for each cardinal direction, (3) 2x2 world map tiles for each ordinal (hybrid) direction, and (1) 2x2 HQ tile
 
-Draw clear boundaries around each world map tile (use a grid). Hybrid tiles: draw a dashed diagonal line from one corner of the world map tile to its opposite corner in a color that will stand out. This dashed line represents the road or highway. World map tiles containing a highway are considered hybrid. While exploring hybrid tiles, players simultaneously draw and play story cards from both adjacent story directions.
+Draw clear boundaries around each world map tile (use a grid). Hybrid tiles: draw a dashed diagonal line from one corner of the world map tile to its opposite corner in a color that will stand out. This dashed line represents the road or highway. World map tiles containing a highway are considered hybrid. While exploring hybrid tiles, players draw and play story cards from adjacent story directions simultaneously.
 
 The world map begins obscured. After choosing or creating the world map, place obscuring world map tiles over it. The nature of this obscurity is detailed in your setting handbook. The HQ (headquarters) tile is the only one not obscured at the beginning of the game. The HQ tile is placed at the map's center position. Obscuring world map tiles are removed whenever the PCs explore the world map tile it obscures. The following procedure must be completed to explore a world map tile:
 
