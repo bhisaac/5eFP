@@ -1901,32 +1901,36 @@ When PCs form a party, they may choose one of three beneficial effects which las
 
 ## Healer
 
-- The first time you target a creature with a spell, attack, or feature on each of your turns, you gain a follow-up free action. After completing your spell, attack, or feature, choose 1 creature within 1 square of your target. The chosen creature recives 1 point of healing and may make an additional saving throw to end an ongoing negative condition.
+- The first time you target a creature with a spell, attack, or feature on each of your turns, you gain a follow-up free action. After completing your spell, attack, or feature, choose 1 creature within 1 square of your target. The chosen creature receives 1 point of healing and may make an additional saving throw to end an ongoing negative condition.
 
 ## Damage
 
-- The first time you target a creature with a spell, attack, or feature on each of your turns, you gain a follow-up free action: chose a creature within 1 square. The creature takes 1 point of damage. The damage type remains the same or piercing (if no type is designated).
+- The first time you target a creature with a spell, attack, or feature on each of your turns, you gain a follow-up free action: choose a creature within 1 square. The creature takes 1 point of damage. The damage type remains the same or piercing (if no type is designated).
 
 # Party Token
 
-While deployed on the world map, the PCs designate one player as the party token controller. The controller of the party token can transfer control at any time before taking an action or a movement. All PCs are contained within the party token. The party token can move up to the party controller's speed but must do so in 1-square increments. Each time the party token moves, the PCs may take one turn in initiative order.
+While deployed on a map, one player becomes the party token controller. The party token represents the entire group and can move up to the controller's speed, one square at a time. After moving, the controller removes any fog of war tiles within 1 square of its current position. Removing a fog of war tile may trigger an encounter. Once the party token stops moving, PCs may choose to take a turn in initiative order. Players are allowed to take free actions and up to one action, bonus action, and reaction during a party token turn, but they cannot move the party token until the turn is completed.
 
-## Overland
+Certain backgrounds, classes, and species have bonus features while controlling the party token. The PC with the highest movement or the best bonus features while moving the party token typically becomes the party token controller.
+
+## World Map
+
+While on the world map, if the party token triggers an encounter by moving onto a foothold, take note of the direction in which the party token moved and leave the party token on the foothold. Set up an encounter map matching the party token's primary terrain. The players enter the map and place their tokens within one square of the side they entered the map in as close to marching order as possible before adding any creatures or map features onto the map. Once an encounter resolves, the players remove their tokens from the map, the GM puts away the encounter map, and gameplay resumes on the world map.
 
 ## Dungeon
 
-
+While on a dungeon map, if the party token triggers an encounter, replace the party token with the player's tokens as close to marching order as possible before placing any creatures or map features onto the map. Once an encounter resolves, remove the player's tokens from the map and place the party token back onto the map on an accessible dungeon tile not obscured by a fog of war tile.
 
 # Making An Attack
-## Two-Weapon Fighting (needs playtesting)
-~~When	you	take	the	Attack	action	and	attack	with	a	light	melee	weapon	that	you’re	holding	in	one	hand,	you	can	use	a	bonus	action	to	attack	with	a	different light melee	weapon	that	you’re	holding	in	the	other	hand.	You	don’t	add	your	ability	modifier	to	the	damage	of	the	bonus	attack,	unless	that	modifier	is	negative.~~
+
+## Two-Weapon Fighting
 
 When you take the Attack action and attack with a light melee weapon that you're holding in one hand, you can use a bonus action to attack with a different light melee weapon that you're holding in the other hand.
 
 If	either	weapon	has	the	thrown	property,	you	can	throw	the	weapon,	instead	of	making	a	melee	attack	with	it.
 
-(floating section)
 # Encounters
+
 5eFP uses encounters to describe the adversity PCs find while exploring maps. Traps, unfavorable environmental conditions, creatures, and challenging story situations are all considered encounters. Use the following table to determine the base statistics for all encounters. Except for forced movement, minion damage, and minion MAX wounds, add LEVEL to the base values.
 
 |   |**Minion**|**Elite**|**Boss**|
