@@ -1917,7 +1917,7 @@ Certain backgrounds, classes, and species have bonus features while controlling 
 
 While on the world map, if the party token triggers an encounter by moving onto a foothold, take note of the direction in which the party token moved and leave the party token on the foothold. Set up an encounter map matching the party token's primary terrain. The players enter the map and place their tokens within one square of the side they entered the map in as close to marching order as possible before adding any creatures or map features onto the map. Once an encounter resolves, the players remove their tokens from the map, the GM puts away the encounter map, and gameplay resumes on the world map.
 
-## Dungeon
+## Dungeon Encounter
 
 While on a dungeon map, if the party token triggers an encounter, replace the party token with the player's tokens as close to marching order as possible before placing any creatures or map features onto the map. Once an encounter resolves, remove the player's tokens from the map and place the party token back onto the map on an accessible dungeon tile not obscured by a fog of war tile.
 
@@ -2219,7 +2219,19 @@ If a dungeon contains a passage leading to a higher or lower floor of the dungeo
 
 Dungeons may have one or more bonus features.
 
-**Danger Room.** These rooms are always obscured by a reinforced and locked door or an opaque phenomenon keeping creatures out that is clearly labeled as deadly. PCs must first acknowledge the warnings to enter a danger room. Acknowledgment unlocks the door or phenomenon, allowing passage. If the PCs advance into a danger room, they must face a boss battle at difficulty (LEVEL + 2). The way out vanishes the moment the PCs reach the danger room and does not reappear until the end of the encounter. The monster encounter is set up as if there are five PCs (even if the party is less than five) and two bonus elites are added to the encounter. If the PCs overcome the encounter, an unlocked, trap-free ornate chest appears. Each PC may, in turn, approach the chest and open it. The PC then chooses and adds one treasure to their equipment from three discovered treasures (roll once on mundane treasures for their class, once on advanced treasures for their class, and once for magic items).
+**Danger Room.** These rooms are always obscured by a reinforced and locked door or an opaque phenomenon keeping creatures out that is clearly labeled as deadly. PCs must first acknowledge the warnings to enter a danger room. Acknowledgment unlocks the door or phenomenon, allowing passage. If the PCs advance into a danger room, they must face a boss battle at difficulty (LEVEL + 2). The way out vanishes the moment the PCs reach the danger room and does not reappear until the end of the encounter. The monster encounter is set up as if there are five PCs (even if the party is less than five) and two bonus elites are added to the encounter. If the PCs overcome the encounter, an unlocked, trap-free ornate chest appears. Each PC may, in turn, approach the chest and open it. The PC then chooses and adds one treasure to their equipment from three discovered treasures, discarding the other two choices. PCs choose one treasure from three available treasures: class, advanced, or magic item. Roll/draw the treasures and pick one to keep.
+
+**Class.** This represents the treasure your class considers essential.
+
+- Barbarian: handaxe or javelin, battle axe, shield, light armor, medium armor
+
+**Advanced.** This represents an advanced or rare treasure for your class.
+
+- Barbarian: healing potion, marital weapon, trade goods, coin
+
+> This game zone contains a very powerful boss (super boss) creature encounter.
+> 
+>> Danger rooms require optimization with the best gear, features, party buffs, and abilities you can gather into a five-player party.
 
 ## Settlement
 
