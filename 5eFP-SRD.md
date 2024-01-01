@@ -2229,6 +2229,10 @@ Dungeons may have one or more bonus features.
 
 - Barbarian: healing potion, marital weapon, trade goods, coin
 
+**Magic Item.** These are the best treasure rewards in the game.
+
+- All: weapon, armor, shield, ring, necklace, vestments 
+
 > This game zone contains a very powerful boss (super boss) creature encounter.
 > 
 >> Danger rooms require optimization with the best gear, features, party buffs, and abilities you can gather into a five-player party.
