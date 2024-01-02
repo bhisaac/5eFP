@@ -1895,7 +1895,7 @@ Unlike traditional tabletop roleplaying games, 5eFP has no set group or time to 
 
 ## Party Buffs
 
-When PCs form a party, they choose one of three beneficial status effects that activate during  encounters and last until the end of a game session.
+When PCs form a party, they choose one of three beneficial status effects that activate during encounters and last until the end of a game session. A party may only have 1 PC with the defend buff, 1 PC with the heal buff, and any number of PCs with the damage buff.
 
 ### Defend
 
