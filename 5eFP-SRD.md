@@ -1889,35 +1889,39 @@ You’ve developed the skills necessary to hold your own in close-­quarters gra
 - You have advantage on attack rolls against a creature you are grappling.
 - You can use your action to try to pin a creature grappled by you. To do so, make another grapple check. If you succeed, you and the creature are both restrained until the grapple ends.
 
-# Party Buffs
+# Forming a Party
 
-When PCs form a party, they may choose one of three beneficial effects which last until the end of a game session.
+Unlike traditional tabletop roleplaying games, 5eFP has no set group or time to play. The game master (GM) posts available days and times for game sessions. Players then choose the day and time that works best for their schedule based on the GMs availability. The player who initiates forming a party becomes the party leader.
 
-## Defender
+## Party Buffs
 
-- **Sieze the Initiative.** Whenever a combat encounter begins, you immediately take one turn before rolling your initiative. Then roll initiative as normal. Skip your first round of combat. You resume normal gameplay on subsequent turns.
-- **Taunt.** Your attacks, provocations, and damaging effects are harder to ignore. If you attack, damage, or adversely affect one or more creatures, those creatures are considered taunted.
-- **Soak.** At the beginning of a combat encounter, you gain Bolster 2.
+When PCs form a party, they choose one of three beneficial status effects that activate during  encounters and last until the end of a game session.
 
-## Healer
+### Defend
 
-- The first time you target a creature with a spell, attack, or feature on each of your turns, you gain a follow-up free action. After completing your spell, attack, or feature, choose 1 creature within 1 square of your target. The chosen creature receives 1 point of healing and may make an additional saving throw to end an ongoing negative condition.
+- **Act First.** You may take one turn before rolling initiative. If you do, skip your first round and resume normal gameplay on subsequent rounds.
+- **Taunt.** Your attacks, ability checks, spells, and features are harder to ignore. If you attack, damage, engage in a contested ability check, or otherwise adversely affect one or more creatures, those creatures gain the taunted condition (see Conditions).
+- **Soak.** At the beginning of a combat encounter, you gain Bolster 1 + LEVEL.
 
-## Damage
+### Heal
 
-- The first time you target a creature with a spell, attack, or feature on each of your turns, you gain a follow-up free action: choose a creature within 1 square. The creature takes 1 point of damage. The damage type remains the same or piercing (if no type is designated).
+- The first time you target a creature with a spell, attack, ability check, or feature on each of your turns, resolve the spell, attack, or feature as normal. Afterward, you may choose a different creature within 1 square of your target. The chosen creature receives 1 point of healing and may make an additional saving throw to end an ongoing negative condition.
 
-# Party Token
+### Damage
+
+- The first time you target a creature with a spell, attack, ability check, or feature on each of your turns, resolve the spell, attack, or feature as normal. Afterward, you may choose a different creature within 1 square of your target. The chosen creature takes 1 point of damage. The damage type remains the same or bludgeoning (if no type is designated).
+
+## Party Token
 
 While deployed on a map, one player becomes the party token controller. The party token represents the entire group and can move up to the controller's speed, one square at a time. After moving, the controller removes any fog of war tiles within 1 square of its current position. Removing a fog of war tile may trigger an encounter. Once the party token stops moving, PCs may choose to take a turn in initiative order. Players are allowed to take free actions and up to one action, bonus action, and reaction during a party token turn, but they cannot move the party token until the turn is completed.
 
 Certain backgrounds, classes, and species have bonus features while controlling the party token. The PC with the highest movement or the best bonus features while moving the party token typically becomes the party token controller.
 
-## World Map
+### World Map
 
 While on the world map, if the party token triggers an encounter by moving onto a foothold, take note of the direction in which the party token moved and leave the party token on the foothold. Set up an encounter map matching the party token's primary terrain. The players enter the map and place their tokens within one square of the side they entered the map in as close to marching order as possible before adding any creatures or map features onto the map. Once an encounter resolves, the players remove their tokens from the map, the GM puts away the encounter map, and gameplay resumes on the world map.
 
-## Dungeon Encounter
+### Dungeon Encounter
 
 While on a dungeon map, if the party token triggers an encounter, replace the party token with the player's tokens as close to marching order as possible before placing any creatures or map features onto the map. Once an encounter resolves, remove the player's tokens from the map and place the party token back onto the map on an accessible dungeon tile not obscured by a fog of war tile.
 
