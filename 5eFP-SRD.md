@@ -1893,7 +1893,7 @@ You’ve developed the skills necessary to hold your own in close-­quarters gra
 
 Unlike traditional tabletop roleplaying games, 5eFP has no set group or time to play. The game master (GM) posts available days and times for game sessions. Players then choose the day and time that works best for their schedule based on GM availability. A 5eFP group contains a minimum of three PCs and a maximum of five PCs.
 
-PCs in the group must choose their role before selecting a destination and deploying onto the world map. With the exception of the Damage role, only one PC may choose the Defender and Healer roles. Group roles include PC Defender, one Healer, and up to three Damage. Once a Defender 
+PCs in the group must choose their group role before selecting a destination and deploying onto the world map.
 
 ## Group Roles
 
