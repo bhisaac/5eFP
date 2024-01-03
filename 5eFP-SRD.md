@@ -1902,7 +1902,7 @@ When PCs form a group, they choose one of three beneficial status effects that a
 ### Defender
 
 - **Act First.** You may take one turn before rolling initiative. If you do, skip your first round and resume normal gameplay afterward.
-- **Taunt.** Your attacks, opposed or contested skills, spells, and features are difficult to ignore. If you attack, damage, or otherwise affect a minion, elite, or boss, they gain the taunted condition (see Conditions). The affected minion, elite, or boss automatically regains the taunted condition at the beginning of their turn if the closest PC to them is the defender.
+- **Taunt.** Your attacks, opposed or contested skills, spells, and features are difficult to ignore. If you attack, damage, or otherwise affect a minion, elite, or boss, they gain the taunted condition (see Conditions). Minions, elites, and bosses automatically gain the taunted condition at the beginning of their turn if you are the closest visible target. Minions, elites, and bosses lose the taunted condition whenever you are unconscious or incapacitated.
 - **Soak.** At the beginning of a combat encounter, you gain Bolster 2.
 
 ### Healer
