@@ -1893,7 +1893,7 @@ You’ve developed the skills necessary to hold your own in close-­quarters gra
 
 Unlike traditional tabletop roleplaying games, 5eFP has no set group or time to play. The game master (GM) posts available days and times for game sessions. Players then choose the best day and time for their schedule based on GM availability. The player who initiates forming a group becomes the group leader. A 5eFP group contains a minimum of three PCs and a maximum of five PCs.
 
-PCs in the group must choose their group role before selecting a destination and deploying onto the world map.
+All PCs in a group choose their group role before selecting a destination and deploying onto a map.
 
 ## Group Roles
 
