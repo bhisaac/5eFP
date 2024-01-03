@@ -1073,9 +1073,9 @@ DRUID
 >> 
 >> WILD SHAPE FORMS
 >>> **_Astral._** You have 2 MAX wounds while in astral form. When you choose this form, you do not assume the shape of a beast. You remain in your normal form while gaining a number of additional features. Your form becomes translucent, taking on an indigo tint filled with points of moving lights.
->>>> **_Lunar Attunement._** Whenever you cast a 1st-level or higher spell with a spell slot that has no visible effect (i.e., _cure wounds_), you lose solar attunement and gain lunar attunement. If you already have lunar attunement, remove lunar attunement and activate _starfall_ (see below).
+>>>> **_Lunar Attunement._** Whenever you cast a spell that has no visible effect (i.e., _cure wounds_), you lose solar attunement and gain lunar attunement. If you already have lunar attunement, remove lunar attunement and activate _starfall_ (see below).
 >>>> 
->>>> **_Solar Attunement._** Whenever you cast a 1st-level or higher spell with a spell slot that has a visible effect (i.e., _entangle_), you lose lunar attunement and gain solar attunement. If you already have solar attunement, remove solar attunement and activate _starfall_ (see below).
+>>>> **_Solar Attunement._** Whenever you cast a spell that has a visible effect (i.e., _entangle_), you lose lunar attunement and gain solar attunement. If you already have solar attunement, remove solar attunement and activate _starfall_ (see below).
 >>>> 
 >>>> **_Starfall. (free action)_** A shooting star forms above your head and strikes a creature within 12 squares of you. If the creature is friendly, it receives 1 point of healing and allows the creature to make one additional saving throw to resist an ongoing negative condition. If the creature is not a friendly target, it must succeed on a DEX saving throw using your spellcasting save DC or take 1 point of radiant damage. You then gain Lunar Attunement or Solar Attunement.
 >>> 
@@ -1083,7 +1083,7 @@ DRUID
 >>> 
 >>> **_Stealthy._** You have 4 + CON MAX wounds while in stealthy form. While in stealthy form you roll Performance and Perception checks with advantage, and you gain a pounce attack (if you don't already have one).
 >>> 
->>> **_Travel._** You have 1 MAX wounds while in travel form. When you activate this form, choose any creatures within 6 squares of you. You and the chosen creatures transform into travel forms and move together. If a combat encounter begins or if 1 or more points of damage is dealt to you, your wild shape and all travel forms end. You may use the Dash action as a free action on each of your turns while in travel form. Once you activate travel form, you may reactivate travel form at any time for the rest of the day while moving the group token on the overland map (see Overland Map).
+>>> **_Travel._** You have 1 MAX wounds while in travel form. When you activate this form, choose any creatures within 6 squares of you. You and the chosen creatures transform into travel forms and move together. If a combat encounter begins or if 1 or more points of damage are dealt to you, your wild shape and all travel forms end. Your movement score doubles while in travel form. Once you activate travel form, you may reactivate travel form at any time for the rest of the day while moving the group token on the overland map (see Overland Map).
 >> 
 >> You can use this feature twice. You regain expended uses when you finish a short or long rest.
 >>
