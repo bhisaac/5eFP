@@ -1889,21 +1889,23 @@ You’ve developed the skills necessary to hold your own in close-­quarters gra
 - You have advantage on attack rolls against a creature you are grappling.
 - You can use your action to try to pin a creature grappled by you. To do so, make another grapple check. If you succeed, you and the creature are both restrained until the grapple ends.
 
-# Forming a Party
+# Forming a Group
 
-Unlike traditional tabletop roleplaying games, 5eFP has no set group or time to play. The game master (GM) posts available days and times for game sessions. Players then choose the day and time that works best for their schedule based on the GMs availability. The player who initiates forming a party becomes the party leader.
+Unlike traditional tabletop roleplaying games, 5eFP has no set group or time to play. The game master (GM) posts available days and times for game sessions. Players then choose the day and time that works best for their schedule based on GM availability. A 5eFP group contains a minimum of three PCs and a maximum of five PCs.
 
-## Party Buffs
+PCs in the group must choose their role before selecting a destination and deploying onto the world map. With the exception of the Damage role, only one PC may choose the Defender and Healer roles. Group roles include PC Defender, one Healer, and up to three Damage. Once a Defender 
 
-When PCs form a party, they choose one of three beneficial status effects that activate during encounters and last until the end of a game session. A party may only have 1 PC with the defend buff, 1 PC with the heal buff, and any number of PCs with the damage buff.
+## Group Roles
 
-### Defend
+The player who initiates forming a group becomes the leader and may choose their group role first. When PCs form a group, they choose one of three beneficial status effects that activate during encounters and last until the end of a game session. A group can have a maximum of one defender, one healer, and up to three damage roles. The defender and healer roles are designated first, followed by damage roles.
+
+### Defender
 
 - **Act First.** You may take one turn before rolling initiative. If you do, skip your first round and resume normal gameplay on subsequent rounds.
 - **Taunt.** Your attacks, ability checks, spells, and features are harder to ignore. If you attack, damage, engage in a contested ability check, or otherwise adversely affect one or more creatures, those creatures gain the taunted condition (see Conditions).
 - **Soak.** At the beginning of a combat encounter, you gain Bolster 1 + LEVEL.
 
-### Heal
+### Healer
 
 - The first time you target a creature with a spell, attack, ability check, or feature on each of your turns, resolve the spell, attack, or feature as normal. Afterward, you may choose a different creature within 1 square of your target. The chosen creature receives 1 point of healing and may make an additional saving throw to end an ongoing negative condition.
 
