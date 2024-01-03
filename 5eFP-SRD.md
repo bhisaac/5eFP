@@ -1901,9 +1901,9 @@ When PCs form a group, they choose one of three beneficial status effects that a
 
 ### Defender
 
-- **Act First.** You may take one turn before rolling initiative. If you do, skip your first round and resume normal gameplay starting with round 2.
-- **Taunt.** Your attacks, ability checks, spells, and features are harder to ignore. If you attack, damage, or otherwise adversely affect one or more creatures, those creatures gain the taunted condition (see Conditions).
-- **Soak.** At the beginning of a combat encounter, you gain Bolster 1 + LEVEL.
+- **Act First.** You may take one turn before rolling the initiative. If you do, skip your first round and resume normal gameplay afterward.
+- **Taunt.** Your attacks, opposed or contested skills, spells, and features are difficult to ignore. If you attack, damage, or otherwise affect a minion, elite, or boss, they gain the taunted condition (see Conditions). The affected minion, elite, or boss automatically regains the taunted condition at the beginning of their turn if the closest PC to them is the defender.
+- **Soak.** At the beginning of a combat encounter, you gain Bolster 2.
 
 ### Healer
 
@@ -1921,7 +1921,7 @@ Certain backgrounds, classes, and species have bonus features while controlling 
 
 ### World Map
 
-While on the world map, if the group token triggers an encounter by moving onto a foothold, take note of the direction in which the group token moved and leave the group token on the foothold. Set up an encounter map matching the group token's primary terrain. The players enter the map and place their tokens within one square of the side they entered the map in as close to marching order as possible before adding any creatures or map features onto the map. Once an encounter resolves, the players remove their tokens from the map, the GM puts away the encounter map, and gameplay resumes on the world map.
+While on the world map, if the group token triggers an encounter by moving onto a foothold, observe the direction in which the group token moved and leave the group token on the foothold. Set up an encounter map matching the group token's primary terrain. The players enter the map and place their tokens within one square of the side they entered the map in as close to marching order as possible before adding any creatures or map features onto the map. Once an encounter resolves, the players remove their tokens from the map, the GM puts away the encounter map, and gameplay resumes on the world map.
 
 ### Dungeon Encounter
 
