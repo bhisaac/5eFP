@@ -1083,7 +1083,7 @@ DRUID
 >>> 
 >>> **_Stealthy._** You have 4 + CON MAX wounds while in stealthy form. While in stealthy form you roll Performance and Perception checks with advantage, and you gain a pounce attack (if you don't already have one).
 >>> 
->>> **_Travel._** You have 1 MAX wounds while in travel form. When you activate this form, choose any creatures within 6 squares of you. You and the chosen creatures transform into travel forms and move together. If a combat encounter begins or if 1 or more points of damage is dealt to you, your wild shape and all travel forms end. You may use the Dash action as a free action on each of your turns while in travel form. Once you activate travel form, you may reactivate travel form at any time for the rest of the day while moving the party token on the overland map (see Overland Map).
+>>> **_Travel._** You have 1 MAX wounds while in travel form. When you activate this form, choose any creatures within 6 squares of you. You and the chosen creatures transform into travel forms and move together. If a combat encounter begins or if 1 or more points of damage is dealt to you, your wild shape and all travel forms end. You may use the Dash action as a free action on each of your turns while in travel form. Once you activate travel form, you may reactivate travel form at any time for the rest of the day while moving the group token on the overland map (see Overland Map).
 >> 
 >> You can use this feature twice. You regain expended uses when you finish a short or long rest.
 >>
@@ -1756,9 +1756,9 @@ Steps taken for world map deployment.
 2. **Selection.** The PCs, as a group, choose a cardinal or ordinal direction and trace a path from the HQ tile along the map until an obscured world map tile is encountered within the current level of play. This becomes the selected world map tile.
 3. **Prepare.** Players may choose to spend 1 round of preparation before deploying. See "Preparation."
 4. **Setup.** Place an empty (22 x 22) exploration map beside the world map. Roll a d20 onto the exploration map before placing any tiles and note the location of where the dice lands. This determines the starting position for the PCs.
-5. **Deploy.** The GM reveals the starting map tile on the exploration map at the starting position determined in the previous step, placing the party token onto it.
-6. **Choose Party Token Controller.** PCs appoint one player as the party token controller. This player can be the party leader, but this is not required. The PC with the most overland movement bonuses is typically the party token controller. Some background, species, and class features provide significant bonuses while controlling the party token during the exploration phase.
-7. **Move the party token.** The party token controller moves the token, lifting any obscuring tiles encountered along the way. Removing an obscuring tile may reveal one of several potential world map features called footholds:
+5. **Deploy.** The GM reveals the starting map tile on the exploration map at the starting position determined in the previous step, placing the group token onto it.
+6. **Choose Party Token Controller.** PCs appoint one player as the group token controller. This player can be the party leader, but this is not required. The PC with the most overland movement bonuses is typically the group token controller. Some background, species, and class features provide significant bonuses while controlling the group token during the exploration phase.
+7. **Move the group token.** The group token controller moves the token, lifting any obscuring tiles encountered along the way. Removing an obscuring tile may reveal one of several potential world map features called footholds:
     - Dungeons
     - Creatures
     - Villages or settlements
@@ -1891,18 +1891,18 @@ You’ve developed the skills necessary to hold your own in close-­quarters gra
 
 # Forming a Group
 
-Unlike traditional tabletop roleplaying games, 5eFP has no set group or time to play. The game master (GM) posts available days and times for game sessions. Players then choose the day and time that works best for their schedule based on GM availability. A 5eFP group contains a minimum of three PCs and a maximum of five PCs.
+Unlike traditional tabletop roleplaying games, 5eFP has no set group or time to play. The game master (GM) posts available days and times for game sessions. Players then choose the best day and time for their schedule based on GM availability. The player who initiates forming a group becomes the group leader. A 5eFP group contains a minimum of three PCs and a maximum of five PCs.
 
 PCs in the group must choose their group role before selecting a destination and deploying onto the world map.
 
 ## Group Roles
 
-The player who initiates forming a group becomes the leader and may choose their group role first. When PCs form a group, they choose one of three beneficial status effects that activate during encounters and last until the end of a game session. A group can have a maximum of one defender, one healer, and up to three damage roles. The defender and healer roles are designated first, followed by damage roles.
+When PCs form a group, they choose one of three beneficial status effects that activate while deployed on a map and last until the end of a game session. Group leaders may choose their group role first. A group can have a maximum of one defender, one healer, and up to three damage roles. The defender and healer roles are designated first, followed by damage roles.
 
 ### Defender
 
-- **Act First.** You may take one turn before rolling initiative. If you do, skip your first round and resume normal gameplay on subsequent rounds.
-- **Taunt.** Your attacks, ability checks, spells, and features are harder to ignore. If you attack, damage, engage in a contested ability check, or otherwise adversely affect one or more creatures, those creatures gain the taunted condition (see Conditions).
+- **Act First.** You may take one turn before rolling initiative. If you do, skip your first round and resume normal gameplay starting with round 2.
+- **Taunt.** Your attacks, ability checks, spells, and features are harder to ignore. If you attack, damage, or otherwise adversely affect one or more creatures, those creatures gain the taunted condition (see Conditions).
 - **Soak.** At the beginning of a combat encounter, you gain Bolster 1 + LEVEL.
 
 ### Healer
@@ -1913,19 +1913,19 @@ The player who initiates forming a group becomes the leader and may choose their
 
 - The first time you target a creature with a spell, attack, ability check, or feature on each of your turns, resolve the spell, attack, or feature as normal. Afterward, you may choose a different creature within 1 square of your target. The chosen creature takes 1 point of damage. The damage type remains the same or bludgeoning (if no type is designated).
 
-## Party Token
+## Group Token
 
-While deployed on a map, one player becomes the party token controller. The party token represents the entire group and can move up to the controller's speed, one square at a time. After moving, the controller removes any fog of war tiles within 1 square of its current position. Removing a fog of war tile may trigger an encounter. Once the party token stops moving, PCs may choose to take a turn in initiative order. Players are allowed to take free actions and up to one action, bonus action, and reaction during a party token turn, but they cannot move the party token until the turn is completed.
+While deployed on a map, one player becomes the group token controller. The group token represents the entire group and can move up to the controller's speed, one square at a time. After moving, the controller removes any fog of war tiles within 1 square of its current position. Removing a fog of war tile may trigger an encounter. Once the group token stops moving, PCs may choose to take a turn in initiative order. Players can take free actions and up to one action, bonus action, and reaction during a group token turn, but they cannot move the group token until the turn is completed.
 
-Certain backgrounds, classes, and species have bonus features while controlling the party token. The PC with the highest movement or the best bonus features while moving the party token typically becomes the party token controller.
+Certain backgrounds, classes, and species have bonus features while controlling the group token. The PC with the highest movement or the best bonus features while moving the group token typically becomes the group token controller.
 
 ### World Map
 
-While on the world map, if the party token triggers an encounter by moving onto a foothold, take note of the direction in which the party token moved and leave the party token on the foothold. Set up an encounter map matching the party token's primary terrain. The players enter the map and place their tokens within one square of the side they entered the map in as close to marching order as possible before adding any creatures or map features onto the map. Once an encounter resolves, the players remove their tokens from the map, the GM puts away the encounter map, and gameplay resumes on the world map.
+While on the world map, if the group token triggers an encounter by moving onto a foothold, take note of the direction in which the group token moved and leave the group token on the foothold. Set up an encounter map matching the group token's primary terrain. The players enter the map and place their tokens within one square of the side they entered the map in as close to marching order as possible before adding any creatures or map features onto the map. Once an encounter resolves, the players remove their tokens from the map, the GM puts away the encounter map, and gameplay resumes on the world map.
 
 ### Dungeon Encounter
 
-While on a dungeon map, if the party token triggers an encounter, replace the party token with the player's tokens as close to marching order as possible before placing any creatures or map features onto the map. Once an encounter resolves, remove the player's tokens from the map and place the party token back onto the map on an accessible dungeon tile not obscured by a fog of war tile.
+While on a dungeon map, if the group token triggers an encounter, replace the group token with the player's tokens as close to marching order as possible before placing any creatures or map features onto the map. Once an encounter resolves, remove the player's tokens from the map and place the group token back onto the map on an accessible dungeon tile not obscured by a fog of war tile.
 
 # Making An Attack
 
