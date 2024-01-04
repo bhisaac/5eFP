@@ -1278,11 +1278,11 @@ You have spent your life in the service of a temple to a specific god or pantheo
 
 Choose a god, a pantheon of gods, or some other quasi-divine being from among those listed in "Fantasy-Historical Pantheons" or those specified by your GM, and work with your GM to detail the nature of your religious service. Were you a lesser functionary in a temple, raised from childhood to assist the priests in the sacred rites? Or were you a high priest who suddenly experienced a call to serve your god in a different way? Perhaps you were the leader of a small cult outside of any established temple structure, or even an occult group that served a fiendish master that you now deny.
 
-**Equipment:** A holy symbol (a gift to you when you entered the priesthood), a prayer book or prayer wheel, incense, vestments, a set of common clothes, and a pouch containing 1 Coin.
+**Equipment:** A holy symbol (a gift to you when you entered the priesthood), a prayer book or prayer wheel, incense, vestments, a set of common clothes, and a pouch containing 1 coin
 
 ### Feature: Shelter of the Faithful
 
-As an acolyte, you command the respect of those who share your faith, and you can perform the religious ceremonies of your deity. Whenever you spend a downtime round at a temple, shrine, or other established presence of your faith, you gain Rest and Repairs for free. Additionally, the following downtime options open up for you and for your allies in the HQ temple. After finishing the downtime round, you may gain holy water.
+As an acolyte, you command the respect of those who share your faith, and you can perform the religious ceremonies of your deity. Whenever you spend a downtime round at a temple, shrine, or other established presence of your faith, you gain Rest and Repairs for free. Additionally, the following downtime options open up for you and your allies in the HQ temple. After finishing the downtime round, you may gain holy water.
 - Spend herbs to get (1) healing potion.
 - Spend ⛁ to cast *lesser restoration*.
 - Spend 5⛁ to cast *greater restoration*.
@@ -1296,7 +1296,7 @@ You are an experienced criminal with a history of breaking the law. You have spe
 
 **Tool Proficiencies:** One type of gaming set, thieves' tools
 
-**Equipment:** A crowbar, a set of dark common clothes including a hood, and a belt pouch containing 2 coins.
+**Equipment:** A crowbar, a set of dark common clothes including a hood, and a belt pouch containing 2 coins
 
 ### Criminal Specialty
 
@@ -1318,6 +1318,76 @@ There are many kinds of criminals, and within a thieves' guild or similar crimin
 Your criminal training taught you thieves’ cant, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. Only another creature that knows thieves’ cant understands such messages. It takes four times longer to convey such a message than it does to speak the same idea plainly.
 
 In addition, you understand a set of secret signs and symbols used to convey short, simple messages, such as whether an area is dangerous or the territory of a thieves’ guild, whether loot is nearby, or whether the people in an area are easy marks or will provide a safe house for thieves on the run.
+
+## Scholar
+
+You spent years learning the lore of the multiverse. You scoured manuscripts, studied scrolls, and listened to the greatest experts on the subjects that interest you. Your efforts have made you a master in your fields of study.
+
+**Languages:** Two of your choice
+
+**Equipment:** Either a scholar's kit or an alternate tool based on specialty and a belt pouch containing 1 coin
+
+### Specialty
+
+To determine the nature of your scholarly training, roll a d8 or choose from the options in the table below.
+
+|d8|Specialty|Alternate Tool|
+|:-:|:-|:-|
+|1|Alchemist|Alchemist's supplies|
+|2|Astronomer|Navigator's tools|
+|3|Discredited academic|--|
+|4|Librarian|--|
+|5|Professor|--|
+|6|Researcher|--|
+|7|Wizard's apprentice|--|
+|8|Scribe|--|
+
+### Feature: Researcher
+
+During a round of downtime, before you spend one or more coins on research, you gain **+⛁** this round for research only.
+
+The following downtime options open up for you and your allies in HQ.
+- **Research: (feature, item, location, or lore).** Choose research from the desired type and add it to the list of available HQ research. By default, research requires five coins to complete.
+- Spend any number of ⛁ on research.
+
+## Sailor
+
+DESC TBD.
+
+**Tool Proficiencies:** Navigator's tools, vehicles (water)
+
+**Equipment:** Club (belaying pin), silk rope, a lucky charm such as a rabbit foot or a small stone with a hole in the center (or you may roll for a random trinket on the Trinket's table), and a belt pouch containing 1 coin.
+
+### Feature: Ship's Passage
+
+You may spend a round of downtime onboard a ship located in HQ's docks. If there isn't a ship token, add one and then name the ship. This is your former ship and crew. At the end of your downtime round, move the ship you're located in onto a different coastal tile and gain any end-of-turn bonuses contained on the map tile. Alternatively, you may choose to forgo moving and instead just gain any end-of-turn bonuses contained on the current map tile.
+
+The following downtime options open up for you and your allies in HQ's docks.
+- Spend any number of ⛁ on HQ's docks research.
+
+## Background-Name
+
+DESC TBD.
+
+**Tool Proficiencies:** TBD
+
+**Equipment:** TBD
+
+### Specialty
+
+|d8|Specialty|
+|:-:|:-|
+|1|TBD|
+|2|TBD|
+|3|TBD|
+|4|TBD|
+|5|TBD|
+|6|TBD|
+|7|TBD|
+|8|TBD|
+
+### Feature: TBD
+
 
 # Equipment
 
