@@ -1290,6 +1290,35 @@ As an acolyte, you command the respect of those who share your faith, and you ca
 
 You might also have ties to a specific temple dedicated to your chosen deity or pantheon, and you have a residence there. This could be the temple where you used to serve, if you remain on good terms with it, or a temple where you have found a new home. While near your temple, you can call upon the priests for assistance, provided the assistance you ask for is not hazardous and you remain in good standing with your temple.
 
+## Criminal
+
+You are an experienced criminal with a history of breaking the law. You have spent a lot of time among other criminals and still have contacts within the criminal underworld. You're far closer than most people to the world of murder, theft, and violence that pervades the underbelly of civilization, and you have survived up to this point by flouting the rules and regulations of society.
+
+**Tool Proficiencies:** One type of gaming set, thieves' tools
+
+**Equipment:** A crowbar, a set of dark common clothes including a hood, and a belt pouch containing 2 coins.
+
+### Criminal Specialty
+
+There are many kinds of criminals, and within a thieves' guild or similar criminal organization, individual members have particular specialties. Even criminals who operate outside of such organizations have strong preferences for certain kinds of crimes over others. Choose the role you played in your criminal life, or roll on the table below.
+
+|d8|Specialty|
+|:-:|:-|
+|1|Blackmailer|
+|2|Burgler|
+|3|Enforcer|
+|4|Fence|
+|5|Highway robber|
+|6|Hired killer|
+|7|Pickpocket|
+|8|Smuggler|
+
+### Feature: Thieves’ Cant
+
+Your criminal training taught you thieves’ cant, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. Only another creature that knows thieves’ cant understands such messages. It takes four times longer to convey such a message than it does to speak the same idea plainly.
+
+In addition, you understand a set of secret signs and symbols used to convey short, simple messages, such as whether an area is dangerous or the territory of a thieves’ guild, whether loot is nearby, or whether the people in an area are easy marks or will provide a safe house for thieves on the run.
+
 # Equipment
 
 ## Coins
