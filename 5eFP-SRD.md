@@ -1356,7 +1356,7 @@ TBD.
 
 **Tool Proficiencies:** Navigator's tools, vehicles (water)
 
-**Equipment:** Club (belaying pin), silk rope, a lucky charm such as a rabbit foot or a small stone with a hole in the center (or you may roll for a random trinket on the Trinket's table), and a belt pouch containing 1 coin.
+**Equipment:** Club (belaying pin), silk rope, gain a random trinket as a lucky charm, and a belt pouch containing 1 coin.
 
 ### Feature: Ship's Passage
 
