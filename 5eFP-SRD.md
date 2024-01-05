@@ -54,7 +54,7 @@ Your dwarf character has an assortment of inborn abilities, part and parcel of d
 
 **Size.** Dwarves stand between 4 and 5 feet tall and average about 150 pounds. Your size is Medium.
 
-**Speed.** Your base walking speed is no fewer than 5 squares.
+**Speed.** Your base walking speed is 5 squares. Heavy armor does not reduce your speed.
 
 **Darkvision.** Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 12 squares of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
 
