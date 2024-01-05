@@ -1360,10 +1360,14 @@ TBD.
 
 ### Feature: Ship's Passage
 
-You may spend a round of downtime onboard a ship located in HQ's docks. If there isn't a ship token, add one and then name the ship. This is your former ship and crew. At the end of your downtime round, move the ship you're located in onto a different coastal tile and gain any end-of-turn bonuses contained on the map tile. Alternatively, you may choose to forgo moving and instead just gain any end-of-turn bonuses contained on the current map tile.
+At LEVEL 1, place the docks token over the obscured world map tile where the docks are located if it hasn't already been placed. When the docks are discovered, remove the docks token, and you gain the following additional features.
+
+You may spend a round of downtime onboard a ship located in HQ's docks. If there isn't a ship token, add one and then name the ship. This is your former ship and crew. At the end of your downtime round, move the ship you're located in onto a different and accessible coastal tile, gaining any end-of-turn bonuses contained on the map tile. Alternatively, you may choose to forgo moving and instead just gain any end-of-turn bonuses contained on the current map tile. Your former ship and crew can hold you and up to four additional PCs. End-of-turn bonuses are resolved for each PC passenger.
+
+Before deploying onto the world map, you may instead choose to deploy onboard your ship, if the group token is on the same terrain as HQ's docks. Your ship becomes the group token. 
 
 The following downtime options open up for you and your allies in HQ's docks.
-- Spend any number of ⛁ on HQ's docks research.
+- Spend any number of ⛁ on HQ's docks research upgrades.
 
 ## Background-Name
 
