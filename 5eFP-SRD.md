@@ -1344,15 +1344,15 @@ To determine the nature of your scholarly training, roll a d8 or choose from the
 
 ### Feature: Researcher
 
-During a round of downtime, before you spend one or more coins on research, you gain **+⛁** this round for research only.
+During a round of downtime, before you spend one or more coins on upgrades, you gain +⛁ this round for research upgrades only.
 
 The following downtime options open up for you and your allies in HQ.
-- **Research: (feature, item, location, or lore).** Choose research from the desired type and add it to the list of available HQ research. By default, research requires five coins to complete.
+- **Research Upgrades: (feature, item, location, or lore).** Choose the desired research and add it to the list of available HQ research. By default, research requires five coins to complete. When the research is complete, the players decide and learn 1 new piece of information about the nature of the research. If it is determined that more than 1 piece of information can be gained through research, the PCs must begin and complete new research for each additional piece of information. Completing research on a feature upgrades gameplay, making the feature playable.
 - Spend any number of ⛁ on research.
 
 ## Sailor
 
-DESC TBD.
+TBD.
 
 **Tool Proficiencies:** Navigator's tools, vehicles (water)
 
