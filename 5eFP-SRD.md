@@ -1364,7 +1364,7 @@ At LEVEL 1, place the docks token over the obscured world map tile where the doc
 
 You may spend a round of downtime onboard a ship located in HQ's docks. If there isn't a ship token, add one and then name the ship. This is your former ship and crew. At the end of your downtime round, you may move the ship you're located in onto a different and accessible world map tile that shares the same terrain as HQ's docks, gaining any end-of-turn bonuses contained on the map tile. Alternatively, you may choose to forgo moving and instead just gain any end-of-turn bonuses contained on the current map tile. Your former ship and crew can hold you and up to four additional PCs. End-of-turn bonuses are resolved for each PC passenger.
 
-Before deploying onto the world map, you may instead choose to deploy to the same destination onboard your ship, if the group token is on the same terrain as HQ's docks. Your ship becomes the group token.
+Before deploying onto the world map, you may instead choose to deploy to the same destination onboard your ship, if the group token is on the same terrain as HQ's docks.
 
 The following downtime options open up for you and your allies in HQ's docks.
 - Spend any number of ⛁ on HQ's docks research upgrades.
