@@ -1267,11 +1267,8 @@ Some backgrounds also allow characters to learn additional languages beyond thos
 ### Equipment
 Each background provides a package of starting equipment.
 
-### Suggested Characteristics
-A background contains suggested personal characteristics based on your background. You can pick characteristics, determine them randomly, or use the suggestions as inspiration for characteristics of your own creation.
-
-### Customizing a Background
-You might want to tweak some of the features of a background so it better fits your character or the campaign setting. To customize a background, you can replace one feature with any other one, choose any two skills, and choose a total of two tool proficiencies or languages from the sample backgrounds. You can either use the equipment package from your background or spend coin on gear as described in the equipment section. (If you spend coin, you can’t also take the equipment package suggested for your class.) Finally, choose two personality traits, one ideal, one bond, and one flaw. If you can’t find a feature that matches your desired background, work with your GM to create one.
+### Feature
+Background features unlock bonuses that may provide expanded options in HQ, additional choices during downtime rounds, added features while you are the group token controller, or access to otherwise restricted content.
 
 ## Acolyte
 
@@ -1283,36 +1280,21 @@ Choose a god, a pantheon of gods, or some other quasi-divine being from among th
 
 ### Feature: Shelter of the Faithful
 
-As an acolyte, you command the respect of those who share your faith, and you can perform the religious ceremonies of your deity. Whenever you spend a downtime round at a temple, shrine, or other established presence of your faith, you gain Rest and Repairs for free. Additionally, the following downtime options open up for you and your allies in the HQ temple. After finishing the downtime round, you may gain holy water.
-- Spend herbs to get (1) healing potion.
+As an acolyte, you command the respect of those who share your faith, and you can perform the religious ceremonies of your deity. Whenever you spend a downtime round at a temple, shrine, or other established presence of your faith, you gain Rest and Repairs and holy water for free. Additionally, the following downtime options open up for you and your allies in the HQ temple.
+- Spend (1) herbs to get (1) healing potion.
 - Spend ⛁ to cast *lesser restoration*.
 - Spend 5⛁ to cast *greater restoration*.
 - Spend 25⛁ coins to cast *raise dead* on a fallen ally.
 
 You might also have ties to a specific temple dedicated to your chosen deity or pantheon, and you have a residence there. This could be the temple where you used to serve, if you remain on good terms with it, or a temple where you have found a new home. While near your temple, you can call upon the priests for assistance, provided the assistance you ask for is not hazardous and you remain in good standing with your temple.
 
-## Criminal
+## Outlaw
 
-You are an experienced criminal with a history of breaking the law. You have spent a lot of time among other criminals and still have contacts within the criminal underworld. You're far closer than most people to the world of murder, theft, and violence that pervades the underbelly of civilization, and you have survived up to this point by flouting the rules and regulations of society.
+You are an experienced criminal with a history of breaking the law. You have spent much time among other outlaws and still have contacts within the criminal underworld. You're far closer than most people to the seedy underbelly of civilization, and you have survived up to this point by flouting the rules and regulations of society.
 
 **Tool Proficiencies:** One type of gaming set, thieves' tools
 
 **Equipment:** A crowbar, a set of dark common clothes including a hood, and a belt pouch containing 2 coins
-
-### Criminal Specialty
-
-There are many kinds of criminals, and within a thieves' guild or similar criminal organization, individual members have particular specialties. Even criminals who operate outside of such organizations have strong preferences for certain kinds of crimes over others. Choose the role you played in your criminal life, or roll on the table below.
-
-|d8|Specialty|
-|:-:|:-|
-|1|Blackmailer|
-|2|Burgler|
-|3|Enforcer|
-|4|Fence|
-|5|Highway robber|
-|6|Hired killer|
-|7|Pickpocket|
-|8|Smuggler|
 
 ### Feature: Thieves’ Cant
 
@@ -1326,7 +1308,7 @@ You spent years learning the lore of the multiverse. You scoured manuscripts, st
 
 **Languages:** Two of your choice
 
-**Equipment:** Either a scholar's kit or an alternate tool based on specialty and a belt pouch containing 1 coin
+**Equipment:** Either a scholar's kit or you may choose an alternate tool based on specialty and a belt pouch containing 1 coin
 
 ### Specialty
 
@@ -1336,12 +1318,12 @@ To determine the nature of your scholarly training, roll a d8 or choose from the
 |:-:|:-|:-|
 |1|Alchemist|Alchemist's supplies|
 |2|Astronomer|Navigator's tools|
-|3|Discredited academic|--|
-|4|Librarian|--|
-|5|Professor|--|
-|6|Researcher|--|
-|7|Wizard's apprentice|--|
-|8|Scribe|--|
+|3|Discredited academic|-|
+|4|Librarian|-|
+|5|Professor|-|
+|6|Researcher|-|
+|7|Wizard's apprentice|-|
+|8|Scribe|-|
 
 ### Feature: Researcher
 
