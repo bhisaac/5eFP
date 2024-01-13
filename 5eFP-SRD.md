@@ -1276,7 +1276,7 @@ You have spent your life in the service of a temple to a specific god or pantheo
 
 Choose a god, a pantheon of gods, or some other quasi-divine being from among those listed in "Fantasy-Historical Pantheons" or those specified by your GM, and work with your GM to detail the nature of your religious service. Were you a lesser functionary in a temple, raised from childhood to assist the priests in the sacred rites? Or were you a high priest who suddenly experienced a call to serve your god in a different way? Perhaps you were the leader of a small cult outside of any established temple structure, or even an occult group that served a fiendish master that you now deny.
 
-**Equipment:** A holy symbol (a gift to you when you entered the priesthood), a prayer book or prayer wheel, incense, vestments, a set of common clothes, and a pouch containing 1 coin
+**Equipment:** A holy symbol (a gift to you when you entered the priesthood), a prayer book or prayer wheel, incense, vestments, a set of common clothes, and a pouch containing ⛁
 
 ### Feature: Shelter of the Faithful
 
@@ -1294,7 +1294,7 @@ You are an experienced criminal with a history of breaking the law. You have spe
 
 **Tool Proficiencies:** One type of gaming set, thieves' tools
 
-**Equipment:** A crowbar, a set of dark common clothes including a hood, and a belt pouch containing 2 coins
+**Equipment:** A crowbar, a set of dark common clothes including a hood, and a belt pouch containing 2⛁
 
 ### Feature: Thieves’ Cant
 
@@ -1308,7 +1308,7 @@ You spent years learning the lore of the multiverse. You scoured manuscripts, st
 
 **Languages:** Two of your choice
 
-**Equipment:** Choose a scholar's kit, alchemist's supplies, or navigator's tools and a belt pouch containing 1 coin
+**Equipment:** Choose a scholar's kit, alchemist's supplies, or navigator's tools and a belt pouch containing ⛁
 
 ### Feature: Researcher
 
@@ -1324,7 +1324,7 @@ You sailed on a seagoing vessel for years. In that time, you faced down mighty s
 
 **Tool Proficiencies:** Navigator's tools, vehicles (water)
 
-**Equipment:** Club (belaying pin), silk rope, gain a random trinket as a lucky charm, and a belt pouch containing 1 coin.
+**Equipment:** Club (belaying pin), silk rope, gain a random trinket as a lucky charm, and a belt pouch containing ⛁
 
 ### Feature: Ship's Passage
 
