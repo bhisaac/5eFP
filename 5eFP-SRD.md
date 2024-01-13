@@ -1328,7 +1328,7 @@ You sailed on a seagoing vessel for years. In that time, you faced down mighty s
 
 ### Feature: Ship's Passage
 
-At LEVEL 1, place the docks token over the obscured world map tile where the docks are located if it hasn't already been placed. When the docks are discovered, you gain the following additional features.
+When the map tile containing HQ's docks is discovered, you gain the following additional features.
 
 You may spend a round of downtime onboard a ship located in HQ's docks. If there isn't a ship token, add one and then name the ship. This is your former ship and crew. During your downtime round, you may move the ship you're located in onto a different and accessible world map tile that shares the same terrain as HQ's docks, gaining any end-of-turn bonuses contained on the map tile. The ship returns to dock at the end of your round.
 
