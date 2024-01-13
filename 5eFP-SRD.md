@@ -1308,26 +1308,11 @@ You spent years learning the lore of the multiverse. You scoured manuscripts, st
 
 **Languages:** Two of your choice
 
-**Equipment:** Either a scholar's kit or you may choose an alternate tool based on specialty and a belt pouch containing 1 coin
-
-### Specialty
-
-To determine the nature of your scholarly training, roll a d8 or choose from the options in the table below.
-
-|d8|Specialty|Alternate Tool|
-|:-:|:-|:-|
-|1|Alchemist|Alchemist's supplies|
-|2|Astronomer|Navigator's tools|
-|3|Discredited academic|-|
-|4|Librarian|-|
-|5|Professor|-|
-|6|Researcher|-|
-|7|Wizard's apprentice|-|
-|8|Scribe|-|
+**Equipment:** Choose a scholar's kit, alchemist's supplies, or navigator's tools and a belt pouch containing 1 coin
 
 ### Feature: Researcher
 
-During a round of downtime, before you spend one or more coins on upgrades, you gain +⛁ this round for research upgrades only.
+During a round of downtime, before spending coins on upgrades, you gain +⛁ this round for research upgrades only.
 
 The following downtime options open up for you and your allies in HQ.
 - **Research Upgrades: (feature, item, location, or lore).** Choose the desired research and add it to the list of available HQ research. By default, research requires five coins to complete. When the research is complete, the players decide and learn 1 new piece of information about the nature of the research. If it is determined that more than 1 piece of information can be gained through research, the PCs must begin and complete new research for each additional piece of information. Completing research on a feature upgrades gameplay, making the feature playable.
@@ -1335,7 +1320,7 @@ The following downtime options open up for you and your allies in HQ.
 
 ## Sailor
 
-TBD.
+You sailed on a seagoing vessel for years. In that time, you faced down mighty storms, monsters of the deep, and those who wanted to sink your craft to the bottomless depths. Your first love is the distant line of the horizon, but the time has come to try your hand at something new.
 
 **Tool Proficiencies:** Navigator's tools, vehicles (water)
 
@@ -1343,14 +1328,17 @@ TBD.
 
 ### Feature: Ship's Passage
 
-At LEVEL 1, place the docks token over the obscured world map tile where the docks are located if it hasn't already been placed. When the docks are discovered, remove the docks token, and you gain the following additional features.
+At LEVEL 1, place the docks token over the obscured world map tile where the docks are located if it hasn't already been placed. When the docks are discovered, you gain the following additional features.
 
-You may spend a round of downtime onboard a ship located in HQ's docks. If there isn't a ship token, add one and then name the ship. This is your former ship and crew. At the end of your downtime round, you may move the ship you're located in onto a different and accessible world map tile that shares the same terrain as HQ's docks, gaining any end-of-turn bonuses contained on the map tile. Alternatively, you may choose to forgo moving and instead just gain any end-of-turn bonuses contained on the current map tile. Your former ship and crew can hold you and up to four additional PCs. End-of-turn bonuses are resolved for each PC passenger.
+You may spend a round of downtime onboard a ship located in HQ's docks. If there isn't a ship token, add one and then name the ship. This is your former ship and crew. During your downtime round, you may move the ship you're located in onto a different and accessible world map tile that shares the same terrain as HQ's docks, gaining any end-of-turn bonuses contained on the map tile. Alternatively, you may choose to forgo moving and instead just gain any end-of-turn bonuses contained on the current map tile. The ship returns to dock at the end of your round.
 
-Before deploying onto the world map, you may instead choose to deploy to the same destination onboard your ship, if the group token is on the same terrain as HQ's docks.
+Your former ship and crew can hold you and up to four additional PCs. End-of-turn bonuses are resolved for each PC passenger.
+
+Before deploying onto the world map, you may instead choose to deploy to the same destination onboard your ship, if the group token is on the same terrain as HQ's docks. Your ship returns to dock when your group recalls.
 
 The following downtime options open up for you and your allies in HQ's docks.
 - Spend any number of ⛁ on HQ's docks research upgrades.
+- Spend ⛁ to gain passage. You can accommodate up to four additional players, but they must each spend ⛁ to also gain passage. Each player onboard a ship resolves thier round of downtime together.
 
 ## Background-Name
 
