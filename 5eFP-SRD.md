@@ -1785,32 +1785,52 @@ Torch. A torch burns for 1 hour, providing bright light in a 20-­‐‑foot rad
 (Floating Section)
 
 # The 5eFP Framework
-All 5eFP games follow the same rules framework.
 
-Elements of a 5eFP game:
-- **Fast Travel.** Once a destination is revealed and set on the world map, PCs may choose it and deploy to it instantly without random encounters. The party's starting location on an unexplored world map tile is randomized.
+All 5eFP games follow the same rules framework. Elements of a 5eFP game include the following.
 
-> For Game Masters: Why is it Randomized?
+## Footholds
+
+Footholds are points of interest within a world map tile wherein the forces opposing the PCs form an encounter. Unexplored world map tiles contain 5 randomly located footholds. In order to consider a world map explored, the PCs must first discover and resolve 3 footholds.
+
+## Downtime
+
+## Deploy
+
+A group of PCs deploy to a designated world map tile simultaneously. Deployment starting location on an unexplored world map tile is randomized. During a round of downtime, PCs may deploy on their own to an explored location on the world map without determining a random starting location.
+
+## Fast Travel
+
+Once a destination is revealed and set on the world map, PCs may choose and deploy to it instantly without random encounters.
+
+> For Game Masters: Why is deployment Randomized?
 >> 
->> Try to make it sound believable and logical. For example, in Enchanted Forest, PCs use mystic skipping stones to fast travel to unexplored world map tiles. The stones are imprecise in where they land. This is a good reason why it is randomized. Others include getting lost, strong currents, resistance, or interference. Believability is important. If you buy into your explanation, your players will likely do so too. Fantasy realms are wondrous, but they also adhere to consistent and believable rules.
+>> Come up with a reason that fits the story. For example, in Enchanted Forest, PCs use mystic skipping stones to fast travel to unexplored world map tiles. The stones are imprecise in where they land. This is a good reason why it is randomized. Others include getting lost, uncertainty, strong currents, resistance, or interference.
 >>
 > Variant Rules: Add Random Encounters
 >>
->> You can add random encounters back in by assigning up to five random encounters as footholds contained within an unexplored world map tile. When PCs encounter a foothold, they draw and resolve a creature encounter instead of drawing a story card until all random encounters are resolved.
+>> GMs can add random encounters to a game by assigning up to five random encounters as footholds in an unexplored world map tile. When PCs encounter a foothold, they draw and resolve a creature encounter instead of drawing a story card until all random encounters are completed.
 
-- **Recall.** Once deployed, PCs may recall back to headquarters anytime by performing a special 1-minute ritual. Recalled PCs return to HQ. Any PC not currently located at HQ automatically returns to HQ at the end of a game session. A PC may only recall once per game session.
+## Recall
+
+Once deployed, PCs in a group may recall back to the headquarters (HQ) map room at any time by performing a special 1-minute ritual. Once one or more PCs complete a recall ritual, all PCs in the group recall simultaneously. After 8 hours have elapsed while deployed, any PC not currently located at HQ is automatically recalled. A PC may only recall once per game session.
 
 > For Game Masters: How do the PCs recall?
 > 
->> What technology does the game use to make this happen? Teleportation? Airlifting? Shuttles?
+>> What technology does the game use to make this happen? Teleportation? Airlifting? Shuttles? Flying mounts?
 >>
 >> For example, in Enchanted Forest, the PCs use mystic skipping stone artifacts gifted to them when they graduate as a Queen's Herald. The stones are powerful magic items that cannot be destroyed. Each stone is unique and bonded to exactly one PC. PCs and their bonded stones simultaneously recall to HQ.
 >>
 > For Game Masters: Why do the PCs recall automatically after 8 hours?
 > 
->> A condition or situation afflicts the world map. This condition or situation makes prolonged contact impossible or lethal. What's going on in your world map that explains this limit? For example, in Enchanted Forest, the Enchantress Queen can only keep the PCs safe from the Nightmare for up to 8 hours once the PCs have finished deploying. Keeping PCs safe from the Nightmare for 8 hours consumes 1 starflower. The Enchantress Queen must then finish a long rest before undertaking another deployment.
+>> A condition or situation afflicts the world map. This condition or situation makes prolonged contact impossible or lethal. What's going on in your world map that explains this limit? For example, in Enchanted Forest, the Enchantress Queen can only keep the PCs safe from the Nightmare for up to 8 hours once the PCs have deployed. Keeping PCs safe from the Nightmare for 8 hours consumes 1 starflower. The Enchantress Queen must then finish a long rest before undertaking another deployment.
 
-- **Headquarters (HQ).** The game has a centralized organization linking each PC to one another. Players almost always begin and end a game at HQ.
+## Headquarters (HQ)
+
+Headquarters (HQ) is a centralized organization to which all player characters (PCs) belong within a 5eFP campaign setting. HQ might be a city, a settlement, an outpost, a watch tower, a ship, or a station. All HQs have a dedicated society of supporters who help PCs complete HQ missions and guarantee safety and protection from whatever awaits beyond HQ's borders, provided PCs pay HQ's upkeep cost. See your setting handbook for more details on HQ upkeep costs. Most HQs are immobile and located at the center of the world map. PCs almost always begin and end a game at HQ.
+
+HQs sometimes create satellite locations within the world map. Each satellite behaves as if it were HQ with different downtime options, and you may deploy to a satellite location at the start of your downtime round. Satellite locations are less secure than HQ but remain relatively safe and protected, provided PCs meet HQ's upkeep costs. Local circumstances, conditions, and disturbances can affect the safety and protection offered by HQ. A temporary suspension of HQ protection results in PCs losing the ability to rest and repair. Coins spent on rest and repairs are lost during these circumstances. 
+
+HQ usually remains in one static location while PCs deploy on missions outward from the world map's center. However, some HQs relocate on the world map while other HQs have movable tokens representing a deployable vehicle or station with sufficient life support. Deployable HQ tokens function identically to static HQ world map tiles.
 
 ## World Map
 - Map size: 14 squares by 14 squares
