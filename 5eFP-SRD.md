@@ -728,7 +728,7 @@ As	a	sorcerer,	you	gain	the	following	class	features.
 
 **Tools:**	None
 
-**Abilities:** CON, Charisma (CHA)
+**Abilities:** Constitution (CON), Charisma (CHA)
 
 #### Equipment
 You	start	with	the	following	equipment,	in	addition	to	the	equipment	granted	by	your	background:
