@@ -1280,13 +1280,7 @@ Choose a god, a pantheon of gods, or some other quasi-divine being from among th
 
 ### Feature: Shelter of the Faithful
 
-As an acolyte, you command the respect of those who share your faith, and you can perform the religious ceremonies of your deity. Whenever you spend a downtime round at a temple, shrine, or other established presence of your faith, you gain Rest and Repairs and holy water for free. Additionally, the following downtime options open up for you and your allies in the HQ temple.
-- Spend (1) herbs to get (1) healing potion.
-- Spend ⛁ to cast *lesser restoration*.
-- Spend 5⛁ to cast *greater restoration*.
-- Spend 25⛁ coins to cast *raise dead* on a fallen ally.
-
-You might also have ties to a specific temple dedicated to your chosen deity or pantheon, and you have a residence there. This could be the temple where you used to serve, if you remain on good terms with it, or a temple where you have found a new home. While near your temple, you can call upon the priests for assistance, provided the assistance you ask for is not hazardous and you remain in good standing with your temple.
+As an acolyte, you command the respect of those who share your faith, and you can perform the religious ceremonies of your deity. Whenever you spend a downtime round at a temple, shrine, or other established presence of your faith, you gain Rest and Repairs and holy water for free.
 
 ## Outlaw
 
@@ -1312,11 +1306,7 @@ You spent years learning the lore of the multiverse. You scoured manuscripts, st
 
 ### Feature: Researcher
 
-During a round of downtime, before spending coins on upgrades, you gain +⛁ this round for research upgrades only.
-
-The following downtime options open up for you and your allies in HQ.
-- **Research Upgrades: (feature, item, location, or lore).** Choose the desired research and add it to the list of available HQ research. By default, research requires five coins to complete. When the research is complete, the players decide and learn 1 new piece of information about the nature of the research. If it is determined that more than 1 piece of information can be gained through research, the PCs must begin and complete new research for each additional piece of information. Completing research on a feature upgrades gameplay, making the feature playable.
-- Spend any number of ⛁ on research.
+During a round of downtime, before spending any ⛁, you gain +⛁ this round for research only. You may place this ⛁ on any available research. If there are no available research tracks, add one to any location.
 
 ## Sailor
 
@@ -1328,17 +1318,11 @@ You sailed on a seagoing vessel for years. In that time, you faced down mighty s
 
 ### Feature: Ship's Passage
 
-When the map tile containing HQ's docks is discovered, you gain the following additional features.
+When the map tile containing HQ's docks is discovered, you gain the following features.
 
-You may spend a round of downtime onboard a ship located in HQ's docks. If there isn't a ship token, add one and then name the ship. This is your former ship and crew. During your downtime round, you may move the ship you're located in onto a different and accessible world map tile that shares the same terrain as HQ's docks, gaining any end-of-turn bonuses contained on the map tile. The ship returns to dock at the end of your round.
+You may spend a round of downtime onboard a ship in HQ's docks. If you haven't done so already, add and name a ship to HQ's docks. This is your former ship and crew. During your downtime round, you and up to 4 other PCs may board your ship at HQ's docks without spending ⛁ and move the ship onto a different and accessible world map tile that shares the same terrain as HQ's docks, gaining any end-of-turn bonuses contained on the map tile. The ship returns to dock at the end of the downtime round.
 
-Your former ship and crew can hold you and up to four additional PCs. End-of-turn bonuses are resolved for each PC passenger.
-
-Before deploying onto the world map, you may instead choose to deploy to the same destination onboard your ship, if the group token is on the same terrain as HQ's docks. Your ship returns to dock when your group recalls.
-
-The following downtime options open up for you and your allies in HQ's docks.
-- Spend any number of ⛁ on HQ's docks research upgrades.
-- Spend ⛁ to gain passage. You can accommodate up to four additional PCs, but they must each spend ⛁ to also gain passage. PCs onboard a ship resolve their round of downtime together.
+Before deploying onto the world map, you may instead choose to deploy to the same destination onboard your ship if the group token is on the same terrain as HQ's docks. Your ship can only move through world map tiles that share a terrain with HQ's docks. While you are the group token controller, your ship gives you +1 speed, and you may remove obscuring tiles up to 2 squares away. Your ship returns to dock when your group recalls.
 
 ## Background-Name
 
@@ -1887,11 +1871,70 @@ Unless stated otherwise, you always end the game at HQ. The following occurs whe
 3. PCs take one downtime round (worker placement) by placing their token on a building within HQ (or linked through HQ at a satellite location).
 4. PCs gain the benefits of completing a long rest.
 
----
-
-(floating section)
 # Between Adventures
-At the start of a player's downtime round, that player may (board game: choose and place a worker from their character sheet on the appropriate regions on the HQ map) choose and gain the benefits of one downtime activity (see below). All PCs have this basic option no matter how many coins they have.
+
+After PCs recall, they each gain 1 round of downtime. PCs resolve their downtown rounds in initiative order. At the start of a PC's downtime round, they place their character token on an available space in HQ. At the end of the round, PCs gain any end-of-turn benefits associated with their chosen downtime location (see below).
+
+## HQ
+
+While at HQ, the following downtime options become available.
+
+- Spend any amount of ⛁ on HQ upgrades.
+- Spend any amount of ⛁ on HQ research.
+- **Research.** Spend ⛁ and choose one from feature, item, location, or lore. Add the chosen research to the list of available HQ research. By default, research requires five coins to complete. When the research is complete, the PCs decide what is learned, revealing 1 new piece of information about the nature of the research. If it is determined that more than 1 piece of information can be gained through research, the PCs must begin and complete new research for each additional piece of information. Completing research on a feature upgrades gameplay, making the feature playable.
+
+### Level 1 HQ Upgrades
+
+- Buildings (10⛁)
+
+### HQ Research
+
+## Expanded Downtime Locations
+
+The following locations offer expanded downtime options but must first be unlocked through upgrades or research. Unless stated otherwise, a building becomes unlocked when PCs complete the Buildings HQ upgrade.
+
+### Docks
+
+**Unlock.** Gain access to the docks by discovering the world map tile containing the docks symbol.
+
+Downtime options:
+
+- Spend any number of ⛁ on HQ's docks research upgrades.
+- You and up to 4 additional PCs spend ⛁ to gain passage onboard a ship at HQ's docks. PCs on a ship resolve their downtime together once they board and move the ship.
+
+### Market
+
+### Temple
+
+**Unlock.** In addition to the normal way of gaining access to the temple, unlock this location when one or more PCs choose the acolyte background.
+
+The following downtime options are available at the temple.
+- Spend (1) herbs to get (1) healing potion.
+- Spend ⛁ to cast *lesser restoration*.
+- Spend 5⛁ to cast *greater restoration*.
+- Spend 25⛁ coins to cast *raise dead* on a fallen ally.
+
+### Manor
+
+### Barracks
+
+### Forge
+
+### Refugee Camps
+
+### Firing Range
+
+### Monument
+
+### Tower
+
+### Enclave
+
+### Mystic Jeweler
+
+### Library
+
+### Guild
 
 ## Spending Coin
 After the conclusion of a game session, players take 1 or more rounds of downtime. At the start of the downtime phase, PCs each roll a d20, adding the number of coins they currently have as a modifier. This number represents their downtime initiative. Each rolls a d20 and adds the number of Coins they currently have. This is called the downtime initiative, or just initiative.
