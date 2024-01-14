@@ -2000,6 +2000,7 @@ A standard coin weighs about a third of an ounce, so fifty coins weigh a pound.~
 ---
 
 # Feats
+
 A feat represents a talent or an area of expertise that gives a character special capabilities. It embodies training, experience, and abilities beyond what a class provides.
 
 At certain levels, your class gives you the Ability Score Improvement feature. Using the optional feats rule, you can forgo taking that feature to take a feat of your choice instead. You can take each feat only once, unless the feat’s description says otherwise.
@@ -2007,19 +2008,23 @@ At certain levels, your class gives you the Ability Score Improvement feature. U
 You must meet any prerequisite specified in a feat to take that feat. If you ever lose a feat’s prerequisite, you can’t use that feat until you regain the prerequisite. For example, the Grappler feat requires you to have a Strength of 13 or higher. If your Strength is reduced below 13 somehow—perhaps by a withering curse—you can’t benefit from the Grappler feat until your Strength is restored.
 
 ## Armor Training (Heavy)
+
 _Prerequisite: Proficiency with medium armor_
 
-You gain proficiency with heavy armor and shields. At the beginning of each of your turns, if you are wearing heavy armor, you gain **bolster 1**.
+You gain proficiency with heavy armor and shields. At the beginning of each of your turns, if you are wearing heavy armor, you gain **bolster 1**. Unlike other sources of bolster, you may combine this bolster with another bolster. Once you combine bolsters in this way, you cannot do so again until your next turn.
 
 ## Armor Training (Medium)
+
 _Prerequisite: Proficiency with light armor_
 
-You gain proficiency with medium armor and shields. Increase your maximum DEX bonus allowed while wearing medium armor by +1. Medium armor no longer imposes disadvantage on performance checks.
+You gain proficiency with medium armor and shields. Increase your maximum DEX bonus allowed while wearing medium armor by +1. Medium armor no longer imposes disadvantage on Performance checks.
 
 ## Armor Training (Light)
+
 You gain proficiency with light armor.
 
 ## Grappler
+
 _Prerequisite: STR +1 or higher_
 
 You’ve developed the skills necessary to hold your own in close-­quarters grappling. You gain the following benefits:
