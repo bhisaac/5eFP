@@ -1302,7 +1302,7 @@ You spent years learning the lore of the multiverse. You scoured manuscripts, st
 
 **Languages:** Two of your choice
 
-**Equipment:** Choose a scholar's kit, alchemist's supplies, or navigator's tools and a belt pouch containing ⛁
+**Equipment:** Scholar's kit, alchemist's supplies, or navigator's tools, and a belt pouch containing ⛁
 
 ### Feature: Researcher
 
