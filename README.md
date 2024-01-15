@@ -21,7 +21,9 @@ Join our growing 5eFP community and start contributing. 5eFP needs ***sponsors**
 
 This project needs openminded, reliable, and dedicated PCs, GMs, and contributors who appreciate and engender curiosity toward themselves, toward fellow players, and toward 5eFP's developing game mechanics. This project is looking for any of the following skills (in no particular order):
 
+- **Markdown Formatting.** The 5eFP SRD (source reference document) is formatted with markdown, an easy-to-use markup language. It's also easy to learn.
 - **Emotional Intelligence.** The capacity to be aware of, control, and express one's emotions, and to handle interpersonal relationships judiciously and empathetically.
+- **Beginner Mind.** Having an attitude of openness, eagerness, and lack of preconceptions when studying, even at an advanced level, just as a beginner would.
 - **5eFP Apps.** Proficiency or familiarity with **Arrangr**, **Discord**, **Roll20**, and **Zoom**.
 - **Legal experience with open-source projects.** Help ensure we are doing everything correctly for the health and wellness of the 5eFP project moving forward.
 - **Open-source project experience.** Familiarity with open-source projects, github, and other related applications.
