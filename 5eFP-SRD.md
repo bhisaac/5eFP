@@ -1306,7 +1306,7 @@ You spent years learning the lore of the multiverse. You scoured manuscripts, st
 
 ### Feature: Researcher
 
-During your first round of downtime, before spending any ⛁, you gain ⛁ this round for research only. You may place this ⛁ on any available research. If there are no available research tracks, add one to any location.
+Once during the downtime phase, before spending any ⛁, you gain ⛁ this round for research only. You may spend this ⛁ on any available research at any location. If there are no available research tracks, add one to any location.
 
 ## Sailor
 
@@ -1318,11 +1318,11 @@ You sailed on a seagoing vessel for years. In that time, you faced down mighty s
 
 ### Feature: Ship's Passage
 
-You gain the following features when the map tile containing HQ's docks is discovered.
+You gain the following features when HQ's docks are discovered.
 
-You may spend your first round of downtime onboard a ship in HQ's docks. If you haven't done so already, add and name a ship to HQ's docks. This is your former ship and crew. During your downtime round, you and up to 4 other PCs may board a ship at HQ's docks without spending any coin. Before the end of your downtime round, move the ship onto a different and accessible world map tile that shares the same terrain as HQ's docks. Ships return to HQ's dock at the end of the downtime round.
+Once during the downtime phase, you and up to 4 other PCs may complete a round of downtime onboard a ship in HQ's docks without spending any coin. Before the end of your downtime round, move the party token (the ship) onto a different and accessible world map tile that shares the same terrain as HQ's docks. Ships return to HQ's dock at the end of the downtime round.
 
-Before deploying onto the world map, you may instead choose to deploy to the same destination onboard your ship if the group token is on the same terrain as HQ's docks. Your ship can only move through world map tiles that share a terrain with HQ's docks. While you are the group token controller, your ship gives you +1 speed, and you may remove obscuring tiles up to 2 squares away. Your ship returns to dock when your group recalls.
+Before deploying onto the world map, you may instead choose to deploy to the same destination onboard your ship if the group token is on the same terrain as HQ's docks. Your ship can only move through world map tiles that share terrain with HQ's docks. While you are the group token controller, the ship gives you +1 speed, and you may remove obscuring tiles up to 2 squares away. Your ship returns to dock when your group recalls.
 
 ## Soldier
 
@@ -1334,7 +1334,7 @@ War has been your life for as long as you care to remember. You trained as a you
 
 ### Feature: Military Rank
 
-You have a military rank from your career as a soldier. Soldiers loyal to your former military organization still recognize your authority and influence, and they defer to you if they are of a lower rank. (more TBD)
+You have a military rank from your career as a soldier. Soldiers loyal to your former military organization still recognize your authority and influence, and they defer to you if they are of a lower rank. Before deploying onto a map, you gain a soldier sidekick under your command who deploys and recalls alongside you. The soldier sidekick follows your commands to the best of its ability. If your soldier sidekick survives until the end of a game session, you gain ⛁ at the start of the downtime phase.
 
 
 ## Background-Name
