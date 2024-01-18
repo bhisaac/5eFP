@@ -1334,7 +1334,17 @@ War has been your life for as long as you care to remember. You trained as a you
 
 ### Feature: Military Rank
 
-You have a military rank from your career as a soldier. Soldiers loyal to your former military organization still recognize your authority and influence, and they defer to you if they are of a lower rank. Before deploying onto a map, you gain a soldier sidekick under your command who deploys and recalls alongside you. The soldier sidekick follows your commands to the best of its ability. If your soldier sidekick survives until the end of a game session, you gain ⛁ at the start of the downtime phase.
+You have a military rank from your career as a soldier. Soldiers loyal to your former military organization still recognize your authority and influence, and they defer to you if they are of a lower rank. Before deploying onto a map, you gain a soldier minion under your command who deploys and recalls alongside you. The soldier minion follows your commands to the best of its ability. If the soldier minion dies, remove it from the playing field. If you still have a soldier minion when your party recalls, you gain ⛁ at the start of the downtime phase.
+
+## Urchin
+
+You grew up on the streets alone, orphaned, and poor. You had no one to watch over or provide for you, so you learned to provide for yourself. You fought fiercely over food and kept a constant watchout for other desperate souls who might steal from you. You slept on rooftops and in alleyways, were exposed to the elements, and endured sickness without the advantage of medicine or a place to recuperate. You've survived despite all odds and did so through cunning, strength, speed, or some combination of each.
+
+**Tool Proficiencies:** Disguise kit, thieves' tools
+
+**Equipment:** A dagger (small knife), a pet mouse, a token to remember your parents by, and a belt pouch containing ⛁
+
+### Feature: TBD
 
 
 ## Background-Name
