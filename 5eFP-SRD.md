@@ -1324,6 +1324,19 @@ You may spend your first round of downtime onboard a ship in HQ's docks. If you 
 
 Before deploying onto the world map, you may instead choose to deploy to the same destination onboard your ship if the group token is on the same terrain as HQ's docks. Your ship can only move through world map tiles that share a terrain with HQ's docks. While you are the group token controller, your ship gives you +1 speed, and you may remove obscuring tiles up to 2 squares away. Your ship returns to dock when your group recalls.
 
+## Soldier
+
+War has been your life for as long as you care to remember. You trained as a youth, studied the use of weapons and armor, learned basic survival techniques, including how to stay alive on the battlefield. You might have been part of a standing national army or a mercenary company, or perhaps a member of a local militia who rose to prominence during a recent war.
+
+**Tool Proficiencies:** One type of gaming set, vehicles (land)
+
+**Equipment:** An insignia of rank, a trophy taken from a fallen enemy (a dagger, broken blade, or piece of a banner), a set of bone dice or deck of cards, and a belt pouch containing ⛁
+
+### Feature: Military Rank
+
+You have a military rank from your career as a soldier. Soldiers loyal to your former military organization still recognize your authority and influence, and they defer to you if they are of a lower rank. (more TBD)
+
+
 ## Background-Name
 
 DESC TBD.
