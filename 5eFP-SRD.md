@@ -3111,7 +3111,7 @@ An awakened shrub is an ordinary plant given sentience and mobility by the *awak
 
 **False Appearance.** While the awakened plant remains motionless, it is indistinguishable from a normal plant.
 
-### Attacks
+### Actions
 
 **Rake.** *Melee Weapon Attack*, reach 1, one target. *Hit:* slashing damage.
 
@@ -3147,7 +3147,7 @@ An awakened shrub is an ordinary plant given sentience and mobility by the *awak
 
 ## Monsters (L)
 ### Lich
-*Medium Undead, evil*
+*Medium undead, evil*
 
 Once fine robes hang in tatters from this withered corpse’s frame. A pale blue light shines from where its eyes should be.
 
@@ -3168,7 +3168,7 @@ Liches share the following statistics.
 **Spellcasting.** Lich minions are spellcasters. Thier spellcasting ability is INT. Lich minions have the following wizard spells prepared:
 - **Cantrips (at will):** *mage hand, prestidigitation, ray of frost*
 
-### Attacks
+### Actions
 
 **Paralyzing Touch.** Melee Spell Attack, reach 1, one creature. Hit: cold damage. The target must succeed on a CON saving throw or be paralyzed until the end of the encounter. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
@@ -3210,6 +3210,21 @@ Liches share the following statistics.
 
 ## Monsters (R)
 
+### Raven
+*Tiny beast (critter), unaligned*
+
+Ravens share the following statistics.
+- **Skills** Perception +1
+- **Senses** passive Perception 11
+- **Languages** —
+- **Speed** 2, fly 10
+
+**Mimicry.** The raven can mimic simple sounds it has heard. such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Insight check.
+
+### Actions
+
+**Beak.** *Melee Weapon Attack*, reach 1, one target. *Hit:* piercing damage.
+
 ## Monsters (S)
 
 ## Monsters (T)
@@ -3226,7 +3241,7 @@ Liches share the following statistics.
 
 ## Monsters (Z)
 ### Zombie
-*Medium Undead, neutral evil*
+*Medium undead, neutral evil*
 
 Zombies share the following statistics.
 - **Saving Throws** WIS 2 + LEVEL
@@ -3238,7 +3253,7 @@ Zombies share the following statistics.
 
 **Undead Fortitude.** If the zombie reaches MAX wounds, it must make a CON saving throw with a DC of 12 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie receives 1 point of healing.
 
-### Attacks
+### Actions
 
 **Slam.** *Melee Weapon Attack*, reach 1, one target. *Hit:* bludgeoning damage.
 
@@ -3415,7 +3430,7 @@ TDB
 ### EXPERIMENTAL (in development)
 
 5eFP MONK
-— (1 KI point): stand upright from prnone or jump up or down one ledge as a free action.
+— (1 KI point): stand upright from prone or jump up or down one ledge as a free action.
 
 ---
 
