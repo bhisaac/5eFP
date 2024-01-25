@@ -2386,29 +2386,66 @@ The mere presence of a boss can have strange and wondrous effects on its environ
 All monster descriptions are detailed in Appendix MM.
 
 ## Dungeon
+
 Dungeon encounters use the encounter stats provided to determine the strength of any monsters, traps, and other adversity found in one floor of a contained, multi-room structure. Details such as light levels, room height, wall and floor composition, and type of doors in the dungeon are described first.
 
 If a dungeon contains a passage leading to a higher or lower floor of the dungeon, LEVEL increases by +3. Floor changes are cumulative if they advance in the same direction. If a set of stairs in a level 1 dungeon leads down two floors, the new floor would be a LEVEL + 6 (level 7) area. While searching the level 7 floor, the PCs find a rope leading up through a hole in the floor. They climb the rope and find themselves on a level 4 floor. Then, if the PCs found a staircase leading up, the next floor would return to a level 1 area.
 
 Dungeons may have one or more bonus features.
 
-**Danger Room.** These rooms are always obscured by a reinforced and locked door or an opaque phenomenon keeping creatures out that is clearly labeled as deadly. PCs must first acknowledge the warnings to enter a danger room. Acknowledgment unlocks the door or phenomenon, allowing passage. If the PCs advance into a danger room, they must face a boss battle at difficulty (LEVEL + 2). The way out vanishes the moment the PCs reach the danger room and does not reappear until the end of the encounter. The monster encounter is set up as if there are five PCs (even if the party is less than five) and two bonus elites are added to the encounter. If the PCs overcome the encounter, an unlocked, trap-free ornate chest appears. Each PC may, in turn, approach the chest and open it. The PC then chooses and adds one treasure to their equipment from three discovered treasures, discarding the other two choices. PCs choose one treasure from three available treasures: class, advanced, or magic item. Roll/draw the treasures and pick one to keep.
+### Danger Rooms
 
-**Class.** This represents the treasure your class considers essential.
+Danger rooms are always obscured by a reinforced and locked door or an opaque phenomenon keeping creatures out that is clearly labeled as deadly. PCs must first acknowledge the warnings to enter a danger room. Acknowledgment unlocks the door or phenomenon, allowing passage. If the PCs advance into a danger room, they must face a boss battle at difficulty (LEVEL + 2). The way out vanishes the moment the PCs reach the danger room and does not reappear until the end of the encounter. The monster encounter is set up as if there are five PCs (even if the party is less than five) and two bonus elites are added to the encounter. If the PCs overcome the encounter, an unlocked, trap-free ornate chest appears. Each PC may, in turn, approach the chest and open it. The PC then chooses and adds one treasure to their equipment from three discovered treasures, discarding the other two choices. PCs choose one treasure from three available treasures: class, advanced, or magic item. Roll/draw the treasures and pick one to keep.
 
-- Barbarian: handaxe or javelin, battle axe, shield, light armor, medium armor
-
-**Advanced.** This represents an advanced or rare treasure for your class.
-
-- Barbarian: healing potion, marital weapon, trade goods, coin
-
-**Magic Item.** These are the best treasure rewards in the game.
-
-- All: weapon, armor, shield, ring, necklace, vestments 
-
-> This game zone contains a very powerful boss (super boss) creature encounter.
+> ### Danger Room Treasures
 > 
->> Danger rooms require optimization with the best gear, features, party buffs, and abilities you can gather into a five-player party.
+>> Danger rooms are unique game zones that contain a very powerful boss (super boss) creature encounter, requiring optimization with the best gear, features, party buffs, and abilities you can muster into a five-player party. You discover treasure from three potential treasure types once you clear a danger room.
+>>
+>> **Class.** Treasure your class considers essential. For example, barbarians might discover handaxes, javelins, a battle axe, a shield, light armor, or medium armor
+>>
+>> **Advanced.** Rare items your class considers valuable. For example, barbarians might discover a healing potion, a martial weapon, trade goods, or ⛁
+>>
+>> **Magic Item.** The best items in the game for your class. For example, barbarians might discover magic armor, weapons, shields, rings, necklaces, vestments
+
+### Traps
+
+Traps can be found almost anywhere. One wrong step in an ancient tomb might trigger a series of scything blades, which cleave through armor and bone. The seemingly innocuous vines that hang over a cave entrance might grasp and choke anyone who pushes through them. A net hidden among the trees might drop on travelers who pass underneath. In a fantasy game, unwary adventurers can fall to their deaths, be burned alive, or fall under a fusillade of poisoned darts.
+
+A trap can be either mechanical or magical in nature. **Mechanical traps** include pits, arrow traps, falling blocks, water-­filled rooms, whirling blades, and anything else that depends on a mechanism to operate. **Magic traps** are either magical device traps or spell traps. Magical device traps initiate spell effects when activated. Spell traps are spells such as _glyph of warding_ and _symbol_ that function as traps.
+
+#### Traps in Play
+
+When adventurers come across a trap, you need to know how the trap is triggered and what it does, as well as the possibility for the characters to detect the trap and to disable or avoid it.
+
+**Triggering a Trap.** Most traps are triggered when a creature goes somewhere or touches something that the trap’s creator wanted to protect. Common triggers include stepping on a pressure plate or a false section of floor, pulling a trip wire, turning a doorknob, and using the wrong key in a lock. Magic traps are often set to go off when a creature enters an area or touches an object. Some magic traps (such as the _glyph of warding_ spell) have more complicated trigger conditions, including a password that prevents the trap from activating.
+
+**Detecting and Disabling a Trap.** Usually, some element of a trap is visible to careful inspection. Characters might notice an uneven flagstone that conceals a pressure plate, spot the gleam of light off a trip wire, notice small holes in the walls from which jets of flame will erupt, or otherwise detect something that points to a trap’s presence.
+
+A trap’s description specifies the checks needed to detect it, disable it, or both. A character actively looking for a trap can attempt a Wisdom (Perception) check against the trap’s DC. You can also compare the DC to detect the trap with each character’s passive Wisdom (Perception) score to determine whether anyone in the party notices the trap in passing. If the adventurers detect a trap before triggering it, they might be able to disarm it, either permanently or long enough to move past it. You might call for an Intelligence (Investigation) check for a character to deduce what needs to be done, followed by a Dexterity check using thieves’ tools to perform the necessary sabotage.
+
+Any character with the spellcasting feature can attempt an Insight check to detect or disarm a magic trap, in addition to any other checks noted in the trap’s description. In addition, _dispel magic_ also has a chance of disabling most magic traps.
+
+In most cases, a trap’s description is clear enough that you can adjudicate whether a character’s actions locate or foil the trap. As with many situations, you shouldn’t allow die rolling to override clever play and good planning. Use your common sense, drawing on the trap’s description to determine what happens. No trap’s design can anticipate every possible action that the characters might attempt.
+
+You should allow a character to discover a trap without making an ability check if an action would clearly reveal the trap’s presence. For example, if a character lifts a rug that conceals a pressure plate, the character has found the trigger and no check is required.
+
+Foiling traps can be a little more complicated. Consider a trapped treasure chest. If the chest is opened without first pulling on the two handles set in its sides, a mechanism inside fires a hail of poison needles toward anyone in front of it. After inspecting the chest and making a few checks, the characters are still unsure if it’s trapped. Rather than simply open the chest, they prop a shield in front of it and push the chest open at a distance with an iron rod. In this case, the trap still triggers, but the hail of needles fires harmlessly into the shield.
+
+Traps are often designed with mechanisms that allow them to be disarmed or bypassed. Intelligent monsters that place traps in or around their lairs need ways to get past those traps without harming themselves. Such traps might have hidden levers that disable their triggers, or a secret door might conceal a passage that goes around the trap.
+
+**Trap Effects.** The effects of traps can range from inconvenient to deadly, making use of elements such as arrows, spikes, blades, poison, toxic gas, blasts of fire, and deep pits. The deadliest traps combine multiple elements to kill, injure, contain, or drive off any creature unfortunate enough to trigger them. A trap’s description specifies what happens when it is triggered.
+
+> MINION TRAPS
+>
+>> Traps of type minion do not reset after triggering.
+>>
+> ELITE TRAPS
+>
+>> Traps of type elite require (MAX Wounds) successful attempts to disable and may trigger up to (MAX Wounds) times before finishing.
+>>
+> BOSS TRAPS
+>
+>> The deadliest traps are boss traps. These hazards are difficult if not impossible to bypass or avoid, require (MAX Wounds) successful attempts to disable and may trigger up to (MAX Wounds) times before finishing. Also, boss traps have a number of smaller components that trigger independently. PCs must deal with or remove all of these smaller components or the boss trap resets.
 
 ## Settlement
 
