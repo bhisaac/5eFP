@@ -2105,7 +2105,7 @@ If	either	weapon	has	the	thrown	property,	you	can	throw	the	weapon,	instead	of	m
 5eFP uses encounters to describe the adversity PCs find while exploring maps. Traps, unfavorable environmental conditions, creatures, and challenging story situations are all considered encounters. Use the following table to determine the base statistics for all encounters. Except for forced movement, minion damage, and minion MAX wounds, add LEVEL to the base values.
 
 |   |**Minion**|**Elite**|**Boss**|
-|--:|:----:|:---:|:--:|
+|--:|:--------:|:-------:|:------:|
 |**Armor Class (AC)**|12|13|14|
 |**Difficulty Class (DC)**|12|13|14|
 |**Bonus**|+2|+3|+4|
@@ -2114,6 +2114,8 @@ If	either	weapon	has	the	thrown	property,	you	can	throw	the	weapon,	instead	of	m
 |**Forced Movement**|1|1 or 2|2|
 
 **Minion.** Minions represent simple encounters. Monster encounters treat minions as creatures with minimal stats that can only sustain one point of damage with MAX wounds of 1. Non-monster encounters represent situations where PCs must meet a single challenge to overcome the encounter. Examples: a trap that does not reset or picking a lock. While minion monster encounters are resolved in rounds, non-monster encounters may take minutes to resolve.
+
+Some creature minions have the critter tag. Critters are typically tiny or small creatures. They deal 0 damage, have a +1 bonus and a DC of 10. Critters can be upgraded. An upgraded critter shares the same base statistics as minions, but they do not add LEVEL to their base values.
 
 **Elite.** Elites represent advanced encounters. Monster encounters treat elites as creatures with advanced stats and features. Non-monster encounters represent situations where PCs must overcome adversity several times before achieving completion. Examples: convince a skeptical creature of something or gather clues. While elite monster encounters are resolved in rounds, non-monster elite encounters may take an hour to resolve.
 
