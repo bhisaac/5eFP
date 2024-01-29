@@ -1282,6 +1282,30 @@ Choose a god, a pantheon of gods, or some other quasi-divine being from among th
 
 As an acolyte, you command the respect of those who share your faith, and you can perform the religious ceremonies of your deity. Whenever you spend a downtime round at a temple, shrine, or other established presence of your faith, at the start of the downtime round, you gain ⛁ and holy water. Bonus coins awarded through this feature may only be spent on rest and repairs.
 
+## Swindler
+
+You have always had a way with people. You know what makes them tick, you can tease out their heart's desires after a few minutes of conversation, and with a few leading questions, you can read them like they were children's books. It's a useful talent, and one that you're perfectly willing to use for your advantage.
+
+**Tool Proficiencies:** Disguise kit, forgery kit
+
+**Equipment:** A set of fine clothes, disguise kit, tools of the con of your choice (ten stoppered bottles filled with colored liquid, a set of weighted dice, a deck of marked cards, or a signet ring of an imaginary duke), and a belt pouch containing ⛁
+
+### Feature: False Identity
+
+As part of completing a short rest, you may switch to a secondary identity that includes documentation, established acquaintances, and disguises that allow you to assume that persona. While disguised, any Performance checks made while keeping up your ruse gain advantage.
+
+## Performer
+
+You thrive in front of an audience. You know how to entrance them, entertain them, and even inspire them. Your poetics can stir the hearts of those who hear you, awakening grief or joy, laughter or anger. Your music raises their spirits or captures their sorrow. Your dance steps captivate, your humor cuts to the quick. Whatever techniques you use, your art your life.
+
+**Tool Proficiencies:** Disguise kit, one type of musical instrument
+
+**Equipment:** A musical instrument (one of your choice), the favor of an admirer (love letter, lock of hair, or trinket), a costume, and a belt pouch containing ⛁
+
+### Feature: By Popular Demand
+
+If you spend a round of downtime at an inn, tavern, circus, theater, or in a noble's court, you gain ⛁. Bonus coins awarded through this feature can only be spent on rest and repairs.
+
 ## Outlaw
 
 You are an experienced criminal with a history of breaking the law. You have spent much time among other outlaws and still have contacts within the criminal underworld. You're far closer than most people to the seedy underbelly of civilization, and you have survived up to this point by flouting the rules and regulations of society.
@@ -1308,7 +1332,7 @@ You spent years learning the lore of the multiverse. You scoured manuscripts, st
 
 Once during the downtime phase, before spending any ⛁, you gain ⛁ this round for research only. You may spend this ⛁ on any available research at any location. If there are no available research tracks, add one to any location.
 
-## Sailor
+## Seafarer
 
 You sailed on a seagoing vessel for years. In that time, you faced down mighty storms, monsters of the deep, and those who wanted to sink your craft to the bottomless depths. Your first love is the distant line of the horizon, but the time has come to try your hand at something new.
 
@@ -1334,18 +1358,19 @@ War has been your life for as long as you care to remember. You trained as a you
 
 ### Feature: Military Rank
 
-You have a military rank from your career as a soldier. Soldiers loyal to your former military organization still recognize your authority and influence, and they defer to you if they are of a lower rank. Before deploying onto a map, you gain a soldier minion under your command who deploys and recalls alongside you. The soldier minion follows your commands to the best of its ability. If the soldier minion dies, remove it from the playing field. If you still have a soldier minion when your party recalls, you gain ⛁ at the start of the downtime phase.
+You have a military rank from your career as a soldier. Soldiers loyal to your former military organization still recognize your authority and influence, and they defer to you if they are of a lower rank. Before deploying onto the world map, you gain a soldier minion under your command who deploys and recalls alongside you. The soldier minion follows your commands to the best of its ability and allows you to remove 1 additional obscuring tile up to two world map tiles away if you are the group token controller. If the soldier minion dies while deployed, remove it from the playing field. If your soldier minion did not die, you gain ⛁ at the start of the downtime phase.
 
-## Urchin
+## Street Rat
 
 You grew up on the streets alone, orphaned, and poor. You had no one to watch over or provide for you, so you learned to provide for yourself. You fought fiercely over food and kept a constant watchout for other desperate souls who might steal from you. You slept on rooftops and in alleyways, were exposed to the elements, and endured sickness without the advantage of medicine or a place to recuperate. You've survived despite all odds and did so through cunning, strength, speed, or some combination of each.
 
 **Tool Proficiencies:** Disguise kit, thieves' tools
 
-**Equipment:** A dagger (small knife), a pet mouse, a token to remember your parents by, and a belt pouch containing ⛁
+**Equipment:** A dagger (small knife), a pet critter, a token to remember your parents by, and a belt pouch containing ⛁
 
-### Feature: TBD
+### Feature: Streetwise
 
+If you are the party controller and you move through 1 or more map tiles with the city, dungeon, or road terrains, you gain +1 speed and may move through buildings and end your turn on a building (rooftop) as if they were roads. Your pet critter allows you to remove one additional obscuring tile up to two map tiles away. Also, your party may act on a surprise round if the party token is on a building, city, dungeon, or road terrain map tile.
 
 ## Background-Name
 
