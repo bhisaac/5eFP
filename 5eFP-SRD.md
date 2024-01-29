@@ -1294,7 +1294,7 @@ You have always had a way with people. You know what makes them tick, you can te
 
 As part of completing a short rest, you may switch to a secondary identity that includes documentation, established acquaintances, and disguises that allow you to assume that persona. While disguised, any Performance checks made while keeping up your ruse gain advantage.
 
-## Performer
+## Entertainer
 
 You thrive in front of an audience. You know how to entrance them, entertain them, and even inspire them. Your poetics can stir the hearts of those who hear you, awakening grief or joy, laughter or anger. Your music raises their spirits or captures their sorrow. Your dance steps captivate, your humor cuts to the quick. Whatever techniques you use, your art your life.
 
@@ -1304,7 +1304,19 @@ You thrive in front of an audience. You know how to entrance them, entertain the
 
 ### Feature: By Popular Demand
 
-If you spend a round of downtime at an inn, tavern, circus, theater, or in a noble's court, you gain ⛁. Bonus coins awarded through this feature can only be spent on rest and repairs.
+If you spend a round of downtime at an inn, tavern, circus, theater, or in a noble's court, you gain ⛁. Bonus coins awarded through this feature can only be spent on rest and repairs. Afterward, you may spend 1 additional downtime round without spending any coin.
+
+## Folk Hero
+
+You come from a humble social rank, but you are destined for so much more. Already, the people of your home village regard you as their champion, and your destiny calls you to stand against the tyrants and monsters that threaten the common folk everywhere.
+
+**Tool Proficiencies:** One type of artisan's tools, vehicles (land)
+
+**Equipment:** A set of artisan's tools (one of your choice), a shovel, an iron pot, and a belt pouch containing ⛁
+
+### Feature: Rustic Hospitality
+
+Whenever you move the party token, it bypasses obstacles and moves undetected through city and city road terrain tiles. Additionally, whenever you speak to a commoner (someone without military or aristocratic rank), any related checks made while doing so gain advantage. If you spend a round of downtime at a commoner's home, you gain ⛁. Bonus coins awarded through this feature can only be spent on rest and repairs.
 
 ## Outlaw
 
