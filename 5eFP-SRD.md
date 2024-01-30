@@ -1334,7 +1334,9 @@ Whenever you spend a downtime round crafting an item, you benefit from completin
 
 ## Outlaw
 
-You are an experienced criminal with a history of breaking the law. You have spent much time among other outlaws and still have contacts within the criminal underworld. You're far closer than most people to the seedy underbelly of civilization, and you have survived up to this point by flouting the rules and regulations of society.
+~~You are an experienced criminal with a history of breaking the law. You have spent much time among other outlaws and still have contacts within the criminal underworld. You're far closer than most people to the seedy underbelly of civilization, and you have survived up to this point by flouting the rules and regulations of society.~~
+
+You have a long history of violating the law. You have spent a considerable amount of time with other criminals and still have connections with the criminal underworld. You are much more intimately acquainted with the darker side of life than most people, and you have managed to survive thus far by disregarding the rules and regulations of civilized society.
 
 **Tool Proficiencies:** One type of gaming set, thieves' tools
 
@@ -1348,7 +1350,9 @@ In addition, you understand a set of secret signs and symbols used to convey sho
 
 ## Scholar
 
-You spent years learning the lore of the multiverse. You scoured manuscripts, studied scrolls, and listened to the greatest experts on the subjects that interest you. Your efforts have made you a master in your fields of study.
+~~You spent years learning the lore of the multiverse. You scoured manuscripts, studied scrolls, and listened to the greatest experts on the subjects that interest you. Your efforts have made you a master in your fields of study.~~
+
+You devoted numerous years of your life to gaining knowledge about the multiverse. You meticulously scoured through manuscripts, delved into scrolls, and paid rapt attention to the leading authorities on subjects that fascinated you. As a result of your hard work, you have become an expert in your chosen areas of study.
 
 **Languages:** Two of your choice
 
@@ -1360,7 +1364,9 @@ Once during the downtime phase, before spending any ⛁, you gain ⛁ this round
 
 ## Seafarer
 
-You sailed on a seagoing vessel for years. In that time, you faced down mighty storms, monsters of the deep, and those who wanted to sink your craft to the bottomless depths. Your first love is the distant line of the horizon, but the time has come to try your hand at something new.
+~~You sailed on a seagoing vessel for years. In that time, you faced down mighty storms, monsters of the deep, and those who wanted to sink your craft to the bottomless depths. Your first love is the distant line of the horizon, but the time has come to try your hand at something new.~~
+
+For years, you spent your time on a seafaring vessel, braving powerful storms, sea monsters, and enemies who sought to sink your ship to the bottom of the ocean. Although your passion has always been for the far-off horizon, you now feel the urge to venture out and try something different.
 
 **Tool Proficiencies:** Navigator's tools, vehicles (water)
 
@@ -1376,7 +1382,9 @@ Before deploying onto the world map, you may instead choose to deploy to the sam
 
 ## Soldier
 
-War has been your life for as long as you care to remember. You trained as a youth, studied the use of weapons and armor, learned basic survival techniques, including how to stay alive on the battlefield. You might have been part of a standing national army or a mercenary company, or perhaps a member of a local militia who rose to prominence during a recent war.
+~~War has been your life for as long as you care to remember. You trained as a youth, studied the use of weapons and armor, and learned basic survival techniques, including how to stay alive on the battlefield. You might have been part of a standing national army, a mercenary company, or perhaps a member of a local militia who rose to prominence during a recent war.~~
+
+You were trained at a young age for battle, learning how to handle weapons and armor, as well as basic survival skills. You have spent most of your life amidst wars, either as a member of a standing national army, a mercenary company, or a local militia that gained prominence during a recent conflict.
 
 **Tool Proficiencies:** One type of gaming set, vehicles (land)
 
@@ -1388,15 +1396,15 @@ You have a military rank from your career as a soldier. Soldiers loyal to your f
 
 ## Street Rat
 
-You grew up on the streets alone, orphaned, and poor. You had no one to watch over or provide for you, so you learned to provide for yourself. You fought fiercely over food and kept a constant watchout for other desperate souls who might steal from you. You slept on rooftops and in alleyways, were exposed to the elements, and endured sickness without the advantage of medicine or a place to recuperate. You've survived despite all odds and did so through cunning, strength, speed, or some combination of each.
+You grew up on the streets alone, fighting for survival every day. You had no family or financial support, slept in alleyways and on rooftops, and had to endure sickness without access to medicine. Despite all odds, you managed to survive by relying on your strength, speed, and cunning.
 
 **Tool Proficiencies:** Disguise kit, thieves' tools
 
-**Equipment:** A dagger (small knife), a pet critter, a token to remember your parents by, and a belt pouch containing ⛁
+**Equipment:** A dagger (small knife), a pet critter, a trinket to remember your parents (or guardians) by, and a belt pouch containing ⛁
 
 ### Feature: Streetwise
 
-If you are the party controller and you move through 1 or more map tiles with the city, dungeon, or road terrains, you gain +1 speed and may move through buildings and end your turn on a building (rooftop) as if they were roads. Your pet critter allows you to remove one additional obscuring tile up to two map tiles away. Also, your party may act on a surprise round if the party token is on a building, city, dungeon, or road terrain map tile.
+If you are the party controller and you move through 1 or more map tiles with the city, dungeon, or road terrains, you gain +1 speed and may move through buildings and end your turn on a building (rooftop) as if they were roads. Your pet critter allows you to remove one additional obscuring map tile up to 2 squares away. Also, your party may act on a surprise round if the party token is on a building, city, dungeon, or road terrain map tile.
 
 ## Background-Name
 
