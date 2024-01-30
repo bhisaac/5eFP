@@ -1328,9 +1328,9 @@ You are a member of an artisan's guild, skilled in a particular field and closel
 
 **Equipment:** A set of artisan's tools (one of your choice), a letter of introduction from your guild, and a belt pouch containing ⛁
 
-### Feature: Guild Membership
+### Feature: Master Craft
 
-TBD
+Whenever you spend a downtime round crafting an item, you benefit from completing the downtime round twice. You may spend trade goods instead of ⛁.
 
 ## Outlaw
 
