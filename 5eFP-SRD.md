@@ -1318,6 +1318,20 @@ You come from a humble social rank, but you are destined for so much more. Alrea
 
 Whenever you move the party token, it bypasses obstacles and moves undetected through city and city road terrain tiles. Additionally, whenever you speak to a commoner (someone without military or aristocratic rank), any related checks made while doing so gain advantage. If you spend a round of downtime at a commoner's home, you gain ⛁. Bonus coins awarded through this feature can only be spent on rest and repairs.
 
+## Guild Artisan
+
+You are a member of an artisan's guild, skilled in a particular field and closely associated with other artisans. You are a well-established part of the mercantile world, freed by talent and wealth from the constraints of a feudal social order. You learned your skills as an apprentice to a master artisan, under the sponsorship of your guild, until you became a master in your own right.
+
+**Tool Proficiencies:** One type of artisan's tools
+
+**Languages:** One of your choice
+
+**Equipment:** A set of artisan's tools (one of your choice), a letter of introduction from your guild, and a belt pouch containing ⛁
+
+### Feature: Guild Membership
+
+TBD
+
 ## Outlaw
 
 You are an experienced criminal with a history of breaking the law. You have spent much time among other outlaws and still have contacts within the criminal underworld. You're far closer than most people to the seedy underbelly of civilization, and you have survived up to this point by flouting the rules and regulations of society.
