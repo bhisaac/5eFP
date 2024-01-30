@@ -1338,7 +1338,7 @@ As a member of an artisan's guild, you possess great skills in crafting and have
 
 ### Feature: Master Craft
 
-Whenever you spend a downtime round crafting an item, you benefit from completing the downtime round twice. You may spend trade goods instead of ⛁.
+Whenever you spend a downtime round crafting an item, you benefit from completing the downtime round twice. You may spend trade goods as if they were ⛁.
 
 ## Outlaw
 
