@@ -1284,7 +1284,9 @@ As an acolyte, you command the respect of those who share your faith, and you ca
 
 ## Swindler
 
-You have always had a way with people. You know what makes them tick, you can tease out their heart's desires after a few minutes of conversation, and with a few leading questions, you can read them like they were children's books. It's a useful talent, and one that you're perfectly willing to use for your advantage.
+~~You have always had a way with people. You know what makes them tick, you can tease out their heart's desires after a few minutes of conversation, and with a few leading questions, you can read them like they were children's books. It's a useful talent, and one that you're perfectly willing to use for your advantage.~~
+
+You have a remarkable ability to connect with people. You understand their motivations and can decipher their deepest desires with just a few questions. You find this talent valuable and use it to your benefit.
 
 **Tool Proficiencies:** Disguise kit, forgery kit
 
@@ -1296,11 +1298,13 @@ As part of completing a short rest, you may switch to a secondary identity that 
 
 ## Entertainer
 
-You thrive in front of an audience. You know how to entrance them, entertain them, and even inspire them. Your poetics can stir the hearts of those who hear you, awakening grief or joy, laughter or anger. Your music raises their spirits or captures their sorrow. Your dance steps captivate, your humor cuts to the quick. Whatever techniques you use, your art your life.
+~~You thrive in front of an audience. You know how to entrance them, entertain them, and even inspire them. Your poetics can stir the hearts of those who hear you, awakening grief or joy, laughter or anger. Your music raises their spirits or captures their sorrow. Your dance steps captivate, your humor cuts to the quick. Whatever techniques you use, your art your life.~~
+
+You are a natural performer who can captivate, entertain, and motivate your audience. Your words, music, or dance moves can evoke powerful emotions. Your performance art is an integral part of your life.
 
 **Tool Proficiencies:** Disguise kit, one type of musical instrument
 
-**Equipment:** A musical instrument (one of your choice), the favor of an admirer (love letter, lock of hair, or trinket), a costume, and a belt pouch containing ⛁
+**Equipment:** A musical instrument (one of your choice), the favor of an admirer (a trinket), a costume, and a belt pouch containing ⛁
 
 ### Feature: By Popular Demand
 
@@ -1308,7 +1312,9 @@ If you spend a round of downtime at an inn, tavern, circus, theater, or in a nob
 
 ## Folk Hero
 
-You come from a humble social rank, but you are destined for so much more. Already, the people of your home village regard you as their champion, and your destiny calls you to stand against the tyrants and monsters that threaten the common folk everywhere.
+~~You come from a humble social rank, but you are destined for so much more. Already, the people of your home village regard you as their champion, and your destiny calls you to stand against the tyrants and monsters that threaten the common folk everywhere.~~
+
+Your social status may be humble, but you have a greater purpose in life. The people of your village already view you as their champion, and you are called upon to confront the tyrants and monsters that endanger the common people everywhere.
 
 **Tool Proficiencies:** One type of artisan's tools, vehicles (land)
 
@@ -1320,7 +1326,9 @@ Whenever you move the party token, it bypasses obstacles and moves undetected th
 
 ## Guild Artisan
 
-You are a member of an artisan's guild, skilled in a particular field and closely associated with other artisans. You are a well-established part of the mercantile world, freed by talent and wealth from the constraints of a feudal social order. You learned your skills as an apprentice to a master artisan, under the sponsorship of your guild, until you became a master in your own right.
+~~You are a member of an artisan's guild, skilled in a particular field and closely associated with other artisans. You are a well-established part of the mercantile world, freed by talent and wealth from the constraints of a feudal social order. You learned your skills as an apprentice to a master artisan, under the sponsorship of your guild, until you became a master in your own right.~~
+
+As a member of an artisan's guild, you possess great skills in crafting and have established yourself among a community of like-minded individuals. Your talent and wealth have freed you from the restrictions of the feudal social order.
 
 **Tool Proficiencies:** One type of artisan's tools
 
