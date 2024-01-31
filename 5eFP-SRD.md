@@ -1364,7 +1364,7 @@ You devoted numerous years of your life to gaining knowledge about the multivers
 
 **Languages:** Two of your choice
 
-**Equipment:** Scholar's kit, alchemist's supplies, or navigator's tools, and a belt pouch containing ⛁
+**Equipment:** Scholar's kit, alchemist's supplies, or navigator's tools; and a belt pouch containing ⛁
 
 ### Feature: Researcher
 
