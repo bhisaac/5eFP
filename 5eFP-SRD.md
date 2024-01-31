@@ -205,7 +205,7 @@ It’s hard to make generalizations about humans, but your human character has t
 
 #### Health
 
-**MAX Wounds:** 6 + Constitution (CON)
+**MAX Wounds:** 5 + Constitution (CON)
 
 #### Proficiencies
 
@@ -579,7 +579,7 @@ As	a	paladin,	you	gain	the	following	class	features.
 
 #### Health
 
-**MAX Wounds:** 5 + Constitution (CON)
+**MAX Wounds:** 4 + Constitution (CON)
 
 #### Proficiencies
 
@@ -624,7 +624,7 @@ As	a	ranger,	you	gain	the	following	class	features.
 
 #### Health
 
-**MAX Wounds:** 5 + Constitution (CON)
+**MAX Wounds:** 4 + Constitution (CON)
 
 #### Proficiencies
 
