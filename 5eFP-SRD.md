@@ -1340,6 +1340,22 @@ As a member of an artisan's guild, you possess great skills in crafting and have
 
 Whenever you spend a downtime round crafting an item, you benefit from completing the downtime round twice. You may spend trade goods as if they were ⛁.
 
+## Hermit
+
+~~You lived in seclusion--either in a sheltered community such as a monastery, or entirely alone--for a formative part of your life. In your time apart from the clamor of society, you found quiet, solitude, and perhaps some of the answers you were looking for.~~
+
+During a significant period of your life, you resided in isolation, either within a protected community like a monastery or completely by yourself. While being away from the busyness of society, you discovered peace, seclusion, and potentially some of the guidance you were looking for.
+
+**Tool Proficiencies:** Herbalism kit
+
+**Languages:** One of your choice
+
+**Equipment:** A scroll case stuffed full of notes from your studies or prayers, and an herbalism kit
+
+### Feature: Discovery
+
+Whenever you discover, add one more choice before choosing.
+
 ## Outlaw
 
 ~~You are an experienced criminal with a history of breaking the law. You have spent much time among other outlaws and still have contacts within the criminal underworld. You're far closer than most people to the seedy underbelly of civilization, and you have survived up to this point by flouting the rules and regulations of society.~~
@@ -1400,7 +1416,7 @@ You were trained at a young age for battle, learning how to handle weapons and a
 
 ### Feature: Military Rank
 
-You have a military rank from your career as a soldier. Soldiers loyal to your former military organization still recognize your authority and influence, and they defer to you if they are of a lower rank. Before deploying onto the world map, you gain a soldier minion under your command who deploys and recalls alongside you. The soldier minion follows your commands to the best of its ability and allows you to remove 1 additional obscuring tile up to two world map tiles away if you are the group token controller. If the soldier minion dies while deployed, remove it from the playing field. If your soldier minion did not die, you gain ⛁ at the start of the downtime phase.
+You have a military rank from your career as a soldier. Soldiers loyal to your former military organization still recognize your authority and influence, and they defer to you if they are of a lower rank. Before deploying onto the world map, you gain a soldier minion under your command who deploys and recalls alongside you. The soldier minion follows your commands to the best of its ability and allows you to remove 1 additional obscuring tile up to 2 squares away if you are the group token controller. If the soldier minion dies while deployed, remove it from the playing field. If your soldier minion did not die, you gain ⛁ at the start of the downtime phase.
 
 ## Street Rat
 
@@ -1412,7 +1428,7 @@ You grew up on the streets alone, fighting for survival every day. You had no fa
 
 ### Feature: Streetwise
 
-If you are the party controller and you move through 1 or more map tiles with the city, dungeon, or road terrains, you gain +1 speed and may move through buildings and end your turn on a building (rooftop) as if they were roads. Your pet critter allows you to remove one additional obscuring map tile up to 2 squares away. Also, your party may act on a surprise round if the party token is on a building, city, dungeon, or road terrain map tile.
+If you are the party controller and you move through 1 or more squares with the city, dungeon, or road terrains, you gain +1 speed and may move through buildings and end your turn on a building (rooftop) as if they were roads. Your pet critter allows you to remove one additional obscuring map tile up to 2 squares away. Also, your party is never surprised when the party token rests on a square with the building, city, dungeon, or road terrain.
 
 ## Background-Name
 
