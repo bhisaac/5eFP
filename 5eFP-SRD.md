@@ -1386,7 +1386,7 @@ You have grown up in an environment far away from civilization and the convenien
 
 ### Feature: Wanderer
 
-While you are the party token controller and while moving through 1 or more squares with natural terrain on the world map, you remove obscuring tiles up to 2 squares away.
+While you are the party token controller and moving through 1 or more squares with natural terrain on the world map, you remove obscuring tiles up to 2 squares away. You automatically detect and disarm any natural traps while moving the party token on the world map. You may also set a trap during your round. You can only have 1 trap set this way per world map. You may use this feature to place a foothold or an objective outlined within your setting handbook on a recently explored world map tile. Once you have used this feature in this way, you cannot do so again until after you recall.
 
 ## Scholar
 
