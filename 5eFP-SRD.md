@@ -1354,7 +1354,7 @@ During a significant period of your life, you resided in isolation, either withi
 
 ### Feature: Discovery
 
-Whenever you discover, add one more choice before choosing.
+Whenever you discover anything, add an additional choice before making a decision.
 
 ## Outlaw
 
@@ -1371,6 +1371,22 @@ You have a long history of violating the law. You have spent a considerable amou
 Your criminal training taught you thieves’ cant, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. Only another creature that knows thieves’ cant understands such messages. It takes four times longer to convey such a message than it does to speak the same idea plainly.
 
 In addition, you understand a set of secret signs and symbols used to convey short, simple messages, such as whether an area is dangerous or the territory of a thieves’ guild, whether loot is nearby, or whether the people in an area are easy marks or will provide a safe house for thieves on the run.
+
+## Outlander
+
+~~You grew up in the wilds, far from civilization and the comforts of town and technology. You've witnessed the migration of herds larger than forests, survived weather more extreme than any city-dweller could comprehend, and enjoyed the solitude of being the only thinking creature for m;iles in any direction. The wilds are in your blood, whether you were a nomad, an explorer, a recluse, a hunter-gatherer, or even a marauder. Even in places where you don't know the specific features of the terrain, you know the ways of the wild.~~
+
+You have grown up in an environment far away from civilization and the conveniences of technology. You have observed the migration of herds larger than forests and survived weather conditions that city-dwellers would find hard to fathom. You have also enjoyed the peace and quiet of being the only sentient being for miles in any direction. The wilderness runs in your veins, whether you were a nomad, an adventurer, a hermit, a hunter-gatherer, or even a raider. Even in places where you are unfamiliar with the specific features of the landscape, you understand the ways of the wild.
+
+**Tool Proficiencies:** One type of musical instrument
+
+**Languages:** One of your choice
+
+**Equipment:** A quarterstaff (staff), a hunting trap, a trophy (trinket) from an animal you hunted, and a belt pouch containing ⛁
+
+### Feature: Wanderer
+
+While you are the party token controller and while moving through 1 or more squares with natural terrain on the world map, you remove obscuring tiles up to 2 squares away.
 
 ## Scholar
 
