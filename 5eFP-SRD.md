@@ -1412,7 +1412,7 @@ You were trained at a young age for battle, learning how to handle weapons and a
 
 **Tool Proficiencies:** One type of gaming set, vehicles (land)
 
-**Equipment:** An insignia of rank, a trophy taken from a fallen enemy (a dagger, broken blade, or piece of a banner), a set of bone dice or deck of cards, and a belt pouch containing ⛁
+**Equipment:** An insignia of rank, a trophy taken from a fallen enemy (a weapon or trinket), a set of bone dice or deck of cards, and a belt pouch containing ⛁
 
 ### Feature: Military Rank
 
