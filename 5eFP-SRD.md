@@ -1125,6 +1125,23 @@ DRUID
 >>> |Mountain|_spider climb_, _spike growth_|
 >>> |Swamp|_acid arrow_, _darkness_|
 
+FIGHTER
+||||
+|-:|:-|:-|
+|**Cost**|**Feature**|**Details**|
+|2⛁|Action Surge|...|
+|3⛁|Martial Archetype|...|
+
+> #### Action Surge
+>> You can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action on top of your regular action and a possible bonus action.
+>>
+>> Once you use this feature, you must finish a short or long rest before you can use it again. Starting at 17th level, you can use it twice before a rest, but only once on the same turn.
+>>  
+> #### Martial Archetype
+>> You choose an archetype that you strive to emulate in your combat styles and techniques, such as Champion. The archetype you choose grants you additional features.
+>>
+>>> **_Champion._** The archetypal Champion focuses on the development of raw physical power honed to deadly perfection. Those who model themselves on this archetype combine rigorous training with physical excellence to deal devastating blows. Your weapon attacks score a critical hit on a roll of 19 or 20.
+
 ## Alignment
 A typical creature in the game world has an alignment, which broadly describes its moral and personal attitudes. Alignment is a combination of two factors: one identifies morality (good, evil, or neutral), and the other describes attitudes toward society and order (lawful, chaotic, or neutral). Thus, nine distinct alignments define the possible combinations.
 
