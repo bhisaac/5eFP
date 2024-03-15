@@ -1142,6 +1142,39 @@ FIGHTER
 >>
 >>> **_Champion._** The archetypal Champion focuses on the development of raw physical power honed to deadly perfection. Those who model themselves on this archetype combine rigorous training with physical excellence to deal devastating blows. Your weapon attacks score a critical hit on a roll of 19 or 20.
 
+MONK
+||||
+|-:|:-|:-|
+|**Cost**|**Feature**|**Details**|
+|2⛁|Ki|...|
+|2⛁|Unormored Movement|...|
+|3⛁|Monastic Tradition|...|
+|3⛁|Deflect Missiles|...|
+
+> #### Ki
+>> Your training allows you to harness the mystic energy of ki. Your access to this energy is represented by a number of ki points. Your monk level determines the number of points you have.
+You can spend these points to fuel various ki features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind.
+>>
+>> When you spend a ki point, it is unavailable until you finish a short or long rest, at the end of which you draw all of your expended ki back into yourself. You must spend at least 30 minutes of the rest meditating to regain your ki points.
+Some of your ki features require your target to make a saving throw to resist the feature’s effects. The saving throw DC is calculated as follows:
+>>
+>> **Ki save DC** = 10 +  WIS
+>>
+>>> **Flurry of Blows.** Immediately after you take the Attack action on your turn, you can spend 1 ki point to make two unarmed strikes as a bonus action.
+>>>
+>>> **Patient Defense.** You can spend 1 ki point to take the Dodge action as a bonus action on your turn.
+>>>
+>>> **Step of the Wind.** You can spend 1 ki point to take the Disengage or Dash action as a bonus action on your turn, and your jump distance is doubled for the turn.
+>>>
+> #### Unarmored Movement
+>> Your speed increases by 2 while you are not wearing armor or wielding a shield.
+>> 
+> #### Monastic Tradition
+>> TBD
+>>
+> #### Deflect Missiles
+>> TBD
+
 ## Alignment
 A typical creature in the game world has an alignment, which broadly describes its moral and personal attitudes. Alignment is a combination of two factors: one identifies morality (good, evil, or neutral), and the other describes attitudes toward society and order (lawful, chaotic, or neutral). Thus, nine distinct alignments define the possible combinations.
 
