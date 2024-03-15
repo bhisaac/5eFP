@@ -1160,12 +1160,12 @@ Some of your ki features require your target to make a saving throw to resist th
 >>
 >> **Ki save DC** = 10 +  WIS
 >>
->>> **Flurry of Blows.** Immediately after you take the Attack action on your turn, you can spend 1 ki point to make two unarmed strikes as a bonus action.
->>>
->>> **Patient Defense.** You can spend 1 ki point to take the Dodge action as a bonus action on your turn.
->>>
->>> **Step of the Wind.** You can spend 1 ki point to take the Disengage or Dash action as a bonus action on your turn, and your jump distance is doubled for the turn.
->>>
+>> **Flurry of Blows.** Immediately after you take the Attack action on your turn, you can spend 1 ki point to make two unarmed strikes as a bonus action.
+>>
+>> **Patient Defense.** You can spend 1 ki point to take the Dodge action as a bonus action on your turn.
+>>
+>> **Step of the Wind.** You can spend 1 ki point to take the Disengage or Dash action as a bonus action on your turn, and your jump distance is doubled for the turn.
+>>
 > #### Unarmored Movement
 >> Your speed increases by 2 while you are not wearing armor or wielding a shield.
 >> 
