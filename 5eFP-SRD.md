@@ -3268,7 +3268,7 @@ You attempt to suppress strong emotions in a group of people. Each humanoid in a
 You can suppress any effect causing a target to be charmed or frightened. When this spell ends, any suppressed effect resumes, provided that its duration has not expired in the meantime.
 Alternatively, you can make a target indifferent about creatures of your choice that it is hostile toward. This indifference ends if the target is attacked or harmed by a spell or if it witnesses any of its friends being harmed. When the spell ends, the creature becomes hostile again, unless the GM rules otherwise.
 
-#### Conjure Animals
+#### Conjure Animal
 |_3rd-­level conjuration_|
 |:-|
 |**Casting Time:** 1 action|
@@ -3276,8 +3276,8 @@ Alternatively, you can make a target indifferent about creatures of your choice 
 |**Components:** V, S|
 |**Duration:** Concentration (encounter)|
 ||
-|You summon a fey spirit that takes the form of a beast and appears in an unoccupied space that you can see within range. Choose one beast of challenge rating 2 or lower. Each beast is also considered fey, and it disappears when it drops to 0 hit points or when the spell ends.|
-|The summoned creature is friendly to you and your companions. Roll initiative for the summoned creature, which has its own turns. It obeys any verbal commands that you issue (no action required by you). If you don’t issue any commands to them, they defend themselves from hostile creatures, but otherwise take no actions.|
+|You summon a fey spirit that takes the form of a beast and appears in an unoccupied space that you can see within range. Choose one beast of challenge rating 2 or lower. The beast is also considered fey, and it disappears when it drops to 0 hit points or when the spell ends.|
+|The summoned creature is friendly to you and your companions. Roll initiative for the summoned creature, which has its own turns. It obeys any verbal commands that you issue (no action required by you). If you don’t issue any commands, the animal defends itself from hostile creatures but otherwise takes no actions.|
 |The GM has the creatures’ statistics.|
 
 
