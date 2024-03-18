@@ -1193,7 +1193,39 @@ SORCERER
 > #### Font of Magic
 >> You tap into a deep wellspring of magic within yourself. This wellspring is represented by sorcery points, which allow you to create a variety of magical effects.
 >>
->>> **Sorcery Points.** You have 2 sorcery points. You regain all spent sorcery points at the beginning of a game session.
+>>> **Sorcery Points.** You have 2 sorcery points. At the beginning of a game session, you regain all spent sorcery points.
+>>>
+>>> **Flexible Casting.** You can use your sorcery points to gain additional sorcerer spell slots, or sacrifice sorcerer spell slots to gain additional sorcery points.
+>>>> **_Creating Spell Slots._** You can transform 2 unexpended sorcery points into one 1st-level spell slot as a bonus action on your turn.
+>>>> 
+>>>> Any spell slot you create with this feature vanishes when you recall to HQ.
+>>>> **_Converting a Spell Slot to Sorcery Points._** As a bonus action on your turn, you can expend one 1st-level sorcerer spell slot and gain 1 sorcery point.
+
+> #### Metamagic
+>> You gain the ability to twist your spells to suit your needs. You gain two of the following Metamagic options of your choice.
+>>
+>> You can use only one Metamagic option on a spell when you cast it, unless otherwise noted.
+>>
+>> **_Careful Spell._** When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell’s full force. To do so, you spend 1 sorcery point and choose a number of those creatures up to your CHA (minimum of one creature). A chosen creature automatically succeeds on its saving throw against the spell.
+>>
+>> **_Distant Spell._** When you cast a spell that has a range of 1 square or greater, you can spend 1 sorcery point to double the range of the spell.
+>> When you cast a spell that has a range of touch, you can spend 1 sorcery point to make the range of the spell 6 squares.
+>>
+>> **_Empowered Spell._** When you roll damage for a spell, you can spend 1 sorcery point to reroll a number of the damage dice up to CHA (minimum of one). You must use the new rolls.
+>>
+>> You can use Empowered Spell even if you have already used a different Metamagic option during the casting of the spell.
+>>
+>> **_Extended Spell._** When you cast a spell that has a duration of encounter, you can spend 1 sorcery point to extend its duration to recall.
+>>
+>> **_Heightened Spell._** When you cast a spell that forces a creature to make a saving throw to resist its effects, you can spend 3 sorcery points to give one target of the spell disadvantage on its first saving throw made against the spell.
+>>
+>> **_Quickened Spell._** When you cast a spell that has a casting time of 1 action, you can spend 2 sorcery points to change the casting time to 1 bonus action for this casting.
+>>
+>> **_Subtle Spell._** When you cast a spell, you can spend 1 sorcery point to cast it without any somatic or verbal components.
+>>
+>> **_Twinned Spell._** When you cast a spell that targets only one creature and doesn’t have a range of self, you can spend a number of sorcery points equal to the spell’s level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip).
+>>
+>> To be eligible, a spell must be incapable of targeting more than one creature at the spell’s current level. For example, _magic missile_ and _scorching ray_ aren’t eligible, but _ray of frost_ is.
 
 ## Alignment
 A typical creature in the game world has an alignment, which broadly describes its moral and personal attitudes. Alignment is a combination of two factors: one identifies morality (good, evil, or neutral), and the other describes attitudes toward society and order (lawful, chaotic, or neutral). Thus, nine distinct alignments define the possible combinations.
