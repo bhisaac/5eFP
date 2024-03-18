@@ -1175,13 +1175,25 @@ Some of your ki features require your target to make a saving throw to resist th
 >>> **Way of the Open Hand.** Monks of the Way of the Open Hand are the ultimate masters of martial arts combat, whether armed or unarmed. They learn techniques to push and trip their opponents, manipulate ki to heal damage to their bodies, and practice advanced meditation that can protect them from harm.
 >>>
 >>>> **Open Hand Technique.** You can manipulate your enemy’s ki when you harness your own. Whenever you hit a creature with one of the attacks granted by your Flurry of Blows, you can impose one of the following effects on that target:
-- It must succeed on a DEX saving throw or be knocked prone.
-- It must make a STR saving throw. If it fails, you can push it up to 3 squares away from you.
-- It can’t take reactions until the end of your next turn.
+>>>> - It must succeed on a DEX saving throw or be knocked prone.
+>>>> - It must make a STR saving throw. If it fails, you can push it up to 3 squares away from you.
+>>>> - It can’t take reactions until the end of your next turn.
 > #### Deflect Missiles
 >> You can use your reaction to deflect or catch the piece of ammunition or missile when you are hit by a ranged weapon attack. When you do so, the damage you take from the attack is reduced by 1 + DEX + your level (minimum 0).
 >>
 >> If you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in one hand and you have at least one hand free. If you catch a missile in this way, you can spend 1 ki point to make a ranged attack with the weapon or piece of ammunition you just caught, as part of the same reaction. You make this attack with proficiency, regardless of your weapon proficiencies, and the missile counts as a monk weapon for the attack, which has a normal range of 4 squares and a long range of 12 squares.
+
+SORCERER
+||||
+|-:|:-|:-|
+|**Cost**|**Feature**|**Details**|
+|2⛁|Font of Magic|...|
+|3⛁|Metamagic|...|
+
+> #### Font of Magic
+>> You tap into a deep wellspring of magic within yourself. This wellspring is represented by sorcery points, which allow you to create a variety of magical effects.
+>>
+>>> **Sorcery Points.** You have 2 sorcery points. You regain all spent sorcery points at the beginning of a game session.
 
 ## Alignment
 A typical creature in the game world has an alignment, which broadly describes its moral and personal attitudes. Alignment is a combination of two factors: one identifies morality (good, evil, or neutral), and the other describes attitudes toward society and order (lawful, chaotic, or neutral). Thus, nine distinct alignments define the possible combinations.
