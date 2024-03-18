@@ -1196,7 +1196,7 @@ SORCERER
 >>> **Sorcery Points.** You have 2 sorcery points. At the beginning of a game session, you regain all spent sorcery points.
 >>>
 >>> **Flexible Casting.** You can use your sorcery points to gain additional sorcerer spell slots, or sacrifice sorcerer spell slots to gain additional sorcery points.
->>>> **_Creating Spell Slots._** You can transform 2 unexpended sorcery points into one 1st-level spell slot as a bonus action on your turn.
+>>>> **_Creating Spell Slots._** You can transform 2 unexpended sorcery points into one 1st-level sorcerer spell slot as a bonus action on your turn.
 >>>> 
 >>>> Any spell slot you create with this feature vanishes when you recall to HQ.
 >>>> **_Converting a Spell Slot to Sorcery Points._** As a bonus action on your turn, you can expend one 1st-level sorcerer spell slot and gain 1 sorcery point.
