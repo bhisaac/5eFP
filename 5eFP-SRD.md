@@ -1199,6 +1199,7 @@ SORCERER
 >>>> **_Creating Spell Slots._** You can transform 2 unexpended sorcery points into one 1st-level sorcerer spell slot as a bonus action on your turn.
 >>>> 
 >>>> Any spell slot you create with this feature vanishes when you recall to HQ.
+>>>> 
 >>>> **_Converting a Spell Slot to Sorcery Points._** As a bonus action on your turn, you can expend one 1st-level sorcerer spell slot and gain 1 sorcery point.
 
 > #### Metamagic
