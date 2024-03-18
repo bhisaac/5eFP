@@ -1212,7 +1212,7 @@ SORCERER
 >> **_Distant Spell._** When you cast a spell that has a range of 1 square or greater, you can spend 1 sorcery point to double the range of the spell.
 >> When you cast a spell that has a range of touch, you can spend 1 sorcery point to make the range of the spell 6 squares.
 >>
->> **_Empowered Spell._** When you roll damage for a spell, you can spend 1 sorcery point to reroll a number of the damage dice up to CHA (minimum of one). You must use the new rolls.
+>> **_Empowered Spell._** When a spell deals damage, you can spend 2 sorcery points to increase the spell damage by +1.
 >>
 >> You can use Empowered Spell even if you have already used a different Metamagic option during the casting of the spell.
 >>
