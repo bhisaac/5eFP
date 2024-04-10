@@ -1316,11 +1316,12 @@ If you have inspiration, you can expend it when you make an attack roll, saving 
 Additionally, if you have inspiration, you can reward another player for good roleplaying, clever thinking, or simply doing something exciting in the game. When another player character does something that really contributes to the story in a fun and interesting way, you can give up your inspiration to give that character inspiration.
 
 ### Inspired Skills
-***INSIGHT.*** Your character can easily determine sincerity, true motives, and intentions within the current scene. Illusions, misdirections, disguises, or actions intending to deceive appear transparent to you. Your GM refunds your inspiration if no additional information is gained.
+
+***INSIGHT.*** Your Insight reveals hidden or obscured truths within the encounter's current scene. A scene may or may not have hidden or obscured truths within it. You might use Insight when searching for lies or predicting something's next move. Doing so involves gleaning clues from body language, speech habits, and changes in mannerisms. This awareness extends beyond surface impressions, revealing the underlying truth of your witnessing. **With inspiration** your GM reveals to you all the deceptive elements contained within the current scene. Features granted through spell effects specifically designed to prevent sight, such as _invisibility_ are not revealed; instead, their presence is confirmed, and you can sense the subtle flows of air and energy that the spell displaces in its wake. This awareness lasts until the beginning of your next turn. Your GM refunds your inspiration if no additional information is gained.
 
 ***MEDICINE.*** Choose any number of targets your character can see within 30 feet of you who are unconscious or dying. Each target immediately stabilizes and wakes up with minimum health.
 
-***PERCEPTION.*** Your character receives all available pieces of information regarding the current scene. Hidden doors, creatures, traps, ambushes, whispered conversations—anything arising from sense data or information gained through the five senses. Your GM refunds your inspiration if no additional information is gained.
+***PERCEPTION.*** Your character receives all available pieces of information regarding the current scene. Hidden doors, creatures, traps, ambushes, whispered conversations—anything arising from sense data or information gained through the five senses. Your GM refunds your inspiration if no additional information is gained. This awareness lasts until the beginning of your next turn.
 
 ***PERFORMANCE.*** You decide the outcome of the next action your character declares on their turn. You must use your inspiration this way before taking an action or rolling any dice. If the result of your chosen action further affects you on subsequent rounds, roll all attacks, ability checks, and saves relating to the chosen action with advantage until the end of the encounter.
 
