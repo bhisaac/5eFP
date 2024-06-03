@@ -1671,20 +1671,7 @@ Armor listed with disadvantage imposes disadvantage to any Performance skill che
 When wearing armor that is listed as having Max DEX +2, your Dexterity modifier can only modify your Armor Class (AC) by a maximum of +2. This means that if you have DEX +3 and you wear medium armor with Max DEX +2, you can only apply a +2 modifier to your AC, and the remaining +1 modifier is ignored.
 
 ### Getting Into and Out of Armor
-The time it takes to don or doff armor depends on the armor’s category.
-
-***Don.*** This is the time it takes to put on armor. You benefit from the armor’s AC only if you take the full time to don the suit of armor.
-
-***Doff.*** This is the time it takes to take off armor. If you have help, reduce this time by half.
-
-**Donning and Doffing Armor**
-||||
-|:-|:-|:-|
-|**Category**|**Don**|**Doff**|
-|Light|1 minute|1 minute|
-|Medium|5 minutes|1 minute|
-|Heavy|10 minutes|5 minutes|
-|Shield|1 action|1 action|
+You may don or doff armor as part of completing a Rest (Short Rest).
 
 ## Weapons
 Your class grants proficiency in certain weapons, reflecting both the class’s focus and the tools you are most likely to use. Whether you favor a longsword or a longbow, your weapon and your ability to wield it effectively can mean the difference between life and death while adventuring.
