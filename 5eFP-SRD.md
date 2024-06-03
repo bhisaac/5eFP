@@ -2293,7 +2293,7 @@ You usually gain advantage or disadvantage through the use of special abilities,
 
 ## Proficiency Bonus
 
-Characters have a proficiency bonus which is equal to your level. Monsters also have this bonus. The bonus is used in the rules on ability checks, saving throws, and attack rolls.
+Characters have a proficiency bonus which is equal to their level. Monsters also have this bonus. The bonus is used in the rules on ability checks, saving throws, and attack rolls.
 
 Your proficiency bonus is typically added to a single die roll or other number once. For example, if two different rules say you can add your proficiency bonus to a Wisdom saving throw, you nevertheless add the bonus only once when you make the save.
 
