@@ -1686,11 +1686,11 @@ Proficiency with a weapon allows you to add your LEVEL to the attack roll for an
 ### Weapon Properties
 Many weapons have special properties related to their use, as shown in the Weapons table.
 
-**_Ammunition._** You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Ammunition is a special multi-use item. Each time you attack with the weapon, roll 1 action die. If you roll only 1 action, your ammunition depletes (turn the ammunition card sideways). If your ammunition is already depleted, you have only one piece of ammunition left, represented by turning the card upside down. After using the last piece of ammunition, return the ammunition card to the equipment deck. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-­handed weapon).
+**_Ammunition._** You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Ammunition is a special multi-use item. Each time you attack with the weapon, roll 1 action die. If you roll only 1 action, your ammunition depletes indicated by turning the ammunition card sideways. If your ammunition is already depleted, you have only one piece of ammunition left, represented by turning the card upside down. After using the last piece of ammunition, discard the ammunition card to the equipment deck discard pile. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-­handed weapon).
 
-You may purchase more ammunition during a downtime or preparation round before deploying onto the world map by spending up to 3⛁. For each ⛁ spent, you roll one more action die when determining whether or not your ammunition depletes.
+You may purchase more ammunition during a downtime or preparation round before deploying onto the world map by spending up to 3⛁. For each ⛁ spent, you roll one more action die when determining whether or not your ammunition depletes. Ammunition may use a maximum of three action dice.
 
-If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon (see “Improvised Weapons” later in the section). A sling must be loaded to deal any damage when used in this way.
+Ammunition may be used to make melee attacks. If you are proficient with the weapon that uses the ammunition, you are proficient with melee attacks using that weapon's ammunition as well. Ammunition deals 1 point of damage. If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon (see “Improvised Weapons” later in the section). A sling must be loaded to deal any damage when used in this way.
 
 **_Finesse._** When making an attack with a finesse weapon, you use your choice of your STR or DEX for attack rolls.
 
