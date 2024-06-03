@@ -1700,6 +1700,12 @@ Ammunition may be used to make melee attacks. If you are proficient with the wea
 
 **_Loading._** Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an action, bonus action, or reaction to fire it, regardless of the number of attacks you can normally make.
 
+**_Multi-Use._** This weapon can be used multiple times, but each time it is used, it is possible that it will deplete, like ammunition. Each time you attack with the weapon, roll 1 action die. If you roll only 1 action, the multi-use weapon depletes indicated by turning the weapon card sideways. If your multi-use weapon is already depleted, you have only one left, represented by turning the card upside down. After using the last multi-use weapon, discard the weapon card to the equipment deck discard pile. Drawing the multi-use item from a quiver, case, or other container is part of the attack.
+
+You may purchase more multi-use items during a downtime or preparation round before deploying onto the world map by spending up to 3⛁. For each ⛁ spent on a chosen multi-use weapon, you roll one more action die when determining whether or not your multi-use weapon depletes. Ammunition may use a maximum of three action dice.
+
+Ammunition may be used to make melee attacks. If you are proficient with the weapon that uses the ammunition, you are proficient with melee attacks using that weapon's ammunition as well. Ammunition deals 1 point of damage. If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon (see “Improvised Weapons” later in the section). A sling must be loaded to deal any damage when used in this way.
+
 **_Range._** A weapon that can be used to make a ranged attack has a range in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon’s normal range in feet, and the second indicates the weapon’s long range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can’t attack a target beyond the weapon’s long range.
 
 **_Reach._** This weapon adds +1 square to your reach when you attack with it, as well as when determining your reach for opportunity attacks with it.
@@ -1736,11 +1742,11 @@ When you use an action, bonus action, or reaction to attack with a net, you can 
 |:-|:-:|:-|:-:|:-|
 |**Name**|**Cost**|**Damage**|**Slots**|**Properties**|
 |Club|1⛁|1 bludgeoning|1|Light|
-|Dagger|1⛁|1 piercing|1|Finess, light, thrown (range 4/12)|
+|Dagger|1⛁|1 piercing|1|Finess, light, multi-use, thrown (range 4/12)|
 |Greatclub|1⛁|1 bludgeoning|2|Two-handed|
-|Handaxe|1⛁|1 slashing|1|Light, thrown (range 4/12)|
-|Javelin|1⛁|1 piercing|1|Thrown (range 6/24)|
-|Light hammer|1⛁|1 bludgeoning|1|Light, thrown (range 4/12)|
+|Handaxe|1⛁|1 slashing|1|Light, multi-use, thrown (range 4/12)|
+|Javelin|1⛁|1 piercing|1|Multi-use, thrown (range 6/24)|
+|Light hammer|1⛁|1 bludgeoning|1|Light, multi-use, thrown (range 4/12)|
 |Mace|1⛁|1 bludgeoning|1|--|
 |Quarterstaff|1⛁|1 bludgeoning|2|Versatile|
 |Sickle|1⛁|1 slashing|1|Light|
@@ -1751,7 +1757,7 @@ When you use an action, bonus action, or reaction to attack with a net, you can 
 |:-|:-:|:-|:-:|:-|
 |**Name**|**Cost**|**Damage**|**Slots**|**Properties**|
 |Crossbow, light|2⛁|1 piercing|1|Ammunition (range 16/64), loading, two-handed|
-|Dart|1⛁|1 piercing|1|Finesse, thrown (range 4/12)|
+|Dart|1⛁|1 piercing|1|Finesse, multi-use, thrown (range 4/12)|
 |Shortbow|2⛁|1 percing|1|Ammunition (range 16/64), two-handed|
 |Sling|1⛁|1 bludgeoning|1|Ammunition (range 16/24)|
 
