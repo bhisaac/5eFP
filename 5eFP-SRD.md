@@ -2257,6 +2257,56 @@ You’ve developed the skills necessary to hold your own in close-­quarters gra
 - You have advantage on attack rolls against a creature you are grappling.
 - You can use your action to try to pin a creature grappled by you. To do so, make another grapple check. If you succeed, you and the creature are both restrained until the grapple ends.
 
+# Using Ability Scores
+
+Six abilities provide a quick description of every creature’s physical and mental characteristics:
+- Strength, measuring physical power
+- Dexterity, measuring agility
+- Constitution, measuring endurance
+- Intelligence, measuring reasoning and memory
+- Wisdom, measuring awareness and true will
+- Charisma, measuring force of personality
+
+Is a character muscle-­bound and insightful? Brilliant and charming? Nimble and hardy? Ability scores define these qualities—a creature’s assets as well as weaknesses.
+
+The three main rolls of the game—the ability check, the saving throw, and the attack roll—rely on the six ability scores. The book’s introduction describes the basic rule behind these rolls: roll a d20, add an ability modifier derived from one of the six ability scores, and compare the total to a target number.
+
+## Ability Scores and Modifiers
+
+Each of a creature’s abilities has a score, a number that defines the magnitude of that ability. An ability score is not just a measure of innate capabilities, but also encompasses a creature’s training and competence in activities related to that ability.
+
+A score of +0 is the normal human average, but adventurers and many monsters are a cut above average in most abilities. A score of +4 is the highest that a person usually reaches. Adventurers can have scores as high as +5, and monsters and divine beings can have scores as high as +10.
+
+Because ability modifiers affect almost every attack roll, ability check, and saving throw, ability modifiers come up in play more often than their associated scores.
+
+## Advantage and Disadvantage
+
+Sometimes a special ability or spell tells you that you have advantage or disadvantage on an ability check, a saving throw, or an attack roll. When that happens, you roll a second d20 when you make the roll. Use the higher of the two rolls if you have advantage, and use the lower roll if you have disadvantage. For example, if you have disadvantage and roll a 17 and a 5, you use the 5. If you instead have advantage and roll those numbers, you use the 17.
+
+If multiple situations affect a roll and each one grants advantage or imposes disadvantage on it, you don’t roll more than one additional d20. If two favorable situations grant advantage, for example, you still roll only one additional d20.
+
+If circumstances cause a roll to have both advantage and disadvantage, you are considered to have neither of them, and you roll one d20. This is true even if multiple circumstances impose disadvantage and only one grants advantage or vice versa. In such a situation, you have neither advantage nor disadvantage.
+
+When you have advantage or disadvantage and something in the game, such as the halfling’s Lucky trait, lets you reroll the d20, you can reroll only one of the dice. You choose which one. For example, if a halfling has advantage or disadvantage on an ability check and rolls a 1 and a 13, the halfling could use the Lucky trait to reroll the 1.
+
+You usually gain advantage or disadvantage through the use of special abilities, actions, or spells. Inspiration can also give a character advantage. The GM can also decide that circumstances influence a roll in one direction or the other and grant advantage or impose disadvantage as a result.
+
+## Proficiency Bonus
+
+Characters have a proficiency bonus which is equal to your level. Monsters also have this bonus. The bonus is used in the rules on ability checks, saving throws, and attack rolls.
+
+Your proficiency bonus is typically added to a single die roll or other number once. For example, if two different rules say you can add your proficiency bonus to a Wisdom saving throw, you nevertheless add the bonus only once when you make the save.
+
+Occasionally, your proficiency bonus might be added one additional time (to a maximum of two proficiency bonuses). For example, the rogue’s Expertise feature allows you to add your proficiency bonus twice for certain ability checks. If a circumstance suggests that your proficiency bonus applies more than twice to the same roll, you still add it only twice.
+
+By the same token, if a feature or effect allows you to add an additional proficiency bonus when making an ability check that wouldn’t normally benefit from your proficiency bonus, you still don’t add the bonus to the check. For that check, you do not have a proficiency bonus. Only ability checks you are proficient with gain an additional proficiency bonus. For instance, if you lack proficiency in the History skill, you gain no benefit from a feature that lets you add an additional proficiency bonus when you make Intelligence (History) checks.
+
+In general, you don’t add an additional proficiency bonus for attack rolls or saving throws. If a feature or effect allows you to do so, these same rules apply.
+
+## Ability Checks
+
+TBA.
+
 # Forming a Group
 
 Unlike traditional tabletop roleplaying games, 5eFP has no set group or time to play. The game master (GM) posts available days and times for game sessions. Players then choose the best day and time for their schedule based on GM availability. The player who initiates forming a group becomes the group leader. A 5eFP group contains a minimum of three PCs and a maximum of five PCs.
