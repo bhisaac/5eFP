@@ -2299,7 +2299,7 @@ Your proficiency bonus is typically added to a single die roll or other number o
 
 Occasionally, your proficiency bonus might be added one additional time (to a maximum of two proficiency bonuses). For example, the rogue’s Expertise feature allows you to add your proficiency bonus twice for certain ability checks. If a circumstance suggests that your proficiency bonus applies more than twice to the same roll, you still add it only twice.
 
-By the same token, if a feature or effect allows you to add an additional proficiency bonus when making an ability check that wouldn’t normally benefit from your proficiency bonus, you still don’t add the bonus to the check. For that check, you do not have a proficiency bonus. Only ability checks you are proficient with gain an additional proficiency bonus. For instance, if you lack proficiency in the History skill, you gain no benefit from a feature that lets you add an additional proficiency bonus when you make Intelligence (History) checks.
+By the same token, if a feature or effect allows you to add an additional proficiency bonus when making an ability check that wouldn’t normally benefit from your proficiency bonus, you still don’t add the bonus to the check. For that check, you do not have a proficiency bonus. Only ability checks you are proficient with gain an additional proficiency bonus. For instance, if you lack proficiency in the Performance skill, you gain no benefit from a feature that lets you add an additional proficiency bonus when you make Performance checks.
 
 In general, you don’t add an additional proficiency bonus for attack rolls or saving throws. If a feature or effect allows you to do so, these same rules apply.
 
