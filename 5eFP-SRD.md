@@ -217,7 +217,7 @@ It’s hard to make generalizations about humans, but your human character has t
 
 **Abilities:** Strength (STR), Constitution (CON)
 
-#### Equipment
+Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 - (*a*) a greataxe or (*b*) any martial melee weapon
