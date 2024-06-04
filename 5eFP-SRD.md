@@ -1490,7 +1490,7 @@ You have grown up in an environment far away from civilization and the convenien
 
 ### Feature: Wanderer
 
-While you are the party token controller and moving through 1 or more squares with natural terrain on the world map, you remove obscuring tiles up to 2 squares away. You automatically detect and disarm any natural traps while moving the party token on the world map. You may also set a trap during your round. You can only have 1 trap set this way per world map. You may use this feature to place a foothold or an objective outlined within your setting handbook on a recently explored world map tile. Once you have used this feature in this way, you cannot do so again until after you recall.
+While you are the party token controller, you reveal obscuring tiles up to 2 squares away provided you start your turn on natural terrain. You automatically detect and disarm any natural traps while moving the party token through natural terrain. You may set a natural trap during your round. You can only have 1 trap set this way per world map. When you use this feature to set a new trap, any previously set traps are removed. You may use this feature to place a foothold or an objective outlined within your setting handbook on an explored world map tile within 2 squares. Once you have used this feature in this way, you cannot do so again until after you recall.
 
 ## Scholar
 
@@ -1602,7 +1602,7 @@ PCs may choose to create a magic item marketplace by unlocking this building thr
 
 **Gems, Jewelry, and Art Objects.** These items are included in the description of coins. Coins do not differentiate between coins, gems, jewelry, and art for ease of use and simplicity.
 
-**Trade Goods.** On the borderlands, many people conduct transactions through barter. Like gems and art objects, trade goods—bars of iron, bags of salt, livestock, and so on—retain their full value in the market and can be used as currency.
+**Trade Goods.** On the borderlands (the world map tiles furthest from HQ), many people conduct transactions through barter. Trade goods—bars of iron, bags of salt, livestock, and so on—retain their full value in the market and can be used as currency. You may spend 1 or more trade goods as if they were an equivalent amount of ⛁ within the level 3 and level 6 areas. Spent trade goods are sent to the equipment discard pile.
 
 ## Armor
 Fantasy gaming worlds are a vast tapestry made up of many different cultures, each with its own technology level. For this reason, adventurers have access to a variety of armor types, ranging from leather armor to chain mail to costly plate armor, with several other kinds of armor in between. The Armor table collects the most commonly available types of armor found in the game and separates them into four categories: cloth, leather, chain, and plate. Many warriors supplement their armor with a shield.
@@ -1611,7 +1611,7 @@ The Armor table shows the cost, weight, and other properties of the common types
 
 ***Armor Proficiency.*** Anyone can put on a suit of armor or strap a shield to an arm. Only those proficient in the armor’s use know how to wear it effectively, however. Your class gives you proficiency with certain types of armor. If you wear armor that you lack proficiency with, you have disadvantage on any skill check, saving throw, or attack roll that involves STR or DEX, and you can’t cast spells.
 
-***Armor Class (AC).*** Armor protects its wearer from attacks. The armor (and shield) you wear determines your base Armor Class.
+***Armor Class (AC).*** Armor protects its wearer from attacks. The armor (and shield) you wear determines your AC.
 
 ***Heavy Armor.*** Heavier armor interferes with the wearer’s ability to move quickly, stealthily, and freely. If the Armor table shows “Str +1” or “Str +2”, the armor reduces the wearer’s speed by 2 squares unless the wearer has a STR score equal to or higher than the listed score.
 
@@ -1700,13 +1700,11 @@ Ammunition may be used to make melee attacks. If you are proficient with the wea
 
 **_Loading._** Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an action, bonus action, or reaction to fire it, regardless of the number of attacks you can normally make.
 
-**_Multi-Use._** This weapon can be used multiple times, but each time it is used, it is possible that it will deplete, like ammunition. Each time you attack with the weapon, roll 1 action die. If you roll only 1 action, the multi-use weapon depletes indicated by turning the weapon card sideways. If your multi-use weapon is already depleted, you have only one left, represented by turning the card upside down. After using the last multi-use weapon, discard the weapon card to the equipment deck discard pile. Drawing the multi-use item from a quiver, case, or other container is part of the attack.
+**_Multi-Use._** This weapon can be used multiple times, but each time it is used, there is a chance it will deplete, like ammunition. Each time you attack with a multi-use weapon, roll 1 action die. If you roll only 1 action, the multi-use weapon depletes indicated by turning the weapon card sideways. If your multi-use weapon is already depleted, you have only one left, represented by turning the card upside down. After using the last multi-use weapon, discard the weapon card to the equipment deck discard pile. Drawing the multi-use item from a quiver, case, or other container is part of the attack.
 
 You may purchase more multi-use items during a downtime or preparation round before deploying onto the world map by spending up to 3⛁. For each ⛁ spent on a chosen multi-use weapon, you roll one more action die when determining whether or not your multi-use weapon depletes. Ammunition may use a maximum of three action dice.
 
-Ammunition may be used to make melee attacks. If you are proficient with the weapon that uses the ammunition, you are proficient with melee attacks using that weapon's ammunition as well. Ammunition deals 1 point of damage. If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon (see “Improvised Weapons” later in the section). A sling must be loaded to deal any damage when used in this way.
-
-**_Range._** A weapon that can be used to make a ranged attack has a range in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon’s normal range in feet, and the second indicates the weapon’s long range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can’t attack a target beyond the weapon’s long range.
+**_Range._** A weapon that can be used to make a ranged attack has a range in parentheses after the ammunition or thrown property. The range lists the weapon’s normal range in squares. You may make a ranged attack beyond the weapon's normal range, but doing so imposes disadvantage on the attack roll.
 
 **_Reach._** This weapon adds +1 square to your reach when you attack with it, as well as when determining your reach for opportunity attacks with it.
 
@@ -1716,7 +1714,7 @@ Ammunition may be used to make melee attacks. If you are proficient with the wea
 
 **_Two-­Handed._** This weapon requires two hands when you attack with it.
 
-**_Versatile._** This weapon can be used with one or two hands. A damage value in parentheses appears with the property—the damage when the weapon is used with two hands to make a melee attack.
+~~**_Versatile._** This weapon can be used with one or two hands. A versatile weapon wielded in both hands deals an extra +1 damage. When a versatile weapon is transformed into a magic weapon, the magic property overrides the weapon's versatile property.~~
 
 #### Improvised Weapons
 Sometimes characters don’t have their weapons and have to attack with whatever is at hand. An improvised weapon includes any object you can wield in one or two hands, such as broken glass, a table leg, a frying pan, a wagon wheel, or a dead goblin.
@@ -1742,42 +1740,42 @@ When you use an action, bonus action, or reaction to attack with a net, you can 
 |:-|:-:|:-|:-:|:-|
 |**Name**|**Cost**|**Damage**|**Slots**|**Properties**|
 |Club|1⛁|1 bludgeoning|1|Light|
-|Dagger|1⛁|1 piercing|1|Finess, light, multi-use, thrown (range 4/12)|
+|Dagger|1⛁|1 piercing|1|Finess, light, multi-use, thrown (range 4)|
 |Greatclub|1⛁|1 bludgeoning|2|Two-handed|
-|Handaxe|1⛁|1 slashing|1|Light, multi-use, thrown (range 4/12)|
-|Javelin|1⛁|1 piercing|1|Multi-use, thrown (range 6/24)|
-|Light hammer|1⛁|1 bludgeoning|1|Light, multi-use, thrown (range 4/12)|
+|Handaxe|1⛁|1 slashing|1|Light, multi-use, thrown (range 4)|
+|Javelin|1⛁|1 piercing|1|Multi-use, thrown (range 6)|
+|Light hammer|1⛁|1 bludgeoning|1|Light, multi-use, thrown (range 4)|
 |Mace|1⛁|1 bludgeoning|1|--|
-|Quarterstaff|1⛁|1 bludgeoning|2|Versatile|
+|Quarterstaff|1⛁|1 bludgeoning|2|--|
 |Sickle|1⛁|1 slashing|1|Light|
-|Spear|1⛁|1 piercing|1|Thrown (range 4/12), versatile|
+|Spear|1⛁|1 piercing|1|Thrown (range 4)|
 
 **SIMPLE RANGED WEAPONS**
 ||||||
 |:-|:-:|:-|:-:|:-|
 |**Name**|**Cost**|**Damage**|**Slots**|**Properties**|
-|Crossbow, light|2⛁|1 piercing|1|Ammunition (range 16/64), loading, two-handed|
-|Dart|1⛁|1 piercing|1|Finesse, multi-use, thrown (range 4/12)|
-|Shortbow|2⛁|1 percing|1|Ammunition (range 16/64), two-handed|
-|Sling|1⛁|1 bludgeoning|1|Ammunition (range 16/24)|
+|Crossbow, light|2⛁|1 piercing|1|Ammunition (range 16), loading, two-handed|
+|Dart|1⛁|1 piercing|1|Finesse, multi-use, thrown (range 4)|
+|Shortbow|2⛁|1 percing|1|Ammunition (range 16), two-handed|
+|Sling|1⛁|1 bludgeoning|1|Ammunition (range 16)|
 
 **MARTIAL MELEE WEAPONS**
 ||||||
 |:-|:-:|:-|:-:|:-|
 |**Name**|**Cost**|**Damage**|**Slots**|**Properties**|
-|Battleaxe|2⛁|1 slashing|1|Versatile|
+|Battleaxe|2⛁|1 slashing|1|--|
 |Flail|2⛁|1 bludgeoning|1|--|
 |Greataxe|4⛁|2 slashing|2|Heavy, two-handed|
 |Halberd|2⛁|2 slashing|3|Heavy, reach, two-handed|
 |Lance|2⛁|2 piercing|4|Reach, special|
-|Longsword|2⛁|1 slashing|1|Versatile|
+|Longsword|2⛁|1 slashing|1|--|
 |Maul|2⛁|2 bludgeoning|2|Heavy, two-handed|
 |Morningstar|2⛁|1 piercing|1|--|
 |Pike|1⛁|2 piercing|4|Heavy, reach, two-handed|
 |Rapier|4⛁|1 piercing|1|Finesse|
 |Scimitar|4⛁|1 slashing|1|Finess, light|
 |Shortsword|2⛁|1 piercing|1|Finess, light|
-|Trident|2⛁|1 piercing|1|Thrown, versatile|
+|Trident|2⛁|1 piercing|1|Thrown (range 4)|
 |Warhammer|2⛁|1 bludgeoning|1|Versatile|
 |Whip|1⛁|1 slashing|1|Finesse, reach|
 
@@ -1785,11 +1783,11 @@ When you use an action, bonus action, or reaction to attack with a net, you can 
 ||||||
 |:-|:-:|:-|:-:|:-|
 |**Name**|**Cost**|**Damage**|**Slots**|**Properties**|
-|Blowgun|2⛁|1 piercing|1|Ammunition (range 5/20), loading|
-|Crossbow, hand|6⛁|1 piercing|1|Ammunition (range 6/24), light, loading|
-|Crossbow, heavy|4⛁|2 piercing|3|Ammunition (range 20/80), heavy, loading, two-handed|
-|Longbow|4⛁|1 piercing|2|Ammunition (range 30/120), heavy, two-handed|
-|Net|1⛁|--|1|Special, thrown (range 1/3)|
+|Blowgun|2⛁|1 piercing|1|Ammunition (range 5), loading|
+|Crossbow, hand|6⛁|1 piercing|1|Ammunition (range 6), light, loading|
+|Crossbow, heavy|4⛁|2 piercing|3|Ammunition (range 20), heavy, loading, two-handed|
+|Longbow|4⛁|1 piercing|2|Ammunition (range 30), heavy, two-handed|
+|Net|1⛁|--|1|Special, thrown (range 1)|
 
 ### Adventuring Gear
 This section describes items that have special rules or require further explanation.
