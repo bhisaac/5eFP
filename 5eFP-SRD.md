@@ -1702,7 +1702,7 @@ Ammunition may be used to make melee attacks. If you are proficient with the wea
 
 **_Multi-Use._** This weapon can be used multiple times, but each time it is used, there is a chance it will deplete, like ammunition. Each time you attack with a multi-use weapon, roll 1 action die. If you roll only 1 action, the multi-use weapon depletes indicated by turning the weapon card sideways. If your multi-use weapon is already depleted, you have only one left, represented by turning the card upside down. After using the last multi-use weapon, discard the weapon card to the equipment deck discard pile. Drawing the multi-use item from a quiver, case, or other container is part of the attack.
 
-You may purchase more multi-use items during a downtime or preparation round before deploying onto the world map by spending up to 3⛁. For each ⛁ spent on a chosen multi-use weapon, you roll one more action die when determining whether or not your multi-use weapon depletes. Ammunition may use a maximum of three action dice.
+You may purchase more multi-use items during a downtime or preparation round before deploying onto the world map by spending up to 3⛁. For each ⛁ spent on a chosen multi-use weapon, you roll one more action die when determining whether or not your multi-use weapon depletes. Ammunition may use a maximum of three action dice. Remove all depletion on all multi-use items, represented by returning the equipment card to its upright position, after spending ⛁ on Rest and Repairs.
 
 **_Range._** A weapon that can be used to make a ranged attack has a range in parentheses after the ammunition or thrown property. The range lists the weapon’s normal range in squares. You may make a ranged attack beyond the weapon's normal range, but doing so imposes disadvantage on the attack roll.
 
@@ -1721,10 +1721,10 @@ Sometimes characters don’t have their weapons and have to attack with whatever
 
 Often, an improvised weapon is similar to an actual weapon and can be treated as such. For example, a table leg is akin to a club. At the GM’s option, characters proficient with a weapon can use a similar object as if it were that weapon and add their LEVEL to its attack bonus.
 
-An object that bears no resemblance to a weapon deals 1 damage (the GM assigns a damage type appropriate to the object). If a character uses a ranged weapon to make a melee attack, or throws a melee weapon that does not have the thrown property, it also deals 1 damage. An improvised thrown weapon has a normal range of 4 squares and a long range of 12 squares.
+An object that bears no resemblance to a weapon deals 1 damage (the GM assigns a damage type appropriate to the object). If a character uses a ranged weapon to make a melee attack, or throws a melee weapon that does not have the thrown property, it also deals 1 damage. An improvised thrown weapon has range 4.
 
 #### Silvered Weapons
-Some monsters that have immunity or resistance to nonmagical weapons are susceptible to silver weapons, so cautious adventurers invest extra coin to plate their weapons with silver. You can silver a single weapon or one ammunition at a forge for 6⛁. You may spend silver to reduce this cost to 3⛁. This cost represents not only the price of the silver, but the time and expertise needed to add silver to the weapon without making it less effective.
+Some monsters that have immunity or resistance to nonmagical weapons are susceptible to silver weapons, so cautious adventurers invest a little extra to plate their weapons with silver. You can silver a single weapon or ammunition at a forge for 6⛁. You may spend trade goods silver (ore or bar) to reduce this cost to 3⛁. This cost represents not only the price of the silver, but the time and expertise needed to add silver to the weapon without making it less effective.
 
 #### Special Weapons
 Weapons with special rules are described here.
