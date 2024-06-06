@@ -966,7 +966,7 @@ Each time you complete a Spells upgrade, you can add two wizard spells of your c
 
 #### Arcane Recovery
 
-You have learned to regain some of your magical energy by studying your spellbook. Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than your wizard level, and none of the slots can be 6th level or higher.
+You have learned to regain some of your magical energy by studying your spellbook. Once per recall, when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than your wizard level, and none of the slots can be 6th level or higher.
 
 For example, if you’re a 2nd-­level wizard, you can recover up to two levels worth of spell slots. You can recover either a 2nd-­level spell slot or two 1st-­level spell slots.
 
