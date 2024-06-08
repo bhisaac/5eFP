@@ -2368,13 +2368,13 @@ When PCs form a group, they choose one of three beneficial status effects that a
 
 ### Defender
 
-- **Act First.** You may take one turn before rolling initiative. If you do, skip your first round and resume normal gameplay afterward.
+- **Act First.** At the start of an encounter and before any initiative is rolled, you take your turn first. After completing your turn, all initiatives are rolled as normal. Skip round 1, resuming normal gameplay afterward.
 - **Taunt.** Your attacks, opposed or contested skills, spells, and features are difficult to ignore. If you attack, damage, or otherwise affect a minion, elite, or boss, they gain the taunted condition (see Conditions). Minions, elites, and bosses automatically gain the taunted condition at the beginning of their turn if you are the closest visible target. Minions, elites, and bosses lose the taunted condition whenever you are unconscious or incapacitated.
 - **Soak.** At the beginning of a combat encounter, you gain Bolster 2.
 
 ### Healer
 
-- The first time you target a creature with a spell, attack, ability check, or feature on each of your turns, resolve the spell, attack, or feature as normal. Afterward, you may choose a different creature within 1 square of your target. The chosen creature receives 1 point of healing and may make an additional saving throw to end an ongoing negative condition.
+- The first time you target a creature with a spell, attack, ability check, or feature on each of your turns, resolve the spell, attack, or feature as normal. Afterward, you may choose a different creature within 1 square of your target. The chosen creature receives 1 point of healing and may make an additional saving throw to end one ongoing negative condition.
 
 ### Damage
 
