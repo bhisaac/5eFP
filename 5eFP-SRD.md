@@ -2339,7 +2339,7 @@ Your successful Insight check reveals one hidden or obscured truth within the cu
 
 > **INSPIRED:** Your GM reveals to you all the hidden or obscured truths contained within the current scene. Features granted through spell effects specifically designed to prevent sight, such as _invisibility_ are not revealed; instead, their presence is confirmed, and you can sense the subtle flows of air and energy that the spell displaces in its wake. This awareness lasts until the beginning of your next turn. Your GM refunds any spent inspiration if little or no additional information is revealed.
 
-|Chosen Ability Score|Aspect|
+||Aspect|
 |:-|:-|
 |STR|You can push through adversity long enough to uncover hidden truths.|
 |DEX|Your first impression of an encounter rarely misses the mark.|
