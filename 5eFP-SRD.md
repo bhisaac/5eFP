@@ -1315,10 +1315,6 @@ If you have inspiration, you can expend it when you make an attack roll, saving 
 
 Additionally, if you have inspiration, you can reward another player for good roleplaying, clever thinking, or simply doing something exciting in the game. When another player character does something that really contributes to the story in a fun and interesting way, you can give up your inspiration to give that character inspiration.
 
-### The Five Skills
-
-The five skills are used in all tabletop roleplaying games and interactive storytelling games. 5eFP skills grant deeper story access and greater player agency while encouraging their growth within the player characters (PCs) and our real life (RL). The five skills remind us of our abilities and our free agency.
-
 ### Skill Descriptions
 
 **_Insight._** Your successful Insight check reveals one hidden or obscured truth within the current scene. A scene may or may not have hidden or obscured truths. You might use Insight when searching for lies or predicting something's next move. Doing so might involve gleaning clues from body language, speech habits, and changes in mannerisms. This awareness extends beyond surface impressions, revealing the underlying truth of what you are witnessing.
@@ -2339,8 +2335,27 @@ Acrobatics, sleight of hand, and stealth, respectively. So a character who has p
 
 The skills related to each ability score are shown in the following list. See an ability’s description in the later sections of this section for examples of how to use a skill associated with an ability.
 
+### The Five Skills
+
+The five skills include insight, medicine, perception, performance, and survival. The five skills are used in all tabletop roleplaying games. 5eFP skills grant deeper story access and greater player agency while encouraging their growth within the player characters (PCs) and our real life (RL). The five skills remind us of our abilities and our free agency.
+
+### Insight
+
+Your successful Insight check reveals one hidden or obscured truth within the current scene. A scene may or may not have hidden or obscured truths. You might use Insight when searching for lies or predicting something's next move. Doing so might involve gleaning clues from body language, speech habits, and changes in mannerisms. This awareness extends beyond surface impressions, revealing the underlying truth of what you are witnessing.
+
+> **INSPIRED:** Your GM reveals to you all the hidden or obscured truths contained within the current scene. Features granted through spell effects specifically designed to prevent sight, such as _invisibility_ are not revealed; instead, their presence is confirmed, and you can sense the subtle flows of air and energy that the spell displaces in its wake. This awareness lasts until the beginning of your next turn. Your GM refunds any spent inspiration if little or no additional information is revealed.
+
+|Linked Ability Score|Link Description|
+|:-|:-|
+|Strength (STR)|You can push through adversity long enough to uncover hidden thruths.|
+|Dexterity (DEX)|Your first impression of an encounter rarely misses the mark.|
+|Constitution (CON)|Your attunement to your body's health and wellness grants an extraordinary ability to detect when an encounter is not as it appears.|
+|Intelligence (INT)|Your studies in arcana, history, nature, and religion reveal otherwise inaccessible truths hidden within an encounter.|
+|Wisdom (WIS)|You have a sixth sense that gives you a gut feeling about deceptive encounters.|
+|Charisma (CHA)|You are driven to find and reveal all that is hidden and obscured.|
+
 **Strength (STR)**
-- **Insight.** You possess strong insight. You are strong enough to push through adversity long enough to understand the underlying truth of the adversity. 
+- **Insight.** You can push through adversity long enough to uncover hidden or obscure truths. 
 - **Perception.** Your body is like a well-tuned instrument. Regular exercise and physical training have strengthened your senses.
 - **Performance.** Every action you take is aided and backed by your physical prowess, especially anything athletic.
 - **Survival.** Your strong survival instincts carry you when the path forward is not obvious.
