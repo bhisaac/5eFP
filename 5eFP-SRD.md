@@ -2329,7 +2329,7 @@ If the contest results in a tie, the situation remains the same as it was before
 
 Each skill covers a broad range of capabilities, including those that a character or a monster can be proficient in. A skill represents a specific aspect of a chosen ability score, and an individual’s proficiency in a skill demonstrates a focus on that aspect. (A character’s starting skill proficiencies are determined at character creation, and a monster’s skill proficiencies appear in the monster’s stat block. Each skill is linked to one of the six ability scores. Once an ability is selected for a given skill, it cannot be selected again for another skill.)
 
-For example, a Performance (DEX) check might reflect a character’s attempt to pull off an acrobatic stunt, to palm an object, or to stay hidden. Each of these aspects of DEX has an associated action. So a character who has assigned DEX proficiency to the Performance skill is good at DEX checks because they are flexible and subtle.
+For example, a Performance (DEX) check might reflect (but isn't limited to) a character’s attempt to pull off an acrobatic stunt, to palm an object, or to stay hidden. Each of these aspects of DEX has an associated action. So a character who has assigned DEX proficiency to the Performance skill is good at DEX checks because they are flexible and subtle.
 
 See the ability’s description below for examples of how to use a skill associated with the ability.
 
