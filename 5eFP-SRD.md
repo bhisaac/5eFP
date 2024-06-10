@@ -2335,9 +2335,9 @@ See the ability’s description below for examples of how to use a skill associa
 
 ### Insight
 
-Your successful Insight check reveals one hidden or obscured truth within the current scene. A scene may or may not have hidden or obscured truths. You might use Insight when searching for lies or predicting something's next move. Doing so might involve gleaning clues from body language, speech habits, and changes in mannerisms. This awareness extends beyond surface impressions, revealing the underlying truth of what you are witnessing.
+Your successful Insight check reveals one hidden or obscured piece of information within the current scene. A scene may or may not have hidden or obscured information. You might use Insight when searching for lies or predicting something's next move. Doing so might involve gleaning clues from body language, speech habits, and changes in mannerisms. This awareness extends beyond surface impressions, revealing the underlying truth of what you are witnessing.
 
-> **INSPIRED:** Your GM reveals to you all the hidden or obscured truths contained within the current scene. Features granted through spell effects specifically designed to prevent sight, such as _invisibility_ are not revealed; instead, their presence is confirmed, and you can sense the subtle flows of air and energy that the spell displaces in its wake. This awareness lasts until the beginning of your next turn. Your GM refunds any spent inspiration if little or no additional information is revealed.
+> **INSPIRED:** Your GM reveals to you all the hidden or obscured pieces of information contained within the current scene. Features granted through spell effects specifically designed to prevent sight, such as _invisibility_ are not revealed; instead, their presence is confirmed, and you can sense the subtle flows of air and energy that the spell displaces in its wake. This awareness lasts until the beginning of your next turn. Your GM refunds any spent inspiration if little or no additional information is revealed.
 
 ||Aspect|
 |:-|:-|
