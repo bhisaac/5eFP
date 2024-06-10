@@ -2335,9 +2335,9 @@ Acrobatics, sleight of hand, and stealth, respectively. So a character who has p
 
 The skills related to each ability score are shown in the following list. See an ability’s description in the later sections of this section for examples of how to use a skill associated with an ability.
 
-### The Five Skills
+### 5eFP Skills
 
-The five skills include insight, medicine, perception, performance, and survival. The five skills are used in all tabletop roleplaying games. 5eFP skills grant deeper story access and greater player agency while encouraging their growth within the player characters (PCs) and our real life (RL). The five skills remind us of our abilities and our free agency.
+5eFP skills include insight, medicine, perception, performance, survival, and tools. The five skills are used in all tabletop roleplaying games. 5eFP skills grant deeper story access and greater player agency while encouraging their growth within the player characters (PCs) and our real life (RL). The five skills remind us of our abilities and our free agency.
 
 ### Insight
 
@@ -2345,14 +2345,14 @@ Your successful Insight check reveals one hidden or obscured truth within the cu
 
 > **INSPIRED:** Your GM reveals to you all the hidden or obscured truths contained within the current scene. Features granted through spell effects specifically designed to prevent sight, such as _invisibility_ are not revealed; instead, their presence is confirmed, and you can sense the subtle flows of air and energy that the spell displaces in its wake. This awareness lasts until the beginning of your next turn. Your GM refunds any spent inspiration if little or no additional information is revealed.
 
-|Linked Ability Score|Link Description|
+|Chosen Ability Score|Aspect|
 |:-|:-|
-|Strength (STR)|You can push through adversity long enough to uncover hidden thruths.|
-|Dexterity (DEX)|Your first impression of an encounter rarely misses the mark.|
-|Constitution (CON)|Your attunement to your body's health and wellness grants an extraordinary ability to detect when an encounter is not as it appears.|
-|Intelligence (INT)|Your studies in arcana, history, nature, and religion reveal otherwise inaccessible truths hidden within an encounter.|
-|Wisdom (WIS)|You have a sixth sense that gives you a gut feeling about deceptive encounters.|
-|Charisma (CHA)|You are driven to find and reveal all that is hidden and obscured.|
+|STR|You can push through adversity long enough to uncover hidden truths.|
+|DEX|Your first impression of an encounter rarely misses the mark.|
+|CON|Your attunement to your body's health and wellness grants an extraordinary ability to detect when an encounter is not as it appears.|
+|INT|Your studies in arcana, history, nature, and religion reveal otherwise inaccessible truths hidden within an encounter.|
+|WIS|You have a sixth sense that gives you a gut feeling about deceptive encounters.|
+|CHA|You are driven to find and reveal all that is hidden and obscured.|
 
 **Strength (STR)**
 - **Insight.** You can push through adversity long enough to uncover hidden or obscure truths. 
