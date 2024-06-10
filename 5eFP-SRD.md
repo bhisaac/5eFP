@@ -1311,7 +1311,7 @@ At the beginning of each game session, PCs choose and dedicate two skills. Once 
 You either have inspiration or you don’t—you can’t stockpile multiple “inspirations” for later use.
 
 ### Using Inspiration
-If you have inspiration, you can expend it when you make an attack roll, saving throw, or ability check. Spending your inspiration gives you advantage on that roll. Alternatively, you may expend your inspiration anytime to activate an inspired version of a dedicated skill. You do not roll dice whenever you activate an inspired version of a dedicated skill. You automatically receive the listed benefits. If the use of inspiration reveals little or no additional information, your GM refunds any spent inspiration.
+If you have inspiration, you can expend it when you make an attack roll, saving throw, or ability check. Spending your inspiration gives you advantage on that roll. Alternatively, you may expend your inspiration anytime to activate an inspired version of a dedicated skill. You do not roll dice whenever you activate an inspired version of a dedicated skill. You automatically receive the listed benefits.
 
 Additionally, if you have inspiration, you can reward another player for good roleplaying, clever thinking, or simply doing something exciting in the game. When another player character does something that really contributes to the story in a fun and interesting way, you can give up your inspiration to give that character inspiration.
 
