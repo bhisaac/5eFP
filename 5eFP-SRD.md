@@ -1315,7 +1315,11 @@ If you have inspiration, you can expend it when you make an attack roll, saving 
 
 Additionally, if you have inspiration, you can reward another player for good roleplaying, clever thinking, or simply doing something exciting in the game. When another player character does something that really contributes to the story in a fun and interesting way, you can give up your inspiration to give that character inspiration.
 
-### Inspired Skills
+### The Five Skills
+
+The five skills are used in all tabletop roleplaying games and interactive storytelling games. 5eFP skills grant deeper story access and greater player agency while encouraging their growth within the player characters (PCs) and our real life (RL). The five skills remind us of our abilities and our free agency.
+
+### Skill Descriptions
 
 **_Insight._** Your successful Insight check reveals one hidden or obscured truth within the current scene. A scene may or may not have hidden or obscured truths. You might use Insight when searching for lies or predicting something's next move. Doing so might involve gleaning clues from body language, speech habits, and changes in mannerisms. This awareness extends beyond surface impressions, revealing the underlying truth of what you are witnessing.
 
