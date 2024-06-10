@@ -2329,15 +2329,9 @@ If the contest results in a tie, the situation remains the same as it was before
 
 Each skill covers a broad range of capabilities, including those that a character or a monster can be proficient in. A skill represents a specific aspect of a chosen ability score, and an individual’s proficiency in a skill demonstrates a focus on that aspect. (A character’s starting skill proficiencies are determined at character creation, and a monster’s skill proficiencies appear in the monster’s stat block. Each skill is linked to one of the six ability scores. Once an ability is selected for a given skill, it cannot be selected again for another skill.)
 
-For example, a Performance check linked to DEX might reflect a character’s attempt to pull off an acrobatic stunt, to palm an object, or to stay hidden. Each of these aspects of DEX has an associated task:
+For example, a Performance (DEX) check might reflect a character’s attempt to pull off an acrobatic stunt, to palm an object, or to stay hidden. Each of these aspects of DEX has an associated action. So a character who has assigned DEX proficiency to the Performance skill is good at DEX checks because they are flexible and subtle.
 
-Acrobatics, sleight of hand, and stealth, respectively. So a character who has proficiency in the Performance skill linked to DEX is particularly good at DEX checks related to sneaking and hiding.
-
-The skills related to each ability score are shown in the following list. See an ability’s description in the later sections of this section for examples of how to use a skill associated with an ability.
-
-### 5eFP Skills
-
-5eFP skills include insight, medicine, perception, performance, survival, and tools. The five skills are used in all tabletop roleplaying games. 5eFP skills grant deeper story access and greater player agency while encouraging their growth within the player characters (PCs) and our real life (RL). The five skills remind us of our abilities and our free agency.
+See the ability’s description below for examples of how to use a skill associated with the ability.
 
 ### Insight
 
