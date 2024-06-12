@@ -2414,13 +2414,6 @@ A successful Survival check allows you to gather any available resources at your
 |WIS|Your gut instincts help you survive.|
 |CHA|You are driven to succeed.|
 
-### Tools
-
-A tool helps you to do something you couldn't otherwise do, such as craft or repair an item, forge a document, or pick a lock.
-
-> **INSPIRED:** Your tools offer crucial support for actions you have taken or will take. Performance checks relating to your tools are rolled with advantage until the end of the encounter.
-
-
 **Strength (STR)**
 - **Insight.** You can push through adversity long enough to uncover hidden or obscure truths. 
 - **Perception.** Your body is like a well-tuned instrument. Regular exercise and physical training have strengthened your senses.
