@@ -2290,7 +2290,7 @@ You usually gain advantage or disadvantage through the use of special abilities,
 
 ## Proficiency Bonus
 
-Characters have a proficiency bonus which is equal to LEVEL. Monsters also have this bonus. The bonus is used in the rules on ability checks, saving throws, and attack rolls.
+Characters have a proficiency bonus which is equal to thier LEVEL. Monsters also have this bonus. The bonus is used in the rules on ability checks, saving throws, and attack rolls.
 
 Your proficiency bonus is typically added to a single die roll or other number once. For example, if two different rules say you can add your proficiency bonus to a Wisdom saving throw, you nevertheless add the bonus only once when you make the save.
 
@@ -2303,6 +2303,7 @@ In general, you don’t add an additional proficiency bonus for attack rolls or 
 ## Ability Checks
 
 An ability check tests a character’s or monster’s innate talent and training in an effort to overcome a challenge. The GM calls for an ability check when a character or monster attempts an action (other than an attack) that has a chance of failure. When the outcome is uncertain, the dice determine the results.
+
 For every ability check, the GM decides which skill is relevant to the task at hand and the difficulty of the task, represented by a Difficulty Class. The more difficult a task, the higher its DC. The Typical Difficulty Classes table shows the most common DCs.
 
 **Typical Difficult Classes**
@@ -2327,11 +2328,11 @@ If the contest results in a tie, the situation remains the same as it was before
 
 ### Skills
 
-Each skill covers a broad range of capabilities, including those that a character or a monster can be proficient in. A skill represents a specific aspect of a chosen ability score, and an individual’s proficiency in a skill demonstrates a focus on that aspect. (A character’s starting skill proficiencies are determined at character creation, and a monster’s skill proficiencies appear in the monster’s stat block. Each skill is linked to one of the six ability scores. Once an ability is selected for a given skill, it cannot be selected again for another skill.)
+Each skill covers a broad range of capabilities, including those that a character or a monster can be proficient in. A skill represents a specific aspect of a chosen ability score, and an individual’s proficiency in a skill demonstrates a focus on that aspect. (A character’s starting skill proficiencies are determined at character creation, and a monster’s skill proficiencies appear in the monster’s stat block. Each skill is assigned to one of the six ability scores. Once an ability is selected for a given skill, it cannot be selected again for another skill.)
 
-For example, a Performance (DEX) check might reflect (but isn't limited to) a character’s attempt to pull off an acrobatic stunt, to palm an object, or to stay hidden. Each of these aspects of DEX has an associated action. So a character who has assigned DEX proficiency to the Performance skill is good at DEX checks because they are flexible and subtle.
+For example, a Performance (DEX) check might reflect (but isn't limited to) a character’s attempt to pull off an acrobatic stunt, to palm an object, or to stay hidden. Each of these aspects of DEX has an associated action. So a character who has assigned DEX proficiency to the Performance skill is good at Performance checks because they are agile.
 
-See the ability’s description below for examples of how to use a skill associated with the ability.
+~~See the ability’s description below for examples of how to use a skill associated with each ability.~~
 
 ### Insight
 
@@ -2341,15 +2342,6 @@ Your successful Insight check reveals one hidden or obscured truth within the cu
 
 > **INSPIRED:** Your GM reveals to you all the hidden or obscured pieces of information contained within the current scene. Features granted through spell effects specifically designed to prevent sight, such as _invisibility_ are not revealed; instead, their presence is confirmed, and you can sense the subtle flows of air and energy that the spell displaces in its wake. This awareness lasts until the beginning of your next turn. Your GM refunds any spent inspiration if little or no additional information is revealed.
 
-||Aspect|
-|:-|:-|
-|STR|You can push through adversity long enough to uncover hidden truths.|
-|DEX|Your first impression of an encounter rarely misses the mark.|
-|CON|Your attunement to your body's health and wellness grants an extraordinary ability to detect when an encounter is not as it appears.|
-|INT|Your studies in arcana, history, nature, and religion reveal otherwise inaccessible truths hidden within an encounter.|
-|WIS|You have a sixth sense that gives you a gut feeling about deceptive encounters.|
-|CHA|You are driven to find and reveal all that is hidden and obscured.|
-
 ### Medicine
 
 Your medicine stabilizes wounds.
@@ -2358,29 +2350,11 @@ A successful Medicine check stabilizes a dying companion or diagnoses an illness
 
 > **INSPIRED:** Choose any number of targets your character can see within 6 squares of you who have MAX Wounds. Each target immediately stabilizes, heals one wound, and wakes up.
 
-||Aspect|
-|:-|:-|
-|STR|Your medicine is effective because it is concentrated and focused.|
-|DEX|You heal wounds through quickness and taking initiative.|
-|CON|You heal wounds by leveraging your endurance and concentration.|
-|INT|You heal wounds through your extensive training as a healer.|
-|WIS|You heal wounds using your intuition and guidance.|
-|CHA|You are driven to preserve and stabilize your allies.|
-
 ### Perception
 
 Your perception enables you to spot, hear, or otherwise detect the presence of something.
 
 > **INSPIRED:** Your GM reveals to you all available pieces of information gathered through the five senses regarding the current scene. Your GM refunds your inspiration if no additional information is gained.
-
-||Aspect|
-|:-|:-|
-|STR|Your perception is strengthened by experience.|
-|DEX|You can take in your surroundings and read a situation quickly.|
-|CON|Your attunement with your body leads to keener senses.|
-|INT|Your observations are practiced and benefit from your studies.|
-|WIS|You have a deep and intuitive awareness that heightens your senses.|
-|CHA|You are driven to gather and comment upon clues, evidence, and empirical data.|
 
 ### Performance
 
@@ -2410,15 +2384,6 @@ Your performance allows the satisfying completion of one action.
 >>> 
 >> In example 2, _Player 1_'s action resolves a successful attack action from a hidden position and then finishes. The action does not continue on subsequent rounds.
 
-||Aspect|
-|:-|:-|
-|STR|Your actions benefit from your strength of character.|
-|DEX|Your actions succeed through quick action and initiative.|
-|CON|Your attunement to your body drives the success of your actions.|
-|INT|Your tactical and strategic mind helps you succeed.|
-|WIS|Your gut instincts help you succeed.|
-|CHA|You are driven to succeed.|
-
 ### Survival
 
 Your survival awards expanded capacities, allowing you to identify and acquire new advantages, qualities, or skills.
@@ -2426,40 +2391,6 @@ Your survival awards expanded capacities, allowing you to identify and acquire n
 A successful Survival check allows you to gather any available resources at your current position.
 
 > **INSPIRED:** Your GM reveals a path leading toward a quest objective. Place a foothold or setting requirement on a revealed square of your choice up to 2 squares away from you. Alternatively, once per game session, you can use your inspired Survival to activate the inspired version of a skill you didn't dedicate at the beginning of the current game session.
-
-||Aspect|
-|:-|:-|
-|STR|Your strength helps you to survive.|
-|DEX|Your quick action and initiative helps you survive.|
-|CON|Your attunement to your body aids your survival.|
-|INT|Your tactical and strategic mind helps you survive.|
-|WIS|Your gut instincts help you survive.|
-|CHA|You are driven to succeed.|
-
-**Strength (STR)**
-- **Insight.** You can push through adversity long enough to uncover hidden or obscure truths. 
-- **Perception.** Your body is like a well-tuned instrument. Regular exercise and physical training have strengthened your senses.
-- **Performance.** Every action you take is aided and backed by your physical prowess, especially anything athletic.
-- **Survival.** Your strong survival instincts carry you when the path forward is not obvious.
-- **Medicine.** You stabilize wounds by lending your strength to a weakened and injured creature.
-- **Tools.** Your solid footing, core strength, and strong hands give your tools an edge.
-
-**Dexterity (DEX)**
-- **Performance.** Acrobatics, Sleight of Hand, Stealth
-
-**Intelligence (INT)**
-- **Performance.** Investigation
-- **Insight.** Arcana, History, Nature, Religion
-
-**Wisdom (WIS)**
-- **Performance.** Animal Handling
-- **Insight.** You can read the body language and tone of voice of others--seeing beyond surface behaviors.
-- **Medicine.** You are good at stabilizing wounds because of your deep awareness and intuition.
-- **Perception.** You are sensitive and have an almost preternatural awareness of the five senses.
-- **Survival.** You find the path through awareness and experience.
-
-**Charisma (CHA)**
-- Performance. Deception, Intimidation, Persuasion + any action
 
 # Forming a Group
 
