@@ -2390,7 +2390,7 @@ Your survival awards expanded capacities, allowing you to identify and acquire n
 
 A successful Survival check allows you to gather any available resources at your current position.
 
-> **INSPIRED:** Your GM reveals a path leading toward a quest objective. Place a foothold or setting requirement on a revealed square of your choice up to 2 squares away from you. Alternatively, once per game session, you can use your inspired Survival to activate the inspired version of a skill you didn't dedicate at the beginning of the current game session.
+> **INSPIRED:** You reveal a path leading toward an objective. Place a foothold or setting requirement on a revealed square of your choice up to 2 squares away from you. Alternatively, once per game session, you can use your inspired Survival to activate the inspired version of a skill you didn't dedicate at the beginning of the current game session.
 
 # Forming a Group
 
