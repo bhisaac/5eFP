@@ -2335,7 +2335,9 @@ See the ability’s description below for examples of how to use a skill associa
 
 ### Insight
 
-Your successful Insight check reveals one hidden or obscured piece of information within the current scene. A scene may or may not have hidden or obscured information. You might use Insight when searching for lies or predicting something's next move. Doing so might involve gleaning clues from body language, speech habits, and changes in mannerisms. This awareness extends beyond surface impressions, revealing the underlying truth of what you are witnessing.
+Your insight imbues inward sight, granting vision beneath surface impressions.
+
+Your successful Insight check reveals one hidden or obscured truth within the current scene. A scene may or may not have hidden or obscured truths. You might use Insight when searching for lies or predicting something's next move. Doing so might involve gleaning clues from body language, speech habits, and changes in mannerisms. This awareness extends beyond surface impressions, revealing the underlying truth of what you are witnessing.
 
 > **INSPIRED:** Your GM reveals to you all the hidden or obscured pieces of information contained within the current scene. Features granted through spell effects specifically designed to prevent sight, such as _invisibility_ are not revealed; instead, their presence is confirmed, and you can sense the subtle flows of air and energy that the spell displaces in its wake. This awareness lasts until the beginning of your next turn. Your GM refunds any spent inspiration if little or no additional information is revealed.
 
@@ -2347,6 +2349,77 @@ Your successful Insight check reveals one hidden or obscured piece of informatio
 |INT|Your studies in arcana, history, nature, and religion reveal otherwise inaccessible truths hidden within an encounter.|
 |WIS|You have a sixth sense that gives you a gut feeling about deceptive encounters.|
 |CHA|You are driven to find and reveal all that is hidden and obscured.|
+
+### Medicine
+
+Your medicine stabilizes wounds.
+
+A successful Medicine check stabilizes a dying companion or diagnoses an illness.
+
+> **INSPIRED:** Choose any number of targets your character can see within 6 squares of you who have MAX Wounds. Each target immediately stabilizes, heals one wound, and wakes up.
+
+||Aspect|
+|:-|:-|
+|STR|Your medicine is effective because it is concentrated and focused.|
+|DEX|You heal wounds through quickness and taking initiative.|
+|CON|You heal wounds by leveraging your endurance and concentration.|
+|INT|You heal wounds through your extensive training as a healer.|
+|WIS|You heal wounds using your intuition and guidance.|
+|CHA|You are driven to preserve and stabilize your allies.|
+
+### Perception
+
+Your perception enables you to spot, hear, or otherwise detect the presence of something.
+
+> **INSPIRED:** Your GM reveals to you all available pieces of information gathered through the five senses regarding the current scene. Your GM refunds your inspiration if no additional information is gained.
+
+||Aspect|
+|:-|:-|
+|STR|Your perception is strengthened by experience.|
+|DEX|You can take in your surroundings and read a situation quickly.|
+|CON|Your attunement with your body leads to keener senses.|
+|INT|Your observations are practiced and benefit from your studies.|
+|WIS|You have a deep and intuitive awareness that heightens your senses.|
+|CHA|You are driven to gather and comment upon clues, evidence, and empirical data.|
+
+### Performance
+
+Your performance allows the satisfying completion of one action.
+
+> **INSPIRED:** You decide the outcome of the next action your character declares on their turn. You must use your inspiration this way before taking an action or rolling any dice. If the result of your chosen action further affects you on subsequent rounds, roll all attacks, ability checks, and saves relating to the chosen action with advantage until the end of the encounter.
+
+||Aspect|
+|:-|:-|
+|STR|Your actions benefit from your strength of character.|
+|DEX|Your actions succeed through quick action and initiative.|
+|CON|Your attunement to your body drives the success of your actions.|
+|INT|Your tactical and strategic mind helps you succeed.|
+|WIS|Your gut instincts help you succeed.|
+|CHA|You are driven to succeed.|
+
+### Survival
+
+Your survival awards expanded capacities, allowing you to identify and acquire new advantages, qualities, or skills.
+
+A successful Survival check allows you to gather any available resources at your current position.
+
+> **INSPIRED:** Your GM reveals a path leading toward a quest objective. Place a foothold or setting requirement on a revealed square of your choice up to 2 squares away from you. Alternatively, once per game session, you can use your inspired Survival to activate the inspired version of a skill you didn't dedicate at the beginning of the current game session.
+
+||Aspect|
+|:-|:-|
+|STR|Your strength helps you to survive.|
+|DEX|Your quick action and initiative helps you survive.|
+|CON|Your attunement to your body aids your survival.|
+|INT|Your tactical and strategic mind helps you survive.|
+|WIS|Your gut instincts help you survive.|
+|CHA|You are driven to succeed.|
+
+### Tools
+
+A tool helps you to do something you couldn't otherwise do, such as craft or repair an item, forge a document, or pick a lock.
+
+> **INSPIRED:** Your tools offer crucial support for actions you have taken or will take. Performance checks relating to your tools are rolled with advantage until the end of the encounter.
+
 
 **Strength (STR)**
 - **Insight.** You can push through adversity long enough to uncover hidden or obscure truths. 
