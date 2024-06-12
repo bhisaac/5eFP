@@ -2332,7 +2332,7 @@ Each skill covers a broad range of capabilities, including those that a characte
 
 For example, a Performance (DEX) check might reflect (but isn't limited to) a character’s attempt to pull off an acrobatic stunt, to palm an object, or to stay hidden. Each of these aspects of DEX has an associated action. So a character who has assigned DEX proficiency to the Performance skill is good at Performance checks because they are agile.
 
-~~See the ability’s description below for examples of how to use a skill associated with each ability.~~
+Without proficiency in a skill, a character or creature makes a normal ability check. For example, if characters attempt to climb up a dangerous cliff, the GM might ask for a Performance check. If the characters are proficient in Performance, the character’s proficiency bonus is added to the check. If the characters lack that proficiency, they just make an ability check with the ability score they assigned to Performance.
 
 ### Insight
 
