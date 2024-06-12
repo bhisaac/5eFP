@@ -2392,6 +2392,71 @@ A successful Survival check allows you to gather any available resources at your
 
 > **INSPIRED:** You reveal a path leading toward an objective. Place a foothold or setting requirement on a revealed square of your choice up to 2 squares away from you. Alternatively, once per game session, you can use your inspired Survival to activate the inspired version of a skill you didn't dedicate at the beginning of the current game session.
 
+### Passive Checks
+
+A passive check is a special kind of ability check that doesn’t involve any die rolls. Such a check can represent the average result for a task done repeatedly, such as searching for secret doors over and over again, or can be used when the GM wants to secretly determine whether the characters succeed at something without rolling dice, such as noticing a hidden monster.
+
+Here’s how to determine a character’s total for a passive check:
+
+10 + all modifiers that normally apply to the check
+
+If the character has advantage on the check, add 5. For disadvantage, subtract 5. The game refers to a passive check total as a **score**.
+
+For example, Monrovia is a 1st-­level character with WIS +2 proficiency assigned to Perception. Thus Monrovia's passive Perception score is 13 (10 + 2 [WIS] + 1 [LEVEL]).
+
+The rules on hiding in the “Dexterity” section below rely on passive checks, as do the exploration rules.
+
+### Working Together
+
+Sometimes two or more characters team up to attempt a task. The character who’s leading the effort—or the one with the highest ability modifier—can make an ability check with advantage, reflecting the help provided by the other characters. In combat, this requires the Help action.
+
+A character can only provide help if the task is one that he or she could attempt alone. For example, trying to open a lock requires proficiency with thieves’ tools, so a character who lacks that proficiency can’t help another character in that task. Moreover, a character can help only when two or more individuals working together would actually be productive. Some tasks, such as threading a needle, are no easier with help.
+
+### Group Checks
+
+When a number of individuals are trying to accomplish something as a group, the GM might ask for a group ability check. In such a situation, the characters who are skilled at a particular task help cover those who aren’t.
+
+To make a group ability check, everyone in the group makes the ability check. If at least half the group succeeds, the whole group succeeds. Otherwise, the group fails.
+
+Group checks don’t come up very often, and they’re most useful when all the characters succeed or fail as a group. For example, when adventurers are navigating a swamp, the GM might call for a group Survival check to see if the characters can avoid the quicksand, sinkholes, and other natural hazards of the environment. If at least half the group succeeds, the successful characters are able to guide their companions out of danger. Otherwise, the group stumbles into one of these hazards.
+
+## Using Each Ability
+
+Every task that a character or monster might attempt in the game is covered by one of the six abilities. This section explains in more detail what those abilities mean and the ways they are used in the game.
+
+### Strength (STR)
+
+STR measures bodily power, athletic training, and the extent to which you can exert raw physical force.
+
+#### STR Checks
+
+A STR check can model any attempt to lift, push, pull, or break something, to force your body through a space, or to otherwise apply brute force to a situation. The GM might call for a STR check when you try to accomplish tasks like the following:
+
+- Force open a stuck, locked, or barred door
+- Break free of bonds
+- Push through a tunnel that is too small
+- Hang on to a wagon while being dragged behind it
+- Tip over a statue
+- Keep a boulder from rolling
+
+#### Attack Rolls
+
+You add your STR to your attack roll when attacking with a melee weapon such as a mace, a battleaxe, or a javelin. You use melee weapons to make melee attacks in hand-to-­hand combat, and some of them can be thrown to make a ranged attack.
+
+#### Lifting and Carrying
+
+Your STR score determines the amount of weight you can bear. The following terms define what you can lift or carry.
+
+_**Carrying Capacity.**_ Your carrying capacity is 3 + STR (minimum 1). This is how much equipment you can carry in addition to any equipped items.
+
+_**Push, Drag, or Lift.**_ You can push, drag, or lift a weight in pounds equal to 30 x STR. While pushing or dragging weight in excess of this number, your speed drops to 1 square.
+
+_**Size and Strength.**_ Larger creatures can bear more weight, whereas Tiny creatures can carry less. For each size category above Medium, double the creature’s carrying capacity and the amount it can push, drag, or lift. For a Tiny creature, halve these values.
+
+### Dexterity (DEX)
+
+TBA
+
 # Forming a Group
 
 Unlike traditional tabletop roleplaying games, 5eFP has no set group or time to play. The game master (GM) posts available days and times for game sessions. Players then choose the best day and time for their schedule based on GM availability. The player who initiates forming a group becomes the group leader. A 5eFP group contains a minimum of three PCs and a maximum of five PCs.
