@@ -2428,16 +2428,16 @@ STR measures bodily power, athletic training, and the extent to which you can ex
 
 #### STR Checks
 
-A STR check can model any attempt to apply pressure, exert movement, push through obstacles, exploit or protect vulnerabilities, or apply brute force.
+A STR check can model any attempt to apply pressure, exert movement, overcome obstacles, exploit or protect vulnerabilities, or apply brute force.
 
 ~~A STR check can model any attempt to lift, push, pull, or break something, to force your body through a space, or to otherwise apply brute force to a situation.~~ The GM might call for a STR check when you try to accomplish tasks like the following:
 
-- _**Insight.**_ Determine the strength of an adversary or obstacle.
-- _**Medicine.**_ Stabilize a fallen ally and provide cover or carry the ally to safety.
-- _**Perception.**_ Identify structural weaknesses in buildings and objects.
-- _**Performance.**_ Force open a stuck, locked, or barred door.
-- _**Survival.**_ Harvest ore, wood, or stone.
-- _**Tools.**_ Create, fortify, or repair constructs, objects, and buildings.
+- _**Insight.**_ Determine the strength of an adversary or obstacle
+- _**Medicine.**_ Stabilize a fallen ally and provide cover or carry the ally to safety
+- _**Perception.**_ Identify structural weaknesses in buildings and objects
+- _**Performance.**_ Force open a stuck, locked, or barred door
+- _**Survival.**_ Harvest ore, wood, or stone
+- _**Tools.**_ Create, fortify, or repair constructs, objects, and buildings
 
 #### Attack Rolls
 
