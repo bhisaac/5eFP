@@ -2261,7 +2261,7 @@ Six abilities provide a quick description of every creature’s physical and men
 - Dexterity, measuring agility
 - Constitution, measuring endurance
 - Intelligence, measuring reasoning and memory
-- Wisdom, measuring awareness and true will
+- Wisdom, measuring awareness and willpower
 - Charisma, measuring force of personality
 
 Is a character muscle-­bound and insightful? Brilliant and charming? Nimble and hardy? Ability scores define these qualities—a creature’s assets as well as weaknesses.
@@ -2270,11 +2270,9 @@ The three main rolls of the game—the ability check, the saving throw, and the 
 
 ## Ability Scores and Modifiers
 
-Each of a creature’s abilities has a score, a number that defines the magnitude of that ability. An ability score is not just a measure of innate capabilities, but also encompasses a creature’s training and competence in activities related to that ability.
+Each of a creature’s abilities has a score, a number that defines the magnitude of that ability. An ability score is not just a measure of innate capabilities but also encompasses a creature’s training and competence in activities related to that ability.
 
 A score of +0 is the normal human average, but adventurers and many monsters are a cut above average in most abilities. A score of +4 is the highest that a person usually reaches. Adventurers can have scores as high as +5, and monsters and divine beings can have scores as high as +10.
-
-Because ability modifiers affect almost every attack roll, ability check, and saving throw, ability modifiers come up in play more often than their associated scores.
 
 ## Advantage and Disadvantage
 
@@ -2290,13 +2288,13 @@ You usually gain advantage or disadvantage through the use of special abilities,
 
 ## Proficiency Bonus
 
-Characters have a proficiency bonus which is equal to thier LEVEL. Monsters also have this bonus. The bonus is used in the rules on ability checks, saving throws, and attack rolls.
+Characters have a proficiency bonus, which is equal to their LEVEL. Monsters also have this bonus. The bonus is used in the rules on ability checks, saving throws, and attack rolls.
 
-Your proficiency bonus is typically added to a single die roll or other number once. For example, if two different rules say you can add your proficiency bonus to a Wisdom saving throw, you nevertheless add the bonus only once when you make the save.
+Your proficiency bonus is typically added to a single die roll or other number once. For example, if two different rules say you can add your proficiency bonus to a WIS saving throw, you nevertheless add the bonus only once when you make the save.
 
-Occasionally, your proficiency bonus might be added one additional time (to a maximum of two proficiency bonuses). For example, the rogue’s Expertise feature allows you to add your proficiency bonus twice for certain ability checks. If a circumstance suggests that your proficiency bonus applies more than twice to the same roll, you still add it only twice.
+Occasionally, your proficiency bonus might be added one additional time (to a maximum of twice). For example, the rogue’s Expertise feature allows you to add your proficiency bonus twice for certain ability checks. If a circumstance suggests that your proficiency bonus applies more than twice to the same roll, you still add it only twice.
 
-By the same token, if a feature or effect allows you to add an additional proficiency bonus when making an ability check that wouldn’t normally benefit from your proficiency bonus, you still don’t add the bonus to the check. For that check, you do not have a proficiency bonus. Only ability checks you are proficient with gain an additional proficiency bonus. For instance, if you lack proficiency in the Performance skill, you gain no benefit from a feature that lets you add an additional proficiency bonus when you make Performance checks.
+By the same token, if a feature or effect allows you to add an additional proficiency bonus when making an ability check that wouldn’t normally benefit from your proficiency bonus, you still don’t add the bonus to the check. For that check, you do not have a proficiency bonus. Only ability checks you are proficient with gain an additional proficiency bonus. For instance, if you lack proficiency with CON, you gain no benefit from a feature that lets you add an additional proficiency bonus when you make CON ability checks.
 
 In general, you don’t add an additional proficiency bonus for attack rolls or saving throws. If a feature or effect allows you to do so, these same rules apply.
 
@@ -2304,7 +2302,7 @@ In general, you don’t add an additional proficiency bonus for attack rolls or 
 
 An ability check tests a character’s or monster’s innate talent and training in an effort to overcome a challenge. The GM calls for an ability check when a character or monster attempts an action (other than an attack) that has a chance of failure. When the outcome is uncertain, the dice determine the results.
 
-For every ability check, the GM decides which skill is relevant to the task at hand and the difficulty of the task, represented by a Difficulty Class. The more difficult a task, the higher its DC. The Typical Difficulty Classes table shows the most common DCs.
+For every ability check, the GM decides the difficulty of the task, represented by a Difficulty Class (DC). The more difficult a task, the higher its DC. The Typical Difficulty Classes table shows the most common DCs.
 
 **Typical Difficult Classes**
 |Task Difficulty|DC|
@@ -2328,17 +2326,17 @@ If the contest results in a tie, the situation remains the same as it was before
 
 ### Skills
 
-Each skill covers a broad range of capabilities, including those that a character or a monster can be proficient in. A skill represents a specific aspect of a chosen ability score, and an individual’s proficiency in a skill demonstrates a focus on that aspect. (A character’s starting skill proficiencies are determined at character creation, and a monster’s skill proficiencies appear in the monster’s stat block. Each skill is assigned to one of the six ability scores. Once an ability is selected for a given skill, it cannot be selected again for another skill.)
+Each skill covers a broad range of capabilities, including those that a character or a monster can be proficient in. A skill represents a specific aspect of a chosen ability score ~~, and an individual’s proficiency in a skill demonstrates a focus on that aspect~~. (A character’s starting ability proficiencies are determined at character creation, and a monster’s ability proficiencies appear in the monster’s stat block. Each skill is also assigned to one of the six ability scores at character creation. Once an ability is selected for a given skill, it cannot be selected again for another skill.)
 
-For example, a Performance (DEX) check might reflect (but isn't limited to) a character’s attempt to pull off an acrobatic stunt, to palm an object, or to stay hidden. Each of these aspects of DEX has an associated action. So a character who has assigned DEX proficiency to the Performance skill is good at Performance checks because they are agile.
+For example, a DEX proficiency assigned to the Performance skill might reflect (but isn't limited to) a character’s attempt to pull off an acrobatic stunt, to palm an object, or to stay hidden. Each of these aspects of DEX has an associated action. So a character who has assigned DEX proficiency to the Performance skill is good at Performance checks because they are agile.
 
-Without proficiency in a skill, a character or creature makes a normal ability check. For example, if characters attempt to climb up a dangerous cliff, the GM might ask for a Performance check. If the characters are proficient in Performance, the character’s proficiency bonus is added to the check. If the characters lack that proficiency, they just make an ability check with the ability score they assigned to Performance.
+Without proficiency in an ability, a character or creature makes a normal ability check. For example, if a character attempts to climb up a dangerous cliff, the GM might ask for a Performance check. If the character has proficiency with the chosen ability for Performance, the character’s proficiency bonus is added to the check. If the character lacks that proficiency, that character makes an ability check without adding the character's proficiency bonus.
 
 ### Insight
 
 Your insight imbues inward sight, granting vision beneath surface impressions.
 
-Your successful Insight check reveals one hidden or obscured truth within the current scene. A scene may or may not have hidden or obscured truths. You might use Insight when searching for lies or predicting something's next move. Doing so might involve gleaning clues from body language, speech habits, and changes in mannerisms. This awareness extends beyond surface impressions, revealing the underlying truth of what you are witnessing.
+Your successful Insight check reveals one hidden or obscured truth within the current scene. A scene may or may not have hidden or obscured truths. You might use Insight when searching for deceptions or predicting something's next move. Doing so might involve gleaning clues from body language, speech habits, and changes in mannerisms. This awareness extends beyond surface impressions, revealing the underlying truth of what you are witnessing.
 
 > **INSPIRED:** Your GM reveals to you all the hidden or obscured pieces of information contained within the current scene. Features granted through spell effects specifically designed to prevent sight, such as _invisibility_ are not revealed; instead, their presence is confirmed, and you can sense the subtle flows of air and energy that the spell displaces in its wake. This awareness lasts until the beginning of your next turn. Your GM refunds any spent inspiration if little or no additional information is revealed.
 
@@ -2348,7 +2346,7 @@ Your medicine stabilizes wounds.
 
 A successful Medicine check stabilizes a dying companion or diagnoses an illness.
 
-> **INSPIRED:** Choose any number of targets your character can see within 6 squares of you who have MAX Wounds. Each target immediately stabilizes, heals one wound, and wakes up.
+> **INSPIRED:** Choose any number of targets your character can see within 6 squares of you who have MAX Wounds. The targets immediately stabilize and heal 1 wound.
 
 ### Perception
 
@@ -2360,12 +2358,12 @@ Your perception enables you to spot, hear, or otherwise detect the presence of s
 
 Your performance allows the satisfying completion of one action.
 
-> **INSPIRED:** You decide the outcome of the next action your character declares on their turn. You must use your inspiration this way before taking an action or rolling any dice. If the result of your chosen action further affects you on subsequent rounds, roll all attacks, ability checks, and saves relating to the chosen action with advantage until the end of the encounter.
+> **INSPIRED:** You decide the outcome of the next action your character declares on their turn. You must use your inspiration this way before taking an action or rolling any dice. If the result of your chosen action further affects you on subsequent rounds during the same encounter, roll all attacks, ability checks, and saves relating to the chosen action with advantage until the end of the encounter.
 
 >> Example 1:
 >>> (_GM_) "The room opens up, exposing a sprawling cliff face leading to the top of the spire."
 >>> 
->>> (_Player 1_) "I spend my inspiration to activate inspired PERFORMANCE."
+>>> (_Player 1_) "I spend my inspiration on PERFORMANCE."
 >>> 
 >>> (_GM_) "OK, great. Tell us about what action you're character wants to take. And then, when you're ready, tell us what happens."
 >>> 
@@ -2376,7 +2374,7 @@ Your performance allows the satisfying completion of one action.
 >> Example 2: 
 >>> _(GM)_ "Lita, it's your turn."
 >>> 
->>> _(Player 1)_ "I spend my inspiration to activate inspired PERFORMANCE."
+>>> _(Player 1)_ "I spend my inspiration on PERFORMANCE."
 >>> 
 >>> _(GM)_ "OK, great. Tell us about what action you're character wants to take. And then, when you're ready, tell us what happens."
 >>> 
@@ -2430,14 +2428,16 @@ STR measures bodily power, athletic training, and the extent to which you can ex
 
 #### STR Checks
 
-A STR check can model any attempt to lift, push, pull, or break something, to force your body through a space, or to otherwise apply brute force to a situation. The GM might call for a STR check when you try to accomplish tasks like the following:
+A STR check can model any attempt to apply pressure, exert movement, push through obstacles, exploit or protect vulnerabilities, or apply brute force.
 
-- Force open a stuck, locked, or barred door
-- Break free of bonds
-- Push through a tunnel that is too small
-- Hang on to a wagon while being dragged behind it
-- Tip over a statue
-- Keep a boulder from rolling
+~~A STR check can model any attempt to lift, push, pull, or break something, to force your body through a space, or to otherwise apply brute force to a situation.~~ The GM might call for a STR check when you try to accomplish tasks like the following:
+
+- _**Insight.**_ Determine the strength of an adversary or obstacle.
+- _**Medicine.**_ Stabilize a fallen ally and provide cover or carry the ally to safety.
+- _**Perception.**_ Identify structural weaknesses in buildings and objects.
+- _**Performance.**_ Force open a stuck, locked, or barred door.
+- _**Survival.**_ Harvest ore, wood, or stone.
+- _**Tools.**_ Create, fortify, or repair constructs, objects, and buildings.
 
 #### Attack Rolls
 
