@@ -2430,13 +2430,13 @@ STR measures bodily power, athletic training, and the extent to which you can ex
 
 A STR check can model any attempt to apply pressure, exert movement, overcome obstacles, exploit or protect vulnerabilities, or apply brute force.
 
-~~A STR check can model any attempt to lift, push, pull, or break something, to force your body through a space, or to otherwise apply brute force to a situation.~~ The GM might call for a STR check when you try to accomplish tasks like the following:
+The GM might call for a STR check when you try to accomplish tasks like the following:
 
 - _**Insight.**_ Determine the strength of an adversary or obstacle
-- _**Medicine.**_ Stabilize a fallen ally and provide cover or carry the ally to safety
+- _**Medicine.**_ Stabilize a fallen ally while providing cover or carrying the ally to safety
 - _**Perception.**_ Identify structural weaknesses in buildings and objects
 - _**Performance.**_ Force open a stuck, locked, or barred door
-- _**Survival.**_ Harvest ore, wood, or stone
+- _**Survival.**_ Harvest ore, wood, or stone; hunt
 - _**Tools.**_ Create, fortify, or repair constructs, objects, and buildings
 
 #### Attack Rolls
@@ -2455,7 +2455,50 @@ _**Size and Strength.**_ Larger creatures can bear more weight, whereas Tiny cre
 
 ### Dexterity (DEX)
 
-TBA
+DEX measures agility, reflexes, and balance.
+
+#### DEX Checks
+
+A DEX check can model any attempt to move nimbly, quickly, or quietly, or to keep from falling on tricky footing.
+
+The GM might call for a DEX check when you try to accomplish tasks like the following:
+
+- _**Insight.**_ Reveal an underlying truth without being noticed
+- _**Medicine.**_ Your quick action stabilizes wounds
+- _**Perception.**_ Scan a scene for subtle clues
+- _**Performance.**_ Craft a small or detailed object
+- _**Survival.**_ Harvest (fish), (herbs), (hides); forage
+- _**Tools.**_ Create or alter intricate and detailed work
+
+#### Attack Rolls
+
+You add DEX to your attack roll when attacking with a ranged weapon, such as a sling or a longbow. You can also add DEX to your attack roll when attacking with a melee weapon that has the finesse property, such as a dagger or a rapier.
+
+#### Armor Class
+
+Depending on the armor you wear, you might add some or all of DEX to your Armor Class (AC).
+
+#### Initiative
+
+At the beginning of every combat, you roll initiative by making a DEX check. Initiative determines the order of creatures’ turns in combat.
+
+> Hiding
+>
+> The GM decides when circumstances are appropriate for hiding. When you try to hide, make a Dexterity (Stealth) check. Until you are discovered or you stop hiding, that check’s total is contested by the Wisdom (Perception) check of any creature that actively searches for signs of your presence.
+>
+> You can’t hide from a creature that can see you clearly, and you give away your position if you make noise, such as shouting a warning or knocking over a vase.
+>
+> An invisible creature can always try to hide. Signs of its passage might still be noticed, and it does have to stay quiet.
+> In combat, most creatures stay alert for signs of danger all around, so if you come out of hiding and approach a creature, it usually sees you. However, under certain circumstances, the GM might allow you to stay hidden as you approach a creature that is distracted, allowing you to gain advantage on an attack roll before you are seen.
+>
+> _**Passive Perception.**_ When you hide, there’s a chance someone will notice you even if they aren’t searching. To determine whether such a creature notices you, the GM compares your Performance check with that creature’s passive Perception score, which equals 10 + the creature’s linked ability score, as well as any other bonuses or
+penalties. If the creature has advantage, add 5. For disadvantage, subtract 5. For example, if a 1st-level character has a WIS +2 proficiency in Perception, he or she has a passive Perception of 13.
+>
+> _**What Can You See?**_ One of the main factors in determining whether you can find a hidden creature or object is how well you can see in an area, which might be **lightly** or **heavily obscured**, as explained in "The Environment.”
+
+### Constitution (CON)
+
+TBD
 
 # Forming a Group
 
