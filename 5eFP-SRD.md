@@ -2256,12 +2256,56 @@ You’ve developed the skills necessary to hold your own in close-­quarters gra
 
 # Using Ability Scores
 
-Six abilities provide a quick description of every creature’s physical and mental characteristics:
-- Strength, measuring physical power
+Six abilities ~~provide a quick description of~~ describe every creature’s physical and mental characteristics:
+
+### Strength (STR)
+
+STR measures bodily power, athletic training, and the extent to which you can exert raw physical force.
+
+#### STR Checks
+
+A STR check can model any attempt to lift, push, pull, or break something, to force your body through a space, or to otherwise apply brute force to a situation.
+
+The GM might call for a STR check when you try to accomplish tasks like the following:
+
+Your STR check covers difficult situations you encounter while climbing, jumping, or swimming. Examples include the following activities:
+
+- You attempt to climb a sheer or slippery cliff
+- Avoid hazards while scaling a wall
+- Cling to a surface while something is trying to knock you off
+- You try to jump an unusually long distance or pull off a stunt midjump
+- You struggle to swim or stay afloat in treacherous currents, storm-­tossed waves, or areas of thick seaweed
+- Another creature tries to push or pull you underwater or otherwise interfere with your swimming
+- Force open a stuck, locked, or barred door
+- Break free of bonds
+- Push through a tunnel that is too small
+- Hang on to a wagon while being dragged behind it
+- Tip over a statue
+- Keep a boulder from rolling
+
+#### Attack Rolls
+
+You add your STR to your attack roll when attacking with a melee weapon such as a mace, a battleaxe, or a javelin. You use melee weapons to make melee attacks in hand-to-­hand combat, and some of them can be thrown to make a ranged attack.
+
+#### Lifting and Carrying
+
+Your STR score determines the amount of weight you can bear. The following terms define what you can lift or carry.
+
+_**Carrying Capacity.**_ Your carrying capacity is 3 + STR (minimum 1). This is how much equipment you can carry in addition to any equipped items.
+
+_**Push, Drag, or Lift.**_ You can push, drag, or lift a weight in pounds equal to 30 x STR. While pushing or dragging weight in excess of this number, your speed drops to 1 square.
+
+_**Size and Strength.**_ Larger creatures can bear more weight, whereas Tiny creatures can carry less. For each size category above Medium, double the creature’s carrying capacity and the amount it can push, drag, or lift. For a Tiny creature, halve these values.
+
+
 - Dexterity, measuring agility
+
 - Constitution, measuring endurance
+
 - Intelligence, measuring reasoning and memory
+
 - Wisdom, measuring awareness and willpower
+
 - Charisma, measuring force of personality
 
 Is a character muscle-­bound and insightful? Brilliant and charming? Nimble and hardy? Ability scores define these qualities—a creature’s assets as well as weaknesses.
@@ -2421,37 +2465,6 @@ Group checks don’t come up very often, and they’re most useful when all the 
 ## Using Each Ability
 
 Every task that a character or monster might attempt in the game is covered by one of the six abilities. This section explains in more detail what those abilities mean and the ways they are used in the game.
-
-### Strength (STR)
-
-STR measures bodily power, athletic training, and the extent to which you can exert raw physical force.
-
-#### STR Checks
-
-A STR check can model any attempt to apply pressure, exert movement, overcome obstacles, exploit or protect vulnerabilities, or apply brute force.
-
-The GM might call for a STR check when you try to accomplish tasks like the following:
-
-- _**Insight.**_ Determine the strength of an adversary or obstacle
-- _**Medicine.**_ Stabilize a fallen ally while providing cover or carrying the ally to safety
-- _**Perception.**_ Identify structural weaknesses in buildings and objects
-- _**Performance.**_ Force open a stuck, locked, or barred door
-- _**Survival.**_ Harvest ore, wood, or stone; hunt
-- _**Tools.**_ Create, fortify, or repair constructs, objects, and buildings
-
-#### Attack Rolls
-
-You add your STR to your attack roll when attacking with a melee weapon such as a mace, a battleaxe, or a javelin. You use melee weapons to make melee attacks in hand-to-­hand combat, and some of them can be thrown to make a ranged attack.
-
-#### Lifting and Carrying
-
-Your STR score determines the amount of weight you can bear. The following terms define what you can lift or carry.
-
-_**Carrying Capacity.**_ Your carrying capacity is 3 + STR (minimum 1). This is how much equipment you can carry in addition to any equipped items.
-
-_**Push, Drag, or Lift.**_ You can push, drag, or lift a weight in pounds equal to 30 x STR. While pushing or dragging weight in excess of this number, your speed drops to 1 square.
-
-_**Size and Strength.**_ Larger creatures can bear more weight, whereas Tiny creatures can carry less. For each size category above Medium, double the creature’s carrying capacity and the amount it can push, drag, or lift. For a Tiny creature, halve these values.
 
 ### Dexterity (DEX)
 
