@@ -2464,7 +2464,7 @@ A DEX check can model any attempt to move nimbly, quickly, or quietly, or to kee
 The GM might call for a DEX check when you try to accomplish tasks like the following:
 
 - _**Insight.**_ Reveal an underlying truth without being noticed
-- _**Medicine.**_ Your quick action stabilizes wounds
+- _**Medicine.**_ Stabilizing a wound while in the back of a moving vehicle
 - _**Perception.**_ Scan a scene for subtle clues
 - _**Performance.**_ Craft a small or detailed object
 - _**Survival.**_ Harvest (fish), (herbs), (hides); forage
@@ -2498,7 +2498,20 @@ penalties. If the creature has advantage, add 5. For disadvantage, subtract 5. F
 
 ### Constitution (CON)
 
-TBD
+CON measures health, stamina, and vital force.
+
+#### CON Checks
+
+A CON check can model any attempt to push beyond normal limits.
+
+The GM might call for a CON check when you try to accomplish tasks like the following:
+
+- _**Insight.**_ Reveal hidden or unknown information by concentrating
+- _**Medicine.**_ Stabilize a wound while exhausted
+- _**Perception.**_ Using preternatural awareness to spot anything out of the ordinary
+- _**Performance.**_ Keep marching through adverse weather
+- _**Survival.**_ Use your instincts to navigate
+- _**Tools.**_ Forge or alter metal, vehicles
 
 # Forming a Group
 
