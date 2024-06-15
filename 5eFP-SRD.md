@@ -2268,8 +2268,6 @@ A STR check can model any attempt to lift, push, pull, or break something, to fo
 
 The GM might call for a STR check when you try to accomplish tasks like the following:
 
-Your STR check covers difficult situations you encounter while climbing, jumping, or swimming. Examples include the following activities:
-
 - You attempt to climb a sheer or slippery cliff
 - Avoid hazards while scaling a wall
 - Cling to a surface while something is trying to knock you off
