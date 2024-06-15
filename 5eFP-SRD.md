@@ -2295,8 +2295,55 @@ _**Push, Drag, or Lift.**_ You can push, drag, or lift a weight in pounds equal 
 
 _**Size and Strength.**_ Larger creatures can bear more weight, whereas Tiny creatures can carry less. For each size category above Medium, double the creature’s carrying capacity and the amount it can push, drag, or lift. For a Tiny creature, halve these values.
 
+### Dexterity (DEX)
 
-- Dexterity, measuring agility
+DEX measures agility, reflexes, and balance.
+
+#### DEX Checks
+
+A DEX check can model any attempt to move nimbly, quickly, or quietly, or to keep from falling on tricky footing.
+
+The GM might call for a DEX check when you try to accomplish tasks like the following:
+
+- Stay on your feet in a tricky situation
+- Acrobatic stunts, including dives, rolls, somersaults, and flips
+- Legerdemain or manual trickery, such as planting something on someone else or concealing an object on your person
+- Lift a coin purse off another person or slip something out of another person’s pocket
+- Conceal yourself from others
+- Control a heavily laden cart on a steep descent
+- Steer a chariot around a tight turn
+- Pick a lock
+- Disable a trap
+- Securely tie up a prisoner
+- Wriggle free of bonds
+- Play a stringed instrument
+- Craft a small or detailed object
+
+#### Attack Rolls
+
+You add DEX to your attack roll when attacking with a ranged weapon, such as a sling or a longbow. You can also add DEX to your attack roll when attacking with a melee weapon that has the finesse property, such as a dagger or a rapier.
+
+#### Armor Class
+
+Depending on the armor you wear, you might add some or all of DEX to your Armor Class (AC).
+
+#### Initiative
+
+At the beginning of every combat, you roll initiative by making a DEX check. Initiative determines the order of creatures’ turns in combat.
+
+> Hiding
+>
+> The GM decides when circumstances are appropriate for hiding. When you try to hide, make a Dexterity (Stealth) check. Until you are discovered or you stop hiding, that check’s total is contested by the Wisdom (Perception) check of any creature that actively searches for signs of your presence.
+>
+> You can’t hide from a creature that can see you clearly, and you give away your position if you make noise, such as shouting a warning or knocking over a vase.
+>
+> An invisible creature can always try to hide. Signs of its passage might still be noticed, and it does have to stay quiet.
+> In combat, most creatures stay alert for signs of danger all around, so if you come out of hiding and approach a creature, it usually sees you. However, under certain circumstances, the GM might allow you to stay hidden as you approach a creature that is distracted, allowing you to gain advantage on an attack roll before you are seen.
+>
+> _**Passive Perception.**_ When you hide, there’s a chance someone will notice you even if they aren’t searching. To determine whether such a creature notices you, the GM compares your Performance check with that creature’s passive Perception score, which equals 10 + the creature’s linked ability score, as well as any other bonuses or
+penalties. If the creature has advantage, add 5. For disadvantage, subtract 5. For example, if a 1st-level character has a WIS +2 proficiency in Perception, he or she has a passive Perception of 13.
+>
+> _**What Can You See?**_ One of the main factors in determining whether you can find a hidden creature or object is how well you can see in an area, which might be **lightly** or **heavily obscured**, as explained in "The Environment.”
 
 - Constitution, measuring endurance
 
@@ -2464,48 +2511,6 @@ Group checks don’t come up very often, and they’re most useful when all the 
 
 Every task that a character or monster might attempt in the game is covered by one of the six abilities. This section explains in more detail what those abilities mean and the ways they are used in the game.
 
-### Dexterity (DEX)
-
-DEX measures agility, reflexes, and balance.
-
-#### DEX Checks
-
-A DEX check can model any attempt to move nimbly, quickly, or quietly, or to keep from falling on tricky footing.
-
-The GM might call for a DEX check when you try to accomplish tasks like the following:
-
-- _**Insight.**_ Reveal an underlying truth without being noticed
-- _**Medicine.**_ Stabilizing a wound while in the back of a moving vehicle
-- _**Perception.**_ Scan a scene for subtle clues
-- _**Performance.**_ Craft a small or detailed object
-- _**Survival.**_ Harvest (fish), (herbs), (hides); forage
-- _**Tools.**_ Create or alter intricate and detailed work
-
-#### Attack Rolls
-
-You add DEX to your attack roll when attacking with a ranged weapon, such as a sling or a longbow. You can also add DEX to your attack roll when attacking with a melee weapon that has the finesse property, such as a dagger or a rapier.
-
-#### Armor Class
-
-Depending on the armor you wear, you might add some or all of DEX to your Armor Class (AC).
-
-#### Initiative
-
-At the beginning of every combat, you roll initiative by making a DEX check. Initiative determines the order of creatures’ turns in combat.
-
-> Hiding
->
-> The GM decides when circumstances are appropriate for hiding. When you try to hide, make a Dexterity (Stealth) check. Until you are discovered or you stop hiding, that check’s total is contested by the Wisdom (Perception) check of any creature that actively searches for signs of your presence.
->
-> You can’t hide from a creature that can see you clearly, and you give away your position if you make noise, such as shouting a warning or knocking over a vase.
->
-> An invisible creature can always try to hide. Signs of its passage might still be noticed, and it does have to stay quiet.
-> In combat, most creatures stay alert for signs of danger all around, so if you come out of hiding and approach a creature, it usually sees you. However, under certain circumstances, the GM might allow you to stay hidden as you approach a creature that is distracted, allowing you to gain advantage on an attack roll before you are seen.
->
-> _**Passive Perception.**_ When you hide, there’s a chance someone will notice you even if they aren’t searching. To determine whether such a creature notices you, the GM compares your Performance check with that creature’s passive Perception score, which equals 10 + the creature’s linked ability score, as well as any other bonuses or
-penalties. If the creature has advantage, add 5. For disadvantage, subtract 5. For example, if a 1st-level character has a WIS +2 proficiency in Perception, he or she has a passive Perception of 13.
->
-> _**What Can You See?**_ One of the main factors in determining whether you can find a hidden creature or object is how well you can see in an area, which might be **lightly** or **heavily obscured**, as explained in "The Environment.”
 
 ### Constitution (CON)
 
