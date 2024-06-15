@@ -2333,19 +2333,33 @@ At the beginning of every combat, you roll initiative by making a DEX check. Ini
 
 > Hiding
 >
-> The GM decides when circumstances are appropriate for hiding. When you try to hide, make a Dexterity (Stealth) check. Until you are discovered or you stop hiding, that check’s total is contested by the Wisdom (Perception) check of any creature that actively searches for signs of your presence.
+> The GM decides when circumstances are appropriate for hiding. When you try to hide, make a DEX check. Until you are discovered or you stop hiding, that check’s total is contested by the WIS check of any creature that actively searches for signs of your presence.
 >
 > You can’t hide from a creature that can see you clearly, and you give away your position if you make noise, such as shouting a warning or knocking over a vase.
 >
 > An invisible creature can always try to hide. Signs of its passage might still be noticed, and it does have to stay quiet.
 > In combat, most creatures stay alert for signs of danger all around, so if you come out of hiding and approach a creature, it usually sees you. However, under certain circumstances, the GM might allow you to stay hidden as you approach a creature that is distracted, allowing you to gain advantage on an attack roll before you are seen.
 >
-> _**Passive Perception.**_ When you hide, there’s a chance someone will notice you even if they aren’t searching. To determine whether such a creature notices you, the GM compares your Performance check with that creature’s passive Perception score, which equals 10 + the creature’s linked ability score, as well as any other bonuses or
-penalties. If the creature has advantage, add 5. For disadvantage, subtract 5. For example, if a 1st-level character has a WIS +2 proficiency in Perception, he or she has a passive Perception of 13.
+> _**Passive WIS.**_ When you hide, there’s a chance someone will notice you even if they aren’t searching. To determine whether such a creature notices you, the GM compares your DEX check with that creature’s passive WIS score, which equals 10 + the creature’s WIS score, as well as any other bonuses or penalties. If the creature has advantage, add 5. For disadvantage, subtract 5. For example, if a 1st-level character has a WIS +2 proficiency, he or she has a passive WIS of 13.
 >
 > _**What Can You See?**_ One of the main factors in determining whether you can find a hidden creature or object is how well you can see in an area, which might be **lightly** or **heavily obscured**, as explained in "The Environment.”
 
-- Constitution, measuring endurance
+### Constitution (CON)
+
+CON measures health, stamina, and vital force.
+
+#### CON Checks
+
+A CON check can model any attempt to push beyond normal limits.
+
+The GM might call for a Constitution check when you try to accomplish tasks like the following:
+
+- Hold your breath
+- March or labor for hours without rest
+- Go without sleep
+- Survive without food or water
+- Quaff an entire stein of ale in one go
+
 
 - Intelligence, measuring reasoning and memory
 
@@ -2512,22 +2526,7 @@ Group checks don’t come up very often, and they’re most useful when all the 
 Every task that a character or monster might attempt in the game is covered by one of the six abilities. This section explains in more detail what those abilities mean and the ways they are used in the game.
 
 
-### Constitution (CON)
 
-CON measures health, stamina, and vital force.
-
-#### CON Checks
-
-A CON check can model any attempt to push beyond normal limits.
-
-The GM might call for a CON check when you try to accomplish tasks like the following:
-
-- _**Insight.**_ Reveal hidden or unknown information by concentrating
-- _**Medicine.**_ Stabilize a wound while exhausted
-- _**Perception.**_ Using preternatural awareness to spot anything out of the ordinary
-- _**Performance.**_ Keep marching through adverse weather
-- _**Survival.**_ Use your instincts to navigate
-- _**Tools.**_ Forge or alter metal, vehicles
 
 # Forming a Group
 
