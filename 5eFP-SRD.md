@@ -2360,8 +2360,51 @@ The GM might call for a Constitution check when you try to accomplish tasks like
 - Survive without food or water
 - Quaff an entire stein of ale in one go
 
+#### MAX Wounds
 
-- Intelligence, measuring reasoning and memory
+Your total MAX Wounds equals CON + MAX Wounds provided by your class.
+
+If your CON modifier changes, your MAX Wounds changes as well, as though you had the new modifier. For example, if you raise your CON score when you reach 2nd level and your CON modifier increases from +1 to +2, you adjust your MAX Wounds as though the modifier had always been +2. Or if some effect lowers your CON score so as to reduce your CON modifier by 1, your MAX Wounds is reduced by 1. If your MAX Wounds reduces below the number of wounds you have, you fall unconcious as normal, and discard any excess wounds. Discarding any number of wounds in this way causes an automatic death save failure.
+
+### Intelligence (INT)
+
+Intelligence measures mental acuity, accuracy of recall, and the ability to reason.
+
+#### INT Checks
+
+An INT check comes into play when you need to draw on logic, education, memory, or deductive reasoning.
+
+The GM might call for an Intelligence check when you try to accomplish tasks like the following:
+
+- Recall lore about spells, magic items, eldritch symbols, magical traditions, the planes of existence, and the inhabitants of those planes
+- Recall lore about historical events, legendary people, ancient kingdoms, past disputes, recent wars, and lost civilizations
+- Recall lore about terrain, plants and animals, the weather, and natural cycles
+- Recall lore about deities, rites and prayers, religious hierarchies, holy symbols, and the practices of secret cults
+- Look around for clues and make deductions based on those clues
+- Communicate with a creature without using words
+- Estimate the value of a precious item
+- Pull together a disguise to pass as a city guard
+- Forge a document
+- Recall lore about a craft or trade
+- Win a game of skill
+
+#### Spellcasting Ability
+
+Wizards use INT as their spellcasting ability, which helps determine the saving throw DCs of spells they cast.
+
+### Wisdom (WIS)
+
+Wisdom reflects how attuned you are to the world around you and represents perceptiveness and intuition.
+
+#### WIS Checks
+
+A WIS check might reflect an effort to read body language, understand someone’s feelings, notice things about the environment, or care for an injured person.
+
+
+
+
+
+
 
 - Wisdom, measuring awareness and willpower
 
