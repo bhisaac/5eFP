@@ -1306,44 +1306,57 @@ Some of these languages are actually families of languages with many dialects. F
 Inspiration is a rule the GM uses to reward you when you show up to play a game session on time and for playing your character in an exceptional way.
 
 ### Gaining Inspiration
-At the beginning of each game session, PCs choose and dedicate two skills. Once the choices are made, the chosen dedications cannot be changed until the beginning of the next game session. Your GM then awards inspiration to all present PCs. Your GM also has the option to grant you inspiration for various reasons during gameplay. Generally, inspiration is given when you effectively portray your character in a compelling way. Your GM or setting handbook may introduce other ways to earn inspiration during the game.
+At the beginning of each game session, PCs choose and dedicate two from Insight, Medicine, Perception, Performance, or Survival. Once the choices are made, the chosen dedications cannot be changed until the beginning of the next game session. Your GM then awards inspiration to all present PCs. Your GM also has the option to grant you inspiration for various reasons during gameplay. Generally, inspiration is given when you effectively portray your character in a compelling way. Your GM or setting handbook may introduce other ways to earn inspiration during the game.
 
 You either have inspiration or you don’t—you can’t stockpile multiple “inspirations” for later use.
 
 ### Using Inspiration
-If you have inspiration, you can expend it when you make an attack roll, saving throw, or ability check. Spending your inspiration gives you advantage on that roll. Alternatively, you may expend your inspiration anytime to activate an inspired version of a dedicated skill. You do not roll dice whenever you activate an inspired version of a dedicated skill. You automatically receive the listed benefits.
+
+If you have inspiration, you can expend it when you make an attack roll, saving throw, or ability check. Spending your inspiration gives you advantage on that roll. Alternatively, you may expend your inspiration anytime to activate an inspired version of one of your dedications made at the start of the game session. You do not roll dice whenever you activate an inspired version of a dedication. You automatically receive the listed benefits.
 
 Additionally, if you have inspiration, you can reward another player for good roleplaying, clever thinking, or simply doing something exciting in the game. When another player character does something that really contributes to the story in a fun and interesting way, you can give up your inspiration to give that character inspiration.
 
-### Skill Descriptions
+### Inspired Dedications
 
-**_Insight._** Your successful Insight check reveals one hidden or obscured truth within the current scene. A scene may or may not have hidden or obscured truths. You might use Insight when searching for lies or predicting something's next move. Doing so might involve gleaning clues from body language, speech habits, and changes in mannerisms. This awareness extends beyond surface impressions, revealing the underlying truth of what you are witnessing.
+### Insight
 
-> **INSPIRED:** Your GM reveals to you all the hidden or obscured truths contained within the current scene. Features granted through spell effects specifically designed to prevent sight, such as _invisibility_ are not revealed; instead, their presence is confirmed, and you can sense the subtle flows of air and energy that the spell displaces in its wake. This awareness lasts until the beginning of your next turn. Your GM refunds any spent inspiration if little or no additional information is revealed.
+Your insight imbues inward sight, granting vision beneath surface impressions.
 
-***INSIGHT.*** Your Insight reveals hidden or obscured truths within the encounter's current scene. A scene may or may not have hidden or obscured truths within it. You might use Insight when searching for lies or predicting something's next move. Doing so involves gleaning clues from body language, speech habits, and changes in mannerisms. This awareness extends beyond surface impressions, revealing the underlying truth of what you are witnessing. **With inspiration** your GM reveals to you all the deceptive elements contained within the current scene. Features granted through spell effects specifically designed to prevent sight, such as _invisibility_ are not revealed; instead, their presence is confirmed, and you can sense the subtle flows of air and energy that the spell displaces in its wake. This awareness lasts until the beginning of your next turn. Your GM refunds your inspiration if no additional information is gained.
+Your GM reveals to you all the hidden or obscured pieces of information contained within the current scene. Features granted through spell effects specifically designed to prevent sight, such as _invisibility_ are not revealed; instead, their presence is confirmed, and you can sense the subtle flows of air and energy that the spell displaces in its wake. This awareness lasts until the beginning of your next turn. Your GM refunds any spent inspiration if little or no additional information is revealed.
 
-***MEDICINE.*** Choose any number of targets your character can see within 30 feet of you who are unconscious or dying. Each target immediately stabilizes and wakes up with minimum health.
+### Medicine
 
-***PERCEPTION.*** Your character receives all available pieces of information regarding the current scene. Hidden doors, creatures, traps, ambushes, whispered conversations—anything arising from sense data or information gained through the five senses. Your GM refunds your inspiration if no additional information is gained. This awareness lasts until the beginning of your next turn.
+Your medicine stabilizes wounds.
 
-***PERFORMANCE.*** You decide the outcome of the next action your character declares on their turn. You must use your inspiration this way before taking an action or rolling any dice. If the result of your chosen action further affects you on subsequent rounds, roll all attacks, ability checks, and saves relating to the chosen action with advantage until the end of the encounter.
+Choose any number of targets your character can see within 6 squares of you who have MAX Wounds. The targets immediately stabilize and heal 1 wound.
+
+### Perception
+
+Your perception enables you to spot, hear, or otherwise detect the presence of something.
+
+Your GM reveals to you all available pieces of information gathered through the five senses regarding the current scene. Your GM refunds your inspiration if no additional information is gained.
+
+### Performance
+
+Your performance allows the satisfying completion of one action.
+
+You decide the outcome of the next action your character declares on their turn. You must use your inspiration this way before taking an action or rolling any dice. If the result of your chosen action further affects you on subsequent rounds during the same encounter, roll all attacks, ability checks, and saves relating to the chosen action with advantage until the end of the encounter.
 
 >> Example 1:
 >>> (_GM_) "The room opens up, exposing a sprawling cliff face leading to the top of the spire."
 >>> 
->>> (_Player 1_) "I spend my inspiration to activate inspired PERFORMANCE."
+>>> (_Player 1_) "I spend my inspiration on PERFORMANCE."
 >>> 
 >>> (_GM_) "OK, great. Tell us about what action you're character wants to take. And then, when you're ready, tell us what happens."
 >>> 
 >>> (_Player 1_) "Thanks. Lita leaps onto the cliff face, finds her grip, and makes her way to the top."
 >>> 
->> In example 1, _Player 1_'s action resolves a successful Performance check without rolling to begin climbing the cliff face to reach the top of the spire, which is 40 squares above Lita's position. _Player 1_ has indicated that this climb is important in some way. While climbing the cliff, Lita then makes all attacks, ability checks, and saves with advantage. Later on, during the cliff-face encounter, Lita's skill is tested once again due to strong winds. She must succeed on a Performance check to keep her grip. Because she is still in the same cliff-face encounter, she rolls Performance with advantage.
+>> In example 1, _Player 1_'s action resolves a successful Performance check without rolling to begin climbing the cliff face to reach the top of the spire, which is 40 squares above Lita's position. _Player 1_ has indicated that this climb is important in some way. While climbing the cliff, Lita then makes all attacks, ability checks, and saves with advantage. Later on, during the cliff-face encounter, Lita's skill is tested once again due to strong winds. She must succeed on a STR check to keep her grip. Because she is still in the same cliff-face encounter, she rolls STR with advantage.
 >> 
 >> Example 2: 
 >>> _(GM)_ "Lita, it's your turn."
 >>> 
->>> _(Player 1)_ "I spend my inspiration to activate inspired PERFORMANCE."
+>>> _(Player 1)_ "I spend my inspiration on PERFORMANCE."
 >>> 
 >>> _(GM)_ "OK, great. Tell us about what action you're character wants to take. And then, when you're ready, tell us what happens."
 >>> 
@@ -1351,7 +1364,11 @@ Additionally, if you have inspiration, you can reward another player for good ro
 >>> 
 >> In example 2, _Player 1_'s action resolves a successful attack action from a hidden position and then finishes. The action does not continue on subsequent rounds.
 
-***SURVIVAL.*** Your character finds a path leading to another desired location on the current map. The revealed path must be traversable and cannot put PCs directly into harm's way. Your GM refunds your inspiration if no pathway is revealed. Alternatively, once per game session, you can use your inspired Survival to activate the inspired version of a skill you didn't dedicate at the beginning of the current game session.
+### Survival
+
+Your survival awards expanded capacities, allowing you to identify and acquire new advantages, qualities, or skills.
+
+You reveal a path leading toward an objective. Place a foothold or setting requirement on a revealed square of your choice up to 2 squares away from you. Alternatively, once per game session, you can use your inspired Survival to activate the inspired version of a dedication you didn't choose at the beginning of the current game session.
 
 # Backgrounds
 
@@ -2256,159 +2273,14 @@ You’ve developed the skills necessary to hold your own in close-­quarters gra
 
 # Using Ability Scores
 
-Six abilities ~~provide a quick description of~~ describe every creature’s physical and mental characteristics:
+Six abilities provide a quick description of every creature’s physical and mental characteristics:
 
-### Strength (STR)
-
-STR measures bodily power, athletic training, and the extent to which you can exert raw physical force.
-
-#### STR Checks
-
-A STR check can model any attempt to lift, push, pull, or break something, to force your body through a space, or to otherwise apply brute force to a situation.
-
-The GM might call for a STR check when you try to accomplish tasks like the following:
-
-- You attempt to climb a sheer or slippery cliff
-- Avoid hazards while scaling a wall
-- Cling to a surface while something is trying to knock you off
-- You try to jump an unusually long distance or pull off a stunt midjump
-- You struggle to swim or stay afloat in treacherous currents, storm-­tossed waves, or areas of thick seaweed
-- Another creature tries to push or pull you underwater or otherwise interfere with your swimming
-- Force open a stuck, locked, or barred door
-- Break free of bonds
-- Push through a tunnel that is too small
-- Hang on to a wagon while being dragged behind it
-- Tip over a statue
-- Keep a boulder from rolling
-
-#### Attack Rolls
-
-You add your STR to your attack roll when attacking with a melee weapon such as a mace, a battleaxe, or a javelin. You use melee weapons to make melee attacks in hand-to-­hand combat, and some of them can be thrown to make a ranged attack.
-
-#### Lifting and Carrying
-
-Your STR score determines the amount of weight you can bear. The following terms define what you can lift or carry.
-
-_**Carrying Capacity.**_ Your carrying capacity is 3 + STR (minimum 1). This is how much equipment you can carry in addition to any equipped items.
-
-_**Push, Drag, or Lift.**_ You can push, drag, or lift a weight in pounds equal to 30 x STR. While pushing or dragging weight in excess of this number, your speed drops to 1 square.
-
-_**Size and Strength.**_ Larger creatures can bear more weight, whereas Tiny creatures can carry less. For each size category above Medium, double the creature’s carrying capacity and the amount it can push, drag, or lift. For a Tiny creature, halve these values.
-
-### Dexterity (DEX)
-
-DEX measures agility, reflexes, and balance.
-
-#### DEX Checks
-
-A DEX check can model any attempt to move nimbly, quickly, or quietly, or to keep from falling on tricky footing.
-
-The GM might call for a DEX check when you try to accomplish tasks like the following:
-
-- Stay on your feet in a tricky situation
-- Acrobatic stunts, including dives, rolls, somersaults, and flips
-- Legerdemain or manual trickery, such as planting something on someone else or concealing an object on your person
-- Lift a coin purse off another person or slip something out of another person’s pocket
-- Conceal yourself from others
-- Control a heavily laden cart on a steep descent
-- Steer a chariot around a tight turn
-- Pick a lock
-- Disable a trap
-- Securely tie up a prisoner
-- Wriggle free of bonds
-- Play a stringed instrument
-- Craft a small or detailed object
-
-#### Attack Rolls
-
-You add DEX to your attack roll when attacking with a ranged weapon, such as a sling or a longbow. You can also add DEX to your attack roll when attacking with a melee weapon that has the finesse property, such as a dagger or a rapier.
-
-#### Armor Class
-
-Depending on the armor you wear, you might add some or all of DEX to your Armor Class (AC).
-
-#### Initiative
-
-At the beginning of every combat, you roll initiative by making a DEX check. Initiative determines the order of creatures’ turns in combat.
-
-> Hiding
->
-> The GM decides when circumstances are appropriate for hiding. When you try to hide, make a DEX check. Until you are discovered or you stop hiding, that check’s total is contested by the WIS check of any creature that actively searches for signs of your presence.
->
-> You can’t hide from a creature that can see you clearly, and you give away your position if you make noise, such as shouting a warning or knocking over a vase.
->
-> An invisible creature can always try to hide. Signs of its passage might still be noticed, and it does have to stay quiet.
-> In combat, most creatures stay alert for signs of danger all around, so if you come out of hiding and approach a creature, it usually sees you. However, under certain circumstances, the GM might allow you to stay hidden as you approach a creature that is distracted, allowing you to gain advantage on an attack roll before you are seen.
->
-> _**Passive WIS.**_ When you hide, there’s a chance someone will notice you even if they aren’t searching. To determine whether such a creature notices you, the GM compares your DEX check with that creature’s passive WIS score, which equals 10 + the creature’s WIS score, as well as any other bonuses or penalties. If the creature has advantage, add 5. For disadvantage, subtract 5. For example, if a 1st-level character has a WIS +2 proficiency, he or she has a passive WIS of 13.
->
-> _**What Can You See?**_ One of the main factors in determining whether you can find a hidden creature or object is how well you can see in an area, which might be **lightly** or **heavily obscured**, as explained in "The Environment.”
-
-### Constitution (CON)
-
-CON measures health, stamina, and vital force.
-
-#### CON Checks
-
-A CON check can model any attempt to push beyond normal limits.
-
-The GM might call for a Constitution check when you try to accomplish tasks like the following:
-
-- Hold your breath
-- March or labor for hours without rest
-- Go without sleep
-- Survive without food or water
-- Quaff an entire stein of ale in one go
-
-#### MAX Wounds
-
-Your total MAX Wounds equals CON + MAX Wounds provided by your class.
-
-If your CON modifier changes, your MAX Wounds changes as well, as though you had the new modifier. For example, if you raise your CON score when you reach 2nd level and your CON modifier increases from +1 to +2, you adjust your MAX Wounds as though the modifier had always been +2. Or if some effect lowers your CON score so as to reduce your CON modifier by 1, your MAX Wounds is reduced by 1. If your MAX Wounds reduces below the number of wounds you have, you fall unconcious as normal, and discard any excess wounds. Discarding any number of wounds in this way causes an automatic death save failure.
-
-### Intelligence (INT)
-
-Intelligence measures mental acuity, accuracy of recall, and the ability to reason.
-
-#### INT Checks
-
-An INT check comes into play when you need to draw on logic, education, memory, or deductive reasoning.
-
-The GM might call for an Intelligence check when you try to accomplish tasks like the following:
-
-- Recall lore about spells, magic items, eldritch symbols, magical traditions, the planes of existence, and the inhabitants of those planes
-- Recall lore about historical events, legendary people, ancient kingdoms, past disputes, recent wars, and lost civilizations
-- Recall lore about terrain, plants and animals, the weather, and natural cycles
-- Recall lore about deities, rites and prayers, religious hierarchies, holy symbols, and the practices of secret cults
-- Look around for clues and make deductions based on those clues
-- Communicate with a creature without using words
-- Estimate the value of a precious item
-- Pull together a disguise to pass as a city guard
-- Forge a document
-- Recall lore about a craft or trade
-- Win a game of skill
-
-#### Spellcasting Ability
-
-Wizards use INT as their spellcasting ability, which helps determine the saving throw DCs of spells they cast.
-
-### Wisdom (WIS)
-
-Wisdom reflects how attuned you are to the world around you and represents perceptiveness and intuition.
-
-#### WIS Checks
-
-A WIS check might reflect an effort to read body language, understand someone’s feelings, notice things about the environment, or care for an injured person.
-
-
-
-
-
-
-
-- Wisdom, measuring awareness and willpower
-
-- Charisma, measuring force of personality
+- **Strength**, measuring physical power
+- **Dexterity**, measuring agility
+- **Constitution**, measuring endurance
+- **Intelligence**, measuring reasoning and memory
+- **Wisdom**, measuring perception and insight
+- **Charisma**, measuring force of personality
 
 Is a character muscle-­bound and insightful? Brilliant and charming? Nimble and hardy? Ability scores define these qualities—a creature’s assets as well as weaknesses.
 
@@ -2470,72 +2342,6 @@ Both participants in a contest make ability checks appropriate to their efforts.
 
 If the contest results in a tie, the situation remains the same as it was before the contest. Thus, one contestant might win the contest by default. If two characters tie in a contest to snatch a ring off the floor, neither character grabs it. In a contest between a monster trying to open a door and an adventurer trying to keep the door closed, a tie means that the door remains shut.
 
-### Skills
-
-Each skill covers a broad range of capabilities, including those that a character or a monster can be proficient in. A skill represents a specific aspect of a chosen ability score ~~, and an individual’s proficiency in a skill demonstrates a focus on that aspect~~. (A character’s starting ability proficiencies are determined at character creation, and a monster’s ability proficiencies appear in the monster’s stat block. Each skill is also assigned to one of the six ability scores at character creation. Once an ability is selected for a given skill, it cannot be selected again for another skill.)
-
-For example, a DEX proficiency assigned to the Performance skill might reflect (but isn't limited to) a character’s attempt to pull off an acrobatic stunt, to palm an object, or to stay hidden. Each of these aspects of DEX has an associated action. So a character who has assigned DEX proficiency to the Performance skill is good at Performance checks because they are agile.
-
-Without proficiency in an ability, a character or creature makes a normal ability check. For example, if a character attempts to climb up a dangerous cliff, the GM might ask for a Performance check. If the character has proficiency with the chosen ability for Performance, the character’s proficiency bonus is added to the check. If the character lacks that proficiency, that character makes an ability check without adding the character's proficiency bonus.
-
-### Insight
-
-Your insight imbues inward sight, granting vision beneath surface impressions.
-
-Your successful Insight check reveals one hidden or obscured truth within the current scene. A scene may or may not have hidden or obscured truths. You might use Insight when searching for deceptions or predicting something's next move. Doing so might involve gleaning clues from body language, speech habits, and changes in mannerisms. This awareness extends beyond surface impressions, revealing the underlying truth of what you are witnessing.
-
-> **INSPIRED:** Your GM reveals to you all the hidden or obscured pieces of information contained within the current scene. Features granted through spell effects specifically designed to prevent sight, such as _invisibility_ are not revealed; instead, their presence is confirmed, and you can sense the subtle flows of air and energy that the spell displaces in its wake. This awareness lasts until the beginning of your next turn. Your GM refunds any spent inspiration if little or no additional information is revealed.
-
-### Medicine
-
-Your medicine stabilizes wounds.
-
-A successful Medicine check stabilizes a dying companion or diagnoses an illness.
-
-> **INSPIRED:** Choose any number of targets your character can see within 6 squares of you who have MAX Wounds. The targets immediately stabilize and heal 1 wound.
-
-### Perception
-
-Your perception enables you to spot, hear, or otherwise detect the presence of something.
-
-> **INSPIRED:** Your GM reveals to you all available pieces of information gathered through the five senses regarding the current scene. Your GM refunds your inspiration if no additional information is gained.
-
-### Performance
-
-Your performance allows the satisfying completion of one action.
-
-> **INSPIRED:** You decide the outcome of the next action your character declares on their turn. You must use your inspiration this way before taking an action or rolling any dice. If the result of your chosen action further affects you on subsequent rounds during the same encounter, roll all attacks, ability checks, and saves relating to the chosen action with advantage until the end of the encounter.
-
->> Example 1:
->>> (_GM_) "The room opens up, exposing a sprawling cliff face leading to the top of the spire."
->>> 
->>> (_Player 1_) "I spend my inspiration on PERFORMANCE."
->>> 
->>> (_GM_) "OK, great. Tell us about what action you're character wants to take. And then, when you're ready, tell us what happens."
->>> 
->>> (_Player 1_) "Thanks. Lita leaps onto the cliff face, finds her grip, and makes her way to the top."
->>> 
->> In example 1, _Player 1_'s action resolves a successful Performance check without rolling to begin climbing the cliff face to reach the top of the spire, which is 40 squares above Lita's position. _Player 1_ has indicated that this climb is important in some way. While climbing the cliff, Lita then makes all attacks, ability checks, and saves with advantage. Later on, during the cliff-face encounter, Lita's skill is tested once again due to strong winds. She must succeed on a Performance check to keep her grip. Because she is still in the same cliff-face encounter, she rolls Performance with advantage.
->> 
->> Example 2: 
->>> _(GM)_ "Lita, it's your turn."
->>> 
->>> _(Player 1)_ "I spend my inspiration on PERFORMANCE."
->>> 
->>> _(GM)_ "OK, great. Tell us about what action you're character wants to take. And then, when you're ready, tell us what happens."
->>> 
->>> _(Player 1)_ "I jump out of the shadows where I'm hiding and attack the goblin, catching it off guard and unaware. I strike with a critical hit, dealing maximum damage to the creature, adding my sneak attack damage."
->>> 
->> In example 2, _Player 1_'s action resolves a successful attack action from a hidden position and then finishes. The action does not continue on subsequent rounds.
-
-### Survival
-
-Your survival awards expanded capacities, allowing you to identify and acquire new advantages, qualities, or skills.
-
-A successful Survival check allows you to gather any available resources at your current position.
-
-> **INSPIRED:** You reveal a path leading toward an objective. Place a foothold or setting requirement on a revealed square of your choice up to 2 squares away from you. Alternatively, once per game session, you can use your inspired Survival to activate the inspired version of a skill you didn't dedicate at the beginning of the current game session.
-
 ### Passive Checks
 
 A passive check is a special kind of ability check that doesn’t involve any die rolls. Such a check can represent the average result for a task done repeatedly, such as searching for secret doors over and over again, or can be used when the GM wants to secretly determine whether the characters succeed at something without rolling dice, such as noticing a hidden monster.
@@ -2566,7 +2372,201 @@ Group checks don’t come up very often, and they’re most useful when all the 
 
 ## Using Each Ability
 
-Every task that a character or monster might attempt in the game is covered by one of the six abilities. This section explains in more detail what those abilities mean and the ways they are used in the game.
+Every task that a character or monster might attempt in the game is covered by one of the six abilities. This section explains in more detail what those abilities mean and the ways they are used in the game. (A character’s starting proficiencies are determined by class and background at character creation, and a monster’s ability proficiencies appear in the monster’s stat block.)
+
+### Strength (STR)
+
+STR measures bodily power, athletic training, and the extent to which you can exert raw physical force.
+
+#### STR Checks
+
+A STR check can model any attempt to lift, push, pull, or break something, to force your body through a space, or to otherwise apply brute force to a situation.
+
+The GM might call for a STR check when you try to accomplish tasks like the following:
+
+- You attempt to climb a sheer or slippery cliff
+- Avoid hazards while scaling a wall
+- Cling to a surface while something is trying to knock you off
+- You try to jump an unusually long distance or pull off a stunt midjump
+- Swim or stay afloat in treacherous currents, storm-­tossed waves, or areas of thick seaweed
+- Another creature tries to push or pull you underwater or otherwise interfere with your swimming
+- Force open a stuck, locked, or barred door
+- Break free of bonds
+- Push through a tunnel that is too small
+- Hang on to a wagon while being dragged behind it
+- Tip over a statue
+- Keep a boulder from rolling
+
+#### Attack Rolls
+
+You add your STR to your attack roll when attacking with a melee weapon such as a mace, a battleaxe, or a javelin. You use melee weapons to make melee attacks in hand-to-­hand combat, and some of them can be thrown to make a ranged attack.
+
+#### Lifting and Carrying
+
+Your STR score determines the amount of weight you can bear. The following terms define what you can lift or carry.
+
+_**Carrying Capacity.**_ Your carrying capacity is 3 + STR (minimum 1). This is how much equipment you can carry in addition to any equipped items.
+
+_**Push, Drag, or Lift.**_ You can push, drag, or lift a weight in pounds equal to 30 x STR. While pushing or dragging weight in excess of this number, your speed drops to 1 square.
+
+_**Size and Strength.**_ Larger creatures can bear more weight, whereas Tiny creatures can carry less. For each size category above Medium, double the creature’s carrying capacity and the amount it can push, drag, or lift. For a Tiny creature, halve these values.
+
+### Dexterity (DEX)
+
+DEX measures agility, reflexes, and balance.
+
+#### DEX Checks
+
+A DEX check can model any attempt to move nimbly, quickly, or quietly, or to keep from falling on tricky footing.
+
+The GM might call for a DEX check when you try to accomplish tasks like the following:
+
+- Stay on your feet in a tricky situation
+- Acrobatic stunts, including dives, rolls, somersaults, and flips
+- Legerdemain or manual trickery, such as planting something on someone else or concealing an object on your person
+- Lift a coin purse off another person or slip something out of another person’s pocket
+- Conceal yourself from others
+- Control a heavily laden cart on a steep descent
+- Steer a chariot around a tight turn
+- Pick a lock
+- Disable a trap
+- Securely tie up a prisoner
+- Wriggle free of bonds
+- Play a stringed instrument
+- Craft a small or detailed object
+
+#### Attack Rolls
+
+You add DEX to your attack roll when attacking with a ranged weapon, such as a sling or a longbow. You can also add DEX to your attack roll when attacking with a melee weapon that has the finesse property, such as a dagger or a rapier.
+
+#### Armor Class
+
+Depending on the armor you wear, you might add some or all of DEX to your Armor Class (AC).
+
+#### Initiative
+
+At the beginning of every combat, you roll initiative by rolling d20 + DEX. Initiative determines the order of creatures’ turns in combat.
+
+> Hiding
+>
+> The GM decides when circumstances are appropriate for hiding. When you try to hide, make a DEX check. Until you are discovered or you stop hiding, that check’s total is contested by the WIS check of any creature that actively searches for signs of your presence.
+>
+> You can’t hide from a creature that can see you clearly, and you give away your position if you make noise, such as shouting a warning or knocking over a vase.
+>
+> An invisible creature can always try to hide. Signs of its passage might still be noticed, and it does have to stay quiet.
+> In combat, most creatures stay alert for signs of danger all around, so if you come out of hiding and approach a creature, it usually sees you. However, under certain circumstances, the GM might allow you to stay hidden as you approach a creature that is distracted, allowing you to gain advantage on an attack roll before you are seen.
+>
+> _**Passive WIS.**_ When you hide, there’s a chance someone will notice you even if they aren’t searching. To determine whether such a creature notices you, the GM compares your DEX check with that creature’s passive WIS score, which equals 10 + the creature’s WIS score, as well as any other bonuses or penalties. If the creature has advantage, add 5. For disadvantage, subtract 5. For example, if a 1st-level character has a WIS +2 proficiency, he or she has a passive WIS of 13.
+>
+> _**What Can You See?**_ One of the main factors in determining whether you can find a hidden creature or object is how well you can see in an area, which might be **lightly** or **heavily obscured**, as explained in "The Environment.”
+
+### Constitution (CON)
+
+CON measures health, stamina, and vital force.
+
+#### CON Checks
+
+A CON check can model any attempt to push beyond normal limits.
+
+The GM might call for a Constitution check when you try to accomplish tasks like the following:
+
+- Hold your breath
+- March or labor for hours without rest
+- Go without sleep
+- Survive without food or water
+- Quaff an entire stein of ale in one go
+
+#### MAX Wounds
+
+Your total MAX Wounds equals CON + MAX Wounds provided by your class.
+
+If your CON modifier changes, calculate your new MAX Wounds total as though you had the new modifier. If your MAX Wounds reduces below the number of wounds you have, you fall unconscious and discard any excess wounds. Discarding any number of wounds in this way causes one automatic death save failure.
+
+### Intelligence (INT)
+
+Intelligence measures mental acuity, accuracy of recall, and the ability to reason.
+
+#### INT Checks
+
+An INT check comes into play when you need to draw on logic, education, memory, or deductive reasoning.
+
+The GM might call for an Intelligence check when you try to accomplish tasks like the following:
+
+- Recall lore about spells, magic items, eldritch symbols, magical traditions, the planes of existence, and the inhabitants of those planes
+- Recall lore about historical events, legendary people, ancient kingdoms, past disputes, recent wars, and lost civilizations
+- Recall lore about terrain, plants and animals, the weather, and natural cycles
+- Recall lore about deities, rites and prayers, religious hierarchies, holy symbols, and the practices of secret cults
+- Look around for clues and make deductions based on those clues
+- Communicate with a creature without using words
+- Estimate the value of a precious item
+- Pull together a disguise to pass as a city guard
+- Forge a document
+- Recall lore about a craft or trade
+- Win a game of skill
+
+#### Spellcasting Ability
+
+Wizards use INT as their spellcasting ability, which helps determine the saving throw DCs of spells they cast.
+
+### Wisdom (WIS)
+
+Wisdom reflects how attuned you are to the world around you and represents perceptiveness and intuition.
+
+#### WIS Checks
+
+A WIS check might reflect an effort to read body language, understand someone’s feelings, notice things about the environment, or care for an injured person.
+
+The GM might call for a Wisdom check when you try to accomplish tasks like the following:
+
+- Calm down a domesticated animal, keep a mount from getting spooked, or intuit an animal’s intentions
+- Determine the true intentions of a creature
+- Stabilize a dying companion or diagnose an illness
+- Spot, hear, or otherwise detect the presence of something
+- Follow tracks
+- Hunt wild game
+- Guide your group through frozen wastelands
+- Identify signs that owlbears live nearby
+- Predict the weather
+- Avoid quicksand and other natural hazards
+- Get a gut feeling about what course of action to follow
+- Discern whether a seemingly dead or living creature is undead
+
+#### Spellcasting Ability
+
+Clerics, druids, and rangers use WIS as their spellcasting ability, which helps determine the saving throw DCs of spells they cast.
+
+### Charisma (CHA)
+
+CHA measures your ability to interact effectively with others. It includes such factors as confidence and eloquence, and it can represent a charming or commanding personality.
+
+#### CHA Checks
+
+A CHA check might arise when you try to influence or entertain others, when you try to make an impression or tell a convincing lie, or when you are navigating a tricky social situation.
+
+The GM might call for a Charisma check when you try to accomplish tasks like the following:
+
+- Convincingly hide the truth
+- Influence someone through overt threats, hostile actions, and physical violence
+- Delight an audience with music, dance, acting, storytelling, or some other form of entertainment
+- Influence someone or a group of people with tact, social graces, or good nature
+- Find the best person to talk to for news, rumors, and gossip
+- Blend into a crowd to get a sense of key topics of conversation
+
+#### Spellcasting Ability
+
+Bards, paladins, sorcerers, and warlocks use Charisma as their spellcasting ability, which helps determine the saving throw DCs of spells they cast.
+
+## Saving Throws
+
+A saving throw—also called a save—is a special kind of ability check representing an attempt to resist a spell, a trap, a poison, a disease, or a similar threat. You don’t normally decide to make a saving throw; you are forced to make one because your character or monster is at risk of harm.
+
+To make a saving throw, roll an ability check and add your proficiency bonus, if applicable. For example, you use your DEX for a DEX saving throw. If you have DEX proficiency, then you add your proficiency bonus to DEX saves.
+
+A saving throw can be modified by a situational bonus or penalty and can be affected by advantage and disadvantage, as determined by the GM.
+
+The Difficulty Class for a saving throw is determined by the effect that causes it. For example, the DC for a saving throw allowed by a spell is determined by the caster’s spellcasting ability and proficiency bonus.
+
+The result of a successful or failed saving throw is also detailed in the effect that allows the save. Usually, a successful save means that a creature suffers no harm, or reduced harm, from an effect.
 
 
 
