@@ -649,7 +649,7 @@ You	start	with	the	following	equipment,	in	addition	to	the	equipment	granted	by	
 
 You	have	significant experience	studying,	tracking,	hunting,	and	even	talking	to	a	certain	type	of	enemy. Choose	a	type	of	favored	enemy:	aberrations,	beasts, celestials,	constructs,	dragons,	elementals, fey,	fiends,	giants,	monstrosities,	oozes,	plants,	or undead.	Alternatively,	you	can	select	two species	of	humanoid	(such	as	gnolls	and	orcs)	as	favored enemies.
 
-You	have	advantage	on	Survival	checks	to	track	your	favored	enemies,	as	well	as	on Insight	checks	to recall	information	about	them.
+You	have	advantage	on	WIS	checks	to	track	your	favored	enemies,	as	well	as	on INT	checks	to recall	information	about	them.
 
 When	you	gain	this	feature,	you	also	learn	one language	of	your	choice	that	is	spoken	by	your favored	enemies,	if	they	speak	one	at all.
 
@@ -1312,7 +1312,7 @@ You either have inspiration or you don’t—you can’t stockpile multiple “i
 
 ### Using Inspiration
 
-If you have inspiration, you can expend it when you make an attack roll, saving throw, or ability check. Spending your inspiration gives you advantage on that roll. Alternatively, you may expend your inspiration anytime to activate an inspired version of one of your dedications made at the start of the game session. You do not roll dice whenever you activate an inspired version of a dedication. You automatically receive the listed benefits.
+If you have inspiration, you can expend it when you make an attack roll, saving throw, or ability check. Spending your inspiration gives you advantage on that roll. Alternatively, you may expend your inspiration anytime to activate an inspired version of one of your dedications made at the start of the game session.
 
 Additionally, if you have inspiration, you can reward another player for good roleplaying, clever thinking, or simply doing something exciting in the game. When another player character does something that really contributes to the story in a fun and interesting way, you can give up your inspiration to give that character inspiration.
 
@@ -1328,7 +1328,7 @@ Your GM reveals to you all the hidden or obscured pieces of information containe
 
 Your medicine stabilizes wounds.
 
-Choose any number of targets your character can see within 6 squares of you who have MAX Wounds. The targets immediately stabilize and heal 1 wound.
+Choose any number of targets your character can see within 6 squares of you who have MAX Wounds. The targets immediately heal 1 wound and wake up.
 
 ### Perception
 
