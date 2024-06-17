@@ -1379,7 +1379,7 @@ You decide the outcome of the next action your character declares on their turn.
 
 Your survival awards expanded capacities, allowing you to identify and acquire new advantages, qualities, or skills.
 
-You reveal a path leading toward an objective. Place a foothold or setting requirement on a revealed square of your choice up to 2 squares away from you. Alternatively, once per game session, you can use your inspired Survival to activate the inspired version of a dedication you didn't choose at the beginning of the current game session.
+You reveal a path leading toward an objective. Place a foothold or setting requirement on a revealed square of your choice up to 2 squares away from you. Alternatively, once per game session, when you spend your inspiration to activate Survival, you can instead choose to activate a dedication you didn't choose at the beginning of the current game session.
 
 # Backgrounds
 
