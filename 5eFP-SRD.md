@@ -1314,7 +1314,7 @@ Some of these languages are actually families of languages with many dialects. F
 Inspiration is a rule the GM uses to reward you when you show up to play a game session on time and for playing your character in an exceptional way.
 
 ### Gaining Inspiration
-At the beginning of each game session, PCs choose and dedicate two from Insight, Medicine, Perception, Performance, or Survival. Once the choices are made, the chosen dedications cannot be changed until the beginning of the next game session. Your GM then awards inspiration to all present PCs. Your GM also has the option to grant you inspiration for various reasons during gameplay. Generally, inspiration is given when you effectively portray your character in a compelling way. Your GM or setting handbook may introduce other ways to earn inspiration during the game.
+At the beginning of each game session, PCs choose two dedications from Insight, Medicine, Perception, Performance, or Survival. Once the choices are made, the chosen dedications cannot be changed until the beginning of the next game session. Your GM then awards inspiration to all present PCs. Your GM also has the option to grant you inspiration for various reasons during gameplay. Generally, inspiration is given when you effectively portray your character in a compelling way. Your GM or setting handbook may introduce other ways to earn inspiration during the game.
 
 You either have inspiration or you don’t—you can’t stockpile multiple “inspirations” for later use.
 
@@ -1336,7 +1336,7 @@ Your GM reveals to you all the hidden or obscured pieces of information containe
 
 Your medicine stabilizes wounds.
 
-Choose any number of targets your character can see within 6 squares of you who have MAX Wounds. The targets immediately heal 1 wound and wake up.
+Choose any number of creatures your character can see within 6 squares of you who have MAX Wounds. The chosen creatures heal 1 wound and wake up.
 
 ### Perception
 
