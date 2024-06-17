@@ -1324,7 +1324,7 @@ If you have inspiration, you can expend it when you make an attack roll, saving 
 
 Additionally, if you have inspiration, you can reward another player for good roleplaying, clever thinking, or simply doing something exciting in the game. When another player character does something that really contributes to the story in a fun and interesting way, you can give up your inspiration to give that character inspiration.
 
-### Inspired Dedications
+### Dedications
 
 ### Insight
 
