@@ -1314,23 +1314,26 @@ Some of these languages are actually families of languages with many dialects. F
 Inspiration is a rule the GM uses to reward you when you show up to play a game session on time and for playing your character in an exceptional way.
 
 ### Gaining Inspiration
+
 At the beginning of each game session, PCs choose two different dedications from Insight, Medicine, Perception, Performance, or Survival. Once the choices are made, the chosen dedications cannot be changed until the beginning of the next game session. Your GM then awards inspiration to all present PCs. Your GM also has the option to grant you inspiration for various reasons during gameplay. Generally, inspiration is given when you effectively portray your character in a compelling way. Your GM or setting handbook may introduce other ways to earn inspiration during the game.
 
 You either have inspiration or you don’t—you can’t stockpile multiple “inspirations” for later use.
 
 ### Using Inspiration
 
-If you have inspiration, you can expend it when you make an attack roll, saving throw, or ability check. Spending your inspiration gives you advantage on that roll. Alternatively, you may expend your inspiration anytime to activate an inspired version of one of your dedications made at the start of the game session.
+If you have inspiration, you can expend it when you make an attack roll, saving throw, or ability check. Spending your inspiration gives you advantage on that roll. Alternatively, you may expend your inspiration anytime to activate a dedication made at the start of the game session.
 
 Additionally, if you have inspiration, you can reward another player for good roleplaying, clever thinking, or simply doing something exciting in the game. When another player character does something that really contributes to the story in a fun and interesting way, you can give up your inspiration to give that character inspiration.
 
 ### Dedications
 
+The following describes each dedication and how to use them in the game.
+
 ### Insight
 
 Your insight imbues inward sight, granting vision beneath surface impressions.
 
-Your GM reveals to you all the hidden or obscured pieces of information contained within the current scene. Features granted through spell effects specifically designed to prevent sight, such as _invisibility_ are not revealed; instead, their presence is confirmed, and you can sense the subtle flows of air and energy that the spell displaces in its wake. This awareness lasts until the beginning of your next turn. Your GM refunds any spent inspiration if little or no additional information is revealed.
+Your GM reveals to you all the hidden or obscured pieces of information contained within the current scene. Features granted through spell effects specifically designed to prevent sight, such as _invisibility_ are not revealed; instead, their presence is confirmed, and you can sense the subtle flows of air and energy that the spell displaces in its wake. This awareness lasts until the beginning of your next turn.
 
 ### Medicine
 
@@ -1342,7 +1345,7 @@ Choose any number of creatures your character can see within 6 squares of you wh
 
 Your perception enables you to spot, hear, or otherwise detect the presence of something.
 
-Your GM reveals to you all available pieces of information gathered through the five senses regarding the current scene. Your GM refunds your inspiration if no additional information is gained.
+Your GM reveals to you all the information available regarding the current scene gathered through the five senses (sight, smell, sound, taste, and touch).
 
 ### Performance
 
