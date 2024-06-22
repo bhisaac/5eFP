@@ -2268,7 +2268,7 @@ You gain proficiency with heavy armor and shields. At the beginning of each of y
 
 _Prerequisite: Proficiency with light armor_
 
-You gain proficiency with medium armor and shields. Increase your maximum DEX bonus allowed while wearing medium armor by +1. Medium armor no longer imposes disadvantage on Performance checks.
+You gain proficiency with medium armor and shields. Increase your maximum DEX bonus allowed while wearing medium armor by +1. Medium armor no longer imposes disadvantage on DEX checks.
 
 ## Armor Training (Light)
 
