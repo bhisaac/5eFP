@@ -2679,7 +2679,7 @@ Encounter elements cannot be reduced below the following values:
 Encounter type describes what kind of encounter it is.
 
 ## Monster
-A monster’s statistics, sometimes referred to as its **stat block**, provide the essential information that you need to run the monster.
+A monster’s statistics is determined by the encounter , sometimes referred to as its **stat block**, provide the essential information that you need to run the monster.
 
 >Monster encounters use one of three templates:
 >
@@ -2885,7 +2885,7 @@ You can equip monsters with additional gear and trinkets however you like, and y
 
 If a spellcasting monster needs material components to cast its spells, assume that it has the material components it needs to cast the spells in its stat block.
 
-## Bosses are Legendary Creatures
+### Bosses are Legendary Creatures
 Bosses are legendary creatures because they can do things that ordinary creatures can’t. They can take special actions outside their turn, and they might exert magical or mundane influence for miles around.
 
 If a creature assumes the form of a boss, such as through a spell, it doesn’t gain that form’s legendary actions, lair actions, or regional effects.
@@ -2935,7 +2935,7 @@ Danger rooms are always obscured by a reinforced and locked door or an opaque ph
 >>
 >> **Magic Item.** The best items in the game for your class. For example, barbarians might discover magic armor, weapons, shields, rings, necklaces, vestments
 
-## Trap
+## Traps
 
 Traps can be found almost anywhere. One wrong step in an ancient tomb might trigger a series of scything blades, which cleave through armor and bone. The seemingly innocuous vines that hang over a cave entrance might grasp and choke anyone who pushes through them. A net hidden among the trees might drop on travelers who pass underneath. In a fantasy game, unwary adventurers can fall to their deaths, be burned alive, or fall under a fusillade of poisoned darts.
 
@@ -2943,7 +2943,7 @@ A trap can be either mechanical or magical in nature. **Mechanical traps** inclu
 
 #### Traps in Play
 
-When adventurers come across a trap, you need to know how the trap is triggered and what it does, as well as the possibility for the characters to detect the trap and to disable or avoid it.
+When adventurers come across a trap, you need to know how the trap is triggered and what it does, as well as the possibility for the characters to detect the trap and to disable or avoid it. These choices are randomly determined when a trap is discovered.
 
 **Triggering a Trap.** Most traps are triggered when a creature goes somewhere or touches something that the trap’s creator wanted to protect. Common triggers include stepping on a pressure plate or a false section of floor, pulling a trip wire, turning a doorknob, and using the wrong key in a lock. Magic traps are often set to go off when a creature enters an area or touches an object. Some magic traps (such as the _glyph of warding_ spell) have more complicated trigger conditions, including a password that prevents the trap from activating.
 
@@ -2977,9 +2977,11 @@ Traps are often designed with mechanisms that allow them to be disarmed or bypas
 
 ## Settlement
 
+A settlement uses the encounter stats provided to determine the checks needed to find it, resolve the encounter, or both.
+
 > MINION SETTLEMENT
 >
->> Settlements of type minion are hamlets or a loose collection of homes or shelters that form a sembelance of community without a council or leader.
+>> Minion settlements are hamlets or a loose collection of homes or shelters that form a sembelance of community without a council or leader.
 >>
 > ELITE SETTLEMENT
 >
@@ -2991,7 +2993,9 @@ Traps are often designed with mechanisms that allow them to be disarmed or bypas
 
 ## Campfire (Short Rest)
 
-Campfire encounters are initiated during a short rest and do not use encounter stats to resolve. They resolve once the players feel satisfied with the scene. Generally, campfire scenes should not take up more than 10 to 15 minutes of game-session time. When a campfire scene completes, the party token controller reveals obscuring map tiles up to 3 squares away from the party token.
+A campfire uses the encounter stats provided to determine the checks needed to resolve the encounter.
+
+Campfire encounters are initiated during a short rest and resolve once the players feel satisfied with the scene. Generally, campfire scenes should not take up more than 10 minutes of game-session time. When a campfire scene completes, the party token controller reveals obscuring map tiles up to 3 squares away from the party token.
 
 Campfire encounters do not require the presence of a campfire to be considered campfire encounters.
 
