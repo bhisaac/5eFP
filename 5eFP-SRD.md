@@ -2678,6 +2678,10 @@ Encounter elements cannot be reduced below the following values:
 # Encounter Type
 Encounter type describes what kind of encounter it is.
 
+## Treasure
+
+TBA.
+
 ## Monster
 A monster’s statistics is determined by the encounter , sometimes referred to as its **stat block**, provide the essential information that you need to run the monster.
 
