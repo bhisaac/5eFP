@@ -2983,11 +2983,11 @@ Traps are often designed with mechanisms that allow them to be disarmed or bypas
 >>
 > ELITE SETTLEMENT
 >
->> Settlements of type elite are villages with (MAX Wounds) council members and typically a mayor or leader. An elite settlement encounter requires (MAX Wounds) successful attempts to resolve the encounter before finishing.
+>> Settlements of type elite are villages with (MAX Wounds) council members, typically a mayor or leader, and a millitia. An elite settlement encounter requires (MAX Wounds) successful attempts to resolve the encounter before finishing.
 >>
 > BOSS SETTLEMENT
 >
->> The largest communities are boss settlements. These are towns or city-castles with (MAX Wounds) council members and a mayor or leader (some have multiple leaders) that is difficult if not impossible to bypass or avoid, require (MAX Wounds) successful attempts to resolve the encounter which may have secondary events that trigger up to (MAX Wounds) times before finishing. Also, boss settlements have a number of smaller communities that trigger independent, minion encounters. PCs must deal with or remove all of these minion encounters or the boss settlement encounter resets.
+>> The largest communities are boss settlements. These are towns or city-castles with (MAX Wounds) council members, a mayor or leader (some have multiple leaders), a millitia, city guard, and barracks that is difficult if not impossible to bypass or avoid, require (MAX Wounds) successful attempts to resolve the encounter which may have secondary events that trigger up to (MAX Wounds) times before finishing. Also, boss settlements have a number of smaller communities that trigger independent, minion encounters. PCs must deal with or remove all of these minion encounters or the boss settlement encounter resets.
 
 ## Campfire (Short Rest)
 
