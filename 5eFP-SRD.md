@@ -139,7 +139,7 @@ As a wealden elf, you have deep awareness and intuition, and your attunement to 
 
 **Expeditious.** Your base speed increases by +1 square whenever you move through at least one square of natural terrain (arctic,	coast,	desert,	forest, grassland,	mountain,	or	swamp).
 
-**Naturemeld.** You have advantage on stealth Performance checks while moving through squares that include natural terrain (arctic,	coast,	desert,	forest, grassland,	mountain,	or	swamp).
+**Naturemeld.** At the beginning of each of your turns, if you start your turn on natural terrain (arctic,	coast,	desert,	forest, grassland,	mountain,	or	swamp), you gain advantage on DEX checks until the beginning of your next turn.
 
 ## Halfling
 
