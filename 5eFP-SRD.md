@@ -2921,7 +2921,7 @@ If a dungeon contains a passage leading to a higher or lower floor of the dungeo
 
 Dungeons may have one or more bonus features.
 
-### Danger Rooms
+### Bonus Feature: Danger Room
 
 Danger rooms are always obscured by a reinforced and locked door or an opaque phenomenon keeping creatures out that is clearly labeled as deadly. PCs must first acknowledge the warnings to enter a danger room. Acknowledgment unlocks the door or phenomenon, allowing passage. If the PCs advance into a danger room, they must face a boss battle at difficulty (LEVEL + 2). The way out vanishes the moment the PCs reach the danger room and does not reappear until the end of the encounter. The monster encounter is set up as if there are five PCs (even if the party is less than five) and two bonus elites are added to the encounter. If the PCs overcome the encounter, an unlocked, trap-free ornate chest appears. Each PC may, in turn, approach the chest and open it. The PC then chooses and adds one treasure to their equipment from three discovered treasures, discarding the other two choices. PCs choose one treasure from three available treasures: class, advanced, or magic item. Roll/draw the treasures and pick one to keep.
 
@@ -2935,7 +2935,7 @@ Danger rooms are always obscured by a reinforced and locked door or an opaque ph
 >>
 >> **Magic Item.** The best items in the game for your class. For example, barbarians might discover magic armor, weapons, shields, rings, necklaces, vestments
 
-### Traps
+## Trap
 
 Traps can be found almost anywhere. One wrong step in an ancient tomb might trigger a series of scything blades, which cleave through armor and bone. The seemingly innocuous vines that hang over a cave entrance might grasp and choke anyone who pushes through them. A net hidden among the trees might drop on travelers who pass underneath. In a fantasy game, unwary adventurers can fall to their deaths, be burned alive, or fall under a fusillade of poisoned darts.
 
@@ -2949,9 +2949,9 @@ When adventurers come across a trap, you need to know how the trap is triggered 
 
 **Detecting and Disabling a Trap.** Usually, some element of a trap is visible to careful inspection. Characters might notice an uneven flagstone that conceals a pressure plate, spot the gleam of light off a trip wire, notice small holes in the walls from which jets of flame will erupt, or otherwise detect something that points to a trap’s presence.
 
-A trap’s description specifies the checks needed to detect it, disable it, or both. A character actively looking for a trap can attempt a Wisdom (Perception) check against the trap’s DC. You can also compare the DC to detect the trap with each character’s passive Wisdom (Perception) score to determine whether anyone in the party notices the trap in passing. If the adventurers detect a trap before triggering it, they might be able to disarm it, either permanently or long enough to move past it. You might call for an Intelligence (Investigation) check for a character to deduce what needs to be done, followed by a Dexterity check using thieves’ tools to perform the necessary sabotage.
+A trap uses the encounter stats provided to determine the checks needed to detect it, disable it, or both. A character actively looking for a trap can attempt a WIS check against the trap’s DC. You can also compare the DC to detect the trap with each character’s passive WIS score to determine whether anyone in the party notices the trap in passing. If the adventurers detect a trap before triggering it, they might be able to disarm it, either permanently or long enough to move past it. You might call for an INT check for a character to deduce what needs to be done, followed by a DEX check using thieves’ tools to perform the necessary sabotage.
 
-Any character with the spellcasting feature can attempt an Insight check to detect or disarm a magic trap, in addition to any other checks noted in the trap’s description. In addition, _dispel magic_ also has a chance of disabling most magic traps.
+Any character with the spellcasting feature can attempt a WIS check to detect or disarm a magic trap, in addition to any other checks noted in the trap’s description. In addition, _dispel magic_ also has a chance of disabling most magic traps.
 
 In most cases, a trap’s description is clear enough that you can adjudicate whether a character’s actions locate or foil the trap. As with many situations, you shouldn’t allow die rolling to override clever play and good planning. Use your common sense, drawing on the trap’s description to determine what happens. No trap’s design can anticipate every possible action that the characters might attempt.
 
@@ -2977,9 +2977,25 @@ Traps are often designed with mechanisms that allow them to be disarmed or bypas
 
 ## Settlement
 
-## Story
+> MINION SETTLEMENT
+>
+>> Settlements of type minion are hamlets or a loose collection of homes or shelters that form a sembelance of community without a council or leader.
+>>
+> ELITE SETTLEMENT
+>
+>> Settlements of type elite are villages with (MAX Wounds) council members and typically a mayor or leader. An elite settlement encounter requires (MAX Wounds) successful attempts to resolve the encounter before finishing.
+>>
+> BOSS SETTLEMENT
+>
+>> The largest communities are boss settlements. These are towns or city-castles with (MAX Wounds) council members and a mayor or leader (some have multiple leaders) that is difficult if not impossible to bypass or avoid, require (MAX Wounds) successful attempts to resolve the encounter which may have secondary events that trigger up to (MAX Wounds) times before finishing. Also, boss settlements have a number of smaller communities that trigger independent, minion encounters. PCs must deal with or remove all of these minion encounters or the boss settlement encounter resets.
 
-## Trap
+## Campfire (Short Rest)
+
+Campfire encounters are initiated during a short rest and do not use encounter stats to resolve. They resolve once the players feel satisfied with the scene. Generally, campfire scenes should not take up more than 10 to 15 minutes of game-session time. When a campfire scene completes, the party token controller reveals obscuring map tiles up to 3 squares away from the party token.
+
+Campfire encounters do not require the presence of a campfire to be considered campfire encounters.
+
+During a Campfire enconter players are encouraged to interact and roleplay with one another. They may choose to use the campfire encounter to plan thier next course of action, speak with the locals, gather and analyze clues, perform a complicated ritual, share a meal together, play games, etc.
 
 ...
 
