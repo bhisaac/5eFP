@@ -2678,7 +2678,7 @@ Encounter elements cannot be reduced below the following values:
 # Encounter Type
 Encounter type describes what kind of encounter it is.
 
-# Monster
+## Monster
 A monster’s statistics is determined by the encounter , sometimes referred to as its **stat block**, provide the essential information that you need to run the monster.
 
 >Monster encounters use one of three templates:
@@ -2913,7 +2913,7 @@ The mere presence of a boss can have strange and wondrous effects on its environ
 ### Monster Descriptions
 All monster descriptions are detailed in Appendix MM.
 
-# Dungeon
+## Dungeon
 
 Dungeon encounters use the encounter stats provided to determine the strength of any monsters, traps, and other adversity found in one floor of a contained, multi-room structure. Details such as light levels, room height, wall and floor composition, and type of doors in the dungeon are described first.
 
@@ -2935,7 +2935,7 @@ Danger rooms are always obscured by a reinforced and locked door or an opaque ph
 >>
 >> **Magic Item.** The best items in the game for your class. For example, barbarians might discover magic armor, weapons, shields, rings, necklaces, vestments
 
-# Trap
+## Trap
 
 Traps can be found almost anywhere. One wrong step in an ancient tomb might trigger a series of scything blades, which cleave through armor and bone. The seemingly innocuous vines that hang over a cave entrance might grasp and choke anyone who pushes through them. A net hidden among the trees might drop on travelers who pass underneath. In a fantasy game, unwary adventurers can fall to their deaths, be burned alive, or fall under a fusillade of poisoned darts.
 
@@ -2975,7 +2975,7 @@ Traps are often designed with mechanisms that allow them to be disarmed or bypas
 >
 >> The deadliest traps are boss traps. These hazards are difficult if not impossible to bypass or avoid, require (MAX Wounds) successful attempts to disable and may trigger up to (MAX Wounds) times before finishing. Also, boss traps have a number of smaller components that trigger independently. PCs must deal with or remove all of these smaller components or the boss trap resets.
 
-# Settlement
+## Settlement
 
 A settlement uses the encounter stats provided to determine the checks needed to find it, resolve the encounter, or both.
 
@@ -2991,9 +2991,9 @@ A settlement uses the encounter stats provided to determine the checks needed to
 >
 >> The largest communities are boss settlements. These are towns or city-castles with (MAX Wounds) council members, a mayor or leader (some have multiple leaders), a millitia, city guard, and barracks that is difficult if not impossible to bypass or avoid, require (MAX Wounds) successful attempts to resolve the encounter which may have secondary events that trigger up to (MAX Wounds) times before finishing. Also, boss settlements have a number of smaller communities that trigger independent, minion encounters. PCs must deal with or remove all of these minion encounters or the boss settlement encounter resets.
 
-# Campfire (Short Rest)
+## Campfire (Short Rest)
 
-A campfire uses the encounter stats provided to determine the checks needed to resolve the encounter.
+A campfire is not required to use encounter stats to resolve; however, if stats are needed, use the encounter stats provided.
 
 Campfire encounters are initiated during a short rest and resolve once the players feel satisfied with the scene. Generally, campfire scenes should not take up more than 10 minutes of game-session time. When a campfire scene completes, the party token controller reveals obscuring map tiles up to 3 squares away from the party token.
 
@@ -3001,7 +3001,7 @@ Campfire encounters do not require the presence of a campfire to be considered c
 
 During a Campfire enconter players are encouraged to interact and roleplay with one another. They may choose to use the campfire encounter to plan thier next course of action, speak with the locals, gather and analyze clues, perform a complicated ritual, share a meal together, play games, etc.
 
-# Setting Handbook Requirement
+## Setting Handbook Requirement
 
 TBA.
 
