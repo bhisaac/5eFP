@@ -2991,17 +2991,21 @@ A settlement uses the encounter stats provided to determine the checks needed to
 >
 >> The largest communities are boss settlements. These are towns or city-castles with (MAX Wounds) council members, a mayor or leader (some have multiple leaders), a militia, city guard, and barracks that are difficult, if not impossible, to bypass or avoid, require (MAX Wounds) successful attempts to resolve the encounter which may have secondary events that trigger up to (MAX Wounds) times before finishing. Also, boss settlements have several smaller communities that trigger independent minion encounters. PCs must deal with or remove all of these triggered minion encounters or the boss settlement encounter resets.
 >>
->> After all PCs have finished taking their turn, the boss settlement gains bolster (LEVEL).
+>> While a boss settlement encounter is unresolved, it gains bolster (LEVEL) after all PCs have finished taking their turn.
 
 ## Campfire (Short Rest)
 
-A campfire is not required to use encounter stats to resolve; however, if you need to use the encounter stats provided.
+A campfire encounter usually doesn't need encounter stats to resolve, but you can use the provided stats if necessary.
 
-Campfire encounters are initiated during a short rest and resolve at the end of the short rest. Generally, campfire scenes should take up at most 10 minutes of game-session time. When a campfire scene resolves, the party token controller reveals obscuring map tiles up to 3 squares away from the party token.
+Campfire encounters are initiated during a short rest and resolve at the end of the short rest. Campfire encounters should take up at most 10 minutes of game-session time. When a campfire scene resolves, the party token controller reveals obscuring map tiles up to 3 squares away from the party token.
 
 Campfire encounters do not require the presence of a campfire to be considered campfire encounters.
 
 During a campfire encounter, players are encouraged to interact and roleplay with one another. They may choose to use the campfire encounter to plan their next course of action, speak with the locals, gather and analyze clues, perform a complicated ritual, share a meal together, play games, etc.
+
+When you discover a campfire encounter, you may use it immediately or save it for later. To use the campfire encounter immediately, you cannot be in a combat encounter, and the party token cannot be adjacent to an unresolved foothold or setting requirement. If you use it immediately, the party may complete a bonus short rest that does not count against the number of short rests available in a game session.
+
+Discard any unused campfires on recall.
 
 ## Setting Handbook Requirement
 
