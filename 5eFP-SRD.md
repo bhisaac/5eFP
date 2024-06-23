@@ -2899,7 +2899,7 @@ A boss can take up to three special actions—called legendary actions—outside
 All bosses automatically have the following legendary actions.
 
 - **Attack (1 Action).** The boss makes one attack against a creature within range.
-- **Bolster (2 Actions).** The boss gains **bolster (1 + LEVEL)**. A boss can only activate this legendary action if a minion is within its line of sight.
+- **Bolster (2 Actions).** The boss gains **bolster (LEVEL)**. A boss can only activate this legendary action if a minion is within its line of sight.
 
 ### A Boss' Lair
 A boss might have a section describing its lair and the special effects it can create while there, either by act of will or simply by being present. Such a section applies only to a boss that spends a great deal of time in its lair.
