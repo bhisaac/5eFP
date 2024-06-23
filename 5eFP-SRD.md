@@ -2973,7 +2973,7 @@ Traps are often designed with mechanisms that allow them to be disarmed or bypas
 >>
 > BOSS TRAPS
 >
->> The deadliest traps are boss traps. These hazards are difficult if not impossible to bypass or avoid, require (MAX Wounds) successful attempts to disable and may trigger up to (MAX Wounds) times before finishing. Also, boss traps have a number of smaller components that trigger independently. PCs must deal with or remove all of these smaller components or the boss trap resets.
+>> The deadliest traps are boss traps. These hazards are difficult, if not impossible, to bypass or avoid, require (MAX Wounds) successful attempts to disable, and may trigger up to (MAX Wounds) times before finishing. Also, boss traps have several smaller components that trigger independently. PCs must deal with or remove all of these smaller components, or the boss trap resets.
 
 ## Settlement
 
@@ -2981,25 +2981,27 @@ A settlement uses the encounter stats provided to determine the checks needed to
 
 > MINION SETTLEMENT
 >
->> Minion settlements are hamlets or a loose collection of homes or shelters that form a sembelance of community without a council or leader.
+>> Minion settlements are small communities without a council or leader, consisting of hamlets or loose collections of homes or shelters.
 >>
 > ELITE SETTLEMENT
 >
->> Settlements of type elite are villages with (MAX Wounds) council members, typically a mayor or leader, and a millitia. An elite settlement encounter requires (MAX Wounds) successful attempts to resolve the encounter before finishing.
+>> Settlements of type elite are villages with (MAX Wounds) council members, typically a mayor or leader, and a militia. An elite settlement encounter requires (MAX Wounds) successful attempts to resolve the encounter before finishing.
 >>
 > BOSS SETTLEMENT
 >
->> The largest communities are boss settlements. These are towns or city-castles with (MAX Wounds) council members, a mayor or leader (some have multiple leaders), a millitia, city guard, and barracks that is difficult if not impossible to bypass or avoid, require (MAX Wounds) successful attempts to resolve the encounter which may have secondary events that trigger up to (MAX Wounds) times before finishing. Also, boss settlements have a number of smaller communities that trigger independent, minion encounters. PCs must deal with or remove all of these minion encounters or the boss settlement encounter resets.
+>> The largest communities are boss settlements. These are towns or city-castles with (MAX Wounds) council members, a mayor or leader (some have multiple leaders), a militia, city guard, and barracks that are difficult, if not impossible, to bypass or avoid, require (MAX Wounds) successful attempts to resolve the encounter which may have secondary events that trigger up to (MAX Wounds) times before finishing. Also, boss settlements have several smaller communities that trigger independent minion encounters. PCs must deal with or remove all of these triggered minion encounters or the boss settlement encounter resets.
+>>
+>> After all PCs have finished taking their turn, the boss settlement gains bolster (LEVEL).
 
 ## Campfire (Short Rest)
 
-A campfire is not required to use encounter stats to resolve; however, if stats are needed, use the encounter stats provided.
+A campfire is not required to use encounter stats to resolve; however, if you need to use the encounter stats provided.
 
-Campfire encounters are initiated during a short rest and resolve once the players feel satisfied with the scene. Generally, campfire scenes should not take up more than 10 minutes of game-session time. When a campfire scene completes, the party token controller reveals obscuring map tiles up to 3 squares away from the party token.
+Campfire encounters are initiated during a short rest and resolve at the end of the short rest. Generally, campfire scenes should take up at most 10 minutes of game-session time. When a campfire scene resolves, the party token controller reveals obscuring map tiles up to 3 squares away from the party token.
 
 Campfire encounters do not require the presence of a campfire to be considered campfire encounters.
 
-During a Campfire enconter players are encouraged to interact and roleplay with one another. They may choose to use the campfire encounter to plan thier next course of action, speak with the locals, gather and analyze clues, perform a complicated ritual, share a meal together, play games, etc.
+During a campfire encounter, players are encouraged to interact and roleplay with one another. They may choose to use the campfire encounter to plan their next course of action, speak with the locals, gather and analyze clues, perform a complicated ritual, share a meal together, play games, etc.
 
 ## Setting Handbook Requirement
 
