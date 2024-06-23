@@ -2666,7 +2666,7 @@ Some creature minions have the critter tag. Critters are typically tiny or small
 ## Customizing Encounters
 The encounter statistics provided represent average values. Any number of statistics may be increased by up to +(LEVEL), provided the same amount decreases another statistic. Only stats used in an encounter can be customized. For example, during a level 1 monster encounter, the GM increases an awakened shrub minion's AC by +1. The cost of increasing the minion's AC is paid by the GM choosing to decrease the awakened shrub minion's attack modifier by -1. In this example, the GM couldn't decrease the DC stat by -1 because the awakened shrub minion doesn't possess a stat using a DC. However, if the encounter includes a condition or effect requiring a saving throw to resist, the DC stat can be decreased by -1.
 
-A minion's MAX wounds or damage cannot be customized.
+A minion's MAX wounds and damage cannot be customized.
 
 Encounter elements cannot be reduced below the following values:
 - **Speed** 2
