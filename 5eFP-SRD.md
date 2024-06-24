@@ -3007,9 +3007,9 @@ Campfire encounters do not require the presence of a campfire to be considered c
 
 ~~During a campfire encounter, players are encouraged to interact and roleplay with one another. One PC takes the focus as far as setting the scene and driving the scene. The other PCs work themselves into the scene in some way. It doesn't need to be elaborate. PCs can have focused and directed conversations with the group this way. After describing the initial scene, the focus is released. They may choose to use the campfire encounter to plan their next course of action, speak with the locals, gather and analyze clues, perform a complicated ritual, share a meal together, play games, etc.~~
 
-During a campfire encounter, one PC volunteers to set the scene and drives the initial interaction while the others join in and play with the focus created in the story. Typically, the volunteer wants to initiate a specific kind of roleplaying scenario. PCs can have conversations, plan their next move, talk to locals, gather clues, share a meal, play games, and more.
+During a campfire encounter, one PC volunteers to set the scene and drives the initial interaction while the others join in and play with the focus created in the story. Typically, the volunteer desires initiating a specific kind of roleplaying scenario. PCs can have conversations, plan their next move, talk to locals, gather clues, share a meal, play games, and more.
 
-When you discover a campfire encounter, you may use it immediately or save it for later. To use the campfire encounter immediately, you cannot already be in another encounter, and the party token cannot be adjacent to an unresolved foothold or setting requirement. If you use it immediately, the party may complete a bonus short rest that does not count against the number of short rests available in a game session.
+When you discover a campfire encounter, you can use it immediately or save it for later. If you decide to use it immediately, make sure that your party is not already in another encounter and that the party token is not next to an unresolved foothold or setting requirement. If you use the campfire encounter immediately, your party gets the benefits of a short rest without it counting toward the total number of short rests available in the game session.
 
 Discard any unused campfires on recall.
 
