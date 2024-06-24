@@ -2676,14 +2676,28 @@ Encounter elements cannot be reduced below the following values:
 - **Damage** 1
 
 # Encounter Type
-Encounter type describes what kind of encounter it is.
+
+Encounter type describes the kind of encounter you discover.
 
 ## Treasure
 
-TBA.
+A treasure encounter may include
+
+> MINION TREASURE
+>
+>> Treasure of type minion awards ⛁ once discovered. A treasure might be hidden, in plain sight, trapped, or untrapped.
+>>
+> ELITE TREASURE
+>
+>> Treasure of type elite rewards ⛁ once discovered. Elite treasures are often protected by an elite trap or one minion creature encounter.
+>>
+> BOSS TREASURE
+>
+>> Boss treasures award the greatest amount of coin, but are the most difficult to finish completely. These encounters award ⛁ upon discovery but potentially contain more bonus coins. It is difficult, if not impossible, to unlock all boss treasure bonus coins. Boss treasure encounters require (MAX Wounds) successful WIS checks to find ⛁, and may include a boss trap or a boss creature encounter before resolving.
 
 ## Monster
-A monster’s statistics is determined by the encounter , sometimes referred to as its **stat block**, provide the essential information that you need to run the monster.
+
+Monster encounters use the encounter stats provided to determine the monster's strengths and statistics.
 
 >Monster encounters use one of three templates:
 >
