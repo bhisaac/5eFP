@@ -2919,9 +2919,9 @@ All monster descriptions are detailed in Appendix MM.
 
 ## Dungeon
 
-Dungeon encounters use the encounter stats provided to determine the strength of any monsters, traps, and other adversity found in one floor of a contained, multi-room structure. Details such as light levels, room height, wall and floor composition, and type of doors in the dungeon are described first.
+Dungeon encounters use the encounter stats provided to determine the strength of any monsters, traps, and other adversity found on one floor of a contained, multi-room structure. Details such as light levels, room height, wall and floor composition, and type of doors in the dungeon are described first.
 
-If a dungeon contains a passage leading to a higher or lower floor of the dungeon, LEVEL increases by +3. Floor changes are cumulative if they advance in the same direction. If a set of stairs in a level 1 dungeon leads down two floors, the new floor would be a LEVEL + 6 (level 7) area. While searching the level 7 floor, the PCs find a rope leading up through a hole in the floor. They climb the rope and find themselves on a level 4 floor. Then, if the PCs found a staircase leading up, the next floor would return to a level 1 area.
+If a dungeon contains a passage leading to a higher or lower floor, the new floor would be a LEVEL+3 area. Floor changes are cumulative if they advance in the same direction. If a set of stairs in a level 1 dungeon leads down two floors, the new floor would be a LEVEL+6 (level 7) area. While searching the level 7 area, the PCs find a rope leading up through a hole in the floor. They climb the rope and find themselves in a level 4 area. Then, if the PCs find a staircase leading up, the next floor would return to a level 1 area.
 
 Dungeons may have one or more bonus features.
 
