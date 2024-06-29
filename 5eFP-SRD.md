@@ -14,7 +14,7 @@ Efforts have been made to introduce the system and explain how to play for those
 
 ## Difficulty Class (DC)
 
-The difficulty class (DC) describes the minimum number you need to roll on a check in order to consider it a success. Rolling the maximum result on a die ignores the DC and is considered an automatic success.
+The difficulty class (DC) describes the minimum number you need to roll on a check in order to consider it a success. Rolling the maximum result on a die ignores the DC and is considered an automatic success. Rolling the minimum result on a die ignores the DC and is considered an automatic failure.
 
 (See _Difficulty Class_ for more information.)
 
