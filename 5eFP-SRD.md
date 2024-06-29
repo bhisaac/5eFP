@@ -42,7 +42,7 @@ CON in 5eFP generally represents health and vitality. CON modifies MAX Wounds an
 
 **_Wounds._** 5eFP uses wounds instead of tracking health with points or another method. Wounds are cumulative up to MAX Wounds.
 
-**_Dying._** When you reach MAX Wounds, you gain the dying condition. As long as you have the dying condition, you are unconscious and gain the prone condition. Additionally, at the beginning of each of your turns, you spend your turn rolling a death save (see _Death Saves_ below). If an effect or feature ends the dying condition, remove all death save successes and failures.
+**_Dying._** When you reach MAX Wounds, you gain the dying condition. As long as you have the dying condition, you are unconscious and prone. Additionally, at the beginning of each of your turns, you spend your turn rolling a death save (see _Death Saves_ below). If an effect or feature ends the dying condition, remove all death save successes and failures.
 
 **_Stabalized._** The stabilized condition ends the dying condition. Stabilized PCs wake up at the end of the encounter or after receiving healing, whichever occurs first.
 
