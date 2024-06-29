@@ -8,9 +8,119 @@ _**Practice.**_ Focus alone isn't enough. Results require real doing through reg
 
 ## How to Play
 
-Efforts have been made to introduce the system and explain how to play for those who want to try a new way of playing the d20 system but have little or no interest in 5eFP as a philosophy. The final draft of the 5eFP System Reference Document (5eFP-SRD) appendix will contain further information about each aspect of 5eFP for those who want to understand 5eFP as a healing modality and philosophical worldview.
+Efforts have been made to introduce the system and explain how to play for those who want to try a new way of playing the d20 system but have little or no interest in 5eFP as a philosophy beginning with Inspiration and dedication rules. The final draft of the 5eFP System Reference Document (5eFP-SRD) appendix will contain further information about each aspect of 5eFP for those who want to understand 5eFP as a healing modality and philosophical worldview.
 
-### Character Creation
+# Lexicon
+
+## Difficulty Class (DC)
+
+The difficulty class (DC) describes the minimum number you need to roll on a check in order to consider it a success. Rolling the maximum result on a die ignores the DC and is considered an automatic success.
+
+(See _Difficulty Class_ for more information.)
+
+## Encounter
+
+An encounter is a special term used in 5eFP that describes all the related scenes that arise in relation to a specific story element. An encounter might be stumbling upon a creature or creatures, talking with traveling merchants, or the span of an entire building or dungeon. An encounter typically lasts until the scene changes. An encounter scene with hostile creatures, for example, doesn't change until after the creatures are dealt with in some way--either by overcoming them with force or by winning them over through persuasion or guile. Once the scene changes to a new encounter, all encounter effects and features from the previous encounter end.
+
+(See _Encounter_ for more information.)
+
+## Advantage
+
+Advantage is a special condition in the game when player characters (PCs) have a clear advantage while taking an action.
+
+(See _Advantage_ for more information.)
+
+## Constitution (CON)
+
+CON in 5eFP generally represents health and vitality. CON modifies MAX Wounds and adds a modifier to Death Saves.
+
+(See _Ability Scores_ for more information.)
+
+## Wounds, MAX Wounds, and Death Saves
+
+**_Wounds._** 5eFP uses wounds instead of tracking health with points or another method. One wound is roughly equivalent to about 8 hitpoints in the d20 system. If you're using a game system that tracks health with points, restore 8 points when a wound is healed, and inversely, reduce the same total by 8 points when a wound is added. For other health systems, use your best judgment. Just one wound shouldn't knock out a player character (PC), even at level 1. Three or more wounds will likely knock out a 1st-level character unless the character is tougher or more resilient in some way.
+
+**_MAX Wounds._** MAX Wounds describes the maximum number of wounds you can have. When you reach MAX Wounds for the first time, any additional wounds assigned beyond MAX Wounds are discarded. Whenever you have MAX Wounds, you fall unconscious and then begin making death saves starting at the beginning of your next turn and continuing until your character has either stabilized or died.
+
+**_Death Saves._** Death saves are rolled when it is not certain whether or not your character will survive to see the end of an encounter. In 5eFP a death save is a CON save with a DC of 9 + the damage dealt. Not meeting this DC results in one failed death save. Rolling the minimum amount, typically a 1, on a death save adds two automatic death save failures. Rolling the maximum amount, typically a 20 for d20 systems, removes all failed death saves, heals 1 wound, and wakes you up with the prone condition. Taking 1 or more points of damage while unconscious and making death saves results in an automatic death save failure. Receiving a critical hit (rolling the maximum amount to hit on an attack roll) while unconscious and making death saves results in two automatic death save failures.
+
+If you fail three or more death saves, your character dies.
+
+5eFP is somewhat forgiving around character death because dice results are often capricious. The point of 5eFP is not to kill off all the PCs as fast as possible. Instead, it encourages ongoing gameplay with familiar characters in order to engender a felt experience over time. If your game has no grace period wherein PCs may recover from a deadly blow, then allow an inspired medicine (see Inspiration) to bring them back, but at the edge of death (one more hit will take them out again).
+
+# Inspiration
+
+Inspiration is a rule the GM uses to reward you when you show up to play a game session on time and for playing your character in an exceptional way.
+
+## Gaining Inspiration
+
+At the beginning of each game session, PCs choose two different dedications from Insight, Medicine, Perception, Performance, or Survival (see Dedications). Once the choices are made, the chosen dedications can only be changed at the beginning of the next game session. Your GM then awards inspiration to all PCs who are present in the game. Your GM also has the option to grant you inspiration for various reasons during gameplay. Generally, inspiration is given when you effectively portray your character in a compelling way. Your GM may introduce other ways to earn inspiration during the game. In 5eFP, your setting handbook may also introduce other ways to earn inspiration during the game.
+
+You either have inspiration or you don’t—you can’t stockpile multiple “inspirations” for later use.
+
+## Using Inspiration
+
+If you have inspiration, you can expend it when you ~~make an attack roll, saving throw, or ability check~~ roll to attack, resist a feature, or otherwise perform an action. Spending your inspiration gives you advantage on that roll, allowing you to roll twice and keep the better result. Alternatively, you may expend your inspiration anytime to activate a dedication you made at the start of the game session.
+
+Additionally, if you have inspiration, you can reward another player for good roleplaying, clever thinking, or simply doing something exciting in the game. When another player character does something that really contributes to the story in a fun and interesting way, you can give up your inspiration to give that character inspiration.
+
+## Dedications
+
+The following describes each dedication and how to use them in the game.
+
+### Insight
+
+Your insight imbues inward sight, granting vision beneath surface impressions.
+
+Your GM reveals to you all the hidden or obscured pieces of information contained within the current scene. Features granted through spell effects specifically designed to prevent sight, such as _invisibility_ or an equivalent effect are not revealed; instead, their presence is confirmed, and you can sense the subtle flows of air and energy that the spell displaces in its wake. This awareness lasts until the beginning of your next turn.
+
+### Medicine
+
+Your medicine stabilizes wounds.
+
+Choose any number of creatures your character can see within 6 squares of you who have MAX Wounds. The chosen creatures heal 1 wound and wake up.
+
+### Perception
+
+Your perception enables you to spot, hear, or otherwise detect the presence of something.
+
+Your GM reveals to you all the information available regarding the current scene gathered through the five senses (sight, smell, sound, taste, and touch).
+
+### Performance
+
+Your performance allows the satisfying completion of one action.
+
+You decide the outcome of the next action your character declares on their turn. You must use your inspiration this way before taking an action or rolling any dice. If the result of your chosen action further affects you on subsequent rounds during the same encounter, roll all attacks, ability checks, and saves relating to the chosen action with advantage until the end of the encounter, allowing you to roll twice and keep the better result.
+
+>> Example 1:
+>>> (_GM_) "The room opens up, exposing a sprawling cliff face leading to the top of the spire."
+>>> 
+>>> (_Player 1_) "I spend my inspiration on PERFORMANCE."
+>>> 
+>>> (_GM_) "OK, great. Tell us about what action you're character wants to take. And then, when you're ready, tell us what happens."
+>>> 
+>>> (_Player 1_) "Thanks. Lita leaps onto the cliff face, finds her grip, and makes her way to the top."
+>>> 
+>> In example 1, _Player 1_'s action resolves a successful Performance check without rolling to begin climbing the cliff face to reach the top of the spire, which is 40 squares above Lita's position. _Player 1_ has indicated that this climb is important in some way. While climbing the cliff, Lita then makes all attacks, ability checks, and saves with advantage. Later on, during the cliff-face encounter, Lita's skill is tested once again due to strong winds. She must succeed on a STR check to keep her grip. Because she is still in the same cliff-face encounter, she rolls STR with advantage.
+>> 
+>> Example 2: 
+>>> _(GM)_ "Lita, it's your turn."
+>>> 
+>>> _(Player 1)_ "I spend my inspiration on PERFORMANCE."
+>>> 
+>>> _(GM)_ "OK, great. Tell us about what action you're character wants to take. And then, when you're ready, tell us what happens."
+>>> 
+>>> _(Player 1)_ "I jump out of the shadows where I'm hiding and attack the goblin, catching it off guard and unaware. I strike with a critical hit, dealing maximum damage to the creature, adding my sneak attack damage."
+>>> 
+>> In example 2, _Player 1_'s action resolves a successful attack action from a hidden position and then finishes. The action does not continue on subsequent rounds.
+
+### Survival
+
+Your survival awards expanded capacities, allowing you to identify and acquire new advantages, qualities, or skills.
+
+You reveal a path leading toward an objective. Place a foothold or setting requirement on a revealed square of your choice up to 2 squares away from you. Alternatively, once per game session, when you spend your inspiration to activate Survival, you can instead choose to activate a dedication you didn't choose at the beginning of the current game session.
+
+# Character Creation
 
 **Ability Scores**
 
@@ -1309,77 +1419,6 @@ Some of these languages are actually families of languages with many dialects. F
 |Primordial|Elementals|Dwarvish|
 |Sylvan|Fey creatures|Elvish|
 |Undercommon|Underworld traders|Elvish|
-
-## Inspiration
-Inspiration is a rule the GM uses to reward you when you show up to play a game session on time and for playing your character in an exceptional way.
-
-### Gaining Inspiration
-
-At the beginning of each game session, PCs choose two different dedications from Insight, Medicine, Perception, Performance, or Survival. Once the choices are made, the chosen dedications cannot be changed until the beginning of the next game session. Your GM then awards inspiration to all present PCs. Your GM also has the option to grant you inspiration for various reasons during gameplay. Generally, inspiration is given when you effectively portray your character in a compelling way. Your GM or setting handbook may introduce other ways to earn inspiration during the game.
-
-You either have inspiration or you don’t—you can’t stockpile multiple “inspirations” for later use.
-
-### Using Inspiration
-
-If you have inspiration, you can expend it when you make an attack roll, saving throw, or ability check. Spending your inspiration gives you advantage on that roll. Alternatively, you may expend your inspiration anytime to activate a dedication made at the start of the game session.
-
-Additionally, if you have inspiration, you can reward another player for good roleplaying, clever thinking, or simply doing something exciting in the game. When another player character does something that really contributes to the story in a fun and interesting way, you can give up your inspiration to give that character inspiration.
-
-### Dedications
-
-The following describes each dedication and how to use them in the game.
-
-### Insight
-
-Your insight imbues inward sight, granting vision beneath surface impressions.
-
-Your GM reveals to you all the hidden or obscured pieces of information contained within the current scene. Features granted through spell effects specifically designed to prevent sight, such as _invisibility_ are not revealed; instead, their presence is confirmed, and you can sense the subtle flows of air and energy that the spell displaces in its wake. This awareness lasts until the beginning of your next turn.
-
-### Medicine
-
-Your medicine stabilizes wounds.
-
-Choose any number of creatures your character can see within 6 squares of you who have MAX Wounds. The chosen creatures heal 1 wound and wake up.
-
-### Perception
-
-Your perception enables you to spot, hear, or otherwise detect the presence of something.
-
-Your GM reveals to you all the information available regarding the current scene gathered through the five senses (sight, smell, sound, taste, and touch).
-
-### Performance
-
-Your performance allows the satisfying completion of one action.
-
-You decide the outcome of the next action your character declares on their turn. You must use your inspiration this way before taking an action or rolling any dice. If the result of your chosen action further affects you on subsequent rounds during the same encounter, roll all attacks, ability checks, and saves relating to the chosen action with advantage until the end of the encounter.
-
->> Example 1:
->>> (_GM_) "The room opens up, exposing a sprawling cliff face leading to the top of the spire."
->>> 
->>> (_Player 1_) "I spend my inspiration on PERFORMANCE."
->>> 
->>> (_GM_) "OK, great. Tell us about what action you're character wants to take. And then, when you're ready, tell us what happens."
->>> 
->>> (_Player 1_) "Thanks. Lita leaps onto the cliff face, finds her grip, and makes her way to the top."
->>> 
->> In example 1, _Player 1_'s action resolves a successful Performance check without rolling to begin climbing the cliff face to reach the top of the spire, which is 40 squares above Lita's position. _Player 1_ has indicated that this climb is important in some way. While climbing the cliff, Lita then makes all attacks, ability checks, and saves with advantage. Later on, during the cliff-face encounter, Lita's skill is tested once again due to strong winds. She must succeed on a STR check to keep her grip. Because she is still in the same cliff-face encounter, she rolls STR with advantage.
->> 
->> Example 2: 
->>> _(GM)_ "Lita, it's your turn."
->>> 
->>> _(Player 1)_ "I spend my inspiration on PERFORMANCE."
->>> 
->>> _(GM)_ "OK, great. Tell us about what action you're character wants to take. And then, when you're ready, tell us what happens."
->>> 
->>> _(Player 1)_ "I jump out of the shadows where I'm hiding and attack the goblin, catching it off guard and unaware. I strike with a critical hit, dealing maximum damage to the creature, adding my sneak attack damage."
->>> 
->> In example 2, _Player 1_'s action resolves a successful attack action from a hidden position and then finishes. The action does not continue on subsequent rounds.
-
-### Survival
-
-Your survival awards expanded capacities, allowing you to identify and acquire new advantages, qualities, or skills.
-
-You reveal a path leading toward an objective. Place a foothold or setting requirement on a revealed square of your choice up to 2 squares away from you. Alternatively, once per game session, when you spend your inspiration to activate Survival, you can instead choose to activate a dedication you didn't choose at the beginning of the current game session.
 
 # Backgrounds
 
