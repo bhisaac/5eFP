@@ -86,7 +86,7 @@ Your GM reveals to you all the hidden or obscured pieces of information containe
 
 Your medicine stabilizes wounds.
 
-Choose any number of creatures your character can see within 6 squares of you who have MAX Wounds. The chosen creatures heal 1 wound and wake up.
+Choose any number of creatures your character can see within 6 squares of you with the dying condition. The chosen creatures receive enough healing to return them to minimum health.
 
 ### Perception
 
