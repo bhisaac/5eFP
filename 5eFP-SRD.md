@@ -1,14 +1,14 @@
 # Introduction
 
-The fifth edition focus practice (5eFP) is a new tabletop role-playing game (TRPG) experience that combines fun and immersive gameplay with deepening levels of self-exploration.
-
-Inspired by the d20 fifth edition rules, 5eFP emerges as a completely new body of work whose dedication and inspiration rules are system agnostic. Use 5eFP's dedication and inspiration rules within any interactive storytelling game seeking 5eFP wisdom.
+The fifth edition focus practice (5eFP) is a new tabletop role-playing game (TRPG) experience that combines fun and immersive gameplay with deepening levels of self-exploration. Inspired by the d20 fifth edition rules, 5eFP's dedication and inspiration rules are system-agnostic and can be used within any TRPG.
 
 _**Focus.**_ Learning and gaining proficiency requires focus, time, and attention. Focus begins with cultivating greater awareness of thoughts, feelings, and instincts as sensations arise within the body. Reaching the next level of experience brings about greater awareness and deeper access to life's energy sourced from within ourselves.
 
 _**Practice.**_ Focus alone isn't enough. Results require real doing through regular and consistent gameplay. We transform TRPGs into a mindful practice. Practices are activities we return to because they feed us in some way. Successful practices provide a kind of nutrient missing in other activities. Regularly playing 5eFP games from beginning to end, fully conscious and aware at least once per month, is our practice.
 
 ## How to Play
+
+Efforts have been made to first introduce the system and explain how to play for those who want to try a new way of playing the d20 system, with little or no interest in 5eFP as a philosophy. The final draft of the 5eFP System Reference Document (5eFP-SRD) appendix will contain further commentary about each aspect of 5eFP for those who are looking for a deeper exploration.
 
 ### Character Creation
 
