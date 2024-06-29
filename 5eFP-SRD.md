@@ -38,17 +38,21 @@ CON in 5eFP generally represents health and vitality. CON modifies MAX Wounds an
 
 (See _Ability Scores_ for more information.)
 
-## Wounds, MAX Wounds, and Death Saves
+## Wounds, Dying, Stabilized, MAX Wounds, and Death Saves
 
-**_Wounds._** 5eFP uses wounds instead of tracking health with points or another method. One wound is roughly equivalent to about 8 hitpoints in the d20 system. If you're using a game system that tracks health with points, restore 8 points when a wound is healed, and inversely, reduce the same total by 8 points when a wound is added. For other health systems, use your best judgment. Just one wound shouldn't knock out a player character (PC), even at level 1. Three or more wounds will likely knock out a 1st-level character unless the character is tougher or more resilient in some way.
+**_Wounds._** 5eFP uses wounds instead of tracking health with points or another method. Wounds are cumulative up to MAX Wounds.
 
-**_MAX Wounds._** MAX Wounds describes the maximum number of wounds you can have. When you reach MAX Wounds for the first time, any additional wounds assigned beyond MAX Wounds are discarded. Whenever you have MAX Wounds, you fall unconscious and then begin making death saves starting at the beginning of your next turn and continuing until your character has either stabilized or died.
+**_Dying._** When you reach MAX Wounds, you gain the dying condition. As long as you have the dying condition, you are unconscious and gain the prone condition. Additionally, at the beginning of each of your turns, you spend your turn rolling a death save (see _Death Saves_ below). If an effect or feature ends the dying condition, remove all death save successes and failures.
 
-**_Death Saves._** Death saves are rolled when it is not certain whether or not your character will survive to see the end of an encounter. In 5eFP a death save is a CON save with a DC of 10 on a d20 (a result of 50% or higher is needed for a success). Not meeting this DC results in one failed death save. Meeting the DC results in one successful death save. Rolling the minimum amount, typically a 1, on a death save adds two automatic death save failures. Rolling the maximum amount, typically a 20 for d20 systems, removes all failed or successful death saves, heals 1 wound, and wakes you up with the prone condition. Taking 1 or more points of damage while unconscious and making death saves results in an automatic death save failure. Receiving a critical hit (rolling the maximum amount to hit on an attack roll) while unconscious and making death saves results in two automatic death save failures.
+**_Stabalized._** The stabilized condition ends the dying condition. Stabilized PCs wake up at the end of the encounter or after receiving healing, whichever occurs first.
+
+**_MAX Wounds._** MAX Wounds describes the maximum number of wounds you can have. When you reach MAX Wounds for the first time, any additional wounds assigned beyond MAX Wounds are discarded. Whenever you have MAX Wounds, you gain the dying condition.
+
+**_Death Saves._** Death saves are rolled when it is not certain whether or not your character will survive to see the end of an encounter. In 5eFP a death save is a CON save or check with a DC of 10 on a d20 (a result of 50% or higher is needed on a die roll for a success). Not meeting this DC results in one failed death save. Meeting the DC results in one successful death save. Rolling the minimum amount, typically a 1, on a death save adds two automatic death save failures. Rolling the maximum amount, typically a 20 for d20 systems, awards the stabilized condition and provides enough healing to reduce you below MAX Wounds. Taking 1 or more points of damage while unconscious and making death saves results in an automatic death save failure. Receiving a critical hit (rolling the maximum amount to hit on an attack roll) while unconscious and making death saves results in two automatic death save failures.
 
 If you fail three or more death saves, your character dies.
 
-If you succeed on three or more death saves, your character stabilizes. You remove all failed and successful death saves, and you regain consciousness at the end of the encounter or if you receive 1 or more points of healing, whichever happens first.
+If you succeed on three or more death saves, your character gains the stabilized condition.
 
 5eFP is somewhat forgiving around character death because dice results can be capricious. The point of 5eFP is not to kill off all the PCs as fast as possible. Instead, it encourages ongoing gameplay with familiar characters to engender a felt experience over time. If your game has no grace period wherein PCs may recover from a deadly blow, then allow an inspired medicine (see Inspiration) to bring them back, but at the edge of death (one more hit will take them out again).
 
