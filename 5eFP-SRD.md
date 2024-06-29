@@ -26,7 +26,9 @@ An encounter is a special term used in 5eFP that describes all the related scene
 
 ## Advantage
 
-Advantage is a special condition in the game when player characters (PCs) have a clear advantage while taking an action.
+Advantage is a special condition in the game when player characters (PCs) have a clear advantage while taking an action. Advantage on a roll allows you to roll twice and pick the better of the two results.
+
+Advantage is negated by any disadvantage imposed upon the roll. If a negative modifier is added to the roll or if circumstances are not favorable for the roll, then advantage is removed.
 
 (See _Advantage_ for more information.)
 
