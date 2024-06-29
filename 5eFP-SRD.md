@@ -109,7 +109,7 @@ You decide the outcome of the next action your character declares on their turn.
 >>> 
 >>> (_Player 1_) "Thanks. Lita leaps onto the cliff face, finds her grip, and makes her way to the top."
 >>> 
->> In example 1, _Player 1_'s action resolves a successful Performance check without rolling to begin climbing the cliff face to reach the top of the spire, which is 40 squares above Lita's position. _Player 1_ has indicated that this climb is important in some way. While climbing the cliff, Lita then makes all attacks, ability checks, and saves with advantage. Later on, during the cliff-face encounter, Lita's skill is tested once again due to strong winds. She must succeed on a STR check to keep her grip. Because she is still in the same cliff-face encounter, she rolls STR with advantage.
+>> In example 1, _Player 1_'s action resolves a successful STR check without rolling to begin climbing the cliff face to reach the top of the spire, which is 40 squares above Lita's position. _Player 1_ has indicated that this climb is important in some way. While climbing the cliff, Lita then makes all attacks, ability checks, and saves with advantage. Later on, during the cliff-face encounter, Lita's skill is tested once again due to strong winds. She must succeed on a STR check to keep her grip. Because she is still in the same cliff-face encounter, she rolls STR with advantage.
 >> 
 >> Example 2: 
 >>> _(GM)_ "Lita, it's your turn."
