@@ -16,9 +16,11 @@ Efforts have been made to introduce the system and explain how to play for those
 
 The difficulty class (DC) describes the minimum number you need to roll on a check to consider it a success.
 
-Rolling the maximum result, sometimes called a critical success, on a die ignores the DC and is considered an automatic success. For example, in 5eFP, if you roll a natural 20 on a d20, you roll a critical success, ignoring the DC and granting an automatic success. Some systems consider lower numbers as successes. A critical success in such a system, then, is the lowest number on the die. A 95% or higher on a d100 is considered a critical success.
+Rolling the maximum result, sometimes called a critical success, on a die ignores the DC and is considered an automatic success. Some systems have additional rules for critical successes on attack rolls which are sometimes called critical hits. For example, in 5eFP, if you roll a natural 20 on a d20, you roll a critical success, ignoring the DC and granting an automatic success. Some systems consider lower numbers as successes. A critical success in such a system, then, is the lowest number on the die. A 95% or higher on a d100 is considered a critical success.
 
 Rolling the minimum result, sometimes called a critical failure, on a die ignores the DC and is considered an automatic failure. Some systems consider higher numbers as failures. A critical failure in such a system, then, is the highest number on the die. A 5% or lower on a d100 is considered a critical failure.
+
+> 5eFP doesn't punish players for rolling critical failures. As such, critical fumble rules are discouraged. Automatic failure is bad enough.
 
 (See _Difficulty Class_ for more information.)
 
