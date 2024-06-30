@@ -14,13 +14,17 @@ Efforts have been made to introduce the system and explain how to play for those
 
 ## Difficulty Class (DC)
 
-The difficulty class (DC) describes the minimum number you need to roll on a check in order to consider it a success. Rolling the maximum result on a die ignores the DC and is considered an automatic success. Rolling the minimum result on a die ignores the DC and is considered an automatic failure.
+The difficulty class (DC) describes the minimum number you need to roll on a check to consider it a success.
+
+Rolling the maximum result, sometimes called a critical success, on a die ignores the DC and is considered an automatic success. For example, in 5eFP, if you roll a natural 20 on a d20, you roll a critical success, ignoring the DC and granting an automatic success. Some systems consider lower numbers as successes. A critical success in such a system, then, is the lowest number on the die. A 95% or higher on a d100 is considered a critical success.
+
+Rolling the minimum result, sometimes called a critical failure, on a die ignores the DC and is considered an automatic failure. Some systems consider higher numbers as failures. A critical failure in such a system, then, is the highest number on the die. A 5% or lower on a d100 is considered a critical failure.
 
 (See _Difficulty Class_ for more information.)
 
 ## Encounter
 
-An encounter is a special term used in 5eFP that describes all the related scenes that arise in relation to a specific story element. An encounter might be stumbling upon a creature or creatures, talking with traveling merchants, or the span of an entire building or dungeon. An encounter typically lasts until the scene changes. An encounter scene with hostile creatures, for example, doesn't change until after the creatures are dealt with in some way--either by overcoming them with force or by winning them over through persuasion or guile. Once the scene changes to a new encounter, all encounter effects and features from the previous encounter end.
+An encounter is a special term used in 5eFP that describes all the related scenes that arise concerning a specific part of the story. An encounter might be stumbling upon a creature or creatures, talking with traveling merchants, or the span of an entire building or dungeon. An encounter typically lasts until the a scene changes or until the encounter resolves. An encounter scene with hostile creatures, for example, only resolves after the creatures are dealt with in some way--either by overcoming them with force or by influencing them through persuasion or guile. Once the encounter ends, all encounter effects and features added during that encounter also end.
 
 (See _Encounter_ for more information.)
 
@@ -38,6 +42,12 @@ CON in 5eFP generally represents health and vitality. CON modifies MAX Wounds an
 
 (See _Ability Scores_ for more information.)
 
+## Strength (STR)
+
+STR in 5eFP generally represents your ability to lift, push, pull, or break something, to force your body through a space, or to otherwise apply brute force to a situation. STR modifies melee (hand-to-hand) attack rolls and carrying capacity.
+
+(See _Ability Scores_ for more information.)
+
 ## Wounds, Dying, Stabilized, MAX Wounds, and Death Saves
 
 **_Wounds._** 5eFP uses wounds instead of tracking health with points or another method. Wounds are cumulative up to MAX Wounds.
@@ -48,9 +58,11 @@ CON in 5eFP generally represents health and vitality. CON modifies MAX Wounds an
 
 **_MAX Wounds._** MAX Wounds describes the maximum number of wounds you can have. Whenever you reach MAX Wounds, discard any additional wounds assigned beyond your MAX Wounds. Whenever you have MAX Wounds, you gain the dying condition.
 
-**_Death Saves._** Death saves are rolled when it is not certain whether or not your character will survive to see the end of an encounter. In 5eFP a death save is a CON save or check with a DC of 10 on a d20 (a result of 50% or higher is needed on a die roll for a success). Not meeting this DC results in one failed death save. Meeting the DC results in one successful death save. Rolling the minimum amount, typically a 1, on a death save adds two automatic death save failures. Rolling the maximum amount, typically a 20 for d20 systems, awards the stabilized condition and provides enough healing to reduce you below MAX Wounds. Taking 1 or more points of damage while dying results in an automatic death save failure. Receiving a critical hit (rolling the maximum amount to hit on an attack roll) while dying results in two automatic death save failures.
+**_Death Saves._** Death saves are rolled when it is not certain whether or not your character will survive to see the end of an encounter. In 5eFP a death save is a CON save or check with a DC of 10 on a d20 (a result of 50% or higher is needed on a die roll for a success). Not meeting this DC results in one failed death save. Meeting the DC results in one successful death save. Rolling the minimum amount, typically a 1 for d20 systems, on a death save adds two automatic death save failures. Rolling the maximum amount, typically a 20 for d20 systems, awards the stabilized condition and provides enough healing to reduce your wounds to below MAX Wounds. Taking 1 or more points of damage while dying results in an automatic death save failure. Receiving a critical hit (an attack roll with a critical success result) while you have the dying condition results in two automatic death save failures.
 
 If you fail three or more death saves, your character dies.
+
+> Character death in 5eFP is not considered a punishment. Therefore, instead of removing the player from the game, it is encouraged that the GM have pregenerated sidekick characters ready to play in case this happens. The player whose character dies can then choose and play one of the pre-generated characters and jump back into the action.
 
 If you succeed on three or more death saves, your character gains the stabilized condition.
 
