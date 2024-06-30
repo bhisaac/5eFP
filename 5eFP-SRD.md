@@ -4,7 +4,9 @@ The fifth edition focus practice (5eFP) is a new tabletop role-playing game (TRP
 
 _**Focus.**_ Learning and gaining proficiency requires focus, time, and attention. Focus begins with cultivating greater awareness of thoughts, feelings, and instincts as sensations arise within the body. Reaching the next level of experience brings about greater awareness and deeper access to life's energy sourced from within ourselves.
 
-_**Practice.**_ Focus alone isn't enough. Results require real doing through regular and consistent gameplay. We transform TRPGs into a mindful practice. Practices are activities we return to because they feed us in some way. Successful practices provide a kind of nutrient missing in other activities. Regularly playing 5eFP games from beginning to end, fully conscious and aware at least once per month, is our practice.
+_**Practice.**_ Focus alone isn't enough. Results require real doing through regular and consistent gameplay. We transform TRPGs into mindful practices. Practices are activities we return to because they feed us in some way. Successful practices provide a nutrient missing in other activities. Our practice is regularly playing 5eFP games from beginning to end, fully conscious and aware at least once per month.
+
+> Vision without action is daydreaming, which rarely produces results. Action without vision is drudgery and can produce undesirable results.
 
 ## How to Play
 
