@@ -34,9 +34,11 @@ An encounter is a special term used in 5eFP that describes all the related scene
 
 ## Advantage
 
-Advantage is a special condition in the game when player characters (PCs) have a clear advantage while taking an action whether through favorable circumstances or by spending inspiration (see _Inspiration_ below). Advantage on a roll allows you to roll twice and pick the better of the two results.
+Sometimes a special ability or spell tells you that you have advantage on a roll. When that happens, you make the roll twice, choosing the better result. If multiple situations affect a roll are mixed
 
-Any disadvantage imposed upon the roll (a negative modifier or unfavorable circumstances) negates advantage. Advantage negated in this way grants a standard roll (roll without penalties once and keep the result).
+If multiple situations affect a roll and each one grants advantage, you don’t roll more than one additional time.
+
+If a roll has advantage in unfavorable circumstances or with negative modifiers, you no longer have advantage but discard any negative modifiers before you roll.
 
 (See _Advantage_ for more information.)
 
