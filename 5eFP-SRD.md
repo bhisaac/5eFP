@@ -34,7 +34,7 @@ An encounter is a special term used in 5eFP that describes all the related scene
 
 ## Advantage
 
-Sometimes a special ability or spell tells you that you have advantage on a roll. When that happens, you make the roll twice, choosing the better result. If multiple situations affect a roll are mixed
+Sometimes a special ability or spell tells you that you have advantage on a roll. When that happens, you make the roll twice, choosing the better result.
 
 If multiple situations affect a roll and each one grants advantage, you don’t roll more than one additional time.
 
