@@ -58,13 +58,13 @@ STR in 5eFP generally represents your ability to lift, push, pull, or break some
 
 **_Wounds._** 5eFP uses wounds instead of tracking health with points or another method. Wounds are cumulative up to MAX Wounds.
 
+**_MAX Wounds._** MAX Wounds describes the maximum number of wounds you can have. Whenever you reach MAX Wounds, discard any additional wounds assigned beyond your MAX Wounds.
+
 **_Dying._** When you reach MAX Wounds, you gain the dying condition. As long as you have the dying condition, you are unconscious and prone. Additionally, at the beginning of each of your turns, you spend your turn rolling a death save (see _Death Saves_ below). If an effect or feature ends the dying condition, remove all death save successes and failures. The dying condition ends if your character dies.
 
+**_Death Saves._** Death saves are rolled when it is not certain whether or not your character will survive to see the end of an encounter. In 5eFP a death save is a CON save or check with a DC of 10 on a d20 (a result of 50% or higher is needed on a die roll for a success). Not meeting this DC results in one failed death save. Meeting the DC results in one successful death save. Rolling the minimum amount, typically a 1 for d20 fifth edition, on a death save adds two automatic death save failures. Rolling the maximum amount, typically a 20 for d20 fifth edition, awards the stabilized condition and provides enough healing to restore you to minimum health. Taking 1 or more points of damage while dying results in an automatic death save failure. Receiving a critical hit (an attack roll with a critical success result) while you have the dying condition results in two automatic death save failures.
+
 **_Stabalized._** The stabilized condition ends the dying condition. Stabilized PCs wake up at the end of the encounter or after receiving healing, whichever occurs first. If you receive any healing, you first stabilize before receiving the healing.
-
-**_MAX Wounds._** MAX Wounds describes the maximum number of wounds you can have. Whenever you reach MAX Wounds, discard any additional wounds assigned beyond your MAX Wounds. Whenever you have MAX Wounds, you gain the dying condition.
-
-**_Death Saves._** Death saves are rolled when it is not certain whether or not your character will survive to see the end of an encounter. In 5eFP a death save is a CON save or check with a DC of 10 on a d20 (a result of 50% or higher is needed on a die roll for a success). Not meeting this DC results in one failed death save. Meeting the DC results in one successful death save. Rolling the minimum amount, typically a 1 for d20 systems, on a death save adds two automatic death save failures. Rolling the maximum amount, typically a 20 for d20 systems, awards the stabilized condition and provides enough healing to reduce your wounds to below MAX Wounds. Taking 1 or more points of damage while dying results in an automatic death save failure. Receiving a critical hit (an attack roll with a critical success result) while you have the dying condition results in two automatic death save failures.
 
 If you fail three or more death saves, your character dies.
 
@@ -98,7 +98,7 @@ The following describes each dedication and how to use them in the game.
 
 Your insight imbues inward sight, granting vision beneath surface impressions.
 
-Your GM reveals to you all the hidden or obscured pieces of information contained within the current scene. Features granted through spell effects specifically designed to prevent sight, such as _invisibility_ or an equivalent effect are not revealed; instead, their presence is confirmed, and you can sense the subtle flows of air and energy that the spell displaces in its wake. This awareness lasts until the beginning of your next turn.
+Your GM reveals to you all the hidden or obscured pieces of information contained within the current scene. Features granted through spell effects specifically designed to prevent sight, such as _invisibility_ or an equivalent effect, are not revealed; instead, their presence is confirmed, and you can sense the subtle flows of energy that the spell displaces in its wake. This awareness lasts until the beginning of your next turn.
 
 ### Medicine
 
