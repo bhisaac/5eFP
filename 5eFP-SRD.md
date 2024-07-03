@@ -86,7 +86,7 @@ You either have inspiration or you don’t—you can’t stockpile multiple “i
 
 ## Using Inspiration
 
-If you have inspiration, you can expend it when you ~~make an attack roll, saving throw, or ability check~~ roll to attack, resist a feature, or otherwise perform an action. Spending your inspiration gives you advantage on that roll, allowing you to roll twice and keep the better result. Alternatively, you may expend your inspiration anytime to activate a dedication you made at the start of the game session.
+If you have inspiration, you can spend it when you roll to attack, resist a feature, or otherwise perform an action. Spending your inspiration gives you advantage on that roll, allowing you to roll twice and keep the better result. Alternatively, you may spend your inspiration anytime to activate a dedication you made at the start of the game session.
 
 Additionally, if you have inspiration, you can reward another player for good roleplaying, clever thinking, or simply doing something exciting in the game. When another player character does something that really contributes to the story in a fun and interesting way, you can give up your inspiration to give that character inspiration.
 
