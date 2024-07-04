@@ -10,7 +10,7 @@ _**Practice.**_ Focus alone isn't enough. Results require real doing through reg
 
 ## How to Play
 
-Efforts have been made to introduce the system and explain how to play for those who want to try a new way of playing the d20 system but have little or no interest in 5eFP as a philosophy and self-reflective tool beginning with Inspiration and dedication rules. The final draft of the 5eFP System Reference Document (5eFP-SRD) appendix will contain further information about each aspect of 5eFP for those who want to understand 5eFP as a healing modality and philosophical worldview.
+This introduction remains at the top of the 5eFP System Reference Document (5eFP-SRD) while in development for GMs who wish to explore a new way of playing the d20 fifth edition rules with a minimum focus on the self-reflective and self-exploration practices. 5eFP-SRD appendices will include further information about 5eFP for those who want to understand 5eFP as a healing modality and philosophical worldview upon completing the final draft.
 
 # Lexicon
 
