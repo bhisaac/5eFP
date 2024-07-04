@@ -12,11 +12,17 @@ _**Practice.**_ Focus alone isn't enough. Results require real doing through reg
 
 ## Lexicon
 
+### Dice Notation (dX)
+
+5eFP uses a shorthand description for rolling dice represented by dX, where "d" is short for "dice" and "X" is a variable representing the kind of dice to roll. For example, the game may call for rolling a twenty-sided dice or d20. In this situation, "X" equals 20. Sometimes, the game calls for multiple dX rolls, represented by adding a prefix number. Rolling two twenty-sided dice, for example, would be notated as 2d20. 2d20 can be rewritten as (d20 + d20). You roll each die and combine them into one result. If you roll 2d20 with results 7 and 4, the final result equals (7 + 4) or 11.
+
 ### Difficulty Class (DC)
 
 The difficulty class (DC) describes the minimum number you need to roll on a check to consider it a success.
 
-Rolling the maximum result, sometimes called a critical success, on a die ignores the DC and is considered an automatic success. Some systems have additional rules for critical successes on attack rolls which are sometimes called critical hits. For example, in 5eFP, if you roll a natural 20 on a d20, you roll a critical success, ignoring the DC and granting an automatic success. Some systems consider lower numbers as successes. A critical success in such a system, then, is the lowest number on the die. A 95% or higher on a d100 is considered a critical success.
+Rolling the maximum result, sometimes called a critical success, on a die ignores the DC and is considered an automatic success. Some systems have additional rules for critical successes on attack rolls which are sometimes called critical hits. For example, in 5eFP, if you roll an attack with a natural 20 on a d20, you roll a critical success (critical hit), ignoring the DC and granting an automatic success. A 95% or higher on a d100 is considered a critical success.
+
+> Some TRPG systems consider lower numbers as successes. A critical success in such a system, then, is the lowest number on the die, and 5% or lower on a d100 is considered a critical success.
 
 Rolling the minimum result, sometimes called a critical failure, on a die ignores the DC and is considered an automatic failure. Some systems consider higher numbers as failures. A critical failure in such a system, then, is the highest number on the die. A 5% or lower on a d100 is considered a critical failure.
 
