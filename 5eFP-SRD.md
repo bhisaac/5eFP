@@ -32,7 +32,7 @@ Rolling a 95% or higher on a d100 is considered a critical success. If a feature
 
 ### Critical Failure
 
-When you roll the lowest possible result on a die while attacking, making an ability check, or resisting a feature, it is called a critical failure. When this happens, you ignore the DC and consider the roll an automatic failure. A 5% or lower on a d100 is considered a critical failure. According to 5eFP, automatic failure is considered bad enough to override any additional penalties when you roll a critical failure.
+When you roll the lowest possible result on a die while attacking, making an ability check, or resisting a feature, it is called a critical failure. When this happens, you ignore the DC and consider the roll an automatic failure. A 5% or lower on a d100 is considered a critical failure. According to 5eFP, automatic failure is considered bad enough to override any additional penalties due to rolling a critical failure.
 
 > Some systems consider higher numbers as failures. A critical failure in such a system, then, is the highest number on the die, and 95% or higher on a d100 is considered a critical failure.
 
