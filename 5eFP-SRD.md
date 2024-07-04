@@ -12,7 +12,7 @@ _**Practice.**_ Focus alone isn't enough. Results require real doing through reg
 
 Efforts have been made to introduce the system and explain how to play for those who want to try a new way of playing the d20 system but have little or no interest in 5eFP as a philosophy and self-reflective tool beginning with Inspiration and dedication rules. The final draft of the 5eFP System Reference Document (5eFP-SRD) appendix will contain further information about each aspect of 5eFP for those who want to understand 5eFP as a healing modality and philosophical worldview.
 
-# Important Terms
+# Lexicon
 
 ## Difficulty Class (DC)
 
