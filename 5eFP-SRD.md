@@ -1,5 +1,7 @@
 # Introduction
 
+> This introduction remains at the top of the 5eFP System Reference Document (5eFP-SRD) while in development for GMs who wish to explore a new way of playing the d20 fifth edition rules with a minimum focus on the self-reflective and self-exploration practices. 5eFP-SRD appendices will include further information about 5eFP for those who want to understand 5eFP as a healing modality and philosophical worldview as we get closer to completing the final draft.
+
 The fifth edition focus practice (5eFP) is a new tabletop role-playing game (TRPG) experience that combines fun and immersive gameplay with deepening levels of self-exploration. Inspired by the d20 fifth edition rules, 5eFP's dedication and inspiration rules are system-agnostic and can be used within any TRPG.
 
 _**Focus.**_ Learning and gaining proficiency requires focus, time, and attention. Focus begins with cultivating greater awareness of thoughts, feelings, and instincts as sensations arise within the body. Reaching the next level of experience brings about greater awareness and deeper access to life's energy sourced from within ourselves.
@@ -8,13 +10,9 @@ _**Practice.**_ Focus alone isn't enough. Results require real doing through reg
 
 > Vision without action is a daydream. Action without vision is a nightmare.
 
-## How to Play
+## Lexicon
 
-This introduction remains at the top of the 5eFP System Reference Document (5eFP-SRD) while in development for GMs who wish to explore a new way of playing the d20 fifth edition rules with a minimum focus on the self-reflective and self-exploration practices. 5eFP-SRD appendices will include further information about 5eFP for those who want to understand 5eFP as a healing modality and philosophical worldview as we get closer to completing the final draft.
-
-# Lexicon
-
-## Difficulty Class (DC)
+### Difficulty Class (DC)
 
 The difficulty class (DC) describes the minimum number you need to roll on a check to consider it a success.
 
@@ -26,13 +24,13 @@ Rolling the minimum result, sometimes called a critical failure, on a die ignore
 
 (See _Difficulty Class_ for more information.)
 
-## Encounter
+### Encounter
 
 An encounter is a special term used in 5eFP that describes all the related scenes that arise concerning a specific part of the story. An encounter might be stumbling upon a creature or creatures, talking with traveling merchants, or the span of an entire building or dungeon. An encounter typically lasts until the a scene changes or until the encounter resolves. An encounter scene with hostile creatures, for example, only resolves after the creatures are dealt with in some way--either by overcoming them with force or by influencing them through persuasion or guile. Once the encounter ends, all encounter effects and features added during that encounter also end.
 
 (See _Encounter_ for more information.)
 
-## Advantage
+### Advantage
 
 Sometimes a special ability or spell tells you that you have advantage on a roll. When that happens, you make the roll twice, choosing the better result.
 
@@ -42,19 +40,19 @@ If a roll has advantage in unfavorable circumstances such as those imposed by di
 
 (See _Advantage_ for more information.)
 
-## Constitution (CON)
+### Constitution (CON)
 
 CON in 5eFP generally represents health and vitality. CON modifies MAX Wounds and adds a modifier to Death Saves.
 
 (See _Ability Scores_ for more information.)
 
-## Strength (STR)
+### Strength (STR)
 
 STR in 5eFP generally represents your ability to lift, push, pull, or break something, to force your body through a space, or to otherwise apply brute force to a situation. STR modifies melee (hand-to-hand) attack rolls and carrying capacity.
 
 (See _Ability Scores_ for more information.)
 
-## Wounds, Dying, Stabilized, MAX Wounds, and Death Saves
+### Wounds, Dying, Stabilized, MAX Wounds, and Death Saves
 
 **_Wounds._** 5eFP uses wounds instead of tracking health with points or another method. Wounds are cumulative up to MAX Wounds.
 
@@ -74,45 +72,45 @@ If you succeed on three or more death saves, your character gains the stabilized
 
 > 5eFP is somewhat forgiving around character death because dice results can be capricious. The point of 5eFP is not to kill off all the PCs as fast as possible. Instead, it encourages ongoing gameplay with familiar characters to engender a felt experience over time. If your game has no grace period wherein PCs may recover from a deadly blow, then allow an inspired medicine (see Inspiration) to bring them back, but at the edge of death (one more hit will take them out again).
 
-# Inspiration
+## Inspiration
 
 Inspiration is a rule the GM uses to reward you when you show up to play a game session on time and for playing your character in an exceptional way.
 
-## Gaining Inspiration
+### Gaining Inspiration
 
 At the beginning of each game session, PCs choose two different dedications from Insight, Medicine, Perception, Performance, or Survival (see Dedications). Once the choices are made, the chosen dedications can only be changed at the beginning of the next game session. Your GM then awards inspiration to all PCs who are present in the game. Your GM also has the option to grant you inspiration for various reasons during gameplay. Generally, inspiration is given when you effectively portray your character in a compelling way. Your GM may introduce other ways to earn inspiration during the game. In 5eFP, your setting handbook may also introduce other ways to earn inspiration during the game.
 
 You either have inspiration or you don’t—you can’t stockpile multiple “inspirations” for later use.
 
-## Using Inspiration
+### Using Inspiration
 
 If you have inspiration, you can spend it when you roll to attack, resist a feature, or otherwise perform an action. Spending your inspiration gives you advantage on that roll, allowing you to roll twice and keep the better result. Alternatively, you may spend your inspiration anytime to activate a dedication you made at the start of the game session.
 
 Additionally, if you have inspiration, you can reward another player for good roleplaying, clever thinking, or simply doing something exciting in the game. When another player character does something that really contributes to the story in a fun and interesting way, you can give up your inspiration to give that character inspiration.
 
-## Dedications
+### Dedications
 
 The following describes each dedication and how to use them in the game.
 
-### Insight
+#### Insight
 
 Your insight imbues inward sight, granting vision beneath surface impressions.
 
 Your GM reveals to you all the hidden or obscured pieces of information contained within the current scene. Features granted through spell effects specifically designed to prevent sight, such as _invisibility_ or an equivalent effect, are not revealed; instead, their presence is confirmed, and you can sense the subtle flows of energy that the spell displaces in its wake. This awareness lasts until the beginning of your next turn.
 
-### Medicine
+#### Medicine
 
 Your medicine stabilizes wounds.
 
 Choose any number of creatures your character can see within 6 squares of you with the dying condition. The chosen creatures receive enough healing to return them to minimum health.
 
-### Perception
+#### Perception
 
 Your perception enables you to spot, hear, or otherwise detect the presence of something.
 
 Your GM reveals to you all the information available regarding the current scene gathered through the five senses (sight, smell, sound, taste, and touch).
 
-### Performance
+#### Performance
 
 Your performance allows the satisfying completion of one action.
 
@@ -140,7 +138,7 @@ You decide the outcome of the next action your character declares on their turn.
 >>> 
 >> In example 2, _Player 1_'s action resolves a successful attack action from a hidden position and then finishes. The action does not continue on subsequent rounds.
 
-### Survival
+#### Survival
 
 Your survival awards expanded capacities, allowing you to identify and acquire new advantages, qualities, or skills.
 
