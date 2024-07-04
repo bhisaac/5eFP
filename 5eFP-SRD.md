@@ -20,19 +20,27 @@ _**Practice.**_ Focus alone isn't enough. Results require real doing through reg
 
 The difficulty class (DC) describes the minimum number you need to roll on a check to consider it a success.
 
-Rolling the maximum result, sometimes called a critical success, on a die ignores the DC and is considered an automatic success. Some systems have additional rules for critical successes on attack rolls which are sometimes called critical hits. For example, in 5eFP, if you roll an attack with a natural 20 on a d20, you roll a critical success (critical hit), ignoring the DC and granting an automatic success. A 95% or higher on a d100 is considered a critical success.
-
-Rolling the minimum result, sometimes called a critical failure, on a die ignores the DC and is considered an automatic failure. A 5% or lower on a d100 is considered a critical failure. 5eFP asserts that automatic failure is bad enough to warrant adding critical fumble rules.
-
-> Some TRPG systems consider lower numbers as successes. A critical success in such a system, then, is the lowest number on the die, and 5% or lower on a d100 is considered a critical success.
->
-> Some systems consider higher numbers as failures. A critical failure in such a system, then, is the highest number on the die, and 95% or higher on a d100 is considered a critical failure.
-
 (See _Difficulty Class_ for more information.)
+
+### Critical Success
+
+Rolling the maximum die result when attacking, making an ability check, or resisting a feature is considered a critical success. When you score a critical success, you ignore the DC and consider the roll an automatic success. Some systems have additional rules for critical successes on attack rolls, which are sometimes called critical hits. For example, in 5eFP, if you roll an attack with a natural 20 on a d20, you roll a critical success (critical hit), ignoring the DC and granting an automatic success. A 95% or higher on a d100 is considered a critical success.
+
+When you roll the highest possible result on a die while attacking, making an ability check, or resisting a feature, it is called a critical success. When this happens, you ignore the DC and consider the roll an automatic success. Some game systems have specific rules for critical successes on attack rolls, known as critical hits. For example, in 5eFP, rolling a natural 20 on a d20 is a critical hit, ignoring the DC and granting an automatic success.
+
+Rolling a 95% or higher on a d100 is considered a critical success. If a feature in 5eFP awards an expanded critical success range (crit range), subtract 5% from this number for each additional score in the crit range. For example, the champion fighter subclass expands your crit range to 19. This means rolling a 19 or 20 on a d20 roll is considered a critical success. So, an expanded crit range of 19 means a result of 90% or higher on a d100 is considered a critical success.
+
+> Some TRPG systems consider lower numbers as successes. A critical success in such a system, then, is the lowest number on the die, 5% or lower on a d100, and 10% or lower on a d100 with an expanded crit range.
+
+### Critical Failure
+
+Rolling the minimum result, sometimes called a critical failure, on a die ignores the DC and is considered an automatic failure. A 5% or lower on a d100 is considered a critical failure. 5eFP asserts automatic failure is bad enough to ignore any critical fumble rules.
+
+> Some systems consider higher numbers as failures. A critical failure in such a system, then, is the highest number on the die, and 95% or higher on a d100 is considered a critical failure.
 
 ### Encounter
 
-An encounter is a special term used in 5eFP that describes all the related scenes that arise concerning a specific part of the story. An encounter might be stumbling upon a creature or creatures, talking with traveling merchants, or the span of an entire building or dungeon. An encounter typically lasts until the a scene changes or until the encounter resolves. An encounter scene with hostile creatures, for example, only resolves after the creatures are dealt with in some way--either by overcoming them with force or by influencing them through persuasion or guile. Once the encounter ends, all encounter effects and features added during that encounter also end.
+An encounter is a special term used in 5eFP that describes all the related scenes that arise concerning a specific part of the story. An encounter might be stumbling upon a creature or creatures, talking with traveling merchants, or the span of an entire building or dungeon. An encounter typically lasts until the scene changes or until the encounter resolves. An encounter scene with hostile creatures, for example, only resolves after the creatures are dealt with in some way--either by overcoming them with force or by influencing them through persuasion or guile. Once the encounter ends, all encounter effects and features added during that encounter also end.
 
 (See _Encounter_ for more information.)
 
