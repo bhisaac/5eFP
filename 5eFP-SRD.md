@@ -10,7 +10,7 @@ _**Practice.**_ Focus alone isn't enough. Results require real doing through reg
 
 ## How to Play
 
-This introduction remains at the top of the 5eFP System Reference Document (5eFP-SRD) while in development for GMs who wish to explore a new way of playing the d20 fifth edition rules with a minimum focus on the self-reflective and self-exploration practices. 5eFP-SRD appendices will include further information about 5eFP for those who want to understand 5eFP as a healing modality and philosophical worldview upon completing the final draft.
+This introduction remains at the top of the 5eFP System Reference Document (5eFP-SRD) while in development for GMs who wish to explore a new way of playing the d20 fifth edition rules with a minimum focus on the self-reflective and self-exploration practices. 5eFP-SRD appendices will include further information about 5eFP for those who want to understand 5eFP as a healing modality and philosophical worldview as we get closer to completing the final draft.
 
 # Lexicon
 
