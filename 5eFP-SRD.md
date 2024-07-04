@@ -22,9 +22,11 @@ The difficulty class (DC) describes the minimum number you need to roll on a che
 
 Rolling the maximum result, sometimes called a critical success, on a die ignores the DC and is considered an automatic success. Some systems have additional rules for critical successes on attack rolls which are sometimes called critical hits. For example, in 5eFP, if you roll an attack with a natural 20 on a d20, you roll a critical success (critical hit), ignoring the DC and granting an automatic success. A 95% or higher on a d100 is considered a critical success.
 
-> Some TRPG systems consider lower numbers as successes. A critical success in such a system, then, is the lowest number on the die, and 5% or lower on a d100 is considered a critical success.
+Rolling the minimum result, sometimes called a critical failure, on a die ignores the DC and is considered an automatic failure. A 5% or lower on a d100 is considered a critical failure.
 
-Rolling the minimum result, sometimes called a critical failure, on a die ignores the DC and is considered an automatic failure. Some systems consider higher numbers as failures. A critical failure in such a system, then, is the highest number on the die. A 5% or lower on a d100 is considered a critical failure.
+> Some TRPG systems consider lower numbers as successes. A critical success in such a system, then, is the lowest number on the die, and 5% or lower on a d100 is considered a critical success.
+>
+> Some systems consider higher numbers as failures. A critical failure in such a system, then, is the highest number on the die, and 95% or higher on a d100 is considered a critical failure.
 
 > 5eFP doesn't punish players for rolling critical failures. As such, critical fumble rules are discouraged. Automatic failure is bad enough.
 
