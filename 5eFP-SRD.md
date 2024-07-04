@@ -12,7 +12,7 @@ _**Practice.**_ Focus alone isn't enough. Results require real doing through reg
 
 Efforts have been made to introduce the system and explain how to play for those who want to try a new way of playing the d20 system but have little or no interest in 5eFP as a philosophy and self-reflective tool beginning with Inspiration and dedication rules. The final draft of the 5eFP System Reference Document (5eFP-SRD) appendix will contain further information about each aspect of 5eFP for those who want to understand 5eFP as a healing modality and philosophical worldview.
 
-# Lexicon
+# Important Terms
 
 ## Difficulty Class (DC)
 
@@ -38,7 +38,7 @@ Sometimes a special ability or spell tells you that you have advantage on a roll
 
 If multiple situations affect a roll and each one grants advantage, you don’t roll more than one additional time.
 
-If a roll has advantage in unfavorable circumstances or with negative modifiers, you no longer have advantage but discard any negative modifiers before you roll.
+If a roll has advantage in unfavorable circumstances such as those imposed by disadvantage, you no longer have advantage, but you discard any negative modifiers before you roll.
 
 (See _Advantage_ for more information.)
 
