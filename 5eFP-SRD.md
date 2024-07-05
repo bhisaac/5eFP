@@ -72,9 +72,7 @@ STR in 5eFP generally represents your ability to lift, push, pull, or break some
 
 **_Dying._** When you reach MAX Wounds, you gain the dying condition. As long as you have the dying condition, you are unconscious and prone. Additionally, at the beginning of each of your turns, you spend your turn rolling a death save (see _Death Saves_ below). If an effect or feature ends the dying condition, remove all death save successes and failures. The dying condition ends if your character dies.
 
-**_Death Saves._** Death saves are rolled when it is not certain whether or not your character will survive to see the end of an encounter. In 5eFP a death save is a CON save or check with a DC of 10 on a d20 (a result of 50% or higher is needed on a die roll for a success). Not meeting this DC results in one failed death save. Meeting the DC results in one successful death save. Rolling the minimum amount, typically a 1 for d20 fifth edition, on a death save adds two automatic death save failures. Rolling the maximum amount, typically a 20 for d20 fifth edition, awards the stabilized condition and provides enough healing to restore you to minimum health. Taking 1 or more points of damage while dying results in an automatic death save failure. Receiving a critical hit (an attack roll with a critical success result) while you have the dying condition results in two automatic death save failures.
-
-**_Stabalized._** The stabilized condition ends the dying condition. Stabilized PCs wake up at the end of the encounter or after receiving healing, whichever occurs first. If you receive any healing, you first stabilize before receiving the healing.
+**_Death Saves._** Death saves are rolled when it is not certain whether or not your character will survive to see the end of an encounter. In 5eFP a death save is a CON save or check with a DC of 10 on a d20 (a result of 50% or higher is needed on a die roll for a success). Not meeting this DC results in one failed death save. Meeting the DC results in one successful death save. Rolling a critical failure adds two automatic death save failures. Rolling a critical success awards the stabilized condition and provides enough healing to restore you to minimum health. Each time you take 1 or more points of damage while dying, you gain one automatic death save failure. Receiving a critical hit (an attack roll with a critical success result) while you have the dying condition results in two automatic death save failures.
 
 If you fail three or more death saves, your character dies.
 
@@ -83,6 +81,8 @@ If you fail three or more death saves, your character dies.
 If you succeed on three or more death saves, your character gains the stabilized condition.
 
 > 5eFP is somewhat forgiving around character death because dice results can be capricious. The point of 5eFP is not to kill off all the PCs as fast as possible. Instead, it encourages ongoing gameplay with familiar characters to engender a felt experience over time. If your game has no grace period wherein PCs may recover from a deadly blow, then allow an inspired medicine (see Inspiration) to bring them back, but at the edge of death (one more hit will take them out again).
+
+**_Stabalized._** Whenever you receive healing or the game says you stabilize, you are considered stabilized. After stabilizing, discard the dying condition. You remain unconscious until the end of the encounter or wake up immediately if you stabalzied because you received healing.
 
 ## Inspiration
 
