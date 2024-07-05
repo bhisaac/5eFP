@@ -16,7 +16,7 @@ _**Practice.**_ Focus alone isn't enough. Results require real doing through reg
 
 The difficulty class (DC) describes the minimum number you need to roll on a check to consider it a success.
 
-(See _Difficulty Class_ for more information.)
+(See _Using Ability Scores_ for more information.)
 
 ### Critical Success
 
@@ -24,12 +24,16 @@ When you roll the highest possible result on a die while attacking, making an ab
 
 Rolling a 95% or higher on a d100 is considered a critical success. If a feature in 5eFP awards an expanded critical success range (crit range), subtract 5% from this number for each additional score in the crit range. For example, the champion fighter subclass expands your crit range to 19. This means rolling a 19 or 20 on a d20 roll is considered a critical success. So, an expanded crit range of 19 means a result of 90% or higher on a d100 is considered a critical success.
 
+> A critical success occurs in skill-based systems whenever a player character (PC) scores four or more net successes.
+>
 > Some TRPG systems consider lower numbers as successes. A critical success in such a system, then, is the lowest number on the die, 5% or lower on a d100, and 10% or lower on a d100 with an expanded crit range.
 
 ### Critical Failure
 
 When you roll the lowest possible result on a die while attacking, making an ability check, or resisting a feature, it is called a critical failure. When this happens, you ignore the DC and consider the roll an automatic failure. A 5% or lower on a d100 is considered a critical failure. According to 5eFP, automatic failure is considered bad enough to override any additional penalties due to rolling a critical failure.
 
+> A critical failure occurs in skill-based systems whenever a player character (PC) rolls all 1s.
+>
 > Some systems consider higher numbers as failures. A critical failure in such a system, then, is the highest number on the die, and 95% or higher on a d100 is considered a critical failure.
 
 ### Encounter
