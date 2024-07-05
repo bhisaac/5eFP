@@ -14,7 +14,7 @@ _**Practice.**_ Focus alone isn't enough. Results require real doing through reg
 
 ### Dice Notation (dX)
 
-5eFP uses a shorthand description for rolling dice represented by dX, where "d" is short for "dice" and "X" is a variable representing the kind of dice to roll. For example, the game may call for rolling a twenty-sided dice or d20. In this situation, "X" equals 20. Sometimes, the game calls for multiple dX rolls, represented by adding a prefix number. Rolling two twenty-sided dice, for example, would be notated as 2d20. 2d20 can be rewritten as (d20 + d20). You roll each die and combine them into one result. If you roll 2d20 with results 7 and 4, the final result equals (7 + 4) or 11.
+5eFP uses a shorthand description for rolling dice represented by dX, where "d" is short for "dice" and "X" is a variable representing the kind of dice to roll. For example, the game may call for rolling a twenty-sided dice or d20. In this situation, "X" equals 20.
 
 ### Difficulty Class (DC)
 
