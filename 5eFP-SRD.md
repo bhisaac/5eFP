@@ -2,7 +2,7 @@
 
 The fifth edition focus practice (5eFP) is a new tabletop role-playing game (TRPG) experience that combines fun and immersive gameplay with deepening levels of self-exploration. Inspired by the d20 fifth edition rules, 5eFP's dedication and inspiration rules are system-agnostic and can be used within any TRPG.
 
-> This introduction remains at the top of the 5eFP System Reference Document (5eFP-SRD) while in development for TRPG players who wish to explore a new way of playing the d20 fifth edition rules with a minimum focus on the self-reflective and self-exploration practices. 5eFP-SRD appendices will include further information about 5eFP for those who want to understand 5eFP as a healing modality and philosophical worldview as we get closer to completing the final draft.
+> While the 5eFP System Reference Document (5eFP-SRD) is still in development, this Introduction is aimed at TRPG players who want to explore a new way of playing with minimal focus on self-reflective and self-exploration practices. 5eFP-SRD appendices will include further information about 5eFP for those who want to understand and use 5eFP as a healing modality and philosophical worldview as we get closer to completing the final draft.
 
 _**Focus.**_ Learning and gaining proficiency requires focus, time, and attention. Focus begins with cultivating greater awareness of thoughts, feelings, and instincts as sensations arise within the body. Reaching the next level of experience brings about greater awareness and deeper access to life's energy sourced from within ourselves.
 
@@ -11,10 +11,6 @@ _**Practice.**_ Focus alone isn't enough. Results require real doing through reg
 > Vision without action is a daydream. Action without vision is a nightmare.
 
 ## Lexicon
-
-### Dice Notation (dX)
-
-5eFP uses a shorthand description for rolling dice represented by dX, where "d" is short for "dice" and "X" is a variable representing the kind of dice to roll. For example, the game may call for rolling a twenty-sided dice or d20. In this situation, "X" equals 20.
 
 ### Difficulty Class (DC)
 
