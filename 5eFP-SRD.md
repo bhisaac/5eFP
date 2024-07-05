@@ -20,7 +20,7 @@ The difficulty class (DC) describes the minimum number you need to roll on a che
 
 ### Critical Success
 
-When you roll the highest possible result on a die while attacking, making an ability check, or resisting a feature, it is called a critical success. When this happens, you ignore the DC and consider the roll an automatic success. Some game systems have specific rules for critical successes on attack rolls, known as critical hits. For example, in 5eFP, rolling a natural 20 on a d20 is a critical hit, ignoring the DC and granting an automatic success.
+When you roll the most favorable result on a die while attacking, making an ability check, or resisting a feature, it is called a critical success. When this happens, you ignore the DC and consider the roll an automatic success. Some game systems have specific rules for critical successes on attack rolls, known as critical hits. For example, in 5eFP, rolling a natural 20 on a d20 is a critical hit, ignoring the DC and granting an automatic success.
 
 Rolling a 95% or higher on a d100 is considered a critical success. If a feature in 5eFP awards an expanded critical success range (crit range), subtract 5% from this number for each additional score in the crit range. For example, the champion fighter subclass expands your crit range to 19. This means rolling a 19 or 20 on a d20 roll is considered a critical success. So, an expanded crit range of 19 means a result of 90% or higher on a d100 is considered a critical success.
 
@@ -30,9 +30,9 @@ Rolling a 95% or higher on a d100 is considered a critical success. If a feature
 
 ### Critical Failure
 
-When you roll the lowest possible result on a die while attacking, making an ability check, or resisting a feature, it is called a critical failure. When this happens, you ignore the DC and consider the roll an automatic failure. A 5% or lower on a d100 is considered a critical failure. According to 5eFP, automatic failure is considered bad enough to override any additional penalties due to rolling a critical failure.
+When you roll the least favorable result on a die while attacking, making an ability check, or resisting a feature, it is called a critical failure. When this happens, you ignore the DC and consider the roll an automatic failure. In 5eFP, rolling a 1 on a d20 is considered a critical failure. A 5% or lower on a d100 is considered a critical failure. Automatic failure is considered bad enough to override any additional penalties, such as critical fumbles, due to rolling a critical failure.
 
-> A critical failure occurs in skill-based systems whenever a player character (PC) rolls all 1s.
+> A critical failure occurs in skill-based systems whenever all dice in a test roll the least favorable result.
 >
 > Some systems consider higher numbers as failures. A critical failure in such a system, then, is the highest number on the die, and 95% or higher on a d100 is considered a critical failure.
 
