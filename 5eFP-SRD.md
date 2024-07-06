@@ -10,13 +10,11 @@ _**Practice.**_ Focus alone isn't enough. Results require real doing through reg
 
 > Vision without action is a daydream. Action without vision is a nightmare.
 
-## Lexicon
+## Game Terms and Basic Rules
 
 ### Difficulty Class (DC)
 
 The difficulty class (DC) describes the minimum number you need to roll on a check to consider it a success.
-
-(See _Using Ability Scores_ for more information.)
 
 ### Critical Success
 
@@ -40,8 +38,6 @@ When you roll the least favorable result on a die while attacking, making an abi
 
 An encounter is a special term used in 5eFP that describes all the related scenes that arise concerning a specific part of the story. An encounter might be stumbling upon a creature or creatures, talking with traveling merchants, or the span of an entire building or dungeon. An encounter typically lasts until the scene changes or until the encounter resolves. An encounter scene with hostile creatures, for example, only resolves after the creatures are dealt with in some way--either by overcoming them with force or by influencing them through persuasion or guile. Once the encounter ends, all encounter effects and features added during that encounter also end.
 
-(See _Encounter_ for more information.)
-
 ### Advantage
 
 Sometimes a special ability or spell tells you that you have advantage on a roll. When that happens, you make the roll twice, choosing the better result.
@@ -50,29 +46,29 @@ If multiple situations affect a roll and each one grants advantage, you don’t 
 
 If a roll has advantage in unfavorable circumstances such as those imposed by disadvantage, you no longer have advantage, but you discard any negative modifiers before you roll.
 
-(See _Advantage_ for more information.)
-
 ### Constitution (CON)
 
 CON in 5eFP generally represents health and vitality. CON modifies MAX Wounds and adds a modifier to Death Saves.
-
-(See _Ability Scores_ for more information.)
 
 ### Strength (STR)
 
 STR in 5eFP generally represents your ability to lift, push, pull, or break something, to force your body through a space, or to otherwise apply brute force to a situation. STR modifies melee (hand-to-hand) attack rolls and carrying capacity.
 
-(See _Ability Scores_ for more information.)
+### Wounds
 
-### Wounds, Dying, Stabilized, MAX Wounds, and Death Saves
+5eFP uses wounds instead of tracking health with points or another method. Wounds are cumulative up to MAX Wounds.
 
-**_Wounds._** 5eFP uses wounds instead of tracking health with points or another method. Wounds are cumulative up to MAX Wounds.
+### MAX Wounds
 
-**_MAX Wounds._** MAX Wounds describes the maximum number of wounds you can have. Whenever you reach MAX Wounds, discard any additional wounds assigned beyond your MAX Wounds.
+MAX Wounds describes the maximum number of wounds you can have. Whenever you reach MAX Wounds, discard any additional wounds assigned beyond your MAX Wounds.
 
-**_Dying._** When you reach MAX Wounds, you gain the dying condition. As long as you have the dying condition, you are unconscious and prone. Additionally, at the beginning of each of your turns, you spend your turn rolling a death save (see _Death Saves_ below). If an effect or feature ends the dying condition, remove all death save successes and failures. The dying condition ends if your character dies.
+### Dying
 
-**_Death Saves._** Death saves are rolled when it is not certain whether or not your character will survive to see the end of an encounter. In 5eFP a death save is a CON save or check with a DC of 10 on a d20 (a result of 50% or higher is needed on a die roll for a success). Not meeting this DC results in one failed death save. Meeting the DC results in one successful death save. Rolling a critical failure adds two automatic death save failures. Rolling a critical success awards the stabilized condition and provides enough healing to restore you to minimum health. Each time you take 1 or more points of damage while dying, you gain one automatic death save failure. Receiving a critical hit (an attack roll with a critical success result) while you have the dying condition results in two automatic death save failures.
+When you reach MAX Wounds, you gain the dying condition. As long as you have the dying condition, you are unconscious and prone. Additionally, at the beginning of each of your turns, you must spend your turn rolling a death save (see _Death Saves_ below). If an effect or feature ends the dying condition, remove all death save successes and failures. The dying condition ends if your character dies.
+
+### Death Saves
+
+Death saves are rolled when it is not certain whether or not your character will survive to see the end of an encounter. In 5eFP a death save is a CON save or check with a DC of 10 on a d20 (a result of 50% or higher is needed on a die roll for a success). Not meeting this DC results in one failed death save. Meeting the DC results in one successful death save. Rolling a critical failure adds two automatic death save failures. Rolling a critical success awards the stabilized condition and provides enough healing to restore you to minimum health. Each time you take 1 or more points of damage while dying, you gain one automatic death save failure. Receiving a critical hit (an attack roll with a critical success result) while you have the dying condition results in two automatic death save failures.
 
 If you fail three or more death saves, your character dies.
 
@@ -82,19 +78,21 @@ If you succeed on three or more death saves, your character gains the stabilized
 
 > 5eFP is somewhat forgiving around character death because dice results can be capricious. The point of 5eFP is not to kill off all the PCs as fast as possible. Instead, it encourages ongoing gameplay with familiar characters to engender a felt experience over time. If your game has no grace period wherein PCs may recover from a deadly blow, then allow an inspired medicine (see Inspiration) to bring them back, but at the edge of death (one more hit will take them out again).
 
-**_Stabalized._** Whenever you receive healing or the game says you stabilize, you are considered stabilized. After stabilizing, discard the dying condition. You remain unconscious until the end of the encounter or wake up immediately if you are stabilized as a result of receiving healing.
+### Stabilized
 
-## Inspiration
+Whenever you receive healing or the game says you stabilize, you are considered stabilized. After stabilizing, discard the dying condition. You remain unconscious until the end of the encounter or wake up immediately if you are stabilized as a result of receiving healing.
+
+### Inspiration
 
 Inspiration is a rule the GM uses to reward you when you show up to play a game session on time and for playing your character in an exceptional way.
 
-### Gaining Inspiration
+#### Gaining Inspiration
 
 At the beginning of each game session, PCs choose two different dedications from Insight, Medicine, Perception, Performance, or Survival (see Dedications). Once the choices are made, the chosen dedications can only be changed at the beginning of the next game session. Your GM then awards inspiration to all PCs who are present in the game. Your GM also has the option to grant you inspiration for various reasons during gameplay. Generally, inspiration is given when you effectively portray your character in a compelling way. Your GM may introduce other ways to earn inspiration during the game. In 5eFP, your setting handbook may also introduce other ways to earn inspiration during the game.
 
 You either have inspiration or you don’t—you can’t stockpile multiple “inspirations” for later use.
 
-### Using Inspiration
+#### Using Inspiration
 
 If you have inspiration, you can spend it when you roll to attack, resist a feature, or otherwise perform an action. Spending your inspiration gives you advantage on that roll, allowing you to roll twice and keep the better result. Alternatively, you may spend your inspiration anytime to activate a dedication you made at the start of the game session.
 
