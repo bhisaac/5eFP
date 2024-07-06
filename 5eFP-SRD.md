@@ -40,7 +40,7 @@ An encounter is a special term used in 5eFP that describes all the related scene
 
 ### Minion Creature Encounters
 
-5eFP uses minion rules for creature encounters to expedite gameplay without sacrificing the action. Creatures in a minion creature encounter uses the same game statistics provided except for the following changes:
+5eFP uses minion rules for creature encounters to expedite gameplay without sacrificing the action. Creatures in a minion creature encounter use the same game statistics provided except for the following changes:
 
 - They cannot cannot resist PC effects or features
 - They never deal more than 1 point of damage
