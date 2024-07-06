@@ -20,7 +20,7 @@ The difficulty class (DC) describes the minimum number you need to roll on a che
 
 When you roll the most favorable result before adding any modifiers on a die while attacking, making an ability check, or resisting a feature, it is called a critical success. When this happens, you ignore the DC and consider the roll an automatic success. For example, in 5eFP, rolling a natural 20 on a d20 is a critical success, ignoring the DC and granting an automatic success.
 
-Rolling a 95% or higher on a d100 is considered a critical success. If a feature in 5eFP awards an expanded critical success range (crit range), subtract 5% from this number for each additional score in the crit range. For example, in 5eFP, a fighter can upgrade to champion, granting an expanded crit range of 19. This means rolling a 19 or 20 on a d20 roll are both considered critical successes. So, an expanded crit range of 19 means a result of 90% or higher on a d100 is considered a critical success.
+Rolling a 95% or higher on a d100 is considered a critical success. If a feature in 5eFP awards an expanded critical success range (crit range), subtract 5% from this number for each additional score in the crit range. For example, in 5eFP, a fighter can upgrade to champion, granting an expanded crit range of 19. This means rolling a 19 or 20 on a d20 roll are both considered critical successes. So, an expanded crit range of 19 means a result of 90% or higher on a d100 is considered a critical success. Similarly, with skill-based systems, increasing crit range allows critical success if you roll 3 or more net successes.
 
 > A critical success occurs in skill-based systems whenever a player character (PC) scores four or more net successes.
 >
