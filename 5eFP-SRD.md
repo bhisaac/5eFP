@@ -18,9 +18,9 @@ The difficulty class (DC) describes the minimum number you need to roll on a che
 
 ### Critical Success
 
-When you roll the most favorable result on a die while attacking, making an ability check, or resisting a feature, it is called a critical success. When this happens, you ignore the DC and consider the roll an automatic success. Some game systems have specific rules for critical successes on attack rolls, known as critical hits. For example, in 5eFP, rolling a natural 20 on a d20 is a critical hit, ignoring the DC and granting an automatic success.
+When you roll the most favorable result before adding any modifiers on a die while attacking, making an ability check, or resisting a feature, it is called a critical success. When this happens, you ignore the DC and consider the roll an automatic success. For example, in 5eFP, rolling a natural 20 on a d20 is a critical success, ignoring the DC and granting an automatic success.
 
-Rolling a 95% or higher on a d100 is considered a critical success. If a feature in 5eFP awards an expanded critical success range (crit range), subtract 5% from this number for each additional score in the crit range. For example, the champion fighter subclass expands your crit range to 19. This means rolling a 19 or 20 on a d20 roll is considered a critical success. So, an expanded crit range of 19 means a result of 90% or higher on a d100 is considered a critical success.
+Rolling a 95% or higher on a d100 is considered a critical success. If a feature in 5eFP awards an expanded critical success range (crit range), subtract 5% from this number for each additional score in the crit range. For example, in 5eFP, a fighter can upgrade to champion, granting an expanded crit range of 19. This means rolling a 19 or 20 on a d20 roll are both considered critical successes. So, an expanded crit range of 19 means a result of 90% or higher on a d100 is considered a critical success.
 
 > A critical success occurs in skill-based systems whenever a player character (PC) scores four or more net successes.
 >
@@ -28,7 +28,7 @@ Rolling a 95% or higher on a d100 is considered a critical success. If a feature
 
 ### Critical Failure
 
-When you roll the least favorable result on a die while attacking, making an ability check, or resisting a feature, it is called a critical failure. When this happens, you ignore the DC and consider the roll an automatic failure. In 5eFP, rolling a 1 on a d20 is considered a critical failure. A 5% or lower on a d100 is considered a critical failure. Automatic failure is bad enough to override any additional penalties, such as critical fumbles, due to rolling a critical failure.
+When you roll the least favorable result before adding any modifiers on a die while attacking, making an ability check, or resisting a feature, it is called a critical failure. When this happens, you ignore the DC and consider the roll an automatic failure. In 5eFP, rolling a 1 on a d20 is considered a critical failure. A 5% or lower on a d100 is considered a critical failure. Automatic failure is bad enough to override any additional penalties, such as critical fumbles, due to rolling a critical failure.
 
 > A critical failure occurs in skill-based systems whenever all dice in a test roll the least favorable result.
 >
@@ -44,11 +44,11 @@ Sometimes a special ability or spell tells you that you have advantage on a roll
 
 If multiple situations affect a roll and each one grants advantage, you don’t roll more than one additional time.
 
-If a roll has advantage in unfavorable circumstances such as those imposed by disadvantage, you no longer have advantage, but you discard any negative modifiers before you roll.
+If a roll has advantage in unfavorable circumstances such as those imposed by disadvantage or if a roll has one or more negative modifiers, you no longer have advantage, but you still discard any negative modifiers before making the roll.
 
 ### Constitution (CON)
 
-CON in 5eFP generally represents health and vitality. CON modifies MAX Wounds and adds a modifier to Death Saves.
+CON in 5eFP generally represents health and vitality. CON modifies MAX Wounds and adds a modifier to death saves (see _Death Saves_ below).
 
 ### Strength (STR)
 
@@ -56,11 +56,13 @@ STR in 5eFP generally represents your ability to lift, push, pull, or break some
 
 ### Wounds
 
-5eFP uses wounds instead of tracking health with points or another method. Wounds are cumulative up to MAX Wounds.
+5eFP uses wounds instead of tracking health with hitpoints or another method. Wounds are cumulative up to MAX Wounds.
 
 ### MAX Wounds
 
-MAX Wounds describes the maximum number of wounds you can have. Whenever you reach MAX Wounds, discard any additional wounds assigned beyond your MAX Wounds.
+MAX Wounds describes the maximum number of wounds you can have. Whenever you reach MAX Wounds, discard any additional wounds assigned beyond your MAX Wounds. 
+
+Your MAX Wounds score depends on what kind of character you created. Healers have (4 + CON) MAX Wounds. Healers are decent combatants with features that protect and heal themselves and others. Scoundrals have (4 + CON) MAX Wounds. Scoundrels are charismatic opportunists when seen and nearly invisible while unseen. Mages have (3 + CON) MAX Wounds. Mages are spellcasters or versatile specialists with little or no emphasis on physical training and defense. Warriors have (5 + CON) MAX Wounds. Warriors are fighters or expert combatants with extensive training in weapons, armor, and warfare.
 
 ### Dying
 
