@@ -82,7 +82,7 @@ If you succeed on three or more death saves, your character gains the stabilized
 
 > 5eFP is somewhat forgiving around character death because dice results can be capricious. The point of 5eFP is not to kill off all the PCs as fast as possible. Instead, it encourages ongoing gameplay with familiar characters to engender a felt experience over time. If your game has no grace period wherein PCs may recover from a deadly blow, then allow an inspired medicine (see Inspiration) to bring them back, but at the edge of death (one more hit will take them out again).
 
-**_Stabalized._** Whenever you receive healing or the game says you stabilize, you are considered stabilized. After stabilizing, discard the dying condition. You remain unconscious until the end of the encounter or wake up immediately if you stabalzied because you received healing.
+**_Stabalized._** Whenever you receive healing or the game says you stabilize, you are considered stabilized. After stabilizing, discard the dying condition. You remain unconscious until the end of the encounter or wake up immediately if you are stabilized as a result of receiving healing.
 
 ## Inspiration
 
