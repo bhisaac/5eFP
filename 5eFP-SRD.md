@@ -62,7 +62,7 @@ STR in 5eFP generally represents your ability to lift, push, pull, or break some
 
 MAX Wounds describes the maximum number of wounds you can have. Whenever you reach MAX Wounds, discard any additional wounds assigned beyond your MAX Wounds. 
 
-Your MAX Wounds score depends on what kind of character you created. Healers have (4 + CON) MAX Wounds. Healers are decent combatants with features that protect and heal themselves and others. Scoundrals have (4 + CON) MAX Wounds. Scoundrels are charismatic opportunists when seen and nearly invisible while unseen. Mages have (3 + CON) MAX Wounds. Mages are spellcasters or versatile specialists with little or no emphasis on physical training and defense. Warriors have (5 + CON) MAX Wounds. Warriors are fighters or expert combatants with extensive training in attacking and defending.
+Your MAX Wounds score depends on what kind of character you created. Healers have (4 + CON) MAX Wounds. Healers are good combatants with features that protect and heal themselves and others. Scoundrals have (4 + CON) MAX Wounds. Scoundrels are charismatic opportunists when seen and nearly invisible while unseen. Mages have (3 + CON) MAX Wounds. Mages are spellcasters or versatile specialists with little or no emphasis on physical training and defense. Warriors have (5 + CON) MAX Wounds. Warriors are fighters or expert combatants with extensive training in attacking and defending.
 
 ### Dying
 
