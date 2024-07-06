@@ -12,6 +12,10 @@ _**Practice.**_ Focus alone isn't enough. Results require real doing through reg
 
 ## Game Terms and Basic Rules
 
+### Squares
+
+5eFP measures distance in squares. 1 square is equivalent to 5 feet.
+
 ### Difficulty Class (DC)
 
 The difficulty class (DC) describes the minimum number you need to roll on a check to consider it a success.
