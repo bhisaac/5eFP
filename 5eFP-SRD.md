@@ -38,6 +38,14 @@ When you roll the least favorable result before adding any modifiers on a die wh
 
 An encounter is a special term used in 5eFP that describes all the related scenes that arise concerning a specific part of the story. An encounter might be stumbling upon a creature or creatures, talking with traveling merchants, or the span of an entire building or dungeon. An encounter typically lasts until the scene changes or until the encounter resolves. An encounter scene with hostile creatures, for example, only resolves after the creatures are dealt with in some way--either by overcoming them with force or by influencing them through persuasion or guile. Once the encounter ends, all encounter effects and features added during that encounter also end.
 
+### Minion Creature Encounters
+
+5eFP uses minion rules for creature encounters to expedite gameplay without sacrificing the action. Creatures in a minion creature encounter uses the same game statistics provided except for the following changes:
+
+- They cannot cannot resist PC effects or features
+- They never deal more than 1 point of damage
+- They are defeated or otherwise resolved if dealt any amount of damage
+
 ### Advantage
 
 Sometimes a special ability or spell tells you that you have advantage on a roll. When that happens, you make the roll twice, choosing the better result.
@@ -54,9 +62,21 @@ CON in 5eFP generally represents health and vitality. CON modifies MAX Wounds an
 
 STR in 5eFP generally represents your ability to lift, push, pull, or break something, to force your body through a space, or to otherwise apply brute force to a situation. STR modifies melee (hand-to-hand) attack rolls and carrying capacity.
 
+### Damage
+
+Attacks, effects, or features sometimes deal damage. In 5eFP, all damaging attacks, effects, or features deal a minimum of 1 point of damage. Particularly damaging attacks, effects, or features may deal 2 or more damage. For example, a normal sword deals 1 point of damage, while a magic sword with a +1 bonus deals 2 points of damage on a successful attack. Game effects or features allow you to reduce the amount of damage you receive. In these situations, calculate your new damage total before you assign any damage. You receive 1 wound for each point of damage taken (see _Wounds_ below).
+
+> 1 point of 5eFP damage is equivalent to 1 to 10 points of d20 fifth edition damage.
+>
+> Attacks that roll a critical success deal double damage.
+
+### Healing
+
+All healing effects provide a minimum of 1 point of healing. Particularly strong healing may provide 2 or more points of healing. For each point of healing, you discard 1 wound (see _Wounds_ below).
+
 ### Wounds
 
-5eFP uses wounds instead of tracking health with hitpoints or another method. Wounds are cumulative up to MAX Wounds.
+5eFP uses wounds instead of tracking health with hitpoints or another method. Your character gains a wound whenever an attack, effect, or feature assigns 1 or more points of damage. If more than 1 damage is dealt, the character will receive additional wounds equal to the excess damage. Wounds are cumulative up to MAX Wounds.
 
 ### MAX Wounds
 
