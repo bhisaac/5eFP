@@ -2678,7 +2678,61 @@ The Difficulty Class for a saving throw is determined by the effect that causes 
 
 The result of a successful or failed saving throw is also detailed in the effect that allows the save. Usually, a successful save means that a creature suffers no harm, or reduced harm, from an effect.
 
+# Adventuring
 
+TBA
+
+## Time
+
+5eFP simplifies time by adding a countdown clock with eight segments (7 is the highest value at the top while 0 is the lowest value at the bottom). At the start of the game session, the marker is set at the top. Starting an encounter, taking a rest, or using a special game rule or feature causes the countdown marker to decrease by 1 step. When the countdown clock reaches 0, the PCs recall after the encounter or rest ends.
+
+In combat and other fast-­paced situations, the game relies on **rounds**, a 6-­second span of time.
+
+## Movement
+
+Swimming across a rushing river, sneaking down a dungeon corridor, scaling a treacherous mountain slope—all sorts of movement play a key role in fantasy gaming adventures.
+
+### Fast Travel
+
+Once a destination square is chosen on the world map and the deployment action is taken, PCs deploy instantaneously.
+
+### Speed
+
+Every character and monster has a speed, which is the distance in squares that the character or monster can walk in 1 round. This number assumes short bursts of energetic movement in the midst of a life-threatening situation.
+
+The following rules determine how far a character or monster can move ~~in a minute, an hour, or a day~~.
+
+#### Difficult Terrain
+
+The travel speeds are generally performed on relatively simple terrain: roads, open plains, or clear dungeon corridors. But adventurers often face dense forests, deep swamps, rubble-­filled ruins, steep mountains, and ice-­covered ground—all considered difficult terrain.
+
+You move at half speed in difficult terrain—moving 1 square in difficult terrain costs 2 squares of speed—so you can cover only half the normal distance.
+
+### Special Types of Movement
+
+Movement through dangerous dungeons or wilderness areas often involves more than simply walking. Adventurers might have to climb, crawl, swim, or jump to get where they need to go.
+
+#### Climbing, Swimming, and Crawling
+
+While climbing or swimming, each square of movement costs 1 extra square (2 extra squares in difficult terrain), unless a creature has a climbing or swimming speed. At the GM’s option, climbing a slippery vertical surface or one with few handholds requires a successful STR check. Similarly, gaining any distance in rough water might require a successful STR check.
+
+### Flying
+
+While flying, you only trigger opportunity attacks from creatures with a reach score of 2 or more squares and fall prone when unconscious. Flight can be granted without also granting a fly speed, such as with the _fly_ spell or with certain game rules, features, or equipment. A fly speed grants the hover special ability. If you can hover, you do not fall prone when unconscious.
+
+#### Jumping
+
+Your STR determines how far you can jump.
+
+**_Long Jump._** When you make a long jump, you cover a number of squares up to STR if you move at least 2 squares on foot immediately before the jump. When you make a standing long jump, you can leap only half that distance. Either way, each square you clear on the jump costs one square of movement.
+
+This rule assumes that the height of your jump doesn’t matter, such as a jump across a stream or chasm. At your GM’s option, you must succeed on a STR check to clear a low obstacle (no taller than a 1-square cube), such as a hedge or low wall. Otherwise, you hit it.
+
+When you land in difficult terrain, you must succeed on a DEX check to land on your feet. Otherwise, you land prone.
+
+**_High Jump._** When you make a high jump, you leap into the air a number of squares equal to STR if you move at least 2 squares on foot immediately before the jump. When you make a standing high jump, you can jump only half that distance. Either way, each square you clear on the jump costs a square of movement. In some circumstances, your GM might allow you to make a STR check to jump higher than you normally can.
+
+You can extend your arms into adjacent squares up to your reach during the jump.
 
 
 # Forming a Group
