@@ -2684,7 +2684,7 @@ TBA
 
 ## Time
 
-5eFP simplifies time by adding a countdown clock with eight segments (7 is the highest value at the top while 0 is the lowest value at the bottom). At the start of the game session, the marker is set at the top. Starting an encounter, taking a rest, or using a special game rule or feature causes the countdown marker to decrease by 1 step. When the countdown clock reaches 0, the PCs recall after the encounter or rest ends.
+5eFP simplifies time by adding a countdown clock with eight segments. At the start of the game session, the marker is set at the top or highest value. Starting an encounter, taking a rest, or using a special game rule or feature causes the countdown marker to decrease by 1 step (lower the number by - 1). When the countdown clock reaches 0, the PCs recall after the encounter or rest ends.
 
 In combat and other fast-­paced situations, the game relies on **rounds**, a 6-­second span of time.
 
