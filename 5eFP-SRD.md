@@ -16,8 +16,6 @@ _**Practice.**_ Focus alone isn't enough. Results require real doing through reg
 
 5eFP measures distance in squares. 1 square is equivalent to 5 feet or 1 unit of movement. For example, a game effect or feature with a range of 6 squares can be used up to 30 feet away.
 
-> 6 squares is typically considered a standard move distance. PCs should be able to move at least 6 squares on their turn unless prevented from doing so by a game effect or feature. Smaller creatures move 4 squares on a standard move. Larger creatures move 8 squares on a standard move. Some specialized creatures and species known for their speed have a flying speed of 12 with a normal speed of 2 or less.
-
 ### Difficulty Class (DC)
 
 The difficulty class (DC) describes the minimum number you need to roll on a check to consider it a success.
