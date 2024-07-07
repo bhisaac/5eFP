@@ -14,7 +14,7 @@ _**Practice.**_ Focus alone isn't enough. Results require real doing through reg
 
 ### Squares
 
-5eFP measures movement and distance in squares. 1 square is equivalent to 5 feet.
+5eFP measures areas of effect, distance, and movement in squares. One square is equivalent to a 5-foot cube.
 
 ### Difficulty Class (DC)
 
