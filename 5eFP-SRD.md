@@ -14,7 +14,7 @@ _**Practice.**_ Focus alone isn't enough. Results require real doing through reg
 
 ### Squares
 
-5eFP measures distance in squares. 1 square is equivalent to 5 feet or 1 unit of movement. For example, a game effect or feature with a range of 6 squares can be used up to 30 feet away.
+5eFP measures distance in squares. 1 square is equivalent to 5 feet.
 
 ### Difficulty Class (DC)
 
