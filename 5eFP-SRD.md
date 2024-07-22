@@ -64,7 +64,7 @@ CON in 5eFP generally represents health and vitality. CON modifies MAX Wounds an
 
 ### Strength (STR)
 
-STR in 5eFP generally represents your ability to lift, push, pull, or break something, to force your body through a space, or to otherwise apply brute force to a situation. STR modifies melee (hand-to-hand) attack rolls and carrying capacity.
+STR in 5eFP generally represents your ability to lift, push, pull, or break something, to force your body through a space, or to otherwise apply brute force to a situation. STR modifies carrying capacity. Your STR may modify your attack rolls.
 
 ### Damage
 
