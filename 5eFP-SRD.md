@@ -56,7 +56,7 @@ Sometimes a special ability or spell tells you that you have advantage on a roll
 
 If multiple situations affect a roll and each one grants advantage, you don’t roll more than one additional time.
 
-If a roll has advantage in unfavorable circumstances such as those imposed by disadvantage or if a roll has one or more negative modifiers, you no longer have advantage, but you still discard any negative modifiers before making the roll.
+If a roll has advantage in unfavorable circumstances such as those imposed by disadvantage or if a roll has one or more negative modifiers, you no longer have advantage, but you discard any negative modifiers before making the roll.
 
 ### Constitution (CON)
 
