@@ -1823,7 +1823,11 @@ You may purchase more ammunition during a downtime or preparation round before d
 
 Ammunition may be used to make melee attacks. If you are proficient with the weapon that uses the ammunition, you are proficient with melee attacks using that weapon's ammunition as well. Ammunition deals 1 point of damage. If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon (see “Improvised Weapons” later in the section). A sling must be loaded to deal any damage when used in this way.
 
-**_Finesse._** When making an attack with a finesse weapon, you use your choice of your STR or DEX for attack rolls.
+~~**_Finesse._** When making an attack with a finesse weapon, you use your choice of your STR or DEX for attack rolls.~~
+
+> The finesse and versatile weapon properties are removed in 5eFP. There is now one attack roll that covers both melee and ranged attacks. At character creation, players choose whether their attack rolls are modified by DEX or STR. Monks may choose WIS instead of DEX or STR. Once this choice is made, it cannot be changed.
+>
+> Some realism is sacrificed for ease of gameplay. Emphasizing one ability score for both attacks allows PCs greater focus on an ability score they wish to work with more closely.
 
 **_Heavy._** Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon’s size and bulk make it too large for a Small creature to use effectively.
 
@@ -1850,9 +1854,11 @@ You may purchase more multi-use items during a downtime or preparation round bef
 #### Improvised Weapons
 Sometimes characters don’t have their weapons and have to attack with whatever is at hand. An improvised weapon includes any object you can wield in one or two hands, such as broken glass, a table leg, a frying pan, a wagon wheel, or a dead goblin.
 
-Often, an improvised weapon is similar to an actual weapon and can be treated as such. For example, a table leg is akin to a club. At the GM’s option, characters proficient with a weapon can use a similar object as if it were that weapon and add their LEVEL to its attack bonus.
+~~Often, an improvised weapon is similar to an actual weapon and can be treated as such. For example, a table leg is akin to a club. At the GM’s option, characters proficient with a weapon can use a similar object as if it were that weapon and add their LEVEL to its attack bonus.~~
 
-An object that bears no resemblance to a weapon deals 1 damage (the GM assigns a damage type appropriate to the object). If a character uses a ranged weapon to make a melee attack, or throws a melee weapon that does not have the thrown property, it also deals 1 damage. An improvised thrown weapon has range 4.
+~~An object that bears no resemblance to a weapon deals 1 damage (the GM assigns a damage type appropriate to the object). If a character uses a ranged weapon to make a melee attack, or throws a melee weapon that does not have the thrown property, it also deals 1 damage. An improvised thrown weapon has range 4.~~
+
+An improvised weapon deals 1 damage (the GM assigns a damage type appropriate to the object) with a range of 4 squares.
 
 #### Silvered Weapons
 Some monsters that have immunity or resistance to nonmagical weapons are susceptible to silver weapons, so cautious adventurers invest a little extra to plate their weapons with silver. You can silver a single weapon or ammunition at a forge for 6⛁. You may spend trade goods silver (ore or bar) to reduce this cost to 3⛁. This cost represents not only the price of the silver, but the time and expertise needed to add silver to the weapon without making it less effective.
