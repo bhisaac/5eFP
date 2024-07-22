@@ -1845,7 +1845,7 @@ You may purchase more multi-use items during a downtime or preparation round bef
 
 **_Special._** A weapon with the special property has unusual rules governing its use, explained in the weapon’s description (see “Special Weapons” later in this section).
 
-**_Thrown._** If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your STR, but if you throw a dagger, you can use either your STR or your DEX, since the dagger has the finesse property.
+**_Thrown._** If a weapon has the thrown property, you can throw the weapon.
 
 **_Two-­Handed._** This weapon requires two hands when you attack with it.
 
