@@ -2690,6 +2690,74 @@ The Difficulty Class for a saving throw is determined by the effect that causes 
 
 The result of a successful or failed saving throw is also detailed in the effect that allows the save. Usually, a successful save means that a creature suffers no harm, or reduced harm, from an effect.
 
+# Time
+
+TBA
+
+# Movement
+
+TBA
+
+# The Environment
+
+TBA
+
+## Vision and Light
+
+The most fundamental tasks of adventuring—noticing danger, finding hidden objects, hitting an enemy in combat, and targeting a spell, to name just a few—rely heavily on a character’s ability to see. Magical darkness and other effects that obscure vision can prove a significant hindrance.
+
+> 5eFP games obscure unexplored areas of a map with obscuring tiles. This fog-of-war effect is removed as PCs explore map tiles. Unless otherwise indicated, all revealed map tiles are lit by bright light. So, there is no dim light condition, and 5eFP games do not use dark vision rules nor cantrips whose sole purpose is to shed light, such as _light_ or _dancing lights_. This is a deliberate design feature to simplify combat on a grid.
+
+A given area might be lightly or heavily obscured. In a **lightly obscured** area, such as patchy fog, or moderate foliage, creatures have disadvantage on WIS checks that rely on sight.
+
+A **heavily obscured** area—such as magical darkness, opaque fog, or dense foliage—blocks vision entirely. A creature effectively suffers from the blinded condition (see appendix [...]) when trying to see something in that area.
+
+The presence or absence of light in an environment creates two categories of illumination: bright light and darkness.
+
+**Bright light** lets most creatures see normally. Even gloomy days provide bright light.
+
+**Darkness** creates a heavily obscured area. Characters face darkness in an area of magical darkness.
+
+### Blindsight
+
+A creature with blindsight can perceive its surroundings without relying on sight, within a specific radius. Creatures without eyes, such as oozes, and creatures with echolocation or heightened senses, such as bats and true dragons, have this sense.
+
+> 5eFP does not use the darkvision feature.
+
+### Truesight
+
+A creature with truesight can, out to a specific range, see in magical darkness, see invisible creatures and objects, automatically detect visual illusions and succeed on saving throws against them, and perceives the original form of a shapechanger or a creature that is transformed by magic.
+
+Furthermore, the creature can see into the Ethereal Plane.
+
+## Food and Water
+
+Obtaining food and water is included when PCs spend coin on rest and repairs. Characters who do not spend coin on rest and repairs suffer the effects of exhaustion (see appendix [...]) during the next game session. Exhaustion caused by not resting and repairing can’t be removed until the character spends coin on rest and repairs.
+
+> (This section needs to be moved to Rest and Repairs section.)
+
+## Interacting with Objects
+
+TBA
+
+# Resting
+
+TBA
+
+## Rest (Short Rest)
+
+A rest is a period of downtime, typically 1 hour long, during which a character does nothing more strenuous than eating, drinking, reading, and tending to wounds.
+
+PCs can discard a number of wounds equal to their level at the end of a short rest.
+
+## Recall (Long Rest)
+
+A recall occurs at the end of a game session once all adventure objectives have been completed or if the mission fails. Once you recall, you cannot do so again until the next game session. Immediately following a recall is a period of extended downtime. If you spend coin on rest and repairs, this downtime includes an extended rest, typically at least 8 hours long, during which a character sleeps or performs light activities. You may use 1 or more rounds of downtime after you recall. Additional rounds of downtime cost 1 coin each.
+
+After spending coin on rest and repairs, you discard any wounds you may have.
+
+A character who recalls dead or who recalls stabilized at MAX Wounds cannot gain any benefits from a recall until revived or healed.
+
 # Adventuring
 
 TBA
