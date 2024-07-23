@@ -2752,11 +2752,17 @@ PCs can discard a number of wounds equal to their level at the end of a short re
 
 ## Recall (Long Rest)
 
-A recall occurs at the end of a game session once all adventure objectives have been completed or if the mission fails. Once you recall, you cannot do so again until the next game session. Immediately following a recall is a period of extended downtime. If you spend coin on rest and repairs, this downtime includes an extended rest, typically at least 8 hours long, during which a character sleeps or performs light activities. You may use 1 or more rounds of downtime after you recall. Additional rounds of downtime cost 1 coin each.
+A recall occurs at the end of a game session once all adventure objectives have been completed or if the mission fails. Once you recall, you cannot do so again until the next game session. Immediately following a recall is a period of extended downtime.
 
-After spending coin on rest and repairs, you discard any wounds you may have.
+If you spend coin on rest and repairs, this downtime includes an extended rest, typically at least 8 hours long, during which a character sleeps or performs light activities. You discard any wounds you may have after completing this extended rest.
 
-A character who recalls dead or who recalls stabilized at MAX Wounds cannot gain any benefits from a recall until revived or healed.
+You may use 1 or more rounds of downtime after you recall. Additional rounds of downtime cost 1 coin each.
+
+A character who recalls dead cannot gain any benefits from a recall until revived or healed.
+
+A character who recalls stabilized at MAX Wounds may only spend a round of downtime to discard 1 wound, which revives the character. Once revived, the character can then spend additional coin on rest and repairs or unlock additional rounds of downtime by spending an extra coin for each.
+
+Once a recall and all rounds of downtime are completed, you reset all recall effects and features and the game session ends.
 
 # Adventuring
 
