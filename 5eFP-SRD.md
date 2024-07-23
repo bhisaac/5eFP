@@ -2762,7 +2762,7 @@ A character who recalls dead cannot gain any benefits from a recall until revive
 
 A character who recalls stabilized at MAX Wounds may only spend a round of downtime to discard 1 wound, which revives the character. Once revived, the character can then spend additional coin on rest and repairs or unlock additional rounds of downtime by spending an extra coin for each.
 
-Once a recall and all rounds of downtime are completed, you reset all recall effects and features and the game session ends.
+Once a recall and all rounds of downtime are completed, you restore any class resources limited by a recall, including any expended spell slots, reset all recall effects and features, and the game session ends.
 
 # Adventuring
 
