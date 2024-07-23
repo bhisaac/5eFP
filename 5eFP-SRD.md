@@ -60,11 +60,11 @@ If a roll has advantage in unfavorable circumstances such as those imposed by di
 
 ### Constitution (CON)
 
-CON in 5eFP generally represents health and vitality. CON modifies MAX Wounds and adds a modifier to death saves (see _Death Saves_ below).
+CON in 5eFP generally represents health and vitality. CON modifies MAX Wounds (see _MAX Wounds_ below) and adds a modifier to death saves (see _Death Saves_ below).
 
 ### Strength (STR)
 
-STR in 5eFP generally represents your ability to lift, push, pull, or break something, to force your body through a space, or to otherwise apply brute force to a situation. STR modifies carrying capacity. Your STR may modify your attack rolls.
+STR in 5eFP generally represents your ability to lift, push, pull, or break something, to force your body through a space, or to otherwise apply brute force to a situation. STR modifies carrying capacity. Your STR may also modify your attack rolls.
 
 ### Damage
 
