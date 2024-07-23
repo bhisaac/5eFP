@@ -150,7 +150,7 @@ Your GM reveals to you all the information available regarding the current scene
 
 Your performance allows the satisfying completion of one action.
 
-You decide the outcome of the next action your character declares on their turn. You must use your inspiration this way before taking an action or rolling any dice. If the result of your chosen action further affects you on subsequent rounds during the same encounter, roll all attacks, ability checks, and saves relating to the chosen action with advantage until the end of the encounter, allowing you to roll twice and keep the better result.
+You decide the outcome of the next action your character declares on their turn. You must use your inspiration this way before taking an action or rolling any dice. If the result of your chosen action further affects you on subsequent rounds during the same encounter, make all related die rolls with advantage.
 
 >> Example 1:
 >>> (_GM_) "The room opens up, exposing a sprawling cliff face leading to the top of the spire."
