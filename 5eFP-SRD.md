@@ -166,13 +166,13 @@ You decide the outcome of the next action your character declares on their turn.
 >> Example 2: 
 >>> _(GM)_ "Lita, it's your turn."
 >>> 
->>> _(Player 1)_ "I spend my inspiration on PERFORMANCE."
+>>> _(Player 2)_ "I spend my inspiration on PERFORMANCE."
 >>> 
 >>> _(GM)_ "OK, great. Tell us about what action you're character wants to take. And then, when you're ready, tell us what happens."
 >>> 
->>> _(Player 1)_ "I jump out of the shadows where I'm hiding and attack the goblin, catching it off guard and unaware. I strike with a critical hit, dealing maximum damage to the creature, adding my sneak attack damage."
+>>> _(Player 2)_ "I jump out of the shadows where I'm hiding and attack the goblin, catching it off guard and unaware. I strike with a critical hit, dealing maximum damage to the creature, adding my sneak attack damage."
 >>> 
->> In example 2, _Player 1_'s action resolves a successful attack action from a hidden position and then finishes. The action does not continue on subsequent rounds.
+>> In example 2, _Player 2_'s action resolves a successful attack action from a hidden position and then finishes. The action does not continue on subsequent rounds.
 
 #### Survival
 
