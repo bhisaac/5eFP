@@ -193,7 +193,9 @@ Whenever you create a new character, assign ability scores using the standard ar
 Choose and place each score as desired. Two ability scores represent advanced ability and talent (+2), another two represent aptitude (+1), another ability score represents average ability (+0), and the last ability score is challenged by adversity and unfavorable circumstances (-1).
 
 ### Round Down
-Certain features and effects in the game allow you to divide a number by half or more. Whenever you divide a number, round down if you end up with a fraction, even if the fraction is one-half or greater (minimum 1).
+Certain features and effects in the game allow you to divide a number by half or more. Whenever you divide a number, round down if you end up with a fraction, even if the fraction is one-half or greater ~~(minimum 1)~~.
+
+> (Minimum 1? In 5eFP, some creatures have resistances that reduce incoming damage by half. If the damage cannot be lowered below 1, then the resistance doesn't have an effect at level 1, which negates the feature. Game features need to be relevant starting at level 1.)
 
 # Species
 
