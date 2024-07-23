@@ -178,7 +178,9 @@ You decide the outcome of the next action your character declares on their turn.
 
 Your survival awards expanded capacities, allowing you to identify and acquire new advantages, qualities, or skills.
 
-You reveal a path leading toward an objective. Place a foothold or setting requirement on a revealed square of your choice up to 2 squares away from you. Alternatively, once per game session, when you spend your inspiration to activate Survival, you can instead choose to activate a dedication you didn't choose at the beginning of the current game session.
+In 5eFP, activating survival allows you to reveal a path leading toward an objective. Place a foothold or setting handbook requirement on a revealed square of your choice up to 2 squares away from you. Alternatively, once per game session, when you spend your inspiration to activate Survival, you can instead choose to activate a dedication you didn't choose at the beginning of the current game session.
+
+> Other game systems: whenever you activate survival, you may choose one roll (a skill, an attack with a specific weapon, one kind of defense, or another feature that uses die rolls). Only one use of the die roll is affected this way, even if it applies to multiple uses--you instead choose only one kind of use. You become proficient and trained with the chosen roll for the rest of the encounter. If the die roll adds ranks, dots, or uses percentages, add ranks, dots, or use a percentage equal to your highest rank, dot, or percentage on your character sheet.
 
 # Character Creation
 
