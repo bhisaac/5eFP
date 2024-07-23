@@ -8,8 +8,7 @@ _**Focus.**_ Learning and gaining proficiency requires focus, time, and attentio
 
 _**Practice.**_ Focus alone isn't enough. Results require real doing through regular and consistent gameplay. We transform TRPGs into mindful practices. Practices are activities we return to because they feed us in some way. Successful practices provide a nutrient missing in other activities. Our practice is regularly playing 5eFP games from beginning to end, fully conscious and aware at least once per month.
 
-> Vision without action is a daydream. Action without vision is a nightmare.
-> — Japanese Proverb
+> "Vision without action is a daydream. Action without vision is a nightmare." —Japanese Proverb
 
 ## Game Terms and Basic Rules
 
