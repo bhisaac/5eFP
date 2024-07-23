@@ -46,9 +46,9 @@ An encounter is a special term used in 5eFP that describes all the related scene
 
 5eFP sometimes uses minion rules for creature encounters to expedite gameplay without sacrificing the action. Use minion rules for random encounters and any combat designed to slow the PCs down. Creatures in a minion creature encounter use the same game statistics provided except for the following changes:
 
-- They cannot cannot resist PC effects or features
-- They always deal minimum damage.
-- They are defeated or otherwise resolved if dealt any amount of damage
+- Minions cannot cannot resist PC effects or features
+- Minions always deal minimum damage.
+- Minions are defeated or otherwise resolved if dealt any amount of damage
 
 ### Advantage
 
