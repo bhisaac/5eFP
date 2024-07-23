@@ -37,9 +37,6 @@ Rolling the least favorable result before adding any modifiers on a die while at
 > A critical failure occurs in skill-based systems whenever all dice in a test roll the least favorable result.
 >
 > Some systems consider higher numbers as failures. A critical failure in such a system is the highest number on the die, and 95% or higher on a d100 is considered a critical failure.
->
-> Some TRPG systems consider higher numbers as failures. A critical failure in such a system is the highest number on the die or 95% or higher on a d100.
-
 
 ### Encounter
 
