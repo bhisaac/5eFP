@@ -106,7 +106,7 @@ If you succeed on three or more death saves, your character gains the stabilized
 
 ### Stabilized
 
-Whenever you receive healing or the game says you stabilize, you are considered stabilized. After stabilizing, discard the dying condition. You remain unconscious until the end of the encounter or wake up immediately if you are stabilized as a result of receiving healing.
+Whenever you receive healing or the game says you stabilize, discard the dying condition and remove all death-save failures and successes from your character sheet. You remain unconscious until the end of the encounter. If you are stabilized as a result of receiving healing, you wake up immediately.
 
 ### Inspiration
 
