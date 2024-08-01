@@ -76,7 +76,7 @@ Attacks, effects, or features sometimes deal damage. In 5eFP, all damaging attac
 
 ### Healing
 
-All healing effects provide a minimum of 1 point of healing. Particularly strong healing may provide 2 or more points of healing. For each point of healing, you discard 1 wound (see _Wounds_ below).
+All healing effects provide a minimum of 1 point of healing. Particularly strong healing may provide 2 or more points of healing. For each point of healing, you discard 1 wound (see _Wounds_ below). When you recieve healing, you also stabilize (see _Stabalize_ below).
 
 ### Wounds
 
