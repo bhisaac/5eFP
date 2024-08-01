@@ -138,13 +138,13 @@ Your GM reveals to you all the hidden or obscured pieces of information containe
 
 Your medicine stabilizes wounds.
 
-Choose any number of creatures your character can see within 6 squares of you with the dying condition. The chosen creatures receive enough healing to return them to minimum health.
+Choose any number of creatures your character can see within 6 squares of you with the dying condition. The chosen creatures receive 1 point of healing.
 
 #### Perception
 
 Your perception enables you to spot, hear, or otherwise detect the presence of something.
 
-Your GM reveals to you all the information available regarding the current scene gathered through the five senses (sight, smell, sound, taste, and touch).
+Your GM reveals all relevant information regarding the current scene gathered through the five senses (sight, smell, sound, taste, and touch).
 
 #### Performance
 
