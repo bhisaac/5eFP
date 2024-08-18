@@ -68,7 +68,7 @@ STR in 5eFP generally represents your ability to lift, push, pull, or break some
 
 ### Damage
 
-Attacks, effects, or features sometimes deal damage. In 5eFP, all damaging attacks, effects, or features deal a minimum of 1 point of damage. Particularly damaging attacks, effects, or features may deal 2 or more damage. For example, a normal sword deals 1 point of damage, while a magic sword with a +1 bonus deals 2 points of damage on a successful attack. Game effects or features allow you to reduce the amount of damage you receive. In these situations, calculate your new damage total before you assign any damage. You receive 1 wound for each point of damage taken (see _Wounds_ below).
+Attacks, effects, or features sometimes deal damage. In 5eFP, all damaging attacks, effects, or features deal a minimum of 1 point of damage. Particularly damaging attacks, effects, or features may deal 2 or more damage. For example, a normal sword deals 1 point of slashing damage, while a magic sword with a +1 bonus deals 2 points of magic damage on a successful attack. Game effects or features may allow you to reduce the damage you receive. You receive 1 wound for each point of damage taken (see _Wounds_ below).
 
 > 1 point of 5eFP damage is equivalent to 1 to 10 points of d20 fifth edition damage.
 >
