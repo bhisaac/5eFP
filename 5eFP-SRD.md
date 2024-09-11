@@ -3906,6 +3906,17 @@ Alternatively, you can make a target indifferent about creatures of your choice 
 
 ### Spells (H)
 
+#### Healing Word
+|_1st-level evocation_|
+|:-|
+|**Casting Time:** 1 bonus action|
+|**Range:** 12|
+|**Components:** V|
+|**Duration:** Instantaneous|
+||
+|A creature of your choice that you can see within range receives 1 point of healing. This spell has no effect on undead or constructs.|
+|**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the spell grants an additional + 1 point of healing for each slot level above 1st.|
+
 ### Spells (I)
 
 ### Spells (J)
