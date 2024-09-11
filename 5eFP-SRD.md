@@ -4026,7 +4026,9 @@ An awakened shrub is an ordinary plant given sentience and mobility by the *awak
 ## Monsters (K)
 
 ## Monsters (L)
+
 ### Lich
+
 *Medium undead, evil*
 
 Once fine robes hang in tatters from this withered corpse’s frame. A pale blue light shines from where its eyes should be.
@@ -4099,7 +4101,7 @@ Ravens share the following statistics.
 - **Languages** —
 - **Speed** 2, fly 10
 
-**Mimicry.** The raven can mimic simple sounds it has heard. such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Insight check.
+**Mimicry.** The raven can mimic simple sounds it has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Insight check.
 
 ### Actions
 
@@ -4108,6 +4110,53 @@ Ravens share the following statistics.
 ## Monsters (S)
 
 ## Monsters (T)
+
+### Troll
+
+*Large giant, chaotic evil*
+
+Description. TBA
+
+Trolls share the following statistics.
+- **Senses** darkvision 60 feet, passive perception 12
+- **Skills** WIS +2
+- **Languages** Giant
+- **Speed** 6
+
+**Keen Smell.** The troll has advantage on WIS checks that rely on smell.
+
+**Regeneration.** The troll heals 1 wound (10 hit points) at the start of its turn before applying any other effects or features that trigger at the start of its turn. If the troll takes acid or fire damage, this trait doesn’t function at the start of the troll’s next turn. The troll dies only if it starts its turn with the dying condition and doesn’t regenerate.
+
+### Actions
+
+**Bite.** *Melee Weapon Attack*, reach 5 ft., one target, piercing damage.
+
+**Claw.** *Melee Weapon Attack*, reach 5 ft., one target, slashing damage.
+
+### Elite Features
+
+**Multiattack.** The troll makes three attacks: one with its bite and two with its claws.
+
+### Boss Features
+
+#### Legendary Actions
+
+**Regenerate (1 Action).** The troll heals up to 2 wounds. If the troll's regeneration trait isn't functioning, this action doesn’t function.
+
+### Troll, Ice
+
+*Large giant, chaotic evil*
+
+Ice Trolls share the following characteristics besides those belonging to the troll.
+- **Damage Immunities:** cold
+
+**Cold Aura.** While it's alive, the ice troll generates an aura of bitter cold that fills the area within 2 squares of it. At the start of the ice troll's turn, all nonmagical flames in the aura are extinguished. Any creature that starts its turn within 2 squares of the troll takes cold damage.
+
+### Actions
+
+**Bite.** The ice troll deals either piercing or cold damage on a successful bite, whichever damage type is least resisted by the target.
+
+**Claw.** The ice troll deals either slashing or cold damage on a successful claw, whichever damage type is least resisted by the target.
 
 ## Monsters (U)
 
