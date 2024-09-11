@@ -4136,7 +4136,7 @@ Trolls share the following statistics.
 
 **Keen Smell.** The troll has advantage on WIS checks that rely on smell.
 
-**Regeneration.** The troll heals 1 wound (10 hit points) at the start of its turn before applying any other effects or features that trigger at the start of its turn. If the troll takes acid or fire damage, this trait doesn’t function at the start of the troll’s next turn. The troll dies only if it starts its turn with the dying condition and doesn’t regenerate.
+**Regeneration.** The troll heals 1 wound (10 hit points) at the start of its turn before applying any other effects or features that trigger at the start of its turn. If the troll takes acid or fire damage, this trait doesn’t function at the start of the troll’s next turn. The troll dies only if it starts its turn with MAX Wounds (0 hp) and doesn’t regenerate.
 
 ### Actions
 
@@ -4161,7 +4161,7 @@ Trolls share the following statistics.
 Ice Trolls share the following characteristics besides those belonging to the troll.
 - **Damage Immunities:** cold
 
-**Cold Aura.** While it's alive, the ice troll generates an aura of bitter cold that fills the area within 2 squares of it. At the start of the ice troll's turn, all nonmagical flames in the aura are extinguished. Any creature that starts its turn within 2 squares of the ice troll takes cold damage.
+**Cold Aura.** While it's alive, the ice troll generates an aura of bitter cold that fills the area within 2 squares of it. At the start of the ice troll's turn, all nonmagical flames in the aura are extinguished. Any creature that starts its turn within 2 squares of one or more ice trolls takes cold damage.
 
 ### Actions
 
