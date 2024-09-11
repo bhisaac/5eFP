@@ -4150,7 +4150,7 @@ Trolls share the following statistics.
 Ice Trolls share the following characteristics besides those belonging to the troll.
 - **Damage Immunities:** cold
 
-**Cold Aura.** While it's alive, the ice troll generates an aura of bitter cold that fills the area within 2 squares of it. At the start of the ice troll's turn, all nonmagical flames in the aura are extinguished. Any creature that starts its turn within 2 squares of the troll takes cold damage.
+**Cold Aura.** While it's alive, the ice troll generates an aura of bitter cold that fills the area within 2 squares of it. At the start of the ice troll's turn, all nonmagical flames in the aura are extinguished. Any creature that starts its turn within 2 squares of the ice troll takes cold damage.
 
 ### Actions
 
