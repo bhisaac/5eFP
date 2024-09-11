@@ -4141,7 +4141,7 @@ Trolls share the following statistics.
 
 #### Legendary Actions
 
-**Regenerate (1 Action).** The troll heals up to 2 wounds. If the troll's regeneration trait isn't functioning, this action doesn’t function.
+**Regenerate (1 Action).** The troll heals 1 wound. If the troll's regeneration trait isn't functioning, this action doesn’t function.
 
 ### Troll, Ice
 
