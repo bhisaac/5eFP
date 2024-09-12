@@ -90,7 +90,7 @@ MAX Wounds describes the maximum number of wounds you can have. Whenever you rea
 
 ### Dying
 
-When you reach MAX Wounds, you gain the dying condition. As long as you have the dying condition, you are unconscious and prone. Additionally, at the beginning of each of your turns, you must spend your turn rolling a death save (see _Death Saves_ below). If an effect or feature ends the dying condition, remove all death save successes and failures. The dying condition ends if your character dies.
+When you reach MAX Wounds, you gain the dying condition. As long as you have the dying condition, you are unconscious and prone. Additionally, at the beginning of each of your turns, you must spend your turn rolling a death save (see _Death Saves_ below). If an effect or feature ends the dying condition, remove all death save successes and failures from your character sheet. The dying condition ends if your character dies.
 
 ### Death Saves
 
