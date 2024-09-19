@@ -50,13 +50,17 @@ An encounter is a special term used in 5eFP that describes all the related scene
 - Minions always deal minimum damage.
 - Minions are defeated or otherwise resolved if dealt any amount of damage
 
-### Advantage
+### Advantage and Disadvantage
 
-Sometimes a special ability or spell tells you that you have advantage on a roll. When that happens, you make the roll twice, choosing the better result.
+Sometimes a special ability or spell tells you that you have advantage or disadvantage on a roll. When that happens, you make the roll twice. Use the better result of the two rolls if you have advantage, and use the worse of the two rolls if you have disadvantage. For example, if you have disadvantage and roll a 17 and a 5 on a d20, you use the 5. If you instead have advantage and roll those numbers, you use the 17.
 
-If multiple situations affect a roll and each one grants advantage, you don’t roll more than one additional time.
+If multiple situations affect a roll and each one grants advantage or imposes disadvantage on it, you don’t roll more than one additional time. If two favorable situations grant advantage, for example, you still roll only one additional time.
 
-If a roll has advantage in unfavorable circumstances such as those imposed by disadvantage or if a roll has one or more negative modifiers, you no longer have advantage, but you discard any negative modifiers before making the roll.
+If circumstances cause a roll to have both advantage and disadvantage, you are considered to have neither of them, and you roll once. This is true even if multiple circumstances impose disadvantage and only one grants advantage or vice versa. In such a situation, you have neither advantage nor disadvantage.
+
+When you have advantage or disadvantage and something in the game lets you reroll the die, you can reroll only one of the two rolls before determining the result. You choose which one. For example, if you have a feature that allows you to reroll a critical failure while affected by advantage or disadvantage and roll a 1 and a 13 on a d20, you could use your feature to reroll the 1.
+
+You usually gain advantage or disadvantage through the use of special abilities, actions, or spells. Inspiration can also give a character advantage. The GM can also decide that circumstances influence a roll in one direction or the other and grant advantage or impose disadvantage as a result.
 
 ### Constitution (CON)
 
@@ -87,6 +91,12 @@ All healing effects provide a minimum of 1 point of healing. Particularly strong
 MAX Wounds describes the maximum number of wounds you can have. Whenever you reach MAX Wounds, discard any additional wounds assigned beyond your MAX Wounds score and you gain the dying condition (see _Dying_ below).
 
 > Your MAX Wounds score depends on what kind of character you created. Healers have (4 + CON) MAX Wounds. Healers are generally good combatants with features that protect and heal themselves and others. Scoundrals have (4 + CON) MAX Wounds. Scoundrels are generally charismatic opportunists when seen and nearly invisible while unseen. Mages have (3 + CON) MAX Wounds. Mages are generally spellcasters or versatile specialists with less emphasis on physical training and defense. Warriors have (5 + CON) MAX Wounds. Warriors are fighters or expert combatants with extensive training in attacking and defending.
+
+### Prone
+
+- A prone creature’s only movement option is to crawl unless it spends half its movement to stand up, thereby ending the condition.
+- The creature has disadvantage on attack rolls.
+- An attack roll against the creature has advantage if the attacker is within 1 square of the creature. Otherwise, the attack roll has disadvantage.
 
 ### Dying
 
