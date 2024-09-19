@@ -90,7 +90,7 @@ All healing effects provide a minimum of 1 point of healing. Particularly strong
 
 MAX Wounds describes the maximum number of wounds you can have. Whenever you reach MAX Wounds, discard any additional wounds assigned beyond your MAX Wounds score and you gain the dying condition (see _Dying_ below).
 
-> Your MAX Wounds score depends on what kind of character you created. Healers have (4 + CON) MAX Wounds. Healers are generally good combatants with features that protect and heal themselves and others. Scoundrals have (4 + CON) MAX Wounds. Scoundrels are generally charismatic opportunists when seen and nearly invisible while unseen. Mages have (3 + CON) MAX Wounds. Mages are generally spellcasters or versatile specialists with less emphasis on physical training and defense. Warriors have (5 + CON) MAX Wounds. Warriors are fighters or expert combatants with extensive training in attacking and defending.
+> Your MAX Wounds score depends on what kind of character you created. Healers have (4 + CON) MAX Wounds. Healers are generally good combatants with features that protect and heal themselves and others. Scoundrals have (4 + CON) MAX Wounds. Scoundrels are generally charismatic when seen and nearly invisible while unseen. Mages have (3 + CON) MAX Wounds. Mages are generally spellcasters or versatile specialists with more mental and less physical training. Warriors have (5 + CON) MAX Wounds. Warriors are fighters or expert combatants with extensive training in attacking and defending.
 
 ### Prone
 
@@ -104,7 +104,7 @@ When you reach MAX Wounds, you gain the dying condition. As long as you have the
 
 ### Death Saves
 
-Death saves are rolled when it is not certain whether or not your character will survive to see the end of an encounter. In 5eFP a death save is a CON save or check with a DC of 10 on a d20 (a result of 50% or higher is needed on a die roll for a success). Not meeting this DC results in one failed death save. Meeting the DC results in one successful death save. Rolling a critical failure adds two automatic death save failures. Rolling a critical success awards the stabilized condition and provides enough healing to restore you to minimum health. Each time you take 1 or more points of damage while dying, you gain one automatic death save failure. Receiving a critical hit (an attack roll with a critical success result) while you have the dying condition results in two automatic death save failures.
+Death saves are rolled when it is uncertain whether your character will survive to see the end of an encounter. In 5eFP a death save is a CON check with a DC of 10 on a d20 (a result of 50% or higher is needed on a die roll for a success). Not meeting this DC results in one failed death save. Meeting the DC results in one successful death save. Rolling a critical failure adds two automatic death save failures. Rolling a critical success provides enough healing to restore your character to minimum health. Each time your character takes 1 or more points of damage while dying, your character gains one automatic death save failure. Receiving a critical hit (an attack roll with a critical success result) while your character has the dying condition results in two automatic death save failures.
 
 If you fail three or more death saves, your character dies.
 
