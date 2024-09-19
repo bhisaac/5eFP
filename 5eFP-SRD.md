@@ -60,7 +60,7 @@ If circumstances cause a roll to have both advantage and disadvantage, you are c
 
 When you have advantage or disadvantage and something in the game lets you reroll the die, you can reroll only one of the two rolls before determining the result. You choose which one. For example, if you have a feature that allows you to reroll a critical failure while affected by advantage or disadvantage and roll a 1 and a 13 on a d20, you could use your feature to reroll the 1.
 
-You usually gain advantage or disadvantage through the use of special abilities, actions, or spells. Inspiration can also give a character advantage. The GM can also decide that circumstances influence a roll in one direction or the other and grant advantage or impose disadvantage as a result.
+You usually gain advantage or disadvantage through the use of special abilities, actions, or spells. Inspiration (see _Inspiration_ below) can also give a character advantage. The GM can also decide that circumstances influence a roll in one direction or the other and grant advantage or impose disadvantage as a result.
 
 ### Constitution (CON)
 
