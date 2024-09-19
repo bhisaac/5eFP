@@ -32,7 +32,7 @@ Rolling a 95% or higher on a d100 is considered a critical success. If a feature
 
 ### Critical Failure
 
-Rolling the least favorable result before adding any modifiers on a die while attacking, making an ability check, or resisting a feature is called a critical failure. When this happens, you ignore the DC and consider the roll an automatic failure. In 5eFP, rolling a 1 on a d20 is considered a critical failure. A 5% or lower on a d100 is considered a critical failure.
+Rolling the least favorable result before adding any modifiers on a die while attacking, making an ability check, or resisting a game feature is called a critical failure. When this happens, you ignore the DC and consider the roll an automatic failure. In 5eFP, rolling a 1 on a d20 is considered a critical failure. A 5% or lower on a d100 is considered a critical failure.
 
 > A critical failure occurs in skill-based systems whenever all dice in a test roll the least favorable result.
 >
