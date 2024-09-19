@@ -90,7 +90,7 @@ All healing effects provide a minimum of 1 point of healing. Particularly strong
 
 MAX Wounds describes the maximum number of wounds you can have. Whenever you reach MAX Wounds, discard any additional wounds assigned beyond your MAX Wounds score and you gain the dying condition (see _Dying_ below).
 
-> Your MAX Wounds score depends on what kind of character you created. Healers have (4 + CON) MAX Wounds. Healers are generally good combatants with features that protect and heal themselves and others. Scoundrals have (4 + CON) MAX Wounds. Scoundrels are generally charismatic when seen and nearly invisible while unseen. Mages have (3 + CON) MAX Wounds. Mages are generally spellcasters or versatile specialists with more mental and less physical training. Warriors have (5 + CON) MAX Wounds. Warriors are fighters or expert combatants with extensive training in attacking and defending.
+> Your MAX Wounds score depends on what kind of character you created. Healers have (4 + CON) MAX Wounds. Healers are generally good combatants with features that protect and heal themselves and others. Scoundrals have (4 + CON) MAX Wounds. Scoundrels are generally charismatic when seen and nearly invisible when unseen. Mages have (3 + CON) MAX Wounds. Mages are generally spellcasters or versatile specialists with more mental and less physical training. Warriors have (5 + CON) MAX Wounds. Warriors are fighters or expert combatants with extensive training in attacking and defending.
 
 ### Prone
 
