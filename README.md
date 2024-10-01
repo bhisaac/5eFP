@@ -5,7 +5,7 @@
 
 ### Playtest Material.
 
-The content and game mechanics detailed within the 5eFP System Reference Document (5eFP-SRD) are presented for playtesting, feedback, and development purposes. These game mechanics are in draft form, and their inspiration and dedication rules can be used in any game, but they have not been refined through final game development. These game mechanics are subject to change as needed based on feedback provided by 5eFP contributors, Game Masters (GMs), and Player Characters (PCs).
+_The content and game mechanics detailed within the 5eFP System Reference Document (5eFP-SRD) are presented for playtesting, feedback, and development purposes. These game mechanics are in draft form, and their inspiration and dedication rules can be used in any game, but they have not been refined through final game development. These game mechanics are subject to change as needed based on feedback provided by 5eFP contributors, Game Masters (GMs), and Player Characters (PCs)._
 
 ---
 
