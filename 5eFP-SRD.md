@@ -1278,13 +1278,13 @@ DRUID
 >>> 
 >>> **_Defender._** You have 5 + CON MAX wounds while in defender form. If your size is less than large, it increases to large.
 >>> 
->>> **_Stealthy._** You have 4 + CON MAX wounds while in stealthy form. While in stealthy form you roll Performance and Perception checks with advantage, and you gain a pounce attack (if you don't already have one).
+>>> **_Stealthy._** You have 4 + CON MAX wounds while in stealthy form. While in stealthy form, you roll DEX and WIS checks with advantage and gain a pounce attack (if you don't already have one).
 >>> 
->>> **_Travel._** You have 1 MAX wounds while in travel form. When you activate this form, choose any creatures within 6 squares of you. You and the chosen creatures transform into travel forms and move together. If a combat encounter begins or if 1 or more points of damage are dealt to you, your wild shape and all travel forms end. Your movement score doubles while in travel form. Once you activate travel form, you may reactivate travel form at any time for the rest of the day while moving the group token on the overland map (see Overland Map).
+>>> **_Travel._** To activate this feature, you must be on the overland map (see _Overland Map_) and not in a combat encounter. You have 1 MAX wounds while in travel form. When activated, you and any chosen creatures within 6 squares of you transform into travel forms and move together. If a combat encounter begins or if 1 or more points of damage are dealt to you or another affected creature, your wild shape and all travel forms end. Your movement score doubles while in travel form. Once activated, the travel form can be reactivated on the overland map outside of combat as a free action until the end of the game session.
 >> 
 >> You can use this feature twice. You regain expended uses when you finish a short or long rest.
 >>
->> You can stay in a wild shape form for a number of hours equal to half your level. You then revert to your normal form unless you expend another use of this feature. You can revert to your normal form earlier by using a bonus action on your turn. You automatically revert if you fall unconscious, gain maximum wounds, or die.
+>> You can stay in a wild shape form for a number of hours equal to half your level. You then revert to your normal form unless you expend another use of this feature. You can revert to your normal form earlier by using a bonus action on your turn. You automatically revert if you fall unconscious, gain MAX wounds, or die.
 >>
 >> While you are transformed, the following rules apply:
 >> - Your game statistics are replaced by the statistics of the wild shape form, but you retain your alignment, personality, and INT, WIS, and CHA. You also retain all of your skill and saving throw proficiencies, in addition to gaining those of the creature. If the creature has the same proficiency as you and the bonus in its stat block is higher than yours, use the creature’s bonus instead of yours. If the creature has any legendary or lair actions, you can’t use them.
