@@ -254,7 +254,7 @@ Your dwarf character has an assortment of inborn abilities, part and parcel of d
 
 **Darkvision.** Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 12 squares of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
 
-**Dwarven Resilience.** You have advantage on saving throws against poison, and you have resistance against poison damage.
+**Dwarven Resilience.** You have advantage on ability checks against poison, and you have resistance against poison damage.
 
 **Dwarven Combat Training.** You have proficiency with the battleaxe, handaxe, light hammer, and warhammer.
 
@@ -300,7 +300,7 @@ Your elf character has a variety of natural abilities, a result of thousands of 
 
 **Keen Senses.** You gain advantage on Perception checks.
 
-**Fey Ancestry.** You have advantage on saving throws against being charmed, and magic can’t put you to sleep.
+**Fey Ancestry.** You have advantage on ability checks against being charmed, and magic can’t put you to sleep.
 
 **Trance.** Elves don’t need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is “trance.”) While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
 
@@ -345,9 +345,9 @@ Your halfling character has a number of traits in common with all other halfling
 
 **Speed.** Your base walking speed is 5 squares.
 
-**Lucky.** When you roll a 1 on the d20 for an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll.
+**Lucky.** When you roll a 1 on the d20 for an attack roll or ability check, you can reroll the die and must use the new roll.
 
-**Brave.** You have advantage on saving throws against being frightened.
+**Brave.** You have advantage on ability checks against being frightened.
 
 **Halfling Nimbleness.** You can move through the space of any creature that is of a size larger than yours.
 
@@ -371,7 +371,7 @@ Hardy halflings are tougher than average, sharing similar characteristics with d
 
 **Resilience.** Choose and gain one species trait:
 - Your MAX wounds increases by +1.
-- You have advantage on saving throws against poison, and you have resistance against poison damage.
+- You have advantage on ability checks against poison, and you have resistance against poison damage.
 
 ## Human
 
@@ -425,7 +425,7 @@ You start with the following equipment, in addition to the equipment granted by 
 In battle, you fight with primal ferocity. On your turn, you can enter a rage as a bonus action that lasts until the end of the encounter.
 
 While raging, you gain the following benefits if you aren’t wearing heavy armor:
-- You have advantage on STR checks and STR saving throws.
+- You have advantage on STR checks.
 - Damage dealt to you by minions is reduced to 0.
 - You gain resistance to bludgeoning, piercing, and slashing damage (minimum 1).
  
@@ -487,7 +487,7 @@ Whenever you unlock a Magic feature (i.e., Magic I, Magic II, Magic III, etc.), 
 
 #### Spellcasting Ability
 
-Charisma (CHA) is your spellcasting ability for your bard spells. Your magic comes from the heart and soul you pour into the performance of your music or oration. You use your CHA whenever a spell refers to your spellcasting ability. In addition, you use your CHA when setting the saving throw DC for a bard spell you cast and when making an attack roll with one.
+Charisma (CHA) is your spellcasting ability for your bard spells. Your magic comes from the heart and soul you pour into the performance of your music or oration. You use your CHA whenever a spell refers to your spellcasting ability. In addition, you use your CHA when setting the DC for a bard spell you cast and when making an attack roll with one.
 
 **Spell DC** = 10 + CHA
 
@@ -505,7 +505,7 @@ You can use a musical instrument (see “Equipment”) as a spellcasting focus f
 
 You can inspire others through stirring words or music. To do so, you use a bonus action on your turn to choose one creature other than yourself within 10 squares of you who can hear you. That creature gains three Bardic Inspiration action dice.
 
-For the remainder of the encounter, the creature can roll any Bardic Inspiration action dice and add the result to one ability check, attack roll, or saving throw it makes. The creature can wait until after it rolls the d20 before deciding to use the Bardic Inspiration action dice but must decide before the GM says whether the roll succeeds or fails. Once the Bardic Inspiration action dice are rolled, they are lost. If the creature has Bardic Inspiration action dice and gains more, it decides whether to keep the ones it has or gain the new ones.
+For the remainder of the encounter, the creature can roll any Bardic Inspiration action dice and add the result to one ability check or attack roll it makes. The creature can wait until after it rolls the d20 before deciding to use the Bardic Inspiration action dice but must decide before the GM says whether the roll succeeds or fails. Once the Bardic Inspiration action dice are rolled, they are lost. If the creature has Bardic Inspiration action dice and gains more, it decides whether to keep the ones it has or gain the new ones.
 
 You can use this feature a number of times per day equal to your CHA (minimum 1).
 
@@ -557,7 +557,7 @@ You can change your list of prepared spells at HQ. While away from HQ, you can p
 
 #### Spellcasting Ability
 
-Wisdom (WIS) is your spellcasting ability for your cleric spells. The power of your spells comes from your devotion to your deity. You use your WIS whenever a cleric spell refers to your spellcasting ability. In addition, you use WIS when setting the saving throw DC for a cleric spell you cast and when making an attack roll with one.
+Wisdom (WIS) is your spellcasting ability for your cleric spells. The power of your spells comes from your devotion to your deity. You use your WIS whenever a cleric spell refers to your spellcasting ability. In addition, you use WIS when setting the DC for a cleric spell you cast and when making an attack roll with one.
 
 **Spell DC** = 10 + WIS
 
@@ -648,7 +648,7 @@ You can change your list of prepared spells at HQ. While away from HQ, you can p
 
 #### Spellcasting Ability
 
-Wisdom (WIS) is your spellcasting ability for your druid spells, since your magic draws upon your devotion and attunement to nature. You use your WIS whenever a druid spell refers to your spellcasting ability. In addition, you use WIS when setting the saving throw DC for a druid spell you cast and when making an attack roll with one.
+Wisdom (WIS) is your spellcasting ability for your druid spells, since your magic draws upon your devotion and attunement to nature. You use your WIS whenever a druid spell refers to your spellcasting ability. In addition, you use WIS when setting the DC for a druid spell you cast and when making an attack roll with one.
 
 **Spell DC** = 10 + WIS
 
@@ -989,7 +989,7 @@ Choose	one	type	of dragon	as	your	ancestor.	The	damage	type	associated	with	each
 | Silver | Cold |
 | White | Cold |
 
-You	can	speak,	read,	and	write	Draconic.	Additionally,	whenever	you	make	a	Charisma	check	when	interacting	with	dragons,	add your level as a	bonus	if	it	applies	to	the	check.
+You	can	speak,	read,	and	write	Draconic.	Additionally,	whenever	you	make	a	CHA	check	when	interacting	with	dragons,	add your level as a	bonus	if	it	applies	to	the	check.
 
 #### Draconic Resilience
 As	magic	flows	through	your	body, it	causes	physical	traits	of	your	dragon	ancestors	to	emerge.	Your	MAX wounds	increases	by	+1.
@@ -1050,7 +1050,7 @@ Whenever you successfully upgrade a Magic feature (i.e., "Magic I", "Magic II", 
 
 #### Spellcasting Ability
 
-Charisma (CHA) is your spellcasting ability for your warlock spells,	so you use your CHA whenever a spell refers to your spellcasting ability. In addition, you use your CHA when setting the saving throw DC for a warlock spell you cast and when making an attack roll with one.
+Charisma (CHA) is your spellcasting ability for your warlock spells,	so you use your CHA whenever a spell refers to your spellcasting ability. In addition, you use your CHA when setting the DC for a warlock spell you cast and when making an attack roll with one.
 
 **Spell DC** = 10 + CHA
 
@@ -1146,7 +1146,7 @@ You can change your list of prepared spells when you finish a long rest. Prepari
 
 #### Spellcasting Ability
 
-INT is your spellcasting ability for your wizard spells,	since you learn your spells through dedicated study and memorization. You use your INT whenever a spell refers to your spellcasting ability. In addition, you use your INT when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one.
+INT is your spellcasting ability for your wizard spells,	since you learn your spells through dedicated study and memorization. You use your INT whenever a spell refers to your spellcasting ability. In addition, you use your INT when setting the DC for a wizard spell you cast and when making an attack roll with one.
 
 **Spell DC** = 10 + INT
 
@@ -1245,9 +1245,9 @@ CLERIC
 >> You gain the ability to channel divine energy directly from your deity, using that energy to fuel magical effects. You start with two such effects: Turn Undead and an effect determined by your domain. Some domains grant you additional effects as you advance in levels, as noted in the domain description.
 >>
 >> When you use your Channel Divinity, you choose which effect to create. You must then finish a short or long rest to use your Channel Divinity again.
-Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your cleric spell DC.
+Some Channel Divinity effects require ability checks. When you use such an effect from this class, the DC equals your cleric spell DC.
 >> 
->> **_Turn Undead. (action)_** You present your holy symbol and speak a prayer censuring the undead. Each undead that can see or hear you within 6 squares of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for the rest of the encounter or until it takes any damage.
+>> **_Turn Undead. (action)_** You present your holy symbol and speak a prayer censuring the undead. Each undead that can see or hear you within 6 squares of you must make a WIS check. If the creature fails its check, it is turned for the rest of the encounter or until it takes any damage.
 >>
 >> A turned creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 6 squares of you. It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.
 >> 
@@ -1274,7 +1274,7 @@ DRUID
 >>>> 
 >>>> **_Solar Attunement._** Whenever you cast a spell that has a visible effect (i.e., _entangle_), you lose lunar attunement and gain solar attunement. If you already have solar attunement, remove solar attunement and activate _starfall_ (see below).
 >>>> 
->>>> **_Starfall. (free action)_** A shooting star forms above your head and strikes a creature within 12 squares of you. If the creature is friendly, it receives 1 point of healing and allows the creature to make one additional saving throw to resist an ongoing negative condition. If the creature is not a friendly target, it must succeed on a DEX check using your spellcasting DC or take 1 point of radiant damage. You then gain Lunar Attunement or Solar Attunement.
+>>>> **_Starfall. (free action)_** A shooting star forms above your head and strikes a creature within 12 squares of you. If the creature is friendly, it receives 1 point of healing and allows the creature to make one additional ability check to resist an ongoing negative condition. If the creature is not a friendly target, it must succeed on a DEX check using your spell DC or take 1 point of radiant damage. You then gain Lunar Attunement or Solar Attunement.
 >>> 
 >>> **_Defender._** You have 5 + CON MAX wounds while in defender form. If your size is less than large, it increases to large.
 >>> 
@@ -1287,7 +1287,7 @@ DRUID
 >> You can stay in a wild shape form for a number of hours equal to half your level. You then revert to your normal form unless you expend another use of this feature. You can revert to your normal form earlier by using a bonus action on your turn. You automatically revert if you fall unconscious, gain MAX wounds, or die.
 >>
 >> While you are transformed, the following rules apply:
->> - Your game statistics are replaced by the statistics of the wild shape form, but you retain your alignment, personality, and INT, WIS, and CHA. You also retain all of your skill and saving throw proficiencies, in addition to gaining those of the creature. If the creature has the same proficiency as you and the bonus in its stat block is higher than yours, use the creature’s bonus instead of yours. If the creature has any legendary or lair actions, you can’t use them.
+>> - Your game statistics are replaced by the statistics of the wild shape form, but you retain your alignment, personality, and INT, WIS, and CHA. You also retain all of your proficiencies, in addition to gaining those of the creature. If the creature has the same proficiency as you and the bonus in its stat block is higher than yours, use the creature’s bonus instead of yours. If the creature has any legendary or lair actions, you can’t use them.
 >> - When you transform, you assume the wild shape form's MAX wounds. When you revert to your normal form, you return all wound cards you set aside before you transformed. However, if you revert because your wild shape form gained maximum wounds, any excess wounds carry over to your normal form. For example, if you take 2 damage in a wild shape form and have room for only 1 wound, you revert and take 1 damage. As long as the excess damage doesn’t cause you to reach your maximum wounds, you aren’t knocked unconscious.
 >> - You can’t cast spells, and your ability to speak or take any action that requires hands is limited to the capabilities of your wild shape form. Transforming doesn’t break your concentration on a spell you’ve already cast, however, or prevent you from taking actions that are part of a spell, such as call lightning, that you’ve already cast. You may cast spells, speak, and take normal actions while in astral form.
 >> - You retain the benefit of any features from your class, race, or other source and can use them if the new form is physically capable of doing so. However, you can’t use any of your special senses, such as darkvision, unless your new form also has that sense.
@@ -1373,8 +1373,8 @@ MONK
 >>> **Way of the Open Hand.** Monks of the Way of the Open Hand are the ultimate masters of martial arts combat, whether armed or unarmed. They learn techniques to push and trip their opponents, manipulate ki to heal damage to their bodies, and practice advanced meditation that can protect them from harm.
 >>>
 >>>> **Open Hand Technique.** You can manipulate your enemy’s ki when you harness your own. Whenever you hit a creature with one of the attacks granted by your Flurry of Blows, you can impose one of the following effects on that target:
->>>> - It must succeed on a DEX saving throw or be knocked prone.
->>>> - It must make a STR saving throw. If it fails, you can push it up to 3 squares away from you.
+>>>> - It must succeed on a DEX check or be knocked prone.
+>>>> - It must make a STR check. If it fails, you can push it up to 3 squares away from you.
 >>>> - It can’t take reactions until the end of your next turn.
 > #### Deflect Missiles
 >> You can use your reaction to deflect or catch the piece of ammunition or missile when you are hit by a ranged weapon attack. When you do so, the damage you take from the attack is reduced by 1 + DEX + your level (minimum 0).
@@ -1405,7 +1405,7 @@ SORCERER
 >>
 >> You can use only one Metamagic option on a spell when you cast it, unless otherwise noted.
 >>
->> **_Careful Spell._** When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell’s full force. To do so, you spend 1 sorcery point and choose a number of those creatures up to your CHA (minimum of one creature). A chosen creature automatically succeeds on its saving throw against the spell.
+>> **_Careful Spell._** When you cast a spell that forces other creatures to make an ability check, you can protect some of those creatures from the spell’s full force. To do so, you spend 1 sorcery point and choose a number of those creatures up to your CHA (minimum of one creature). A chosen creature automatically succeeds on its ability check against the spell.
 >>
 >> **_Distant Spell._** When you cast a spell that has a range of 1 square or greater, you can spend 1 sorcery point to double the range of the spell.
 >> When you cast a spell that has a range of touch, you can spend 1 sorcery point to make the range of the spell 6 squares.
@@ -2642,7 +2642,7 @@ The GM might call for an Intelligence check when you try to accomplish tasks lik
 
 #### Spellcasting Ability
 
-Wizards use INT as their spellcasting ability, which helps determine the saving throw DCs of spells they cast.
+Wizards use INT as their spellcasting ability, which helps determine the DCs of spells they cast.
 
 ### Wisdom (WIS)
 
@@ -2692,13 +2692,15 @@ The GM might call for a CHA check when you try to accomplish tasks like the foll
 
 Bards, paladins, sorcerers, and warlocks use CHA as their spellcasting ability, which helps determine the DCs of spells they cast.
 
-## Resisting Game Features
+## Resisting Spells and Game Features
 
 Resisting a spell, a trap, a poison, a disease, or a similar threat requires a successful ability check. You don’t normally decide to make these ability checks; you are forced to make one because your character or monster is at risk of harm.
 
 The DC for a game feature is determined by the effect that causes it. For example, the ability check DC for a spell is determined by the caster’s spell DC.
 
 The result of a successful or failed ability check is also detailed in the effect that allows the ability check. Usually, a successful ability check means that a creature suffers no harm, or reduced harm, from an effect.
+
+A character or monster can choose not to resist a spell or game feature.
 
 # Time
 
@@ -2995,6 +2997,7 @@ The game includes the following monster types, which have no rules of their own.
 A monster might have one or more tags appended to its type, in parentheses. For example, an orc has the *humanoid (orc)* type. The parenthetical tags provide additional categorization for certain creatures. The tags have no rules of their own, but something in the game, such as a magic item, might refer to them. For instance, a spear that is especially effective at fighting demons would work against any monster that has the demon tag.
 
 ### Alignment
+
 A monster’s alignment provides a clue to its disposition and how it behaves in a roleplaying or combat situation. For example, a chaotic evil monster might be difficult to reason with and might attack characters on sight, whereas a neutral monster might be willing to negotiate.
 
 The alignment specified in a monster’s stat block is the default. Feel free to depart from it and change a monster’s alignment to suit the needs of your campaign. If you want a good-­‐‑aligned green dragon or an evil storm giant, there’s nothing stopping you.
@@ -3012,6 +3015,7 @@ Many creatures of low intelligence have no comprehension of law or chaos, good o
 If a monster minion is small, the elite version's size increases to medium. If an elite monster's size is medium, the boss version's size increases to large.
 
 ### Speed
+
 A monster’s speed tells you how far it can move on its turn measured in squares.
 
 All creatures have a walking speed, simply called the monster’s speed. Creatures that have no form of ground-­based locomotion have a walking speed of 0.
@@ -3019,40 +3023,52 @@ All creatures have a walking speed, simply called the monster’s speed. Creatur
 Some creatures have one or more of the following additional movement modes.
 
 #### Burrow
+
 A monster that has a burrowing speed can use that speed to move through sand, earth, mud, or ice. A monster can’t burrow through solid rock unless it has a special trait that allows it to do so.
 
 #### Climb
+
 A monster that has a climbing speed can use all or part of its movement to move on vertical surfaces. The monster doesn’t need to spend extra movement to climb.
 
 #### Fly
+
 A monster that has a flying speed can use all or part of its movement to fly. Some monsters have the ability to hover, which makes them hard to knock out of the air. Such a monster stops hovering when it dies.
 
 #### Swim
+
 A monster that has a swimming speed doesn’t need to spend extra movement to swim.
 
 ### Ability Scores
+
 Every monster has six ability scores (STR, DEX, CON, INT, WIS, and CHA) and corresponding modifiers.
 
 ### Saving Throws
+
 The Saving Throws entry is reserved for creatures that are adept at resisting certain kinds of effects. For example, a creature that isn’t easily charmed or frightened might gain a bonus on its WIS saving throws. Most creatures don’t have special saving throw bonuses, in which case this section is absent.
 
 ### Skills
+
 The Skills entry is reserved for monsters that are proficient in one or more skills. For example, a monster that is very perceptive and stealthy might have bonuses to Perception and Performance checks.
 
 Other modifiers might apply. For instance, a monster might have a larger-­than-­expected bonus (usually double its proficiency bonus) to account for its heightened expertise.
 
 ### Vulnerabilities, Resistances, and Immunities
+
 Some creatures have vulnerability, resistance, or immunity to certain types of damage. Particular creatures are even resistant or immune to damage from nonmagical attacks (a magical attack is an attack delivered by a spell, a magic item, or another magical source). In addition, some creatures are immune to certain conditions.
 
 ### Senses
+
 The Senses entry notes a monster’s passive Perception score, as well as any special senses the monster might have. Special senses are described below.
 
 #### Blindsight
+
 A monster with blindsight can perceive its surroundings without relying on sight, within a specific radius.
 Creatures without eyes, such as grimlocks and gray oozes, typically have this special sense, as do creatures with echolocation or heightened senses, such as bats and true dragons.
+
 If a monster is naturally blind, it has a parenthetical note to this effect, indicating that the radius of its blindsight defines the maximum range of its perception.
 
 #### Darkvision
+
 A monster with darkvision can see in the dark within a specific radius. The monster can see in dim light within the radius as if it were bright light, and in darkness as if it were dim light. The monster can’t discern color in darkness, only shades of gray. Many creatures that live underground have this special sense.
 
 >#### Armor, Weapon, and Tool Proficiencies
@@ -3061,15 +3077,19 @@ A monster with darkvision can see in the dark within a specific radius. The mons
 >For example, a hill giant typically wears hide armor and wields a greatclub. You could equip a hill giant with chain mail and a greataxe instead, and assume the giant is proficient with both, one or the other, or neither.
 
 #### Tremorsense
+
 A monster with tremorsense can detect and pinpoint the origin of vibrations within a specific radius, provided that the monster and the source of the vibrations are in contact with the same ground or substance. Tremorsense can’t be used to detect flying or incorporeal creatures. Many burrowing creatures, such as ankhegs and umber hulks, have this special sense.
 
 #### Truesight
+
 A monster with truesight can, out to a specific range, see in normal and magical darkness, see invisible creatures and objects, automatically detect visual illusions and succeed on saving throws against them, and perceive the original form of a shapechanger or a creature that is transformed by magic. Furthermore, the monster can see into the Ethereal Plane within the same range.
 
 ### Languages
+
 The languages that a monster can speak are listed in alphabetical order. Sometimes a monster can understand a language but can’t speak it, and this is noted in its entry. A “—” indicates that a creature neither speaks nor understands any language.
 
 #### Telepathy
+
 Telepathy is a magical ability that allows a monster to communicate mentally with another creature within a specified range. The contacted creature doesn’t need to share a language with the monster to communicate in this way with it, but it must be able to understand at least one language. A creature without telepathy can receive and respond to telepathic messages but can’t initiate or terminate a telepathic conversation.
 
 A telepathic monster doesn’t need to see a contacted creature and can end the telepathic contact at any time. The contact is broken as soon as the two creatures are no longer within range of each other or if the telepathic monster contacts a different creature within range. A telepathic monster can initiate or terminate a telepathic conversation without using an action, but while the monster is incapacitated, it can’t initiate telepathic contact, and any current contact is terminated.
@@ -3077,21 +3097,25 @@ A telepathic monster doesn’t need to see a contacted creature and can end the 
 A creature within the area of an *antimagic field* or in any other location where magic doesn’t function can’t send or receive telepathic messages.
 
 ### Challenge
+
 When determining the challenge of a monster encounter, let *N* equal the number of PCs + 1.
 
 An appropriately equipped and well-rested party of adventurers should be able to defeat *N* minions, *N* minions and two elites, or *N* minions and one boss without suffering any deaths.
 
 ### Special Traits
+
 Special traits (which appear before any actions or reactions) are characteristics that are likely to be relevant in a combat encounter and that require some explanation.
 
 #### Innate Spellcasting
+
 A monster with the innate ability to cast spells has the Innate Spellcasting special trait. Unless noted otherwise, an innate spell of 1st level or higher is always cast at its lowest possible level and can’t be cast at a higher level.
 
-An innate spell can have special rules or restrictions. For example, a drow mage can innately cast the *levitate* spell, but the spell has a “self only” restriction, which means that the spell affects only the drow mage.
+An innate spell can have special rules or restrictions. For example, a mage might be able to innately cast the *levitate* spell, but the spell has a “self only” restriction, which means that the spell affects only the mage.
 
 A monster’s innate spells can’t be swapped out with other spells.
 
 #### Spellcasting
+
 A monster with the Spellcasting special trait has a spellcaster level and spell slots, which it uses to cast its spells of 1st level and higher. The spellcaster level is also used for any cantrips included in the feature.
 
 The monster has a list of spells known or prepared from a specific class. The list might also include spells from a feature in that class, such as the Divine Domain feature of the cleric or the Druid Circle feature of the druid. The monster is considered a member of that class when attuning to or using a magic item that requires membership in the class or access to its spell list.
@@ -3105,9 +3129,11 @@ You can change the spells that a monster knows or has prepared, replacing any sp
 A monster that casts spells using only the power of its mind has the psionics tag added to its Spellcasting or Innate Spellcasting special trait. This tag carries no special rules of its own, but other parts of the game might refer to it. A monster that has this tag typically doesn’t require any components to cast its spells.
 
 ### Actions
+
 When a monster takes its action, it can choose from the options in the Actions section of its stat block or use one of the actions available to all creatures, such as the Dash or Hide action, as described in the Player’s Handbook.
 
 #### Melee and Ranged Attacks
+
 The most common actions that a monster will take in combat are melee and ranged attacks. These can be spell attacks or weapon attacks, where the “weapon” might be a manufactured item or a natural weapon, such as a claw or tail spike. For more information on different kinds of attacks, see (TBD).
 
 **Creature vs. Target.** The target of a melee or ranged attack is usually either one creature or one target, the difference being that a “target” can be a creature or an object.
@@ -3117,15 +3143,19 @@ The most common actions that a monster will take in combat are melee and ranged 
 **Miss.** If an attack has an effect that occurs on a miss, that information is presented after the “Miss:” notation.
 
 #### Multiattack
+
 A creature that can make multiple attacks on its turn has the Multiattack action. A creature can’t use Multiattack when making an opportunity attack, which must be a single melee attack.
 
 #### Ammunition
+
 A monster carries enough ammunition to make its ranged attacks. Defeated monsters using ammunition drop (basic ammunition).
 
 ### Reactions
+
 If a monster can do something special with its reaction, that information is contained here. If a creature has no special reaction, this section is absent.
 
 ### Limited Usage
+
 Some special abilities have restrictions on the number of times they can be used.
 
 **Bolster X.** The notation "Bolster X" means a monster can use a special pool of points to reduce incoming damage. As long as this creature has a bolster pool of 1 or more, it may assign 1 or more bolster points as a free action and reduce incoming damage by 1 for each point spent. Spent points are lost. Whenever a creature has two or more bolster pools, it keeps the largest bolster pool and discards the rest.
@@ -3143,9 +3173,10 @@ For example, “Recharge 3–4” means a monster can use the special ability on
 >#### Grapple Rules for Monsters
 >Many monsters have special attacks that allow them to quickly grapple prey. When a monster hits with such an attack, it doesn’t need to make an additional ability check to determine whether the grapple succeeds, unless the attack says otherwise.
 >
->A creature grappled by the monster can use its action to try to escape. To do so, it must succeed on a contested Performance check.
+>A creature grappled by the monster can use its action to try to escape. To do so, it must succeed on a contested STR check.
 
 ### Equipment
+
 A stat block rarely refers to equipment, other than armor or weapons used by a monster. A creature that customarily wears clothes, such as a humanoid, is assumed to be dressed appropriately.
 
 You can equip monsters with additional gear and trinkets however you like, and you decide how much of a monster’s equipment is recoverable after the creature is slain and whether any of that equipment is still usable. A battered suit of armor made for a monster is rarely usable by someone else, for instance.
@@ -3153,6 +3184,7 @@ You can equip monsters with additional gear and trinkets however you like, and y
 If a spellcasting monster needs material components to cast its spells, assume that it has the material components it needs to cast the spells in its stat block.
 
 ### Bosses are Legendary Creatures
+
 Bosses are legendary creatures because they can do things that ordinary creatures can’t. They can take special actions outside their turn, and they might exert magical or mundane influence for miles around.
 
 If a creature assumes the form of a boss, such as through a spell, it doesn’t gain that form’s legendary actions, lair actions, or regional effects.
@@ -3169,15 +3201,19 @@ All bosses automatically have the following legendary actions.
 - **Bolster (2 Actions).** The boss gains **bolster (LEVEL)**. A boss can only activate this legendary action if a minion is within its line of sight.
 
 ### A Boss' Lair
+
 A boss might have a section describing its lair and the special effects it can create while there, either by act of will or simply by being present. Such a section applies only to a boss that spends a great deal of time in its lair.
 
 #### Lair Actions
+
 If a legendary creature has lair actions, it can use them to harness the ambient magic in its lair. On initiative count 20 (losing all initiative ties), it can use one of its lair action options. It can’t do so while incapacitated or otherwise unable to take actions. If surprised, it can’t use one until after its first turn in the combat.
 
 #### Regional Effects
+
 The mere presence of a boss can have strange and wondrous effects on its environment, as noted in this section. Regional effects end abruptly or dissipate over time when the boss is defeated.
 
 ### Monster Descriptions
+
 All monster descriptions are detailed in Appendix MM.
 
 ## Dungeon
@@ -3283,39 +3319,46 @@ TBA.
 ...
 
 # Appendix PHS
+
 # Spellcasting
+
 Magic permeates fantasy gaming worlds and often appears in the form of a spell.
 
 This section provides the rules for casting spells. Different character classes have distinctive ways of learning and preparing their spells, and monsters use spells in unique ways. Regardless of its source, a spell follows the rules here.
 
 ## What Is a Spell?
+
 A spell is a discrete magical effect, a single shaping of the magical energies that suffuse the multiverse into a specific, limited expression. In casting a spell, a character carefully plucks at the invisible strands of raw magic suffusing the world, pins them in place in a particular pattern, sets them vibrating in a specific way, and then releases them to unleash the desired effect—in most cases, all in the span of seconds.
 
 Spells can be versatile tools, weapons, or protective wards. They can deal damage or undo it, impose or remove conditions (see appendix PH-­A), drain life energy away, and restore life to the dead.
 
-Uncounted thousands of spells have been created over the course of the multiverse’s history, and many of them are long forgotten. Some might yet lie recorded in crumbling spellbooks hidden in ancient ruins or trapped in the minds of dead gods. Or they might someday be reinvented by a character who has amassed enough power and wisdom to do so.
+Uncounted thousands of spells have been created over the course of the multiverse’s history, and many of them are long forgotten. Some might yet lie recorded in crumbling spellbooks hidden in ancient ruins or trapped in the minds of dead gods. Or they might someday be reinvented by a character who has amassed enough power and understanding to do so.
 
 ### Spell Level
-Every spell has a level from 0 to 9. A spell’s level is a general indicator of how powerful it is, with the lowly (but still impressive) magic missile at 1st level and the earth-­shaking wish at 9th. Cantrips—simple but powerful spells that characters can cast almost by rote—are level 0. The higher a spell’s level, the higher level a spellcaster must be to use that spell.
 
-Spell level and character level don’t correspond directly. Typically, a character has to be at least level 2, not level 3, to cast a 3rd-­level spell and the most powerful spells, 9th-level, usually become available during character level 6.
+Every spell has a level from 0 to 7. A spell’s level is a general indicator of how powerful it is, with the lowly (but still impressive) _magic missile_ at 1st level and the earth-­shaking _earthquake_ at 7th. Cantrips—simple but powerful spells that characters can cast almost by rote—are level 0. The higher a spell’s level, the higher level a spellcaster must be to use that spell.
+
+Spell level and character level correspond directly. To cast a spell, your level must equal or exceed the spell's level. For example, a character must be at least 2nd-level to cast a 2nd-­level spell, and the most powerful spells, 7th-level, become available during character level 7.
 
 ### Known and Prepared Spells
-Before a spellcaster can use a spell, he or she must have the spell firmly fixed in mind, or must have access to the spell in a magic item. Members of a few classes, including bards and sorcerers, have a limited list of spells they know that are always fixed in mind. The same thing is true of many magic-­using monsters. Other spellcasters, such as clerics and wizards, undergo a process of preparing spells. This process varies for different classes, as detailed in their descriptions.
+
+Spellcasters must have the spell firmly fixed in mind before they can use it, or they must have access to the spell with a magic item. Members of a few classes, including bards and sorcerers, have a limited list of spells they know that are always fixed in mind. The same thing is true of many magic-­using monsters. Other spellcasters, such as clerics and wizards, undergo a process of preparing spells. This process varies for different classes, as detailed in their descriptions.
 
 In every case, the number of spells a caster can have fixed in mind at any given time depends on how many Magic feature upgrades a character unlocks with Coin.
 
 ### Spell Slots
-Regardless of how many spells a caster knows or prepares, he or she can cast only a limited number of spells before resting. Manipulating the fabric of magic and channeling its energy into even a simple spell is physically and mentally taxing, and higher-level spells are even more so.
 
-When a character casts a spell, he or she expends a slot of that spell’s level or higher, effectively “filling” a slot with the spell. You can think of a spell slot as a groove of a certain size—small for a 1st-­level slot, larger for a spell of higher level. A 1st-­level spell fits into a slot of any size, but a 9th-­level spell fits only in a 9th-­level slot. So when Umara casts _magic missile_, a 1st-­level spell, she spends one of her four 1st-­level slots and has three remaining.
+Regardless of how many spells casters know or prepare, they can cast only a limited number of spells before resting. Manipulating the fabric of magic and channeling its energy into even a simple spell is physically and mentally taxing, and higher-level spells are even more so.
 
-Spell slots restore after recalling to HQ.
+When characters cast a spell, they expend a slot of that spell’s level or higher, effectively “filling” a slot with the spell. You can think of a spell slot as a groove of a certain size—small for a 1st-­level slot, larger for a spell of higher level. A 1st-­level spell fits into a slot of any size, but a 7th-level spell fits only in a 7th-­level slot.
+
+Spell slots are restored after recalling to HQ. 
 
 Some characters and monsters have special abilities that let them cast spells without using spell slots. For example, a monk who follows the Way of the Four Elements, a warlock who chooses certain eldritch invocations, and a pit fiend from the Nine Hells can all cast spells in such a way.
 
 #### Casting a Spell at a Higher Level
-When a spellcaster casts a spell using a slot that is of a higher level than the spell, the spell assumes the higher level for that casting. For instance, if Umara casts _magic missile_ using one of her 2nd-­level slots, that _magic missile_ is 2nd level. Effectively, the spell expands to fill the slot it is put into.
+
+When a spellcaster casts a spell using a slot that is of a higher level than the spell, the spell assumes the higher level for that casting. For instance, if a spellcaster casts _magic missile_ using a 2nd-­level slot, that _magic missile_ is 2nd level. Effectively, the spell expands to fill the slot it is put into.
 
 Some spells, such as _magic missile_ and _cure wounds_, have more powerful effects when cast at a higher level, as detailed in a spell’s description.
 
@@ -3323,35 +3366,45 @@ Some spells, such as _magic missile_ and _cure wounds_, have more powerful effec
 >Because of the mental focus and precise gestures required for spellcasting, you must be proficient with the armor you are wearing to cast a spell. You are otherwise too distracted and physically hampered by your armor for spellcasting.
 
 ### Cantrips
+
 A cantrip is a spell that can be cast at will, without using a spell slot and without being prepared in advance. Repeated practice has fixed the spell in the caster’s mind and infused the caster with the magic needed to produce the effect over and over. A cantrip’s spell level is 0.
 
 ### Rituals
+
 Certain spells have a special tag: ritual. Such a spell can be cast following the normal rules for spellcasting, or the spell can be cast as a ritual. The ritual version of a spell takes 10 minutes longer to cast than normal. It also doesn’t expend a spell slot, which means the ritual version of a spell can’t be cast at a higher level.
 
 To cast a spell as a ritual, a spellcaster must have a feature that grants the ability to do so. The cleric and the druid, for example, have such a feature. The caster must also have the spell prepared or on his or her list of spells known, unless the character’s ritual feature specifies otherwise, as the wizard’s does.
 
 Casting a Spell
+
 When a character casts any spell, the same basic rules are followed, regardless of the character’s class or the spell’s effects.
+
 Each spell description begins with a block of information, including the spell’s name, level, school of magic, casting time, range, components, and duration. The rest of a spell entry describes the spell’s effect.
 
 ## Casting a Spell
+
 When a character casts any spell, the same basic rules are followed, regardless of the character’s class or the spell’s effects.
 
 Each spell description begins with a block of information, including the spell’s name, level, school of magic, casting time, range, components, and duration. The rest of a spell entry describes the spell’s effect.
 
 ### Casting Time
+
 Most spells require a single action to cast, but some spells require a bonus action, a reaction, or much more time to cast.
 
 #### Bonus Action
+
 A spell cast with a bonus action is especially swift. You must use a bonus action on your turn to cast the spell, provided that you haven’t already taken a bonus action this turn. You can’t cast another spell during the same turn, except for a cantrip with a casting time of 1 action.
 
 #### Reactions
+
 Some spells can be cast as reactions. These spells take a fraction of a second to bring about and are cast in response to some event. If a spell can be cast as a reaction, the spell description tells you exactly when you can do so.
 
 #### Longer Casting Times
+
 Certain spells (including spells cast as rituals) require more time to cast: minutes or even hours. When you cast a spell with a casting time longer than a single action or reaction, you must spend your action each turn casting the spell, and you must maintain your concentration while you do so (see “Concentration” below). If your concentration is broken, the spell fails, but you don’t expend a spell slot. If you want to try casting the spell again, you must start over.
 
 ### Range
+
 The target of a spell must be within the spell’s range. For a spell like _magic missile_, the target is a creature. For a spell like _fireball_, the target is the point in space where the ball of fire erupts.
 
 Most spells have ranges expressed in squares. Some spells can target only a creature (including you) that you touch. Other spells, such as the _shield_ spell, affect only you. These spells have a range of self.
@@ -3361,23 +3414,28 @@ Spells that create cones or lines of effect that originate from you also have a 
 Once a spell is cast, its effects aren’t limited by its range, unless the spell’s description says otherwise.
 
 ### Components
-A spell’s components are the physical requirements you must meet in order to cast it. Each spell’s description indicates whether it requires verbal (V), somatic (S), or material (M) components. If you can’t provide one or more of a spell’s components, you are unable to cast the spell.
+
+A spell’s components are the physical requirements you must meet in order to cast it. Each spell’s description indicates whether it requires verbal (V) or somatic (S) components. If you can’t provide one or more of a spell’s components, you are unable to cast the spell.
 
 #### Verbal (V)
+
 Most spells require the chanting of mystic words. The words themselves aren’t the source of the spell’s power; rather, the particular combination of sounds, with specific pitch and resonance, sets the threads of magic in motion. Thus, a character who is gagged or in an area of silence, such as one created by the silence spell, can’t cast a spell with a verbal component.
 
 #### Somatic (S)
+
 Spellcasting gestures might include a forceful gesticulation or an intricate set of gestures. If a spell requires a somatic component, the caster must have free use of at least one hand to perform these gestures.
 
-#### Material (M)
-Casting some spells requires particular objects, specified in parentheses in the component entry. A character can use a **component pouch** or a **spellcasting focus** (found in “Equipment”) in place of the components specified for a spell. But if a cost is indicated for a component, a character must have that specific component before he or she can cast the spell.
+~~#### Material (M)~~
 
-If a spell states that a material component is consumed by the spell, the caster must provide this component for each casting of the spell.
+~~Casting some spells requires particular objects, specified in parentheses in the component entry. A character can use a **component pouch** or a **spellcasting focus** (found in “Equipment”) in place of the components specified for a spell. But if a cost is indicated for a component, a character must have that specific component before he or she can cast the spell.~~
 
-A spellcaster must have a hand free to access a spell’s material components—or to hold a spellcasting focus—but it can be the same hand that he or she uses to perform somatic components.
+~~If a spell states that a material component is consumed by the spell, the caster must provide this component for each casting of the spell.~~
+
+~~A spellcaster must have a hand free to access a spell’s material components—or to hold a spellcasting focus—but it can be the same hand that he or she uses to perform somatic components.~~
 
 ### Duration
-A spell’s duration is the length of time the spell persists. A duration can be the length of an encounter or the length of a game session. Some spells specify that their effects last until the spells are dispelled or destroyed.
+
+A spell’s duration is the length of time the spell persists. A duration can be the length of an encounter or until recall. Some spells specify that their effects last until the spells are dispelled or destroyed.
 
 #### Encounter
 
@@ -3388,34 +3446,40 @@ A number of spells have durations longer than an instant but shorter than a game
 Many spells are instantaneous. The spell harms, heals, creates, or alters a creature or an object in a way that can’t be dispelled, because its magic exists only for an instant.
 
 #### Recall
+
 Some spells have have lingering effects. A spell with a duration of recall lasts until the PCs recall back to HQ. 
 
-#### Concentration
-Some spells require you to maintain concentration in order to keep their magic active. If you lose concentration, such a spell ends.
+### Concentration
 
-If a spell must be maintained with concentration, that fact appears in its Duration entry, and the spell specifies how long you can concentrate on it. You can end concentration at any time (no action required).
+Spells with durations longer than instantaneous require you to maintain concentration in order to keep their magic active. If you lose concentration, such a spell ends.
+
+You can end concentration at any time (no action required).
 
 Normal activity, such as moving and attacking, doesn’t interfere with concentration. The following factors can break concentration:
-- **Casting another spell that requires concentration.** You lose concentration on a spell if you cast another spell that requires concentration. You can’t concentrate on two spells at once.
-- **Taking damage.** Whenever you take one or more wounds while you are concentrating on a spell, you must make a CON saving throw to maintain your concentration. The DC equals 9 + the number of wounds received. If you take wounds from multiple sources, such as an arrow and a dragon’s breath, you make a separate saving throw for each source of damage.
+- **Casting another spell with a duration longer than instantaneous.** You lose concentration on a spell if you cast another spell that requires concentration. You can’t concentrate on two spells at once.
+- **Taking damage.** Whenever you take one or more wounds while you are concentrating on a spell, you must make a CON check to maintain your concentration. The DC equals 9 + the number of wounds received. If you take wounds from multiple sources, such as an arrow and a dragon’s breath, you make a separate check for each source of damage.
 - **Being incapacitated or killed.** You lose concentration on a spell if you are incapacitated or if you die.
 
-The GM might also decide that certain environmental phenomena, such as a wave crashing over you while you’re on a storm-­tossed ship, require you to succeed on a DC 10 CON saving throw to maintain concentration on a spell.
+The GM might also decide that certain environmental phenomena, such as a wave crashing over you while you’re on a storm-­tossed ship, require you to succeed on a DC 10 CON check to maintain concentration on a spell.
 
 ### Targets
+
 A typical spell requires you to pick one or more targets to be affected by the spell’s magic. A spell’s description tells you whether the spell targets creatures, objects, or a point of origin for an area of effect (described below).
 
 Unless a spell has a perceptible effect, a creature might not know it was targeted by a spell at all. An effect like crackling lightning is obvious, but a more subtle effect, such as an attempt to read a creature’s thoughts, typically goes unnoticed, unless a spell says otherwise.
 
 #### A Clear Path to the Target
+
 To target something, you must have a clear path to it, so it can’t be behind total cover.
 
 If you place an area of effect at a point that you can’t see and an obstruction, such as a wall, is between you and that point, the point of origin comes into being on the near side of that obstruction.
 
 #### Targeting Yourself
+
 If a spell targets a creature of your choice, you can choose yourself, unless the creature must be hostile or specifically a creature other than you. If you are in the area of effect of a spell you cast, you can target yourself.
 
 ### Areas of Effect
+
 Spells such as _burning hands_ and _cone of cold_ cover an area, allowing them to affect multiple creatures at once.
 
 A spell’s description specifies its area of effect, which typically has one of five different shapes: cone, cube, cylinder, line, or sphere. Every area of effect has a **point of origin**, a location from which the spell’s energy erupts. The rules for each shape specify how you position its point of origin. Typically, a point of origin is a point in space, but some spells have an area whose origin is a creature or an object.
@@ -3423,36 +3487,43 @@ A spell’s description specifies its area of effect, which typically has one of
 A spell’s effect expands in straight lines from the point of origin. If no unblocked straight line extends from the point of origin to a location within the area of effect, that location isn’t included in the spell’s area. To block one of these imaginary lines, an obstruction must provide total cover.
 
 #### Cone
+
 A cone extends in a direction you choose from its point of origin. A cone’s width at a given point along its length is equal to that point’s distance from the point of origin. A cone’s area of effect specifies its maximum length.
 
 A cone’s point of origin is not included in the cone’s area of effect, unless you decide otherwise.
 
 #### Cube
+
 You select a cube’s point of origin, which lies anywhere on a face of the cubic effect. The cube’s size is expressed as the length of each side.
 
 A cube’s point of origin is not included in the cube’s area of effect, unless you decide otherwise.
 
 #### Cylinder
+
 A cylinder’s point of origin is the center of a circle of a particular radius, as given in the spell description. The circle must either be on the ground or at the height of the spell effect. The energy in a cylinder expands in straight lines from the point of origin to the perimeter of the circle, forming the base of the cylinder. The spell’s effect then shoots up from the base or down from the top, to a distance equal to the height of the cylinder.
 
 A cylinder’s point of origin is included in the cylinder’s area of effect.
 
 #### Line
+
 A line extends from its point of origin in a straight path up to its length and covers an area defined by its width.
 
 A line’s point of origin is not included in the line’s area of effect, unless you decide otherwise.
 
 #### Sphere
+
 You select a sphere’s point of origin, and the sphere extends outward from that point. The sphere’s size is expressed as a radius in feet that extends from the point.
 
 A sphere’s point of origin is included in the sphere’s area of effect.
 
 ### Resisting Spells
+
 Many spells specify that a target can make an ability check to avoid some or all of a spell’s effects. The spell specifies the ability that the target uses for the check and what happens on a success or failure.
 
 The DC to resist one of your spells equals 10 + your spellcasting ability + any special modifiers.
 
 ### Attack Rolls
+
 Some spells require the caster to make an attack roll to determine whether the spell effect hits the intended target. Your attack bonus with a spell attack equals your spellcasting ability modifier + your proficiency bonus.
 
 Most spells that require attack rolls involve ranged attacks. Remember that you have disadvantage on a ranged attack roll if you are within 1 square of a hostile creature that can see you and that isn’t incapacitated.
@@ -3481,12 +3552,15 @@ Most spells that require attack rolls involve ranged attacks. Remember that you 
 >**Transmutation** spells change the properties of a creature, object, or environment. They might turn an enemy into a harmless creature, bolster the strength of an ally, make an object move at the caster’s command, or enhance a creature’s innate healing abilities to rapidly recover from injury.
 
 ### Combining Magical Effects
+
 The effects of different spells add together while the durations of those spells overlap. The effects of the same spell cast multiple times don’t combine, however. Instead, the most potent effect—such as the highest bonus—from those castings applies while their durations overlap.
 
 For example, if two clerics cast _bless_ on the same target, that character gains the spell’s benefit only once; he or she doesn’t get to roll two bonus dice.
 
 ## Spell Lists
+
 ### Bard Spells
+
 |  |
 |:-|
 |**Cantrips (Level 0)**|
