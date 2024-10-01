@@ -112,7 +112,7 @@ If you fail three or more death saves, your character dies.
 
 > Character death in 5eFP is not considered a punishment. Therefore, instead of removing the player from the game, it is encouraged that the GM have pregenerated sidekick characters ready to play in case this happens. The player whose character dies can then choose and play one of the pre-generated characters and jump back into the action.
 
-Your character stabilizes if you succeed on three or more death saves (see Stabalize).
+Your character stabilizes if you succeed on three or more death saves (see _Stabalize_ below).
 
 > 5eFP is somewhat forgiving around character death because dice results can be capricious. The point of 5eFP is not to kill off all the PCs as fast as possible. Instead, it encourages ongoing gameplay with familiar characters to engender a felt experience over time. If your game has no grace period wherein PCs may recover from a deadly blow, then allow an inspired medicine (see Inspiration) to bring them back, but at the edge of death (one more hit will take them out again).
 
