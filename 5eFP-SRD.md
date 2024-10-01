@@ -140,25 +140,25 @@ Additionally, if you have inspiration, you can reward another player for good ro
 
 The following describes each dedication and how to use them in the game.
 
-#### Insight
+### Insight
 
 Your insight imbues inward sight, granting vision beneath surface impressions.
 
 Your GM reveals to you all the hidden or obscured pieces of information contained within the current scene. Features granted through spell effects specifically designed to prevent sight, such as _invisibility_ or an equivalent effect, are not revealed; instead, their presence is confirmed, and you can sense the subtle flows of energy that the spell displaces in its wake. This awareness lasts until the beginning of your next turn.
 
-#### Medicine
+### Medicine
 
 Your medicine stabilizes wounds.
 
 Choose any number of creatures your character can see within 6 squares of you with the dying condition. The chosen creatures receive 1 point of healing.
 
-#### Perception
+### Perception
 
 Your perception enables you to spot, hear, or otherwise detect the presence of something.
 
 Your GM reveals all relevant information regarding the current scene gathered through the five senses (sight, smell, sound, taste, and touch).
 
-#### Performance
+### Performance
 
 Your performance allows the satisfying completion of one action.
 
@@ -186,7 +186,7 @@ You decide the outcome of the next action your character declares on their turn.
 >>> 
 >> In example 2, _Player 2_'s action resolves a successful attack action from a hidden position and then finishes. The action does not continue on subsequent rounds.
 
-#### Survival
+### Survival
 
 Your survival awards expanded capacities, allowing you to identify and acquire new advantages, qualities, or skills.
 
