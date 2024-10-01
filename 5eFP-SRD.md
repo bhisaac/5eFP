@@ -82,7 +82,7 @@ Attacks, effects, or features sometimes deal damage. In 5eFP, all damaging attac
 
 ### Healing
 
-All healing effects provide a minimum of 1 point of healing. Particularly strong healing may provide 2 or more points of healing. For each point of healing, you discard 1 wound (see _Wounds_ below). When you recieve healing, you also stabilize (see _Stabalize_ below).
+All healing effects provide a minimum of 1 point of healing. Particularly strong healing may provide 2 or more points of healing. For each point of healing, you discard 1 wound (see _Wounds_ below). When you receive healing, you also stabilize (see _Stabalize_ below).
 
 ### Wounds
 
@@ -169,18 +169,18 @@ You decide the outcome of the next action your character declares on their turn.
 >>> 
 >>> (_Player 1_) "I spend my inspiration on PERFORMANCE."
 >>> 
->>> (_GM_) "OK, great. Tell us about what action you're character wants to take. And then, when you're ready, tell us what happens."
+>>> (_GM_) "OK, great. Tell us about what action your character wants to take. And then, when you're ready, tell us what happens."
 >>> 
 >>> (_Player 1_) "Thanks. Lita leaps onto the cliff face, finds her grip, and makes her way to the top."
 >>> 
->> In example 1, _Player 1_'s action resolves a successful STR check without rolling to begin climbing the cliff face to reach the top of the spire, which is 40 squares above Lita's position. _Player 1_ has indicated that this climb is important in some way. While climbing the cliff, Lita then makes all attacks, ability checks, and saves with advantage. Later on, during the cliff-face encounter, Lita's skill is tested once again due to strong winds. She must succeed on a STR check to keep her grip. Because she is still in the same cliff-face encounter, she rolls STR with advantage.
+>> In example 1, _Player 1_'s action resolves a successful STR check without rolling to begin climbing the cliff face to reach the top of the spire, 40 squares above Lita's position. _Player 1_ has indicated that this climb is important in some way. While climbing the cliff, Lita makes all attacks and ability checks with advantage. Later, during the cliff-face encounter, Lita's skill is tested again due to strong winds. She must succeed on a STR check to keep her grip. She rolls STR with advantage because she is still in the same cliff-face encounter.
 >> 
 >> Example 2: 
 >>> _(GM)_ "Lita, it's your turn."
 >>> 
 >>> _(Player 2)_ "I spend my inspiration on PERFORMANCE."
 >>> 
->>> _(GM)_ "OK, great. Tell us about what action you're character wants to take. And then, when you're ready, tell us what happens."
+>>> _(GM)_ "OK, great. Tell us about what action your character wants to take. And then, when you're ready, tell us what happens."
 >>> 
 >>> _(Player 2)_ "I jump out of the shadows where I'm hiding and attack the goblin, catching it off guard and unaware. I strike with a critical hit, dealing maximum damage to the creature, adding my sneak attack damage."
 >>> 
@@ -489,7 +489,7 @@ Whenever you unlock a Magic feature (i.e., Magic I, Magic II, Magic III, etc.), 
 
 Charisma (CHA) is your spellcasting ability for your bard spells. Your magic comes from the heart and soul you pour into the performance of your music or oration. You use your CHA whenever a spell refers to your spellcasting ability. In addition, you use your CHA when setting the saving throw DC for a bard spell you cast and when making an attack roll with one.
 
-**Spell save DC** = 10 + CHA
+**Spell DC** = 10 + CHA
 
 **Spell attack modifier** = 2 + CHA
 
@@ -559,7 +559,7 @@ You can change your list of prepared spells at HQ. While away from HQ, you can p
 
 Wisdom (WIS) is your spellcasting ability for your cleric spells. The power of your spells comes from your devotion to your deity. You use your WIS whenever a cleric spell refers to your spellcasting ability. In addition, you use WIS when setting the saving throw DC for a cleric spell you cast and when making an attack roll with one.
 
-**Spell save DC** = 10 + WIS
+**Spell DC** = 10 + WIS
 
 **Spell attack modifier** = 2 + WIS
 
@@ -650,7 +650,7 @@ You can change your list of prepared spells at HQ. While away from HQ, you can p
 
 Wisdom (WIS) is your spellcasting ability for your druid spells, since your magic draws upon your devotion and attunement to nature. You use your WIS whenever a druid spell refers to your spellcasting ability. In addition, you use WIS when setting the saving throw DC for a druid spell you cast and when making an attack roll with one.
 
-**Spell save DC** = 10 + WIS
+**Spell DC** = 10 + WIS
 
 **Spell attack modifier** = 2 + WIS
 
@@ -958,7 +958,7 @@ Whenever you successfully upgrade a Magic feature (i.e., "Magic I", "Magic II", 
 
 Charisma (CHA) is your spellcasting ability for your sorcerer spells,	since	the	power	of	your	magic	relies	on	your	ability	to	project	your	will	into	the	world. You use your CHA whenever a spell refers to your spellcasting ability. In addition, you use your CHA when setting the saving throw DC for a sorcerer spell you cast and when making an attack roll with one.
 
-**Spell save DC** = 10 + CHA
+**Spell DC** = 10 + CHA
 
 **Spell attack modifier** = 2 + CHA
 
@@ -1052,7 +1052,7 @@ Whenever you successfully upgrade a Magic feature (i.e., "Magic I", "Magic II", 
 
 Charisma (CHA) is your spellcasting ability for your warlock spells,	so you use your CHA whenever a spell refers to your spellcasting ability. In addition, you use your CHA when setting the saving throw DC for a warlock spell you cast and when making an attack roll with one.
 
-**Spell save DC** = 10 + CHA
+**Spell DC** = 10 + CHA
 
 **Spell attack modifier** = 2 + CHA
 
@@ -1148,7 +1148,7 @@ You can change your list of prepared spells when you finish a long rest. Prepari
 
 INT is your spellcasting ability for your wizard spells,	since you learn your spells through dedicated study and memorization. You use your INT whenever a spell refers to your spellcasting ability. In addition, you use your INT when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one.
 
-**Spell save DC** = 10 + INT
+**Spell DC** = 10 + INT
 
 **Spell attack modifier** = 2 + INT
 
@@ -1199,7 +1199,7 @@ BARBARIAN
 |-:|:-|:-|
 |**Cost**|**Feature**|**Details**|
 |2⛁|Reckless Attack|You can throw aside all concern for defense to attack with fierce determination.|
-|2⛁|Danger Sense|You gain advantage to Dexterity saves vs. effects you can see|
+|2⛁|Danger Sense|You gain advantage to DEX checks vs. effects you can see|
 |2⛁|Primal Path|Path of the Berserker|
 |3⛁|Rage I|+1 rage/day|
 
@@ -1245,7 +1245,7 @@ CLERIC
 >> You gain the ability to channel divine energy directly from your deity, using that energy to fuel magical effects. You start with two such effects: Turn Undead and an effect determined by your domain. Some domains grant you additional effects as you advance in levels, as noted in the domain description.
 >>
 >> When you use your Channel Divinity, you choose which effect to create. You must then finish a short or long rest to use your Channel Divinity again.
-Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your cleric spell save DC.
+Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your cleric spell DC.
 >> 
 >> **_Turn Undead. (action)_** You present your holy symbol and speak a prayer censuring the undead. Each undead that can see or hear you within 6 squares of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for the rest of the encounter or until it takes any damage.
 >>
@@ -1274,7 +1274,7 @@ DRUID
 >>>> 
 >>>> **_Solar Attunement._** Whenever you cast a spell that has a visible effect (i.e., _entangle_), you lose lunar attunement and gain solar attunement. If you already have solar attunement, remove solar attunement and activate _starfall_ (see below).
 >>>> 
->>>> **_Starfall. (free action)_** A shooting star forms above your head and strikes a creature within 12 squares of you. If the creature is friendly, it receives 1 point of healing and allows the creature to make one additional saving throw to resist an ongoing negative condition. If the creature is not a friendly target, it must succeed on a DEX saving throw using your spellcasting save DC or take 1 point of radiant damage. You then gain Lunar Attunement or Solar Attunement.
+>>>> **_Starfall. (free action)_** A shooting star forms above your head and strikes a creature within 12 squares of you. If the creature is friendly, it receives 1 point of healing and allows the creature to make one additional saving throw to resist an ongoing negative condition. If the creature is not a friendly target, it must succeed on a DEX check using your spellcasting DC or take 1 point of radiant damage. You then gain Lunar Attunement or Solar Attunement.
 >>> 
 >>> **_Defender._** You have 5 + CON MAX wounds while in defender form. If your size is less than large, it increases to large.
 >>> 
@@ -1349,12 +1349,14 @@ MONK
 
 > #### Ki
 >> Your training allows you to harness the mystic energy of ki. Your access to this energy is represented by a number of ki points. Your monk level determines the number of points you have.
-You can spend these points to fuel various ki features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind.
+>>
+>> You can spend these points to fuel various ki features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind.
 >>
 >> When you spend a ki point, it is unavailable until you finish a short or long rest, at the end of which you draw all of your expended ki back into yourself. You must spend at least 30 minutes of the rest meditating to regain your ki points.
-Some of your ki features require your target to make a saving throw to resist the feature’s effects. The saving throw DC is calculated as follows:
 >>
->> **Ki save DC** = 10 +  WIS
+>> Some of your ki features require your target to make an ability check to resist the feature’s effects. The ki feature DC is calculated as follows:
+>>
+>> **Ki feature DC** = 10 +  WIS
 >>
 >> **Flurry of Blows.** Immediately after you take the Attack action on your turn, you can spend 1 ki point to make two unarmed strikes as a bonus action.
 >>
@@ -1955,13 +1957,13 @@ This section describes items that have special rules or require further explanat
 
 **_Arcane Focus._** An arcane focus is a special item—an orb, a crystal, a rod, a specially constructed staff, a wand-­like length of wood, or some similar item—designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus.
 
-Ball Bearings. As an action, you can spill these tiny metal balls from their pouch to cover a level, square area that is 10 feet on a side. A creature moving across the covered area must succeed on a DC 10 Dexterity saving throw or fall prone. A creature moving through the area at half speed doesn’t need to make the save.
+Ball Bearings. As an action, you can spill these tiny metal balls from their pouch to cover a level, square area that is 10 feet on a side. A creature moving across the covered area must succeed on a DC 10 DEX check or fall prone. A creature moving through the area at half speed doesn’t need to make the DEX check.
 
 Block and Tackle. A set of pulleys with a cable threaded through them and a hook to attach to objects, a block and tackle allows you to hoist up to four times the weight you can normally lift.
 
 Book. A book might contain poetry, historical accounts, information pertaining to a particular field of lore, diagrams and notes on gnomish contraptions, or just about anything else that can be represented using text or pictures. A book of spells is a spellbook (described later in this section).
 
-Caltrops. As an action, you can spread a bag of caltrops to cover a square area that is 5 feet on a side. Any creature that enters the area must succeed on a DC 15 Dexterity saving throw or stop moving this turn and take 1 piercing damage. Taking this damage reduces the creature’s walking speed by 10 feet until the creature regains at least 1 hit point. A creature moving through the area at half speed doesn’t need to make the save.
+Caltrops. As an action, you can spread a bag of caltrops to cover a square area that is 5 feet on a side. Any creature that enters the area must succeed on a DC 15 DEX check or stop moving this turn and take 1 piercing damage. Taking this damage reduces the creature’s walking speed by 10 feet until the creature regains at least 1 hit point. A creature moving through the area at half speed doesn’t need to make DEX check.
 
 Candle. For 1 hour, a candle sheds bright light in a 5-­‐‑foot radius and dim light for an additional 5 feet. Case, Crossbow Bolt. This wooden case can hold
 up to twenty crossbow bolts.
@@ -2442,7 +2444,7 @@ You usually gain advantage or disadvantage through the use of special abilities,
 
 Characters have a proficiency bonus, which is equal to their LEVEL. Monsters also have this bonus. The bonus is used in the rules on ability checks, saving throws, and attack rolls.
 
-Your proficiency bonus is typically added to a single die roll or other number once. For example, if two different rules say you can add your proficiency bonus to a WIS saving throw, you nevertheless add the bonus only once when you make the save.
+Your proficiency bonus is typically added to a single die roll or other number once. For example, if two different rules say you can add your proficiency bonus to a WIS check, you nevertheless add the bonus only once when you make the check.
 
 Occasionally, your proficiency bonus might be added one additional time (to a maximum of twice). For example, the rogue’s Expertise feature allows you to add your proficiency bonus twice for certain ability checks. If a circumstance suggests that your proficiency bonus applies more than twice to the same roll, you still add it only twice.
 
@@ -2677,7 +2679,7 @@ CHA measures your ability to interact effectively with others. It includes such 
 
 A CHA check might arise when you try to influence or entertain others, when you try to make an impression or tell a convincing lie, or when you are navigating a tricky social situation.
 
-The GM might call for a Charisma check when you try to accomplish tasks like the following:
+The GM might call for a CHA check when you try to accomplish tasks like the following:
 
 - Convincingly hide the truth
 - Influence someone through overt threats, hostile actions, and physical violence
@@ -2688,19 +2690,15 @@ The GM might call for a Charisma check when you try to accomplish tasks like the
 
 #### Spellcasting Ability
 
-Bards, paladins, sorcerers, and warlocks use Charisma as their spellcasting ability, which helps determine the saving throw DCs of spells they cast.
+Bards, paladins, sorcerers, and warlocks use CHA as their spellcasting ability, which helps determine the DCs of spells they cast.
 
-## Saving Throws
+## Resisting Game Features
 
-A saving throw—also called a save—is a special kind of ability check representing an attempt to resist a spell, a trap, a poison, a disease, or a similar threat. You don’t normally decide to make a saving throw; you are forced to make one because your character or monster is at risk of harm.
+Resisting a spell, a trap, a poison, a disease, or a similar threat requires a successful ability check. You don’t normally decide to make these ability checks; you are forced to make one because your character or monster is at risk of harm.
 
-To make a saving throw, roll an ability check and add your proficiency bonus, if applicable. For example, you use your DEX for a DEX saving throw. If you have DEX proficiency, then you add your proficiency bonus to DEX saves.
+The DC for a game feature is determined by the effect that causes it. For example, the ability check DC for a spell is determined by the caster’s spell DC.
 
-A saving throw can be modified by a situational bonus or penalty and can be affected by advantage and disadvantage, as determined by the GM.
-
-The Difficulty Class for a saving throw is determined by the effect that causes it. For example, the DC for a saving throw allowed by a spell is determined by the caster’s spellcasting ability and proficiency bonus.
-
-The result of a successful or failed saving throw is also detailed in the effect that allows the save. Usually, a successful save means that a creature suffers no harm, or reduced harm, from an effect.
+The result of a successful or failed ability check is also detailed in the effect that allows the ability check. Usually, a successful ability check means that a creature suffers no harm, or reduced harm, from an effect.
 
 # Time
 
@@ -2906,7 +2904,7 @@ Some creature minions have the critter tag. Critters are typically tiny or small
 
 **Difficulty Class (DC).** If an encounter requires a saving throw or skill check, set the DC to this number.
 
-**Bonus.** If any part of an encounter relies on a modifier to a d20 roll, it uses this number as the modifier.
+**Bonus.** If any part of an encounter relies on a modifier to a d20 roll, it uses this number as the modifier. An encounter may list one or more ability scores with bonuses in its description. If the encounter rolls an ability check with one of the designated ability scores, add its corresponding bonus to the result.
 
 **Damage.** If any part of the encounter deals damage, it deals a number of points of damage equal to this number.
 
@@ -3272,9 +3270,9 @@ Campfire encounters do not require the presence of a campfire to be considered c
 
 ~~During a campfire encounter, players are encouraged to interact and roleplay with one another. One PC takes the focus as far as setting the scene and driving the scene. The other PCs work themselves into the scene in some way. It doesn't need to be elaborate. PCs can have focused and directed conversations with the group this way. After describing the initial scene, the focus is released. They may choose to use the campfire encounter to plan their next course of action, speak with the locals, gather and analyze clues, perform a complicated ritual, share a meal together, play games, etc.~~
 
-During a campfire encounter, one PC volunteers to set the scene and drives the initial interaction while the others join in and play with the focus created in the story. Typically, the volunteer desires initiating a specific kind of roleplaying scenario. PCs can have conversations, plan their next move, talk to locals, gather clues, share a meal, play games, and more.
+During a campfire encounter, one PC volunteers to set the scene and drives the initial interaction while the others join in and play with the focus created in the story. Typically, the volunteer desires to initiate a specific kind of roleplaying scenario. PCs can have conversations, plan their next move, talk to locals, gather clues, share a meal, play games, and more.
 
-When you discover a campfire encounter, you can use it immediately or save it for later. If you decide to use it immediately, make sure that your party is not already in another encounter and that the party token is not next to an unresolved foothold or setting requirement. If you use the campfire encounter immediately, your party gets the benefits of a short rest without it counting toward the total number of short rests available in the game session.
+When you discover a campfire encounter, you can use it immediately or wait and use it later. You can only use it immediately if your party is not already in an encounter or the party token is not next to an unresolved foothold or setting requirement. If you use the campfire encounter immediately, your party gets the benefits of a short rest without it counting toward the total number of short rests available in the game session.
 
 Discard any unused campfires on recall.
 
@@ -3449,10 +3447,10 @@ You select a sphere’s point of origin, and the sphere extends outward from tha
 
 A sphere’s point of origin is included in the sphere’s area of effect.
 
-### Saving Throws
-Many spells specify that a target can make a saving throw to avoid some or all of a spell’s effects. The spell specifies the ability that the target uses for the save and what happens on a success or failure.
+### Resisting Spells
+Many spells specify that a target can make an ability check to avoid some or all of a spell’s effects. The spell specifies the ability that the target uses for the check and what happens on a success or failure.
 
-The DC to resist one of your spells equals 8 + your spellcasting ability modifier + your proficiency bonus + any special modifiers.
+The DC to resist one of your spells equals 10 + your spellcasting ability + any special modifiers.
 
 ### Attack Rolls
 Some spells require the caster to make an attack roll to determine whether the spell effect hits the intended target. Your attack bonus with a spell attack equals your spellcasting ability modifier + your proficiency bonus.
@@ -3858,7 +3856,7 @@ Your unarmed strikes deal 1 bludgeoning, piercing, or slashing damage, as approp
 |**Components:** V, S|
 |**Duration:** Instantaneous|
 ||
-|As you hold your hands with thumbs touching and fingers spread, a thin sheet of flames shoots forth from your outstretched fingertips. Each creature in a 3-­square cone must make a DEX saving throw. A creature takes 1 fire damage on a failed save, or half as much damage on a successful one (minimum 1 damage). The fire ignites any flammable objects in the area that aren’t being worn or carried.|
+|As you hold your hands with thumbs touching and fingers spread, a thin sheet of flames shoots forth from your outstretched fingertips. Each creature in a 3-­square cone must make a DEX check. A creature takes 1 fire damage on a failed check, or half as much damage on a successful one. The fire ignites any flammable objects in the area that aren’t being worn or carried.|
 |**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by +1 for each slot level above 1st.|
 
 #### NAME
@@ -3975,7 +3973,7 @@ Alternatively, you can make a target indifferent about creatures of your choice 
 |**Components:** V, S|
 |**Duration:** Instantaneous|
 ||
-|A wave of thunderous force sweeps out from you. Each creature in a 3-square cube originating from you must make a CON saving throw. On a failed save, a creature takes 1 thunder damage and is pushed 2 squares away from you. On a successful save, the creature takes half damage and isn’t pushed.|
+|A wave of thunderous force sweeps out from you. Each creature in a 3-square cube originating from you must make a CON check. On a failed check, a creature takes 1 thunder damage and is pushed 2 squares away from you. On a successful check, the creature takes half damage and isn’t pushed.|
 |In addition, unsecured objects that are completely within the area of effect are automatically pushed 2 squares away from you by the spell’s effect, and the spell emits a thunderous boom audible on the entire map.|
 |**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by +1 for each slot level above 1st.|
 
@@ -4026,7 +4024,7 @@ An awakened shrub is an ordinary plant given sentience and mobility by the *awak
 
 **Revive (1 Action/minion).** Restore one defeated plant minion within line of sight to full health for each point spent. Plant minions defeated with fire cannot be revived in this way.
 
-**Thrash (1 Action).** The awakened shrub boss deals slashing damage to adjacent foes. A successful DEX save reduces the damage by half.
+**Thrash (1 Action).** The awakened shrub boss deals slashing damage to adjacent foes. A successful DEX check reduces the damage by half.
 
 ## Monsters (B)
 
@@ -4057,7 +4055,7 @@ An awakened shrub is an ordinary plant given sentience and mobility by the *awak
 Once fine robes hang in tatters from this withered corpse’s frame. A pale blue light shines from where its eyes should be.
 
 Liches share the following statistics.
-- **Saving Throws** CON 2 + LEVEL, INT 3 + LEVEL, WIS 1 + LEVEL
+- **Abilities** CON +2, INT +3, WIS +2
 - **Damage Resistances** cold, lighting, necrotic
 - **Damage Immunities** poison
 - **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
@@ -4075,7 +4073,7 @@ Liches share the following statistics.
 
 ### Actions
 
-**Paralyzing Touch.** Melee Spell Attack, reach 1, one creature. Hit: cold damage. The target must succeed on a CON saving throw or be paralyzed until the end of the encounter. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+**Paralyzing Touch.** Melee Spell Attack, reach 1, one creature. Hit: cold damage. The target must succeed on a CON check or be paralyzed until the end of the encounter. The target can repeat the check at the end of each of its turns, ending the effect on itself on a success.
 
 ### Elite Features
 
@@ -4099,9 +4097,9 @@ Liches share the following statistics.
 
 **Cantrip (1 Action).** The lich casts a cantrip
 
-**Frightening Gaze (2 Actions).** The lich fixes its gaze on one creature it can see within 2 squares of it. The target must succeed on a WIS saving throw or become frightened until the end of the encounter. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target’s saving throw is successful or the effect ends for it, the target is immune to the lich’s gaze until the end of the game session.
+**Frightening Gaze (2 Actions).** The lich fixes its gaze on one creature it can see within 2 squares of it. The target must succeed on a WIS check or become frightened until the end of the encounter. The frightened target can repeat the check at the end of each of its turns, ending the effect on itself on a success. If a target’s check is successful or the effect ends for it, the target is immune to the lich’s gaze until the end of the game session.
 
-**Disrupt Life (3 Actions).** Each non-undead creature within 5 squares of the lich must make a CON saving throw, taking necrotic damage on a failed save, or half damage on a successful one.
+**Disrupt Life (3 Actions).** Each non-undead creature within 5 squares of the lich must make a CON check, taking necrotic damage on a failed check or half damage on a successful one.
 
 ## Monsters (M)
 
@@ -4119,7 +4117,7 @@ Liches share the following statistics.
 *Tiny beast (critter), unaligned*
 
 Ravens share the following statistics.
-- **Skills** Perception +1
+- **Abilities** WIS +1
 - **Senses** passive Perception 11
 - **Languages** —
 - **Speed** 2, fly 10
