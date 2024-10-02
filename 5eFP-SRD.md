@@ -1549,7 +1549,7 @@ You have a remarkable ability to connect with people. You understand their motiv
 
 ### Feature: False Identity
 
-As part of completing a short rest, you may switch to a secondary identity that includes documentation, established acquaintances, and disguises that allow you to assume that persona. While disguised, any Performance checks made while keeping up your ruse gain advantage.
+As part of completing a short rest, you may switch to a secondary identity that includes documentation, established acquaintances, and disguises that allow you to assume that persona. While disguised, any ability checks made while keeping up your ruse gain advantage.
 
 ## Entertainer
 
