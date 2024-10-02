@@ -3435,7 +3435,7 @@ Spellcasting gestures might include a forceful gesticulation or an intricate set
 
 ### Duration
 
-A spell’s duration is the length of time the spell persists. A duration can be the length of an encounter or until recall. Some spells specify that their effects last until the spells are dispelled or destroyed.
+A spell’s duration is the length of time the spell persists. A duration can be the length of an encounter, instantaneous, or until the PCs recall back to HQ. Some spells specify that their effects last until the spells are dispelled or destroyed.
 
 #### Encounter
 
@@ -3447,7 +3447,7 @@ Many spells are instantaneous. The spell harms, heals, creates, or alters a crea
 
 #### Recall
 
-Some spells have have lingering effects. A spell with a duration of recall lasts until the PCs recall back to HQ. 
+Some spells have lingering effects. A spell with a duration of recall lasts until the PCs recall and return to HQ.
 
 ### Concentration
 
