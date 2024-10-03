@@ -2695,7 +2695,7 @@ TBA
 
 The most fundamental tasks of adventuring—noticing danger, finding hidden objects, hitting an enemy in combat, and targeting a spell, to name just a few—rely heavily on a character’s ability to see. Magical darkness and other effects that obscure vision can prove a significant hindrance.
 
-> 5eFP games obscure unexplored areas of a map with obscuring tiles. This fog-of-war effect is removed as PCs explore map tiles. Unless otherwise indicated, all revealed map tiles are lit by bright light. So, there is no dim light condition, and 5eFP games do not use dark vision rules nor cantrips whose sole purpose is to shed light, such as _light_ or _dancing lights_. This is a deliberate design feature to simplify combat on a grid.
+> 5eFP games obscure unexplored areas of a map with obscuring tiles. This fog-of-war effect is removed as PCs explore map tiles. Unless otherwise indicated, all revealed map tiles are lit by bright light. So, there is no dim light condition, and 5eFP games do not use darkvision rules nor cantrips whose sole purpose is to shed light, such as _light_ or _dancing lights_. This is a deliberate design feature to simplify combat on a grid.
 
 A given area might be lightly or heavily obscured. In a **lightly obscured** area, such as patchy fog, or moderate foliage, creatures have disadvantage on WIS checks that rely on sight.
 
@@ -2710,8 +2710,6 @@ The presence or absence of light in an environment creates two categories of ill
 ### Blindsight
 
 A creature with blindsight can perceive its surroundings without relying on sight, within a specific radius. Creatures without eyes, such as oozes, and creatures with echolocation or heightened senses, such as bats and true dragons, have this sense.
-
-> 5eFP does not use the darkvision feature.
 
 ### Truesight
 
