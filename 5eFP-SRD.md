@@ -423,7 +423,7 @@ In battle, you fight with primal ferocity. On your turn, you can enter a rage as
 While raging, you gain the following benefits if you aren’t wearing heavy armor:
 - You have advantage on STR checks.
 - Damage dealt to you by minions is reduced to 0.
-- You gain resistance to bludgeoning, piercing, and slashing damage (minimum 1).
+- You gain resistance to bludgeoning, piercing, and slashing damage.
  
 If you are able to cast spells, you can’t cast them or concentrate on them while raging.
 
