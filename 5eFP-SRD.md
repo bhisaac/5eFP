@@ -1841,7 +1841,7 @@ Ammunition may be used to make melee attacks. If you are proficient with the wea
 
 > The finesse and versatile weapon properties are removed in 5eFP. There is now one attack roll that covers both melee and ranged attacks. At character creation, players choose whether their attack rolls are modified by DEX or STR. Monks may choose WIS instead of DEX or STR. Once this choice is made, it cannot be changed.
 >
-> Some realism is sacrificed for ease of gameplay. Emphasizing one ability score for both attacks allows PCs greater focus on an ability score they wish to work with more closely.
+> Some realism is sacrificed for ease of gameplay. Emphasizing one ability score for both attacks allows PCs to focus more closely on an ability score they wish to work with.
 
 **_Heavy._** Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon’s size and bulk make it too large for a Small creature to use effectively.
 
@@ -2847,6 +2847,12 @@ While on the world map, if the group token triggers an encounter by moving onto 
 While on a dungeon map, if the group token triggers an encounter, replace the group token with the player's tokens as close to marching order as possible before placing any creatures or map features onto the map. Once an encounter resolves, remove the player's tokens from the map and place the group token back onto the map on an accessible dungeon tile not obscured by a fog of war tile.
 
 # Making An Attack
+
+Whether you’re striking with a weapon, firing a weapon at range, or making an attack roll as part of a spell, an attack has a simple structure.
+
+1. bla
+2. bla
+3. bla
 
 ## Two-Weapon Fighting
 
