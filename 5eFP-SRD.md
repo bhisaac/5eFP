@@ -252,8 +252,6 @@ Your dwarf character has an assortment of inborn abilities, part and parcel of d
 
 **Speed.** Your base walking speed is 5 squares. Heavy armor does not reduce your speed.
 
-**Darkvision.** Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 12 squares of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
-
 **Dwarven Resilience.** You have advantage on ability checks against poison, and you have resistance against poison damage.
 
 **Dwarven Combat Training.** You have proficiency with the battleaxe, handaxe, light hammer, and warhammer.
@@ -295,8 +293,6 @@ Your elf character has a variety of natural abilities, a result of thousands of 
 **Size.** Elves range from under 5 to over 6 feet tall and have slender builds. Your size is Medium.
 
 **Speed.** Your base walking speed is 6 squares.
-
-**Darkvision.** Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 12 squares of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
 
 **Keen Senses.** You gain advantage on Perception checks.
 
@@ -1290,7 +1286,7 @@ DRUID
 >> - Your game statistics are replaced by the statistics of the wild shape form, but you retain your alignment, personality, and INT, WIS, and CHA. You also retain all of your proficiencies, in addition to gaining those of the creature. If the creature has the same proficiency as you and the bonus in its stat block is higher than yours, use the creature’s bonus instead of yours. If the creature has any legendary or lair actions, you can’t use them.
 >> - When you transform, you assume the wild shape form's MAX wounds. When you revert to your normal form, you return all wound cards you set aside before you transformed. However, if you revert because your wild shape form gained maximum wounds, any excess wounds carry over to your normal form. For example, if you take 2 damage in a wild shape form and have room for only 1 wound, you revert and take 1 damage. As long as the excess damage doesn’t cause you to reach your maximum wounds, you aren’t knocked unconscious.
 >> - You can’t cast spells, and your ability to speak or take any action that requires hands is limited to the capabilities of your wild shape form. Transforming doesn’t break your concentration on a spell you’ve already cast, however, or prevent you from taking actions that are part of a spell, such as call lightning, that you’ve already cast. You may cast spells, speak, and take normal actions while in astral form.
->> - You retain the benefit of any features from your class, race, or other source and can use them if the new form is physically capable of doing so. However, you can’t use any of your special senses, such as darkvision, unless your new form also has that sense.
+>> - You retain the benefit of any features from your class, race, or other source and can use them if the new form is physically capable of doing so. However, you can’t use any of your special senses, such as truesight, unless your new form also has that sense.
 >> - You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the GM decides whether it is practical for the new form to wear a piece of equipment, based on the creature’s shape and size. Your equipment doesn’t change size or shape to match the new form, and any equipment that the new form can’t wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.
 >
 > #### Druid Circle
@@ -3048,10 +3044,6 @@ Creatures without eyes, such as grimlocks and gray oozes, typically have this sp
 
 If a monster is naturally blind, it has a parenthetical note to this effect, indicating that the radius of its blindsight defines the maximum range of its perception.
 
-#### Darkvision
-
-A monster with darkvision can see in the dark within a specific radius. The monster can see in dim light within the radius as if it were bright light, and in darkness as if it were dim light. The monster can’t discern color in darkness, only shades of gray. Many creatures that live underground have this special sense.
-
 >#### Armor, Weapon, and Tool Proficiencies
 >Assume that a creature is proficient with its armor, weapons, and tools. If you swap them out, you decide whether the creature is proficient with its new equipment.
 >
@@ -3597,7 +3589,7 @@ For example, if two clerics cast _bless_ on the same target, that character gain
 |**Level 1**|
 |animal friendship, charm person, create or destroy water, cure wounds, detect magic, detect poison and disease, entangle, faerie fire, fog cloud, goodberry, healing word, jump, longstrider, purify food and drink, speak with animals, thunderwave|
 |**Level 2**|
-|animal messenger, barkskin, darkvision, enhance ability, find traps, flame blade, flaming sphere, gust of wind, heat metal, hold person, lesser restoration, locate animals or plants, locate object, moonbeam, pass without trace, protection from poison, spike growth|
+|animal messenger, barkskin, enhance ability, find traps, flame blade, flaming sphere, gust of wind, heat metal, hold person, lesser restoration, locate animals or plants, locate object, moonbeam, pass without trace, protection from poison, spike growth|
 |**Level 3**|
 |call lightning, conjure animals, daylight, dispel Magic, meld into stone, plant growth, protection from energy, sleet storm, speak with plants, water breathing, water walk, wind wall|
 |**Level 4**|
@@ -3633,7 +3625,7 @@ For example, if two clerics cast _bless_ on the same target, that character gain
 |**Level 1**|
 |alarm, animal friendship, cure wounds, detect magic, detect poison and disease, fog cloud, goodberry, hunter's mark, jump, longstrider, speak with animals|
 |**Level 2**|
-|animal messenger, barkskin, darkvision, find traps, lesser restoration, locate animals or plants, locate object, pass without trace, protection from poison, silence, spike growth|
+|animal messenger, barkskin, find traps, lesser restoration, locate animals or plants, locate object, pass without trace, protection from poison, silence, spike growth|
 |**Level 3**|
 |conjure animals, daylight, nondetection, plant growth, protection from energy, speak with plants, water breathing, water walk, wind wall|
 |**Level 4**|
@@ -3649,7 +3641,7 @@ For example, if two clerics cast _bless_ on the same target, that character gain
 |**Level 1**|
 |burning hands, charm person, color spray, comprehend languages, detect magic, disguise self, expeditious retreat, false life, feather fall, fog cloud, jump, mage armor, magic missile, shield, silent image, sleep, thunderwave|
 |**Level 2**|
-|alter self, blindness/deafness, blur, darkness, darkvision, detect thoughts, enhance ability, enlarge/reduce, gust of wind, hold person, invisibility, knock, levitate, mirror image, misty step, scorching ray, see invisibility, shatter, spider climb, suggestion, web|
+|alter self, blindness/deafness, blur, darkness, detect thoughts, enhance ability, enlarge/reduce, gust of wind, hold person, invisibility, knock, levitate, mirror image, misty step, scorching ray, see invisibility, shatter, spider climb, suggestion, web|
 |**Level 3**|
 |blink, clairvoyance, counterspell, daylight, dispel magic, fear, fireball, fly, gaseous form, haste, hypnotic pattern, lightning bolt, major image, protection from energy, sleet storm, slow, stinking cloud, tongues, water breathing, water walk|
 |**Level 4**|
@@ -3697,7 +3689,7 @@ For example, if two clerics cast _bless_ on the same target, that character gain
 |**Level 1**|
 |alarm, burning hands, charm person, color spray, comprehend languages, detect magic, disguise self, expeditious retreat, false life, feather fall, find familiar, floating disk, fog cloud, grease, hideous laughter, identify, illusory script, jump, longstrider, mage armor, magic missile, protection from evil and good, shield, silent image, sleep, thunderwave, unseen servant|
 |**Level 2**|
-|acid arrow, alter self, arcane lock, arcanist’s magic aura, blindness/deafness, blur, continual flame, darkness, darkvision, detect thoughts, enlarge/reduce, flaming sphere, gentle repose, gust of wind, hold person, invisibility, knock, levitate, locate object, magic mouth, magic weapon, mirror image, misty step, ray of enfeeblement, rope trick, scorching ray, see invisibility, shatter, spider climb, suggestion, web|
+|acid arrow, alter self, arcane lock, arcanist’s magic aura, blindness/deafness, blur, continual flame, darkness, detect thoughts, enlarge/reduce, flaming sphere, gentle repose, gust of wind, hold person, invisibility, knock, levitate, locate object, magic mouth, magic weapon, mirror image, misty step, ray of enfeeblement, rope trick, scorching ray, see invisibility, shatter, spider climb, suggestion, web|
 |**Level 3**|
 |animate dead, bestow curse, blink, clairvoyance, counterspell, dispel magic, fear, fireball, fly, gaseous form, glyph of warding, haste, hypnotic pattern, lightning bolt, magic circle, major image, nondetection, phantom steed, protection from energy, remove curse, sending, sleet storm, slow, stinking cloud, tiny hut, tongues, vampiric touch, water breathing|
 |**Level 4**|
