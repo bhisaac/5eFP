@@ -383,7 +383,7 @@ It’s hard to make generalizations about humans, but your human character has t
 
 **Adaptable.** Choose and gain one species trait:
 - Choose an ability score unmodified by your ability score increase trait. The chosen ability score increases by +1.
-- You gain one feat. Additionally, choose a skill. Ability checks with the chosen skill gain advantage.
+- You gain one feat. ~~Additionally, choose an ability. Ability checks with the chosen ability gain advantage.~~
 
 **Age.** Humans reach adulthood in their late teens and live less than a century.
 
