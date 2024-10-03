@@ -2891,6 +2891,8 @@ Some creature minions have the critter tag. Critters are typically tiny or small
 
 **Bonus.** If any part of an encounter relies on a modifier to a d20 roll, it uses this number as the modifier. An encounter may list one or more ability scores with bonuses in its description. If the encounter rolls an ability check with one of the listed ability scores, add its corresponding bonus to the result.
 
+If an encounter relies on a passive bonus, determine the passive bonus by adding 10 to the value of this bonus.
+
 **Damage.** If any part of the encounter deals damage, it deals a number of points of damage equal to this number.
 
 **MAX Wounds.** If any part of the encounter can sustain points of damage, it gains MAX wounds equal to this number. Any PC action taken to end an encounter is considered damage. Thus, a diplomatic crisis may have a MAX wounds stat representing how many times the PCs must affect the encounter before it resolves.
@@ -3029,7 +3031,9 @@ The Saving Throws entry is reserved for creatures that are adept at resisting ce
 
 ### Abilities
 
-The Abilities entry is reserved for monsters proficient in one or more abilities. For example, a very perceptive and stealthy monster might have bonuses to WIS and CHA checks. If a monster lists abilities, add the corresponding bonus to related ability checks.
+The Abilities entry is reserved for monsters proficient in one or more abilities. For example, a very perceptive and stealthy monster might have bonuses to WIS and CHA checks. If a monster lists abilities, add LEVEL to related ability checks they make.
+
+Passive abilities also benefit from listed abilities. Increase a passive score with a listed ability by + LEVEL.
 
 Other modifiers might apply. For instance, a monster might have a larger-­than-­expected bonus (usually double its proficiency bonus) to account for its heightened expertise.
 
