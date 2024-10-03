@@ -4,7 +4,7 @@ The Five Energies Focus Practice (5eFP) is a tabletop role-playing game (TRPG) e
 
 > While the 5eFP System Reference Document (5eFP-SRD) is in development, this Introduction is aimed at TRPG players who want to explore a new way of playing with minimal focus on self-reflective and self-exploration practices. 5eFP-SRD appendices will include further information about 5eFP for those who want to understand and use 5eFP as a healing modality and philosophical worldview as we get closer to completing the final draft.
 
-_**Five Energies.**_ 5eFP is based on and inspired by the D20 fifth edition rules, which condenses all D20 fifth edition skills into five essentials universal to all TRPGS: Insight, Medicine, Perception, Performance, and Survival. Skills are energies we use to affect change in the 5eFP game and real life (RL). Five Energies also refers to five elemental qualities: earth, water, fire, air, and aether.
+_**Five Energies.**_ 5eFP is based on and inspired by the D20 fifth edition rules, which condenses all traditional D20 fifth edition skills into five essentials universal to all TRPGS: Insight, Medicine, Perception, Performance, and Survival. Skills are energies we use to affect change in the 5eFP game and real life (RL). Five Energies also refers to five elemental qualities: earth, water, fire, air, and aether.
 
 _**Focus.**_ Learning and gaining proficiency requires focus, time, and attention. Focus begins with cultivating greater awareness of thoughts, feelings, and instincts as sensations arise within the body. Reaching the next level of experience brings about greater awareness and deeper access to life's energy sourced from within ourselves.
 
@@ -260,7 +260,7 @@ Your dwarf character has an assortment of inborn abilities, part and parcel of d
 
 **Tool Proficiency.** You gain proficiency with the artisan’s tools of your choice: smith’s tools, brewer’s supplies, or mason’s tools.
 
-**Stonecunning.** You roll all skill checks used to determine the origin of stonework with advantage.
+**Stonecunning.** You roll all ability checks used to determine the origin of stonework with advantage.
 
 **Languages.** You can speak, read, and write Common and Dwarvish. Dwarvish is full of hard consonants and guttural sounds, and those characteristics spill over into whatever other language a dwarf might speak.
 
@@ -851,15 +851,15 @@ When	you	gain	this	feature,	you	also	learn	one language	of	your	choice	that	is	s
 
 ### Natural Explorer
 
-You	are	particularly	familiar	with	one	type	of	natural environment	and	are	adept	at	traveling	and surviving	in	such	regions.	Choose	one	type	of	favored	terrain: arctic,	coast,	desert,	forest, grassland,	mountain,	or	swamp.	While in your favored terrain, proficient skill checks	related	to	your	favored	terrain gain expertise. (Expertise allows you to add your level to your bonus twice.)
+You	are	particularly	familiar	with	one	type	of	natural environment	and	are	adept	at	traveling	and surviving	in	such	regions.	Choose	one	type	of	favored	terrain: arctic,	coast,	desert,	forest, grassland,	mountain,	or	swamp.	While in your favored terrain, proficient ability checks	related	to	your	favored	terrain gain expertise. (Expertise allows you to add your level to your bonus twice.)
 
 While	traveling	in	your	favored	terrain,	you	gain	the	following	benefits:
 - Difficult	terrain	doesn’t	slow	your	group’s	travel.
 - Your	group	can’t	become	lost	except	by	magical means.
 - Your	group always acts on the surprise round.
 - Your group may	move	stealthily at	a	normal	pace.
-- When	you	forage,	you	find	twice	as	much	food	as you	normally	would.
-- While	tracking	other	creatures,	you	also	learn their	exact	number,	their	sizes,	and	how	long	ago they	passed	through	the	area.
+- You	find	one additional resource when you gather resources.
+- While	tracking	other	creatures,	you	also	learn their	exact	number and	sizes	and	how	long	ago they	passed	through	the	area.
 
 # Rogue
 
@@ -1229,7 +1229,7 @@ BARD
 >> 
 >> The college’s members gather in libraries and sometimes in actual colleges, complete with classrooms and dormitories, to share their lore with one another. They also meet at festivals or affairs of state, where they can expose corruption, unravel lies, and poke fun at self-­important figures of authority.
 >> 
->> **_Bonus Proficiencies._** You gain proficiency with one skill of your choice.
+>> **_Bonus Proficiencies._** You gain proficiency with one ability of your choice.
 >> 
 >> **_Cutting Words._** You learn how to use your wit to distract, confuse, and otherwise sap the confidence and competence of others. When a creature that you can see within 12 squares of you makes an attack roll, an ability check, or a damage roll, you can use your reaction to expend one of your uses of Bardic Inspiration, rolling Bardic Inspiration action dice and subtracting the number rolled from the creature’s roll. You can choose to use this feature after the creature makes its roll, but before the GM determines whether the attack roll or ability check succeeds or fails, or before the creature deals its damage. The creature is immune if it can’t hear you or if it’s immune to being charmed.
 
@@ -1506,7 +1506,7 @@ Every story has a beginning. Your character’s background reveals where you cam
 
 Choosing a background provides you with traits and important story cues about your character’s identity. Backgrounds describe all events leading up to joining a life of adventure. Your starting gear represents the implements and reagents typical of your chosen background. How did you learn the skills of your class? Refer to your setting handbook for potential answers to these questions.
 
-The most important question to ask about your background is what changed? Why did you stop doing whatever your background describes and start adventuring? Where did you get the money to purchase your starting gear, or, if you come from a wealthy background, why don’t you have more money? How did you learn the skills of your class? What sets you apart from ordinary people who share your background?
+~~The most important question to ask about your background is what changed? Why did you stop doing whatever your background describes and start adventuring? Where did you get the money to purchase your starting gear, or, if you come from a wealthy background, why don’t you have more money? How did you learn the skills of your class? What sets you apart from ordinary people who share your background?~~
 
 The sample backgrounds presented here provide both concrete benefits (features, proficiencies, and languages) and roleplaying suggestions.
 
@@ -1583,7 +1583,7 @@ Whenever you move the party token, it bypasses obstacles and moves undetected th
 
 ~~You are a member of an artisan's guild, skilled in a particular field and closely associated with other artisans. You are a well-established part of the mercantile world, freed by talent and wealth from the constraints of a feudal social order. You learned your skills as an apprentice to a master artisan, under the sponsorship of your guild, until you became a master in your own right.~~
 
-As a member of an artisan's guild, you possess great skills in crafting and have established yourself among a community of like-minded individuals. Your talent and wealth have freed you from the restrictions of the feudal social order.
+As a member of an artisan's guild, you possess excellent crafting skills and have established yourself among a community of like-minded individuals. Your talent and wealth have freed you from the restrictions of the feudal social order.
 
 **Tool Proficiencies:** One type of artisan's tools
 
@@ -1760,7 +1760,7 @@ Fantasy gaming worlds are a vast tapestry made up of many different cultures, ea
 
 The Armor table shows the cost, weight, and other properties of the common types of armor worn in fantasy gaming worlds.
 
-***Armor Proficiency.*** Anyone can put on a suit of armor or strap a shield to an arm. Only those proficient in the armor’s use know how to wear it effectively, however. Your class gives you proficiency with certain types of armor. If you wear armor that you lack proficiency with, you have disadvantage on any skill check, saving throw, or attack roll that involves STR or DEX, and you can’t cast spells.
+***Armor Proficiency.*** Anyone can put on a suit of armor or strap a shield to an arm. Only those proficient in the armor’s use know how to wear it effectively, however. Your class gives you proficiency with certain types of armor. If you wear armor that you lack proficiency with, you have disadvantage on any ability check, saving throw, or attack roll that involves STR or DEX, and you can’t cast spells.
 
 ***Armor Class (AC).*** Armor protects its wearer from attacks. The armor (and shield) you wear determines your AC.
 
@@ -1817,7 +1817,7 @@ Medium armor offers more protection than light armor, but it also impairs moveme
 ||||
 |Full Plate|Disadvantage|12⛁|
 
-Armor listed with disadvantage imposes disadvantage to any Performance skill check used for quick, agile, and stealthy actions while the armor is equipped.
+Armor listed with disadvantage imposes disadvantage to any ability check used for quick, agile, and stealthy actions while the armor is equipped.
 
 When wearing armor that is listed as having Max DEX +2, your Dexterity modifier can only modify your Armor Class (AC) by a maximum of +2. This means that if you have DEX +3 and you wear medium armor with Max DEX +2, you can only apply a +2 modifier to your AC, and the remaining +1 modifier is ignored.
 
@@ -2348,14 +2348,6 @@ Whenever you choose the crafting downtime activity, you can choose to create any
 
 **.**
 
-### Practicing a Profession
-You gain the benefits of rest and repairs without spending 1 Coin.
-
-Roll a Performance check and 
-
-If you are a member of an organization that can provide gainful employment, such as a temple or a thieves’ guild, you earn enough to support a comfortable lifestyle instead.
-If you have proficiency in the Performance skill and put your performance skill to use during your downtime, you earn enough to support a wealthy lifestyle instead.
-
 ### Recuperating
 
 
@@ -2363,15 +2355,6 @@ If you have proficiency in the Performance skill and put your performance skill 
 
 
 ### Training
-
-
-
-~~Common coins come in several different denominations based on the relative worth of the metal from which they are made. The three most common coins are the gold piece (gp), the silver piece (sp), and the copper piece (cp).
-With one gold piece, a character can buy a bedroll, 50 feet of good rope, or a goat. A skilled (but not exceptional) artisan can earn one gold piece a day. The gold piece is the standard unit of measure for wealth, even if the coin itself is not commonly used. When merchants discuss deals that involve goods or services worth hundreds or thousands of gold pieces, the transactions don’t usually involve the exchange of individual coins. Rather, the gold piece is a standard measure of value, and the actual exchange is in gold bars, letters of credit, or valuable goods.
-One gold piece is worth ten silver pieces, the most prevalent coin among commoners. A silver piece buys a laborer’s work for half a day, a flask of lamp oil, or a night’s rest in a poor inn.
-One silver piece is worth ten copper pieces, which are common among laborers and beggars. A single copper piece buys a candle, a torch, or a piece of chalk.
-In addition, unusual coins made of other precious metals sometimes appear in treasure hoards. The electrum piece (ep) and the platinum piece (pp) originate from fallen empires and lost kingdoms, and they sometimes arouse suspicion and skepticism when used in transactions. An electrum piece is worth five silver pieces, and a platinum piece is worth ten gold pieces.
-A standard coin weighs about a third of an ounce, so fifty coins weigh a pound.~~
 
 ---
 
@@ -2846,16 +2829,16 @@ When PCs form a group, they choose one of three beneficial status effects that a
 ### Defender
 
 - **Act First.** At the start of an encounter and before any initiative is rolled, you take your turn first. After completing your turn, all initiatives are rolled as normal. Skip round 1, resuming normal gameplay afterward.
-- **Taunt.** Your attacks, opposed or contested skills, spells, and features are difficult to ignore. If you attack, damage, or otherwise affect a minion, elite, or boss, they gain the taunted condition (see Conditions). Minions, elites, and bosses automatically gain the taunted condition at the beginning of their turn if you are the closest visible target. Minions, elites, and bosses lose the taunted condition whenever you are unconscious or incapacitated.
+- **Taunt.** Your attacks, opposed or contested ability checks, spells, and features are difficult to ignore. If you attack, damage, or otherwise affect a minion, elite, or boss, they gain the taunted condition (see Conditions). Minions, elites, and bosses automatically gain the taunted condition at the beginning of their turn if you are the closest visible target. Minions, elites, and bosses lose the taunted condition whenever you are unconscious or incapacitated.
 - **Soak.** At the beginning of a combat encounter, you gain Bolster 2.
 
 ### Healer
 
-- The first time you target a creature with a spell, attack, ability check, or feature on each of your turns, resolve the spell, attack, or feature as normal. Afterward, you may choose a different creature within 1 square of your target. The chosen creature receives 1 point of healing and may make an additional saving throw to end one ongoing negative condition.
+- The first time you target a creature with a spell, attack, ability check, or feature on each of your turns, resolve the spell, attack, or feature as normal. Afterward, you may choose a different creature within 1 square of your target. The chosen creature receives 1 point of healing and may make an additional ability check to end one ongoing negative condition.
 
 ### Damage
 
-- The first time you target a creature with a spell, attack, ability check, or feature on each of your turns, resolve the spell, attack, or feature as normal. Afterward, you may choose a different creature within 1 square of your target. The chosen creature takes 1 point of damage. The damage type remains the same or bludgeoning (if no type is designated).
+- The first time you target a creature with a spell, attack, ability check, or feature on each of your turns, resolve the spell, attack, or feature as normal. Afterward, you may choose a different creature within 1 square of your target. The chosen creature takes 1 point of damage. The damage type remains the same or bludgeoning (if no damage type is indicated).
 
 ## Group Token
 
@@ -2904,9 +2887,9 @@ Some creature minions have the critter tag. Critters are typically tiny or small
 
 **Armor Class (AC).** If the PCs take action against an encounter resulting in a melee or ranged attack, they must hit an AC equal to this number to succeed.
 
-**Difficulty Class (DC).** If an encounter requires a saving throw or skill check, set the DC to this number.
+**Difficulty Class (DC).** If an encounter requires an ability check, set the DC to this number.
 
-**Bonus.** If any part of an encounter relies on a modifier to a d20 roll, it uses this number as the modifier. An encounter may list one or more ability scores with bonuses in its description. If the encounter rolls an ability check with one of the designated ability scores, add its corresponding bonus to the result.
+**Bonus.** If any part of an encounter relies on a modifier to a d20 roll, it uses this number as the modifier. An encounter may list one or more ability scores with bonuses in its description. If the encounter rolls an ability check with one of the listed ability scores, add its corresponding bonus to the result.
 
 **Damage.** If any part of the encounter deals damage, it deals a number of points of damage equal to this number.
 
@@ -2915,16 +2898,18 @@ Some creature minions have the critter tag. Critters are typically tiny or small
 **Forced Movement.** If any part of the encounter imposes forced movement, this number represents the number of squares of forced movement. If no direction is stated, the movement is a push.
 
 ## Customizing Encounters
+
 The encounter statistics provided represent average values. Any number of statistics may be increased by up to +(LEVEL), provided the same amount decreases another statistic. Only stats used in an encounter can be customized. For example, during a level 1 monster encounter, the GM increases an awakened shrub minion's AC by +1. The cost of increasing the minion's AC is paid by the GM choosing to decrease the awakened shrub minion's attack modifier by -1. In this example, the GM couldn't decrease the DC stat by -1 because the awakened shrub minion doesn't possess a stat using a DC. However, if the encounter includes a condition or effect requiring a saving throw to resist, the DC stat can be decreased by -1.
 
 A minion's MAX wounds and damage cannot be customized.
 
 Encounter elements cannot be reduced below the following values:
+- **AC** 12 (minion), 13 (elite), 14 (boss)
+- **Damage** 1
+- **DC** 12 (minion), 13 (elite), 14 (boss)
 - **Speed** 2
 - **MAX Wounds (elite)** 2
 - **MAX Wounds (boss)** 5 
-- **DC** 12 (minion), 13 (elite), 14 (boss)
-- **Damage** 1
 
 # Encounter Type
 
@@ -3038,17 +3023,13 @@ A monster that has a flying speed can use all or part of its movement to fly. So
 
 A monster that has a swimming speed doesn’t need to spend extra movement to swim.
 
-### Ability Scores
-
-Every monster has six ability scores (STR, DEX, CON, INT, WIS, and CHA) and corresponding modifiers.
-
 ### Saving Throws
 
 The Saving Throws entry is reserved for creatures that are adept at resisting certain kinds of effects. For example, a creature that isn’t easily charmed or frightened might gain a bonus on its WIS saving throws. Most creatures don’t have special saving throw bonuses, in which case this section is absent.
 
-### Skills
+### Abilities
 
-The Skills entry is reserved for monsters that are proficient in one or more skills. For example, a monster that is very perceptive and stealthy might have bonuses to Perception and Performance checks.
+The Abilities entry is reserved for monsters proficient in one or more abilities. For example, a very perceptive and stealthy monster might have bonuses to WIS and CHA checks. If a monster lists abilities, add the corresponding bonus to related ability checks.
 
 Other modifiers might apply. For instance, a monster might have a larger-­than-­expected bonus (usually double its proficiency bonus) to account for its heightened expertise.
 
@@ -4134,7 +4115,6 @@ Liches share the following statistics.
 - **Damage Immunities** poison
 - **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
 - **Senses** truesight 12 squares, passive Perception 12
-- **Skills** Insight (4 + LEVEL), Perception (2 + LEVEL)
 - **Languages** Common. A lich knows up to 4 additional languages.
 - **Speed** 6
 
@@ -4213,8 +4193,8 @@ Ravens share the following statistics.
 Description. TBA
 
 Trolls share the following statistics.
-- **Senses** darkvision 60 feet, passive perception 12
-- **Skills** WIS +2
+- **Abilities** WIS +2
+- **Senses** darkvision 12 squares, passive WIS 12
 - **Languages** Giant
 - **Speed** 6
 
@@ -4397,48 +4377,6 @@ The following definitions specify what happens to a creature while it is subject
 - Attack rolls against the creature have advantage.
 - Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
 
-# 5eFP SRD \[playtest]
-
-Welcome to the fifth edition focus practice (5eFP), a new tabletop roleplaying game (TRPG) experience combining fun and immersive gameplay with deepening levels of self-exploration.
-
-Inspired by the d20 fifth edition rules, 5eFP emerges as a completely new body of work whose core rules are system agnostic. Freely use these rules within any interactive storytelling game seeking 5eFP wisdom.
-
-***Focus.*** Learning and gaining proficiency requires focus, time, and attention. Focus begins with cultivating greater awareness of thoughts, feelings, and instincts as sensations arise within the body. Reaching the next level of experience brings about greater awareness and deeper access to life's energy sourced from within ourselves.
-
-***Practice.*** Focus alone isn't enough. Results require real doing through regular and consistent gameplay. We transform TRPGs into a mindful practice. Practices are activities we return to because they feed us in some way. Successful practices provide a kind of nutrient missing in other activities. Regularly playing 5eFP games from beginning to end, fully conscious and aware at least once per month, is our practice.
-
-### THE FIVE SKILLS
-
-The five skills are used in all TRPGs and interactive storytelling games. 5eFP skills grant deeper story access and greater player agency while encouraging their growth within the player characters (PCs) and our real life (RL). The five skills remind us of our abilities and our free agency.
-
-### INSPIRATION
-
-5eFP games use inspiration points. At the start of each game, the game master (GM) awards one inspiration point to PCs with one or fewer inspiration points. Each player (GM included) then chooses and dedicates two of the five skills by saying them out loud to one another.
-
-PCs may spend inspiration at any time during the game to activate an inspired version of a 5eFP skill dedicated at the beginning of the game. PCs regain use of this feature at the beginning of their next turn.
-
-Alternatively, PCs may save up to 2 inspiration points for later. Any unused inspiration points carry over to the next game.
-
-Items, effects, or features within the game may provide exceptions to these rules.
-
-### SKILL DESCRIPTIONS
-
-***Insight.*** Your insight imbues inward sight, granting vision beneath surface impressions.
->>> INSPIRED: Your character can easily determine sincerity, true motives, and intentions within the current scene. Illusions, misdirections, disguises, or actions with the intent to deceive appear transparent to you. Your GM refunds your inspiration if no additional information is gained.
-
-***Medicine.*** Your medicine stabilizes wounds.
->>> INSPIRED: Choose any number of targets your character can see within 30 feet who are unconscious or dying. Each target immediately stabilizes and wakes up with minimum health.
-
-***Perception.*** Your perception enables you to spot, hear, or otherwise detect the presence of something.
->>> INSPIRED: Your character receives all available pieces of information regarding the current scene. Hidden doors, creatures, traps, ambushes, whispered conversations. Anything arising from sense data or information gained through the five senses. Your GM refunds your inspiration if no additional information is gained.
-
-***Performance.*** Your performance allows the satisfying completion of one action.
->>> INSPIRED: Whenever your character declares an action on their turn, you may use this feature to decide the outcome of the action and whether or not it was successful. You must choose to use your inspiration in this way before rolling any dice and before the game master declares the result of your action.
-
-***Survival.*** Your survival awards expanded capacities, allowing you to identify and acquire new advantages, qualities, or skills.
->>> INSPIRED: Your character finds a path leading to another desired location on the current map. The revealed path is one of many potential pathways. This is the swiftest path. </br></br>
->>> Once per game session, you can use your inspired 5eFP Survival to activate the inspired version of a 5eFP skill you didn't dedicate at the beginning of the game.
-
 ---
 
 ### RECOMMENDED READING
@@ -4459,7 +4397,9 @@ TDB
 ---
 
 # Sample Setting Handbook
+
 ## Enchanted Forest
+
 The Enchanted Forest's beloved Enchantress Queen (Queen) falls gravely ill as waves of weary and injured refugees enter through all four charmed gates of Castle Somnam (HQ), bringing harrowed tales of encroaching darkness. The Nightmare, a darkly magical reality overlaying the world and the realm known as the Plane of Shadow (Shadowfell), breached the Enchanted Forest's borders, spreading its long shadows across the land and transforming all it touched into strange and twisted reflections. The realm is no longer as it once was. Castle Somnam remains the only location unaffected by the Nightmare, thanks to the monarch's mystical protections imbued within the city castle's walls. An elite assembly of champions, known as the Queen's Heralds (Heralds), are charged with keeping the realm and its people healthy, thriving, and safe from harm.
 
 You joined the Queen's Heralds and now, just before your graduation, you are called to participate in one important, final test: you must travel to the Crypt of the Continual Flame on foot deep into the Megalithic Highlands. You and your friends must make the journey alone unaided by your fellow students, peers, and instructors. You must make your way to the Crypt using a simple map. There, you will light your torch within the Hall of the Continual Flame and return it as proof of completion. Only then do you officially become a Herald.
