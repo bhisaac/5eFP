@@ -2856,11 +2856,89 @@ Whether you’re striking with a weapon, firing a weapon at range, or making an 
 
 If there’s ever any question whether something you’re doing counts as an attack, the rule is simple: if you’re making an attack roll, you’re making an attack.
 
-## Two-Weapon Fighting
+## Attack Rolls
 
-When you take the Attack action and attack with a light melee weapon that you're holding in one hand, you can use a bonus action to attack with a different light melee weapon that you're holding in the other hand.
+When you make an attack, your attack roll determines whether the attack hits or misses. To make an attack roll, roll a d20 and add the appropriate modifiers. If the total of the roll plus modifiers equals or exceeds the target’s Armor Class (AC), the attack hits. The AC of a character is determined at character creation, whereas the AC of a monster is usually determined by encounter type (minion, elite, boss) and LEVEL, though your GM may modify AC values on some monsters.
 
-If	either	weapon	has	the	thrown	property,	you	can	throw	the	weapon,	instead	of	making	a	melee	attack	with	it.
+### Modifiers to the Roll
+
+When a character makes an attack roll, the two most common modifiers to the roll are an ability score and LEVEL. When a monster makes an attack roll, it uses a modifier usually determined by encounter type (minion, elite, boss) and LEVEL. However, your GM may adjust modifiers on some monsters.
+
+**Ability Score.** The ability score used for a weapon attack is usually STR or DEX (or WIS for monks). At character creation, you choose which is used. Monsters usually use the larger of the two ability scores for a weapon attack.
+
+Some spells also require an attack roll. The ability score used for a spell attack depends on the spellcasting ability of the spellcaster.
+
+**LEVEL.** You add LEVEL to your attack roll when you attack using a weapon with which you have proficiency, as well as when you attack with a spell.
+
+### Rolling 1 or 20
+
+Sometimes fate blesses or curses a combatant, causing the novice to hit and the veteran to miss.
+
+If the d20 roll for an attack is a 20, the attack hits regardless of any modifiers or the target’s AC. This is called a critical hit.
+
+If the d20 roll for an attack is a 1, the attack misses regardless of any modifiers or the target’s AC.
+
+### Unseen Attackers and Targets
+
+Combatants often try to escape their foes’ notice by hiding, casting the _invisibility_ spell, or lurking in magical darkness.
+
+When you attack a target that you can’t see, you have disadvantage on the attack roll. This is true whether you’re guessing the target’s location or you’re targeting a creature you can hear but not see. If the target isn’t in the location you targeted, you automatically miss, but the GM typically just says that the attack missed, not whether you guessed the target’s location correctly.
+
+When a creature can’t see you, you have advantage on attack rolls against it. If you are hidden—both unseen and unheard—when you make an attack, you give away your location when the attack hits or misses.
+
+### Ranged Attacks
+
+When you make a ranged attack, you fire a bow or a crossbow, hurl a handaxe, or otherwise send projectiles to strike a foe at a distance. A monster might shoot spines from its tail. Many spells also involve making a ranged attack.
+
+#### Range
+
+You can make ranged attacks only against targets within a specified range.
+
+If a ranged attack, such as one made with a spell, has a single range, you can’t attack a target beyond this range.
+
+Some ranged attacks, such as those made with a longbow or a shortbow, have two ranges. The smaller number is the normal range, and the larger number is the long range. Your attack roll has disadvantage when your target is beyond normal range, and you can’t attack a target beyond the long range.
+
+#### Ranged Attacks in Close Combat
+
+Aiming a ranged attack is more difficult when a foe is next to you. When you make a ranged attack with a weapon, a spell, or some other means, you have disadvantage on the attack roll if you are within 1 square of a hostile creature who can see you and who isn’t incapacitated.
+
+### Melee Attacks
+
+Used in hand‑to‑hand combat, a melee attack allows you to attack a foe within your reach. A melee attack typically uses a handheld weapon such as a sword, a warhammer, or an axe. A typical monster makes a melee attack when it strikes with its claws, horns, teeth, tentacles, or other body part. A few spells also involve making a melee attack.
+
+Most creatures have a 1‑square **reach** and can thus attack targets within 1 square of them when making a melee attack. Certain creatures (typically those larger than Medium) have melee attacks with a greater reach than 1 square, as noted in their descriptions.
+
+Instead of using a weapon to make a melee weapon attack, you can use an **unarmed strike**: a punch, kick, head‑butt, or similar forceful blow (none of which count as weapons). On a hit, an unarmed strike deals 1 point of bludgeoning damage. You are proficient with your unarmed strikes.
+
+#### Opportunity Attacks
+
+In a fight, everyone is constantly watching for a chance to strike an enemy who is fleeing or passing by. Such a strike is called an opportunity attack.
+
+You can make an opportunity attack when a hostile creature that you can see moves out of your reach. To make the opportunity attack, you use your reaction to make one melee attack against the provoking creature. The attack occurs right before the creature leaves your reach.
+
+You can avoid provoking an opportunity attack by taking the Disengage action. You also don’t provoke an opportunity attack when you teleport or when someone or something moves you without using your movement, action, or reaction. For example, you don’t provoke an opportunity attack if an explosion hurls you out of a foe’s reach or if gravity causes you to fall past an enemy.
+
+#### Grappling
+
+When you want to grab a creature or wrestle with it, you can use the Attack action to make a special melee attack, a grapple. If you’re able to make multiple attacks with the Attack action, this attack replaces one of them.
+
+The target of your grapple must be no more than one size larger than you and must be within your reach. Using at least one free hand, you try to seize the target by making a grapple check instead of an attack roll: a STR check contested by the target’s STR or DEX check (the target chooses the ability to use). If you succeed, you subject the target to the grappled condition (see appendix PH-­A). The condition specifies the things that end it, and you can release the target whenever you like (no action required).
+
+**Escaping a Grapple.** A grappled creature can use its action to escape. To do so, it must succeed on a STR or DEX check contested by your STR check.
+
+**Moving a Grappled Creature.** When you move, you can drag or carry the grappled creature with you, but your speed is halved, unless the creature is two or more sizes smaller than you.
+
+> ### Contests in Combat
+>>
+>> Battle often involves pitting your prowess against that of your foe. Such a challenge is represented by a contest. This section includes the most common contests that require an action in combat: grappling and shoving a creature. The GM can use these contests as models for improvising others.
+
+#### Shoving a Creature
+
+TBA
+
+### Two-Weapon Fighting
+
+When you take the Attack action and attack with a light weapon that you're holding in one hand, you can use a bonus action to attack with a different light weapon that you're holding in the other hand.
 
 # Encounters
 
