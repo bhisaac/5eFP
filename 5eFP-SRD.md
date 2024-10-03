@@ -956,7 +956,7 @@ Whenever you successfully upgrade a Magic feature (i.e., "Magic I", "Magic II", 
 
 #### Spellcasting Ability
 
-Charisma (CHA) is your spellcasting ability for your sorcerer spells,	since	the	power	of	your	magic	relies	on	your	ability	to	project	your	will	into	the	world. You use your CHA whenever a spell refers to your spellcasting ability. In addition, you use your CHA when setting the saving throw DC for a sorcerer spell you cast and when making an attack roll with one.
+Charisma (CHA) is your spellcasting ability for your sorcerer spells,	since	the	power	of	your	magic	relies	on	your	ability	to	project	your	will	into	the	world. You use your CHA whenever a spell refers to your spellcasting ability. In addition, you use your CHA when setting the DC for a sorcerer spell you cast and when making an attack roll with one.
 
 **Spell DC** = 10 + CHA
 
@@ -1416,7 +1416,7 @@ SORCERER
 >>
 >> **_Extended Spell._** When you cast a spell that has a duration of encounter, you can spend 1 sorcery point to extend its duration to recall.
 >>
->> **_Heightened Spell._** When you cast a spell that forces a creature to make a saving throw to resist its effects, you can spend 3 sorcery points to give one target of the spell disadvantage on its first saving throw made against the spell.
+>> **_Heightened Spell._** When you cast a spell that forces a creature to make an ability check to resist its effects, you can spend 3 sorcery points to give one target of the spell disadvantage on its first ability check made against the spell.
 >>
 >> **_Quickened Spell._** When you cast a spell that has a casting time of 1 action, you can spend 2 sorcery points to change the casting time to 1 bonus action for this casting.
 >>
@@ -1760,7 +1760,7 @@ Fantasy gaming worlds are a vast tapestry made up of many different cultures, ea
 
 The Armor table shows the cost, weight, and other properties of the common types of armor worn in fantasy gaming worlds.
 
-***Armor Proficiency.*** Anyone can put on a suit of armor or strap a shield to an arm. Only those proficient in the armor’s use know how to wear it effectively, however. Your class gives you proficiency with certain types of armor. If you wear armor that you lack proficiency with, you have disadvantage on any ability check, saving throw, or attack roll that involves STR or DEX, and you can’t cast spells.
+***Armor Proficiency.*** Anyone can put on a suit of armor or strap a shield to an arm. Only those proficient in the armor’s use know how to wear it effectively, however. Your class gives you proficiency with certain types of armor. If you wear armor that you lack proficiency with, you have disadvantage on any ability check or attack roll that involves STR or DEX, and you can’t cast spells.
 
 ***Armor Class (AC).*** Armor protects its wearer from attacks. The armor (and shield) you wear determines your AC.
 
@@ -1953,7 +1953,7 @@ This section describes items that have special rules or require further explanat
 
 **_Alchemist’s Fire._** This sticky, adhesive fluid ignites when exposed to air. As an action, you can throw this flask up to 20 feet, shattering it on impact. Make a ranged attack against a creature or object, treating the alchemist's fire as an improvised weapon. On a hit, the target takes 1d4 fire damage at the start of each of its turns. A creature can end this damage by using its action to make a DC 10 Dexterity check to extinguish the flames.
 
-**_Antitoxin._** A creature that drinks this vial of liquid gains advantage on saving throws against poison for 1 hour. It confers no benefit to undead or constructs.
+**_Antitoxin._** A creature that drinks this vial of liquid gains advantage on ability checks against poison for 1 hour. It confers no benefit to undead or constructs.
 
 **_Arcane Focus._** An arcane focus is a special item—an orb, a crystal, a rod, a specially constructed staff, a wand-­like length of wood, or some similar item—designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus.
 
@@ -1991,9 +1991,9 @@ Holy Water. As an action, you can splash the contents of this flask onto a creat
 
 A cleric or paladin may create holy water by performing a special ritual. The ritual takes 1 hour to perform, uses 25 gp worth of powdered silver, and requires the caster to expend a 1st-­‐‑level spell slot.
 
-Hunting Trap. When you use your action to set it, this trap forms a saw-­‐‑toothed steel ring that snaps shut when a creature steps on a pressure plate in the center. The trap is affixed by a heavy chain to an immobile object, such as a tree or a spike driven into the ground. A creature that steps on the plate must succeed on a DC 13 Dexterity saving throw or take 1d4 piercing damage and stop moving. Thereafter, until the creature breaks free of the trap, its movement is limited by the length of the chain (typically 3 feet long). A creature can use its action to make a DC 13 Strength check, freeing itself or another creature within its reach on a success. Each failed check deals 1 piercing damage to the trapped creature.
+Hunting Trap. When you use your action to set it, this trap forms a saw-­toothed steel ring that snaps shut when a creature steps on a pressure plate in the center. The trap is affixed by a heavy chain to an immobile object, such as a tree or a spike driven into the ground. A creature that steps on the plate must succeed on a DC 13 DEX check or take 1d4 piercing damage and stop moving. Thereafter, until the creature breaks free of the trap, its movement is limited by the length of the chain (typically 3 feet long). A creature can use its action to make a DC 13 STR check, freeing itself or another creature within its reach on a success. Each failed check deals 1 piercing damage to the trapped creature.
 
-Lamp. A lamp casts bright light in a 15-­‐‑foot radius and dim light for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil.
+Lamp. A lamp casts bright light in a 3-square radius and dim light for an additional 6 squares. Once lit, it burns for 6 hours on a flask (1 pint) of oil.
 
 Lantern, Bullseye. A bullseye lantern casts bright light in a 60-­‐‑foot cone and dim light for an additional 60 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil.
 
@@ -2009,7 +2009,7 @@ Mess Kit. This tin box contains a cup and simple cutlery. The box clamps togethe
 
 Oil. Oil usually comes in a clay flask that holds 1 pint. As an action, you can splash the oil in this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. Make a ranged attack against a target creature or object, treating the oil as an improvised weapon. On a hit, the target is covered in oil. If the target takes any fire damage before the oil dries (after 1 minute), the target takes an additional 5 fire damage from the burning oil. You can also pour a flask of oil on the ground to cover a 5-­‐‑foot-­‐‑square area, provided that the surface is level. If lit, the oil burns for 2 rounds and deals 5 fire damage to any creature that enters the area or ends its turn in the area. A creature can take this damage only once per turn.
 
-Poison, Basic. You can use the poison in this vial to coat one slashing or piercing weapon or up to three pieces of ammunition. Applying the poison takes an action. A creature hit by the poisoned weapon or ammunition must make a DC 10 Constitution saving throw or take 1d4 poison damage. Once applied, the poison retains potency for 1 minute before drying.
+Poison, Basic. You can use the poison in this vial to coat one slashing or piercing weapon or up to three pieces of ammunition. Applying the poison takes an action. A creature hit by the poisoned weapon or ammunition must make a DC 10 CON check or take an additional 1 point of poison damage. Once applied, the poison retains potency for the rest of the encounter before drying.
 
 Potion of Healing. A character who drinks the magical red fluid in this vial regains 2d4 + 2 hit points. Drinking or administering a potion takes an action.
 
@@ -2403,7 +2403,7 @@ Six abilities provide a quick description of every creature’s physical and men
 
 Is a character muscle-­bound and insightful? Brilliant and charming? Nimble and hardy? Ability scores define these qualities—a creature’s assets as well as weaknesses.
 
-The three main rolls of the game—the ability check, the saving throw, and the attack roll—rely on the six ability scores. The book’s introduction describes the basic rule behind these rolls: roll a d20, add an ability modifier derived from one of the six ability scores, and compare the total to a target number.
+The two main rolls of the game—the ability check and the attack roll—rely on the six ability scores. The book’s introduction describes the basic rule behind these rolls: roll a d20, add an ability modifier derived from one of the six ability scores, and compare the total to a target number.
 
 ## Ability Scores and Modifiers
 
@@ -2413,7 +2413,7 @@ A score of +0 is the normal human average, but adventurers and many monsters are
 
 ## Advantage and Disadvantage
 
-Sometimes a special ability or spell tells you that you have advantage or disadvantage on an ability check, a saving throw, or an attack roll. When that happens, you roll a second d20 when you make the roll. Use the higher of the two rolls if you have advantage, and use the lower roll if you have disadvantage. For example, if you have disadvantage and roll a 17 and a 5, you use the 5. If you instead have advantage and roll those numbers, you use the 17.
+Sometimes a special ability or spell tells you that you have advantage or disadvantage on an ability check or an attack roll. When that happens, you roll a second d20 when you make the roll. Use the higher of the two rolls if you have advantage, and use the lower roll if you have disadvantage. For example, if you have disadvantage and roll a 17 and a 5, you use the 5. If you instead have advantage and roll those numbers, you use the 17.
 
 If multiple situations affect a roll and each one grants advantage or imposes disadvantage on it, you don’t roll more than one additional d20. If two favorable situations grant advantage, for example, you still roll only one additional d20.
 
@@ -2425,7 +2425,7 @@ You usually gain advantage or disadvantage through the use of special abilities,
 
 ## Proficiency Bonus
 
-Characters have a proficiency bonus, which is equal to their LEVEL. Monsters also have this bonus. The bonus is used in the rules on ability checks, saving throws, and attack rolls.
+Characters have a proficiency bonus, which is equal to their LEVEL. Monsters may also have this bonus. The bonus is used in the rules on ability checks and attack rolls.
 
 Your proficiency bonus is typically added to a single die roll or other number once. For example, if two different rules say you can add your proficiency bonus to a WIS check, you nevertheless add the bonus only once when you make the check.
 
@@ -2433,7 +2433,7 @@ Occasionally, your proficiency bonus might be added one additional time (to a ma
 
 By the same token, if a feature or effect allows you to add an additional proficiency bonus when making an ability check that wouldn’t normally benefit from your proficiency bonus, you still don’t add the bonus to the check. For that check, you do not have a proficiency bonus. Only ability checks you are proficient with gain an additional proficiency bonus. For instance, if you lack proficiency with CON, you gain no benefit from a feature that lets you add an additional proficiency bonus when you make CON ability checks.
 
-In general, you don’t add an additional proficiency bonus for attack rolls or saving throws. If a feature or effect allows you to do so, these same rules apply.
+In general, you don’t add an additional proficiency bonus for attack rolls or ability checks. If a feature or effect allows you to do so, these same rules apply.
 
 ## Ability Checks
 
@@ -2652,7 +2652,7 @@ The GM might call for a Wisdom check when you try to accomplish tasks like the f
 
 #### Spellcasting Ability
 
-Clerics, druids, and rangers use WIS as their spellcasting ability, which helps determine the saving throw DCs of spells they cast.
+Clerics, druids, and rangers use WIS as their spellcasting ability, which helps determine the DCs of spells they cast.
 
 ### Charisma (CHA)
 
@@ -2721,7 +2721,7 @@ A creature with blindsight can perceive its surroundings without relying on sigh
 
 ### Truesight
 
-A creature with truesight can, out to a specific range, see in magical darkness, see invisible creatures and objects, automatically detect visual illusions and succeed on saving throws against them, and perceives the original form of a shapechanger or a creature that is transformed by magic.
+A creature with truesight can, out to a specific range, see in magical darkness, see invisible creatures and objects, automatically detect visual illusions and succeed on ability checks against them, and perceives the original form of a shapechanger or a creature that is transformed by magic.
 
 Furthermore, the creature can see into the Ethereal Plane.
 
@@ -2901,7 +2901,7 @@ If an encounter relies on a passive bonus, determine the passive bonus by adding
 
 ## Customizing Encounters
 
-The encounter statistics provided represent average values. Any number of statistics may be increased by up to +(LEVEL), provided the same amount decreases another statistic. Only stats used in an encounter can be customized. For example, during a level 1 monster encounter, the GM increases an awakened shrub minion's AC by +1. The cost of increasing the minion's AC is paid by the GM choosing to decrease the awakened shrub minion's attack modifier by -1. In this example, the GM couldn't decrease the DC stat by -1 because the awakened shrub minion doesn't possess a stat using a DC. However, if the encounter includes a condition or effect requiring a saving throw to resist, the DC stat can be decreased by -1.
+The encounter statistics provided represent average values. Any number of statistics may be increased by up to +(LEVEL), provided the same amount decreases another statistic. Only stats used in an encounter can be customized. For example, during a level 1 monster encounter, the GM increases an awakened shrub minion's AC by +1. The cost of increasing the minion's AC is paid by the GM choosing to decrease the awakened shrub minion's attack modifier by -1. In this example, the GM couldn't decrease the DC stat by -1 because the awakened shrub minion doesn't possess a stat using a DC. However, if the encounter includes a condition or effect requiring an ability check to resist, the DC stat can be decreased by -1.
 
 A minion's MAX wounds and damage cannot be customized.
 
@@ -3025,10 +3025,6 @@ A monster that has a flying speed can use all or part of its movement to fly. So
 
 A monster that has a swimming speed doesn’t need to spend extra movement to swim.
 
-### Saving Throws
-
-The Saving Throws entry is reserved for creatures that are adept at resisting certain kinds of effects. For example, a creature that isn’t easily charmed or frightened might gain a bonus on its WIS saving throws. Most creatures don’t have special saving throw bonuses, in which case this section is absent.
-
 ### Abilities
 
 The Abilities entry is reserved for monsters proficient in one or more abilities. For example, a very perceptive and stealthy monster might have bonuses to WIS and CHA checks. If a monster lists abilities, add LEVEL to related ability checks they make.
@@ -3067,7 +3063,7 @@ A monster with tremorsense can detect and pinpoint the origin of vibrations with
 
 #### Truesight
 
-A monster with truesight can, out to a specific range, see in normal and magical darkness, see invisible creatures and objects, automatically detect visual illusions and succeed on saving throws against them, and perceive the original form of a shapechanger or a creature that is transformed by magic. Furthermore, the monster can see into the Ethereal Plane within the same range.
+A monster with truesight can, out to a specific range, see in normal and magical darkness, see invisible creatures and objects, automatically detect visual illusions and succeed on ability checks against them, and perceive the original form of a shapechanger or a creature that is transformed by magic. Furthermore, the monster can see into the Ethereal Plane within the same range.
 
 ### Languages
 
@@ -3738,7 +3734,7 @@ For example, if two clerics cast _bless_ on the same target, that character gain
 |**Components:** V, S|
 |**Duration:** Instantaneous|
 ||
-|You hurl a bubble of acid. Choose one creature within range, or choose two creatures within range that are within 1 square of each other. A target must succeed on a DEX saving throw or take 1 acid damage.|
+|You hurl a bubble of acid. Choose one creature within range, or choose two creatures within range that are within 1 square of each other. A target must succeed on a DEX check or take 1 acid damage.|
 
 #### Aid
 |_2nd-level abjuration_|
@@ -3785,7 +3781,7 @@ Your unarmed strikes deal 1 bludgeoning, piercing, or slashing damage, as approp
 |**Components:** V, S, M (a morsel of food)|
 |**Duration:** Recall|
 ||
-|This spell lets you convince a beast that you mean it no harm. Choose a beast that you can see within range. It must see and hear you. If the beast's Intelligence is 4 or higher, the spell fails. Otherwise, the beast must succeed on a Wisdom saving throw or be charmed by you for the spell's duration. If you or one of your companions harms the target, the spells ends.|
+|This spell lets you convince a beast that you mean it no harm. Choose a beast that you can see within range. It must see and hear you. If the beast's Intelligence is 4 or higher, the spell fails. Otherwise, the beast must succeed on a WIS check or be charmed by you for the spell's duration. If you or one of your companions harms the target, the spells ends.|
 |**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can affect one additional beast for each slot level above 1st.|
 
 #### Animal Messenger
@@ -3851,7 +3847,7 @@ Your unarmed strikes deal 1 bludgeoning, piercing, or slashing damage, as approp
 |**Components:** V, S, M (a drop of blood)|
 |**Duration:** Concentration (encounter)|
 ||
-|Up to three creatures of your choice that you can see within range must make CHA saving throws. Whenever a target that fails this saving throw makes an attack roll or a saving throw before the spell ends, the target must roll with disadvantage. This spell removes the effects of *bless.*|
+|Up to three creatures of your choice that you can see within range must make CHA checks. Whenever a target that fails this check makes an attack roll or an ability check before the spell ends, the target must roll with disadvantage. This spell removes the effects of *bless.*|
 |**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.|
 
 #### Barkskin
@@ -3872,7 +3868,7 @@ Your unarmed strikes deal 1 bludgeoning, piercing, or slashing damage, as approp
 |**Components:** V, S, M (a sprinkling of holy water)|
 |**Duration:** Concentration (encounter)|
 ||
-|You bless up to three creatures of your choice within range. Whenever a target makes an attack roll or a saving throw before the spell ends, the target makes these rolls with advantage. This spell removes the effects of *bane.*|
+|You bless up to three creatures of your choice within range. Whenever a target makes an attack roll or an ability check before the spell ends, the target makes these rolls with advantage. This spell removes the effects of *bane.*|
 |**At Higher Levels.** At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.|
 
 #### Blindness/Deafness
@@ -3883,7 +3879,7 @@ Your unarmed strikes deal 1 bludgeoning, piercing, or slashing damage, as approp
 |**Components:** V|
 |**Duration:** Encounter|
 ||
-|You can blind or deafen a foe. Choose one creature that you can see within range to make a CON saving throw. If it fails, the target is either blinded or deafened (your choice) for the duration. At the end of each of its turns, the target can make a CON saving throw. On a success, the spell ends.|
+|You can blind or deafen a foe. Choose one creature that you can see within range to make a CON check. If it fails, the target is either blinded or deafened (your choice) for the duration. At the end of each of its turns, the target can make a CON check. On a success, the spell ends.|
 |**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.|
 
 #### Blur
@@ -3948,8 +3944,10 @@ Casting Time: 1 action
 Range: 12
 Components: V, S
 Duration: Concentration, up to 1 minute
-You attempt to suppress strong emotions in a group of people. Each humanoid in a 20-­‐‑foot-­‐‑radius sphere centered on a point you choose within range must make a Charisma saving throw; a creature can choose to fail this saving throw if it wishes. If a creature fails its saving throw, choose one of the following two effects.
+You attempt to suppress strong emotions in a group of people. Each humanoid in a 4-square radius sphere centered on a point you choose within range must make a CHA check. If a creature fails its check, choose one of the following two effects.
+
 You can suppress any effect causing a target to be charmed or frightened. When this spell ends, any suppressed effect resumes, provided that its duration has not expired in the meantime.
+
 Alternatively, you can make a target indifferent about creatures of your choice that it is hostile toward. This indifference ends if the target is attacked or harmed by a spell or if it witnesses any of its friends being harmed. When the spell ends, the creature becomes hostile again, unless the GM rules otherwise.
 
 #### Conjure Animal
@@ -4114,24 +4112,24 @@ An awakened shrub is an ordinary plant given sentience and mobility by the *awak
 Once fine robes hang in tatters from this withered corpse’s frame. A pale blue light shines from where its eyes should be.
 
 Liches share the following statistics.
-- **Abilities** CON +2, INT +3, WIS +2
+- **Abilities** CON, INT, WIS
 - **Damage Resistances** cold, lighting, necrotic
 - **Damage Immunities** poison
 - **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
-- **Senses** truesight 12 squares, passive Perception 12
+- **Senses** truesight 12 squares
 - **Languages** Common. A lich knows up to 4 additional languages.
 - **Speed** 6
 
 **Rejuvenation.** If it has a phylactery, a destroyed lich respawns once the PCs recall to HQ, healing all wounds and becoming active again. The new body appears within 1 square of the phylactery. Phylacteries for minions and elites are located near where they are first encountered in containers, urns, gravestones, buried under 1 square or ontop of a 1 square ledge. Boss phylacteries are safeguarded behind hidden passages, traps, or cleverly hidden within mundane items.
 
-**Turn Resistance.** The lich has advantage on saving throws against any effect that turns undead.
+**Turn Resistance.** The lich has advantage on ability checks against any effect that turns undead.
 
 **Spellcasting.** Lich minions are spellcasters. Thier spellcasting ability is INT. Lich minions have the following wizard spells prepared:
 - **Cantrips (at will):** *mage hand, prestidigitation, ray of frost*
 
 ### Actions
 
-**Paralyzing Touch.** Melee Spell Attack, reach 1, one creature. Hit: cold damage. The target must succeed on a CON check or be paralyzed until the end of the encounter. The target can repeat the check at the end of each of its turns, ending the effect on itself on a success.
+**Paralyzing Touch.** Melee Spell Attack, reach 1, one creature. Hit: cold damage. The target must succeed on a CON check or be paralyzed until the end of the encounter. The target can repeat the ability check at the end of each of its turns, ending the effect on itself on a success.
 
 ### Elite Features
 
@@ -4175,12 +4173,11 @@ Liches share the following statistics.
 *Tiny beast (critter), unaligned*
 
 Ravens share the following statistics.
-- **Abilities** WIS +1
-- **Senses** passive Perception 11
+- **Abilities** WIS
 - **Languages** —
 - **Speed** 2, fly 10
 
-**Mimicry.** The raven can mimic simple sounds it has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Insight check.
+**Mimicry.** The raven can mimic simple sounds it has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 WIS check.
 
 ### Actions
 
@@ -4197,14 +4194,13 @@ Ravens share the following statistics.
 Description. TBA
 
 Trolls share the following statistics.
-- **Abilities** WIS +2
-- **Senses** darkvision 12 squares, passive WIS 12
+- **Abilities** WIS
 - **Languages** Giant
 - **Speed** 6
 
 **Keen Smell.** The troll has advantage on WIS checks that rely on smell.
 
-**Regeneration.** The troll heals 1 wound (10 hit points) at the start of its turn before applying any other effects or features that trigger at the start of its turn. If the troll takes acid or fire damage, this trait doesn’t function at the start of the troll’s next turn. The troll dies only if it starts its turn with MAX Wounds (0 hp) and doesn’t regenerate.
+**Regeneration.** The troll receives 1 point of healing at the start of its turn before applying any other effects or features that trigger at the start of its turn. If the troll gains 1 or more wounds from acid or fire damage, this trait doesn’t function at the start of the troll’s next turn. The troll dies only if it starts its turn with MAX Wounds and doesn’t regenerate.
 
 ### Actions
 
@@ -4220,7 +4216,7 @@ Trolls share the following statistics.
 
 #### Legendary Actions
 
-**Regenerate (1 Action).** The troll heals 1 wound. If the troll's regeneration trait isn't functioning, this action doesn’t function.
+**Regenerate (1 Action).** The troll receives 1 point of healing. If the troll's regeneration trait isn't functioning, this action doesn’t function.
 
 ### Troll, Ice
 
@@ -4231,11 +4227,7 @@ Ice Trolls share the following characteristics besides those belonging to the tr
 
 **Cold Aura.** While it's alive, the ice troll generates an aura of bitter cold that fills the area within 2 squares of it. At the start of the ice troll's turn, all nonmagical flames in the aura are extinguished. Any creature that starts its turn within 2 squares of one or more ice trolls takes cold damage.
 
-### Actions
-
-**Bite.** The ice troll deals either piercing or cold damage on a successful bite, whichever damage type is least resisted by the target.
-
-**Claw.** The ice troll deals either slashing or cold damage on a successful claw, whichever damage type is least resisted by the target.
+**Cold Attacks.** The ice troll's bite and claw attacks deal cold damage in addition to its listed damage type. When a successful bite or claw deals damage, it always deals damage with the type that is least resisted by the target.
 
 ## Monsters (U)
 
@@ -4252,14 +4244,12 @@ Ice Trolls share the following characteristics besides those belonging to the tr
 *Medium undead, neutral evil*
 
 Zombies share the following statistics.
-- **Saving Throws** WIS 2 + LEVEL
 - **Damage Immunities** poison
 - **Condition Immunities** poisoned
-- **Senses** darkvision 12 squares, passive Perception 8
 - **Languages** understands the languages it knew in life but can’t speak
 - **Speed** 4
 
-**Undead Fortitude.** If the zombie reaches MAX wounds, it must make a CON saving throw with a DC of 12 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie receives 1 point of healing.
+**Undead Fortitude.** If the zombie reaches MAX wounds, it must make a CON check with a DC of 12 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie receives 1 point of healing.
 
 ### Actions
 
@@ -4305,7 +4295,7 @@ The following definitions specify what happens to a creature while it is subject
 > |:-:|:-|
 > |1|Disadvantage on ability checks|
 > |2|Speed halved|
-> |3|Disadvantage on attack rolls and saving throws|
+> |3|Disadvantage on attack rolls and ability checks|
 > |4|Hit point maximum halved|
 > |5|Speed reduced to 0|
 > |6+|Death|
@@ -4334,16 +4324,16 @@ The following definitions specify what happens to a creature while it is subject
 ## Paralyzed
 
 - A paralyzed creature is incapacitated (see the condition) and can’t move or speak.
-- The creature automatically fails Strength and Dexterity saving throws.
+- The creature automatically fails STR and DEX checks.
 - Attack rolls against the creature have advantage.
-- Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
+- Any attack that hits the creature is a critical hit if the attacker is within 1 square of the creature.
 
 ## Petrified
 
 - A petrified creature is transformed, along with any nonmagical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging.
 - The creature is incapacitated (see the condition), can’t move or speak, and is unaware of its surroundings.
 - Attack rolls against the creature have advantage.
-- The creature automatically fails Strength and Dexterity saving throws.
+- The creature automatically fails STR and DEX ability checks.
 - The creature has resistance to all damage.
 - The creature is immune to poison and disease, although a poison or disease already in its system is suspended, not neutralized.
 
@@ -4361,12 +4351,12 @@ The following definitions specify what happens to a creature while it is subject
 
 - A restrained creature’s speed becomes 0, and it can’t benefit from any bonus to its speed.
 - Attack rolls against the creature have advantage, and the creature’s attack rolls have disadvantage.
-- The creature has disadvantage on Dexterity saving throws.
+- The creature has disadvantage on DEX checks.
 
 ## Stunned
 
 - A stunned creature is incapacitated (see the condition), can’t move, and can speak only falteringly.
-- The creature automatically fails Strength and Dexterity saving throws.
+- The creature automatically fails STR and DEX checks.
 - Attack rolls against the creature have advantage.
 
 ## Taunted
@@ -4377,9 +4367,9 @@ The following definitions specify what happens to a creature while it is subject
 
 - An unconscious creature is incapacitated (see the condition), can’t move or speak, and is unaware of its surroundings.
 - The creature drops whatever it’s holding and falls prone.
-- The creature automatically fails Strength and Dexterity saving throws.
+- The creature automatically fails STR and DEX checks.
 - Attack rolls against the creature have advantage.
-- Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
+- Any attack that hits the creature is a critical hit if the attacker is within 1 square of the creature.
 
 ---
 
