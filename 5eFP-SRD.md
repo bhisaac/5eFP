@@ -2920,7 +2920,7 @@ You can avoid provoking an opportunity attack by taking the Disengage action. Yo
 
 #### Grappling
 
-When you want to grab a creature or wrestle with it, you can use the Attack action to make a special melee attack, a grapple. If you’re able to make multiple attacks with the Attack action, this attack replaces one of them. A creature with the grappled condition cannot initiate another grapple.
+When you want to grab a creature or wrestle with it, you can use the Attack action to make a special melee attack, a grapple. If you’re able to make multiple attacks with the Attack action, this attack replaces one of them.
 
 The target of your grapple must be no more than one size larger than you and must be within your reach. Using at least one free hand, you try to seize the target by making a grapple check instead of an attack roll: a STR check contested by the target’s STR or DEX check (the target chooses the ability to use). If you succeed, you subject the target to the grappled condition (see appendix PH-­A). The condition specifies the things that end it, and you can release the target whenever you like (no action required).
 
@@ -4382,6 +4382,7 @@ The following definitions specify what happens to a creature while it is subject
 ## Grappled
 
 - A grappled creature’s speed becomes 0, and it can’t benefit from any bonus to its speed.
+- A grappled creature cannot initiate a grapple.
 - The condition ends if the grappler is incapacitated (see the condition).
 - The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the _thunderwave_ spell.
 
