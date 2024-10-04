@@ -1014,7 +1014,7 @@ BARBARIAN
 > #### Reckless Attack
 >> You can throw aside all concern for defense to attack with fierce determination.
 >> 
->> When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you advantage on melee weapon attack rolls using STR during this turn, but attack rolls against you have advantage until your next turn.
+>> When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you advantage on weapon attack rolls using STR during this turn, but attack rolls against you have advantage until your next turn.
 >> 
 > #### Path of the Berserker
 >> For some barbarians, rage is a means to an end—that end being violence. The Path of the Berserker is a path of untrammeled fury, slick with blood. As you enter the berserker’s rage, you thrill in the chaos of battle, heedless of your own health or well-­being.
