@@ -2954,6 +2954,128 @@ A target with **three-quarters cover** has a +5 bonus to AC and DEX checks to re
 
 A target with **total cover** can’t be targeted directly by an attack or a spell, although some spells can reach such a target by including it in an area of effect. A target has total cover if it is completely concealed by an obstacle.
 
+# Damage and Healing
+
+Injury and the risk of death are constant companions of those who explore gaming worlds. The thrust of a sword, a well‑placed arrow, or a blast of flame from a _fireball_ spell all have the potential to damage, or even kill, the hardiest of creatures.
+
+## Damage, Wounds, and MAX Wounds
+
+Each weapon, spell, harmful monster ability, or game feature deals a minimum of 1 point of damage. Particularly damaging weapons, spells, harmful monster abilities, or game features may deal 2 or more damage. Magic weapons, special abilities, and other factors can grant a bonus to damage. With a penalty, it is possible to deal 0 damage, but never negative damage.
+
+If a spell or other effect deals damage to more than one target at the same time, all of them receive the same amount of damage. For example, when a wizard casts _fireball_ or a cleric casts _flame strike_, the spell’s damage is dealt to all creatures caught in spell's area of effect.
+
+**Wounds.** Your character gains a wound whenever an attack, effect, or game feature assigns 1 or more points of damage. If more than 1 damage is dealt, the character receives additional wounds equal to the excess damage. Wounds are cumulative up to MAX Wounds.
+
+**MAX Wounds.** MAX Wounds describes the maximum number of wounds you can have. Whenever you reach MAX Wounds, discard any additional wounds assigned beyond your MAX Wounds score and you gain the dying condition (see appendix PH-­A).
+
+Wounds represent a combination of physical and mental durability, the will to live, and luck. Creatures with a higher MAX Wounds score are more difficult to kill. Those with a lower MAX Wounds score are more fragile.
+
+A creature’s current wounds can be any number from 0 to the creature’s MAX Wounds score. This number changes frequently as a creature takes damage or receives healing.
+
+Gaining wounds has no effect on a creature’s capabilities until the creature reaches MAX Wounds.
+
+### Critical Hit
+
+A critical hit is an attack roll that results in a critical success. When you score a critical hit, you double any weapon damage dealt by your attack and then add any relevant modifiers to damage as normal. Circumstantial bonuses, such as those granted by the environment or through a feature unrelated to combat or making an attack, are not doubled.
+
+For example, suppose you are playing a character with the damage party buff and attack with a dagger, which deals 1 point of damage on a successful attack. If you score a critical hit with the dagger, it deals 2 points of damage, rather than 1. Since you have the damage party buff, after resolving the attack, you then deal 1 point of damage to a creature within 1 square. The extra damage isn't doubled. If the attack involves other damage dice, such as from the rogue’s Sneak Attack feature, you double this damage as well.
+
+### Damage Types
+
+Different attacks, damaging spells, and other harmful effects deal different types of damage. Damage types have no rules of their own, but other rules, such as damage resistance, rely on the types.
+
+The damage types follow, with examples to help a GM assign a damage type to a new effect.
+
+**Acid.** The corrosive spray of a black dragon’s breath and the dissolving enzymes secreted by a black pudding deal acid damage.
+
+**Bludgeoning.** Blunt force attacks—hammers, falling, constriction, and the like—deal bludgeoning damage.
+
+**Cold.** The infernal chill radiating from an ice devil’s spear and the frigid blast of a white dragon’s breath deal cold damage.
+
+**Fire.** Red dragons breathe fire, and many spells conjure flames to deal fire damage.
+
+**Force.** Force is pure magical energy focused into a damaging form. Most effects that deal force damage are spells, including _magic missile_ and _spiritual weapon_.
+
+**Lightning.** A _lightning bolt_ spell and a blue dragon’s breath deal lightning damage.
+
+**Necrotic.** Necrotic damage, dealt by certain undead and a spell such as _chill touch_, withers matter and even the soul.
+
+**Piercing.** Puncturing and impaling attacks, including spears and monsters’ bites, deal piercing damage.
+
+**Poison.** Venomous stings and the toxic gas of a green dragon’s breath deal poison damage.
+
+**Psychic.** Mental abilities such as a mind flayer’s psionic blast deal psychic damage.
+
+**Radiant.** Radiant damage, dealt by a cleric’s _flame strike_ spell or an angel’s smiting weapon, sears the flesh like fire and overloads the spirit with power.
+
+**Slashing.** Swords, axes, and monsters’ claws deal slashing damage.
+
+**Thunder.** A concussive burst of sound, such as the effect of the _thunderwave_ spell, deals thunder damage.
+
+Attacks, damaging spells, and other harmful effects sometimes simultaneously deal multiple types of damage. When this happens, the damage type that is least resisted by the target is assigned.
+
+## Damage Resistance and Vulnerability
+
+Some creatures and objects are exceedingly difficult or unusually easy to hurt with certain types of damage.
+
+If a creature or an object has **resistance** to a damage type, damage of that type is halved against it. If a creature or an object has **vulnerability** to a damage type, damage of that type is doubled against it.
+
+Resistance and then vulnerability are applied after all other modifiers to damage. For example, a creature has resistance to bludgeoning damage and is hit by an attack that deals 3 bludgeoning damage. The creature is also within a magical aura that reduces all damage by 1. The 3 damage is first reduced by 1 and then halved, so the creature takes 1 damage.
+
+Multiple instances of resistance or vulnerability that affect the same damage type count as only one instance. For example, if a creature has resistance to fire damage as well as resistance to all nonmagical damage, the damage of a nonmagical fire is reduced by half against the creature, not reduced by three‐quarters.
+
+## Healing
+
+All healing effects provide a minimum of 1 point of healing. Particularly strong healing may provide 2 or more points of healing. For each point of healing, you discard 1 wound. When you receive healing, you also stabilize.
+
+Unless it results in death, wounds aren't permanent. Even death is reversible through powerful magic. Rest can discard a creature's wounds, and magical methods such as a _cure wounds_ spell or a potion of healing can discard wounds in an instant.
+
+A creature can never have less than 0 wounds, so any additional wounds discarded are ignored. For example, a druid grants a ranger 2 points of healing, allowing the ranger to discard 2 wounds. If the ranger only has 1 wound, the ranger discards 1 wound, not 2.
+
+A creature that has died can’t discard wounds until magic such as the _revivify spell_ has restored it to life.
+
+## Reaching MAX Wounds
+
+When you gain enough wounds to equal or exceed your MAX Wounds score, you either die outright or fall unconscious, as explained in the following sections.
+
+### Instant Death
+
+Massive damage can kill you instantly. When damage assigns enough wounds to exceed your MAX Wounds score, you die if the number of exceeding wounds is equal to or greater than your MAX Wounds score.
+
+For example, a cleric with MAX Wounds 6 currently has 3 wounds. If she takes 9 damage from an attack, she gains enough wounds to reach MAX Wounds, but 6 additional wounds remain. Because the remaining wounds equals her MAX Wounds score, the cleric dies.
+
+### Falling Unconscious
+
+If damage assigns enough wounds to equal or exceed your MAX Wounds score and fails to kill you, you fall unconscious (see appendix PH-­A). This unconsciousness ends if you receive healing.
+
+### Death Saving Throws
+
+Whenever you start your turn with MAX Wounds, you must make a special d20 roll, called a death saving throw, to determine whether you creep closer to death or hang onto life. Unlike other die rolls, this one isn’t tied to any ability score. You are in the hands of fate now, aided only by spells and features that improve your chances of succeeding on death saves.
+
+Roll a d20. If the roll is 10 or higher, you succeed. Otherwise, you fail. A success or failure has no effect by itself. On your third success, you become stable (see below). On your third failure, you die. The successes and failures don’t need to be consecutive; keep track of both until you collect three of a kind. The number of both is reset to zero when you receive healing or become stable.
+
+**Rolling 1 or 20.** When you make a death saving throw and roll a 1 on the d20, it counts as two failures. If you roll a 20 on the d20, you receive 1 point of healing.
+
+**Taking damage while at MAX Wounds.** If you take any damage while you have MAX Wounds, you suffer a death saving throw failure. If the damage is from a critical hit, you suffer two failures instead. If the damage assigns enough damage to meet or exceeds your MAX Wounds score, you suffer instant death.
+
+### Stabilizing a Creature
+
+The best way to save a dying creature at MAX Wounds is to heal it. If healing is unavailable, the creature can at least be stabilized so that it isn’t killed by a failed death saving throw.
+
+You can use your action to administer first aid to an unconscious creature and attempt to stabilize it, which requires a successful DC 10 WIS check.
+
+A stable creature doesn’t make death saving throws, even though it might still be at MAX Wounds, but it does remain unconscious. The creature stops being stable, and must start making death saving throws again, if it takes any damage. A stable creature that isn’t healed receives 1 point of healing at the end of the encounter.
+
+### Monsters and Death
+
+Most GMs have a monster die the instant it reaches MAX Wounds, rather than having it fall unconscious and make death saving throws.
+
+Mighty villains and special nonplayer characters (NPCs) are common exceptions; the GM might have them fall unconscious and follow the same rules as player characters.
+
+## Knocking a Creature Out
+
+Sometimes an attacker wants to incapacitate a foe, rather than deal a killing blow. When an attacker adds enough wounds to a creature to reach its MAX Wounds score with a melee attack, the attacker can knock the creature out. The attacker can make this choice the instant the damage is dealt. The creature falls unconscious and is stable.
+
 # Encounters
 
 5eFP uses encounters to describe the adversity PCs find while exploring maps. Traps, unfavorable environmental conditions, creatures, and challenging story situations are all considered encounters. Use the following table to determine the base statistics for all encounters. Except for forced movement, minion damage, and minion MAX wounds, add LEVEL to the base values.
