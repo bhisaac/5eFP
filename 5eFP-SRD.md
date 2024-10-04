@@ -2358,7 +2358,7 @@ A feat represents a talent or an area of expertise that gives a character specia
 
 At certain levels, your class gives you the Ability Score Improvement feature. Using the optional feats rule, you can forgo taking that feature to take a feat of your choice instead. You can take each feat only once, unless the feat’s description says otherwise.
 
-You must meet any prerequisite specified in a feat to take that feat. If you ever lose a feat’s prerequisite, you can’t use that feat until you regain the prerequisite. For example, the Grappler feat requires you to have a Strength of 13 or higher. If your Strength is reduced below 13 somehow—perhaps by a withering curse—you can’t benefit from the Grappler feat until your Strength is restored.
+You must meet any prerequisite specified in a feat to take that feat. If you ever lose a feat’s prerequisite, you can’t use that feat until you regain the prerequisite. For example, the Grappler feat requires you to have a STR of +1 or higher. If your STR is reduced below +1 somehow—perhaps by a withering curse—you can’t benefit from the Grappler feat until your STR is restored.
 
 ## Armor Training (Heavy)
 
@@ -2374,7 +2374,7 @@ You gain proficiency with medium armor and shields. Increase your maximum DEX bo
 
 ## Armor Training (Light)
 
-You gain proficiency with light armor.
+You gain proficiency with light armor and shields.
 
 ## Grappler
 
@@ -2388,12 +2388,12 @@ You’ve developed the skills necessary to hold your own in close-­quarters gra
 
 Six abilities provide a quick description of every creature’s physical and mental characteristics:
 
-- **Strength**, measuring physical power
-- **Dexterity**, measuring agility
-- **Constitution**, measuring endurance
-- **Intelligence**, measuring reasoning and memory
-- **Wisdom**, measuring perception and insight
-- **Charisma**, measuring force of personality
+- **Strength (STR)**, measuring physical power
+- **Dexterity (DEX)**, measuring agility
+- **Constitution (CON)**, measuring endurance
+- **Intelligence (INT)**, measuring reasoning and memory
+- **Wisdom (WIS)**, measuring perception and insight
+- **Charisma (CHA)**, measuring force of personality
 
 Is a character muscle-­bound and insightful? Brilliant and charming? Nimble and hardy? Ability scores define these qualities—a creature’s assets as well as weaknesses.
 
@@ -2918,6 +2918,10 @@ You can make an opportunity attack when a hostile creature that you can see move
 
 You can avoid provoking an opportunity attack by taking the Disengage action. You also don’t provoke an opportunity attack when you teleport or when someone or something moves you without using your movement, action, or reaction. For example, you don’t provoke an opportunity attack if an explosion hurls you out of a foe’s reach or if gravity causes you to fall past an enemy.
 
+#### Two-Weapon Fighting
+
+When you take the Attack action and attack with a light weapon that you're holding in one hand, you can use a bonus action to attack with a different light weapon that you're holding in the other hand.
+
 #### Grappling
 
 When you want to grab a creature or wrestle with it, you can use the Attack action to make a special melee attack, a grapple. If you’re able to make multiple attacks with the Attack action, this attack replaces one of them.
@@ -2934,11 +2938,21 @@ The target of your grapple must be no more than one size larger than you and mus
 
 #### Shoving a Creature
 
-TBA
+Using the Attack action, you can make a special melee attack to shove a creature, either to knock it prone or push it away from you. If you’re able to make multiple attacks with the Attack action, this attack replaces one of them.
 
-### Two-Weapon Fighting
+The target must be no more than one size larger than you and must be within your reach. Instead of making an attack roll, you make a STR check contested by the target’s STR or DEX check (the target chooses the ability to use). If you win the contest, you either knock the target prone or push it 1 square away from you.
 
-When you take the Attack action and attack with a light weapon that you're holding in one hand, you can use a bonus action to attack with a different light weapon that you're holding in the other hand.
+# Cover
+
+Walls, trees, creatures, and other obstacles can provide cover during combat, making a target more difficult to harm. A target can benefit from cover only when an attack or other effect originates on the opposite side of the cover.
+
+There are three degrees of cover. If a target is behind multiple sources of cover, only the most protective degree of cover applies; the degrees aren’t added together. For example, if a target is behind a creature that gives half cover and a tree trunk that gives three‑quarters cover, the target has three‑quarters cover.
+
+A target with **half cover** has a +2 bonus to AC and DEX checks to resist attacks, spells, or game features directed at the target. A target has half cover if an obstacle blocks at least half of its body. The obstacle might be a low wall, a large piece of furniture, a narrow tree trunk, or a creature, whether that creature is an enemy or a friend.
+
+A target with **three-quarters cover** has a +5 bonus to AC and DEX checks to resist attacks, spells, or game features directed at the target. A target has three‑quarters cover if about three‑quarters of it is covered by an obstacle. The obstacle might be a portcullis, an arrow slit, or a thick tree trunk.
+
+A target with **total cover** can’t be targeted directly by an attack or a spell, although some spells can reach such a target by including it in an area of effect. A target has total cover if it is completely concealed by an obstacle.
 
 # Encounters
 
