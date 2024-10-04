@@ -283,7 +283,7 @@ You know two bard cantrips of your choice.
 
 #### Spell Slots
 
-You begin the game with two 1st level spell slots. To cast one of your spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots on recall.
+You begin the game with two 1st level spell slots. To cast one of your spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots at the end of the game session.
 
 For example, if you know the 1st-level spell _cure wounds_ and have a 1st-level and a 2nd-level spell slot available, you can cast _cure wounds_ using either slot.
 
@@ -752,7 +752,7 @@ You	know	four	sorcerer cantrips of your choice.
 
 #### Spell Slots
 
-You begin the game with two 1st level spell slots. To cast one of your spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots on recall.
+You begin the game with two 1st level spell slots. To cast one of your spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots at the end of the game session.
 
 For	example,	if	you	know	the	1st-level	spell	_burning	hands_ and	have	a	1st-level	and	a	2nd-level	spell	slot	available,	you	can	cast	_burning	hands_ using	either	slot.
 
@@ -970,7 +970,7 @@ Each time you complete a Spells upgrade, you can add two wizard spells of your c
 
 #### Arcane Recovery
 
-You have learned to regain some of your magical energy by studying your spellbook. Once per recall, when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than your wizard level, and none of the slots can be 6th level or higher.
+Studying your spellbook taught you to regain some of your magical energy. Once per game session, you can choose expended spell slots to recover when you finish a short rest. The spell slots can have a combined level that is equal to or less than your wizard level, and none of the slots can be 6th level or higher.
 
 For example, if you’re a 2nd-­level wizard, you can recover up to two levels worth of spell slots. You can recover either a 2nd-­level spell slot or two 1st-­level spell slots.
 
@@ -1204,7 +1204,7 @@ SORCERER
 >>> **Flexible Casting.** You can use your sorcery points to gain additional sorcerer spell slots, or sacrifice sorcerer spell slots to gain additional sorcery points.
 >>>> **_Creating Spell Slots._** You can transform 2 unexpended sorcery points into one 1st-level sorcerer spell slot as a bonus action on your turn.
 >>>> 
->>>> Any spell slot you create with this feature vanishes on recall.
+>>>> Any spell slot you create with this feature vanishes at the end of the game session.
 >>>> 
 >>>> **_Converting a Spell Slot to Sorcery Points._** As a bonus action on your turn, you can expend one 1st-level sorcerer spell slot and gain 1 sorcery point.
 
@@ -1222,7 +1222,7 @@ SORCERER
 >>
 >> You can use Empowered Spell even if you have already used a different Metamagic option during the casting of the spell.
 >>
->> **_Extended Spell._** When you cast a spell that has a duration of encounter, you can spend 1 sorcery point to extend its duration to recall.
+>> **_Extended Spell._** When you cast a spell that has a duration of encounter, you can spend 1 sorcery point to extend its duration to the current game session.
 >>
 >> **_Heightened Spell._** When you cast a spell that forces a creature to make an ability check to resist its effects, you can spend 3 sorcery points to give one target of the spell disadvantage on its first ability check made against the spell.
 >>
@@ -1523,7 +1523,7 @@ You have grown up in an environment far away from civilization and the convenien
 
 ### Feature: Wanderer
 
-While you are the party token controller, you reveal obscuring tiles up to 2 squares away provided you start your turn on natural terrain. You automatically detect and disarm any natural traps while moving the party token through natural terrain. You may set a natural trap during your round. You can only have 1 trap set this way per world map. When you use this feature to set a new trap, any previously set traps are removed. You may use this feature to place a foothold or an objective outlined within your setting handbook on an explored world map tile within 2 squares. Once you have used this feature in this way, you cannot do so again until you recall.
+While you are the party token controller, you reveal obscuring tiles up to 2 squares away provided you start your turn on natural terrain. You automatically detect and disarm any natural traps while moving the party token through natural terrain. You may set a natural trap during your round. You can only have 1 trap set this way per world map. When you use this feature to set a new trap, any previously set traps are removed. You may use this feature to place a foothold or an objective outlined within your setting handbook on an explored world map tile within 2 squares. Once you have used this feature in this way, you cannot do so again until the next game session.
 
 ## Scholar
 
@@ -1555,7 +1555,7 @@ You gain the following features when HQ's docks are discovered.
 
 Once during the downtime phase, you and up to 4 other PCs may complete a round of downtime onboard a ship in HQ's docks without spending any coin. Before the end of your downtime round, move the party token (the ship) onto a different and accessible world map tile that shares the same terrain as HQ's docks. Ships return to HQ's dock at the end of the downtime round.
 
-Before deploying onto the world map, you may instead choose to deploy to the same destination onboard your ship if the group token is on the same terrain as HQ's docks. Your ship can only move through world map tiles that share terrain with HQ's docks. While you are the group token controller, the ship gives you +1 speed, and you may remove obscuring tiles up to 2 squares away. Your ship returns to dock when your group recalls.
+Before deploying onto the world map, you may instead choose to deploy to the same destination onboard your ship if the group token is on the same terrain as HQ's docks. Your ship can only move through world map tiles that share terrain with HQ's docks. While you are the group token controller, the ship gives you +1 speed, and you may remove obscuring tiles up to 2 squares away. At the end of the game session, your ship returns to dock.
 
 ## Soldier
 
@@ -1569,7 +1569,7 @@ You were trained at a young age for battle, learning how to handle weapons and a
 
 ### Feature: Military Rank
 
-You have a military rank from your career as a soldier. Soldiers loyal to your former military organization still recognize your authority and influence, and they defer to you if they are of a lower rank. Before deploying onto the world map, you gain a soldier minion under your command who deploys and recalls alongside you. The soldier minion follows your commands to the best of its ability and allows you to remove 1 additional obscuring tile up to 2 squares away if you are the group token controller. If the soldier minion dies while deployed, remove it from the playing field. If your soldier minion did not die, you gain ⛁ at the start of the downtime phase.
+You have a military rank from your career as a soldier. Soldiers loyal to your former military organization still recognize your authority and influence, and they defer to you if they are of a lower rank. Before deploying onto the world map, you gain a soldier minion under your command who deploys and returns to HQ alongside you. The soldier minion follows your commands to the best of its ability and allows you to remove 1 additional obscuring tile up to 2 squares away if you are the group token controller. If the soldier minion dies while deployed, remove it from the playing field. If your soldier minion did not die, you gain ⛁ at the start of the downtime phase.
 
 ## Street Rat
 
