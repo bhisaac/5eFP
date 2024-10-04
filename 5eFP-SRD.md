@@ -1006,12 +1006,14 @@ BARBARIAN
 ||||
 |-:|:-|:-|
 |**Cost**|**Feature**|**Details**|
-|2⛁|Reckless Attack|You can throw aside all concern for defense to attack with fierce determination.|
+|2⛁|Reckless Attack|...|
 |2⛁|Danger Sense|You gain advantage to DEX checks vs. effects you can see|
 |2⛁|Primal Path|Path of the Berserker|
 |3⛁|Rage I|+1 rage/day|
 
 > #### Reckless Attack
+>> You can throw aside all concern for defense to attack with fierce determination.
+>> 
 >> When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you advantage on melee weapon attack rolls using STR during this turn, but attack rolls against you have advantage until your next turn.
 >> 
 > #### Path of the Berserker
