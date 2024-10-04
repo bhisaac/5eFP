@@ -10,82 +10,6 @@ _**Practice.**_ Focus alone isn't enough. Results require real doing through reg
 
 > "Vision without action is a daydream. Action without vision is a nightmare." — Japanese Proverb
 
-### Inspiration
-
-Inspiration is a rule the GM uses to reward you when you show up to play a game session on time and for playing your character in an exceptional way.
-
-#### Gaining Inspiration
-
-At the beginning of each game session, PCs choose two different dedications from Insight, Medicine, Perception, Performance, or Survival (see Dedications). Once the choices are made, the chosen dedications can only be changed at the beginning of the next game session. Your GM then awards inspiration to all PCs who are present in the game. Your GM also has the option to grant you inspiration for various reasons during gameplay. Generally, inspiration is given when you effectively portray your character in a compelling way. Your GM may introduce other ways to earn inspiration during the game. In 5eFP, your setting handbook may also introduce other ways to earn inspiration during the game.
-
-You either have inspiration or you don’t—you can’t stockpile multiple “inspirations” for later use.
-
-#### Using Inspiration
-
-If you have inspiration, you can spend it when you roll to attack, resist a feature, or otherwise perform an action. Spending your inspiration gives you advantage on that roll, allowing you to roll twice and keep the better result. Alternatively, you may spend your inspiration anytime to activate a dedication you made at the start of the game session.
-
-Additionally, if you have inspiration, you can reward another player for good roleplaying, clever thinking, or simply doing something exciting in the game. When another player character does something that really contributes to the story in a fun and interesting way, you can give up your inspiration to give that character inspiration.
-
-### Dedications
-
-The following describes each dedication and how to use them in the game.
-
-### Insight
-
-Your insight imbues inward sight, granting vision beneath surface impressions.
-
-Your GM reveals to you all the hidden or obscured pieces of information contained within the current scene. Features granted through spell effects specifically designed to prevent sight, such as _invisibility_ or an equivalent effect, are not revealed; instead, their presence is confirmed, and you can sense the subtle flows of energy that the spell displaces in its wake. This awareness lasts until the beginning of your next turn.
-
-### Medicine
-
-Your medicine stabilizes wounds.
-
-Choose any number of creatures your character can see within 6 squares of you with the dying condition. The chosen creatures receive 1 point of healing.
-
-### Perception
-
-Your perception enables you to spot, hear, or otherwise detect the presence of something.
-
-Your GM reveals all relevant information regarding the current scene gathered through the five senses (sight, smell, sound, taste, and touch).
-
-### Performance
-
-Your performance allows the satisfying completion of one action.
-
-You decide the outcome of the next action your character declares on their turn. You must use your inspiration this way before taking an action or rolling any dice. If the result of your chosen action further affects you on subsequent rounds during the same encounter, make all related die rolls with advantage.
-
->> Example 1:
->>> (_GM_) "The room opens up, exposing a sprawling cliff face leading to the top of the spire."
->>> 
->>> (_Player 1_) "I spend my inspiration on PERFORMANCE."
->>> 
->>> (_GM_) "OK, great. Tell us about what action your character wants to take. And then, when you're ready, tell us what happens."
->>> 
->>> (_Player 1_) "Thanks. Lita leaps onto the cliff face, finds her grip, and makes her way to the top."
->>> 
->> In example 1, _Player 1_'s action resolves a successful STR check without rolling to begin climbing the cliff face to reach the top of the spire, 40 squares above Lita's position. _Player 1_ has indicated that this climb is important in some way. While climbing the cliff, Lita makes all attacks and ability checks with advantage. Later, during the cliff-face encounter, Lita's skill is tested again due to strong winds. She must succeed on a STR check to keep her grip. She rolls STR with advantage because she is still in the same cliff-face encounter.
->> 
->> Example 2: 
->>> _(GM)_ "Lita, it's your turn."
->>> 
->>> _(Player 2)_ "I spend my inspiration on PERFORMANCE."
->>> 
->>> _(GM)_ "OK, great. Tell us about what action your character wants to take. And then, when you're ready, tell us what happens."
->>> 
->>> _(Player 2)_ "I jump out of the shadows where I'm hiding and attack the goblin, catching it off guard and unaware. I strike with a critical hit, dealing maximum damage to the creature, adding my sneak attack damage."
->>> 
->> In example 2, _Player 2_'s action resolves a successful attack action from a hidden position and then finishes. The action does not continue on subsequent rounds.
-
-### Survival
-
-Your survival awards expanded capacities, allowing you to identify and acquire new advantages, qualities, or skills.
-
-In 5eFP, activating survival allows you to reveal a path leading toward an objective. Place a foothold or setting handbook requirement on a revealed square of your choice up to 2 squares away from you.
-
-> Other game systems: whenever you activate survival, you may choose one roll (a skill, an attack with a specific weapon, one kind of defense, or another feature that uses die rolls). Only one use of the die roll is affected this way, even if it applies to multiple uses--you instead choose only one kind of use. You become proficient and trained with the chosen roll for the rest of the encounter. If the die roll adds ranks, dots, or uses percentages, add ranks, dots, or use a percentage equal to your lowest trained rank, dot, or percentage on your character sheet.
-
-Alternatively, once per game session, when you spend your inspiration to activate Survival, you can instead choose to activate a dedication you didn't choose at the beginning of the current game session.
-
 # Character Creation
 
 **Ability Scores**
@@ -1383,6 +1307,80 @@ Some of these languages are actually families of languages with many dialects. F
 |Primordial|Elementals|Dwarvish|
 |Sylvan|Fey creatures|Elvish|
 |Undercommon|Underworld traders|Elvish|
+
+# Inspiration
+
+Inspiration is a rule the GM uses to reward you when you show up to play a game session on time and for playing your character in an exceptional way.
+
+## Gaining Inspiration
+
+At the beginning of each game session, PCs choose two different dedications from Insight, Medicine, Perception, Performance, or Survival (see _Dedications_ below). Once the choices are made, the chosen dedications can only be changed at the beginning of the next game session. Your GM then awards inspiration to all PCs who are present in the game. Your GM also has the option to grant you inspiration for various reasons during gameplay. Generally, inspiration is given when you effectively portray your character in a compelling way. Your GM may introduce other ways to earn inspiration during the game. Your setting handbook may also introduce other ways to earn inspiration during the game.
+
+You either have inspiration or you don’t—you can’t stockpile multiple “inspirations” for later use.
+
+### Using Inspiration
+
+If you have inspiration, you can spend it when you roll to attack, resist a game feature, or otherwise perform an action. Spending your inspiration gives you advantage on that roll, allowing you to roll twice and keep the better result. Alternatively, you may spend your inspiration anytime to activate a dedication you made at the start of the game session.
+
+Additionally, if you have inspiration, you can reward another player for good roleplaying, clever thinking, or simply doing something exciting in the game. When another player character does something that really contributes to the story in a fun and interesting way, you can give up your inspiration to give that character inspiration.
+
+## Dedications
+
+The following describes each dedication and how to use them in the game.
+
+### Insight
+
+Your insight imbues inward sight, granting vision beneath surface impressions.
+
+Your GM reveals to you all the relevant hidden or obscured pieces of information contained within the current scene. Features granted through spell effects specifically designed to prevent sight, such as _invisibility_ or an equivalent effect, are not revealed; instead, their presence is confirmed, and you can sense the subtle flows of energy that the spell displaces in its wake. This awareness lasts until the beginning of your next turn.
+
+### Medicine
+
+Your medicine stabilizes wounds.
+
+Choose any number of creatures your character can see within 6 squares of you who are at MAX Wounds. The chosen creatures receive 1 point of healing.
+
+### Perception
+
+Your perception enables you to spot, hear, or otherwise detect the presence of something.
+
+Your GM reveals all relevant information regarding the current scene gathered through the five senses (sight, smell, sound, taste, and touch).
+
+### Performance
+
+Your performance allows the satisfying completion of one action.
+
+You decide the outcome of the next action your character declares on their turn. You must use your inspiration this way before taking an action or rolling any dice. If the result of your chosen action further affects you on subsequent rounds during the same encounter, make all related die rolls with advantage.
+
+>> Example 1:
+>>> (_GM_) "The room opens up, exposing a sprawling cliff face leading to the top of the spire."
+>>> 
+>>> (_Player 1_) "I spend my inspiration on PERFORMANCE."
+>>> 
+>>> (_GM_) "OK, great. Tell us about what action your character wants to take. And then, when you're ready, tell us what happens."
+>>> 
+>>> (_Player 1_) "Thanks. Lita leaps onto the cliff face, finds her grip, and makes her way to the top."
+>>> 
+>> In example 1, _Player 1_'s action resolves a successful STR check without rolling to begin climbing the cliff face to reach the top of the spire, 40 squares above Lita's position. _Player 1_ has indicated that this climb is important in some way. While climbing the cliff, Lita makes all attacks and ability checks with advantage. Later, during the cliff-face encounter, Lita's skill is tested again due to strong winds. She must succeed on a STR check to keep her grip. She rolls STR with advantage because she is still in the same cliff-face encounter.
+>> 
+>> Example 2: 
+>>> _(GM)_ "Lita, it's your turn."
+>>> 
+>>> _(Player 2)_ "I spend my inspiration on PERFORMANCE."
+>>> 
+>>> _(GM)_ "OK, great. Tell us about what action your character wants to take. And then, when you're ready, tell us what happens."
+>>> 
+>>> _(Player 2)_ "I jump out of the shadows where I'm hiding and attack the goblin, catching it off guard and unaware. I strike with a critical hit, dealing maximum damage to the creature, adding my sneak attack damage."
+>>> 
+>> In example 2, _Player 2_'s action resolves a successful attack action from a hidden position and then finishes. The action does not continue on subsequent rounds.
+
+### Survival
+
+Your survival awards expanded capacities, allowing you to identify and acquire new advantages, qualities, or skills.
+
+Activating survival allows you to reveal a game objective. Place a foothold or setting handbook requirement on a revealed square of your choice up to 2 squares away from you.
+
+Alternatively, once per game session, when you spend your inspiration to activate Survival, you can instead choose to activate a dedication you didn't choose at the beginning of the current game session.
 
 # Backgrounds
 
