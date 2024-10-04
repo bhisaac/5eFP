@@ -1076,7 +1076,7 @@ DRUID
 |3⛁|Spells II|(+1) 1st-level spell slot, (+2) 2nd-level spell slots|
 
 > #### Wild Shape (action)
->> You magically assume the shape of a beast that you have seen before. When you use this feature, set aside any wounds in your hand and choose a wild shape form. Your wild shape form cannot benefit from any swim or fly speeds it may have.
+>> You magically assume the shape of a beast that you have seen before. When you use this feature, save and set aside any wounds and choose a wild shape form. Your wild shape form cannot benefit from any swim or fly speeds it may have.
 >> 
 >> WILD SHAPE FORMS
 >>> **_Astral._** You have 2 MAX wounds while in astral form. When you choose this form, you do not assume the shape of a beast. You remain in your normal form while gaining a number of additional features. Your form becomes translucent, taking on an indigo tint filled with points of moving lights.
