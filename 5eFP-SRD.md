@@ -283,9 +283,9 @@ You know two bard cantrips of your choice.
 
 #### Spell Slots
 
-You begin the game with two 1st level spell slots. To cast one of your spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you return to HQ.
+You begin the game with two 1st level spell slots. To cast one of your spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots on recall.
 
-For example, if you know the 1st-level spell *cure wounds* and have a 1st-level and a 2nd-level spell slot available, you can cast cure wounds using either slot.
+For example, if you know the 1st-level spell _cure wounds_ and have a 1st-level and a 2nd-level spell slot available, you can cast _cure wounds_ using either slot.
 
 #### Spells Known
 
@@ -752,7 +752,7 @@ You	know	four	sorcerer cantrips of your choice.
 
 #### Spell Slots
 
-You begin the game with two 1st level spell slots. To cast one of your spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you return to HQ.
+You begin the game with two 1st level spell slots. To cast one of your spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots on recall.
 
 For	example,	if	you	know	the	1st-level	spell	_burning	hands_ and	have	a	1st-level	and	a	2nd-level	spell	slot	available,	you	can	cast	_burning	hands_ using	either	slot.
 
@@ -1204,7 +1204,7 @@ SORCERER
 >>> **Flexible Casting.** You can use your sorcery points to gain additional sorcerer spell slots, or sacrifice sorcerer spell slots to gain additional sorcery points.
 >>>> **_Creating Spell Slots._** You can transform 2 unexpended sorcery points into one 1st-level sorcerer spell slot as a bonus action on your turn.
 >>>> 
->>>> Any spell slot you create with this feature vanishes when you recall to HQ.
+>>>> Any spell slot you create with this feature vanishes on recall.
 >>>> 
 >>>> **_Converting a Spell Slot to Sorcery Points._** As a bonus action on your turn, you can expend one 1st-level sorcerer spell slot and gain 1 sorcery point.
 
@@ -1523,7 +1523,7 @@ You have grown up in an environment far away from civilization and the convenien
 
 ### Feature: Wanderer
 
-While you are the party token controller, you reveal obscuring tiles up to 2 squares away provided you start your turn on natural terrain. You automatically detect and disarm any natural traps while moving the party token through natural terrain. You may set a natural trap during your round. You can only have 1 trap set this way per world map. When you use this feature to set a new trap, any previously set traps are removed. You may use this feature to place a foothold or an objective outlined within your setting handbook on an explored world map tile within 2 squares. Once you have used this feature in this way, you cannot do so again until after you recall.
+While you are the party token controller, you reveal obscuring tiles up to 2 squares away provided you start your turn on natural terrain. You automatically detect and disarm any natural traps while moving the party token through natural terrain. You may set a natural trap during your round. You can only have 1 trap set this way per world map. When you use this feature to set a new trap, any previously set traps are removed. You may use this feature to place a foothold or an objective outlined within your setting handbook on an explored world map tile within 2 squares. Once you have used this feature in this way, you cannot do so again until you recall.
 
 ## Scholar
 
