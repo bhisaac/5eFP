@@ -2,8 +2,6 @@
 
 The Five Energies Focus Practice (5eFP) is a tabletop role-playing game (TRPG) experience that combines fun and immersive gameplay with deepening levels of self-exploration. Inspired by the D20 fifth edition rules, 5eFP's dedication and inspiration rules are system-agnostic and can be used with any TRPG.
 
-> While the 5eFP System Reference Document (5eFP-SRD) is in development, this Introduction is aimed at TRPG players who want to explore a new way of playing with minimal focus on self-reflective and self-exploration practices. 5eFP-SRD appendices will include further information about 5eFP for those who want to understand and use 5eFP as a healing modality and philosophical worldview as we get closer to completing the final draft.
-
 _**Five Energies.**_ 5eFP is based on and inspired by the D20 fifth edition rules, which condenses all traditional D20 fifth edition skills into five essentials universal to all TRPGS: Insight, Medicine, Perception, Performance, and Survival. Skills are energies we use to affect change in the 5eFP game and real life (RL). Five Energies also refers to five elemental qualities: earth, water, fire, air, and aether.
 
 _**Focus.**_ Learning and gaining proficiency requires focus, time, and attention. Focus begins with cultivating greater awareness of thoughts, feelings, and instincts as sensations arise within the body. Reaching the next level of experience brings about greater awareness and deeper access to life's energy sourced from within ourselves.
@@ -11,114 +9,6 @@ _**Focus.**_ Learning and gaining proficiency requires focus, time, and attentio
 _**Practice.**_ Focus alone isn't enough. Results require real doing through regular and consistent gameplay. We transform TRPGs into mindful practices. Practices are activities we return to because they feed us in some way. Successful practices provide a nutrient missing in other activities. Our practice is regularly playing 5eFP games from beginning to end, fully conscious and aware at least once per month.
 
 > "Vision without action is a daydream. Action without vision is a nightmare." — Japanese Proverb
-
-## Game Terms and Basic Rules
-
-### Squares
-
-5eFP measures areas of effect, distance, movement, and range in squares. One square is equivalent to a 5-foot cube.
-
-### Difficulty Class (DC)
-
-The difficulty class (DC) describes the minimum number you need to roll on a check to consider it a success.
-
-### Critical Success
-
-When you roll the most favorable result before adding any modifiers on a die while attacking, making an ability check, or resisting a game feature, it is called a critical success. When this happens, you ignore the DC and consider the roll an automatic success. For example, in 5eFP, rolling a natural 20 on a d20 is a critical success, ignoring the DC and granting an automatic success.
-
-Rolling a 95% or higher on a d100 is considered a critical success. If a feature in 5eFP awards an expanded critical success range (crit range), subtract 5% from this number for each additional score in the crit range. For example, in 5eFP, a fighter with the champion feature grants an expanded crit range of 19. This means rolling a 19 or 20 on a d20 roll is considered a critical success. So, an expanded crit range of 19 means a result of 90% or higher on a d100 is considered a critical success.
-
-> A critical success occurs in skill-based systems whenever a player character (PC) scores four or more net successes. An increased crit range allows critical success if you roll three or more net successes.
->
-> Some tabletop roleplaying game (TRPG) systems consider lower numbers as successes. A critical success in such a system is the lowest number on the die, 5% or lower on a d100, and 10% or lower on a d100 with an expanded crit range.
-
-### Critical Failure
-
-Rolling the least favorable result before adding any modifiers on a die while attacking, making an ability check, or resisting a game feature is called a critical failure. When this happens, you ignore the DC and consider the roll an automatic failure. In 5eFP, rolling a 1 on a d20 is considered a critical failure. A 5% or lower on a d100 is considered a critical failure.
-
-> A critical failure occurs in skill-based systems whenever all dice in a test roll the least favorable result.
->
-> Some systems consider higher numbers as failures. A critical failure in such a system is the highest number on the die, and 95% or higher on a d100 is considered a critical failure.
-
-### Encounter
-
-An encounter is a special term used in 5eFP that describes all the related scenes that arise concerning a specific part of the story. An encounter might be stumbling upon a creature or creatures, talking with traveling merchants, or the span of an entire building or dungeon. An encounter typically lasts until the scene changes or until the encounter resolves. An encounter scene with hostile creatures, for example, only resolves after the creatures are dealt with in some way--either by overcoming them with force or by influencing them through persuasion or guile. Once the encounter ends, all encounter effects and features added during that encounter also end.
-
-### Minion Creature Encounters
-
-5eFP sometimes uses minion rules for creature encounters to expedite gameplay without sacrificing the action. Use minion rules for random encounters and any combat designed to slow the PCs down. Creatures in a minion creature encounter use the same game statistics provided except for the following changes:
-
-- Minions cannot resist PC effects or features
-- Minions always deal minimum damage
-- Minions are defeated or otherwise resolved if dealt any amount of damage
-
-### Advantage and Disadvantage
-
-Sometimes a special ability or spell tells you that you have advantage or disadvantage on a roll. When that happens, you make the roll twice. Use the better result of the two rolls if you have advantage, and use the worse of the two rolls if you have disadvantage. For example, if you have disadvantage and roll a 17 and a 5 on a d20, you use the 5. If you instead have advantage and roll those numbers, you use the 17.
-
-If multiple situations affect a roll and each one grants advantage or imposes disadvantage on it, you don’t roll more than one additional time. If two favorable situations grant advantage, for example, you still roll only one additional time.
-
-If circumstances cause a roll to have both advantage and disadvantage, you are considered to have neither of them, and you roll once. This is true even if multiple circumstances impose disadvantage and only one grants advantage or vice versa. In such a situation, you have neither advantage nor disadvantage.
-
-When you have advantage or disadvantage and something in the game lets you reroll the die, you can reroll only one of the two rolls before determining the result. You choose which one. For example, if you have a feature that allows you to reroll a critical failure while affected by advantage or disadvantage and roll a 1 and a 13 on a d20, you could use your feature to reroll the 1.
-
-You usually gain advantage or disadvantage through the use of special abilities, actions, or spells. Inspiration (see _Inspiration_ below) can also give a character advantage. The GM can also decide that circumstances influence a roll in one direction or the other and grant advantage or impose disadvantage as a result.
-
-### Constitution (CON)
-
-CON in 5eFP generally represents health and vitality. CON modifies MAX Wounds (see _MAX Wounds_ below) and adds a modifier to death saves (see _Death Saves_ below).
-
-### Strength (STR)
-
-STR in 5eFP generally represents your ability to lift, push, pull, or break something, to force your body through a space, or to otherwise apply brute force to a situation. STR modifies carrying capacity. Your STR may also modify your attack rolls.
-
-### Damage
-
-Attacks, effects, or features sometimes deal damage. In 5eFP, all damaging attacks, effects, or features deal a minimum of 1 point of damage. Particularly damaging attacks, effects, or features may deal 2 or more damage. For example, a normal sword deals 1 point of slashing damage, while a magic sword with a +1 bonus deals 2 points of magic damage on a successful attack. Game effects or features may allow you to reduce the damage you receive. You receive 1 wound for each point of damage taken (see _Wounds_ below).
-
-> 1 point of 5eFP damage is equivalent to 1 to 10 points of d20 fifth edition damage.
->
-> Attacks that roll a critical success deal double damage.
-
-### Healing
-
-All healing effects provide a minimum of 1 point of healing. Particularly strong healing may provide 2 or more points of healing. For each point of healing, you discard 1 wound (see _Wounds_ below). When you receive healing, you also stabilize (see _Stabalize_ below).
-
-### Wounds
-
-5eFP uses wounds instead of tracking health with hitpoints or another method. Your character gains a wound whenever an attack, effect, or feature assigns 1 or more points of damage. If more than 1 damage is dealt, the character will receive additional wounds equal to the excess damage. Wounds are cumulative up to MAX Wounds.
-
-### MAX Wounds
-
-MAX Wounds describes the maximum number of wounds you can have. Whenever you reach MAX Wounds, discard any additional wounds assigned beyond your MAX Wounds score and you gain the dying condition (see _Dying_ below).
-
-> Your MAX Wounds score depends on what kind of character you are playing. Healers have (4 + CON) MAX Wounds. Healers are generally good combatants with features that protect and heal themselves and others. Scoundrals have (4 + CON) MAX Wounds. Scoundrels are generally charismatic when seen and nearly invisible when unseen. Mages have (3 + CON) MAX Wounds. Mages are generally spellcasters or versatile specialists with more mental and less physical training. Warriors have (5 + CON) MAX Wounds. Warriors are fighters or expert combatants with extensive training in attacking and defending.
-
-### Prone
-
-- A prone creature’s only movement option is to crawl unless it spends half its movement to stand up, thereby ending the condition.
-- The creature has disadvantage on attack rolls.
-- An attack roll against the creature has advantage if the attacker is within 1 square of the creature. Otherwise, the attack roll has disadvantage.
-
-### Dying
-
-When you reach MAX Wounds, you gain the dying condition. As long as you have the dying condition, you are unconscious and fall prone. Additionally, at the beginning of each of your turns, you must spend your turn rolling a death save (see _Death Saves_ below). If an effect or feature ends the dying condition, remove all death save successes and failures from your character sheet. The dying condition ends if your character dies.
-
-### Death Saves
-
-Death saves are rolled when it is uncertain whether your character will survive to see the end of an encounter. In 5eFP a death save is a CON check with a DC of 10 on a d20 (a result of 50% or higher is needed on a die roll for a success). Not meeting this DC results in one failed death save. Meeting the DC results in one successful death save. Rolling a critical failure adds two automatic death save failures. Rolling a critical success provides enough healing to restore your character to minimum health. Each time your character takes 1 or more points of damage while dying, your character gains one automatic death save failure. Receiving a critical hit (an attack roll with a critical success result) while your character has the dying condition results in two automatic death save failures.
-
-If you fail three or more death saves, your character dies.
-
-> Character death in 5eFP is not considered a punishment. Therefore, instead of removing the player from the game, it is encouraged that the GM have pregenerated sidekick characters ready to play in case this happens. The player whose character dies can then choose and play one of the pre-generated characters and jump back into the action.
-
-Your character stabilizes if you succeed on three or more death saves (see _Stabalize_ below).
-
-> 5eFP is somewhat forgiving around character death because dice results can be capricious. The point of 5eFP is not to kill off all the PCs as fast as possible. Instead, it encourages ongoing gameplay with familiar characters to engender a felt experience over time. If your game has no grace period wherein PCs may recover from a deadly blow, then allow an inspired medicine (see Inspiration) to bring them back, but at the edge of death (one more hit will take them out again).
-
-### Stabilize
-
-Whenever you receive healing or the game says you stabilize while dying, discard the dying condition and remove all death-save failures and successes from your character sheet. You remain unconscious until the end of the encounter. If you are stabilized due to receiving healing, you wake up immediately and may take action on your next turn.
 
 ### Inspiration
 
