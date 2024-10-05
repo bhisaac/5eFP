@@ -10,9 +10,16 @@ _**Practice.**_ Focus alone isn't enough. Results require real doing through reg
 
 > "Vision without action is a daydream. Action without vision is a nightmare." — Japanese Proverb
 
-## Is 5eFP Right for You?
+### Is 5eFP Right for You?
 
 Self-reflection isn't for everyone. Most are content with minimizing the importance of instincts and embracing surface-level thoughts and feelings, even when doing so causes compound problems and difficulties to arise in their real lives. More still only gaze into the self-reflection mirror after being forced or pressured to do so. The majority of players seeking TRPGs do so to escape their real-life challenges. Escapest games can be fun, cathartic, and stress-relieving. If this is how you prefer to play, then 5eFP may not be a good fit for you. However, if you enjoy the escapist qualities of a TRPG while also seeking a deeper and greater understanding of yourself and your real life, then 5eFP is right for you.
+
+### Guiding Principles
+
+1. ** At-will gaming. ** 5eFP is an at-will TRPG game. Players participate in this practice because they wish to do so free from coercion, manipulation, or peer pressure.
+2. **Consent in gaming. ** 5eFP uses best practices for consent in gaming with the primary goal of creating a safe space for players to explore themselves through the characters they play and the game world their characters interact with. Infighting, backstabbing, or disharmonious behavior are commonly encountered in TRPGs, but 5eFP discourages this behavior.
+3. **No chasing or pursuing.** Players are free to enter or leave the practice whenever they wish. However, if a player chooses to leave a specific 5eFP practice, they cannot rejoin later. 5eFP's success depends on how much players allow it to affect them throughout. It's easy to give up and quit, especially when self-reflection reveals unpleasant qualities. 5eFP players are rewarded for sticking with it. If a player quits a specific 5eFP practice, then they must wait until a new practice is offered before joining again. When people walk away from the practice, we let them go.
+4. **No convincing.** 5eFP offers opportunities to go deeper within ourselves and is unconcerned with convincing people of anything. The nature of this practice is self-reflective. Only you know yourself best.
 
 # Character Creation
 
