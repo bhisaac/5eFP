@@ -2258,11 +2258,13 @@ _Prerequisite: Proficiency with medium armor_
 
 You gain proficiency with heavy armor and shields. At the beginning of each of your turns, if you are wearing heavy armor, you gain **bolster 1**. Unlike other sources of bolster, you may combine this bolster with another bolster. Once you combine bolsters in this way, you cannot do so again until your next turn.
 
+- 3⛁: Permanently increase your bolster score granted through this feature by +1. You may choose this option up to three times and only once per level.
+
 ## Armor Training (Medium)
 
 _Prerequisite: Proficiency with light armor_
 
-You gain proficiency with medium armor and shields. Increase your maximum DEX bonus allowed while wearing medium armor by +1. Medium armor no longer imposes disadvantage on DEX checks.
+You gain proficiency with medium armor and shields. Increase your maximum DEX score allowed while wearing medium armor by +1. Medium armor no longer imposes disadvantage on DEX checks.
 
 ## Armor Training (Light)
 
