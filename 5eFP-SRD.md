@@ -18,8 +18,8 @@ Self-reflection isn't for everyone. Most are content with minimizing the importa
 
 
 1. **Consent in gaming.** 5eFP uses best practices for consent in gaming with the primary goal of creating a safe space for players to explore themselves through the characters they play and the game world their characters interact with. Infighting, backstabbing, or disharmonious behavior are commonly encountered in TRPGs, but 5eFP discourages this behavior.
-2. **No chasing or pursuing.** 5eFP is an at-will TRPG game. Players participate in this practice because they wish to do so free from coercion, manipulation, or peer pressure. Players are free to enter or leave the practice whenever they wish. However, if a player chooses to leave a specific 5eFP practice, they cannot rejoin the same practice later. 5eFP's success depends on how much players allow it to affect them throughout. It's easy to give up and quit, especially when self-reflection reveals unpleasant qualities. 5eFP players are rewarded for sticking with it. If a player quits a specific 5eFP practice, then they must wait until a new practice is offered before joining again. When people walk away from the practice, we let them go. Financial prerequisites (if any) to join a 5eFP practice are nonrefundable when players choose to quit the practice early for personal reasons.
-3. **No convincing.** 5eFP offers opportunities to go deeper within ourselves and is unconcerned with convincing people of anything. The nature of this practice is self-reflective. Only you know yourself best.
+2. **No chasing or pursuing.** 5eFP is an at-will TRPG game. Players can join or leave the game freely, but once they leave, they cannot rejoin the same game. Players are rewarded for showing up and sticking with the game. Financial prerequisites for joining a 5eFP practice (if any) are nonrefundable.
+3. **No convincing.** 5eFP offers opportunities to go deeper within ourselves and is unconcerned with convincing people of anything. The nature of a 5eFP practice is self-reflective. Only you know yourself best.
 
 # Character Creation
 
