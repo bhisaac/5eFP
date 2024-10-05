@@ -1,6 +1,6 @@
 # Introduction
 
-The Five Energies Focus Practice (5eFP) is a tabletop role-playing game (TRPG) experience that combines fun and immersive gameplay with deepening levels of self-exploration. Inspired by the D20 fifth edition rules, 5eFP's dedication and inspiration rules are system-agnostic and can be used with any TRPG.
+The Five Energies Focus Practice (5eFP) is a tabletop role-playing game (TRPG) experience that combines fun and immersive gameplay with deepening levels of self-exploration. You can play 5eFP for fun, self-reflection, mindfulness, or all three combined. Inspired by the D20 fifth edition rules, 5eFP's dedication and inspiration rules are system-agnostic and can be used with any TRPG.
 
 _**Five Energies.**_ 5eFP is based on and inspired by the D20 fifth edition rules, which condenses all traditional D20 fifth edition skills into five essentials universal to all TRPGS: Insight, Medicine, Perception, Performance, and Survival. Skills are energies we use to affect change in the 5eFP game and real life (RL). Five Energies also refers to five elemental qualities: earth, water, fire, air, and aether.
 
@@ -10,14 +10,9 @@ _**Practice.**_ Focus alone isn't enough. Results require real doing through reg
 
 > "Vision without action is a daydream. Action without vision is a nightmare." — Japanese Proverb
 
-### Is 5eFP Right for You?
-
-Self-reflection isn't for everyone. Most are content with minimizing the importance of instincts and embracing surface-level thoughts and feelings, even when doing so causes compound problems and difficulties to arise in their lives. More still only gaze into the self-reflection mirror after being forced or pressured to do so. The majority of players seeking TRPGs do so to escape their real-life challenges. Escapest games can be fun, cathartic, and stress-relieving. If this is how you prefer to play, then 5eFP may not be a good fit for you. However, if you enjoy the escapist qualities of a TRPG while also seeking a deeper and greater understanding of yourself and your real life, then 5eFP is right for you.
-
 ### Guiding Principles
 
-
-1. **Consent in gaming.** 5eFP uses best practices for consent in gaming with the primary goal of creating a safe space for players to explore themselves through the characters they play and the game world their characters interact with. Infighting, backstabbing, or disharmonious behavior are commonly encountered in TRPGs, but 5eFP discourages this behavior.
+1. **Consent in gaming.** 5eFP uses best practices for consent in gaming to create a safe space for players so they may explore themselves through the characters they play and through the game world their characters interact with. Infighting, backstabbing, or disharmonious behavior are commonly encountered in TRPGs, but 5eFP discourages this behavior.
 2. **No chasing or pursuing.** 5eFP is an at-will TRPG game. Players can join or leave the game freely, but once they leave, they cannot rejoin the same game. Players are rewarded for showing up and sticking with the game. Financial prerequisites for joining a 5eFP practice (if any) are nonrefundable.
 3. **No convincing.** 5eFP offers opportunities to go deeper within ourselves and is unconcerned with convincing people of anything. The nature of a 5eFP practice is self-reflective. Only you know yourself best.
 
