@@ -12,9 +12,10 @@ _**Practice.**_ Focus alone isn't enough. Results require real doing through reg
 
 ### Guiding Principles
 
-1. **Consent in gaming.** 5eFP uses best practices for consent in gaming to create a safe space for players so they may explore themselves through the characters they play and through the game world their characters interact with. Infighting, backstabbing, or disharmonious behavior are commonly encountered in TRPGs, but 5eFP discourages this behavior.
-2. **No chasing or pursuing.** 5eFP is an at-will TRPG game. Players can join or leave the game freely, but once they leave, they cannot rejoin the same game. Players are rewarded for showing up and sticking with the game. Financial prerequisites for joining a 5eFP practice (if any) are nonrefundable.
-3. **No convincing.** 5eFP offers opportunities to go deeper within ourselves and is unconcerned with convincing people of anything. The nature of a 5eFP practice is self-reflective. Only you know yourself best.
+1. **Consent in gaming.** 5eFP uses best practices for consent in gaming to create a safe space for players to explore themselves through the characters they play and the game world their characters interact with. Infighting, backstabbing, or disharmonious behavior between payers is prohibited.
+2. **No chasing or pursuing.** 5eFP is an at-will TRPG game. Players can join or leave the game freely, but they cannot rejoin the same game once they leave. Players are rewarded for showing up and sticking with the game. 5eFP Game Masters (GMs) hold the center for all players, requiring cultivated skills and capacities that demand energy to sustain. Therefore, any financial prerequisites for joining a 5eFP practice are nonrefundable if you choose to quit early.
+3. **Productive Guidance.** 5eFP is designed to work with preestablished counselors, therapists, teachers, and guides. While players can learn and grow by themselves, it is strongly recommended that you seek out and ally with one of these guides, if you are using 5eFP primarily as a self-reflective and mindful practice. The content you create in 5eFP sessions can provide topics of interest for sessions with your guide. Conversely, your guide can suggest explorations that are well-suited for a 5eFP game session. It is one of the goals of 5eFP to encourage this kind of collaboration.
+4. **No convincing.** 5eFP provides a stage and platform for offering opportunities to delve deeper within ourselves without the need to convince people of anything. The nature of a 5eFP practice is self-directed and self-reflective. Only you know yourself best.
 
 # Character Creation
 
