@@ -10,6 +10,10 @@ _**Practice.**_ Focus alone isn't enough. Results require real doing through reg
 
 > "Vision without action is a daydream. Action without vision is a nightmare." — Japanese Proverb
 
+## Is 5eFP a Good Fit for You?
+
+Self-reflection isn't for everyone. Most are content with minimizing the importance of instincts and embracing surface-level thoughts and feelings, even when doing so causes compound problems and difficulties to arise in their real lives. More still only gaze into the self-reflection mirror after being forced or pressured to do so. The majority of players seeking TRPGs do so to escape their real-life challenges. Escapest games can be fun, cathartic, and stress-relieving. If this is how you prefer to play, then 5eFP may not be a good fit for you. However, if you enjoy the escapist qualities of a TRPG while also seeking a deeper and greater understanding of yourself and your real life, then 5eFP is right for you.
+
 # Character Creation
 
 **Ability Scores**
