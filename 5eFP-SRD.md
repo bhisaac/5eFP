@@ -2987,7 +2987,8 @@ Sometimes an attacker wants to incapacitate a foe, rather than deal a killing bl
 
 |   |**Minion**|**Elite**|**Boss**|
 |--:|:--------:|:-------:|:------:|
-|**Armor Class (AC), Difficulty Class (DC)**|12|13|14|
+|**Armor Class (AC)**|12|13|14|
+|**Difficulty Class (DC)**|12|13|14|
 |**Bonus**|+2|+3|+4|
 |**Damage**|1|1|1|
 |**MAX Wounds**|1|2|4|
