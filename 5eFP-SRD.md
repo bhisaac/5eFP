@@ -1,6 +1,6 @@
 # Introduction
 
-The Five Energies Focus Practice (5eFP) is a tabletop role-playing game (TRPG) experience that combines fun and immersive gameplay with deepening levels of self-exploration. 5eFP can be played for fun, self-reflection, mindfulness, or a combination of all three. Inspired by the D20 fifth edition rules, 5eFP's dedication and inspiration rules are system-agnostic and can be used with any TRPG.
+The Five Energies Focus Practice (5eFP) is a tabletop role-playing game (TRPG) experience that combines fun and immersive gameplay with deepening levels of self-exploration. 5eFP can be played for fun, self-reflection, mindfulness, or a combination of all three. 5eFP's dedication and inspiration rules are system-agnostic and can be used with any TRPG.
 
 _**Five Energies.**_ 5eFP is based on and inspired by the D20 fifth edition rules, which condenses all traditional D20 fifth edition skills into five essentials universal to all TRPGS: Insight, Medicine, Perception, Performance, and Survival. Skills are energies we use to affect change in the 5eFP game and real life (RL). Five Energies also refers to five elemental qualities: earth, water, fire, air, and aether.
 
