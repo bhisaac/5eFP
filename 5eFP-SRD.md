@@ -12,7 +12,7 @@ _**Practice.**_ Focus alone isn't enough. Results require real doing through reg
 
 ### Guiding Principles
 
-1. **Consent in gaming.** 5eFP uses best practices for consent in gaming to promote a safe space for players to explore themselves through the characters they play and the game world their characters interact with. Infighting, backstabbing, or disharmonious behavior between payers is prohibited.
+1. **Consent in gaming.** 5eFP uses consent in gaming to promote a safe space for players to explore themselves through the characters they play and the game world their characters interact with. Infighting, backstabbing, or disharmonious behavior between payers is prohibited.
     * [Free on Monty Cook Games](https://www.montecookgames.com/consent-in-gaming/)
     * [Free on DriveThruRPG](https://www.drivethrurpg.com/en/product/288535/consent-in-gaming?term=consent%20in)
 
