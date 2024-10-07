@@ -13,8 +13,8 @@ _**Practice.**_ Focus alone isn't enough. Results require real doing through reg
 ### Guiding Principles
 
 1. **Consent in gaming.** 5eFP uses best practices for consent in gaming to promote a safe space for players to explore themselves through the characters they play and the game world their characters interact with. Infighting, backstabbing, or disharmonious behavior between payers is prohibited.
-- [Free on Monty Cook Games](https://www.montecookgames.com/consent-in-gaming/)
-- [Free on DriveThruRPG](https://www.drivethrurpg.com/en/product/288535/consent-in-gaming?term=consent%20in)
+  - [Free on Monty Cook Games](https://www.montecookgames.com/consent-in-gaming/)
+  - [Free on DriveThruRPG](https://www.drivethrurpg.com/en/product/288535/consent-in-gaming?term=consent%20in)
 
 2. **Collaboration and Trust.** Game Masters (GMs) and player characters (PCs) collaborate to create a narrative all players enjoy. Story elements spontaneously arise during gameplay. GMs and PCs reflect upon them and make decisions that impact the game's story. GMs are particularly good at generating ideas for story elements. Still, a PC's idea can often be just as good, provided all players want to work together and trust each other. 5eFP GMs are excellent storytellers who provide the structure and platform for exploring these decisions and making recommendations to keep the story consistent and enjoyable for everyone.
 3. **No compulsion.** 5eFP is an at-will TRPG game, which means players play 5eFP because they are personally invested in it and want to. Players use their free agency to join or leave a 5eFP game without coercion, manipulation, or peer pressure. They are free to leave a 5eFP game at any time but cannot rejoin the same game once they leave. Players reward themselves and their characters when they show up and play the game.
