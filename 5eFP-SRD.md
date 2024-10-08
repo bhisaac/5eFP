@@ -168,7 +168,7 @@ Your halfling character has a number of traits in common with all other halfling
 
 **Lucky.** When you roll a 1 on the d20 for an attack roll or ability check, you can reroll the die and must use the new roll.
 
-**Brave.** You have advantage on ability checks against being frightened.
+**Brave.** You have advantage on ability checks against fear effects.
 
 **Halfling Nimbleness.** You can move through the space of any creature that is of a size larger than yours.
 
