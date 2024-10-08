@@ -1573,13 +1573,13 @@ For years, you spent your time on a seafaring vessel, braving powerful storms, s
 
 You gain the following features when HQ's docks are discovered.
 
-Once during the downtime phase, you and up to 4 other PCs may complete a round of downtime onboard a ship in HQ's docks without spending any coin. Before the end of your downtime round, move the party token (the ship) onto a different and accessible world map tile that shares the same terrain as HQ's docks. Ships return to HQ's dock at the end of the downtime round.
+Once during the downtime phase, you and up to 4 other PCs may complete one round of downtime onboard a ship in HQ's docks without spending any coin. Before the end of your downtime round, move the ship onto a different and accessible world map tile that shares the same terrain as HQ's docks. Ships return to HQ's dock at the end of the downtime round.
 
-After deploying onto the world map, you may choose to deploy onboard your ship if the group token is on the same terrain as HQ's docks. While you are the group token controller, the ship gives you +1 speed, and you may remove obscuring tiles up to 2 squares away.
+After deploying onto the world map, you may choose to deploy onboard your ship if the group token is on the same terrain as HQ's docks. Remove the group token from the world map and replace it with your ship token. Your ship token functions the same as a group token. While you are the group token controller onboard your ship, the ship gives you +1 speed, and you may remove obscuring tiles up to 2 squares away.
 
-If your ship is adjacent to a world map tile that does not share terrain with HQ's docks, all players may choose to embark simultaneously from the ship, placing the party token on an adjacent world map tile that does not share terrain with HQ's docks. All players can later board the ship simultaneously, removing the party token from the world map.
+If your ship is adjacent to a world map tile that does not share terrain with HQ's docks, all players may choose to embark simultaneously from the ship, placing the group token on an adjacent world map tile that does not share terrain with HQ's docks. While the players embark, the ship no longer counts as a group token. All players can later board the ship simultaneously, removing the party token from the world map. Once players board the ship, the ship resumes as the group token.
 
-At the end of the game session, your ship returns to dock.
+Your ship returns to dock when you return to HQ.
 
 ## Soldier
 
@@ -1605,7 +1605,7 @@ You grew up on the streets alone, fighting for survival every day. You had no fa
 
 ### Feature: Streetwise
 
-If you are the party controller and you move through 1 or more squares with the city, dungeon, or road terrains, you gain +1 speed and may move through buildings and end your turn on a building (rooftop) as if they were roads. Your pet critter allows you to remove one additional obscuring map tile up to 2 squares away. Also, your party is never surprised when the party token rests on a square with the building, city, dungeon, or road terrain.
+If you are the group token controller and you move through 1 or more squares with the city, dungeon, or road terrains, you gain +1 speed and may move through buildings and end your turn on a building (rooftop) as if they were roads. Buildings are considered difficult terrain. Your pet critter allows you to remove one additional obscuring map tile up to 2 squares away. Also, your party is never surprised when the group token is on a square with the building, city, dungeon, or road terrain.
 
 ## Background-Name
 
