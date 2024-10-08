@@ -278,10 +278,6 @@ Wisdom (WIS) is your spellcasting ability for your cleric spells. The power of y
 
 You can cast a cleric spell as a ritual if that spell has the ritual tag and you have the spell prepared.
 
-#### Spellcasting Focus
-
-You can use a holy symbol (see “Equipment”) as a spellcasting focus for your cleric spells.
-
 #### Divine Domain
 
 Choose one domain related to your deity, such as Life. Each domain is detailed at the end of the class description, and each one provides examples of gods associated with it. Your choice grants you domain spells and other features.
@@ -384,7 +380,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
 - (*a*) a wooden shield or (*b*) any simple weapon
 - (*a*) a scimitar or (*b*) any simple melee weapon
-- Leather armor, an explorer's pack, and a druidic focus
+- Leather armor, and an explorer's pack
 
 ### Druidic
 
@@ -418,10 +414,6 @@ Wisdom (WIS) is your spellcasting ability for your druid spells, since your magi
 
 You can cast a druid spell as a ritual if that spell has the ritual tag and you have the spell prepared.
 
-#### Spellcasting Focus
-
-You can use a druidic focus (see “Equipment”) as a spellcasting focus for your druid spells.
-
 ## Sorcerer
 
 #### Class Features
@@ -446,7 +438,6 @@ As a sorcerer, you gain the following class features.
 You start with the following equipment, in addition to the equipment granted by your background:
 
 - (a) a light crossbow and bolts or (b) any simple weapon
-- (a) a component pouch or (b) an arcane focus
 - (a) a dungeoneer’s pack or (b) an explorer’s pack
 - Daggers
 
@@ -477,9 +468,6 @@ Charisma (CHA) is your spellcasting ability for your sorcerer spells, since the 
 **Spell DC** = 10 + CHA
 
 **Spell attack modifier** = 2 + CHA
-
-#### Spellcasting Focus
-You can use an arcane focus as a spellcasting focus for your sorcerer spells.
 
 ### Sorcerous Origin
 
@@ -539,7 +527,6 @@ As a warlock, you gain the following class features.
 
 You start with the following equipment, in addition to the equipment granted by your background:
 - (a) a light crossbow and bolts or (b) any simple weapon
-- (a) a component pouch or (b) an arcane focus
 - (a) a scholar’s pack or (b) a dungeoneer’s pack
 - Leather armor, any simple weapon, and two daggers
 
@@ -633,7 +620,6 @@ As a wizard, you gain the following class features.
 
 You start with the following equipment, in addition to the equipment granted by your background:
 - (a) a quarterstaff or (b) a dagger
-- (a) a component pouch or (b) an arcane focus
 - (a) a scholar’s pack or (b) an explorer’s pack
 - A spellbook
 
@@ -666,10 +652,6 @@ INT is your spellcasting ability for your wizard spells,	since you learn your sp
 **Spell DC** = 10 + INT
 
 **Spell attack modifier** = 2 + INT
-
-#### Spellcasting Focus
-
-You can use an arcane focus as a spellcasting focus for your wizard spells.
 
 #### Learning Spells of 1st Level and Higher
 
@@ -1874,8 +1856,6 @@ This section describes items that have special rules or require further explanat
 
 **_Antitoxin._** A creature that drinks this vial of liquid gains advantage on ability checks against poison for 1 hour. It confers no benefit to undead or constructs.
 
-**_Arcane Focus._** An arcane focus is a special item—an orb, a crystal, a rod, a specially constructed staff, a wand-­like length of wood, or some similar item—designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus.
-
 Ball Bearings. As an action, you can spill these tiny metal balls from their pouch to cover a level, square area that is 10 feet on a side. A creature moving across the covered area must succeed on a DC 10 DEX check or fall prone. A creature moving through the area at half speed doesn’t need to make the DEX check.
 
 Block and Tackle. A set of pulleys with a cable threaded through them and a hook to attach to objects, a block and tackle allows you to hoist up to four times the weight you can normally lift.
@@ -1898,13 +1878,11 @@ Component Pouch. A component pouch is a small, watertight leather belt pouch tha
 
 Crowbar. Using a crowbar grants advantage to Strength checks where the crowbar’s leverage can be applied.
 
-Druidic Focus. A druidic focus might be a sprig of mistletoe or holly, a wand or scepter made of yew or another special wood, a staff drawn whole out of a living tree, or a totem object incorporating feathers, fur, bones, and teeth from sacred animals. A druid can use such an object as a spellcasting focus.
-
 Fishing Tackle. This kit includes a wooden rod, silken line, corkwood bobbers, steel hooks, lead sinkers, velvet lures, and narrow netting.
 
 Healer’s Kit. This kit is a leather pouch containing bandages, salves, and splints. The kit has ten uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 hit points, without needing to make a WIS check.
 
-Holy Symbol. A holy symbol is a representation of a god or pantheon. It might be an amulet depicting a symbol representing a deity, the same symbol carefully engraved or inlaid as an emblem on a shield, or a tiny box holding a fragment of a sacred relic. Appendix PH-­‐‑B "Fantasy-­‐‑Historical Pantheons" lists the symbols commonly associated with many gods in the multiverse. A cleric or paladin can use a holy symbol as a spellcasting focus. To use the symbol in this way, the caster must hold it in hand, wear it visibly, or bear it on a shield.
+Holy Symbol. A holy symbol is a representation of a god or pantheon. It might be an amulet depicting a symbol representing a deity, the same symbol carefully engraved or inlaid as an emblem on a shield, or a tiny box holding a fragment of a sacred relic. Appendix PH-­‐‑B "Fantasy-­‐‑Historical Pantheons" lists the symbols commonly associated with many gods in the multiverse.
 
 Holy Water. As an action, you can splash the contents of this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. In either case, make a ranged attack against a target creature, treating the holy water as an improvised weapon. If the target is a fiend or undead, it takes 2d6 radiant damage.
 
@@ -2030,34 +2008,6 @@ Torch. A torch burns for 1 hour, providing bright light in a 20-­‐‑foot rad
 |Spikes, iron (10)||||
 |Tinderbox||||
 |Whetstone||||
-
-#### ARCANE FOCUS
-|||||
-|:-|:-:|:-|:-|
-|**Item**|**Cost**|**Slots**|**Properties**|
-|Crystal||||
-|Orb||||
-|Rod||||
-|Staff||||
-|Wand||||
-
-#### DRUIDIC FOCUS
-|||||
-|:-|:-:|:-|:-|
-|**Item**|**Cost**|**Slots**|**Properties**|
-|Sprig of mistletoe||||
-|Totem||||
-|Wodden staff||||
-|Yew wand||||
-
-#### HOLY SYMBOL
-|||||
-|:-|:-:|:-|:-|
-|**Item**|**Cost**|**Slots**|**Properties**|
-|Amulet||||
-|Emblem||||
-|Reliquary||||
-
 
 ---
 
