@@ -119,7 +119,7 @@ Your elf character has a variety of natural abilities, a result of thousands of 
 
 **Speed.** Your base walking speed is 6 squares.
 
-**Keen Senses.** You gain advantage on Perception checks.
+**Keen Senses.** You gain advantage on WIS checks to spot, hear, or otherwise detect the presence of something.
 
 **Fey Ancestry.** You have advantage on ability checks against being charmed, and magic can’t put you to sleep.
 
@@ -449,7 +449,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
 ### Druidic
 
-You know Druidic, the secret language of druids. You can speak the language and use it to leave hidden messages. You and others who know this language automatically spot such a message. Others spot the message’s presence with a successful (DC 15) Perception check but can’t decipher it without magic.
+You know Druidic, the secret language of druids. You can speak the language and use it to leave hidden messages. You and others who know this language automatically spot such a message. Others spot the message’s presence with a successful (DC 15) WIS check but can’t decipher it without magic.
 
 #### Spellcasting
 
@@ -1672,7 +1672,7 @@ The Armor table shows the cost, weight, and other properties of the common types
 
 ***Heavy Armor.*** Heavier armor interferes with the wearer’s ability to move quickly, stealthily, and freely. If the Armor table shows “Str +1” or “Str +2”, the armor reduces the wearer’s speed by 2 squares unless the wearer has a STR score equal to or higher than the listed score.
 
-***Stealth.*** If the Armor table shows “Disadvantage”, the wearer has disadvantage on Performance (stealth) checks.
+***Stealth.*** If the Armor table shows “Disadvantage”, the wearer has disadvantage on DEX checks.
 
 ***Shields.*** A shield is made from wood or metal and is carried in one hand. Wielding a shield increases your Armor Class by 2. You can benefit from only one shield at a time.
 
@@ -1889,7 +1889,7 @@ Druidic Focus. A druidic focus might be a sprig of mistletoe or holly, a wand or
 
 Fishing Tackle. This kit includes a wooden rod, silken line, corkwood bobbers, steel hooks, lead sinkers, velvet lures, and narrow netting.
 
-Healer’s Kit. This kit is a leather pouch containing bandages, salves, and splints. The kit has ten uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 hit points, without needing to make a Wisdom (Medicine) check.
+Healer’s Kit. This kit is a leather pouch containing bandages, salves, and splints. The kit has ten uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 hit points, without needing to make a WIS check.
 
 Holy Symbol. A holy symbol is a representation of a god or pantheon. It might be an amulet depicting a symbol representing a deity, the same symbol carefully engraved or inlaid as an emblem on a shield, or a tiny box holding a fragment of a sacred relic. Appendix PH-­‐‑B "Fantasy-­‐‑Historical Pantheons" lists the symbols commonly associated with many gods in the multiverse. A cleric or paladin can use a holy symbol as a spellcasting focus. To use the symbol in this way, the caster must hold it in hand, wear it visibly, or bear it on a shield.
 
@@ -2381,7 +2381,7 @@ Here’s how to determine a character’s total for a passive check:
 
 If the character has advantage on the check, add 5. For disadvantage, subtract 5. The game refers to a passive check total as a **score**.
 
-For example, Monrovia is a 1st-­level character with WIS +2 proficiency assigned to Perception. Thus Monrovia's passive Perception score is 13 (10 + 2 [WIS] + 1 [LEVEL]).
+For example, Monrovia is a 1st-­level character with WIS +2. Thus Monrovia's passive WIS score is 13 (10 + 2 [WIS] + 1 [LEVEL]).
 
 The rules on hiding in the “Dexterity” section below rely on passive checks, as do the exploration rules.
 
@@ -2397,7 +2397,7 @@ When a number of individuals are trying to accomplish something as a group, the 
 
 To make a group ability check, everyone in the group makes the ability check. If at least half the group succeeds, the whole group succeeds. Otherwise, the group fails.
 
-Group checks don’t come up very often, and they’re most useful when all the characters succeed or fail as a group. For example, when adventurers are navigating a swamp, the GM might call for a group Survival check to see if the characters can avoid the quicksand, sinkholes, and other natural hazards of the environment. If at least half the group succeeds, the successful characters are able to guide their companions out of danger. Otherwise, the group stumbles into one of these hazards.
+Group checks don’t come up very often, and they’re most useful when all the characters succeed or fail as a group. For example, when adventurers are navigating a swamp, the GM might call for a group WIS check to see if the characters can avoid the quicksand, sinkholes, and other natural hazards of the environment. If at least half the group succeeds, the successful characters are able to guide their companions out of danger. Otherwise, the group stumbles into one of these hazards.
 
 ## Using Each Ability
 
@@ -3169,7 +3169,7 @@ Some creatures have vulnerability, resistance, or immunity to certain types of d
 
 ### Senses
 
-The Senses entry notes a monster’s passive Perception score, as well as any special senses the monster might have. Special senses are described below.
+The Senses entry notes a monster’s senses. Senses are described below.
 
 #### Blindsight
 
@@ -4188,7 +4188,6 @@ An awakened shrub is an ordinary plant given sentience and mobility by the *awak
 
 - **Damage Vulnerability** fire
 - **Damage Resistances** piercing
-- **Senses** passive Perception 10
 - **Languages** understands Common in addition to the languages used by their creator but can’t speak.
 - **Size** small
 - **Speed** 4
