@@ -1575,7 +1575,11 @@ You gain the following features when HQ's docks are discovered.
 
 Once during the downtime phase, you and up to 4 other PCs may complete a round of downtime onboard a ship in HQ's docks without spending any coin. Before the end of your downtime round, move the party token (the ship) onto a different and accessible world map tile that shares the same terrain as HQ's docks. Ships return to HQ's dock at the end of the downtime round.
 
-Before deploying onto the world map, you may instead choose to deploy to the same destination onboard your ship if the group token is on the same terrain as HQ's docks. Your ship can only move through world map tiles that share terrain with HQ's docks. While you are the group token controller, the ship gives you +1 speed, and you may remove obscuring tiles up to 2 squares away. At the end of the game session, your ship returns to dock.
+After deploying onto the world map, you may choose to deploy onboard your ship if the group token is on the same terrain as HQ's docks. While you are the group token controller, the ship gives you +1 speed, and you may remove obscuring tiles up to 2 squares away.
+
+If your ship is adjacent to a world map tile that does not share terrain with HQ's docks, all players may choose to embark simultaneously from the ship, placing the party token on an adjacent world map tile that does not share terrain with HQ's docks. All players can later board the ship simultaneously, removing the party token from the world map.
+
+At the end of the game session, your ship returns to dock.
 
 ## Soldier
 
