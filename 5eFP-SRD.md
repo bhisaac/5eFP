@@ -1355,16 +1355,16 @@ Your medicine stabilizes wounds.
 
 Choose any number of creatures your character can see within 6 squares of you who are at MAX Wounds. The chosen creatures receive 1 point of healing.
 
->> #### Other Game Systems
->> Choose any number of creatures your character can see within 6 squares of you who are unconscious and dying. The selected creatures receive sufficient healing to stabilize their wounds, regain minimal health, and awaken, allowing them to take action on their next turn.
->>
->>> 5eFP is forgiving around character death because the point of 5eFP is not to kill off all the PCs as fast as possible. Instead, it encourages _ongoing gameplay with familiar characters to engender a felt experience over time_. If your game has no grace period wherein PCs may recover from a deadly blow, then allow an inspired medicine to bring them back, but at the edge of death (one more hit will take them out again).
->>>
->>> _Character death in 5eFP is not considered a punishment_. Therefore, instead of removing players from the game session and only allowing them to spectate, it is encouraged that the GM have pre-generated characters ready to play in case this happens. A player whose character dies chooses and plays a different pre-generated character. The chosen pre-generated character then deploys and appears near the character who died. Later, the player may choose to play any of the pre-generated characters moving forward.
->>>
->>> Alternatively, GMs can discover three random creature encounters, allowing the player to choose one and discard the remaining two. If an encounter lists multiple creatures, the player chooses which creature and discards the remaining creatures. The player deploys as that chosen creature from the chosen random encounter.
->>>
->>> Later, if a character who died is revived, the player who originally played that character may choose which character they wish to continue playing. If a player chooses to play their original character, update the character to match the current level of play and experience.
+> #### Other Game Systems
+> Choose any number of creatures your character can see within 6 squares of you who are unconscious and dying. The selected creatures receive sufficient healing to stabilize their wounds, regain minimal health, and awaken, allowing them to take action on their next turn.
+
+> 5eFP is forgiving around character death because the point of 5eFP is not to kill off all the PCs as fast as possible. Instead, it encourages _ongoing gameplay with familiar characters to engender a felt experience over time_. If your game has no grace period wherein PCs may recover from a deadly blow, then allow an inspired medicine to bring them back, but at the edge of death (one more hit will take them out again).
+>
+> _Character death in 5eFP is not considered a punishment_. Therefore, instead of removing players from the game session and only allowing them to spectate, it is encouraged that the GM have pre-generated characters ready to play in case this happens. A player whose character dies chooses and plays a different pre-generated character. The chosen pre-generated character then deploys and appears near the character who died. Later, the player may choose to play any of the pre-generated characters moving forward.
+>
+> Alternatively, GMs can discover three random creature encounters, allowing the player to choose one and discard the remaining two. If an encounter lists multiple creatures, the player chooses which creature and discards the remaining creatures. The player deploys as that chosen creature from the chosen random encounter.
+>
+> Later, if a character who died is revived, the player who originally played that character may choose which character they wish to continue playing. If a player chooses to play their original character, update the character to match the current level of play and experience.
 
 ### Perception
 
