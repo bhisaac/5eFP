@@ -1357,7 +1357,7 @@ Choose any number of creatures your character can see within 6 squares of you wh
 
 > #### Other Game Systems
 > Choose any number of creatures your character can see within 6 squares of you who are unconscious and dying. The selected creatures receive sufficient healing to stabilize their wounds, regain minimal health, and awaken, allowing them to take action on their next turn.
-
+>
 > 5eFP is forgiving around character death because the point of 5eFP is not to kill off all the PCs as fast as possible. Instead, it encourages _ongoing gameplay with familiar characters to engender a felt experience over time_. If your game has no grace period wherein PCs may recover from a deadly blow, then allow an inspired medicine to bring them back, but at the edge of death (one more hit will take them out again).
 
 ### Perception
