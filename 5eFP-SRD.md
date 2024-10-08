@@ -254,7 +254,7 @@ If you are able to cast spells, you can’t cast them or concentrate on them whi
 
 Your rage ends early if you are knocked unconscious or if your turn ends and you haven’t attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.
 
-You can rage twice per game.
+You can rage twice per game session.
 
 ### Unarmored Defense
 
