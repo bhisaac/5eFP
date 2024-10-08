@@ -1465,7 +1465,7 @@ You are a natural performer who can captivate, entertain, and motivate your audi
 
 ### Feature: By Popular Demand
 
-If you spend a round of downtime at an inn, tavern, circus, theater, or in a noble's court, you gain ⛁. Bonus coins awarded through this feature can only be spent on rest and repairs. Afterward, you may spend 1 downtime round without spending any coin.
+If you spend a round of downtime at an inn, tavern, circus, theater, or in a noble's court, you gain ⛁. Bonus coins awarded through this feature can only be spent on rest and repairs. Afterward, you may spend 1 additional downtime round without spending any coin.
 
 ## Folk Hero
 
