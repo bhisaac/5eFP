@@ -237,7 +237,7 @@ It’s hard to make generalizations about humans, but your human character has t
 **Equipment**
 
 You start with the following equipment, in addition to the equipment granted by your background:
-- (*a*) a greataxe or (*b*) any martial melee weapon
+- (*a*) a battleaxe or (*b*) any martial melee weapon
 - (*a*) handaxes or (*b*) any simple weapon
 - An explorer's pack and javelins
 
