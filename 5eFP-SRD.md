@@ -3422,7 +3422,7 @@ Regardless of how many spells casters know or prepare, they can cast only a limi
 
 When characters cast a spell, they expend a slot of that spell’s level or higher, effectively “filling” a slot with the spell. You can think of a spell slot as a groove of a certain size—small for a 1st-­level slot, larger for a spell of higher level. A 1st-­level spell fits into a slot of any size, but a 7th-level spell fits only in a 7th-­level slot.
 
-Spell slots are restored after recalling to HQ. 
+Spell slots are restored at the end of a game session.
 
 Some characters and monsters have special abilities that let them cast spells without using spell slots. For example, a monk who follows the Way of the Four Elements, a warlock who chooses certain eldritch invocations, and a pit fiend from the Nine Hells can all cast spells in such a way.
 
