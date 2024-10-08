@@ -2969,6 +2969,751 @@ Mighty villains and special nonplayer characters (NPCs) are common exceptions; t
 
 Sometimes an attacker wants to incapacitate a foe, rather than deal a killing blow. When an attacker adds enough wounds to a creature to reach its MAX Wounds score with a melee attack, the attacker can knock the creature out. The attacker can make this choice the instant the damage is dealt. The creature falls unconscious and is stable.
 
+# Spellcasting
+
+Magic permeates fantasy gaming worlds and often appears in the form of a spell.
+
+This section provides the rules for casting spells. Different character classes have distinctive ways of learning and preparing their spells, and monsters use spells in unique ways. Regardless of its source, a spell follows the rules here.
+
+## What Is a Spell?
+
+A spell is a discrete magical effect, a single shaping of the magical energies that suffuse the multiverse into a specific, limited expression. In casting a spell, a character carefully plucks at the invisible strands of raw magic suffusing the world, pins them in place in a particular pattern, sets them vibrating in a specific way, and then releases them to unleash the desired effect—in most cases, all in the span of seconds.
+
+Spells can be versatile tools, weapons, or protective wards. They can deal damage or undo it, impose or remove conditions (see appendix PH-­A), drain life energy away, and restore life to the dead.
+
+Uncounted thousands of spells have been created over the course of the multiverse’s history, and many of them are long forgotten. Some might yet lie recorded in crumbling spellbooks hidden in ancient ruins or trapped in the minds of dead gods. Or they might someday be reinvented by a character who has amassed enough power and understanding to do so.
+
+### Spell Level
+
+Every spell has a level from 0 to 7. A spell’s level is a general indicator of how powerful it is, with the lowly (but still impressive) _magic missile_ at 1st level and the earth-­shaking _earthquake_ at 7th. Cantrips—simple but powerful spells that characters can cast almost by rote—are level 0. The higher a spell’s level, the higher level a spellcaster must be to use that spell.
+
+Spell level and character level correspond directly. To cast a spell, your level must equal or exceed the spell's level. For example, a character must be at least 2nd-level to cast a 2nd-­level spell, and the most powerful spells, 7th-level, become available during character level 7.
+
+### Known and Prepared Spells
+
+Spellcasters must have the spell firmly fixed in mind before they can use it, or they must have access to the spell with a magic item. Members of a few classes, including bards and sorcerers, have a limited list of spells they know that are always fixed in mind. The same thing is true of many magic-­using monsters. Other spellcasters, such as clerics and wizards, undergo a process of preparing spells. This process varies for different classes, as detailed in their descriptions.
+
+In every case, the number of spells a caster can have fixed in mind at any given time depends on how many Magic feature upgrades a character unlocks with Coin.
+
+### Spell Slots
+
+Regardless of how many spells casters know or prepare, they can cast only a limited number of spells before resting. Manipulating the fabric of magic and channeling its energy into even a simple spell is physically and mentally taxing, and higher-level spells are even more so.
+
+When characters cast a spell, they expend a slot of that spell’s level or higher, effectively “filling” a slot with the spell. You can think of a spell slot as a groove of a certain size—small for a 1st-­level slot, larger for a spell of higher level. A 1st-­level spell fits into a slot of any size, but a 7th-level spell fits only in a 7th-­level slot.
+
+Spell slots are restored at the end of a game session.
+
+Some characters and monsters have special abilities that let them cast spells without using spell slots. For example, a monk who follows the Way of the Four Elements, a warlock who chooses certain eldritch invocations, and a pit fiend from the Nine Hells can all cast spells in such a way.
+
+#### Casting a Spell at a Higher Level
+
+When a spellcaster casts a spell using a slot that is of a higher level than the spell, the spell assumes the higher level for that casting. For instance, if a spellcaster casts _magic missile_ using a 2nd-­level slot, that _magic missile_ is 2nd level. Effectively, the spell expands to fill the slot it is put into.
+
+Some spells, such as _magic missile_ and _cure wounds_, have more powerful effects when cast at a higher level, as detailed in a spell’s description.
+
+>#### Casting in Armor
+>Because of the mental focus and precise gestures required for spellcasting, you must be proficient with the armor you are wearing to cast a spell. You are otherwise too distracted and physically hampered by your armor for spellcasting.
+
+### Cantrips
+
+A cantrip is a spell that can be cast at will, without using a spell slot and without being prepared in advance. Repeated practice has fixed the spell in the caster’s mind and infused the caster with the magic needed to produce the effect over and over. A cantrip’s spell level is 0.
+
+### Rituals
+
+Certain spells have a special tag: ritual. Such a spell can be cast following the normal rules for spellcasting, or the spell can be cast as a ritual. The ritual version of a spell takes 10 minutes longer to cast than normal. It also doesn’t expend a spell slot, which means the ritual version of a spell can’t be cast at a higher level.
+
+To cast a spell as a ritual, a spellcaster must have a feature that grants the ability to do so. The cleric and the druid, for example, have such a feature. The caster must also have the spell prepared or on his or her list of spells known, unless the character’s ritual feature specifies otherwise, as the wizard’s does.
+
+Casting a Spell
+
+When a character casts any spell, the same basic rules are followed, regardless of the character’s class or the spell’s effects.
+
+Each spell description begins with a block of information, including the spell’s name, level, school of magic, casting time, range, components, and duration. The rest of a spell entry describes the spell’s effect.
+
+## Casting a Spell
+
+When a character casts any spell, the same basic rules are followed, regardless of the character’s class or the spell’s effects.
+
+Each spell description begins with a block of information, including the spell’s name, level, school of magic, casting time, range, components, and duration. The rest of a spell entry describes the spell’s effect.
+
+### Casting Time
+
+Most spells require a single action to cast, but some spells require a bonus action, a reaction, or much more time to cast.
+
+#### Bonus Action
+
+A spell cast with a bonus action is especially swift. You must use a bonus action on your turn to cast the spell, provided that you haven’t already taken a bonus action this turn. You can’t cast another spell during the same turn, except for a cantrip with a casting time of 1 action.
+
+#### Reactions
+
+Some spells can be cast as reactions. These spells take a fraction of a second to bring about and are cast in response to some event. If a spell can be cast as a reaction, the spell description tells you exactly when you can do so.
+
+#### Longer Casting Times
+
+Certain spells (including spells cast as rituals) require more time to cast: minutes or even hours. When you cast a spell with a casting time longer than a single action or reaction, you must spend your action each turn casting the spell, and you must maintain your concentration while you do so (see “Concentration” below). If your concentration is broken, the spell fails, but you don’t expend a spell slot. If you want to try casting the spell again, you must start over.
+
+### Range
+
+The target of a spell must be within the spell’s range. For a spell like _magic missile_, the target is a creature. For a spell like _fireball_, the target is the point in space where the ball of fire erupts.
+
+Most spells have ranges expressed in squares. Some spells can target only a creature (including you) that you touch. Other spells, such as the _shield_ spell, affect only you. These spells have a range of self.
+
+Spells that create cones or lines of effect that originate from you also have a range of self, indicating that the origin point of the spell’s effect must be you (see “Areas of Effect”).
+
+Once a spell is cast, its effects aren’t limited by its range, unless the spell’s description says otherwise.
+
+### Components
+
+A spell’s components are the physical requirements you must meet in order to cast it. Each spell’s description indicates whether it requires verbal (V) or somatic (S) components. If you can’t provide one or more of a spell’s components, you are unable to cast the spell.
+
+#### Verbal (V)
+
+Most spells require the chanting of mystic words. The words themselves aren’t the source of the spell’s power; rather, the particular combination of sounds, with specific pitch and resonance, sets the threads of magic in motion. Thus, a character who is gagged or in an area of silence, such as one created by the silence spell, can’t cast a spell with a verbal component.
+
+#### Somatic (S)
+
+Spellcasting gestures might include a forceful gesticulation or an intricate set of gestures. If a spell requires a somatic component, the caster must have free use of at least one hand to perform these gestures.
+
+~~#### Material (M)~~
+
+~~Casting some spells requires particular objects, specified in parentheses in the component entry. A character can use a **component pouch** or a **spellcasting focus** (found in “Equipment”) in place of the components specified for a spell. But if a cost is indicated for a component, a character must have that specific component before he or she can cast the spell.~~
+
+~~If a spell states that a material component is consumed by the spell, the caster must provide this component for each casting of the spell.~~
+
+~~A spellcaster must have a hand free to access a spell’s material components—or to hold a spellcasting focus—but it can be the same hand that he or she uses to perform somatic components.~~
+
+### Duration
+
+A spell’s duration is the length of time the spell persists. A duration can be the length of an encounter, instantaneous, or until the PCs recall back to HQ. Some spells specify that their effects last until the spells are dispelled or destroyed.
+
+#### Encounter
+
+A number of spells have durations longer than an instant but shorter than a game session. These spells persist for the length of an encounter. Whenever you cast these spells while on the overland movement map of a world map tile, their effects remain as long as you do not change maps. If you change maps due to an encounter or by entering a foothold, the spell's duration ends when you resolve the random encounter or when you complete the foothold.
+
+#### Instantaneous
+
+Many spells are instantaneous. The spell harms, heals, creates, or alters a creature or an object in a way that can’t be dispelled, because its magic exists only for an instant.
+
+#### Recall
+
+Some spells have lingering effects. A spell with a duration of recall lasts until the PCs recall and return to HQ.
+
+### Concentration
+
+Spells with durations longer than instantaneous require you to maintain concentration in order to keep their magic active. If you lose concentration, such a spell ends.
+
+You can end concentration at any time (no action required).
+
+Normal activity, such as moving and attacking, doesn’t interfere with concentration. The following factors can break concentration:
+- **Casting another spell with a duration longer than instantaneous.** You lose concentration on a spell if you cast another spell that requires concentration. You can’t concentrate on two spells at once.
+- **Taking damage.** Whenever you take one or more wounds while you are concentrating on a spell, you must make a CON check to maintain your concentration. The DC equals 9 + the number of wounds received. If you take wounds from multiple sources, such as an arrow and a dragon’s breath, you make a separate check for each source of damage.
+- **Being incapacitated or killed.** You lose concentration on a spell if you are incapacitated or if you die.
+
+The GM might also decide that certain environmental phenomena, such as a wave crashing over you while you’re on a storm-­tossed ship, require you to succeed on a DC 10 CON check to maintain concentration on a spell.
+
+### Targets
+
+A typical spell requires you to pick one or more targets to be affected by the spell’s magic. A spell’s description tells you whether the spell targets creatures, objects, or a point of origin for an area of effect (described below).
+
+Unless a spell has a perceptible effect, a creature might not know it was targeted by a spell at all. An effect like crackling lightning is obvious, but a more subtle effect, such as an attempt to read a creature’s thoughts, typically goes unnoticed, unless a spell says otherwise.
+
+#### A Clear Path to the Target
+
+To target something, you must have a clear path to it, so it can’t be behind total cover.
+
+If you place an area of effect at a point that you can’t see and an obstruction, such as a wall, is between you and that point, the point of origin comes into being on the near side of that obstruction.
+
+#### Targeting Yourself
+
+If a spell targets a creature of your choice, you can choose yourself, unless the creature must be hostile or specifically a creature other than you. If you are in the area of effect of a spell you cast, you can target yourself.
+
+### Areas of Effect
+
+Spells such as _burning hands_ and _cone of cold_ cover an area, allowing them to affect multiple creatures at once.
+
+A spell’s description specifies its area of effect, which typically has one of five different shapes: cone, cube, cylinder, line, or sphere. Every area of effect has a **point of origin**, a location from which the spell’s energy erupts. The rules for each shape specify how you position its point of origin. Typically, a point of origin is a point in space, but some spells have an area whose origin is a creature or an object.
+
+A spell’s effect expands in straight lines from the point of origin. If no unblocked straight line extends from the point of origin to a location within the area of effect, that location isn’t included in the spell’s area. To block one of these imaginary lines, an obstruction must provide total cover.
+
+#### Cone
+
+A cone extends in a direction you choose from its point of origin. A cone’s width at a given point along its length is equal to that point’s distance from the point of origin. A cone’s area of effect specifies its maximum length.
+
+A cone’s point of origin is not included in the cone’s area of effect, unless you decide otherwise.
+
+#### Cube
+
+You select a cube’s point of origin, which lies anywhere on a face of the cubic effect. The cube’s size is expressed as the length of each side.
+
+A cube’s point of origin is not included in the cube’s area of effect, unless you decide otherwise.
+
+#### Cylinder
+
+A cylinder’s point of origin is the center of a circle of a particular radius, as given in the spell description. The circle must either be on the ground or at the height of the spell effect. The energy in a cylinder expands in straight lines from the point of origin to the perimeter of the circle, forming the base of the cylinder. The spell’s effect then shoots up from the base or down from the top, to a distance equal to the height of the cylinder.
+
+A cylinder’s point of origin is included in the cylinder’s area of effect.
+
+#### Line
+
+A line extends from its point of origin in a straight path up to its length and covers an area defined by its width.
+
+A line’s point of origin is not included in the line’s area of effect, unless you decide otherwise.
+
+#### Sphere
+
+You select a sphere’s point of origin, and the sphere extends outward from that point. The sphere’s size is expressed as a radius in feet that extends from the point.
+
+A sphere’s point of origin is included in the sphere’s area of effect.
+
+### Resisting Spells
+
+Many spells specify that a target can make an ability check to avoid some or all of a spell’s effects. The spell specifies the ability that the target uses for the check and what happens on a success or failure.
+
+The DC to resist one of your spells equals 10 + your spellcasting ability + any special modifiers.
+
+### Attack Rolls
+
+Some spells require the caster to make an attack roll to determine whether the spell effect hits the intended target. Your attack bonus with a spell attack equals your spellcasting ability modifier + your proficiency bonus.
+
+Most spells that require attack rolls involve ranged attacks. Remember that you have disadvantage on a ranged attack roll if you are within 1 square of a hostile creature that can see you and that isn’t incapacitated.
+
+>#### The Schools of Magic
+>Academies of magic group spells into eight categories called schools of magic. Scholars, particularly wizards, apply these categories to all spells, believing that all magic functions in essentially the same way, whether it derives from rigorous study or is bestowed by a deity.
+>
+>The schools of magic help describe spells; they have no rules of their own, although some rules refer to the schools.
+>
+>**Abjuration** spells are protective in nature, though some of them have aggressive uses. They create magical barriers, negate harmful effects, harm trespassers, or banish creatures to other planes of existence.
+>
+>**Conjuration** spells involve the transportation of objects and creatures from one location to another. Some spells summon creatures or objects to the caster’s side, whereas others allow the caster to teleport to another location. Some conjurations create objects or effects out of nothing.
+>
+>**Divination** spells reveal information, whether in the form of secrets long forgotten, glimpses of the future, the locations of hidden things, the truth behind illusions, or visions of distant people or places.
+>
+>**Enchantment** spells affect the minds of others, influencing or controlling their behavior. Such spells can make enemies see the caster as a friend, force creatures to take a course of action, or even control another creature like a puppet.
+>
+>**Evocation** spells manipulate magical energy to produce a desired effect. Some call up blasts of fire or lightning. Others channel positive energy to heal wounds.
+>
+>**Illusion** spells deceive the senses or minds of others. They cause people to see things that are not there, to miss things that are there, to hear phantom noises, or to remember things that never happened. Some illusions create phantom images that any creature can see, but the most insidious illusions plant an image directly in the mind of a creature.
+>
+>**Necromancy** spells manipulate the energies of life and death. Such spells can grant an extra reserve of life force, drain the life energy from another creature, create the undead, or even bring the dead back to life.
+>
+>Creating the undead through the use of necromancy spells such as animate dead is not a good act, and only evil casters use such spells frequently.
+>
+>**Transmutation** spells change the properties of a creature, object, or environment. They might turn an enemy into a harmless creature, bolster the strength of an ally, make an object move at the caster’s command, or enhance a creature’s innate healing abilities to rapidly recover from injury.
+
+### Combining Magical Effects
+
+The effects of different spells add together while the durations of those spells overlap. The effects of the same spell cast multiple times don’t combine, however. Instead, the most potent effect—such as the highest bonus—from those castings applies while their durations overlap.
+
+For example, if two clerics cast _bless_ on the same target, that character gains the spell’s benefit only once; he or she doesn’t get to roll two bonus dice.
+
+## Spell Lists
+
+### Bard Spells
+
+|  |
+|:-|
+|**Cantrips (Level 0)**|
+|mage hand, mending, message, minor illusion, prestidigitation, true Strike, vicious mockery|
+|**Level 1**|
+|animal friendship, bane, charm person, comprehend languages, cure wounds, detect magic, disguise self, faerie fire, feather fall, healing word, heroism, hideous laughter, identify, illusory script, longstrider, silent image, sleep, speak with animals, thunderwave, unseen servant|
+|**Level 2**|
+|animal messenger, blindness/deafness, calm emotions, detect thoughts, enhance ability, enthrall, heat metal, hold person, invisibility, knock, lesser restoration, locate animals or plants, locate object, magic mouth, see invisibility, shatter, silence, suggestion, zone of truth|
+|**Level 3**|
+|bestow curse, clairvoyance, dispel magic, fear, glyph of warding, hypnotic pattern, major image, nondetection, plant growth, sending, speak with dead, speak with plants, stinking cloud, tiny hut, tongues|
+|**Level 4**|
+|compulsion, confusion, dimension door, freedom of movement, greater invisibility, hallucinatory terrain, locate creature, polymorph|
+|**Level 5**|
+|animate objects, awaken, dominate person, dream, geas, greater restoration, hold monster, legend lore, mass cure wounds, mislead, modify memory, planar binding, raise dead, scrying, seeming, teleportation circle|
+|**Level 6**|
+|eyebite, find the path, guards and wards, irresistible dance, mass suggestion, programmed illusion, true seeing|
+|**Level 7**|
+|arcane sword, etherealness, forcecage, magnificent mansion, mirage arcane, project image, regenerate, resurrection, symbol, teleport|
+|**Level 8**|
+|dominate monster, feeblemind, glibness, mind blank, power word stun|
+|**Level 9**|
+|foresight, power word kill, true polymorph|
+
+### Cleric Spells
+|  |
+|:-|
+|**Cantrips (Level 0)**|
+|guidance, mending, resistance, sacred flame, spare the dying, thaumaturgy|
+|**Level 1**|
+|bane, bless, command, create or destroy water, cure wounds, detect evil and good, detect magic, detect poison and disease, guiding bolt, healing word, inflict wounds, protection from evil and good, purify food and drink, sanctuary, shield of faith|
+|**Level 2**|
+|aid, augury, blindness/deafness, calm emotions, continual flame, enhance ability, find traps, gentle repose, hold person, lesser restoration, locate object, prayer of healing, protection from poison, silence, spiritual weapon, warding bond, zone of truth|
+|**Level 3**|
+|animate dead, beacon of hope, bestow curse, clairvoyance, create food and water, daylight, dispel magic, glyph of warding, magic circle, mass healing word, meld into stone, protection from energy, remove curse, revivify, sending, speak with dead, spirit guardians, tongues, water walk|
+|**Level 4**|
+|banishment, control water, death ward, divination, freedom of movement, guardian of faith, locate creature, stone shape|
+|**Level 5**|
+|commune, contagion, dispel evil and good, flame strike, geas, greater restoration, hallow, insect plague, legend lore, mass cure wounds, planar binding, raise dead, scrying|
+|**Level 6**|
+|blade barrier, create undead, find the path, forbiddance, harm, heal, heroes feast, planar ally, true seeing, word of recall|
+|**Level 7**|
+|conjure celestial, divine word, etherealness, fire storm, plane shift, regenerate, resurrection, symbol|
+|**Level 8**|
+|antimagic field, control weather, earthquake, holy aura|
+|**Level 9**|
+|astral projection, gate, mass heal, true ressurection|
+
+### Druid Spells
+|  |
+|:-|
+|**Cantrips (Level 0)**|
+|druidcraft, guidance, mending, poison spray, produce flame, resistance, shillelagh|
+|**Level 1**|
+|animal friendship, charm person, create or destroy water, cure wounds, detect magic, detect poison and disease, entangle, faerie fire, fog cloud, goodberry, healing word, jump, longstrider, purify food and drink, speak with animals, thunderwave|
+|**Level 2**|
+|animal messenger, barkskin, enhance ability, find traps, flame blade, flaming sphere, gust of wind, heat metal, hold person, lesser restoration, locate animals or plants, locate object, moonbeam, pass without trace, protection from poison, spike growth|
+|**Level 3**|
+|call lightning, conjure animals, daylight, dispel Magic, meld into stone, plant growth, protection from energy, sleet storm, speak with plants, water breathing, water walk, wind wall|
+|**Level 4**|
+|blight, confusion, conjure minor elementals, conjure woodland beings, control water, dominate beast, freedom of movement, giant insect, hallucinatory terrain, ice storm, locate creature, polymorph, stone shape, stoneskin, wall of fire|
+|**Level 5**|
+|antilife shell, awaken, commune with nature, conjure elemental, contagion, geas, greater restoration, insect plague, mass cure wounds, planar binding, reincarnate, scrying, tree stride, wall of stone|
+|**Level 6**|
+|conjure fey, find the path, heal, heroes’ feast, move earth, sunbeam, transport via plants, wall of thorns, wind walk|
+|**Level 7**|
+|fire storm, mirage arcane, plane shift, regenerate, reverse gravity|
+|**Level 8**|
+|animal shapes, antipathy/sympathy, control weather, earthquake, feeblemind, sunburst|
+|**Level 9**|
+|foresight, shapechange, storm of vengeance, true resurrection|
+
+### Paladin Spells
+|  |
+|:-|
+|**Level 1**|
+|bless, command, cure wounds, detect evil and good, detect magic, detect poison and disease, divine favor, heroism, protection from evil and good, purify food and drink, shield of faith|
+|**Level 2**|
+|aid, branding smite, find steed, lesser restoration, locate object, magic weapon, protection from poison, zone of truth|
+|**Level 3**|
+|create food and water, daylight, dispel magic, magic circle, remove curse, revivify|
+|**Level 4**|
+|banishment, death ward, locate creature|
+|**Level 5**|
+|dispel evil and good, geas, raise dead|
+
+### Ranger Spells
+|  |
+|:-|
+|**Level 1**|
+|alarm, animal friendship, cure wounds, detect magic, detect poison and disease, fog cloud, goodberry, hunter's mark, jump, longstrider, speak with animals|
+|**Level 2**|
+|animal messenger, barkskin, find traps, lesser restoration, locate animals or plants, locate object, pass without trace, protection from poison, silence, spike growth|
+|**Level 3**|
+|conjure animals, daylight, nondetection, plant growth, protection from energy, speak with plants, water breathing, water walk, wind wall|
+|**Level 4**|
+|conjure woodland beings, freedom of movement, locate creature, stoneskin|
+|**Level 5**|
+|commune with nature, tree stride|
+
+### Sorcerer Spells
+|  |
+|:-|
+|**Cantrips (Level 0)**|
+|acid splash, chill touch, fire bolt, mage hand, mending, message, minor illusion, poison spray, prestidigitation, ray of frost, shocking grasp, true strike|
+|**Level 1**|
+|burning hands, charm person, color spray, comprehend languages, detect magic, disguise self, expeditious retreat, false life, feather fall, fog cloud, jump, mage armor, magic missile, shield, silent image, sleep, thunderwave|
+|**Level 2**|
+|alter self, blindness/deafness, blur, darkness, detect thoughts, enhance ability, enlarge/reduce, gust of wind, hold person, invisibility, knock, levitate, mirror image, misty step, scorching ray, see invisibility, shatter, spider climb, suggestion, web|
+|**Level 3**|
+|blink, clairvoyance, counterspell, daylight, dispel magic, fear, fireball, fly, gaseous form, haste, hypnotic pattern, lightning bolt, major image, protection from energy, sleet storm, slow, stinking cloud, tongues, water breathing, water walk|
+|**Level 4**|
+|banishment, blight, confusion, dimension door, dominate beast, greater invisibility, ice storm, polymorph, stoneskin, wall of fire|
+|**Level 5**|
+|animate objects, cloudkill, cone of cold, creation, dominate person, hold monster, insect plague, seeming, telekinesis, teleportation circle, wall of stone|
+|**Level 6**|
+|chain lightning, circle of death, disintegrate, eyebite, globe of invulnerability, mass suggestion, move earth, sunbeam, true seeing|
+|**Level 7**|
+|delayed blast fireball, etherealness, finger of death, fire storm, plane shift, prismatic spray, reverse gravity, teleport|
+|**Level 8**|
+|dominate monster, earthquake, incendiary cloud, power word stun, sunburst|
+|**Level 9**|
+|gate, meteor swarm, power word kill, time stop, wish|
+
+### Warlock Spells
+|  |
+|:-|
+|**Cantrips (Level 0)**|
+|chill touch, eldritch blast, mage hand, minor illusion, poison spray, prestidigitation, true strike|
+|**Level 1**|
+|charm person, comprehend languages, expeditious retreat, hellish rebuke, illusory script, protection from evil and good, unseen servant|
+|**Level 2**|
+|darkness, enthrall, hold person, invisibility, mirror image, misty step, ray of enfeeblement, shatter, spider climb, suggestion|
+|**Level 3**|
+|counterspell, dispel magic, fear, fly, gaseous form, hypnotic pattern, magic circle, major image, remove curse, tongues, vampiric touch|
+|**Level 4**|
+|banishment, blight, dimension door, hallucinatory terrain|
+|**Level 5**|
+|contact other plane, dream, hold monster, scrying|
+|**Level 6**|
+|circle of death, conjure fey, create undead, eyebite, flesh to stone, mass suggestion, true seeing|
+|**Level 7**|
+|etherealness, finger of death, forcecage, plane shift|
+|**Level 8**|
+|demiplane, dominate monster, feeblemind, glibness, power word stun|
+|**Level 9**|
+|astral projection, foresight, imprisonment, power word kill, true polymorph|
+
+### Wizard Spells
+|  |
+|:-|
+|**Cantrips (Level 0)**|
+|acid splash, chill touch, fire bolt, mage hand, mending, message, minor illusion, poison spray, prestidigitation, ray of frost, shocking grasp, true strike|
+|**Level 1**|
+|alarm, burning hands, charm person, color spray, comprehend languages, detect magic, disguise self, expeditious retreat, false life, feather fall, find familiar, floating disk, fog cloud, grease, hideous laughter, identify, illusory script, jump, longstrider, mage armor, magic missile, protection from evil and good, shield, silent image, sleep, thunderwave, unseen servant|
+|**Level 2**|
+|acid arrow, alter self, arcane lock, arcanist’s magic aura, blindness/deafness, blur, continual flame, darkness, detect thoughts, enlarge/reduce, flaming sphere, gentle repose, gust of wind, hold person, invisibility, knock, levitate, locate object, magic mouth, magic weapon, mirror image, misty step, ray of enfeeblement, rope trick, scorching ray, see invisibility, shatter, spider climb, suggestion, web|
+|**Level 3**|
+|animate dead, bestow curse, blink, clairvoyance, counterspell, dispel magic, fear, fireball, fly, gaseous form, glyph of warding, haste, hypnotic pattern, lightning bolt, magic circle, major image, nondetection, phantom steed, protection from energy, remove curse, sending, sleet storm, slow, stinking cloud, tiny hut, tongues, vampiric touch, water breathing|
+|**Level 4**|
+|arcane eye, banishment, black tentacles, blight, confusion, conjure minor elementals, control water, dimension door, fabricate, faithful hound, fire shield, greater invisibility, hallucinatory terrain, ice storm, locate creature, phantasmal killer, polymorph, private sanctum, resilient sphere, secret chest, stone shape, stoneskin, wall of fire|
+|**Level 5**|
+|animate objects, arcane hand, cloudkill, cone of cold, conjure elemental, contact other plane, creation, dominate person, dream, geas, hold monster, legend lore, mislead, modify memory, passwall, planar binding, scrying, seeming, telekinesis, telepathic bond, teleportation circle, wall of force, wall of stone|
+|**Level 6**|
+|chain lightning, circle of death, contingency, create undead, disintegrate, eyebite, flesh to stone, freezing sphere, globe of invulnerability, guards and wards, instant summons, irresistible dance, magic jar, mass suggestion, move earth, programmed illusion, sunbeam, true seeing, wall of ice|
+|**Level 7**|
+|arcane sword, delayed blast fireball, etherealness, finger of death, forcecage, magnificent mansion, mirage arcane, plane shift, prismatic spray, project image, reverse gravity, sequester, simulacrum, symbol, teleport|
+|**Level 8**|
+|antimagic field, antipathy/sympathy, clone, control weather, demiplane, dominate monster, feeblemind, incendiary cloud, maze, mind blank, power word stun, sunburst|
+|**Level 9**|
+|astral projection, foresight, gate, imprisonment, meteor swarm, power word kill, prismatic wall, shapechange, time stop, true polymorph, weird, wish|
+
+## Spell Descriptions
+### Spells (A)
+#### Acid Arrow
+|_2nd-level evocation_|
+|:-|
+|**Casting Time:** 1 action|
+|**Range:** 18|
+|**Components:** V, S, M (powdered rhubarb leaf and an adder's stomach)|
+|**Duration:** Instantaneous|
+||
+|A shimmering green arrow streaks toward a target within range and bursts in a spray of acid. Make a ranged spell attack against the target. On a hit, the target takes 1 acid damage immediately and 1 acid damage at the end of its next turn.|
+|**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage (both initial and later) increases by +1 for each slot level above 2nd.|
+
+#### Acid Splash
+|_Conjuration cantrip_|
+|:-|
+|**Casting Time:** 1 action|
+|**Range:** 12|
+|**Components:** V, S|
+|**Duration:** Instantaneous|
+||
+|You hurl a bubble of acid. Choose one creature within range, or choose two creatures within range that are within 1 square of each other. A target must succeed on a DEX check or take 1 acid damage.|
+
+#### Aid
+|_2nd-level abjuration_|
+|:-|
+|**Casting Time:** 1 action|
+|**Range:** 6|
+|**Components:** V, S, M (a tiny strip of white cloth)|
+|**Duration:** Recall|
+||
+|Your spell bolsters your allies with toughness and resolve. Choose up to three creatures within range. Each target gains bolster 2.|
+|**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, increase the bolster value by +1 for each slot level above 2nd.|
+
+#### Alarm
+|_1st-­level abjuration (ritual)_|
+|:-|
+|**Casting Time:** 1 minute|
+|**Range:** 6|
+|**Components:** V, S, M (a tiny bell and a piece of fine silver wire)|
+|**Duration:** Recall|
+||
+|You set an alarm against unwanted intrusion. Choose a door, a window, or an area within range that is no larger than a 20-­‐‑foot cube. Until the spell ends, an alarm alerts you whenever a Tiny or larger creature touches or enters the warded area. When you cast the spell, you can designate creatures that won’t set off the alarm. You also choose whether the alarm is mental or audible.|
+|A mental alarm alerts you with a ping in your mind if you are within 1 mile of the warded area. This ping awakens you if you are sleeping.|
+|An audible alarm produces the sound of a hand bell for 10 seconds within 12 feet.|
+
+#### Alter Self
+|_2nd-­level transmutation_|
+|:-|
+|**Casting Time:** 1 action|
+|**Range:** Self|
+|**Components:** V, S|
+|**Duration:** Concentration, up to 1 hour|
+||
+|You assume a different form. When you cast the spell, choose one of the following options, the effects of which last for the duration of the spell. While the spell lasts, you can end one option as an action to gain the benefits of a different one.|
+|**Aquatic Adaptation.** You adapt your body to an aquatic environment, sprouting gills and growing webbing between your fingers. You can breathe underwater and gain a swimming speed equal to your walking speed.|
+|**Change Appearance.** You transform your appearance. You decide what you look like, including your height, weight, facial features, sound of your voice, hair length, coloration, and distinguishing characteristics, if any. You can make yourself appear as a member of another species, though none of your statistics change. You also can’t appear as a creature of a different size than you, and your basic shape stays the same; if you’re bipedal, you can’t use this spell to become quadrupedal, for instance. At any time for the duration of the spell, you can use your action to change your appearance in this way again.|
+|**Natural Weapons.** You grow claws, fangs, spines, horns, or a different natural weapon of your choice.
+Your unarmed strikes deal 1 bludgeoning, piercing, or slashing damage, as appropriate to the natural weapon you chose, and you are proficient with your unarmed strikes. Finally, the natural weapon is magic and you have a +1 bonus to the attack and damage rolls you make using it.|
+
+#### Animal Friendship
+|_1st-­level enchantment_|
+|:-|
+|**Casting Time:** 1 action|
+|**Range:** 6|
+|**Components:** V, S, M (a morsel of food)|
+|**Duration:** Recall|
+||
+|This spell lets you convince a beast that you mean it no harm. Choose a beast that you can see within range. It must see and hear you. If the beast's Intelligence is 4 or higher, the spell fails. Otherwise, the beast must succeed on a WIS check or be charmed by you for the spell's duration. If you or one of your companions harms the target, the spells ends.|
+|**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can affect one additional beast for each slot level above 1st.|
+
+#### Animal Messenger
+|_2nd-­level enchantment (ritual)_|
+|:-|
+|**Casting Time:** 1 action|
+|**Range:** 6|
+|**Components:** V, S, M (a morsel of food)|
+|**Duration:** Recall|
+||
+|By means of this spell, you use an animal to deliver a message. Choose a Tiny beast you can see within range, such as a squirrel, a blue jay, or a bat. You specify a location, which you must have visited, and a recipient who matches a general description, such as “a man or woman dressed in the uniform of the town guard” or “a red-­haired dwarf wearing a pointed hat.” You also speak a message of up to twenty-­five words. The target beast travels for the duration of the spell toward the specified location, covering 2 world map tiles for a flying messenger, or 1 world map tile for other animals. When the messenger arrives, it delivers your message to the creature that you described, replicating the sound of your voice. The messenger speaks only to a creature matching the description you gave. If the messenger doesn’t reach its destination before the spell ends, the message is lost, and the beast makes its way back to where you cast this spell.|
+|**At Higher Levels.** If you cast this spell using a spell slot of 3nd level or higher, the distance the animal messenger travels increases by +1 world map tile for each slot level above 2nd.|
+
+#### Arcane Lock
+|_2nd-level abjuration_|
+|:-|
+|**Casting Time:** 1 action|
+|**Range:** Touch|
+|**Components:** V, S, M (gold dust worth at least 25 gp, which the spell consumes)|
+|**Duration:** Until dispelled|
+||
+|You touch a closed door, window, gate, chest, or other entryway, and it becomes locked for the duration. You and the creatures you designate when you cast this spell can open the object normally. You can also set a password that, when spoken within 1 square of the object, suppresses this spell long enough to allow passage. Otherwise, it is impassable until it is broken or the spell is dispelled or suppressed. Casting knock on the object suppresses arcane lock for the rest of the encounter.|
+|While affected by this spell, the object is more difficult to break or force open; the DC to break it or pick any locks on it increases by 10.|
+
+#### Arcanist’s Magic Aura
+|_2nd-­level illusion_|
+|:-|
+|**Casting Time:** 1 action|
+|**Range:** Touch|
+|**Components:** V, S, M (a small square of silk)|
+|**Duration:** Recall|
+||
+|You place an illusion on a creature or an object you touch so that divination spells reveal false information about it. The target can be a willing creature or an object that isn’t being carried or worn by another creature.|
+|When you cast the spell, choose one or both of the following effects. The effect lasts for the duration. If you cast this spell on the same creature or object every day for 30 days, placing the same effect on it each time, the illusion lasts until it is dispelled.|
+|**False Aura.** You change the way the target appears to spells and magical effects, such as detect magic, that detect magical auras. You can make a nonmagical object appear magical, a magical object appear nonmagical, or change the object’s magical aura so that it appears to belong to a specific school of magic that you choose. When you use this effect on an object, you can make the false magic apparent to any creature that handles the item.|
+|**Mask.** You change the way the target appears to spells and magical effects that detect creature types, such as a paladin’s Divine Sense or the trigger of a symbol spell. You choose a creature type and other spells and magical effects treat the target as if it were a creature of that type or of that alignment.|
+
+#### Augury
+|_2nd-­level divination (ritual)_|
+|:-|
+|**Casting Time:** 1 action|
+|**Range:** Self|
+|**Components:** V, S, M (talisman)|
+|**Duration:** Instantaneous|
+||
+|By casting gem-­inlaid sticks, rolling dragon bones, laying out ornate cards, or employing some other divining tool, you receive an omen from an otherworldly entity about the results of a specific course of action that you plan to take before recalling back to HQ. The GM rolls an action die (d6) and compares the number of bolt symbols to the following possible omens:|
+||
+- 1 (1 bolt): Weal, for good results
+- 6 (2 bolts): Woe, for bad results
+- 2-5 (blank): Mixed or unclear results
+
+|  |
+|:-|
+|The spell doesn’t take into account any possible circumstances that might change the outcome, such as the casting of additional spells or the loss or gain of a companion.|
+|The GM makes any necessary adjustments to the narrative to incorporate these readings into the story.|
+
+### Spells (B)
+#### Bane
+|_1st-­level enchantment_|
+|:-|
+|**Casting Time:** 1 action|
+|**Range:** 6|
+|**Components:** V, S, M (a drop of blood)|
+|**Duration:** Concentration (encounter)|
+||
+|Up to three creatures of your choice that you can see within range must make CHA checks. Whenever a target that fails this check makes an attack roll or an ability check before the spell ends, the target must roll with disadvantage. This spell removes the effects of *bless.*|
+|**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.|
+
+#### Barkskin
+|_2nd-­level transmutation_|
+|:-|
+|**Casting Time:** 1 action|
+|**Range:** Touch|
+|**Components:** V, S, M (a handful of oak bark)|
+|**Duration:** Concentration (encounter)|
+||
+|You touch a willing creature. Until the spell ends, the target’s skin has a rough, bark-­like appearance, and the target’s AC can’t be less than 16, regardless of what kind of armor it is wearing.|
+
+#### Bless
+|_1st-­level enchantment_|
+|:-|
+|**Casting Time:** 1 action|
+|**Range:** 6|
+|**Components:** V, S, M (a sprinkling of holy water)|
+|**Duration:** Concentration (encounter)|
+||
+|You bless up to three creatures of your choice within range. Whenever a target makes an attack roll or an ability check before the spell ends, the target makes these rolls with advantage. This spell removes the effects of *bane.*|
+|**At Higher Levels.** At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.|
+
+#### Blindness/Deafness
+|_2nd-­level necromancy_|
+|:-|
+|**Casting Time:** 1 action|
+|**Range:** 6|
+|**Components:** V|
+|**Duration:** Encounter|
+||
+|You can blind or deafen a foe. Choose one creature that you can see within range to make a CON check. If it fails, the target is either blinded or deafened (your choice) for the duration. At the end of each of its turns, the target can make a CON check. On a success, the spell ends.|
+|**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.|
+
+#### Blur
+|_2nd-­level illusion_|
+|:-|
+|**Casting Time:** 1 action|
+|**Range:** Self|
+|**Components:** V|
+|**Duration:** Concentration (encounter)|
+||
+|Your body becomes blurred, shifting and wavering to all who can see you. For the duration, any creature has disadvantage on attack rolls against you. An attacker is immune to this effect if it doesn’t rely on sight, as with blindsight, or can see through illusions, as with truesight.|
+
+#### Branding Smite
+|_2nd-­level evocation_|
+|:-|
+|**Casting Time:** 1 bonus action|
+|**Range:** Self|
+|**Components:** V|
+|**Duration:** Concentration (encounter)|
+||
+|The next time you hit a creature with a weapon attack before this spell ends, the weapon gleams with astral radiance as you strike. The attack deals an extra 1 radiant damage to the target, which becomes visible if it's invisible, and the target sheds dim light in a 1 square radius and can't become invisible until the spell ends.|
+|**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the extra damage increases by +1 for each slot level above 2nd|
+
+#### Burning Hands
+|_1st-­level evocation_|
+|:-|
+|**Casting Time:** 1 action|
+|**Range:** Self|
+|**Components:** V, S|
+|**Duration:** Instantaneous|
+||
+|As you hold your hands with thumbs touching and fingers spread, a thin sheet of flames shoots forth from your outstretched fingertips. Each creature in a 3-­square cone must make a DEX check. A creature takes 1 fire damage on a failed check, or half as much damage on a successful one. The fire ignites any flammable objects in the area that aren’t being worn or carried.|
+|**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by +1 for each slot level above 1st.|
+
+#### NAME
+|_LEVEL_|
+|:-|
+|**Casting Time:** 1 action|
+|**Range:** 18|
+|**Components:** V, S, M (MATERIAL)|
+|**Duration:** Instantaneous|
+||
+|DESC|
+|**At Higher Levels.** HIGHER|
+
+### Spells (C)
+
+#### NAME
+|_LEVEL_|
+|:-|
+|**Casting Time:** 1 action|
+|**Range:** 18|
+|**Components:** V, S, M (MATERIAL)|
+|**Duration:** Instantaneous|
+||
+|DESC|
+|**At Higher Levels.** HIGHER|
+
+Calm Emotions
+2nd-­level enchantment
+Casting Time: 1 action
+Range: 12
+Components: V, S
+Duration: Concentration, up to 1 minute
+You attempt to suppress strong emotions in a group of people. Each humanoid in a 4-square radius sphere centered on a point you choose within range must make a CHA check. If a creature fails its check, choose one of the following two effects.
+
+You can suppress any effect causing a target to be charmed or frightened. When this spell ends, any suppressed effect resumes, provided that its duration has not expired in the meantime.
+
+Alternatively, you can make a target indifferent about creatures of your choice that it is hostile toward. This indifference ends if the target is attacked or harmed by a spell or if it witnesses any of its friends being harmed. When the spell ends, the creature becomes hostile again, unless the GM rules otherwise.
+
+#### Conjure Animal
+|_3rd-­level conjuration_|
+|:-|
+|**Casting Time:** 1 action|
+|**Range:** 12|
+|**Components:** V, S|
+|**Duration:** Concentration (encounter)|
+||
+|You summon a fey spirit that takes the form of a beast and appears in an unoccupied space that you can see within range. Choose one beast of challenge rating 2 or lower. The beast is also considered fey, and it disappears when it drops to 0 hit points or when the spell ends.|
+|The summoned creature is friendly to you and your companions. Roll initiative for the summoned creature, which has its own turns. It obeys any verbal commands that you issue (no action required by you). If you don’t issue any commands, the animal defends itself from hostile creatures but otherwise takes no actions.|
+|The GM has the creatures’ statistics.|
+
+
+### Spells (D)
+
+### Spells (E)
+
+### Spells (F)
+
+### Spells (G)
+
+### Spells (H)
+
+#### Healing Word
+|_1st-level evocation_|
+|:-|
+|**Casting Time:** 1 bonus action|
+|**Range:** 12|
+|**Components:** V|
+|**Duration:** Instantaneous|
+||
+|A creature of your choice that you can see within range receives 1 point of healing. This spell has no effect on undead or constructs.|
+|**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the spell grants an additional + 1 point of healing for each slot level above 1st.|
+
+### Spells (I)
+
+### Spells (J)
+
+### Spells (K)
+
+### Spells (L)
+
+### Spells (M)
+
+### Spells (N)
+
+### Spells (O)
+
+### Spells (P)
+
+### Spells (Q)
+
+### Spells (R)
+
+### Spells (S)
+
+#### Simulacrum
+|7th-level illusion|
+|:-|
+|**Casting Time:** 1 downtime round|
+|**Range:** Touch|
+|**Components:** V, S, M (snow or ice in quantities sufficient to make a life-size copy of the duplicated creature; some hair, fingernail clippings, or other piece of that creature's body placed inside the snow or ice)|
+|**Duration:** Until dispelled|
+||
+|You shape an illusory duplicate of one beast or humanoid that is within range for the entire casting time of the spell. The duplicate is a creature, partially real and formed from ice or snow, and it can take actions and otherwise be affected as a normal creature. It appears to be the same as the original, but its MAX Wounds is half the creature’s MAX Wounds and it is formed without any equipment. Otherwise, the illusion uses all the statistics of the creature it duplicates, except that it is a construct.|
+|The simulacrum is friendly to you and creatures you designate. It obeys your spoken commands, moving and acting in accordance with your wishes and acting on your turn in combat. The simulacrum lacks the ability to learn or become more powerful, so it never increases its level or other abilities, nor can it regain expended spell slots. Simulacrums cannot cast _simulacrum_ or _wish_.|
+|Once you cast _simulacrum_, you cannot cast it again until you gain a level of experience.|
+|If the simulacrum is damaged, you can repair it in an alchemical laboratory, spending 1 or more coins to heal an equal number of wounds. The simulacrum lasts until it reaches MAX Wounds, at which point it reverts to snow and melts instantly.|
+|If you cast this spell again, any currently active duplicates you created with this spell are instantly destroyed.|
+
+### Spells (T)
+
+#### Thunderwave
+|1st-level evocation|
+|:-|
+|**Casting Time:** 1 action|
+|**Range:** Self (3-square cube)|
+|**Components:** V, S|
+|**Duration:** Instantaneous|
+||
+|A wave of thunderous force sweeps out from you. Each creature in a 3-square cube originating from you must make a CON check. On a failed check, a creature takes 1 thunder damage and is pushed 2 squares away from you. On a successful check, the creature takes half damage and isn’t pushed.|
+|In addition, unsecured objects that are completely within the area of effect are automatically pushed 2 squares away from you by the spell’s effect, and the spell emits a thunderous boom audible on the entire map.|
+|**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by +1 for each slot level above 1st.|
+
+### Spells (U)
+
+### Spells (V)
+
+### Spells (W)
+
+### Spells (X)
+
+### Spells (Y)
+
+### Spells (Z)
+
 # Encounters
 
 5eFP uses encounters to describe the adversity PCs find while exploring maps. Traps, unfavorable environmental conditions, creatures, and challenging story situations are all considered encounters. Use the following table to determine the base statistics for all encounters. Except for forced movement, minion damage, and minion MAX wounds, add LEVEL to the base values.
@@ -3403,753 +4148,6 @@ TBA.
 ...
 
 # Appendix PHS
-
-# Spellcasting
-
-Magic permeates fantasy gaming worlds and often appears in the form of a spell.
-
-This section provides the rules for casting spells. Different character classes have distinctive ways of learning and preparing their spells, and monsters use spells in unique ways. Regardless of its source, a spell follows the rules here.
-
-## What Is a Spell?
-
-A spell is a discrete magical effect, a single shaping of the magical energies that suffuse the multiverse into a specific, limited expression. In casting a spell, a character carefully plucks at the invisible strands of raw magic suffusing the world, pins them in place in a particular pattern, sets them vibrating in a specific way, and then releases them to unleash the desired effect—in most cases, all in the span of seconds.
-
-Spells can be versatile tools, weapons, or protective wards. They can deal damage or undo it, impose or remove conditions (see appendix PH-­A), drain life energy away, and restore life to the dead.
-
-Uncounted thousands of spells have been created over the course of the multiverse’s history, and many of them are long forgotten. Some might yet lie recorded in crumbling spellbooks hidden in ancient ruins or trapped in the minds of dead gods. Or they might someday be reinvented by a character who has amassed enough power and understanding to do so.
-
-### Spell Level
-
-Every spell has a level from 0 to 7. A spell’s level is a general indicator of how powerful it is, with the lowly (but still impressive) _magic missile_ at 1st level and the earth-­shaking _earthquake_ at 7th. Cantrips—simple but powerful spells that characters can cast almost by rote—are level 0. The higher a spell’s level, the higher level a spellcaster must be to use that spell.
-
-Spell level and character level correspond directly. To cast a spell, your level must equal or exceed the spell's level. For example, a character must be at least 2nd-level to cast a 2nd-­level spell, and the most powerful spells, 7th-level, become available during character level 7.
-
-### Known and Prepared Spells
-
-Spellcasters must have the spell firmly fixed in mind before they can use it, or they must have access to the spell with a magic item. Members of a few classes, including bards and sorcerers, have a limited list of spells they know that are always fixed in mind. The same thing is true of many magic-­using monsters. Other spellcasters, such as clerics and wizards, undergo a process of preparing spells. This process varies for different classes, as detailed in their descriptions.
-
-In every case, the number of spells a caster can have fixed in mind at any given time depends on how many Magic feature upgrades a character unlocks with Coin.
-
-### Spell Slots
-
-Regardless of how many spells casters know or prepare, they can cast only a limited number of spells before resting. Manipulating the fabric of magic and channeling its energy into even a simple spell is physically and mentally taxing, and higher-level spells are even more so.
-
-When characters cast a spell, they expend a slot of that spell’s level or higher, effectively “filling” a slot with the spell. You can think of a spell slot as a groove of a certain size—small for a 1st-­level slot, larger for a spell of higher level. A 1st-­level spell fits into a slot of any size, but a 7th-level spell fits only in a 7th-­level slot.
-
-Spell slots are restored at the end of a game session.
-
-Some characters and monsters have special abilities that let them cast spells without using spell slots. For example, a monk who follows the Way of the Four Elements, a warlock who chooses certain eldritch invocations, and a pit fiend from the Nine Hells can all cast spells in such a way.
-
-#### Casting a Spell at a Higher Level
-
-When a spellcaster casts a spell using a slot that is of a higher level than the spell, the spell assumes the higher level for that casting. For instance, if a spellcaster casts _magic missile_ using a 2nd-­level slot, that _magic missile_ is 2nd level. Effectively, the spell expands to fill the slot it is put into.
-
-Some spells, such as _magic missile_ and _cure wounds_, have more powerful effects when cast at a higher level, as detailed in a spell’s description.
-
->#### Casting in Armor
->Because of the mental focus and precise gestures required for spellcasting, you must be proficient with the armor you are wearing to cast a spell. You are otherwise too distracted and physically hampered by your armor for spellcasting.
-
-### Cantrips
-
-A cantrip is a spell that can be cast at will, without using a spell slot and without being prepared in advance. Repeated practice has fixed the spell in the caster’s mind and infused the caster with the magic needed to produce the effect over and over. A cantrip’s spell level is 0.
-
-### Rituals
-
-Certain spells have a special tag: ritual. Such a spell can be cast following the normal rules for spellcasting, or the spell can be cast as a ritual. The ritual version of a spell takes 10 minutes longer to cast than normal. It also doesn’t expend a spell slot, which means the ritual version of a spell can’t be cast at a higher level.
-
-To cast a spell as a ritual, a spellcaster must have a feature that grants the ability to do so. The cleric and the druid, for example, have such a feature. The caster must also have the spell prepared or on his or her list of spells known, unless the character’s ritual feature specifies otherwise, as the wizard’s does.
-
-Casting a Spell
-
-When a character casts any spell, the same basic rules are followed, regardless of the character’s class or the spell’s effects.
-
-Each spell description begins with a block of information, including the spell’s name, level, school of magic, casting time, range, components, and duration. The rest of a spell entry describes the spell’s effect.
-
-## Casting a Spell
-
-When a character casts any spell, the same basic rules are followed, regardless of the character’s class or the spell’s effects.
-
-Each spell description begins with a block of information, including the spell’s name, level, school of magic, casting time, range, components, and duration. The rest of a spell entry describes the spell’s effect.
-
-### Casting Time
-
-Most spells require a single action to cast, but some spells require a bonus action, a reaction, or much more time to cast.
-
-#### Bonus Action
-
-A spell cast with a bonus action is especially swift. You must use a bonus action on your turn to cast the spell, provided that you haven’t already taken a bonus action this turn. You can’t cast another spell during the same turn, except for a cantrip with a casting time of 1 action.
-
-#### Reactions
-
-Some spells can be cast as reactions. These spells take a fraction of a second to bring about and are cast in response to some event. If a spell can be cast as a reaction, the spell description tells you exactly when you can do so.
-
-#### Longer Casting Times
-
-Certain spells (including spells cast as rituals) require more time to cast: minutes or even hours. When you cast a spell with a casting time longer than a single action or reaction, you must spend your action each turn casting the spell, and you must maintain your concentration while you do so (see “Concentration” below). If your concentration is broken, the spell fails, but you don’t expend a spell slot. If you want to try casting the spell again, you must start over.
-
-### Range
-
-The target of a spell must be within the spell’s range. For a spell like _magic missile_, the target is a creature. For a spell like _fireball_, the target is the point in space where the ball of fire erupts.
-
-Most spells have ranges expressed in squares. Some spells can target only a creature (including you) that you touch. Other spells, such as the _shield_ spell, affect only you. These spells have a range of self.
-
-Spells that create cones or lines of effect that originate from you also have a range of self, indicating that the origin point of the spell’s effect must be you (see “Areas of Effect”).
-
-Once a spell is cast, its effects aren’t limited by its range, unless the spell’s description says otherwise.
-
-### Components
-
-A spell’s components are the physical requirements you must meet in order to cast it. Each spell’s description indicates whether it requires verbal (V) or somatic (S) components. If you can’t provide one or more of a spell’s components, you are unable to cast the spell.
-
-#### Verbal (V)
-
-Most spells require the chanting of mystic words. The words themselves aren’t the source of the spell’s power; rather, the particular combination of sounds, with specific pitch and resonance, sets the threads of magic in motion. Thus, a character who is gagged or in an area of silence, such as one created by the silence spell, can’t cast a spell with a verbal component.
-
-#### Somatic (S)
-
-Spellcasting gestures might include a forceful gesticulation or an intricate set of gestures. If a spell requires a somatic component, the caster must have free use of at least one hand to perform these gestures.
-
-~~#### Material (M)~~
-
-~~Casting some spells requires particular objects, specified in parentheses in the component entry. A character can use a **component pouch** or a **spellcasting focus** (found in “Equipment”) in place of the components specified for a spell. But if a cost is indicated for a component, a character must have that specific component before he or she can cast the spell.~~
-
-~~If a spell states that a material component is consumed by the spell, the caster must provide this component for each casting of the spell.~~
-
-~~A spellcaster must have a hand free to access a spell’s material components—or to hold a spellcasting focus—but it can be the same hand that he or she uses to perform somatic components.~~
-
-### Duration
-
-A spell’s duration is the length of time the spell persists. A duration can be the length of an encounter, instantaneous, or until the PCs recall back to HQ. Some spells specify that their effects last until the spells are dispelled or destroyed.
-
-#### Encounter
-
-A number of spells have durations longer than an instant but shorter than a game session. These spells persist for the length of an encounter. Whenever you cast these spells while on the overland movement map of a world map tile, their effects remain as long as you do not change maps. If you change maps due to an encounter or by entering a foothold, the spell's duration ends when you resolve the random encounter or when you complete the foothold.
-
-#### Instantaneous
-
-Many spells are instantaneous. The spell harms, heals, creates, or alters a creature or an object in a way that can’t be dispelled, because its magic exists only for an instant.
-
-#### Recall
-
-Some spells have lingering effects. A spell with a duration of recall lasts until the PCs recall and return to HQ.
-
-### Concentration
-
-Spells with durations longer than instantaneous require you to maintain concentration in order to keep their magic active. If you lose concentration, such a spell ends.
-
-You can end concentration at any time (no action required).
-
-Normal activity, such as moving and attacking, doesn’t interfere with concentration. The following factors can break concentration:
-- **Casting another spell with a duration longer than instantaneous.** You lose concentration on a spell if you cast another spell that requires concentration. You can’t concentrate on two spells at once.
-- **Taking damage.** Whenever you take one or more wounds while you are concentrating on a spell, you must make a CON check to maintain your concentration. The DC equals 9 + the number of wounds received. If you take wounds from multiple sources, such as an arrow and a dragon’s breath, you make a separate check for each source of damage.
-- **Being incapacitated or killed.** You lose concentration on a spell if you are incapacitated or if you die.
-
-The GM might also decide that certain environmental phenomena, such as a wave crashing over you while you’re on a storm-­tossed ship, require you to succeed on a DC 10 CON check to maintain concentration on a spell.
-
-### Targets
-
-A typical spell requires you to pick one or more targets to be affected by the spell’s magic. A spell’s description tells you whether the spell targets creatures, objects, or a point of origin for an area of effect (described below).
-
-Unless a spell has a perceptible effect, a creature might not know it was targeted by a spell at all. An effect like crackling lightning is obvious, but a more subtle effect, such as an attempt to read a creature’s thoughts, typically goes unnoticed, unless a spell says otherwise.
-
-#### A Clear Path to the Target
-
-To target something, you must have a clear path to it, so it can’t be behind total cover.
-
-If you place an area of effect at a point that you can’t see and an obstruction, such as a wall, is between you and that point, the point of origin comes into being on the near side of that obstruction.
-
-#### Targeting Yourself
-
-If a spell targets a creature of your choice, you can choose yourself, unless the creature must be hostile or specifically a creature other than you. If you are in the area of effect of a spell you cast, you can target yourself.
-
-### Areas of Effect
-
-Spells such as _burning hands_ and _cone of cold_ cover an area, allowing them to affect multiple creatures at once.
-
-A spell’s description specifies its area of effect, which typically has one of five different shapes: cone, cube, cylinder, line, or sphere. Every area of effect has a **point of origin**, a location from which the spell’s energy erupts. The rules for each shape specify how you position its point of origin. Typically, a point of origin is a point in space, but some spells have an area whose origin is a creature or an object.
-
-A spell’s effect expands in straight lines from the point of origin. If no unblocked straight line extends from the point of origin to a location within the area of effect, that location isn’t included in the spell’s area. To block one of these imaginary lines, an obstruction must provide total cover.
-
-#### Cone
-
-A cone extends in a direction you choose from its point of origin. A cone’s width at a given point along its length is equal to that point’s distance from the point of origin. A cone’s area of effect specifies its maximum length.
-
-A cone’s point of origin is not included in the cone’s area of effect, unless you decide otherwise.
-
-#### Cube
-
-You select a cube’s point of origin, which lies anywhere on a face of the cubic effect. The cube’s size is expressed as the length of each side.
-
-A cube’s point of origin is not included in the cube’s area of effect, unless you decide otherwise.
-
-#### Cylinder
-
-A cylinder’s point of origin is the center of a circle of a particular radius, as given in the spell description. The circle must either be on the ground or at the height of the spell effect. The energy in a cylinder expands in straight lines from the point of origin to the perimeter of the circle, forming the base of the cylinder. The spell’s effect then shoots up from the base or down from the top, to a distance equal to the height of the cylinder.
-
-A cylinder’s point of origin is included in the cylinder’s area of effect.
-
-#### Line
-
-A line extends from its point of origin in a straight path up to its length and covers an area defined by its width.
-
-A line’s point of origin is not included in the line’s area of effect, unless you decide otherwise.
-
-#### Sphere
-
-You select a sphere’s point of origin, and the sphere extends outward from that point. The sphere’s size is expressed as a radius in feet that extends from the point.
-
-A sphere’s point of origin is included in the sphere’s area of effect.
-
-### Resisting Spells
-
-Many spells specify that a target can make an ability check to avoid some or all of a spell’s effects. The spell specifies the ability that the target uses for the check and what happens on a success or failure.
-
-The DC to resist one of your spells equals 10 + your spellcasting ability + any special modifiers.
-
-### Attack Rolls
-
-Some spells require the caster to make an attack roll to determine whether the spell effect hits the intended target. Your attack bonus with a spell attack equals your spellcasting ability modifier + your proficiency bonus.
-
-Most spells that require attack rolls involve ranged attacks. Remember that you have disadvantage on a ranged attack roll if you are within 1 square of a hostile creature that can see you and that isn’t incapacitated.
-
->#### The Schools of Magic
->Academies of magic group spells into eight categories called schools of magic. Scholars, particularly wizards, apply these categories to all spells, believing that all magic functions in essentially the same way, whether it derives from rigorous study or is bestowed by a deity.
->
->The schools of magic help describe spells; they have no rules of their own, although some rules refer to the schools.
->
->**Abjuration** spells are protective in nature, though some of them have aggressive uses. They create magical barriers, negate harmful effects, harm trespassers, or banish creatures to other planes of existence.
->
->**Conjuration** spells involve the transportation of objects and creatures from one location to another. Some spells summon creatures or objects to the caster’s side, whereas others allow the caster to teleport to another location. Some conjurations create objects or effects out of nothing.
->
->**Divination** spells reveal information, whether in the form of secrets long forgotten, glimpses of the future, the locations of hidden things, the truth behind illusions, or visions of distant people or places.
->
->**Enchantment** spells affect the minds of others, influencing or controlling their behavior. Such spells can make enemies see the caster as a friend, force creatures to take a course of action, or even control another creature like a puppet.
->
->**Evocation** spells manipulate magical energy to produce a desired effect. Some call up blasts of fire or lightning. Others channel positive energy to heal wounds.
->
->**Illusion** spells deceive the senses or minds of others. They cause people to see things that are not there, to miss things that are there, to hear phantom noises, or to remember things that never happened. Some illusions create phantom images that any creature can see, but the most insidious illusions plant an image directly in the mind of a creature.
->
->**Necromancy** spells manipulate the energies of life and death. Such spells can grant an extra reserve of life force, drain the life energy from another creature, create the undead, or even bring the dead back to life.
->
->Creating the undead through the use of necromancy spells such as animate dead is not a good act, and only evil casters use such spells frequently.
->
->**Transmutation** spells change the properties of a creature, object, or environment. They might turn an enemy into a harmless creature, bolster the strength of an ally, make an object move at the caster’s command, or enhance a creature’s innate healing abilities to rapidly recover from injury.
-
-### Combining Magical Effects
-
-The effects of different spells add together while the durations of those spells overlap. The effects of the same spell cast multiple times don’t combine, however. Instead, the most potent effect—such as the highest bonus—from those castings applies while their durations overlap.
-
-For example, if two clerics cast _bless_ on the same target, that character gains the spell’s benefit only once; he or she doesn’t get to roll two bonus dice.
-
-## Spell Lists
-
-### Bard Spells
-
-|  |
-|:-|
-|**Cantrips (Level 0)**|
-|dancing lights, light, mage hand, mending, message, minor illusion, prestidigitation, true Strike, vicious mockery|
-|**Level 1**|
-|animal friendship, bane, charm person, comprehend languages, cure wounds, detect magic, disguise self, faerie fire, feather fall, healing word, heroism, hideous laughter, identify, illusory script, longstrider, silent image, sleep, speak with animals, thunderwave, unseen servant|
-|**Level 2**|
-|animal messenger, blindness/deafness, calm emotions, detect thoughts, enhance ability, enthrall, heat metal, hold person, invisibility, knock, lesser restoration, locate animals or plants, locate object, magic mouth, see invisibility, shatter, silence, suggestion, zone of truth|
-|**Level 3**|
-|bestow curse, clairvoyance, dispel magic, fear, glyph of warding, hypnotic pattern, major image, nondetection, plant growth, sending, speak with dead, speak with plants, stinking cloud, tiny hut, tongues|
-|**Level 4**|
-|compulsion, confusion, dimension door, freedom of movement, greater invisibility, hallucinatory terrain, locate creature, polymorph|
-|**Level 5**|
-|animate objects, awaken, dominate person, dream, geas, greater restoration, hold monster, legend lore, mass cure wounds, mislead, modify memory, planar binding, raise dead, scrying, seeming, teleportation circle|
-|**Level 6**|
-|eyebite, find the path, guards and wards, irresistible dance, mass suggestion, programmed illusion, true seeing|
-|**Level 7**|
-|arcane sword, etherealness, forcecage, magnificent mansion, mirage arcane, project image, regenerate, resurrection, symbol, teleport|
-|**Level 8**|
-|dominate monster, feeblemind, glibness, mind blank, power word stun|
-|**Level 9**|
-|foresight, power word kill, true polymorph|
-
-### Cleric Spells
-|  |
-|:-|
-|**Cantrips (Level 0)**|
-|guidance, light, mending, resistance, sacred flame, spare the dying, thaumaturgy|
-|**Level 1**|
-|bane, bless, command, create or destroy water, cure wounds, detect evil and good, detect magic, detect poison and disease, guiding bolt, healing word, inflict wounds, protection from evil and good, purify food and drink, sanctuary, shield of faith|
-|**Level 2**|
-|aid, augury, blindness/deafness, calm emotions, continual flame, enhance ability, find traps, gentle repose, hold person, lesser restoration, locate object, prayer of healing, protection from poison, silence, spiritual weapon, warding bond, zone of truth|
-|**Level 3**|
-|animate dead, beacon of hope, bestow curse, clairvoyance, create food and water, daylight, dispel magic, glyph of warding, magic circle, mass healing word, meld into stone, protection from energy, remove curse, revivify, sending, speak with dead, spirit guardians, tongues, water walk|
-|**Level 4**|
-|banishment, control water, death ward, divination, freedom of movement, guardian of faith, locate creature, stone shape|
-|**Level 5**|
-|commune, contagion, dispel evil and good, flame strike, geas, greater restoration, hallow, insect plague, legend lore, mass cure wounds, planar binding, raise dead, scrying|
-|**Level 6**|
-|blade barrier, create undead, find the path, forbiddance, harm, heal, heroes feast, planar ally, true seeing, word of recall|
-|**Level 7**|
-|conjure celestial, divine word, etherealness, fire storm, plane shift, regenerate, resurrection, symbol|
-|**Level 8**|
-|antimagic field, control weather, earthquake, holy aura|
-|**Level 9**|
-|astral projection, gate, mass heal, true ressurection|
-
-### Druid Spells
-|  |
-|:-|
-|**Cantrips (Level 0)**|
-|druidcraft, guidance, mending, poison spray, produce flame, resistance, shillelagh|
-|**Level 1**|
-|animal friendship, charm person, create or destroy water, cure wounds, detect magic, detect poison and disease, entangle, faerie fire, fog cloud, goodberry, healing word, jump, longstrider, purify food and drink, speak with animals, thunderwave|
-|**Level 2**|
-|animal messenger, barkskin, enhance ability, find traps, flame blade, flaming sphere, gust of wind, heat metal, hold person, lesser restoration, locate animals or plants, locate object, moonbeam, pass without trace, protection from poison, spike growth|
-|**Level 3**|
-|call lightning, conjure animals, daylight, dispel Magic, meld into stone, plant growth, protection from energy, sleet storm, speak with plants, water breathing, water walk, wind wall|
-|**Level 4**|
-|blight, confusion, conjure minor elementals, conjure woodland beings, control water, dominate beast, freedom of movement, giant insect, hallucinatory terrain, ice storm, locate creature, polymorph, stone shape, stoneskin, wall of fire|
-|**Level 5**|
-|antilife shell, awaken, commune with nature, conjure elemental, contagion, geas, greater restoration, insect plague, mass cure wounds, planar binding, reincarnate, scrying, tree stride, wall of stone|
-|**Level 6**|
-|conjure fey, find the path, heal, heroes’ feast, move earth, sunbeam, transport via plants, wall of thorns, wind walk|
-|**Level 7**|
-|fire storm, mirage arcane, plane shift, regenerate, reverse gravity|
-|**Level 8**|
-|animal shapes, antipathy/sympathy, control weather, earthquake, feeblemind, sunburst|
-|**Level 9**|
-|foresight, shapechange, storm of vengeance, true resurrection|
-
-### Paladin Spells
-|  |
-|:-|
-|**Level 1**|
-|bless, command, cure wounds, detect evil and good, detect magic, detect poison and disease, divine favor, heroism, protection from evil and good, purify food and drink, shield of faith|
-|**Level 2**|
-|aid, branding smite, find steed, lesser restoration, locate object, magic weapon, protection from poison, zone of truth|
-|**Level 3**|
-|create food and water, daylight, dispel magic, magic circle, remove curse, revivify|
-|**Level 4**|
-|banishment, death ward, locate creature|
-|**Level 5**|
-|dispel evil and good, geas, raise dead|
-
-### Ranger Spells
-|  |
-|:-|
-|**Level 1**|
-|alarm, animal friendship, cure wounds, detect magic, detect poison and disease, fog cloud, goodberry, hunter's mark, jump, longstrider, speak with animals|
-|**Level 2**|
-|animal messenger, barkskin, find traps, lesser restoration, locate animals or plants, locate object, pass without trace, protection from poison, silence, spike growth|
-|**Level 3**|
-|conjure animals, daylight, nondetection, plant growth, protection from energy, speak with plants, water breathing, water walk, wind wall|
-|**Level 4**|
-|conjure woodland beings, freedom of movement, locate creature, stoneskin|
-|**Level 5**|
-|commune with nature, tree stride|
-
-### Sorcerer Spells
-|  |
-|:-|
-|**Cantrips (Level 0)**|
-|acid splash, chill touch, dancing lights, fire bolt, light, mage hand, mending, message, minor illusion, poison spray, prestidigitation, ray of frost, shocking grasp, true strike|
-|**Level 1**|
-|burning hands, charm person, color spray, comprehend languages, detect magic, disguise self, expeditious retreat, false life, feather fall, fog cloud, jump, mage armor, magic missile, shield, silent image, sleep, thunderwave|
-|**Level 2**|
-|alter self, blindness/deafness, blur, darkness, detect thoughts, enhance ability, enlarge/reduce, gust of wind, hold person, invisibility, knock, levitate, mirror image, misty step, scorching ray, see invisibility, shatter, spider climb, suggestion, web|
-|**Level 3**|
-|blink, clairvoyance, counterspell, daylight, dispel magic, fear, fireball, fly, gaseous form, haste, hypnotic pattern, lightning bolt, major image, protection from energy, sleet storm, slow, stinking cloud, tongues, water breathing, water walk|
-|**Level 4**|
-|banishment, blight, confusion, dimension door, dominate beast, greater invisibility, ice storm, polymorph, stoneskin, wall of fire|
-|**Level 5**|
-|animate objects, cloudkill, cone of cold, creation, dominate person, hold monster, insect plague, seeming, telekinesis, teleportation circle, wall of stone|
-|**Level 6**|
-|chain lightning, circle of death, disintegrate, eyebite, globe of invulnerability, mass suggestion, move earth, sunbeam, true seeing|
-|**Level 7**|
-|delayed blast fireball, etherealness, finger of death, fire storm, plane shift, prismatic spray, reverse gravity, teleport|
-|**Level 8**|
-|dominate monster, earthquake, incendiary cloud, power word stun, sunburst|
-|**Level 9**|
-|gate, meteor swarm, power word kill, time stop, wish|
-
-### Warlock Spells
-|  |
-|:-|
-|**Cantrips (Level 0)**|
-|chill touch, eldritch blast, mage hand, minor illusion, poison spray, prestidigitation, true strike|
-|**Level 1**|
-|charm person, comprehend languages, expeditious retreat, hellish rebuke, illusory script, protection from evil and good, unseen servant|
-|**Level 2**|
-|darkness, enthrall, hold person, invisibility, mirror image, misty step, ray of enfeeblement, shatter, spider climb, suggestion|
-|**Level 3**|
-|counterspell, dispel magic, fear, fly, gaseous form, hypnotic pattern, magic circle, major image, remove curse, tongues, vampiric touch|
-|**Level 4**|
-|banishment, blight, dimension door, hallucinatory terrain|
-|**Level 5**|
-|contact other plane, dream, hold monster, scrying|
-|**Level 6**|
-|circle of death, conjure fey, create undead, eyebite, flesh to stone, mass suggestion, true seeing|
-|**Level 7**|
-|etherealness, finger of death, forcecage, plane shift|
-|**Level 8**|
-|demiplane, dominate monster, feeblemind, glibness, power word stun|
-|**Level 9**|
-|astral projection, foresight, imprisonment, power word kill, true polymorph|
-
-### Wizard Spells
-|  |
-|:-|
-|**Cantrips (Level 0)**|
-|acid splash, chill touch, dancing lights, fire bolt, light, mage hand, mending, message, minor illusion, poison spray, prestidigitation, ray of frost, shocking grasp, true strike|
-|**Level 1**|
-|alarm, burning hands, charm person, color spray, comprehend languages, detect magic, disguise self, expeditious retreat, false life, feather fall, find familiar, floating disk, fog cloud, grease, hideous laughter, identify, illusory script, jump, longstrider, mage armor, magic missile, protection from evil and good, shield, silent image, sleep, thunderwave, unseen servant|
-|**Level 2**|
-|acid arrow, alter self, arcane lock, arcanist’s magic aura, blindness/deafness, blur, continual flame, darkness, detect thoughts, enlarge/reduce, flaming sphere, gentle repose, gust of wind, hold person, invisibility, knock, levitate, locate object, magic mouth, magic weapon, mirror image, misty step, ray of enfeeblement, rope trick, scorching ray, see invisibility, shatter, spider climb, suggestion, web|
-|**Level 3**|
-|animate dead, bestow curse, blink, clairvoyance, counterspell, dispel magic, fear, fireball, fly, gaseous form, glyph of warding, haste, hypnotic pattern, lightning bolt, magic circle, major image, nondetection, phantom steed, protection from energy, remove curse, sending, sleet storm, slow, stinking cloud, tiny hut, tongues, vampiric touch, water breathing|
-|**Level 4**|
-|arcane eye, banishment, black tentacles, blight, confusion, conjure minor elementals, control water, dimension door, fabricate, faithful hound, fire shield, greater invisibility, hallucinatory terrain, ice storm, locate creature, phantasmal killer, polymorph, private sanctum, resilient sphere, secret chest, stone shape, stoneskin, wall of fire|
-|**Level 5**|
-|animate objects, arcane hand, cloudkill, cone of cold, conjure elemental, contact other plane, creation, dominate person, dream, geas, hold monster, legend lore, mislead, modify memory, passwall, planar binding, scrying, seeming, telekinesis, telepathic bond, teleportation circle, wall of force, wall of stone|
-|**Level 6**|
-|chain lightning, circle of death, contingency, create undead, disintegrate, eyebite, flesh to stone, freezing sphere, globe of invulnerability, guards and wards, instant summons, irresistible dance, magic jar, mass suggestion, move earth, programmed illusion, sunbeam, true seeing, wall of ice|
-|**Level 7**|
-|arcane sword, delayed blast fireball, etherealness, finger of death, forcecage, magnificent mansion, mirage arcane, plane shift, prismatic spray, project image, reverse gravity, sequester, simulacrum, symbol, teleport|
-|**Level 8**|
-|antimagic field, antipathy/sympathy, clone, control weather, demiplane, dominate monster, feeblemind, incendiary cloud, maze, mind blank, power word stun, sunburst|
-|**Level 9**|
-|astral projection, foresight, gate, imprisonment, meteor swarm, power word kill, prismatic wall, shapechange, time stop, true polymorph, weird, wish|
-
-## Spell Descriptions
-### Spells (A)
-#### Acid Arrow
-|_2nd-level evocation_|
-|:-|
-|**Casting Time:** 1 action|
-|**Range:** 18|
-|**Components:** V, S, M (powdered rhubarb leaf and an adder's stomach)|
-|**Duration:** Instantaneous|
-||
-|A shimmering green arrow streaks toward a target within range and bursts in a spray of acid. Make a ranged spell attack against the target. On a hit, the target takes 1 acid damage immediately and 1 acid damage at the end of its next turn.|
-|**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage (both initial and later) increases by +1 for each slot level above 2nd.|
-
-#### Acid Splash
-|_Conjuration cantrip_|
-|:-|
-|**Casting Time:** 1 action|
-|**Range:** 12|
-|**Components:** V, S|
-|**Duration:** Instantaneous|
-||
-|You hurl a bubble of acid. Choose one creature within range, or choose two creatures within range that are within 1 square of each other. A target must succeed on a DEX check or take 1 acid damage.|
-
-#### Aid
-|_2nd-level abjuration_|
-|:-|
-|**Casting Time:** 1 action|
-|**Range:** 6|
-|**Components:** V, S, M (a tiny strip of white cloth)|
-|**Duration:** Recall|
-||
-|Your spell bolsters your allies with toughness and resolve. Choose up to three creatures within range. Each target gains bolster 2.|
-|**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, increase the bolster value by +1 for each slot level above 2nd.|
-
-#### Alarm
-|_1st-­level abjuration (ritual)_|
-|:-|
-|**Casting Time:** 1 minute|
-|**Range:** 6|
-|**Components:** V, S, M (a tiny bell and a piece of fine silver wire)|
-|**Duration:** Recall|
-||
-|You set an alarm against unwanted intrusion. Choose a door, a window, or an area within range that is no larger than a 20-­‐‑foot cube. Until the spell ends, an alarm alerts you whenever a Tiny or larger creature touches or enters the warded area. When you cast the spell, you can designate creatures that won’t set off the alarm. You also choose whether the alarm is mental or audible.|
-|A mental alarm alerts you with a ping in your mind if you are within 1 mile of the warded area. This ping awakens you if you are sleeping.|
-|An audible alarm produces the sound of a hand bell for 10 seconds within 12 feet.|
-
-#### Alter Self
-|_2nd-­level transmutation_|
-|:-|
-|**Casting Time:** 1 action|
-|**Range:** Self|
-|**Components:** V, S|
-|**Duration:** Concentration, up to 1 hour|
-||
-|You assume a different form. When you cast the spell, choose one of the following options, the effects of which last for the duration of the spell. While the spell lasts, you can end one option as an action to gain the benefits of a different one.|
-|**Aquatic Adaptation.** You adapt your body to an aquatic environment, sprouting gills and growing webbing between your fingers. You can breathe underwater and gain a swimming speed equal to your walking speed.|
-|**Change Appearance.** You transform your appearance. You decide what you look like, including your height, weight, facial features, sound of your voice, hair length, coloration, and distinguishing characteristics, if any. You can make yourself appear as a member of another species, though none of your statistics change. You also can’t appear as a creature of a different size than you, and your basic shape stays the same; if you’re bipedal, you can’t use this spell to become quadrupedal, for instance. At any time for the duration of the spell, you can use your action to change your appearance in this way again.|
-|**Natural Weapons.** You grow claws, fangs, spines, horns, or a different natural weapon of your choice.
-Your unarmed strikes deal 1 bludgeoning, piercing, or slashing damage, as appropriate to the natural weapon you chose, and you are proficient with your unarmed strikes. Finally, the natural weapon is magic and you have a +1 bonus to the attack and damage rolls you make using it.|
-
-#### Animal Friendship
-|_1st-­level enchantment_|
-|:-|
-|**Casting Time:** 1 action|
-|**Range:** 6|
-|**Components:** V, S, M (a morsel of food)|
-|**Duration:** Recall|
-||
-|This spell lets you convince a beast that you mean it no harm. Choose a beast that you can see within range. It must see and hear you. If the beast's Intelligence is 4 or higher, the spell fails. Otherwise, the beast must succeed on a WIS check or be charmed by you for the spell's duration. If you or one of your companions harms the target, the spells ends.|
-|**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can affect one additional beast for each slot level above 1st.|
-
-#### Animal Messenger
-|_2nd-­level enchantment (ritual)_|
-|:-|
-|**Casting Time:** 1 action|
-|**Range:** 6|
-|**Components:** V, S, M (a morsel of food)|
-|**Duration:** Recall|
-||
-|By means of this spell, you use an animal to deliver a message. Choose a Tiny beast you can see within range, such as a squirrel, a blue jay, or a bat. You specify a location, which you must have visited, and a recipient who matches a general description, such as “a man or woman dressed in the uniform of the town guard” or “a red-­haired dwarf wearing a pointed hat.” You also speak a message of up to twenty-­five words. The target beast travels for the duration of the spell toward the specified location, covering 2 world map tiles for a flying messenger, or 1 world map tile for other animals. When the messenger arrives, it delivers your message to the creature that you described, replicating the sound of your voice. The messenger speaks only to a creature matching the description you gave. If the messenger doesn’t reach its destination before the spell ends, the message is lost, and the beast makes its way back to where you cast this spell.|
-|**At Higher Levels.** If you cast this spell using a spell slot of 3nd level or higher, the distance the animal messenger travels increases by +1 world map tile for each slot level above 2nd.|
-
-#### Arcane Lock
-|_2nd-level abjuration_|
-|:-|
-|**Casting Time:** 1 action|
-|**Range:** Touch|
-|**Components:** V, S, M (gold dust worth at least 25 gp, which the spell consumes)|
-|**Duration:** Until dispelled|
-||
-|You touch a closed door, window, gate, chest, or other entryway, and it becomes locked for the duration. You and the creatures you designate when you cast this spell can open the object normally. You can also set a password that, when spoken within 1 square of the object, suppresses this spell long enough to allow passage. Otherwise, it is impassable until it is broken or the spell is dispelled or suppressed. Casting knock on the object suppresses arcane lock for the rest of the encounter.|
-|While affected by this spell, the object is more difficult to break or force open; the DC to break it or pick any locks on it increases by 10.|
-
-#### Arcanist’s Magic Aura
-|_2nd-­level illusion_|
-|:-|
-|**Casting Time:** 1 action|
-|**Range:** Touch|
-|**Components:** V, S, M (a small square of silk)|
-|**Duration:** Recall|
-||
-|You place an illusion on a creature or an object you touch so that divination spells reveal false information about it. The target can be a willing creature or an object that isn’t being carried or worn by another creature.|
-|When you cast the spell, choose one or both of the following effects. The effect lasts for the duration. If you cast this spell on the same creature or object every day for 30 days, placing the same effect on it each time, the illusion lasts until it is dispelled.|
-|**False Aura.** You change the way the target appears to spells and magical effects, such as detect magic, that detect magical auras. You can make a nonmagical object appear magical, a magical object appear nonmagical, or change the object’s magical aura so that it appears to belong to a specific school of magic that you choose. When you use this effect on an object, you can make the false magic apparent to any creature that handles the item.|
-|**Mask.** You change the way the target appears to spells and magical effects that detect creature types, such as a paladin’s Divine Sense or the trigger of a symbol spell. You choose a creature type and other spells and magical effects treat the target as if it were a creature of that type or of that alignment.|
-
-#### Augury
-|_2nd-­level divination (ritual)_|
-|:-|
-|**Casting Time:** 1 action|
-|**Range:** Self|
-|**Components:** V, S, M (talisman)|
-|**Duration:** Instantaneous|
-||
-|By casting gem-­inlaid sticks, rolling dragon bones, laying out ornate cards, or employing some other divining tool, you receive an omen from an otherworldly entity about the results of a specific course of action that you plan to take before recalling back to HQ. The GM rolls an action die (d6) and compares the number of bolt symbols to the following possible omens:|
-||
-- 1 (1 bolt): Weal, for good results
-- 6 (2 bolts): Woe, for bad results
-- 2-5 (blank): Mixed or unclear results
-
-|  |
-|:-|
-|The spell doesn’t take into account any possible circumstances that might change the outcome, such as the casting of additional spells or the loss or gain of a companion.|
-|The GM makes any necessary adjustments to the narrative to incorporate these readings into the story.|
-
-### Spells (B)
-#### Bane
-|_1st-­level enchantment_|
-|:-|
-|**Casting Time:** 1 action|
-|**Range:** 6|
-|**Components:** V, S, M (a drop of blood)|
-|**Duration:** Concentration (encounter)|
-||
-|Up to three creatures of your choice that you can see within range must make CHA checks. Whenever a target that fails this check makes an attack roll or an ability check before the spell ends, the target must roll with disadvantage. This spell removes the effects of *bless.*|
-|**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.|
-
-#### Barkskin
-|_2nd-­level transmutation_|
-|:-|
-|**Casting Time:** 1 action|
-|**Range:** Touch|
-|**Components:** V, S, M (a handful of oak bark)|
-|**Duration:** Concentration (encounter)|
-||
-|You touch a willing creature. Until the spell ends, the target’s skin has a rough, bark-­like appearance, and the target’s AC can’t be less than 16, regardless of what kind of armor it is wearing.|
-
-#### Bless
-|_1st-­level enchantment_|
-|:-|
-|**Casting Time:** 1 action|
-|**Range:** 6|
-|**Components:** V, S, M (a sprinkling of holy water)|
-|**Duration:** Concentration (encounter)|
-||
-|You bless up to three creatures of your choice within range. Whenever a target makes an attack roll or an ability check before the spell ends, the target makes these rolls with advantage. This spell removes the effects of *bane.*|
-|**At Higher Levels.** At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.|
-
-#### Blindness/Deafness
-|_2nd-­level necromancy_|
-|:-|
-|**Casting Time:** 1 action|
-|**Range:** 6|
-|**Components:** V|
-|**Duration:** Encounter|
-||
-|You can blind or deafen a foe. Choose one creature that you can see within range to make a CON check. If it fails, the target is either blinded or deafened (your choice) for the duration. At the end of each of its turns, the target can make a CON check. On a success, the spell ends.|
-|**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.|
-
-#### Blur
-|_2nd-­level illusion_|
-|:-|
-|**Casting Time:** 1 action|
-|**Range:** Self|
-|**Components:** V|
-|**Duration:** Concentration (encounter)|
-||
-|Your body becomes blurred, shifting and wavering to all who can see you. For the duration, any creature has disadvantage on attack rolls against you. An attacker is immune to this effect if it doesn’t rely on sight, as with blindsight, or can see through illusions, as with truesight.|
-
-#### Branding Smite
-|_2nd-­level evocation_|
-|:-|
-|**Casting Time:** 1 bonus action|
-|**Range:** Self|
-|**Components:** V|
-|**Duration:** Concentration (encounter)|
-||
-|The next time you hit a creature with a weapon attack before this spell ends, the weapon gleams with astral radiance as you strike. The attack deals an extra 1 radiant damage to the target, which becomes visible if it's invisible, and the target sheds dim light in a 1 square radius and can't become invisible until the spell ends.|
-|**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the extra damage increases by +1 for each slot level above 2nd|
-
-#### Burning Hands
-|_1st-­level evocation_|
-|:-|
-|**Casting Time:** 1 action|
-|**Range:** Self|
-|**Components:** V, S|
-|**Duration:** Instantaneous|
-||
-|As you hold your hands with thumbs touching and fingers spread, a thin sheet of flames shoots forth from your outstretched fingertips. Each creature in a 3-­square cone must make a DEX check. A creature takes 1 fire damage on a failed check, or half as much damage on a successful one. The fire ignites any flammable objects in the area that aren’t being worn or carried.|
-|**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by +1 for each slot level above 1st.|
-
-#### NAME
-|_LEVEL_|
-|:-|
-|**Casting Time:** 1 action|
-|**Range:** 18|
-|**Components:** V, S, M (MATERIAL)|
-|**Duration:** Instantaneous|
-||
-|DESC|
-|**At Higher Levels.** HIGHER|
-
-### Spells (C)
-
-#### NAME
-|_LEVEL_|
-|:-|
-|**Casting Time:** 1 action|
-|**Range:** 18|
-|**Components:** V, S, M (MATERIAL)|
-|**Duration:** Instantaneous|
-||
-|DESC|
-|**At Higher Levels.** HIGHER|
-
-Calm Emotions
-2nd-­level enchantment
-Casting Time: 1 action
-Range: 12
-Components: V, S
-Duration: Concentration, up to 1 minute
-You attempt to suppress strong emotions in a group of people. Each humanoid in a 4-square radius sphere centered on a point you choose within range must make a CHA check. If a creature fails its check, choose one of the following two effects.
-
-You can suppress any effect causing a target to be charmed or frightened. When this spell ends, any suppressed effect resumes, provided that its duration has not expired in the meantime.
-
-Alternatively, you can make a target indifferent about creatures of your choice that it is hostile toward. This indifference ends if the target is attacked or harmed by a spell or if it witnesses any of its friends being harmed. When the spell ends, the creature becomes hostile again, unless the GM rules otherwise.
-
-#### Conjure Animal
-|_3rd-­level conjuration_|
-|:-|
-|**Casting Time:** 1 action|
-|**Range:** 12|
-|**Components:** V, S|
-|**Duration:** Concentration (encounter)|
-||
-|You summon a fey spirit that takes the form of a beast and appears in an unoccupied space that you can see within range. Choose one beast of challenge rating 2 or lower. The beast is also considered fey, and it disappears when it drops to 0 hit points or when the spell ends.|
-|The summoned creature is friendly to you and your companions. Roll initiative for the summoned creature, which has its own turns. It obeys any verbal commands that you issue (no action required by you). If you don’t issue any commands, the animal defends itself from hostile creatures but otherwise takes no actions.|
-|The GM has the creatures’ statistics.|
-
-
-### Spells (D)
-
-### Spells (E)
-
-### Spells (F)
-
-### Spells (G)
-
-### Spells (H)
-
-#### Healing Word
-|_1st-level evocation_|
-|:-|
-|**Casting Time:** 1 bonus action|
-|**Range:** 12|
-|**Components:** V|
-|**Duration:** Instantaneous|
-||
-|A creature of your choice that you can see within range receives 1 point of healing. This spell has no effect on undead or constructs.|
-|**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the spell grants an additional + 1 point of healing for each slot level above 1st.|
-
-### Spells (I)
-
-### Spells (J)
-
-### Spells (K)
-
-### Spells (L)
-
-### Spells (M)
-
-### Spells (N)
-
-### Spells (O)
-
-### Spells (P)
-
-### Spells (Q)
-
-### Spells (R)
-
-### Spells (S)
-
-#### Simulacrum
-|7th-level illusion|
-|:-|
-|**Casting Time:** 1 downtime round|
-|**Range:** Touch|
-|**Components:** V, S, M (snow or ice in quantities sufficient to make a life-size copy of the duplicated creature; some hair, fingernail clippings, or other piece of that creature's body placed inside the snow or ice)|
-|**Duration:** Until dispelled|
-||
-|You shape an illusory duplicate of one beast or humanoid that is within range for the entire casting time of the spell. The duplicate is a creature, partially real and formed from ice or snow, and it can take actions and otherwise be affected as a normal creature. It appears to be the same as the original, but its MAX Wounds is half the creature’s MAX Wounds and it is formed without any equipment. Otherwise, the illusion uses all the statistics of the creature it duplicates, except that it is a construct.|
-|The simulacrum is friendly to you and creatures you designate. It obeys your spoken commands, moving and acting in accordance with your wishes and acting on your turn in combat. The simulacrum lacks the ability to learn or become more powerful, so it never increases its level or other abilities, nor can it regain expended spell slots. Simulacrums cannot cast _simulacrum_ or _wish_.|
-|Once you cast _simulacrum_, you cannot cast it again until you gain a level of experience.|
-|If the simulacrum is damaged, you can repair it in an alchemical laboratory, spending 1 or more coins to heal an equal number of wounds. The simulacrum lasts until it reaches MAX Wounds, at which point it reverts to snow and melts instantly.|
-|If you cast this spell again, any currently active duplicates you created with this spell are instantly destroyed.|
-
-### Spells (T)
-
-#### Thunderwave
-|1st-level evocation|
-|:-|
-|**Casting Time:** 1 action|
-|**Range:** Self (3-square cube)|
-|**Components:** V, S|
-|**Duration:** Instantaneous|
-||
-|A wave of thunderous force sweeps out from you. Each creature in a 3-square cube originating from you must make a CON check. On a failed check, a creature takes 1 thunder damage and is pushed 2 squares away from you. On a successful check, the creature takes half damage and isn’t pushed.|
-|In addition, unsecured objects that are completely within the area of effect are automatically pushed 2 squares away from you by the spell’s effect, and the spell emits a thunderous boom audible on the entire map.|
-|**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by +1 for each slot level above 1st.|
-
-
-
-### Spells (U)
-
-### Spells (V)
-
-### Spells (W)
-
-### Spells (X)
-
-### Spells (Y)
-
-### Spells (Z)
 
 ---
 
