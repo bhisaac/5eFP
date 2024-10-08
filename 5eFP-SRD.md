@@ -274,7 +274,7 @@ While you are not wearing armor, add CON (minimum +0) to your Armor Class (AC). 
 
 **Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords
 
-**Tools:** Three musical instruments of your choice.
+**Tools:** None
 
 **Abilities:** Dexterity (DEX), Charisma (CHA)
 
@@ -318,15 +318,15 @@ Charisma (CHA) is your spellcasting ability for your bard spells. Your magic com
 
 You can cast any bard spell you know as a ritual if that spell has the ritual tag.
 
-#### Spellcasting Focus
+#### Magic Performance
 
-You can use a musical instrument (see “Equipment”) as a spellcasting focus for your bard spells.
+Your bardic magic lets you use your voice or any instrument you wield more effectively. You roll with advantage whenever you make CHA checks with your voice or an instrument you're welding.
 
-#### Bardic Inspiration
+#### Bardic Action Dice
 
-You can inspire others through stirring words or music. To do so, you use a bonus action on your turn to choose one creature other than yourself within 10 squares of you who can hear you. That creature gains three Bardic Inspiration action dice.
+You can inspire others through stirring words or music. To do so, you use a bonus action on your turn to choose one creature other than yourself within 10 squares of you who can hear you. That creature gains three of your action dice.
 
-For the remainder of the encounter, the creature can roll any Bardic Inspiration action dice and add the result to one ability check or attack roll it makes. The creature can wait until after it rolls the d20 before deciding to use the Bardic Inspiration action dice but must decide before the GM says whether the roll succeeds or fails. Once the Bardic Inspiration action dice are rolled, they are lost. If the creature has Bardic Inspiration action dice and gains more, it decides whether to keep the ones it has or gain the new ones.
+For the remainder of the encounter, the creature can roll any of your action dice and add the result to one ability check or attack roll it makes. The creature can wait until after it rolls the d20 before deciding to use any of your action dice but must decide before the GM says whether the roll succeeds or fails. Once your action dice are rolled, they are returned to you. If the creature has one or more of your action dice and gains more, it decides whether to keep the ones it has or gain the new ones. Any discarded action dice are returned to you.
 
 You can use this feature a number of times per day equal to your CHA (minimum 1).
 
