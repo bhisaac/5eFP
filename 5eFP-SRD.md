@@ -1557,7 +1557,7 @@ You devoted numerous years of your life to gaining knowledge about the multivers
 
 ### Feature: Researcher
 
-Once during the downtime phase, before spending any ⛁, you gain ⛁ this round for research only. You may spend this ⛁ on any available research at any location. If there are no available research tracks, add one to any location.
+Once during the downtime phase, before spending any ⛁, you gain ⛁ this round for research only. You may spend this ⛁ on any available research at any location. If there are no available research tracks, add one to any location and spend the bonus ⛁ on the added research.
 
 ## Seafarer
 
