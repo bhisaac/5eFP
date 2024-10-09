@@ -1194,7 +1194,7 @@ MONK
 >>>> - It must succeed on a DEX check or be knocked prone.
 >>>> - It must make a STR check. If it fails, you can push it up to 3 squares away from you.
 >>>> - It can’t take reactions until the end of your next turn.
->>>>
+>>>
 >>> **Way of the Four Elements.** You follow a monastic tradition that teaches you to harness the elements. When you focus your ki, you can align yourself with the forces of creation and bend the four elements to your will, using them as an extension of your body. Some members of this tradition dedicate themselves to a single element, but others weave them together.
 >>>
 >>> Many monks of this tradition tattoo their bodies with representations of their ki powers, commonly imagined as coiling dragons, but also as phoenixes, fish, plants, mountains, and cresting waves.
@@ -1206,8 +1206,16 @@ MONK
 >>>> Whenever you learn a new elemental discipline, you can also replace one elemental discipline that you already know with a different discipline.
 >>>>
 >>>> **_Casting Elemental Spells._** Some elemental disciplines allow you to cast spells. See Spellcasting for the general rules of spellcasting. To cast one of these spells, you use its casting time and other rules.
->>>>> TBA
- 
+>>>>
+>>>> **Elemental Disciplines**
+>>>> 
+>>>> The elemental disciplines are presented in alphabetical order.
+>>>>
+>>>> **_Elemental Attunement_.** You can use your action to briefly control elemental forces nearby, causing one of the following effects of your choice:
+>>>> - Create a harmless, instantaneous sensory effect related to air, earth, fire, or water, such as a shower of sparks, a puff of wind, a spray of light mist, or a gentle rumbling of stone.
+>>>> - Instantaneously light or snuff out a candle, a torch, or a small campfire.
+>>>> - Chill or warm up to 1 pound of nonliving material for up to 1 hour.
+>>>> - Cause earth, fire, water, or mist that can fit within a 1-foot cube to shape itself into a crude form you desig­nate until the end of the encounter or until an encounter begins.
 > #### Deflect Missiles
 >> You can use your reaction to deflect or catch the piece of ammunition or missile when you are hit by a ranged weapon attack. When you do so, the damage you take from the attack is reduced by 1 + DEX + your level (minimum 0).
 >>
