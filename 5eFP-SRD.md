@@ -1196,7 +1196,7 @@ MONK
 >>>> - It must make a STR check. If it fails, you can push it up to 3 squares away from you.
 >>>> - It can’t take reactions until the end of your next turn.
 >>>
->>> **Way of the Four Elements.** You follow a monastic tradition that teaches you to harness the elements. When you focus your ki, you can align yourself with the forces of creation and bend the four elements to your will, using them as an extension of your body. Some members of this tradition dedicate themselves to a single element, but others weave them together.
+>>> **Way of the Elements.** You follow a monastic tradition that teaches you to harness the elements. When you focus your ki, you can align yourself with the forces of creation and bend the four elements to your will, using them as an extension of your body. Some members of this tradition dedicate themselves to a single element, but others weave them together.
 >>>
 >>> Many monks of this tradition tattoo their bodies with representations of their ki powers, commonly imagined as coiling dragons, but also as phoenixes, fish, plants, mountains, and cresting waves.
 >>>
@@ -3031,7 +3031,7 @@ When characters cast a spell, they expend a slot of that spell’s level or high
 
 Spell slots are restored at the end of a game session.
 
-Some characters and monsters have special abilities that let them cast spells without using spell slots. For example, a monk who follows the Way of the Four Elements, a warlock who chooses certain eldritch invocations, and a pit fiend from the Nine Hells can all cast spells in such a way.
+Some characters and monsters have special abilities that let them cast spells without using spell slots. For example, a monk who follows the Way of the Elements, a warlock who chooses certain eldritch invocations, and a pit fiend from the Nine Hells can all cast spells in such a way.
 
 #### Casting a Spell at a Higher Level
 
