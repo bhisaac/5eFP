@@ -1409,7 +1409,17 @@ Your GM reveals all relevant information regarding the current scene gathered th
 
 Your performance allows the satisfying completion of one action.
 
-You decide the outcome of the next action your character declares on their turn. You must use your inspiration this way before taking an action or rolling any dice. If the result of your chosen action further affects you on subsequent rounds during the same encounter, make all related die rolls with advantage.
+You decide the outcome of the next action your character declares on their turn. You must use your inspiration this way before taking an action or rolling any dice.
+
+> Your decision can only affect the outcome of that single action. If desired, you can add colorful descriptions of the action, particularly for critical hit damage. But your narrative can only affect that single action.
+>
+> For example, suppose you are in a combat encounter with goblins in a goblin lair. If you are deciding the outcome of an attack action against a goblin, your choices include a successful or unsuccessful hit. If an attack is successful, you choose the attack damage from 1 point, normal, or critical hit damage (double damage). You can also choose whether or not the goblin is knocked out if it reaches MAX Wounds. You cannot, however, add anything that would contradict the encounter, such as, "and then a secret door opens up on the cavern wall, revealing an exit passage into an underground garden area."
+>
+> While the secret door, exit, and underground garden area are creative and fascinating, they were not preestablished story elements before you took your action and cannot be inserted into the narrative of that action.
+>
+> Spells, skills, and game feature results must stay within the guidelines established in their rules. If a spell targets a creature with a die roll, you decide whether it is successful or not. If successful, you decide on the damage (if any) and the effect must match what that spell, skill, or game feature is capable of doing at the current level of play. You cannot add narrative elements that add or take away more.
+
+If the result of your chosen action further affects you on subsequent rounds during the same encounter, make all related die rolls with advantage.
 
 >> Example 1:
 >>> (_GM_) "The room opens up, exposing a sprawling cliff face leading to the top of the spire."
@@ -1438,6 +1448,10 @@ You decide the outcome of the next action your character declares on their turn.
 Your survival awards expanded capacities, allowing you to identify and acquire new advantages, qualities, or skills.
 
 Activating survival allows you to reveal a game objective. Place a foothold or setting handbook requirement on a revealed square of your choice up to 2 squares away from you.
+
+> **Other Game Systems**
+>
+>> When you use your dedication to activate survival, the GM indicates the direction and position (if within view) of your current focused objective on the map. For example, a player might activate inspired survival when faced with three mysterious doors. The GM reveals the door leading to the player's current quest. How your character ends up knowing this is connected with their class abilities, skills, and game features. Healers might receive divine inspiration to determine the result. Mages might use divination magic to determine the result. Scoundrels might use knowledge, cunning, or preternatural awareness to determine the result. Warriors might use knowledge, survival skills, or gut instincts to determine the result.
 
 Alternatively, once per game session, when you spend your inspiration to activate Survival, you can instead choose to activate a dedication you didn't choose at the beginning of the current game session.
 
