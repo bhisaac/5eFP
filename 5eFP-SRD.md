@@ -1219,8 +1219,8 @@ MONK
 >>>> **_Elemental Attunement_.** You can use your action to briefly control elemental forces nearby, causing one of the following effects of your choice:
 >>>> - Create a harmless, instantaneous sensory effect related to air, earth, fire, or water, such as a shower of sparks, a puff of wind, a spray of light mist, or a gentle rumbling of stone.
 >>>> - Instantaneously light or snuff out a candle, a torch, or a small campfire.
->>>> - Chill or warm up to 1 pound of nonliving material for up to 1 hour.
->>>> - Cause earth, fire, water, or mist that can fit within a 1-foot cube to shape itself into a crude form you desig­nate until you perform a short rest or when you recall.
+>>>> - Chill or warm up to 1 pound of nonliving material during a short rest or until the end of the encounter.
+>>>> - Cause earth, fire, water, or mist that can fit within a 1-foot cube to shape itself into a crude form you desig­nate until the end of the encounter or when the game session ends.
 >>>>
 >>>> **_Fangs of the Fire Snake_.** When you use the Attack action on your turn, you can spend 1 ki point to cause tendrils of flame to stretch out from your fists and feet. Your reach with your unarmed strikes increases by +2 squares for that action, as well as the rest of the turn. A hit with such an attack deals 3 points of damage, and its damage type becomes fire instead of bludgeoning. The damage increases by +1 for each additional ki you spend.
 >>>>
