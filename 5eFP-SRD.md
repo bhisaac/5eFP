@@ -1207,15 +1207,36 @@ MONK
 >>>>
 >>>> **_Casting Elemental Spells._** Some elemental disciplines allow you to cast spells. See Spellcasting for the general rules of spellcasting. To cast one of these spells, you use its casting time and other rules.
 >>>>
+>>>> The maximum number of ki points you can spend on elemental disciplines (including its base ki point cost and any additional ki points you spend) is determined by LEVEL.
+>>>> 
 >>>> **Elemental Disciplines**
 >>>> 
 >>>> The elemental disciplines are presented in alphabetical order.
 >>>>
+>>>> **_Clench of the North Wind_.** You can spend 1 ki point to cast _hold person_.
+>>>> 
 >>>> **_Elemental Attunement_.** You can use your action to briefly control elemental forces nearby, causing one of the following effects of your choice:
 >>>> - Create a harmless, instantaneous sensory effect related to air, earth, fire, or water, such as a shower of sparks, a puff of wind, a spray of light mist, or a gentle rumbling of stone.
 >>>> - Instantaneously light or snuff out a candle, a torch, or a small campfire.
 >>>> - Chill or warm up to 1 pound of nonliving material for up to 1 hour.
->>>> - Cause earth, fire, water, or mist that can fit within a 1-foot cube to shape itself into a crude form you desig­nate until the end of the encounter or until an encounter begins.
+>>>> - Cause earth, fire, water, or mist that can fit within a 1-foot cube to shape itself into a crude form you desig­nate until you perform a short rest or when you recall.
+>>>>
+>>>> **_Fangs of the Fire Snake_.** When you use the Attack action on your turn, you can spend 1 ki point to cause tendrils of flame to stretch out from your fists and feet. Your reach with your unarmed strikes increases by +2 squares for that action, as well as the rest of the turn. A hit with such an attack deals 1 + LEVEL points of damage, and its damage type becomes fire instead of bludgeoning.
+>>>>
+>>>> **_Fist of Four Thunders_.** You can spend 1 ki point to cast _thunderwave_.
+>>>>
+>>>> **_Fist of Unbroken Air_.** You can create a blast of compressed air that strikes like a mighty fist. As an action, you can spend 1 ki point and choose a creature within 6 squares of you. That creature must make a STR check. On a failed check, the creature takes 3 bludgeoning damage, plus an extra 1 bludgeoning damage for each additional ki point you spend, and you can push the creature up to 4 squares away from you and knock it prone. On a successful check, the creature takes half as much damage, and you don’t push it or knock it prone.
+>>>>
+>>>> **_Gong of the Summit_.** You can spend 1 ki point to cast _shatter_.
+>>>>
+>>>> **_Rush of the Gale Spirits_.** You can spend 1 ki point to cast _gust of wind_.
+>>>>
+>>>> **_Shape the Flowing River_.** As an action, you can spend 1 ki point to choose an area of ice or water no larger than 6 squares on a side within 14 squares of you. You can change water to ice within the area and vice versa, and you can reshape ice in the area in any manner you choose. You can raise or lower the ice’s elevation, create or fill in a trench, erect or flatten a wall, or form a pillar. The extent of any such changes can’t exceed half the area’s largest dimension. For example, if you affect a 6-square area, you can create a pillar up to 3 squares high, raise or lower the square’s elevation by up to 3 squares, dig a trench up to 3 squares deep, and so on. You can’t shape the ice to trap or injure a creature in the area.
+>>>>
+>>>> **_Sweeping Cinder Strike_.** You can spend 1 ki point to cast _burning hands_.
+>>>>
+>>>> **_Water Whip_.** You can spend 1 ki point as a bonus action to create a whip of water that shoves and pulls a creature to unbalance it. A creature that you can see that is within 6 squares of you must make a DEX check. On a failed check, the creature takes 3 bludgeoning damage, plus an extra 1 bludgeoning damage for each additional ki point you spend, and you can either knock it prone or pull it up to 7 squares closer to you. On a successful save, the creature takes half as much damage, and you don’t pull it or knock it prone.
+>
 > #### Deflect Missiles
 >> You can use your reaction to deflect or catch the piece of ammunition or missile when you are hit by a ranged weapon attack. When you do so, the damage you take from the attack is reduced by 1 + DEX + your level (minimum 0).
 >>
