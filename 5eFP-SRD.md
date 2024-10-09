@@ -1788,7 +1788,7 @@ Ammunition may be used to make melee attacks. If you are proficient with the wea
 
 ~~**_Finesse._** When making an attack with a finesse weapon, you use your choice of your STR or DEX for attack rolls.~~
 
-> The finesse and versatile weapon properties are removed in 5eFP. There is now one attack roll that covers both melee and ranged attacks. At character creation, players choose whether their attack rolls are modified by DEX or STR. Monks may choose WIS instead of DEX or STR. Once this choice is made, it cannot be changed.
+> The finesse and versatile weapon properties are removed in 5eFP. There is now one attack roll that covers both melee and ranged attacks. At character creation, players choose whether their attack rolls are modified by DEX or STR.
 >
 > Some realism is sacrificed for ease of gameplay. Emphasizing one ability score for both attacks allows PCs to focus more closely on an ability score they wish to work with.
 
