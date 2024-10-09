@@ -1430,10 +1430,10 @@ If the result of your chosen action further affects you on subsequent rounds dur
 >>> 
 >>> (_Player 1_) "Thanks. Lita leaps onto the cliff face, finds her grip, and makes her way to the top."
 >>> 
->> In example 1, _Player 1_'s action resolves a successful STR check without rolling to begin climbing the cliff face to reach the top of the spire, 40 squares above Lita's position. _Player 1_ has indicated that this climb is important in some way. While climbing the cliff, Lita makes all attacks and ability checks with advantage. Later, during the cliff-face encounter, Lita's skill is tested again due to strong winds. She must succeed on a STR check to keep her grip. She rolls STR with advantage because she is still in the same cliff-face encounter.
+>> In example 1, _Player 1_'s action resolves a successful STR check without rolling to begin climbing the cliff face to reach the top of the spire, 40 squares above _Player 1_'s position. _Player 1_ has indicated that this climb is important in some way. While climbing the cliff, _Player 1_ makes all attacks and ability checks with advantage. Later, during the cliff-face encounter, _Player 1_'s skill is tested again due to strong winds. _Player 1_ must succeed on a STR check to hold onto the cliff. _Player 1_ rolls STR with advantage because _Player 1_ is still in the same cliff-face encounter.
 >> 
 >> Example 2: 
->>> _(GM)_ "Lita, it's your turn."
+>>> _(GM)_ "Ok, it's your turn."
 >>> 
 >>> _(Player 2)_ "I spend my inspiration on PERFORMANCE."
 >>> 
