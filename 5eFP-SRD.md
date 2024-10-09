@@ -1432,6 +1432,8 @@ If the result of your chosen action further affects you on subsequent rounds dur
 >>> 
 >> In example 1, _Player 1_'s action resolves a successful STR check without rolling to begin climbing the cliff face to reach the top of the spire, 40 squares above Lita's position. _Player 1 has indicated that this climb is important in some way_. While climbing the cliff, Lita makes all attacks and ability checks with advantage. Later, during the cliff-face encounter, Lita's skill is tested again due to strong winds. Lita must succeed on a STR check to hold onto the cliff. Lita rolls STR with advantage because she is still in the same cliff-face encounter.
 >>
+>> _Player 1_ may influence or affect the cliff-face narrative of an encounter but cannot end it with the inspired performance because the top of the cliff is 40 squares above Lita. Lita's movement speed is 3 squares while climbing. Without an alternative form of transportation, she can't reach the top in one round.
+>>
 >> Example 2: 
 >>> _(GM)_ "Ok, it's your turn."
 >>> 
