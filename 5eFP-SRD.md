@@ -1161,16 +1161,17 @@ MONK
 |-:|:-|:-|
 |**Cost**|**Feature**|**Details**|
 |2⛁|Ki|...|
+|3⛁|--|+1 ki|
 |2⛁|Unormored Movement|...|
 |3⛁|Monastic Tradition|...|
 |3⛁|Deflect Missiles|...|
 
 > #### Ki
->> Your training allows you to harness the mystic energy of ki. Your access to this energy is represented by a number of ki points. Your monk level determines the number of points you have.
+>> Your training allows you to harness the mystic energy of ki. Your access to this energy is represented by a number of ki points. You have 1 + LEVEL ki points.
 >>
 >> You can spend these points to fuel various ki features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind.
 >>
->> When you spend a ki point, it is unavailable until you finish a short or long rest, at the end of which you draw all of your expended ki back into yourself. You must spend at least 30 minutes of the rest meditating to regain your ki points.
+>> When you spend a ki point, it is unavailable until you finish a short rest or until the end of the game session, at the end of which you draw all of your expended ki back into yourself. You must spend half the short rest meditating to regain your ki points.
 >>
 >> Some of your ki features require your target to make an ability check to resist the feature’s effects. The ki feature DC is calculated as follows:
 >>
@@ -1207,13 +1208,13 @@ MONK
 >>>>
 >>>> **_Casting Elemental Spells._** Some elemental disciplines allow you to cast spells. See Spellcasting for the general rules of spellcasting. To cast one of these spells, you use its casting time and other rules.
 >>>>
+>>>> You can spend additional ki points to increase the level of an elemental discipline spell that you cast, provided that the spell has an enhanced effect at a higher level, as _burning hands_ does. The spell's level increases by 1 for each additional ki point you spend. For example, if you are a level 2 monk and use Sweeping Cinder Strike to cast _burning hands_, you can spend 2 ki points to cast it as a 2nd-level spell (the discipline’s base cost of 1 ki point plus 1).
+>>>> 
 >>>> The maximum number of ki points you can spend on elemental disciplines (including its base ki point cost and any additional ki points you spend) is determined by LEVEL.
 >>>> 
 >>>> **Elemental Disciplines**
 >>>> 
 >>>> The elemental disciplines are presented in alphabetical order.
->>>>
->>>> **_Clench of the North Wind_.** You can spend 1 ki point to cast _hold person_.
 >>>> 
 >>>> **_Elemental Attunement_.** You can use your action to briefly control elemental forces nearby, causing one of the following effects of your choice:
 >>>> - Create a harmless, instantaneous sensory effect related to air, earth, fire, or water, such as a shower of sparks, a puff of wind, a spray of light mist, or a gentle rumbling of stone.
@@ -1221,13 +1222,11 @@ MONK
 >>>> - Chill or warm up to 1 pound of nonliving material for up to 1 hour.
 >>>> - Cause earth, fire, water, or mist that can fit within a 1-foot cube to shape itself into a crude form you desig­nate until you perform a short rest or when you recall.
 >>>>
->>>> **_Fangs of the Fire Snake_.** When you use the Attack action on your turn, you can spend 1 ki point to cause tendrils of flame to stretch out from your fists and feet. Your reach with your unarmed strikes increases by +2 squares for that action, as well as the rest of the turn. A hit with such an attack deals 1 + LEVEL points of damage, and its damage type becomes fire instead of bludgeoning.
+>>>> **_Fangs of the Fire Snake_.** When you use the Attack action on your turn, you can spend 1 ki point to cause tendrils of flame to stretch out from your fists and feet. Your reach with your unarmed strikes increases by +2 squares for that action, as well as the rest of the turn. A hit with such an attack deals 3 points of damage, and its damage type becomes fire instead of bludgeoning. The damage increases by +1 for each additional ki you spend.
 >>>>
 >>>> **_Fist of Four Thunders_.** You can spend 1 ki point to cast _thunderwave_.
 >>>>
 >>>> **_Fist of Unbroken Air_.** You can create a blast of compressed air that strikes like a mighty fist. As an action, you can spend 1 ki point and choose a creature within 6 squares of you. That creature must make a STR check. On a failed check, the creature takes 3 bludgeoning damage, plus an extra 1 bludgeoning damage for each additional ki point you spend, and you can push the creature up to 4 squares away from you and knock it prone. On a successful check, the creature takes half as much damage, and you don’t push it or knock it prone.
->>>>
->>>> **_Gong of the Summit_.** You can spend 1 ki point to cast _shatter_.
 >>>>
 >>>> **_Rush of the Gale Spirits_.** You can spend 1 ki point to cast _gust of wind_.
 >>>>
