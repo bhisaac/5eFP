@@ -1411,6 +1411,8 @@ Your performance allows the satisfying completion of one action.
 
 You decide the outcome of the next action your character declares on their turn. You must use your inspiration this way before taking an action or rolling any dice.
 
+If the result of your chosen action further affects you on subsequent rounds during the same encounter, make all related die rolls with advantage.
+
 > Your decision can only affect the outcome of that single action. If desired, you can add colorful descriptions of the action, particularly for critical hit damage. But your narrative can only affect that single action.
 >
 > For example, suppose you are in a combat encounter with goblins in a goblin lair. If you are deciding the outcome of an attack action against a goblin, your choices include a successful or unsuccessful hit. If an attack is successful, you choose the attack damage from 1 point, normal, or critical hit damage (double damage). You can also choose whether or not the goblin is knocked out if it reaches MAX Wounds. You cannot, however, add anything that would contradict the encounter, such as, "and then a secret door opens up on the cavern wall, revealing an exit passage into an underground garden area."
@@ -1418,8 +1420,6 @@ You decide the outcome of the next action your character declares on their turn.
 > While the secret door, exit, and underground garden area are creative and fascinating, they were not preestablished story elements before you took your action and cannot be inserted into the narrative of that action.
 >
 > Spells, skills, and game feature results must stay within the guidelines established in their rules. If a spell targets a creature with a die roll, you decide whether it is successful or not. If successful, you decide on the damage (if any) and the effect must match what that spell, skill, or game feature is capable of doing at the current level of play. You cannot add narrative elements that add or take away more.
-
-If the result of your chosen action further affects you on subsequent rounds during the same encounter, make all related die rolls with advantage.
 
 >> Example 1:
 >>> (_GM_) "The room opens up, exposing a sprawling cliff face leading to the top of the spire."
