@@ -1084,21 +1084,23 @@ DRUID
 |3⛁|Spells II|(+1) 1st-level spell slot, (+2) 2nd-level spell slots|
 
 > #### Wild Shape (action)
->> You magically assume the shape of a beast that you have seen before. When you use this feature, save and set aside any wounds and choose a wild shape form. Your wild shape form cannot benefit from any swim or fly speeds it may have.
+>> You magically assume the shape of a beast that you have seen before. When you use this feature, save and set aside any wounds and choose a wild shape form. Use statistics for an elite creature except as detailed below. Your wild shape form cannot benefit from any swim or fly speeds it may have.
 >> 
 >> WILD SHAPE FORMS
->>> **_Astral._** You have 2 MAX wounds while in astral form. When you choose this form, you do not assume the shape of a beast. You remain in your normal form while gaining a number of additional features. Your form becomes translucent, taking on an indigo tint filled with points of moving lights.
+>>> **_Astral._** You have 1 + LEVEL MAX wounds while in astral form. When you choose this form, you do not assume the shape of a beast. You remain in your normal form while gaining a number of additional features. Your form becomes translucent, taking on an indigo tint filled with points of moving lights.
 >>>> **_Lunar Attunement._** Whenever you cast a spell that has no visible effect (i.e., _cure wounds_), you lose solar attunement and gain lunar attunement. If you already have lunar attunement, remove lunar attunement and activate _starfall_ (see below).
 >>>> 
 >>>> **_Solar Attunement._** Whenever you cast a spell that has a visible effect (i.e., _entangle_), you lose lunar attunement and gain solar attunement. If you already have solar attunement, remove solar attunement and activate _starfall_ (see below).
 >>>> 
->>>> **_Starfall. (free action)_** A shooting star forms above your head and strikes a creature within 12 squares of you. If the creature is friendly, it receives 1 point of healing and allows the creature to make one additional ability check to resist an ongoing negative condition. If the creature is not a friendly target, it must succeed on a DEX check using your spell DC or take 1 point of radiant damage. You then gain Lunar Attunement or Solar Attunement.
+>>>> **_Starfall. (free action)_** A shooting star of radiance forms above your head and strikes a creature within 12 squares of you. If the creature is friendly, it receives 1 point of healing and allows the creature to make one additional ability check to resist one ongoing negative effect. If the creature is not a friendly target, it must succeed on a DEX check using your spell DC or take 1 point of radiant damage. You then gain Lunar Attunement or Solar Attunement.
 >>> 
->>> **_Defender._** You have 5 + CON MAX wounds while in defender form. If your size is less than large, it increases to large.
+>>> **_Defender._** You have 5 + LEVEL MAX wounds while in defender form. While in defender form, you can Bolster (Level) as a free action when you assume this wild shape form and at the beginning of each of your turns.
 >>> 
->>> **_Stealthy._** You have 4 + CON MAX wounds while in stealthy form. While in stealthy form, you roll DEX and WIS checks with advantage and gain a pounce attack (if you don't already have one).
+>>> **_Stealthy._** You have 4 + LEVEL MAX wounds while in stealthy form. While in stealthy form, you roll DEX and WIS checks with advantage and gain a pounce attack (if you don't already have one).
+>>>
+>>>> **Pounce.** If the stealthy form moves at least 3 squares straight toward a creature and then hits it with a melee attack on the same turn, that target must succeed on a DC 14 STR check or be knocked prone. If the target is prone, the stealthy form can make one melee attack against it as a bonus action.
 >>> 
->>> **_Travel._** To activate this feature, you must be on the overland map (see _Overland Map_) and not in a combat encounter. You have 1 MAX wounds while in travel form. When activated, you and any chosen creatures within 6 squares of you transform into travel forms and move together. If a combat encounter begins or if 1 or more points of damage are dealt to you or another affected creature, your wild shape and all travel forms end. Your movement score doubles while in travel form. Once activated, the travel form can be reactivated on the overland map outside of combat as a free action until the end of the game session.
+>>> **_Travel._** To activate this feature, you must be on the overland map (see _Overland Map_) and not in a combat encounter. You have 1 MAX wounds while in travel form. When activated, you and any chosen creatures within 6 squares of you transform into travel forms and move together. If a combat encounter begins or if 1 or more points of damage are dealt to you or another affected creature, your wild shape and all travel forms end. Your movement score doubles while in travel form. Once activated while on the overland map, the travel form can be reactivated on the overland map outside of an encounter at any time until the end of the game session.
 >> 
 >> You can use this feature twice. You regain expended uses when you finish a short or long rest.
 >>
