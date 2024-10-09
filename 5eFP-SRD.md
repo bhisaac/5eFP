@@ -2785,7 +2785,7 @@ When you make an attack, your attack roll determines whether the attack hits or 
 
 When a character makes an attack roll, the two most common modifiers to the roll are an ability score and LEVEL. When a monster makes an attack roll, it uses a modifier usually determined by encounter type (minion, elite, boss) and LEVEL. However, your GM may adjust modifiers on some monsters.
 
-**Ability Score.** The ability score used for a weapon attack is usually STR or DEX (or WIS for monks). At character creation, you choose which is used. Monsters usually use the larger of the two ability scores for a weapon attack.
+**Ability Score.** The ability score used for a weapon attack is usually STR or DEX. At character creation, you choose which ability to use. Monsters usually use the larger of the two ability scores for a weapon attack.
 
 Some spells also require an attack roll. The ability score used for a spell attack depends on the spellcasting ability of the spellcaster.
 
