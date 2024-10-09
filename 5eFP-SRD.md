@@ -1173,9 +1173,9 @@ MONK
 >>
 >> When you spend a ki point, it is unavailable until you finish a short rest or until the end of the game session, at the end of which you draw all of your expended ki back into yourself. You must spend half the short rest meditating to regain your ki points.
 >>
->> Some of your ki features require your target to make an ability check to resist the feature’s effects. The ki feature DC is calculated as follows:
+>> Some of your ki features require your target to make an ability check to resist the feature’s effects. The ki DC is calculated as follows:
 >>
->> **Ki feature DC** = 10 +  WIS
+>> **Ki DC** = 10 +  WIS
 >>
 >> **Flurry of Blows.** Immediately after you take the Attack action on your turn, you can spend 1 ki point to make two unarmed strikes as a bonus action.
 >>
