@@ -1430,8 +1430,8 @@ If the result of your chosen action further affects you on subsequent rounds dur
 >>> 
 >>> (_Player 1_) "Thanks. Lita leaps onto the cliff face, finds her grip, and makes her way to the top."
 >>> 
->> In example 1, _Player 1_'s action resolves a successful STR check without rolling to begin climbing the cliff face to reach the top of the spire, 40 squares above _Player 1_'s position. _Player 1_ has indicated that this climb is important in some way. While climbing the cliff, _Player 1_ makes all attacks and ability checks with advantage. Later, during the cliff-face encounter, _Player 1_'s skill is tested again due to strong winds. _Player 1_ must succeed on a STR check to hold onto the cliff. _Player 1_ rolls STR with advantage because _Player 1_ is still in the same cliff-face encounter.
->> 
+>> In example 1, _Player 1_'s action resolves a successful STR check without rolling to begin climbing the cliff face to reach the top of the spire, 40 squares above Lita's position. _Player 1 has indicated that this climb is important in some way_. While climbing the cliff, Lita makes all attacks and ability checks with advantage. Later, during the cliff-face encounter, Lita's skill is tested again due to strong winds. Lita must succeed on a STR check to hold onto the cliff. Lita rolls STR with advantage because she is still in the same cliff-face encounter.
+>>
 >> Example 2: 
 >>> _(GM)_ "Ok, it's your turn."
 >>> 
@@ -1439,7 +1439,7 @@ If the result of your chosen action further affects you on subsequent rounds dur
 >>> 
 >>> _(GM)_ "OK, great. Tell us about what action your character wants to take. And then, when you're ready, tell us what happens."
 >>> 
->>> _(Player 2)_ "I jump out of the shadows where I'm hiding and attack the goblin, catching it off guard and unaware. I strike with a critical hit, dealing maximum damage to the creature, adding my sneak attack damage."
+>>> _(Player 2)_ "Lita jumps out of the shadows where she's hiding and attacks the goblin, catching it off guard and unaware. She strikes with a critical hit, dealing maximum damage to the creature, adding her sneak attack damage."
 >>> 
 >> In example 2, _Player 2_'s action resolves a successful attack action from a hidden position and then finishes. The action does not continue on subsequent rounds.
 
