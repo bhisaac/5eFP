@@ -1161,7 +1161,7 @@ MONK
 |-:|:-|:-|
 |**Cost**|**Feature**|**Details**|
 |2⛁|Ki|...|
-|3⛁|--|You must have Ki unlocked to choose this upgrade. You gain +1 ki.|
+|3⛁|Prerequisite: Ki|You gain +1 ki|
 |2⛁|Unormored Movement|...|
 |3⛁|Monastic Tradition|...|
 |3⛁|Deflect Missiles|...|
