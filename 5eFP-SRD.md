@@ -262,9 +262,9 @@ You know three cleric cantrips of your choice.
 
 You begin the game with two 1st level spell slots. To cast one of your spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest. For example, if you know the 1st-level spell *cure wounds* and have a 1st-level and a 2nd-level spell slot available, you can cast cure wounds using either slot. Casting the spell doesn’t remove it from your list of prepared spells.
 
-You prepare the list of cleric spells that are available for you to cast, choosing from the cleric spell list. When you do so, choose a number of cleric spells equal to WIS + your level (minimum of one spell). The spells must be of a level for which you have spell slots.
+You prepare the list of cleric spells that are available for you to cast, choosing from the cleric spell list. When you do so, choose a number of cleric spells equal to WIS + LEVEL (minimum of one spell). The spells must be of a level for which you have spell slots.
 
-You can change your list of prepared spells at HQ. While away from HQ, you can prepare a new list of cleric spells by completing a short rest in prayer or meditation.
+You can change your list of prepared spells at headquarters (HQ). While away from HQ, you can prepare a new list of cleric spells by completing a short rest in prayer or meditation.
 
 #### Spellcasting Ability
 
@@ -3024,6 +3024,12 @@ Magic permeates fantasy gaming worlds and often appears in the form of a spell.
 
 This section provides the rules for casting spells. Different character classes have distinctive ways of learning and preparing their spells, and monsters use spells in unique ways. Regardless of its source, a spell follows the rules here.
 
+> Some gaming worlds, such as those in science fantasy, futuristic, or modern settings, may refer to "magic" as preternatural or technological rather than "magical."
+>
+> You can use these same spellcasting rules, replacing terms and common usage. For example, preternatural effects may require the use of an implement such as an 8-inch to 1-foot-long thin piece of synthetic, wood, metal, or composite material infused with energy instead of a free hand, which effectively still requires a free hand to grasp the implement.
+>
+> You can replace or "reskin" how magic works in your game, but you must still keep these spellcasting rules and limitations. 
+
 ## What Is a Spell?
 
 A spell is a discrete magical effect, a single shaping of the magical energies that suffuse the multiverse into a specific, limited expression. In casting a spell, a character carefully plucks at the invisible strands of raw magic suffusing the world, pins them in place in a particular pattern, sets them vibrating in a specific way, and then releases them to unleash the desired effect—in most cases, all in the span of seconds.
@@ -3040,9 +3046,11 @@ Spell level and character level correspond directly. To cast a spell, your level
 
 ### Known and Prepared Spells
 
-Spellcasters must have the spell firmly fixed in mind before they can use it, or they must have access to the spell with a magic item. Members of a few classes, including bards and sorcerers, have a limited list of spells they know that are always fixed in mind. The same thing is true of many magic-­using monsters. Other spellcasters, such as clerics and wizards, undergo a process of preparing spells. This process varies for different classes, as detailed in their descriptions.
+Spellcasters must have the spell firmly fixed in mind before they can use it, or they must have access to the spell with a magic item. Spellcasters ~~Members of a few classes, including bards and sorcerers,~~ have a limited list of spells they know that are always fixed in mind. The same thing is true of many magic-­using monsters. Other spellcasters, such as clerics and wizards, undergo a process of preparing spells. This process varies for different classes, as detailed in their descriptions.
 
-In every case, the number of spells a caster can have fixed in mind at any given time depends on how many Magic feature upgrades a character unlocks with Coin.
+> Choosing prepared spells can be time-consuming. To expedite gameplay, 5eFP spellcasters who prepare a spell list (clerics, druids, wizards) may prepare up to three different lists of prepared spells. It can help to have a damage, healing, and defender or support list. They then choose which spell list to use for the game session before deploying from HQ. If you have a class feature that allows you to swap prepared spells, you swap spells from one list to another until the end of the game session.
+
+In every case, the number of spells a caster can have fixed in mind at any given time depends on how many Magic feature upgrades a character unlocks with ⛁.
 
 ### Spell Slots
 
@@ -3069,15 +3077,9 @@ A cantrip is a spell that can be cast at will, without using a spell slot and wi
 
 ### Rituals
 
-Certain spells have a special tag: ritual. Such a spell can be cast following the normal rules for spellcasting, or the spell can be cast as a ritual. The ritual version of a spell takes 10 minutes longer to cast than normal. It also doesn’t expend a spell slot, which means the ritual version of a spell can’t be cast at a higher level.
+Certain spells have a special tag: ritual. Such a spell can be cast following the normal rules for spellcasting, or the spell can be cast as a ritual. The ritual version of a spell can only be cast outside of a combat encounter and generally takes longer to cast than normal. It also doesn’t expend a spell slot, which means the ritual version of a spell can’t be cast at a higher level.
 
 To cast a spell as a ritual, a spellcaster must have a feature that grants the ability to do so. The cleric and the druid, for example, have such a feature. The caster must also have the spell prepared or on his or her list of spells known, unless the character’s ritual feature specifies otherwise, as the wizard’s does.
-
-Casting a Spell
-
-When a character casts any spell, the same basic rules are followed, regardless of the character’s class or the spell’s effects.
-
-Each spell description begins with a block of information, including the spell’s name, level, school of magic, casting time, range, components, and duration. The rest of a spell entry describes the spell’s effect.
 
 ## Casting a Spell
 
@@ -3099,7 +3101,9 @@ Some spells can be cast as reactions. These spells take a fraction of a second t
 
 #### Longer Casting Times
 
-Certain spells (including spells cast as rituals) require more time to cast: minutes or even hours. When you cast a spell with a casting time longer than a single action or reaction, you must spend your action each turn casting the spell, and you must maintain your concentration while you do so (see “Concentration” below). If your concentration is broken, the spell fails, but you don’t expend a spell slot. If you want to try casting the spell again, you must start over.
+Certain spells (including spells cast as rituals) require more time to cast. When you cast a spell with a casting time longer than a single action, bonus action, or reaction, you must spend your action each turn casting the spell, and you must maintain your concentration while you do so (see “Concentration” below). If your concentration is broken, the spell fails, but you don’t expend a spell slot. If you want to try casting the spell again, you must start over.
+
+**Downtime Rounds.** Some spells can only be cast when completing a downtime round. These spells may take hours or even a day to cast. If the location where you are spending a downtime round loses HQ protection, you lose concentration and must use another downtime round at a location with HQ protection to cast it again.
 
 ### Range
 
@@ -3117,7 +3121,7 @@ A spell’s components are the physical requirements you must meet in order to c
 
 #### Verbal (V)
 
-Most spells require the chanting of mystic words. The words themselves aren’t the source of the spell’s power; rather, the particular combination of sounds, with specific pitch and resonance, sets the threads of magic in motion. Thus, a character who is gagged or in an area of silence, such as one created by the silence spell, can’t cast a spell with a verbal component.
+Some spells require the chanting of mystic words. The words themselves aren’t the source of the spell’s power; rather, the particular combination of sounds, with specific pitch and resonance, sets the threads of magic in motion. Thus, a character who is gagged or in an area of silence, such as one created by the _silence_ spell, can’t cast a spell with a verbal component.
 
 #### Somatic (S)
 
@@ -3137,7 +3141,7 @@ A spell’s duration is the length of time the spell persists. A duration can be
 
 #### Encounter
 
-A number of spells have durations longer than an instant but shorter than a game session. These spells persist for the length of an encounter. Whenever you cast these spells while on the overland movement map of a world map tile, their effects remain as long as you do not change maps. If you change maps due to an encounter or by entering a foothold, the spell's duration ends when you resolve the random encounter or when you complete the foothold.
+A number of spells have durations longer than an instant but shorter than a game session. These spells persist for the length of an encounter. Whenever you cast these spells while on the overland map, their effects remain as long as you do not change maps. If you change maps due to an encounter or by entering a foothold, the spell's duration ends when the encounter or foothold completes either in success or failure.
 
 #### Instantaneous
 
@@ -3145,7 +3149,9 @@ Many spells are instantaneous. The spell harms, heals, creates, or alters a crea
 
 #### Recall
 
-Some spells have lingering effects. A spell with a duration of recall lasts until the PCs recall and return to HQ.
+Some spells have lingering effects. A spell with a duration of recall lasts until the players return to HQ.
+
+> A recall is a special ritual any PC can complete that can only be performed outside of an encounter. Once one or more PCs complete the recall ritual, all players return to the map room at HQ. PCs automatically recall after 8 hours have elapsed since deploying.
 
 ### Concentration
 
@@ -3155,10 +3161,9 @@ You can end concentration at any time (no action required).
 
 Normal activity, such as moving and attacking, doesn’t interfere with concentration. The following factors can break concentration:
 - **Casting another spell with a duration longer than instantaneous.** You lose concentration on a spell if you cast another spell that requires concentration. You can’t concentrate on two spells at once.
-- **Taking damage.** Whenever you take one or more wounds while you are concentrating on a spell, you must make a CON check to maintain your concentration. The DC equals 9 + the number of wounds received. If you take wounds from multiple sources, such as an arrow and a dragon’s breath, you make a separate check for each source of damage.
 - **Being incapacitated or killed.** You lose concentration on a spell if you are incapacitated or if you die.
 
-The GM might also decide that certain environmental phenomena, such as a wave crashing over you while you’re on a storm-­tossed ship, require you to succeed on a DC 10 CON check to maintain concentration on a spell.
+~~The GM might also decide that certain environmental phenomena, such as a wave crashing over you while you’re on a storm-­tossed ship, require you to succeed on a DC 10 CON check to maintain concentration on a spell.~~
 
 ### Targets
 
@@ -3277,9 +3282,10 @@ For example, if two clerics cast _bless_ on the same target, that character gain
 |eyebite, find the path, guards and wards, irresistible dance, mass suggestion, programmed illusion, true seeing|
 |**Level 7**|
 |arcane sword, etherealness, forcecage, magnificent mansion, mirage arcane, project image, regenerate, resurrection, symbol, teleport|
-|**Level 8**|
+||
+|**Paragon Spells**|
 |dominate monster, feeblemind, glibness, mind blank, power word stun|
-|**Level 9**|
+|**Epic Spells**|
 |foresight, power word kill, true polymorph|
 
 ### Cleric Spells
@@ -3301,9 +3307,10 @@ For example, if two clerics cast _bless_ on the same target, that character gain
 |blade barrier, create undead, find the path, forbiddance, harm, heal, heroes feast, planar ally, true seeing, word of recall|
 |**Level 7**|
 |conjure celestial, divine word, etherealness, fire storm, plane shift, regenerate, resurrection, symbol|
-|**Level 8**|
+||
+|**Paragon Spells**|
 |antimagic field, control weather, earthquake, holy aura|
-|**Level 9**|
+|**Epic Spells**|
 |astral projection, gate, mass heal, true ressurection|
 
 ### Druid Spells
@@ -3325,9 +3332,10 @@ For example, if two clerics cast _bless_ on the same target, that character gain
 |conjure fey, find the path, heal, heroes’ feast, move earth, sunbeam, transport via plants, wall of thorns, wind walk|
 |**Level 7**|
 |fire storm, mirage arcane, plane shift, regenerate, reverse gravity|
-|**Level 8**|
+||
+|**Paragon Spells**|
 |animal shapes, antipathy/sympathy, control weather, earthquake, feeblemind, sunburst|
-|**Level 9**|
+|**Epic Spells**|
 |foresight, shapechange, storm of vengeance, true resurrection|
 
 ### Paladin Spells
@@ -3377,9 +3385,10 @@ For example, if two clerics cast _bless_ on the same target, that character gain
 |chain lightning, circle of death, disintegrate, eyebite, globe of invulnerability, mass suggestion, move earth, sunbeam, true seeing|
 |**Level 7**|
 |delayed blast fireball, etherealness, finger of death, fire storm, plane shift, prismatic spray, reverse gravity, teleport|
-|**Level 8**|
+||
+|**Paragon Spells**|
 |dominate monster, earthquake, incendiary cloud, power word stun, sunburst|
-|**Level 9**|
+|**Epic Spells**|
 |gate, meteor swarm, power word kill, time stop, wish|
 
 ### Warlock Spells
@@ -3401,9 +3410,10 @@ For example, if two clerics cast _bless_ on the same target, that character gain
 |circle of death, conjure fey, create undead, eyebite, flesh to stone, mass suggestion, true seeing|
 |**Level 7**|
 |etherealness, finger of death, forcecage, plane shift|
-|**Level 8**|
+||
+|**Paragon Spells**|
 |demiplane, dominate monster, feeblemind, glibness, power word stun|
-|**Level 9**|
+|**Epic Spells**|
 |astral projection, foresight, imprisonment, power word kill, true polymorph|
 
 ### Wizard Spells
@@ -3425,9 +3435,10 @@ For example, if two clerics cast _bless_ on the same target, that character gain
 |chain lightning, circle of death, contingency, create undead, disintegrate, eyebite, flesh to stone, freezing sphere, globe of invulnerability, guards and wards, instant summons, irresistible dance, magic jar, mass suggestion, move earth, programmed illusion, sunbeam, true seeing, wall of ice|
 |**Level 7**|
 |arcane sword, delayed blast fireball, etherealness, finger of death, forcecage, magnificent mansion, mirage arcane, plane shift, prismatic spray, project image, reverse gravity, sequester, simulacrum, symbol, teleport|
-|**Level 8**|
+||
+|**Paragon Spells**|
 |antimagic field, antipathy/sympathy, clone, control weather, demiplane, dominate monster, feeblemind, incendiary cloud, maze, mind blank, power word stun, sunburst|
-|**Level 9**|
+|**Epic Spells**|
 |astral projection, foresight, gate, imprisonment, meteor swarm, power word kill, prismatic wall, shapechange, time stop, true polymorph, weird, wish|
 
 ## Spell Descriptions
@@ -3832,7 +3843,7 @@ A treasure encounter may include
 >>
 > BOSS TREASURE
 >
->> Boss treasures award the greatest amount of coin, but are the most difficult to finish completely. These encounters award ⛁ upon discovery but potentially contain more bonus coins. It is difficult, if not impossible, to unlock all boss treasure bonus coins. Boss treasure encounters require (MAX Wounds) successful WIS checks to find ⛁, and may include a boss trap or a boss creature encounter before resolving.
+>> Boss treasures award the greatest amount of coin, but are the most difficult to finish. These encounters are awarded ⛁ upon discovery but potentially contain more bonus coins. It is difficult, if not impossible, to unlock all boss treasure bonus coins. Boss treasure encounters require (MAX Wounds) successful WIS checks to find ⛁, and may include a boss trap or a boss creature encounter before resolving.
 
 ## Monster
 
