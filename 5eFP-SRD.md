@@ -833,7 +833,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
 ### Expertise
 
-When you gain this feature, choose two of your ability proficiencies, or one of your ability proficiencies and your proficiency with tools. As long as the chosen proficiencies or tools do not already have expertise, you gain expertise in the chosen abilities or tools. (Expertise allows you to add your level to a check twice instead of once.)
+Gain proficiency with a nonproficient ability of your choice. Then choose two of your ability proficiencies or one of your ability proficiencies and your proficiency with thieves’ tools. As long as the chosen proficiencies or tools do not already have expertise, you gain expertise in the chosen abilities or tools. Expertise allows you to add your level to a check twice instead of once.
 
 ### Sneak Attack
 
@@ -1037,7 +1037,7 @@ BARD
 |2⛁|Song of Rest|You and your allies receive 1 point of healing at the end of a short rest|
 |2⛁|Spells I|(+1) known spell, (+1) 1st-level spell slot|
 |3⛁|Bard College|College of Lore|
-|3⛁|Expertise|Choose and gain expertise with two ability score proficiencies|
+|3⛁|Expertise|...|
 |3⛁|Spells II|(+1) known spell, (+1) 1st-level spell slot, (+2) 2nd-level spell slots|
 
 > #### College of Lore
@@ -1049,7 +1049,10 @@ BARD
 >> 
 >> **_Bonus Proficiencies._** You gain proficiency with one ability of your choice.
 >> 
->> **_Cutting Words._** You learn how to use your wit to distract, confuse, and otherwise sap the confidence and competence of others. When a creature that you can see within 12 squares of you makes an attack roll, an ability check, or a damage roll, you can use your reaction to expend one of your uses of Bardic Inspiration, rolling Bardic Inspiration action dice and subtracting the number rolled from the creature’s roll. You can choose to use this feature after the creature makes its roll, but before the GM determines whether the attack roll or ability check succeeds or fails, or before the creature deals its damage. The creature is immune if it can’t hear you or if it’s immune to being charmed.
+>> **_Cutting Words._** You learn how to use your wit to distract, confuse, and otherwise sap the confidence and competence of others. When a creature that you can see within 12 squares of you makes an attack roll, an ability check, or a damage roll, you can use your reaction to expend one of your uses of bardic action dice, rolling three action dice and subtracting the number rolled from the creature’s roll. You can choose to use this feature after the creature makes its roll, but before the GM determines whether the attack roll or ability check succeeds or fails, or before the creature deals its damage. The creature is immune if it can’t hear you or if it’s immune to being charmed.
+>
+> #### Expertise
+>> Gain proficiency with a nonproficient ability of your choice. Then choose two of your ability proficiencies or one of your ability proficiencies and your proficiency with a tool. As long as the chosen proficiencies or tools do not already have expertise, you gain expertise in the chosen abilities or tools. Expertise allows you to add your level to a check twice instead of once.
 
 CLERIC
 ||||
