@@ -3044,6 +3044,8 @@ Every spell has a level from 0 to 7. A spell’s level is a general indicator of
 
 Spell level and character level correspond directly. To cast a spell, your level must equal or exceed the spell's level. For example, a character must be at least 2nd-level to cast a 2nd-­level spell, and the most powerful spells, 7th-level, become available during character level 7.
 
+Spellcasters gain access to paragon spells at level 5 and epic spells at level 6 through the paragon spell and epic spell upgrades, respectively. Tehse spells are potent magical effects that can only be cast once per game session.
+
 ### Known and Prepared Spells
 
 Spellcasters must have the spell firmly fixed in mind before they can use it, or they must have access to the spell with a magic item. Spellcasters ~~Members of a few classes, including bards and sorcerers,~~ have a limited list of spells they know that are always fixed in mind. The same thing is true of many magic-­using monsters. Other spellcasters, such as clerics and wizards, undergo a process of preparing spells. This process varies for different classes, as detailed in their descriptions.
