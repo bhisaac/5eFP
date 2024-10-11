@@ -2814,7 +2814,7 @@ Some spells also require an attack roll. The ability score used for a spell atta
 
 ### Rolling 1 or 20
 
-Sometimes fate blesses or curses a combatant, causing the novice to hit and the veteran to miss.
+Sometimes, circumstances can be favorable or unfavorable to a combatant, causing the novice to hit and the veteran to miss.
 
 If the d20 roll for an attack is a 20, the attack hits regardless of any modifiers or the target’s AC. This is called a critical hit.
 
@@ -2850,7 +2850,7 @@ Used in hand‑to‑hand combat, a melee attack allows you to attack a foe withi
 
 Most creatures have a 1‑square **reach** and can thus attack targets within 1 square of them when making a melee attack. Certain creatures (typically those larger than Medium) have melee attacks with a greater reach than 1 square, as noted in their descriptions.
 
-Instead of using a weapon to make a melee weapon attack, you can use an **unarmed strike**: a punch, kick, head‑butt, or similar forceful blow (none of which count as weapons). On a hit, an unarmed strike deals 1 point of bludgeoning damage. You are proficient with your unarmed strikes.
+Instead of using a weapon to make a melee weapon attack, you can use an **unarmed strike**: a punch, kick, head‑butt, or similar forceful blow (none of which count as weapons). On a hit, an unarmed strike is limited to dealing 1 point of bludgeoning damage. You are proficient with your unarmed strikes. Some classes, such as the monk, may deal extra damage with unarmed strikes.
 
 #### Opportunity Attacks
 
@@ -2864,13 +2864,17 @@ You can avoid provoking an opportunity attack by taking the Disengage action. Yo
 
 When you take the Attack action and attack with a light weapon that you're holding in one hand, you can use a bonus action to attack with a different light weapon that you're holding in the other hand.
 
+If either weapon can be used to make a ranged attack, you can throw it instead of making a melee attack.
+
 #### Grappling
 
 When you want to grab a creature or wrestle with it, you can use the Attack action to make a special melee attack, a grapple. If you’re able to make multiple attacks with the Attack action, this attack replaces one of them.
 
 The target of your grapple must be no more than one size larger than you and must be within your reach. Using at least one free hand, you try to seize the target by making a grapple check instead of an attack roll: a STR check contested by the target’s STR or DEX check (the target chooses the ability to use). If you succeed, you subject the target to the grappled condition (see appendix PH-­A). The condition specifies the things that end it, and you can release the target whenever you like (no action required).
 
-**Escaping a Grapple.** A grappled creature can use its action to escape. To do so, it must succeed on a STR or DEX check contested by your STR check.
+**Maintaining a Grapple.** You can maintain a grapple without taking an action, but doing so requires the continued use of your free hand.
+
+**Escaping a Grapple.** A grappled creature can use its action to escape. To do so, it must succeed on a STR or DEX check (the creature chooses the ability to use) contested by your STR check.
 
 **Moving a Grappled Creature.** When you move, you can drag or carry the grappled creature with you, but your speed is halved, unless the creature is two or more sizes smaller than you.
 
@@ -2900,27 +2904,25 @@ A target with **total cover** can’t be targeted directly by an attack or a spe
 
 Injury and the risk of death are constant companions of those who explore gaming worlds. The thrust of a sword, a well‑placed arrow, or a blast of flame from a _fireball_ spell all have the potential to damage, or even kill, the hardiest of creatures.
 
-## Damage, Wounds, and MAX Wounds
+## Health
 
-Each weapon, spell, harmful monster ability, or game feature deals a minimum of 1 point of damage. Particularly damaging weapons, spells, harmful monster abilities, or game features may deal 2 or more damage. Magic weapons, special abilities, and other factors can grant a bonus to damage. With a penalty, it is possible to deal 0 damage, but never negative damage.
+A creature's health represents a combination of physical and mental durability, the will to live, and favorable circumstances. Creatures with a higher MAX Wounds score (see _Reaching MAX Wounds_ below) are more difficult to kill. Those with a lower MAX Wounds score are more fragile.
+
+A creature’s health is determined by its number of wounds, which can be any number from 0 to a maximum number of wounds equal to its MAX Wounds score. This number changes frequently as a creature takes damage or receives healing.
+
+Whenever a creature takes damage, it first checks whether or not any relevant game features reduce the damage. The remaining damage is dealt to a creature as an equal amount of wounds. Gaining wounds does not affect a creature’s capabilities until the number of wounds accumulated equals or exceeds their MAX Wounds score.
+
+## Damage
+
+Each **weapon**, **spell**, harmful monster ability, or game feature deals a minimum of 1 point of damage. Particularly damaging weapons, spells, harmful monster abilities, or game features may deal 2 or more damage. Magic weapons, special abilities, and other factors can grant a bonus to damage. With a penalty, it is possible to deal 0 damage, but never negative damage.
 
 If a spell or other effect deals damage to more than one target at the same time, all of them receive the same amount of damage. For example, when a wizard casts _fireball_ or a cleric casts _flame strike_, the spell’s damage is dealt to all creatures caught in spell's area of effect.
 
-**Wounds.** Your character gains a wound whenever an attack, effect, or game feature assigns 1 or more points of damage. If more than 1 damage is dealt, the character receives additional wounds equal to the excess damage. Wounds are cumulative up to MAX Wounds.
+### Critical Hits
 
-**MAX Wounds.** MAX Wounds describes the maximum number of wounds you can have. Whenever you reach MAX Wounds, discard any additional wounds assigned beyond your MAX Wounds score and you gain the dying condition (see appendix PH-­A).
+When you score a critical hit, you get to double the attack’s damage against the target. A critical hit does not double the damage of any secondary game features resolved after the attack.
 
-Wounds represent a combination of physical and mental durability, the will to live, and luck. Creatures with a higher MAX Wounds score are more difficult to kill. Those with a lower MAX Wounds score are more fragile.
-
-A creature’s current wounds can be any number from 0 to the creature’s MAX Wounds score. This number changes frequently as a creature takes damage or receives healing.
-
-Gaining wounds has no effect on a creature’s capabilities until the creature reaches MAX Wounds.
-
-### Critical Hit
-
-A critical hit is an attack roll that results in a critical success. When you score a critical hit, you double any weapon damage dealt by your attack and then add any relevant modifiers to damage as normal. Circumstantial bonuses, such as those granted by the environment or through a feature unrelated to combat or making an attack, are not doubled.
-
-For example, suppose you are playing a character with the damage party buff and attack with a dagger, which deals 1 point of damage on a successful attack. If you score a critical hit with the dagger, it deals 2 points of damage, rather than 1. Since you have the damage party buff, after resolving the attack, you then deal 1 point of damage to a creature within 1 square. The extra damage isn't doubled. If the attack involves other damage dice, such as from the rogue’s Sneak Attack feature, you double this damage as well.
+For example, suppose you are playing a character with the damage party buff and attack with a dagger, which deals 1 point of slashing damage on a successful attack. If you score a critical hit with the dagger, it deals 2 points of damage, rather than 1. Since you have the damage party buff, after resolving the attack, you then deal 1 point of damage to a creature within 1 square of the original target. The extra damage isn't doubled. If the attack involves additional damage, such as from the rogue’s Sneak Attack feature, you double this damage as well.
 
 ### Damage Types
 
@@ -2968,7 +2970,7 @@ Multiple instances of resistance or vulnerability that affect the same damage ty
 
 ## Healing
 
-All healing effects provide a minimum of 1 point of healing. Particularly strong healing may provide 2 or more points of healing. For each point of healing, you discard 1 wound. When you receive healing, you also stabilize.
+All healing effects provide a minimum of 1 point of healing. Particularly strong healing may provide 2 or more points of healing. For each point of healing, you discard 1 wound. When you receive healing, you also stabilize. You stabilize from healing even if the amount of healing is reduced to 0.
 
 Unless it results in death, wounds aren't permanent. Even death is reversible through powerful magic. Rest can discard a creature's wounds, and magical methods such as a _cure wounds_ spell or a potion of healing can discard wounds in an instant.
 
@@ -2984,7 +2986,7 @@ When you gain enough wounds to equal or exceed your MAX Wounds score, you either
 
 Massive damage can kill you instantly. When damage assigns enough wounds to exceed your MAX Wounds score, you die if the number of exceeding wounds is equal to or greater than your MAX Wounds score.
 
-For example, a cleric with MAX Wounds 6 currently has 3 wounds. If she takes 9 damage from an attack, she gains enough wounds to reach MAX Wounds, but 6 additional wounds remain. Because the remaining wounds equals her MAX Wounds score, the cleric dies.
+For example, a cleric with MAX Wounds 6 currently has 3 wounds. If she takes 9 damage from an attack, she gains enough wounds to reach MAX Wounds, but 6 additional wounds remain. Because the remaining wounds equal her MAX Wounds score, the cleric dies.
 
 ### Falling Unconscious
 
@@ -2992,21 +2994,21 @@ If damage assigns enough wounds to equal or exceed your MAX Wounds score and fai
 
 ### Death Saving Throws
 
-Whenever you start your turn with MAX Wounds, you must make a special d20 roll, called a death saving throw, to determine whether you creep closer to death or hang onto life. Unlike other die rolls, this one isn’t tied to any ability score. You are in the hands of fate now, aided only by spells and features that improve your chances of succeeding on death saves.
+Whenever you start your turn with MAX Wounds, you must spend your turn making a special d20 roll, called a death saving throw, to determine whether you creep closer to death or hang onto life. Unlike other die rolls, this one isn’t tied to any ability score. You are in the hands of fate now, aided only by spells and features that improve your chances of succeeding on death saves.
 
 Roll a d20. If the roll is 10 or higher, you succeed. Otherwise, you fail. A success or failure has no effect by itself. On your third success, you become stable (see below). On your third failure, you die. The successes and failures don’t need to be consecutive; keep track of both until you collect three of a kind. The number of both is reset to zero when you receive healing or become stable.
 
 **Rolling 1 or 20.** When you make a death saving throw and roll a 1 on the d20, it counts as two failures. If you roll a 20 on the d20, you receive 1 point of healing.
 
-**Taking damage while at MAX Wounds.** If you take any damage while you have MAX Wounds, you suffer a death saving throw failure. If the damage is from a critical hit, you suffer two failures instead. If the damage assigns enough damage to meet or exceeds your MAX Wounds score, you suffer instant death.
+**Taking damage while at MAX Wounds.** If you take any damage while you have MAX Wounds, you suffer a death saving throw failure. If the damage is from a critical hit, you suffer two failures instead. If the damage assigns enough damage to meet or exceed your MAX Wounds score, you suffer instant death.
 
 ### Stabilizing a Creature
 
-The best way to save a dying creature at MAX Wounds is to heal it. If healing is unavailable, the creature can at least be stabilized so that it isn’t killed by a failed death saving throw.
+The best way to save a dying creature at MAX Wounds is to heal it. If healing is unavailable, the creature can be stabilized so that it isn’t killed by a failed death saving throw.
 
 You can use your action to administer first aid to an unconscious creature and attempt to stabilize it, which requires a successful DC 10 WIS check.
 
-A stable creature doesn’t make death saving throws, even though it might still be at MAX Wounds, but it does remain unconscious. The creature stops being stable, and must start making death saving throws again, if it takes any damage. A stable creature that isn’t healed receives 1 point of healing at the end of the encounter.
+A stable creature doesn’t make death saving throws, even though it might still be at MAX Wounds, but it does remain unconscious. The creature stops being stable, and must start making death saving throws again, if it takes any damage. A stable creature that isn’t healed receives 1 point of healing at the end of the encounter and discards the unconscious condition.
 
 ### Monsters and Death
 
@@ -3016,7 +3018,7 @@ Mighty villains and special nonplayer characters (NPCs) are common exceptions; t
 
 ## Knocking a Creature Out
 
-Sometimes an attacker wants to incapacitate a foe, rather than deal a killing blow. When an attacker adds enough wounds to a creature to reach its MAX Wounds score with a melee attack, the attacker can knock the creature out. The attacker can make this choice the instant the damage is dealt. The creature falls unconscious and is stable.
+Sometimes an attacker wants to incapacitate a foe, rather than deal a killing blow. When an attacker adds enough wounds to a creature to reach its MAX Wounds score with a melee attack, the attacker can knock the creature out. The attacker can make this choice the instant the damage is dealt. The creature falls unconscious and becomes stabilized.
 
 # Spellcasting
 
