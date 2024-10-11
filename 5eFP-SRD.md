@@ -3321,7 +3321,9 @@ For example, if two clerics cast _bless_ on the same target, that character gain
 |eyebite, find the path, guards and wards, irresistible dance, mass suggestion, programmed illusion, true seeing|
 |**Level 7**|
 |arcane sword, etherealness, forcecage, magnificent mansion, mirage arcane, project image, regenerate, resurrection, symbol, teleport|
+
 ||
+|:-|
 |**Paragon Spells**|
 |dominate monster, feeblemind, glibness, mind blank, power word stun|
 |**Epic Spells**|
