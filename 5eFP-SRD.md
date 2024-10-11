@@ -3021,6 +3021,40 @@ Mighty villains and special nonplayer characters (NPCs) are common exceptions; t
 
 Sometimes an attacker wants to incapacitate a foe, rather than deal a killing blow. When an attacker adds enough wounds to a creature to reach its MAX Wounds score with a melee attack, the attacker can knock the creature out. The attacker can make this choice the instant the damage is dealt. The creature falls unconscious and becomes stabilized.
 
+# Mounted Combat
+
+A knight charging into battle on a warhorse, a wizard casting spells from the back of a griffon, or a cleric soaring through the sky on a pegasus all enjoy the benefits of speed and mobility that a mount can provide.
+
+A willing creature that is at least one size larger than you and that has an appropriate anatomy can serve as a mount, using the following rules.
+
+## Mounting and Dismounting
+
+Once during your move, you can mount a creature that is within 1 square of you or dismount. Doing so costs an amount of movement equal to half your speed. For example, if your speed is 6 squares, you must spend 3 squares of movement to mount a horse. Therefore, you can’t mount it if you don’t have 3 squares of movement left or if your speed is 0.
+
+If an effect moves your mount against its will while you’re on it, you must succeed on a DC 10 DEX check or fall off the mount, landing prone in a space within 1 square of it. If you’re knocked prone while mounted, you must make the same check.
+
+If your mount is knocked prone, you can use your reaction to dismount it as it falls and land on your feet. Otherwise, you are dismounted and fall prone in a space within 1 square of it.
+
+## Controlling a Mount
+
+While you’re mounted, you have two options. You can either control the mount or allow it to act independently. Intelligent creatures, such as dragons, act independently.
+
+You can control a mount only if it has been trained to accept a rider. Domesticated horses, donkeys, and similar creatures are assumed to have such training. The initiative of a controlled mount changes to match yours when you mount it. It moves as you direct it, and it has only three action options: Dash, Disengage, and Dodge. A controlled mount can move and act even on the turn that you mount it.
+
+An independent mount retains its place in the initiative order. Bearing a rider puts no restrictions on the actions the mount can take, and it moves and acts as it wishes. It might flee from combat, rush to attack and devour a badly injured foe, or otherwise act against your wishes.
+
+In either case, if the mount provokes an opportunity attack while you’re on it, the attacker can target you or the mount.
+
+# Underwater Combat
+
+When adventurers pursue sahuagin back to their undersea homes, fight off sharks in an ancient shipwreck, or find themselves in a flooded dungeon room, they must fight in a challenging environment. Underwater the following rules apply.
+
+When making a **melee weapon attack**, a creature that doesn’t have a swimming speed (either natural or granted by magic) has disadvantage on the attack roll unless the weapon is a dagger, javelin, shortsword, spear, or trident.
+
+A **ranged weapon attack** automatically misses a target beyond the weapon’s normal range. Even against a target within normal range, the attack roll has disadvantage unless the weapon is a crossbow, a net, or a weapon that is thrown like a javelin (including a spear, trident, or dart).
+
+Creatures and objects that are fully immersed in water have resistance to fire damage.
+
 # Spellcasting
 
 Magic permeates fantasy gaming worlds and often appears in the form of a spell.
