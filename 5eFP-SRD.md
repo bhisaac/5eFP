@@ -13,7 +13,7 @@ _**Practice.**_ Focus alone isn't enough. Results require real doing through reg
 ### Guiding Principles
 
 1. **Consent in gaming.** 5eFP uses consent in gaming to promote a safe space for players to explore themselves through the characters they play and the game world their characters interact with. Infighting, backstabbing, or disharmonious behavior between payers is prohibited.
-    * 2019.09.13 release | [Consent_in_Gaming PDF](https://github.com/bhisaac/5eFP/blob/main/Consent_in_Gaming-2019-09-13.pdf))
+    * 2019.09.13 release | [Consent_in_Gaming PDF](https://github.com/bhisaac/5eFP/blob/main/Consent_in_Gaming-2019-09-13.pdf)
     * 2019.09.13 release | [Form Fillable Checklist PDF](https://github.com/bhisaac/5eFP/blob/main/Consent_in_Gaming-Form_Fillable_Checklist-2019-09-13.pdf.zip) 
         * Find current releases on [Monty Cook Games](https://www.montecookgames.com/consent-in-gaming/) or [DriveThruRPG](https://www.drivethrurpg.com/en/product/288535/consent-in-gaming?term=consent%20in)
 
