@@ -14,7 +14,7 @@ _**Practice.**_ Focus alone isn't enough. Results require real doing through reg
 
 1. **Consent in gaming.** 5eFP uses consent in gaming to promote a safe space for players to explore themselves through the characters they play and the game world their characters interact with. Infighting, backstabbing, or disharmonious behavior between payers is prohibited.
     * 2019.09.13 release | [Consent_in_Gaming PDF](https://github.com/bhisaac/5eFP/blob/main/Consent_in_Gaming-2019-09-13.pdf)
-    * 2019.09.13 release | [Form Fillable Checklist PDF](https://github.com/bhisaac/5eFP/blob/main/Consent_in_Gaming-Form_Fillable_Checklist-2019-09-13.pdf.zip) 
+    * 2019.09.13 release | [Form Fillable Checklist PDF](https://github.com/bhisaac/5eFP/blob/main/Consent in Gaming-Form Fillable Checklist-2019-09-13.pdf)
         * Find current releases on [Monty Cook Games](https://www.montecookgames.com/consent-in-gaming/) or [DriveThruRPG](https://www.drivethrurpg.com/en/product/288535/consent-in-gaming?term=consent%20in)
 
 2. **Collaboration and Trust.** Game Masters (GMs) and player characters (PCs) collaborate to create a narrative all players enjoy. Story elements spontaneously arise during gameplay. GMs and PCs reflect upon them and make decisions that impact the game's story. GMs are particularly good at generating ideas for story elements. Still, a PC's idea can often be just as good, provided all players want to work together and trust each other. 5eFP GMs are excellent storytellers who provide the structure and platform for exploring these decisions and making recommendations to keep the story consistent and enjoyable for everyone.
