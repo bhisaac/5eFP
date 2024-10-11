@@ -3306,7 +3306,7 @@ For example, if two clerics cast _bless_ on the same target, that character gain
 |  |
 |:-|
 |**Cantrips (Level 0)**|
-|mage hand, mending, message, minor illusion, prestidigitation, true Strike, vicious mockery|
+|mage hand, mending, message, minor illusion, prestidigitation, true strike, vicious mockery|
 |**Level 1**|
 |animal friendship, bane, charm person, comprehend languages, cure wounds, detect magic, disguise self, faerie fire, feather fall, healing word, heroism, hideous laughter, identify, illusory script, longstrider, silent image, sleep, speak with animals, thunderwave, unseen servant|
 |**Level 2**|
