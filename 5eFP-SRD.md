@@ -1206,6 +1206,8 @@ MONK
 >>>
 >>> Many monks of this tradition tattoo their bodies with representations of their ki powers, commonly imagined as coiling dragons, but also as phoenixes, fish, plants, mountains, and cresting waves.
 >>>
+>>>> **Elemental Bolt.** Starting when you choose this tradition, you can hurl elemental bolts of energy. You gain a new attack option that you can use with the Attack action. This special attack is a ranged spell attack with a range of 6 squares. You use your WIS for the attack. Each time you use this feature to attack, the bolt deals 1 point of damage and its damage type is chosen from fire, cold, thunder, or lightning. When you take the Attack action on your turn and use this special attack as part of it, you can spend 1 ki point to make the special attack twice as a bonus action. Both attacks share the same damage type.
+>>>
 >>>> **Disciple of the Elements.** When you choose this tradition, you learn magical disciplines that harness the power of the four elements. A discipline requires you to spend ki points each time you use it.
 >>>>
 >>>> You know the Elemental Attunement discipline and one other elemental discipline of your choice, which are detailed in the “Elemental Disciplines” section below.
