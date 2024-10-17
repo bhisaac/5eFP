@@ -496,7 +496,7 @@ Choose one type of dragon as your ancestor. The damage type associated with each
 | Silver | Cold |
 | White | Cold |
 
-You can speak, read, and write Draconic. Additionally, whenever you make a CHA check when interacting with dragons, add your level as a bonus if it applies to the check.
+You can speak, read, and write Draconic. Additionally, you gain advantage on CHA checks while interacting with dragons.
 
 #### Draconic Resilience
 
