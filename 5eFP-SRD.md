@@ -304,7 +304,7 @@ You gain proficiency with heavy armor.
 
 #### Disciple of Life
 
-Your healing spells are more effective. Whenever you use a spell of 1st level or higher to heal a creature's wounds, the creature heals one additional wound per spell level.
+Your healing spells are more effective. Whenever you use a spell of 1st level or higher to give a creature 1 or more points of healing, the creature receives one additional point of healing per spell level.
 
 ## Paladin
 
