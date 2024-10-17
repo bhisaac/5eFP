@@ -588,8 +588,9 @@ The Primordial lets you choose from an expanded list of spells when you learn a 
 |5th|Conjure Elemental, Cone of Cold|
 |6th|Chain Lightning, Freezing Sphere|
 |7th|Delayed Blast Fireball, Prismatic Spray|
-|8th|Control Weather, Incendiary Cloud|
-|9th|Gate, Prismatic Wall|
+||
+|Paragon|Control Weather, Incendiary Cloud|
+|Epic|Gate, Prismatic Wall|
 
 ### Elemental Attunement
 
