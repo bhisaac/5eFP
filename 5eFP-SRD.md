@@ -645,7 +645,7 @@ You prepare the list of wizard spells that are available for you to cast. To do 
 
 For example, if you’re a wizard who has upgraded Magic three times, you have four 1st-­level and two 2nd-­level spell slots. With an INT of +3, your list of prepared spells can include six spells of 1st or 2nd level, in any combination, chosen from your spellbook. If you prepare the 1st-­level spell *magic missile*, you can cast it using a 1st-­level or a 2nd-­level slot. Casting the spell doesn’t remove it from your list of prepared spells.
 
-You can change your list of prepared spells when you finish a long rest. Preparing a new list of wizard spells requires time spent studying your spellbook and memorizing the incantations and gestures you must make to cast the spell: at least 1 minute per spell level for each spell on your list.
+You can change your list of prepared spells at HQ. Preparing a new list of wizard spells requires time spent studying your spellbook and memorizing the incantations and gestures you must make to cast the spell.
 
 #### Spellcasting Ability
 
@@ -663,7 +663,7 @@ Each time you complete a Spells upgrade, you can add two wizard spells of your c
 
 Studying your spellbook taught you to regain some of your magical energy. Once per game session, you can choose expended spell slots to recover when you finish a short rest. The spell slots can have a combined level that is equal to or less than your wizard level, and none of the slots can be 6th level or higher.
 
-For example, if you’re a 2nd-­level wizard, you can recover up to two levels worth of spell slots. You can recover either a 2nd-­level spell slot or two 1st-­level spell slots.
+For example, if you’re a 2nd-­level wizard, you can recover up to two levels worth of spell slots. You can recover either a 2nd-­level spell slot or two 1st-level spell slots.
 
 > #### Your Spellbook
 > The spells that you add to your spellbook as you gain levels reflect the arcane research you conduct on your own, as well as intellectual breakthroughs you have had about the nature of the multiverse. You might find other spells during your adventures. You could discover a spell recorded on a scroll in an evil wizard’s chest, for example, or in a dusty tome in an ancient library.
