@@ -343,7 +343,7 @@ You can use this feature a number of times equal to 1 + CHA. You regain all expe
 
 ### Lay on Hands
 
-Your blessed touch can heal wounds. You have a reserve of healing power that replenishes when you return to HQ. You can assign up to 5 points of healing with your reserve.
+Your blessed touch can heal wounds. You have a reserve of healing power that replenishes at the end of a game session. You can assign up to 5 points of healing with your reserve.
 
 As an action, you can touch a wounded creature and spend 1 or more points of healing, up to the maximum amount remaining in your reserve. The creature receives the healing.
 
