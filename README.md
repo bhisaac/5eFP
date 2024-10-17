@@ -1,7 +1,8 @@
 # 5eFP | About
-5eFP (Five Energies Focus Practice) is an immersive, interactive, and self-reflective tabletop roleplaying game (TRPG), inspired by the D20 fifth edition rules. Discover a new way to play TRPGs featuring easier, more intuitive rules, shorter game sessions, no GM preparation required, and larger playerbases (8-50+). The entire playerbase does not meet and play all at once. Rather, players asynchronously form parties of 3 to 5 and collectively go on adventures to complete 5eFP game objectives together. For example, all 5eFP games have the same initial objective: explore and discover the world map. A 5eFP playerbase assembles into several adventuring parties over time to fulfill this objective.
 
 [bit.ly/5eFPSRD](https://bit.ly/5eFPSRD) | [bit.ly/5eFPsoundtrack](https://bit.ly/5eFPsoundtrack)
+
+5eFP (Five Energies Focus Practice) is an immersive, interactive, and self-reflective tabletop roleplaying game (TRPG), inspired by the D20 fifth edition rules. Discover a new way to play TRPGs featuring easier, more intuitive rules, shorter game sessions, no GM preparation required, and larger playerbases (8-50+). The entire playerbase does not meet and play all at once. Rather, players asynchronously form parties of 3 to 5 and collectively go on adventures to complete 5eFP game objectives together. For example, all 5eFP games have the same initial objective: explore and discover the world map. A 5eFP playerbase assembles into several adventuring parties over time to fulfill this objective.
 
 ---
 
