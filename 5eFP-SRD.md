@@ -1072,9 +1072,9 @@ Some Channel Divinity effects require ability checks. When you use such an effec
 >> A turned creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 6 squares of you. It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.
 >> 
 > #### Divine Domain Feature
->> LIFE
+>> MEDICINE
 >> 
->> **_Preserve Life. (action)_** You present your holy symbol and evoke healing energy that can heal up to five wounds. Choose any creatures within 6 squares of you, and divide the healing among them. You can’t use this feature on an undead or a construct.
+>> **_Preserve Life. (action)_** You present your holy symbol and evoke healing energy that can provide up to 5 points of healing. Choose any creatures within 6 squares of you, and divide the healing among them. You can’t use this feature on an undead or a construct.
 
 DRUID
 ||||
