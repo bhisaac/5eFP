@@ -22,7 +22,7 @@ _**Practice.**_ Focus alone isn't enough. Results require real doing through reg
 4. **Not just another TRPG.** 5eFP Game Masters (GMs) hold the center for all players within a practice, requiring cultivated skills and capacities that demand resources and energy to sustain. Any admission fees related to joining a 5eFP practice are non-refundable.
 5. **Guidance.** 5eFP is designed to support players with their existing counselors, therapists, teachers, and guides. It’s recommended that players ally with guides for self-reflection, as humans often fall into self-deceit. The content generated during 5eFP sessions can serve as material for discussion with these guides, who can also suggest suitable gameplay explorations. One goal of 5eFP is to foster collaborative relationships.
 6. **Therapeutic but _not therapy_.** 5eFP games can be therapeutic by revealing hidden parts of ourselves. Taking brief notes during the game is important, as these sessions are not therapy, and your GM won’t pause to process them. Players must adapt and integrate experiences spontaneously. At the end of the session, there will be time for journaling, and further processing can occur later with a guide or teacher.
-7. **No convincing.** 5eFP provides a pressure-free space for self-reflection and personal growth during gameplay. Collaboration is encouraged, but other players have no control over your experience.
+7. **No convincing.** 5eFP provides a pressure-free space for self-reflection and personal growth during gameplay. Collaboration is encouraged, but the GM and other players cannot control your experience.
 
 # Character Creation
 
