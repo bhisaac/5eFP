@@ -942,7 +942,7 @@ When you are wielding a melee weapon in one hand and no other weapons, you gain 
 
 #### Great Weapon Fighting
 
-Whenever you attack and miss with a melee weapon you are wielding with two hands, you may reroll the attack once and must use the new roll. The weapon must have the two-handed or versatile property for you to gain this benefit.
+Whenever you attack and miss with a melee weapon you are wielding with two hands, you may reroll the attack once and must use the new roll. The weapon must have the two-handed property for you to gain this benefit.
 
 #### Protection
 
@@ -954,7 +954,7 @@ While you have a weapon equipped in each hand, you gain a +1 bonus to AC.
 
 ### Second Wind
 
-You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to heal up to 2 wounds. Once you use this feature, you must finish a short or long rest before you can use it again.
+You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to heal up to 2 wounds. Once you use this feature, you must finish a short rest before you can use it again.
 
 ## Monk
 
@@ -986,14 +986,14 @@ You start with the following equipment, in addition to the equipment granted by 
 
 ### Unarmored Defense
 
-While	you are wearing no armor and not wielding a shield, your AC equals 10 + DEX + WISDOM (WIS).
+While	you are wearing no armor and not wielding a shield, your AC equals 10 + DEX + WIS.
 
 ### Martial Arts
 
 Your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are shortswords and any simple melee weapons that don't have the two-handed or heavy property.
 
 You gain the following benefits while you are unarmed or wielding only monk weapons and you aren’t wearing armor or wielding a shield:
-- You can use DEX instead of STR for the attack rolls of your unarmed strikes and monk weapons.
+- ~~You can use DEX instead of STR for the attack rolls of your unarmed strikes and monk weapons.~~
 - Your unarmed attacks deal 1 point of bludgeoning damage.
 - When you use the Attack action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the Attack action and attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you haven’t already taken a bonus action this turn.
 
