@@ -1104,7 +1104,7 @@ DRUID
 >>> 
 >>> **_Travel._** To activate this feature, you must be on the overland map (see _Overland Map_) and not in a combat encounter. You have 1 MAX wounds while in travel form. When activated, you and any chosen creatures within 6 squares of you transform into travel forms and move together. If a combat encounter begins or if 1 or more points of damage are dealt to you or another affected creature, your wild shape and all travel forms end. Your movement score doubles while in travel form. Once activated while on the overland map, the travel form can be reactivated on the overland map outside of a combat encounter at any time until the end of the game session.
 >> 
->> You can use this feature twice. You regain expended uses when you finish a short or long rest.
+>> You can use this feature twice. You regain expended uses when you finish a short rest.
 >>
 >> You can stay in a wild shape form until you return to the HQ map room. You then revert to your normal form. If your wild shape form ends early you can activate wild shape again to maintain your current form, as long as you have enough uses of the feature remaining. You can revert to your normal form earlier by using a bonus action on your turn. You automatically revert if you fall unconscious, gain MAX wounds, or die.
 >>
