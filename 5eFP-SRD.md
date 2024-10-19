@@ -1096,17 +1096,17 @@ DRUID
 >>>> 
 >>>> **_Starfall. (free action)_** A shooting star of radiance forms above your head and strikes a creature within 12 squares of you. If the creature is friendly, it receives 1 point of healing and allows the creature to make one additional ability check to resist one ongoing negative effect. If the creature is not a friendly target, it must succeed on a DEX check using your spell DC or take 1 point of radiant damage. You then gain Lunar Attunement or Solar Attunement.
 >>> 
->>> **_Defender._** You have 5 + LEVEL MAX wounds while in defender form. While in defender form, you can Bolster (Level) as a free action when you assume this wild shape form and at the beginning of each of your turns.
+>>> **_Defender._** You have 5 + LEVEL MAX wounds while in defender form. While in defender form, you can Bolster (LEVEL) without spending an action when you assume this wild shape form and at the beginning of each of your turns.
 >>> 
 >>> **_Stealthy._** You have 4 + LEVEL MAX wounds while in stealthy form. While in stealthy form, you roll DEX and WIS checks with advantage and gain a pounce attack (if you don't already have one).
 >>>
 >>>> **Pounce.** If the stealthy form moves at least 3 squares straight toward a creature and then hits it with a melee attack on the same turn, that target must succeed on a DC 14 STR check or be knocked prone. If the target is prone, the stealthy form can make one melee attack against it as a bonus action.
 >>> 
->>> **_Travel._** To activate this feature, you must be on the overland map (see _Overland Map_) and not in a combat encounter. You have 1 MAX wounds while in travel form. When activated, you and any chosen creatures within 6 squares of you transform into travel forms and move together. If a combat encounter begins or if 1 or more points of damage are dealt to you or another affected creature, your wild shape and all travel forms end. Your movement score doubles while in travel form. Once activated while on the overland map, the travel form can be reactivated on the overland map outside of an encounter at any time until the end of the game session.
+>>> **_Travel._** To activate this feature, you must be on the overland map (see _Overland Map_) and not in a combat encounter. You have 1 MAX wounds while in travel form. When activated, you and any chosen creatures within 6 squares of you transform into travel forms and move together. If a combat encounter begins or if 1 or more points of damage are dealt to you or another affected creature, your wild shape and all travel forms end. Your movement score doubles while in travel form. Once activated while on the overland map, the travel form can be reactivated on the overland map outside of a combat encounter at any time until the end of the game session.
 >> 
 >> You can use this feature twice. You regain expended uses when you finish a short or long rest.
 >>
->> You can stay in a wild shape form until an encounter begins, ends, or when you return to the HQ map room. You then revert to your normal form unless you expend another use of this feature. You can activate wild shape again to maintain your current form, as long as you have enough uses of the feature remaining. You can revert to your normal form earlier by using a bonus action on your turn. You automatically revert if you fall unconscious, gain MAX wounds, or die.
+>> You can stay in a wild shape form until you return to the HQ map room. You then revert to your normal form. If your wild shape form ends early you can activate wild shape again to maintain your current form, as long as you have enough uses of the feature remaining. You can revert to your normal form earlier by using a bonus action on your turn. You automatically revert if you fall unconscious, gain MAX wounds, or die.
 >>
 >> While you are transformed, the following rules apply:
 >> - Your game statistics are replaced by the statistics of the wild shape form, but you retain your alignment, personality, and INT, WIS, and CHA. You also retain all of your proficiencies, in addition to gaining those of the creature. If the creature has the same proficiency as you and the bonus in its stat block is higher than yours, use the creature’s bonus instead of yours. If the creature has any legendary or lair actions, you can’t use them.
@@ -1199,49 +1199,7 @@ MONK
 >>>> - It must succeed on a DEX check or be knocked prone.
 >>>> - It must make a STR check. If it fails, you can push it up to 3 squares away from you.
 >>>> - It can’t take reactions until the end of your next turn.
->>>
->>> **Way of the Elements.** You follow a monastic tradition that teaches you to harness the elements. When you focus your ki, you can align yourself with the forces of creation and bend the four elements to your will, using them as an extension of your body. Some members of this tradition dedicate themselves to a single element, but others weave them together.
->>>
->>> Many monks of this tradition tattoo their bodies with representations of their ki powers, commonly imagined as coiling dragons, but also as phoenixes, fish, plants, mountains, and cresting waves.
->>>
->>>> **Elemental Bolt.** Starting when you choose this tradition, you can hurl elemental bolts of energy. You gain a new attack option that you can use with the Attack action. This special attack is a ranged spell attack with a range of 6 squares. You use your WIS for the attack. Each time you use this feature to attack, the bolt deals 1 point of damage and its damage type is chosen from fire, cold, thunder, or lightning. When you take the Attack action on your turn and use this special attack as part of it, you can spend 1 ki point to make the special attack twice as a bonus action. Both attacks share the same damage type.
->>>
->>>> **Disciple of the Elements.** When you choose this tradition, you learn magical disciplines that harness the power of the four elements. A discipline requires you to spend ki points each time you use it.
->>>>
->>>> You know the Elemental Attunement discipline and one other elemental discipline of your choice, which are detailed in the “Elemental Disciplines” section below.
->>>>
->>>> Whenever you learn a new elemental discipline, you can also replace one elemental discipline that you already know with a different discipline.
->>>>
->>>> **_Casting Elemental Spells._** Some elemental disciplines allow you to cast spells. See Spellcasting for the general rules of spellcasting. To cast one of these spells, you use its casting time and other rules.
->>>>
->>>> You can spend additional ki points to increase the level of an elemental discipline spell that you cast, provided that the spell has an enhanced effect at a higher level, as _burning hands_ does. The spell's level increases by 1 for each additional ki point you spend. For example, if you are a level 2 monk and use Sweeping Cinder Strike to cast _burning hands_, you can spend 2 ki points to cast it as a 2nd-level spell (the discipline’s base cost of 1 ki point plus 1).
->>>> 
->>>> The maximum number of ki points you can spend on elemental disciplines (including its base ki point cost and any additional ki points you spend) is determined by LEVEL.
->>>> 
->>>> **Elemental Disciplines**
->>>> 
->>>> The elemental disciplines are presented in alphabetical order.
->>>> 
->>>> **_Elemental Attunement_.** You can use your action to briefly control elemental forces nearby, causing one of the following effects of your choice:
->>>> - Create a harmless, instantaneous sensory effect related to air, earth, fire, or water, such as a shower of sparks, a puff of wind, a spray of light mist, or a gentle rumbling of stone.
->>>> - Instantaneously light or snuff out a candle, a torch, or a small campfire.
->>>> - Chill or warm up to 1 pound of nonliving material during a short rest or until the end of the encounter.
->>>> - Cause earth, fire, water, or mist that can fit within a 1-foot cube to shape itself into a crude form you desig­nate until the end of the encounter or when the game session ends.
->>>>
->>>> **_Fangs of the Fire Snake_.** When you use the Attack action on your turn, you can spend 1 ki point to cause tendrils of flame to stretch out from your fists and feet. Your reach with your unarmed strikes increases by +2 squares for that action, as well as the rest of the turn. A hit with such an attack deals 3 points of damage, and its damage type becomes fire instead of bludgeoning. The damage increases by +1 for each additional ki you spend.
->>>>
->>>> **_Fist of Four Thunders_.** You can spend 1 ki point to cast _thunderwave_.
->>>>
->>>> **_Fist of Unbroken Air_.** You can create a blast of compressed air that strikes like a mighty fist. As an action, you can spend 1 ki point and choose a creature within 6 squares of you. That creature must make a STR check. On a failed check, the creature takes 3 bludgeoning damage, plus an extra 1 bludgeoning damage for each additional ki point you spend, and you can push the creature up to 4 squares away from you and knock it prone. On a successful check, the creature takes half as much damage, and you don’t push it or knock it prone.
->>>>
->>>> **_Rush of the Gale Spirits_.** You can spend 1 ki point to cast _gust of wind_.
->>>>
->>>> **_Shape the Flowing River_.** As an action, you can spend 1 ki point to choose an area of ice or water no larger than 6 squares on a side within 14 squares of you. You can change water to ice within the area and vice versa, and you can reshape ice in the area in any manner you choose. You can raise or lower the ice’s elevation, create or fill in a trench, erect or flatten a wall, or form a pillar. The extent of any such changes can’t exceed half the area’s largest dimension. For example, if you affect a 6-square area, you can create a pillar up to 3 squares high, raise or lower the square’s elevation by up to 3 squares, dig a trench up to 3 squares deep, and so on. You can’t shape the ice to trap or injure a creature in the area.
->>>>
->>>> **_Sweeping Cinder Strike_.** You can spend 1 ki point to cast _burning hands_.
->>>>
->>>> **_Water Whip_.** You can spend 1 ki point as a bonus action to create a whip of water that shoves and pulls a creature to unbalance it. A creature that you can see that is within 6 squares of you must make a DEX check. On a failed check, the creature takes 3 bludgeoning damage, plus an extra 1 bludgeoning damage for each additional ki point you spend, and you can either knock it prone or pull it up to 7 squares closer to you. On a successful save, the creature takes half as much damage, and you don’t pull it or knock it prone.
->
+>>
 > #### Deflect Missiles
 >> You can use your reaction to deflect or catch the piece of ammunition or missile when you are hit by a ranged weapon attack. When you do so, the damage you take from the attack is reduced by 1 + DEX + your level (minimum 0).
 >>
