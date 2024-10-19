@@ -838,7 +838,7 @@ Gain proficiency with a nonproficient ability of your choice. Then choose two of
 
 ### Sneak Attack
 
-You know how to strike subtly and exploit a foe’s distraction. Once per turn, you can deal an extra +1 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon.
+You know how to strike subtly and exploit a foe’s distraction. Once per turn, you can deal an extra +1 damage to one creature you hit with an attack if you have advantage on the attack roll.
 
 You don’t need advantage on the attack roll if another enemy of the target is within 1 square of it, that enemy isn’t incapacitated, and you don’t have disadvantage on the attack roll.
 
