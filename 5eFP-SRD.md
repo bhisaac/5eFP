@@ -268,7 +268,7 @@ You can change your list of prepared spells at headquarters (HQ). While away fro
 
 #### Spellcasting Ability
 
-Wisdom (WIS) is your spellcasting ability for your cleric spells. The power of your spells comes from your devotion to your deity. You use your WIS whenever a cleric spell refers to your spellcasting ability. In addition, you use WIS when setting the DC for a cleric spell you cast and when making an attack roll with one.
+Wisdom (WIS) is your spellcasting ability for your cleric spells. The power of your spells comes from your devotion to your deity or quality, such as those listed in the dedication rules. You use your WIS whenever a cleric spell refers to your spellcasting ability. In addition, you use WIS when setting the DC for a cleric spell you cast and when making an attack roll with one.
 
 **Spell DC** = 10 + WIS
 
