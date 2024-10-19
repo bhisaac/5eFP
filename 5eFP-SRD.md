@@ -280,7 +280,7 @@ You can cast a cleric spell as a ritual if that spell has the ritual tag and you
 
 #### Divine Domain
 
-Choose one domain related to your deity, such as Life. Each domain is detailed at the end of the class description, and each one provides examples of gods associated with it. Your choice grants you domain spells and other features.
+Choose one domain related to your deity, such as Medicine. Each domain is detailed at the end of the class description, and each one provides examples of gods associated with it. Your choice grants you domain spells and other features.
 
 #### Domain Spells
 
@@ -288,11 +288,11 @@ Each domain has a list of domain spells. You always have domain spells prepared 
 
 If you gain a domain spell that isn't a cleric spell, the spell is nonetheless a cleric spell for you.
 
-### Life Domain
+### Medicine Domain
 
-The Life domain focuses on the vibrant positive energy—one of the fundamental forces of the universe—that sustains all life. The gods of life promote vitality and health through healing the sick and wounded, caring for those in need, and driving away the forces of death and undeath. Almost any non-evil deity can claim influence over this domain, particularly agricultural deities (such as Chauntea, Arawai, and Demeter), sun gods (such as Lathander, Pelor, and Re-Horakhty), gods of healing or endurance (such as Ilmater, Mishakal, Apollo, and Diancecht), and gods of home and community (such as Hestia, Hathor, and Boldrei).
+The Medicine domain focuses on vibrant positive energy that sustains all life. The gods of life promote vitality and health through healing the sick and wounded, caring for those in need, and driving away the forces of death and undeath. Almost any non-evil deity can claim influence over this domain, particularly agricultural deities (such as Chauntea, Arawai, and Demeter), sun gods (such as Lathander, Pelor, and Re-Horakhty), gods of healing or endurance (such as Ilmater, Mishakal, Apollo, and Diancecht), and gods of home and community (such as Hestia, Hathor, and Boldrei).
 
-#### Life Domain Spells
+#### Medicine Domain Spells
 
 - bless
 - cure wounds
@@ -301,7 +301,7 @@ The Life domain focuses on the vibrant positive energy—one of the fundamental 
 
 You gain proficiency with heavy armor.
 
-#### Disciple of Life
+#### Performance Medicine
 
 Your healing spells are more effective. Whenever you use a spell of 1st level or higher to give a creature 1 or more points of healing, the creature receives one additional point of healing per spell level.
 
