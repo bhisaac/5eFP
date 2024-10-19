@@ -216,7 +216,7 @@ It’s hard to make generalizations about humans, but your human character has t
 
 **Languages.** You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on.
 
-# Healer
+# Healers
 
 Healers are generally good combatants with features that protect and heal themselves and others.
 
@@ -350,7 +350,7 @@ Alternatively, you can expend 5 points from your reserve to cure the target of o
 
 This feature has no effect on undead and constructs.
 
-# Mage
+# Mages
 
 Mages are generally spellcasters or versatile specialists with more mental and less physical training.
 
@@ -680,7 +680,7 @@ For example, if you’re a 2nd-­level wizard, you can recover up to two levels 
 > ***The Book’s Appearance.*** Your spellbook is a unique compilation of spells, with its own decorative flourishes and
 margin notes. It might be a plain, functional leather volume that you received as a gift from your master, a finely bound gilt-edged tome you found in an ancient library, or even a loose collection of notes scrounged together after you lost your previous spellbook in a mishap.
 
-# Scoundral
+# Scoundrals
 
 Scoundrels are generally charismatic when seen and nearly invisible when unseen.
 
@@ -848,7 +848,7 @@ During your rogue training you learned thieves’ cant, a secret mix of dialect,
 
 In addition, you understand a set of secret signs and symbols used to convey short, simple messages, such as whether an area is dangerous or the territory of a thieves' guild, whether loot is nearby, or whether the people in an area are easy marks or will provide a safe house for thieves on the run.
 
-# Warrior
+# Warriors
 
 Warriors are fighters or expert combatants with extensive training in attacking and defending.
 
