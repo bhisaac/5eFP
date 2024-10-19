@@ -471,7 +471,7 @@ Charisma (CHA) is your spellcasting ability for your sorcerer spells, since the 
 
 ### Sorcerous Origin
 
-Choose a sorcerous origin, which describes the source of your innate magical power, such as Draconic Bloodline. Your choice grants you a feature.
+Choose a sorcerous origin, which describes the source of your innate magical power, such as Draconic Bloodline. Your choice grants you additional features.
 
 ### Draconic Bloodline
 
