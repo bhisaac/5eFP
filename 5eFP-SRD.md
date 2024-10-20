@@ -23,6 +23,45 @@ _**Practice.**_ Focus alone isn't enough. Results require real doing through reg
 5. **Guidance.** 5eFP is designed to support players with their existing counselors, therapists, teachers, and guides. It’s recommended that players ally with guides for self-reflection, as humans often fall into self-deceit. The content generated during 5eFP sessions can serve as material for discussion with these guides, who can also suggest suitable gameplay explorations. One goal of 5eFP is to foster these collaborative relationships.
 6. **Therapeutic but _not therapy_.** 5eFP games can be therapeutic by revealing hidden parts of ourselves. Taking brief notes during the game is important, as these sessions are not therapy, and your GM won’t pause to process them. Players adapt and integrate experiences spontaneously. At the end of the session, there will be time for journaling, and further processing can occur later with a guide or teacher.
 
+# A Different Kind of TRPG
+
+5eFP is different from other TRPGs. Although many of its game features are based on the D20 fifth edition rules, they have been reworked and significantly simplified to create a new core set of rules outlined in this section. GMs and PCs need to understand these differences before moving on to other sections such as character creation or creating a setting handbook.
+
+## Important Terms
+
+### Headquarters (HQ)
+
+Each world map has a HQ which is usually located on the center world map tile. HQ represents the central organization or organizing force responsible for maintaining the health and security of the game's world or region. All PCs are peers and colleagues within this organization. You are objectively safe from the conflict while at HQ, provided its upkeep is maintained (see _Setting Handbook_ below).
+
+### Fast Travel
+
+5eFP games use fast travel rules when deploying onto the world map, skipping past travel times.
+
+### Recall
+
+PCs are transported back to HQ after performing a Recall ritual outside of an encounter.
+
+### Setting Handbook
+
+All details about the 5eFP practice you are joining can be found in your setting handbook. The following information is contained within.
+- **World Map.** GMs and PCs will find a section illustrating the game world or region before the conflict begins and a summary of the game's setting. The world map begins covered with obscuring map tiles, which PCs remove when they explore an obscured map tile. The requirements for exploring an obscured map tile are detailed here.
+- **HQ.** Details about HQ's organization or organizing force and the role PCs play within it can be found here.
+- **Conflict.** 5eFP games have a conflict section detailing the central crisis or unfavorable circumstances that have transformed the game world or region into an unbalanced and afflicted state. The conflict cannot be resolved at LEVEL 1. Resolving the conflict requires completing a prerequisite at LEVEL 7, which is also detailed in this section. Any changes to game features related to the conflict will also be documented here.
+- **Story Directions.** The world map has eight story directions: four cardinal directions, North (N), South (S), East (E), West (W), and four hybrid ordinal directions, Northwest (NW), Southeast (SE), Southwest (SW), and Northwest (NW). Each cardinal direction has unique story elements, while hybrid ordinal directions use story elements sourced from adjacent cardinal directions. A story direction is typically summarized with a one-term descriptive phrase such as (N) Lonely Wood, (W) Haunted Moors, (E) Sunken Temple, and so on. GMs and PCs draw or randomly roll story elements from the story direction they are currently exploring or whenever the game tells them to do so. Hybrid ordinal directions draw or roll story elements from adjacent story directions at the same time, which results in at least one additional story element. Whenever possible GMs and PCs combine hybrid story elements together. For example, while exploring NE, the PCs reveal a foothold. The GM then reveals one story element from (N) Lonely Wood (A desolate clearing) and one from (E) Sunken Temple ...
+- **Fast Travel.** How fast travel is achieved in your game is explained here.
+- **Recall.** How you Recall in your game is explained here.
+
+### LEVEL
+
+LEVEL is a placeholder representing the level of your 5eFP game. LEVEL initially starts at 1 and increases as game objectives are completed.
+
+### Short Rest
+
+Unless otherwise stated in your setting handbook, you can complete up to two short rests per game session. When you finish a short rest, you first receive a number of healing points equal to LEVEL. Then, any additional game features that activate during a short are resolved.
+
+> What happened to the long rest?
+>> 5eFP does not use long rest rules.
+
 # Character Creation
 
 **Ability Scores**
