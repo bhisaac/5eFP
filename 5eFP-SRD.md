@@ -23,19 +23,23 @@ _**Practice.**_ Focus alone isn't enough. Results require real doing through reg
 5. **Guidance.** 5eFP is designed to support players with their existing counselors, therapists, teachers, and guides. It’s recommended that players ally with guides for self-reflection, as humans often fall into self-deceit. The content generated during 5eFP sessions can serve as material for discussion with these guides, who can also suggest suitable gameplay explorations. One goal of 5eFP is to foster these collaborative relationships.
 6. **Therapeutic but _not therapy_.** 5eFP games can be therapeutic by revealing hidden parts of ourselves. Taking brief notes during the game is important, as these sessions are not therapy, and your GM won’t pause to process them. Players adapt and integrate experiences spontaneously. At the end of the session, there will be time for journaling, and further processing can occur later with a guide or teacher.
 
-# A Different Kind of TRPG
+# A New Way to Play TRPGs
 
-5eFP is different from other TRPGs. Although many of its game features are based on the D20 fifth edition rules, they have been reworked and significantly simplified to create a new core set of rules outlined in this section. GMs and PCs need to understand these differences before moving on to other sections such as character creation or creating a setting handbook.
+5eFP is different from other TRPGs. Although many of its game features are inspired by and based on the D20 fifth edition rules, they have been simplified to create a new core set of rules outlined in this section. GMs and PCs must understand these differences before moving on to other sections, such as character creation or creating a setting handbook.
 
-## Important Terms
+## 5eFP Terms
+
+### World Map
+
+The world map partly drives a 5eFP game's story and content. It is a top-down illustration of the game world or region divided into a 14-square by 14-square grid. Each square within the grid is measured 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters. The map contains (9) 2x2 world map tiles for each cardinal direction, (3) 2x2 world map tiles for each hybrid ordinal direction, and (1) 2x2 HQ tile. Hybrid world map tiles share characteristics found on adjacent world map tile directions.
 
 ### Headquarters (HQ)
 
-Each world map has a HQ which is usually located on the center world map tile. HQ represents the central organization or organizing force responsible for maintaining the health and security of the game's world or region. All PCs are peers and colleagues within this organization. You are objectively safe from the conflict while at HQ, provided its upkeep is maintained (see _Setting Handbook_ below).
+Each world map has a headquarters, usually located at the center of the world map. HQ represents the central organization or organizing force responsible for maintaining the health and security of the game world or region. All PCs are peers and colleagues within this organization. You are objectively safe from the conflict at HQ, provided HQ's upkeep costs are maintained (see _Setting Handbook_ below).
 
 ### Fast Travel
 
-5eFP games use fast travel rules when deploying onto the world map, skipping past travel times.
+5eFP games use fast travel rules when deploying onto the world map, skipping past traveling and travel times.
 
 ### Recall
 
@@ -50,6 +54,27 @@ All details about the 5eFP practice you are joining can be found in your setting
 - **Story Directions.** The world map has eight story directions: four cardinal directions, North (N), South (S), East (E), West (W), and four hybrid ordinal directions, Northwest (NW), Southeast (SE), Southwest (SW), and Northwest (NW). Each cardinal direction has unique story elements, while hybrid ordinal directions use story elements sourced from adjacent cardinal directions. A story direction is typically summarized with a one-term descriptive phrase such as (N) Lonely Wood, (W) Haunted Moors, (E) Sunken Temple, and so on. GMs and PCs draw or randomly roll story elements from the story direction they are currently exploring or whenever the game tells them to do so. Hybrid ordinal directions draw or roll story elements from adjacent story directions at the same time, which results in at least one additional story element. Whenever possible GMs and PCs combine hybrid story elements together. For example, while exploring NE, the PCs reveal a foothold. The GM then reveals one story element from (N) Lonely Wood (A desolate clearing) and one from (E) Sunken Temple ...
 - **Fast Travel.** How fast travel is achieved in your game is explained here.
 - **Recall.** How you Recall in your game is explained here.
+
+The following procedure must be completed to explore a world map tile:
+- Explore 55% or more of the map.
+- Find and resolve 3 footholds.
+- Locate an item or perform an action according to the setting handbook.
+
+Steps taken for world map deployment.
+1. **Preview.** Druids and rangers receive a special bonus round. Each druid and ranger PC, in initiative order, may choose one unexplored world map tile within the current level of play and preview its terrain by temporarily removing its obscuring world map tile. Once finished, the player then returns the obscuring world map tile back to its original position.
+2. **Selection.** The PCs, as a group, choose a cardinal or ordinal direction and trace a path from the HQ tile along the map until an obscured world map tile is encountered within the current level of play. This becomes the selected world map tile.
+3. **Prepare.** Players may choose to spend 1 round of preparation before deploying. See "Preparation."
+4. **Setup.** Place an empty (22 x 22) exploration map beside the world map. Roll a d20 onto the exploration map before placing any tiles and note the location of where the dice lands. This determines the starting position for the PCs.
+5. **Deploy.** The GM reveals the starting map tile on the exploration map at the starting position determined in the previous step, placing the group token onto it.
+6. **Choose Party Token Controller.** PCs appoint one player as the group token controller. This player can be the party leader, but this is not required. The PC with the most overland movement bonuses is typically the group token controller. Some background, species, and class features provide significant bonuses while controlling the group token during the exploration phase.
+7. **Move the group token.** The group token controller moves the token, lifting any obscuring tiles encountered along the way. Removing an obscuring tile may reveal one of several potential world map features called footholds:
+    - Dungeons
+    - Creatures
+    - Villages or settlements
+    - Buildings
+    - Treasures
+    - Traps
+    - Specific features or items necessary for completion as outlined in your setting handbook.
 
 ### LEVEL
 
