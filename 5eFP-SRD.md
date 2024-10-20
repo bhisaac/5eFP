@@ -33,6 +33,14 @@ _**Practice.**_ Focus alone isn't enough. Results require real doing through reg
 
 The world map partly drives a 5eFP game's story and content. It is a top-down illustration of the game world or region divided into a 14-square by 14-square grid. Each square within the grid is measured 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters. The map contains (9) 2x2 world map tiles for each cardinal direction, (3) 2x2 world map tiles for each hybrid ordinal direction, and (1) 2x2 HQ tile. Hybrid world map tiles share characteristics found on adjacent world map tile directions.
 
+### Story Elements
+
+TBA
+
+### Foothold
+
+Whenever you remove an obscuring map tile While deployed on a world map tile, you first turn it over. The underside of the obscuring map tile may display a red orb illustration. This means you encounter a foothold or a region on the world map containing an encounter that challenges the PCs somehow. The GM then draws or rolls for a story element from the direction the PCs are exploring, continuing to draw and roll story elements until revealing an encounter. PCs then agree to choose one story element that isn't an encounter to keep and discard the remaining story elements. If the PCs encounter a foothold while exploring a hybrid tile, they keep two story elements (one from each adjacent direction) instead of picking only one story element.
+
 ### Headquarters (HQ)
 
 Each world map has a headquarters, usually located at the center of the world map. HQ represents the central organization or organizing force responsible for maintaining the health and security of the game world or region. All PCs are peers and colleagues within this organization. You are objectively safe from the conflict at HQ, provided HQ's upkeep costs are maintained (see _Setting Handbook_ below).
@@ -43,17 +51,17 @@ Each world map has a headquarters, usually located at the center of the world ma
 
 ### Recall
 
-PCs are transported back to HQ after performing a Recall ritual outside of an encounter.
+PCs are transported back to HQ after performing a Recall ritual outside of an encounter. PCs automatically Recall 8 hours after deploying onto the world map.
 
 ### Setting Handbook
 
 All details about the 5eFP practice you are joining can be found in your setting handbook. The following information is contained within.
 - **World Map.** GMs and PCs will find a section illustrating the game world or region before the conflict begins and a summary of the game's setting. The world map begins covered with obscuring map tiles, which PCs remove when they explore an obscured map tile. The requirements for exploring an obscured map tile are detailed here.
 - **HQ.** Details about HQ's organization or organizing force and the role PCs play within it can be found here.
-- **Conflict.** 5eFP games have a conflict section detailing the central crisis or unfavorable circumstances that have transformed the game world or region into an unbalanced and afflicted state. The conflict cannot be resolved at LEVEL 1. Resolving the conflict requires completing a prerequisite at LEVEL 7, which is also detailed in this section. Any changes to game features related to the conflict will also be documented here.
-- **Story Directions.** The world map has eight story directions: four cardinal directions, North (N), South (S), East (E), West (W), and four hybrid ordinal directions, Northwest (NW), Southeast (SE), Southwest (SW), and Northwest (NW). Each cardinal direction has unique story elements, while hybrid ordinal directions use story elements sourced from adjacent cardinal directions. A story direction is typically summarized with a one-term descriptive phrase such as (N) Lonely Wood, (W) Haunted Moors, (E) Sunken Temple, and so on. GMs and PCs draw or randomly roll story elements from the story direction they are currently exploring or whenever the game tells them to do so. Hybrid ordinal directions draw or roll story elements from adjacent story directions at the same time, which results in at least one additional story element. Whenever possible GMs and PCs combine hybrid story elements together. For example, while exploring NE, the PCs reveal a foothold. The GM then reveals one story element from (N) Lonely Wood (A desolate clearing) and one from (E) Sunken Temple ...
+- **Conflict.** 5eFP games have a conflict section detailing the central crisis or unfavorable circumstances that have transformed the game world or region into an unbalanced and afflicted state. The conflict cannot be resolved at LEVEL 1. Resolving the conflict requires completing a prerequisite at LEVEL 7, which is detailed in this section. Any changes to game features related to the conflict will also be documented here.
+- **Story Directions.** The world map has eight story directions: four cardinal directions, North (N), South (S), East (E), West (W), and four hybrid ordinal directions, Northwest (NW), Southeast (SE), Southwest (SW), and Northwest (NW). Each cardinal direction has unique story elements, while hybrid ordinal directions use story elements sourced from adjacent cardinal directions. A story direction is typically summarized with a one-term descriptive phrase such as (N) Lonely Wood, (W) Haunted Moors, (E) Sunken Temple, and so on. GMs and PCs draw or randomly roll story elements from the story direction they are exploring or whenever the game tells them to do so. Hybrid ordinal directions draw or roll story elements from adjacent story directions simultaneously, resulting in at least one additional story element. GMs and PCs combine hybrid story elements whenever possible. For example, while exploring NE, the PCs reveal a foothold. The GM then reveals one story element from (N) Lonely Wood (withered copse) and one from (E) Sunken Temple (swampy ruins). The GM and PCs decide that the party is in the transition area between the Lonely Wood and where the land sinks toward the Sunken Temple. The transition area changes to the swamp and oceanic terrain within the area of the revealed foothold. They then decide that they can see a withered copse at a distance on a mound slightly higher than the surrounding swamp and that this area has a scattering of mysterious ruins in it. They decide this partly because of the "swampy ruins" description.
 - **Fast Travel.** How fast travel is achieved in your game is explained here.
-- **Recall.** How you Recall in your game is explained here.
+- **Recall.** How you Recall in your game is explained here, including any special equipment or game features linked to your ability to Recall. 
 
 The following procedure must be completed to explore a world map tile:
 - Explore 55% or more of the map.
@@ -75,6 +83,10 @@ Steps taken for world map deployment.
     - Treasures
     - Traps
     - Specific features or items necessary for completion as outlined in your setting handbook.
+
+### Setting Handbook Requirement
+
+TBA
 
 ### LEVEL
 
