@@ -3057,7 +3057,7 @@ When characters cast a spell, they expend a slot of that spell’s level or high
 
 Spell slots are restored at the end of a game session.
 
-Some characters and monsters have special abilities that let them cast spells without using spell slots. For example, a monk who follows the Way of the Elements, a warlock who chooses certain eldritch invocations, and a pit fiend from the Nine Hells can all cast spells in such a way.
+Some characters and monsters have special abilities that let them cast spells without using spell slots. For example, a warlock who chooses certain eldritch invocations and a pit fiend from the Nine Hells can all cast spells in such a way.
 
 #### Casting a Spell at a Higher Level
 
