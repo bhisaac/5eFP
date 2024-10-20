@@ -39,7 +39,7 @@ TBA
 
 ### Foothold
 
-Whenever you remove an obscuring map tile While deployed on a world map tile, you first turn it over. The underside of the obscuring map tile may display a red orb illustration. This means you encounter a foothold or a region on the world map containing an encounter that challenges the PCs somehow. The GM then draws or rolls for a story element from the direction the PCs are exploring, continuing to draw and roll story elements until revealing an encounter. PCs then agree to choose one story element that isn't an encounter to keep and discard the remaining story elements. If the PCs encounter a foothold while exploring a hybrid tile, they keep two story elements (one from each adjacent direction) instead of picking only one story element.
+You first turn over an obscuring map tile before removing it while deployed on the world map. The underside of the obscuring map tile may display a red orb illustration. This means you encounter a foothold or a region on the world map containing an encounter that challenges the PCs somehow. The GM then draws or rolls for a story element from the direction the PCs are exploring, continuing to draw and roll story elements until revealing an encounter. PCs then agree to choose one story element that isn't an encounter to keep and discard the remaining story elements. If the PCs encounter a foothold while exploring a hybrid tile, they keep two story elements (one from each adjacent direction) instead of picking only one story element.
 
 ### Headquarters (HQ)
 
