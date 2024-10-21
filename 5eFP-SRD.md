@@ -25,7 +25,7 @@ _**Practice.**_ Focus alone isn't enough. Results require real doing through reg
 
 # A New Way to Play
 
-5eFP is different from other TRPGs. While many of its game features are based on the D20 fifth edition rules, many are simplified and restructured to create a new set of rules outlined in this section. GMs and PCs must understand these differences before moving on to other sections, such as character creation or creating a setting handbook.
+5eFP is different from other TRPGs. While many of its game features are based on the D20 fifth edition rules, 5eFP's versions are simplified and restructured to create a new set of rules outlined in this section. These rules were created to promote a game that can be set up and taken down like a board game and as a modular game whose pieces can be used repeatedly and consistently. Players will find that the action revolves around a typical in-game day, which begins after gaining the benefits of a long rest and involves choosing and deploying onto the world map to complete game objectives. GMs and PCs are strongly encouraged to review the 5eFP game differences before moving on to other sections, such as character creation or creating a setting handbook.
 
 ## Game Terms
 
