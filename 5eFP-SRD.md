@@ -41,7 +41,7 @@ Before you move onto a map tile covered by an obscuring tile, turn over the obsc
 - **Campfire Icon or Solid Gold Circle.** The obscuring tile covered a special campfire encounter (see _Campfire_ below).
 - **Bag Icon or Solid Green Circle.** The obscuring tile covered an area rich with resources (see _Harvest_ below).
 
-Once you have turned over the obscuring map tile and determined the results of any revealed icons, you then discard the obscuring tile and move on to the revealed map tile. If the obscuring map tile revealed a foothold, you set up the foothold after moving onto it. Remember the cardinal direction you used to move onto the foothold. The party then enters the foothold from the opposite direction used to enter it from the world map.
+Once you have turned over the obscuring map tile and determined the results of any revealed icons, you then discard the obscuring tile and move on to the revealed map tile. If the obscuring map tile revealed a foothold, you set up the foothold before moving onto it. Note the cardinal direction you used to move onto the foothold from the world map. The party then enters the foothold from the opposite direction used to enter it.
 
 ### Story Directions and Elements
 
