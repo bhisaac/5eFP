@@ -27,19 +27,17 @@ _**Practice.**_ Focus alone isn't enough. Results require real doing through reg
 
 5eFP is different from other TRPGs. Although many of its game features are inspired by and based on the D20 fifth edition rules, they have been simplified to create a new core set of rules outlined in this section. GMs and PCs must understand these differences before moving on to other sections, such as character creation or creating a setting handbook.
 
-## 5eFP Terms
+## Game Terms
 
 ### World Map
 
 The world map partly drives a 5eFP game's story and content. It is a top-down illustration of the game world or region divided into a 14-square by 14-square grid. Each square within the grid is measured 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters. The map contains (9) 2x2 world map tiles for each cardinal direction, (3) 2x2 world map tiles for each hybrid ordinal direction, and (1) 2x2 HQ tile. A road, path, or trail divides hybrid world map tiles in two parts from the SW corner to the NE corner and shares characteristics found on adjacent world map tile directions.
 
-### Removing Obscuring Tiles
-
-Before you move onto a map tile covered by an obscuring tile, turn over the obscuring tile. The underside of an obscuring tile may display one of several possible icons.
+**Removing Obscuring Tiles.** Before you move onto a map tile covered by an obscuring tile, turn over the obscuring tile. The underside of an obscuring tile may display one of several possible icons.
 - **Red Orb or Solid Red Circle.** The obscuring tile covered a foothold (see _Foothold_ below).
 - **White Orb or Solid White Circle.** The obscuring tile covered a setting handbook requirement (see _Setting Handbook_ below).
-- **Campfire Icon or Solid Gold Circle.** The obscuring tile covered a campfire encounter (see _Campfire_ below).
-- **Bag Icon or Solid Green Circle.** The obscuring tile covered an area rich with resources (see _Harvest_ below).
+- **Campfire Icon or Solid Gold Circle.** The obscuring tile covered a campfire encounter (TBD).
+- **Bag Icon or Solid Green Circle.** The obscuring tile covered an area rich with resources (TBD).
 
 Once you have turned over the obscuring map tile and determined the results of any revealed icons, you then discard the obscuring tile and move on to the revealed map tile. If the obscuring map tile revealed a foothold, you set up the foothold before moving onto it. Note the cardinal direction you used to move onto the foothold from the world map. The party then enters the foothold from the opposite direction used to enter it unless the foothold describes a designated starting area.
 
@@ -59,7 +57,7 @@ For example, while exploring NE, the PCs reveal a foothold. Because they are exp
 
 A foothold is a concentrated local event related to the conflict detailed in your setting handbook (see _Setting Handbook_ below). PCs must find and resolve three footholds to finish exploring an obscured world map tile.
 
-A foothold is a region on the world map containing an encounter that challenges the PCs somehow. The GM draws or rolls for a story element from the direction the PCs are exploring, continuing to draw and roll story elements until revealing a story element that is an encounter. PCs choose and add one story element to the encounter from those revealed, discarding any remaining story elements. If the PCs encounter a foothold while exploring a hybrid tile, they keep two story elements (one from each adjacent direction) instead of picking only one story element.
+A foothold is a region on the world map containing an encounter that challenges the PCs somehow. The GM draws or rolls for a story element from the direction the PCs are exploring, continuing to draw and roll story elements until revealing an encounter. PCs choose and add one story element to the encounter from those revealed, discarding any remaining story elements. If the PCs encounter a foothold while exploring a hybrid tile, they keep two story elements (one from each adjacent direction) instead of picking only one story element.
 
 ### Headquarters (HQ)
 
@@ -86,7 +84,7 @@ All details about the 5eFP practice you are joining can be found in your setting
 The following procedure must be completed to explore a world map tile:
 - Explore 55% or more of the map.
 - Find and resolve 3 footholds.
-- Locate an item or perform an action according to the setting handbook.
+- Locate an item or complete a setting handbook requirement.
 
 Steps taken for world map deployment.
 1. **Preview.** Druids and rangers receive a special bonus round. Each druid and ranger PC, in initiative order, may choose one unexplored world map tile within the current level of play and preview its terrain by temporarily removing its obscuring world map tile. Once finished, the player then returns the obscuring world map tile back to its original position.
