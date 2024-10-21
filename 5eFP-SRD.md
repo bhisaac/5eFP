@@ -33,13 +33,33 @@ _**Practice.**_ Focus alone isn't enough. Results require real doing through reg
 
 The world map partly drives a 5eFP game's story and content. It is a top-down illustration of the game world or region divided into a 14-square by 14-square grid. Each square within the grid is measured 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters. The map contains (9) 2x2 world map tiles for each cardinal direction, (3) 2x2 world map tiles for each hybrid ordinal direction, and (1) 2x2 HQ tile. Hybrid world map tiles share characteristics found on adjacent world map tile directions.
 
-### Story Elements
+### Removing Obscuring Tiles
 
-TBA
+Before you move onto a map tile covered by an obscuring tile, turn over the obscuring tile. The underside of an obscuring tile may display one of several possible icons.
+- **Red Orb or Solid Red Circle.** The obscuring tile covered a foothold (see _Foothold_ below).
+- **White Orb or Solid White Circle.** The obscuring tile covered a setting handbook requirement (see _Setting Handbook_ below).
+- **Campfire Icon or Solid Gold Circle.** The obscuring tile covered a special campfire encounter (see _Campfire_ below).
+- **Bag Icon or Solid Green Circle.** The obscuring tile covered an area rich with resources (see _Harvest_ below).
+
+Once you have turned over the obscuring map tile and determined the results of any revealed icons, you then discard the obscuring tile and move on to the revealed map tile. If the obscuring map tile revealed a foothold, you set up the foothold after moving onto it.
+
+### Story Directions and Elements
+
+**Story Directions.** The world map has four cardinal directions: North (N), South (S), East (E), and West (W). Each cardinal direction is linked to unique story elements that correspond to that specific direction. There are also four ordinal or hybrid directions: Northwest (NW), Southeast (SE), Southwest (SW), and Northwest (NW). Each hybrid direction is linked to the story elements contained within adjacent cardinal directions.
+
+**Story Elements.** Story elements can be thought of as pieces of the overall story relating to the conflict detailed in your setting handbook modified by the particular direction the PCs are exploring. Over time, these story elements automatically create a subplot on their own, which is a loosely interconnected series of events and scenes that tells a consistent story affecting the game world or region in some way. GMs and PCs don't necessarily need to control how these elements emerge. They can simply play with them as they arise, though GMs may decide to adjust them with player consent so they fit together better.
+
+You reveal a story element by drawing one from a story direction deck or by rolling a random result on a story direction roll table. If a story element is revealed in a hybrid direction, you reveal a story element for each adjacent direction.
+
+A story direction is typically summarized with short descriptive phrases such as (N) Lonely Wood, (W) Haunted Moors, (E) Sunken Temple, and so on.
+
+For example, while exploring NE, the PCs reveal a foothold. Because they are exploring a hybrid direction, they reveal one story element from both directions. They reveal a _withered copse_ from (N) Lonely Wood and _swampy ruins_ from (E) Sunken Temple. They continue to draw story elements from both adjacent directions until they reveal an encounter. In this case, they reveal a _windswept glade_ from Lonely Wood and get the _merrow encampment_ monster encounter from the Sunken Temple direction. Since they drew an encounter, they stopped drawing more story elements. The GM and PCs discard the _windswept glade_ story element because they don't feel as much interest in it and keep the _withered copse_ and the _swampy ruins_. They then decide together that the party is in a transition area between the Lonely Wood and where the land sinks away toward the Sunken Temple. They then determine that the party can see a withered copse near a _merrow encampment_, and the whole area has a scattering of mysterious ruins sinking into the swamp.
 
 ### Foothold
 
-You first turn over an obscuring map tile before removing it while deployed on the world map. The underside of the obscuring map tile may display a red orb illustration. This means you encounter a foothold or a region on the world map containing an encounter that challenges the PCs somehow. The GM then draws or rolls for a story element from the direction the PCs are exploring, continuing to draw and roll story elements until revealing an encounter. PCs then agree to choose one story element that isn't an encounter to keep and discard the remaining story elements. If the PCs encounter a foothold while exploring a hybrid tile, they keep two story elements (one from each adjacent direction) instead of picking only one story element.
+A foothold is a concentrated local event related to the conflict detailed in your setting handbook (see _Setting Handbook_ below). PCs must find and resolve three footholds to finish exploring an obscured world map tile.
+
+A foothold is a region on the world map containing an encounter that challenges the PCs somehow. The GM draws or rolls for a story element from the direction the PCs are exploring, continuing to draw and roll story elements until revealing a story element that is an encounter. PCs then agree to choose one story element that isn't an encounter to keep and discard the remaining story elements. If the PCs encounter a foothold while exploring a hybrid tile, they keep two story elements (one from each adjacent direction) instead of picking only one story element.
 
 ### Headquarters (HQ)
 
@@ -59,7 +79,7 @@ All details about the 5eFP practice you are joining can be found in your setting
 - **World Map.** GMs and PCs will find a section illustrating the game world or region before the conflict begins and a summary of the game's setting. The world map begins covered with obscuring map tiles, which PCs remove when they explore an obscured map tile. The requirements for exploring an obscured map tile are detailed here.
 - **HQ.** Details about HQ's organization or organizing force and the role PCs play within it can be found here.
 - **Conflict.** 5eFP games have a conflict section detailing the central crisis or unfavorable circumstances that have transformed the game world or region into an unbalanced and afflicted state. The conflict cannot be resolved at LEVEL 1. Resolving the conflict requires completing a prerequisite at LEVEL 7, which is detailed in this section. Any changes to game features related to the conflict will also be documented here.
-- **Story Directions.** The world map has eight story directions: four cardinal directions, North (N), South (S), East (E), West (W), and four hybrid ordinal directions, Northwest (NW), Southeast (SE), Southwest (SW), and Northwest (NW). Each cardinal direction has unique story elements, while hybrid ordinal directions use story elements sourced from adjacent cardinal directions. A story direction is typically summarized with a one-term descriptive phrase such as (N) Lonely Wood, (W) Haunted Moors, (E) Sunken Temple, and so on. GMs and PCs draw or randomly roll story elements from the story direction they are exploring or whenever the game tells them to do so. Hybrid ordinal directions draw or roll story elements from adjacent story directions simultaneously, resulting in at least one additional story element. GMs and PCs combine hybrid story elements whenever possible. For example, while exploring NE, the PCs reveal a foothold. The GM then reveals one story element from (N) Lonely Wood (withered copse) and one from (E) Sunken Temple (swampy ruins). The GM and PCs decide that the party is in the transition area between the Lonely Wood and where the land sinks toward the Sunken Temple. The transition area changes to the swamp and oceanic terrain within the area of the revealed foothold. They then decide that they can see a withered copse at a distance on a mound slightly higher than the surrounding swamp and that this area has a scattering of mysterious ruins in it. They decide this partly because of the "swampy ruins" description.
+- **Story Directions.** The four cardinal story directions are revealed here.
 - **Fast Travel.** How fast travel is achieved in your game is explained here.
 - **Recall.** How you Recall in your game is explained here, including any special equipment or game features linked to your ability to Recall. 
 
