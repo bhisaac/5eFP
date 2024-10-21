@@ -41,15 +41,15 @@ Before you move onto a map tile covered by an obscuring tile, turn over the obsc
 - **Campfire Icon or Solid Gold Circle.** The obscuring tile covered a special campfire encounter (see _Campfire_ below).
 - **Bag Icon or Solid Green Circle.** The obscuring tile covered an area rich with resources (see _Harvest_ below).
 
-Once you have turned over the obscuring map tile and determined the results of any revealed icons, you then discard the obscuring tile and move on to the revealed map tile. If the obscuring map tile revealed a foothold, you set up the foothold after moving onto it.
+Once you have turned over the obscuring map tile and determined the results of any revealed icons, you then discard the obscuring tile and move on to the revealed map tile. If the obscuring map tile revealed a foothold, you set up the foothold after moving onto it. Remember the cardinal direction you used to move onto the foothold. The party then enters the foothold from the opposite direction used to enter it from the world map.
 
 ### Story Directions and Elements
 
-**Story Directions.** The world map has four cardinal directions: North (N), South (S), East (E), and West (W). Each cardinal direction is linked to unique story elements that correspond to that specific direction. There are also four ordinal or hybrid directions: Northwest (NW), Southeast (SE), Southwest (SW), and Northwest (NW). Each hybrid direction is linked to the story elements contained within adjacent cardinal directions.
+**Story Directions.** The world map has four cardinal directions: North (N), South (S), East (E), and West (W). Each cardinal direction is linked to unique story elements corresponding to that direction. There are also four ordinal or hybrid directions: Northwest (NW), Southeast (SE), Southwest (SW), and Northwest (NW). Each hybrid direction is linked to the story elements within adjacent cardinal directions.
 
-**Story Elements.** Story elements can be thought of as pieces of the overall story relating to the conflict detailed in your setting handbook modified by the particular direction the PCs are exploring. Over time, these story elements automatically create a subplot on their own, which is a loosely interconnected series of events and scenes that tells a consistent story affecting the game world or region in some way. GMs and PCs don't necessarily need to control how these elements emerge. They can simply play with them as they arise, though GMs may decide to adjust them with player consent so they fit together better.
+**Story Elements.** Story elements can be thought of as pieces of the overall story relating to the conflict detailed in your setting handbook modified by the particular direction the PCs are exploring. Over time, these story elements automatically create stories of their own. GMs and PCs don't necessarily need to control how these elements emerge, though GMs may choose to adjust them with player consent so they fit together better.
 
-You reveal a story element by drawing one from a story direction deck or by rolling a random result on a story direction roll table. If a story element is revealed in a hybrid direction, you reveal a story element for each adjacent direction.
+You reveal a story element by drawing one from a story direction deck or rolling a random result on a story direction roll table. If a story element is revealed in a hybrid direction, you reveal a story element for each adjacent direction.
 
 A story direction is typically summarized with short descriptive phrases such as (N) Lonely Wood, (W) Haunted Moors, (E) Sunken Temple, and so on.
 
