@@ -59,7 +59,7 @@ For example, while exploring NE, the PCs reveal a foothold. Because they are exp
 
 A foothold is a concentrated local event related to the conflict detailed in your setting handbook (see _Setting Handbook_ below). PCs must find and resolve three footholds to finish exploring an obscured world map tile.
 
-A foothold is a region on the world map containing an encounter that challenges the PCs somehow. The GM draws or rolls for a story element from the direction the PCs are exploring, continuing to draw and roll story elements until revealing a story element that is an encounter. PCs then agree to choose one story element that isn't an encounter to keep and discard the remaining story elements. If the PCs encounter a foothold while exploring a hybrid tile, they keep two story elements (one from each adjacent direction) instead of picking only one story element.
+A foothold is a region on the world map containing an encounter that challenges the PCs somehow. The GM draws or rolls for a story element from the direction the PCs are exploring, continuing to draw and roll story elements until revealing a story element that is an encounter. PCs choose and add one story element to the encounter from those revealed, discarding any remaining story elements. If the PCs encounter a foothold while exploring a hybrid tile, they keep two story elements (one from each adjacent direction) instead of picking only one story element.
 
 ### Headquarters (HQ)
 
