@@ -31,7 +31,7 @@ _**Practice.**_ Focus alone isn't enough. Results require real doing through reg
 
 ### World Map
 
-The world map partly drives a 5eFP game's story and content. It is a top-down illustration of the game world or region divided into a 14-square by 14-square grid. Each square within the grid is measured 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters. The map contains (9) 2x2 world map tiles for each cardinal direction, (3) 2x2 world map tiles for each hybrid ordinal direction, and (1) 2x2 HQ tile. Hybrid world map tiles share characteristics found on adjacent world map tile directions.
+The world map partly drives a 5eFP game's story and content. It is a top-down illustration of the game world or region divided into a 14-square by 14-square grid. Each square within the grid is measured 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters. The map contains (9) 2x2 world map tiles for each cardinal direction, (3) 2x2 world map tiles for each hybrid ordinal direction, and (1) 2x2 HQ tile. A road, path, or trail divides hybrid world map tiles in two parts from the SW corner to the NE corner and shares characteristics found on adjacent world map tile directions.
 
 ### Removing Obscuring Tiles
 
