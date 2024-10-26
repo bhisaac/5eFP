@@ -31,7 +31,7 @@ _**Practice.**_ Focus alone isn't enough. Results require real doing through reg
 
 ### World Map
 
-The world map drives the game's story and content. It is a top-down illustration of the game world or region divided into a 14-square by 14-square grid. Each square within the grid is measured 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters. The map contains (9) 2x2 world map tiles for each cardinal direction, (3) 2x2 world map tiles for each hybrid ordinal direction, and (1) 2x2 HQ tile. A road, path, or trail divides hybrid world map tiles in two parts from the SW corner to the NE corner and shares characteristics found on adjacent world map tile directions.
+The world map drives the game's story and content. It is a top-down illustration of the game world or region divided into a 14-square by 14-square grid. Each square within the grid is measured 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters. The map contains (9) 2x2 world map tiles for each cardinal direction, (3) 2x2 world map tiles for each hybrid ordinal direction, and (1) 2x2 HQ tile. A road connected to HQ diagonally divides hybrid world map tiles from one corner to the opposite corner. Hybrid world map tiles share characteristics with their adjacent world map tiles.
 
 **Removing Obscuring Tiles.** Before you move onto a map tile covered by an obscuring tile, turn over the obscuring tile. The underside of an obscuring tile may display one of several possible icons.
 - **Red Orb or Solid Red Circle.** The obscuring tile covered a foothold (see _Foothold_ below).
