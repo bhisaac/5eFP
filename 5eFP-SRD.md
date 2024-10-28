@@ -3815,6 +3815,16 @@ Alternatively, you can make a target indifferent about creatures of your choice 
 
 ### Spells (M)
 
+#### Mage Armor
+|_1st-level abjuration_|
+|:-|
+|**Casting Time:** 1 action|
+|**Range:** Touch|
+|**Components:** V, S|
+|**Duration:** Instantaneous|
+||
+|You touch a willing creature who isn’t wearing armor. The target equips a weightless and protective magical suit of armor, which grants the target AC 13. The protection granted by this spell ends upon Recall, when the target dons armor, or if you dismiss the spell as an action.|
+
 ### Spells (N)
 
 ### Spells (O)
