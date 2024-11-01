@@ -45,9 +45,9 @@ If the obscuring map tile revealed a foothold, briefly reveal the map tile it ob
 
 ### Story Directions and Elements
 
-**Story Directions.** The world map has four cardinal directions: North (N), South (S), East (E), and West (W). Each cardinal direction is linked to unique story elements corresponding to that direction. There are also four ordinal or hybrid directions: Northwest (NW), Southeast (SE), Southwest (SW), and Northwest (NW). Each hybrid direction is linked to the story elements within adjacent cardinal directions.
+**Story Directions.** The world map has four cardinal directions: North (N), South (S), East (E), and West (W). Each cardinal direction is linked to unique and interconnected story elements corresponding to that direction. There are also four ordinal or hybrid directions: Northwest (NW), Southeast (SE), Southwest (SW), and Northwest (NW). Each hybrid direction is linked to the story elements contained within adjacent directions.
 
-**Story Elements.** Story elements can be thought of as pieces of the overall story relating to the conflict detailed in your setting handbook modified by the particular direction the PCs are exploring. Over time, these story elements automatically create stories of their own. GMs and PCs don't necessarily need to control how these elements emerge, though GMs may choose to adjust them with player consent so they fit together better.
+**Story Elements.** Think of story elements as pieces of the overall story relating to the conflict detailed in your setting handbook modified by the particular direction the PCs are exploring. Over time, these story elements automatically create stories of their own. GMs and PCs don't necessarily need to control how these elements emerge, though GMs may choose to adjust them with player consent so they fit together better.
 
 You reveal a story element by drawing one from a story direction deck or rolling a random result on a story direction roll table. If a story element is revealed in a hybrid direction, you reveal a story element for each adjacent direction.
 
