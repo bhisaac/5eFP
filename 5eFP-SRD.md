@@ -1128,7 +1128,7 @@ BARD
 ||||
 |-:|:-|:-|
 |**Cost**|**Feature**|**Details**|
-|2⛁|Jack of All Trades|Add half your level (minimum 1) to nonproficient ability checks|
+|2⛁|Jack of All Trades|Add +1 to nonproficient abilities|
 |2⛁|Song of Rest|You and your allies receive 1 point of healing at the end of a short rest|
 |2⛁|Spells I|(+1) known spell, (+1) 1st-level spell slot|
 |3⛁|Bard College|College of Lore|
