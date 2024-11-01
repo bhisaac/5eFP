@@ -33,13 +33,15 @@ _**Practice.**_ Focus alone isn't enough. Results require real doing through reg
 
 The world map drives the game's story and content. It is a top-down illustration of the game world or region divided into a 14-square by 14-square grid. Each square within the grid is measured 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters. The map contains (9) 2x2 world map tiles for each cardinal direction, (3) 2x2 world map tiles for each hybrid ordinal direction, and (1) 2x2 HQ tile. A road connected to HQ diagonally divides hybrid world map tiles from one corner to the opposite. Hybrid world map tiles share characteristics with adjacent world map tiles.
 
-**Removing Obscuring Tiles.** Before you move onto a map tile covered by an obscuring tile, turn over the obscuring tile. The underside of an obscuring tile may display one of several possible icons.
+**Removing Obscuring Tiles.** Before you move onto a map tile covered by an obscuring tile, turn over the obscuring tile in place. The underside of an obscuring tile may display one of several possible icons.
 - **Red Orb or Solid Red Circle.** The obscuring tile covered a foothold (see _Foothold_ below).
 - **White Orb or Solid White Circle.** The obscuring tile covered a setting handbook requirement (see _Setting Handbook_ below).
-- **Campfire Icon or Solid Gold Circle.** The obscuring tile covered a campfire encounter (TBD).
-- **Bag Icon or Solid Green Circle.** The obscuring tile covered an area rich with resources (TBD).
+- **Gold Orb or Solid Gold Circle.** The obscuring tile covered a _campfire encounter_ (TBD) on the world map or _treasure_ on an encounter map (TBD).
+- **Green Orb or Solid Green Circle.** The obscuring tile covered an _resources_ (TBD).
 
-Once you have turned over the obscuring map tile and determined the results of any revealed icons, you then discard the obscuring tile and move on to the revealed map tile. If the obscuring map tile revealed a foothold, you set up the foothold before moving onto it. Note the cardinal direction you used to move onto the foothold from the world map. The party then enters the foothold from the opposite direction used to enter it unless the foothold describes a designated starting area.
+After revealing the obscured map tile, move the party token onto it and determine the results of all revealed icons. Discard the obscuring tile after resolving any triggered game features.
+
+If the obscuring map tile revealed a foothold, briefly reveal the map tile it obscures and note its terrain type. Set up the foothold with this terrain, modified by any revealed story elements and encounters. Note the cardinal or ordinal direction you used to move onto the foothold from the world map. The party then enters the foothold from the opposite direction used to enter it unless the foothold describes a designated starting area.
 
 ### Story Directions and Elements
 
