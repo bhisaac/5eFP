@@ -37,7 +37,7 @@ The world map drives the game's story and content. It is a top-down illustration
 - **Red Orb or Solid Red Circle.** The obscuring tile covered a foothold (see _Foothold_ below).
 - **White Orb or Solid White Circle.** The obscuring tile covered a setting handbook requirement (see _Setting Handbook_ below).
 - **Gold Orb or Solid Gold Circle.** The obscuring tile covered a _campfire encounter_ (TBD) on the world map or _treasure_ on an encounter map (TBD).
-- **Green Orb or Solid Green Circle.** The obscuring tile covered an _resources_ (TBD).
+- **Green Orb or Solid Green Circle.** The obscuring tile covered _resources_ (TBD).
 
 After revealing the obscured map tile, move the party token onto it and determine the results of all revealed icons. Discard the obscuring tile after resolving any triggered game features.
 
