@@ -978,9 +978,10 @@ You start with the following equipment, in addition to the equipment granted by 
 In battle, you fight with primal ferocity. On your turn, you can enter a rage as a bonus action that lasts until the end of the encounter.
 
 While raging, you gain the following benefits if you aren’t wearing heavy armor:
+- You reduce all damage dealt to you by minions to 0.
 - You have advantage on STR checks.
 - You gain resistance to bludgeoning, piercing, and slashing damage.
- 
+
 If you are able to cast spells, you can’t cast them or concentrate on them while raging.
 
 Your rage ends early if you are knocked unconscious or if your turn ends and you haven’t attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.
