@@ -597,7 +597,7 @@ You can speak, read, and write Draconic. Additionally, you gain advantage on CHA
 
 As magic flows through your body, it causes physical traits of your dragon ancestors to emerge. Your MAX wounds increases by +1.
 
-Additionally, parts of your skin are covered by a thin sheen of dragon-like scales. When you aren’t wearing armor, your AC equals 13 + DEX.
+Additionally, parts of your skin are covered by a thin sheen of dragon-like scales. As long as you have no armor equipped, you gain the benefits of wearing light armor.
 
 ## Warlock
 
@@ -990,7 +990,7 @@ You can rage twice per game session.
 
 ### Unarmored Defense
 
-While you are not wearing armor, add CON (minimum +0) to your Armor Class (AC). You can use a shield and still gain this benefit.
+While not wearing armor, you add CON (minimum 0) to your DEX checks used to avoid an attack. You can use a shield and still gain this benefit.
 
 ## Fighter
 
@@ -1031,7 +1031,7 @@ You gain a +2 bonus to attack rolls you make with ranged weapons.
 
 #### Defense
 
-While you are wearing armor, you gain a +1 bonus to AC.
+While you are wearing armor, you gain advantage on DEX checks used to avoid an attack.
 
 #### Dueling
 
@@ -1047,7 +1047,7 @@ When a creature you can see attacks a target other than you that is within 1 squ
 
 #### Two-Weapon Defense
 
-While you have a weapon equipped in each hand, you gain a +1 bonus to AC.
+While you have a weapon equipped in each hand, you gain advantage on DEX checks used to avoid an attack.
 
 ### Second Wind
 
@@ -1083,7 +1083,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
 ### Unarmored Defense
 
-While	you are wearing no armor and not wielding a shield, your AC equals 10 + DEX + WIS.
+While not wearing armor or wielding a shield, you add WIS (minimum 0) to your DEX checks used to avoid an attack.
 
 ### Martial Arts
 
@@ -1813,16 +1813,6 @@ Heavy armor reduces any damage assigned to you by LEVEL but hinders your movemen
 
 ...
 
-|||
-|:-|:-|
-|No Armor|AC 10 + DEX|
-|Light Armor|AC 11 + DEX|
-|Medium Armor|AC 16 (STR +1 or greater), Max DEX +2|
-|Heavy Armor|AC 18 (STR +2 or greater)|
-|Shield|+2 AC|
-
-...
-
 ||||
 |:-|:-|:-|
 |**Light Armor**|**Modifiers**|**Cost**|
@@ -1838,10 +1828,6 @@ Heavy armor reduces any damage assigned to you by LEVEL but hinders your movemen
 |**Heavy Armor**|**Modifiers**|**Cost**|
 ||||
 |Full Plate|Disadvantage|12⛁|
-
-Armor listed with disadvantage imposes disadvantage to any ability check used for quick, agile, and stealthy actions while the armor is equipped.
-
-When wearing armor that is listed as having Max DEX +2, your Dexterity modifier can only modify your Armor Class (AC) by a maximum of +2. This means that if you have DEX +3 and you wear medium armor with Max DEX +2, you can only apply a +2 modifier to your AC, and the remaining +1 modifier is ignored.
 
 ### Getting Into and Out of Armor
 You may don or doff armor as part of completing a Rest (Short Rest).
@@ -1910,7 +1896,7 @@ Weapons with special rules are described here.
 
 **_Lance._** You have disadvantage when you use a lance to attack a target within 1 square of you. Also, a lance requires two hands to wield when you aren’t mounted.
 
-**_Net._** A Large or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 STR check, freeing itself or another creature within its reach on a success. Dealing 1 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net.
+**_Net._** A Large or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 STR check, freeing itself or another creature within its reach on a success. Dealing 1 slashing damage to the net (DC 10) also frees the creature without harming it, ending the effect and destroying the net.
 
 When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.
 
@@ -2554,7 +2540,7 @@ You add DEX to your attack roll when attacking with a ranged weapon, such as a s
 
 #### Armor Class
 
-Depending on the armor you wear, you might add some or all of DEX to your Armor Class (AC).
+You use DEX checks to avoid most creature and game feature attacks.
 
 #### Initiative
 
@@ -2858,13 +2844,13 @@ If there’s ever any question whether something you’re doing counts as an att
 
 ## Attack Rolls
 
-When you make an attack, your attack roll determines whether the attack hits or misses. To make an attack roll, roll a d20 and add the appropriate modifiers. If the total of the roll plus modifiers equals or exceeds the target’s Armor Class (AC), the attack hits. The AC of a character is determined at character creation, whereas the AC of a monster is usually determined by encounter type (minion, elite, boss) and LEVEL, though your GM may modify AC values on some monsters.
+When you make an attack, your attack roll determines whether the attack hits or misses. To make an attack roll, roll a d20 and add the appropriate modifiers. If the total of the roll plus modifiers equals or exceeds the target’s DC, the attack hits. The DC of a character is determined by rolling a DEX check, whereas a monster or game feature's DC is usually determined by encounter type (minion, elite, boss) and LEVEL, though your GM may modify DC values on some encounters.
 
 ### Modifiers to the Roll
 
-When a character makes an attack roll, the two most common modifiers to the roll are an ability score and LEVEL. When a monster makes an attack roll, it uses a modifier usually determined by encounter type (minion, elite, boss) and LEVEL. However, your GM may adjust modifiers on some monsters.
+When a character makes an attack roll, the two most common modifiers to the roll are an ability score and LEVEL. When a monster makes an attack roll, it uses a modifier usually determined by encounter type (minion, elite, boss) and LEVEL. However, your GM may adjust modifiers on some encounters.
 
-**Ability Score.** The ability score used for a weapon attack is usually STR or DEX. At character creation, you choose which ability to use. Monsters usually use the larger of the two ability scores for a weapon attack.
+**Ability Score.** The ability score used for a weapon attack is usually STR or DEX. At character creation, players choose which ability their characters use. Once this choice is made, it is permanent. Monsters usually use the larger of the two ability scores for a weapon attack.
 
 Some spells also require an attack roll. The ability score used for a spell attack depends on the spellcasting ability of the spellcaster.
 
@@ -2874,9 +2860,9 @@ Some spells also require an attack roll. The ability score used for a spell atta
 
 Sometimes, circumstances can be favorable or unfavorable to a combatant, causing the novice to hit and the veteran to miss.
 
-If the d20 roll for an attack is a 20, the attack hits regardless of any modifiers or the target’s AC. This is called a critical hit.
+If the d20 roll for an attack is a 20, the attack hits regardless of any modifiers or the target’s DC. This is called a critical hit.
 
-If the d20 roll for an attack is a 1, the attack misses regardless of any modifiers or the target’s AC.
+If the d20 roll for an attack is a 1, the attack misses regardless of any modifiers or the target’s DC.
 
 ### Unseen Attackers and Targets
 
@@ -2952,9 +2938,9 @@ Walls, trees, creatures, and other obstacles can provide cover during combat, ma
 
 There are three degrees of cover. If a target is behind multiple sources of cover, only the most protective degree of cover applies; the degrees aren’t added together. For example, if a target is behind a creature that gives half cover and a tree trunk that gives three‑quarters cover, the target has three‑quarters cover.
 
-A target with **half cover** has a +2 bonus to AC and DEX checks to resist attacks, spells, or game features directed at the target. A target has half cover if an obstacle blocks at least half of its body. The obstacle might be a low wall, a large piece of furniture, a narrow tree trunk, or a creature, whether that creature is an enemy or a friend.
+A target with **half cover** has a +2 bonus to DEX checks to resist attacks, spells, or game features directed at the target. A target has half cover if an obstacle blocks at least half of its body. The obstacle might be a low wall, a large piece of furniture, a narrow tree trunk, or a creature, whether that creature is an enemy or a friend.
 
-A target with **three-quarters cover** has a +5 bonus to AC and DEX checks to resist attacks, spells, or game features directed at the target. A target has three‑quarters cover if about three‑quarters of it is covered by an obstacle. The obstacle might be a portcullis, an arrow slit, or a thick tree trunk.
+A target with **three-quarters cover** has a +5 bonus to DEX checks to resist attacks, spells, or game features directed at the target. A target has three‑quarters cover if about three‑quarters of it is covered by an obstacle. The obstacle might be a portcullis, an arrow slit, or a thick tree trunk.
 
 A target with **total cover** can’t be targeted directly by an attack or a spell, although some spells can reach such a target by including it in an area of effect. A target has total cover if it is completely concealed by an obstacle.
 
@@ -3681,10 +3667,10 @@ Your unarmed strikes deal 1 bludgeoning, piercing, or slashing damage, as approp
 |:-|
 |**Casting Time:** 1 action|
 |**Range:** Touch|
-|**Components:** V, S, M (a handful of oak bark)|
+|**Components:** V, S|
 |**Duration:** Concentration (encounter)|
 ||
-|You touch a willing creature. Until the spell ends, the target’s skin has a rough, bark-­like appearance, and the target’s AC can’t be less than 16, regardless of what kind of armor it is wearing.|
+|You touch a willing creature, granting it Bolster 1. Until the spell ends, the target’s skin has a rough, bark-­like appearance, and the target reduces any damage assigned to it by 1.|
 
 #### Bless
 |_1st-­level enchantment_|
@@ -3825,10 +3811,11 @@ Alternatively, you can make a target indifferent about creatures of your choice 
 |:-|
 |**Casting Time:** 1 action|
 |**Range:** Touch|
+|**Target:** A willing creature who isn't wearing armor|
 |**Components:** V, S|
 |**Duration:** Instantaneous|
 ||
-|You touch a willing creature who isn’t wearing armor. The target equips a weightless and protective magical suit of armor, which grants the target AC 13. The protection granted by this spell ends upon Recall, when the target dons armor, or if you dismiss the spell as an action.|
+|You touch a willing creature who isn’t wearing armor. The target equips a weightless and protective magical suit of light armor, allowing the target to add your spellcasting ability score to DEX checks to avoid a creature or game feature's attack. The magical suit of armor and the protection granted by this spell ends on Recall, when the target equips armor, equips a shield, or if you dismiss the spell as an action.|
 
 ### Spells (N)
 
@@ -3888,7 +3875,6 @@ Alternatively, you can make a target indifferent about creatures of your choice 
 
 |   |**Minion**|**Elite**|**Boss**|
 |--:|:--------:|:-------:|:------:|
-|**Armor Class (AC)**|12|13|14|
 |**Difficulty Class (DC)**|12|13|14|
 |**Bonus**|+2|+3|+4|
 |**Damage**|1|1|1|
@@ -3905,9 +3891,7 @@ Some creature minions have the critter tag. Critters are typically tiny or small
 
 **LEVEL.** The current level of play.
 
-**Armor Class (AC).** If the PCs take action against an encounter resulting in a melee or ranged attack, they must hit an AC equal to this number to succeed.
-
-**Difficulty Class (DC).** If an encounter requires an ability check, set the DC to this number.
+**Difficulty Class (DC).** If an encounter attack or game feature requires an ability check, set the DC to this number. If the PCs take action against an encounter resulting in a melee or ranged attack, they must hit a DC equal to this number to succeed.
 
 **Bonus.** If any part of an encounter relies on a modifier to a d20 roll, it uses this number as the modifier. An encounter may list one or more ability scores with bonuses in its description. If the encounter rolls an ability check with one of the listed ability scores, add its corresponding bonus to the result.
 
@@ -3921,12 +3905,11 @@ If an encounter relies on a passive bonus, determine the passive bonus by adding
 
 ## Customizing Encounters
 
-The encounter statistics provided represent average values. Any number of statistics may be increased by up to +(LEVEL), provided the same amount decreases another statistic. Only stats used in an encounter can be customized. For example, during a level 1 monster encounter, the GM increases an awakened shrub minion's AC by +1. The cost of increasing the minion's AC is paid by the GM choosing to decrease the awakened shrub minion's attack modifier by -1. In this example, the GM couldn't decrease the DC stat by -1 because the awakened shrub minion doesn't possess a stat using a DC. However, if the encounter includes a condition or effect requiring an ability check to resist, the DC stat can be decreased by -1.
+The encounter statistics provided represent average values. Any number of statistics may be increased by up to +(LEVEL), provided the same amount decreases another statistic. Only stats used in an encounter can be customized. For example, during a level 1 monster encounter, the GM increases an elite awakened shrub's DC by +1. The cost of increasing the minion's DC is paid by decreasing its attack modifier by -1. However, the GM cannot choose to pay for this increase by decreasing its forced movement by -1 because the elite doesn't have a game feature using forced movement.
 
 A minion's MAX wounds and damage cannot be customized.
 
 Encounter elements cannot be reduced below the following values:
-- **AC** 12 (minion), 13 (elite), 14 (boss)
 - **Damage** 1
 - **DC** 12 (minion), 13 (elite), 14 (boss)
 - **Speed** 2
