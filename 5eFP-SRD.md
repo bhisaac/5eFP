@@ -1776,22 +1776,20 @@ PCs may choose to create a magic item marketplace by unlocking this building thr
 **Trade Goods.** On the borderlands (the world map tiles furthest from HQ), many people conduct transactions through barter. Trade goods—bars of iron, bags of salt, livestock, and so on—retain their full value in the market and can be used as currency. You may spend 1 or more trade goods as if they were an equivalent amount of ⛁ within the level 3 and level 6 areas. Spent trade goods are sent to the equipment discard pile.
 
 ## Armor
-Fantasy gaming worlds are a vast tapestry made up of many different cultures, each with its own technology level. For this reason, adventurers have access to a variety of armor types, ranging from leather armor to chain mail to costly plate armor, with several other kinds of armor in between. The Armor table collects the most commonly available types of armor found in the game and separates them into four categories: cloth, leather, chain, and plate. Many warriors supplement their armor with a shield.
+
+Fantasy gaming worlds are a vast tapestry made up of many different cultures, each with its own technology level. For this reason, adventurers have access to a variety of armor types, ranging from leather armor to chain mail to costly plate armor, with several other kinds of armor in between. The Armor table collects the most commonly available types of armor found in the game and separates them into three categories: light armor, medium armor, and heavy armor. Many warriors with medium or heavy armor proficiency supplement their armor with a shield.
 
 The Armor table shows the cost, weight, and other properties of the common types of armor worn in fantasy gaming worlds.
 
-***Armor Proficiency.*** Anyone can put on a suit of armor or strap a shield to an arm. Only those proficient in the armor’s use know how to wear it effectively, however. Your class gives you proficiency with certain types of armor. If you wear armor that you lack proficiency with, you have disadvantage on any ability check or attack roll that involves STR or DEX, and you can’t cast spells.
+***Armor Proficiency.*** Anyone can put on a suit of armor or strap a shield to an arm. Only those proficient in the armor’s use know how to wear it effectively, however. Your class gives you proficiency with certain types of armor. Medium and heavy armor proficiency also grants proficiency with shields. If you wear armor that you lack proficiency with, you have disadvantage on any ability check or attack roll that involves STR or DEX, and you can’t cast spells.
 
-***Armor Class (AC).*** Armor protects its wearer from attacks. The armor (and shield) you wear determines your AC.
+***Most weapon attacks and some spells or game features attack your DEX score.*** Whenever you are attacked, make a DEX check with a DC equal to the creature or game feature’s attack roll to avoid the attack. The armor (and shield) you wear can reduce incoming damage if an attack successfully hits you. An attack may target a different ability score. Apply the same rules, using the other ability score.
 
-***Heavy Armor.*** Heavier armor interferes with the wearer’s ability to move quickly, stealthily, and freely. If the Armor table shows “Str +1” or “Str +2”, the armor reduces the wearer’s speed by 2 squares unless the wearer has a STR score equal to or higher than the listed score.
-
-***Stealth.*** If the Armor table shows “Disadvantage”, the wearer has disadvantage on DEX checks.
-
-***Shields.*** A shield is made from wood or metal and is carried in one hand. Wielding a shield increases your Armor Class by 2. You can benefit from only one shield at a time.
+***Shields.*** A shield is made from wood or metal and requires a free hand to equip. Wielding a shield allows you to deal 1 point of bludgeoning damage on a successful shove. Once per encounter, when damage is dealt to you while you have a shield equipped, you may spend your reaction to use your shield to reduce that damage by 1.
 
 ### Light Armor
-Made from supple and thin materials, light armor favors agile adventurers since it offers some protection without sacrificing mobility. If you wear light armor, you add your DEX to your Armor Class.
+
+Made from supple and thin materials, light armor favors agile adventurers since it offers some protection without sacrificing mobility, reducing any assigned minion damage dealt to you by 1.
 
 ***Padded.*** Padded armor consists of quilted layers of cloth and batting.
 
@@ -1800,13 +1798,17 @@ Made from supple and thin materials, light armor favors agile adventurers since 
 ***Studded Leather.*** Made from tough but flexible leather, studded leather is reinforced with close-­set rivets or spikes.
 
 ### Medium Armor
-Medium armor offers more protection than light armor, but it also impairs movement more. If you wear medium armor, you add your DEX, to a MAX DEX of +2, to your Armor Class.
+
+Medium armor offers more protection than light armor but also impairs movement more. If you wear medium armor, you reduce any assigned damage dealt to you by 1 and gain Bolster 1 at the start of an encounter. Medium armor imposes disadvantage on DEX checks while equipped.
 
 ***Breastplate.*** This armor consists of a fitted metal chest piece worn with supple leather. Although it leaves the legs and arms relatively unprotected, this armor provides good protection for the wearer’s vital organs while leaving the wearer relatively unencumbered.
 
 ***Chain Mail.*** Made of interlocking metal rings, chain mail includes a layer of quilted fabric worn underneath the mail to prevent chafing and to cushion the impact of blows. The suit includes gauntlets.
 
 ### Heavy Armor
+
+Heavy armor reduces any damage assigned to you by LEVEL but hinders your movement, decreasing your speed by 2 squares unless your Strength is +2 or higher. Once per encounter, when an attack critically hits you while wearing heavy armor, you can treat it as a regular hit.
+
 ***Plate.*** Plate consists of shaped, interlocking metal plates to cover the entire body. A suit of plate includes gauntlets, heavy leather boots, a visored helmet, and thick layers of padding underneath the armor. Buckles and straps distribute the weight over the body.
 
 ...
