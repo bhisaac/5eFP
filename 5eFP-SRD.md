@@ -1799,7 +1799,7 @@ Made from supple and thin materials, light armor favors agile adventurers since 
 
 ### Medium Armor
 
-Medium armor offers more protection than light armor but also impairs movement more. If you wear medium armor, you reduce any assigned damage dealt to you by 1 and gain Bolster 1 at the start of an encounter. Medium armor imposes disadvantage on DEX checks while equipped.
+Medium armor offers more protection than light armor but also impairs movement more. Medium armor reduces any damage dealt to you by 1 and grants Bolster 1 at the start of an encounter, but the wearer has disadvantage on DEX checks related to moving silently.
 
 ***Breastplate.*** This armor consists of a fitted metal chest piece worn with supple leather. Although it leaves the legs and arms relatively unprotected, this armor provides good protection for the wearer’s vital organs while leaving the wearer relatively unencumbered.
 
@@ -1807,7 +1807,7 @@ Medium armor offers more protection than light armor but also impairs movement m
 
 ### Heavy Armor
 
-Heavy armor reduces any damage assigned to you by LEVEL but hinders your movement, decreasing your speed by 2 squares unless your Strength is +2 or higher. Once per encounter, when an attack critically hits you while wearing heavy armor, you can treat it as a regular hit.
+Heavy armor decreases damage taken by LEVEL, but hinders movement, reducing your speed by 2 squares unless your STR is +2 or higher. Additionally, the wearer has disadvantage on DEX checks related to moving silently. Once per encounter, when an attack critically hits you while wearing heavy armor, you can treat it as a regular hit.
 
 ***Plate.*** Plate consists of shaped, interlocking metal plates to cover the entire body. A suit of plate includes gauntlets, heavy leather boots, a visored helmet, and thick layers of padding underneath the armor. Buckles and straps distribute the weight over the body.
 
