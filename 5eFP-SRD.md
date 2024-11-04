@@ -2555,9 +2555,9 @@ After you Recall back to HQ, each player spends one or more rounds of downtime. 
 
 Your first downtime round is free. You can purchase more rounds of downtime by spending ⛁ for each additional round.
 
-If your character dies during Recall, HQ healers cast _gentle repose_ on your remains and transport them to a holding room within the crypt or morgue. In this room, players decide what to do next with the deceased character. The player whose character died can choose whether to retire the character or take other actions.
+If your character Recalls dead, HQ healers cast _gentle repose_ on your remains and transport them to a holding room within the crypt or morgue. In this room, players decide what to do next with the deceased character. The player whose character died can choose whether to retire the character or take other actions.
 
-When a character retires, healers conduct a funeral service, and the character will be added to the crypt. The player can continue playing the sidekick or create a new character. They may also revive the deceased character if they can afford the revival cost, which all players can contribute to.
+When a character retires, healers conduct a funeral service, and the character will be added to the crypt. The player can continue playing the sidekick or create a new character. They may also spend a downtime round reviving the deceased character if they can afford the revival cost, which all players can contribute to.
 
 Dead characters cannot benefit from downtime rounds until they are revived or healed.
 
