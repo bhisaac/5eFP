@@ -25,7 +25,9 @@ _**Practice.**_ Focus alone isn't enough. Results require real doing through reg
 
 # A New Way to Play
 
-5eFP is different from other TRPGs. While many of its game features are based on the D20 fifth edition rules, 5eFP's versions are simplified and restructured to create a new set of rules outlined in this section. These rules were created to promote a game that can be set up and taken down like a board game and as a modular game whose pieces can be used repeatedly and consistently. Players will find that the action revolves around a typical in-game day, which begins after gaining the benefits of a long rest and involves choosing and deploying onto the world map to complete game objectives. GMs and PCs are strongly encouraged to review the 5eFP game differences before moving on to other sections, such as character creation or creating a setting handbook.
+5eFP is different from other TRPGs. While many of its game features are based on the D20 fifth edition rules, 5eFP's versions are simplified and restructured to create a new set of rules outlined in this section. These rules were created to promote a game that can be set up and taken down like a board game and as a modular game whose pieces can be used repeatedly and consistently.
+
+Players will find that the action revolves around a typical in-game day, which begins after gaining the benefits of a long rest and involves choosing and deploying onto the world map to complete game objectives. GMs and PCs are strongly encouraged to review the 5eFP game differences before moving on to other sections, such as character creation or creating a setting handbook.
 
 ## Game Terms
 
@@ -2128,7 +2130,27 @@ All 5eFP games follow the same rules framework. Elements of a 5eFP game include 
 
 Footholds are points of interest within a world map tile wherein the forces opposing the PCs form an encounter. Unexplored world map tiles contain 5 randomly located footholds. In order to consider a world map explored, the PCs must first discover and resolve 3 footholds.
 
-## Downtime
+## Downtime and Ending a Game Session
+
+After you Recall back to HQ, each player spends one or more rounds of downtime. If you spend ⛁ on rest and repairs during a downtime round, it gains an extended rest of at least 8 hours for sleeping or light activities. Once completed, your gear is repaired, and you discard any wounds.
+
+You may use 1 or more rounds of downtime. You may spend ⛁ for each additional downtime round.
+
+If your character dies during Recall, HQ healers cast _gentle repose_ on your remains and transport them to a holding room within the crypt. In this room, players decide what to do next with the deceased character. The player whose character died can choose whether to retire the character or take other actions.
+
+When a character retires, healers conduct a funeral service, and the character will be added to the crypt. The player can continue playing the sidekick or create a new character. They may also revive the deceased character if they can afford the revival cost, which all players can contribute to.
+
+Dead characters cannot benefit from downtime rounds until they are revived or healed.
+
+A character who recalls stabilized at MAX Wounds may only spend a round of downtime to discard 1 wound, which revives the character. Once revived, the character can then spend ⛁ to add additional rounds of downtime.
+
+Once you have finished spending your downtime rounds, you declare this by stating that you "pass." When all players have passed on their downtime rounds, they restore and reset any expended class resources or game features on their character sheets, including spell slots that have been used.
+
+GMs and players then spend 5 minutes on unstructured downtime for self-reflection. During this downtime, activities can include resting, taking a break, journaling, drawing, or reflecting on the gaming experience. Following this period of self-reflection, there is a 25-minute group-sharing session conducted using talking stick rules.
+
+When a player wishes to speak, they pick up the talking stick. If the talking stick is unavailable because someone else is using it, the player must wait until it is available. The player holding the talking stick has the floor and may speak without others speaking, interrupting, or crosstalking. The player holding the talking stick can ask for feedback, which will temporarily lift the restriction on speaking. Once a player has finished sharing, they can pass the talking stick to the next player who wants to contribute or place it in the center of the sharing space.
+
+GMs facilitate the sharing, allowing all players to speak first. With permission, they may step into a player's sharing to help them understand 5eFP concepts and subtleties but otherwise remain silent and receptive witnesses. Questions about 5eFP mechanics and features are reserved after everyone has shared. GMs are encouraged to limit sharing to a minimum and only share what it was like to run the game session. The game session is mainly an opportunity for players to share their experiences with peers (GMs are only peers with other GMs) and integrate what arises into their real lives. The game session ends once the sharing is complete.
 
 ## Deploy
 
@@ -2715,27 +2737,19 @@ TBA
 
 # Resting
 
-TBA
+Heroic though they might be, adventurers can’t spend every hour of the day in the thick of exploration, social interaction, and combat. They need rest—time to sleep and eat, tend their wounds, refresh their minds and spirits for spellcasting, and brace themselves for further adventure.
 
-## Rest (Short Rest)
+Adventurers can rest in the midst of an adventuring day.
 
-A rest is a period of downtime, typically 1 hour long, during which a character does nothing more strenuous than eating, drinking, reading, and tending to wounds.
+## Rest
 
-PCs can discard a number of wounds equal to their level at the end of a short rest.
+A rest is a period of downtime, at least 1 hour long, during which a character does nothing more strenuous than eating, drinking, reading, and tending to wounds.
 
-## Recall (Long Rest)
+PCs receive a number of points of healing equal to LEVEL at the end of a rest.
 
-A recall occurs at the end of a game session once all adventure objectives have been completed or if the mission fails. Once you recall, you cannot do so again until the next game session. Immediately following a recall is a period of extended downtime.
+## Resting at HQ
 
-If you spend coin on rest and repairs, this downtime includes an extended rest, typically at least 8 hours long, during which a character sleeps or performs light activities. You discard any wounds you may have after completing this extended rest.
-
-You may use 1 or more rounds of downtime after you recall. Additional rounds of downtime cost 1 coin each.
-
-A character who recalls dead cannot gain any benefits from a recall until revived or healed.
-
-A character who recalls stabilized at MAX Wounds may only spend a round of downtime to discard 1 wound, which revives the character. Once revived, the character can then spend additional coin on rest and repairs or unlock additional rounds of downtime by spending an extra coin for each.
-
-Once a recall and all rounds of downtime are completed, you restore any class resources limited by a recall, including any expended spell slots, reset all recall effects and features, and the game session ends.
+After you Recall back to HQ, each player spends one or more rounds of downtime. If you spend ⛁ on rest and repairs, your downtime includes an extended rest, typically at least 8 hours long, during which a character sleeps or performs light activities. You receive enough healing to discard any wounds you may have after completing this extended rest.
 
 # Adventuring
 
