@@ -63,9 +63,35 @@ A foothold is a concentrated local event related to the conflict detailed in you
 
 A foothold is a region on the world map containing an encounter that challenges the PCs somehow. The GM draws or rolls for a story element from the direction the PCs are exploring, continuing to draw and roll story elements until revealing an encounter. PCs choose and add one story element to the encounter from those revealed, discarding any remaining story elements. If the PCs encounter a foothold while exploring a hybrid tile, they keep two story elements (one from each adjacent direction) instead of picking only one story element.
 
+~~Footholds are points of interest within a world map tile wherein the forces opposing the PCs form an encounter. Unexplored world map tiles contain 5 randomly located footholds. In order to consider a world map explored, the PCs must first discover and resolve 3 footholds.~~
+
 ### Headquarters (HQ)
 
 Each world map has a headquarters, usually located at the center of the world map. HQ represents the central organization or organizing force responsible for maintaining the health and security of the game world or region. All PCs are peers and colleagues within this organization. You are objectively safe from the conflict at HQ, provided HQ's upkeep costs are maintained (see _Setting Handbook_ below).
+
+Headquarters (HQ) is a centralized organization to which all player characters (PCs) belong within a 5eFP campaign setting. HQ might be a city, a settlement, an outpost, a watch tower, a ship, or a station. All HQs have a dedicated society of supporters who help PCs complete HQ missions and guarantee safety and protection from whatever awaits beyond HQ's borders, provided PCs pay HQ's upkeep cost. See your setting handbook for more details on HQ upkeep costs. Most HQs are immobile and located at the center of the world map. PCs almost always begin and end a game at HQ.
+
+HQs sometimes create satellite locations within the world map. Each satellite behaves as if it were HQ with different downtime options, and you may deploy to a satellite location at the start of your downtime round. Satellite locations are less secure than HQ but remain relatively safe and protected, provided PCs meet HQ's upkeep costs. Local circumstances, conditions, and disturbances can affect the safety and protection offered by HQ. A temporary suspension of HQ protection results in PCs losing the ability to rest and repair. Coins spent on rest and repairs are lost during these circumstances. 
+
+HQ usually remains in one static location while PCs deploy on missions outward from the world map's center. However, some HQs relocate on the world map while other HQs have movable tokens representing a deployable vehicle or station with sufficient life support. Deployable HQ tokens function identically to static HQ world map tiles.
+
+#### Game Session Start
+
+Unless stated otherwise, you always begin the game at HQ.
+
+You begin the game by revealing the HQ world map tile to all players. Place the HQ tile at the world map center tile position, reading any read-aloud text listed in your setting handbook for the start of the game.
+
+#### Game Session End
+
+Unless stated otherwise, you always end the game at HQ. The following occurs when PCs return to HQ:
+1. All ongoing encounter powers, abilities, and features end.
+2. PCs may pay 1 Coin for rest and repairs.
+3. PCs take one downtime round (worker placement) by placing their token on a building within HQ (or linked through HQ at a satellite location).
+4. PCs gain the benefits of completing a long rest.
+
+### Deploy
+
+A group of PCs deploy to a designated world map tile simultaneously. Deployment starting location on an unexplored world map tile is randomized. During a round of downtime, PCs may deploy on their own to an explored location on the world map without determining a random starting location.
 
 ### Fast Travel
 
@@ -74,6 +100,20 @@ Each world map has a headquarters, usually located at the center of the world ma
 ### Recall
 
 PCs are transported back to HQ after performing a Recall ritual outside of an encounter. PCs automatically Recall 8 hours after deploying onto the world map.
+
+When PCs in a group are finished with their objectives, they may recall back to the HQ map room at any time by performing a special ritual that can only be completed outside of an encounter. Once one or more PCs complete a recall ritual, all PCs in the group recall simultaneously, returning to the HQ map room. The nature of how PCs recall depends on the game world you are playing in, which is detailed in your setting handbook. PCs automatically recall if they haven't already done so after 8 hours.
+
+~~Once deployed, PCs in a group may recall back to the headquarters (HQ) map room at any time by performing a special ritual that can only be completed outside of an encounter. Once one or more PCs complete a recall ritual, all PCs in the group recall simultaneously. After 8 hours have elapsed while deployed, any PC not currently located at HQ is automatically recalled. A PC may only recall once per game session.~~
+
+> For Game Masters: How do the PCs recall?
+> 
+>> What technology does the game use to make this happen? Teleportation? Airlifting? Shuttles? Flying mounts?
+>>
+>> For example, in Enchanted Forest, the PCs use mystic skipping stone artifacts gifted to them when they graduate as a Queen's Herald. The stones are powerful magic items that cannot be destroyed. Each stone is unique and bonded to exactly one PC. PCs and their bonded stones simultaneously recall to HQ.
+>>
+> For Game Masters: Why do the PCs recall automatically after 8 hours?
+> 
+>> A condition or situation afflicts the world map. This condition or situation makes prolonged contact impossible or lethal. What's going on in your world map that explains this limit? For example, in Enchanted Forest, the Enchantress Queen can only keep the PCs safe from the Nightmare for up to 8 hours once the PCs have deployed. Keeping PCs safe from the Nightmare for 8 hours consumes 1 starflower. The Enchantress Queen must then finish a long rest before undertaking another deployment.
 
 ### Setting Handbook
 
@@ -2118,224 +2158,6 @@ Torch. A torch burns for 1 hour, providing bright light in a 20-­‐‑foot rad
 |Tinderbox||||
 |Whetstone||||
 
----
-
-(Floating Section)
-
-# The 5eFP Framework
-
-All 5eFP games follow the same rules framework. Elements of a 5eFP game include the following.
-
-## Footholds
-
-Footholds are points of interest within a world map tile wherein the forces opposing the PCs form an encounter. Unexplored world map tiles contain 5 randomly located footholds. In order to consider a world map explored, the PCs must first discover and resolve 3 footholds.
-
-## Deploy
-
-A group of PCs deploy to a designated world map tile simultaneously. Deployment starting location on an unexplored world map tile is randomized. During a round of downtime, PCs may deploy on their own to an explored location on the world map without determining a random starting location.
-
-## Fast Travel
-
-Once a destination is revealed and set on the world map, PCs may choose and deploy to it instantly without random encounters.
-
-> For Game Masters: Why is deployment Randomized?
->> 
->> Come up with a reason that fits the story. For example, in Enchanted Forest, PCs use mystic skipping stones to fast travel to unexplored world map tiles. The stones are imprecise in where they land. This is a good reason why it is randomized. Others include getting lost, uncertainty, strong currents, resistance, or interference.
->>
-> Variant Rules: Add Random Encounters
->>
->> GMs can add random encounters to a game by assigning up to five random encounters as footholds in an unexplored world map tile. When PCs encounter a foothold, they draw and resolve a creature encounter instead of drawing a story card until all random encounters are completed.
-
-## Recall
-
-When PCs in a group are finished with their objectives, they may recall back to the HQ map room at any time by performing a special ritual that can only be completed outside of an encounter. Once one or more PCs complete a recall ritual, all PCs in the group recall simultaneously, returning to the HQ map room. The nature of how PCs recall depends on the game world you are playing in, which is detailed in your setting handbook. PCs automatically recall if they haven't already done so after 8 hours.
-
-~~Once deployed, PCs in a group may recall back to the headquarters (HQ) map room at any time by performing a special ritual that can only be completed outside of an encounter. Once one or more PCs complete a recall ritual, all PCs in the group recall simultaneously. After 8 hours have elapsed while deployed, any PC not currently located at HQ is automatically recalled. A PC may only recall once per game session.~~
-
-> For Game Masters: How do the PCs recall?
-> 
->> What technology does the game use to make this happen? Teleportation? Airlifting? Shuttles? Flying mounts?
->>
->> For example, in Enchanted Forest, the PCs use mystic skipping stone artifacts gifted to them when they graduate as a Queen's Herald. The stones are powerful magic items that cannot be destroyed. Each stone is unique and bonded to exactly one PC. PCs and their bonded stones simultaneously recall to HQ.
->>
-> For Game Masters: Why do the PCs recall automatically after 8 hours?
-> 
->> A condition or situation afflicts the world map. This condition or situation makes prolonged contact impossible or lethal. What's going on in your world map that explains this limit? For example, in Enchanted Forest, the Enchantress Queen can only keep the PCs safe from the Nightmare for up to 8 hours once the PCs have deployed. Keeping PCs safe from the Nightmare for 8 hours consumes 1 starflower. The Enchantress Queen must then finish a long rest before undertaking another deployment.
-
-## Headquarters (HQ)
-
-Headquarters (HQ) is a centralized organization to which all player characters (PCs) belong within a 5eFP campaign setting. HQ might be a city, a settlement, an outpost, a watch tower, a ship, or a station. All HQs have a dedicated society of supporters who help PCs complete HQ missions and guarantee safety and protection from whatever awaits beyond HQ's borders, provided PCs pay HQ's upkeep cost. See your setting handbook for more details on HQ upkeep costs. Most HQs are immobile and located at the center of the world map. PCs almost always begin and end a game at HQ.
-
-HQs sometimes create satellite locations within the world map. Each satellite behaves as if it were HQ with different downtime options, and you may deploy to a satellite location at the start of your downtime round. Satellite locations are less secure than HQ but remain relatively safe and protected, provided PCs meet HQ's upkeep costs. Local circumstances, conditions, and disturbances can affect the safety and protection offered by HQ. A temporary suspension of HQ protection results in PCs losing the ability to rest and repair. Coins spent on rest and repairs are lost during these circumstances. 
-
-HQ usually remains in one static location while PCs deploy on missions outward from the world map's center. However, some HQs relocate on the world map while other HQs have movable tokens representing a deployable vehicle or station with sufficient life support. Deployable HQ tokens function identically to static HQ world map tiles.
-
-## World Map
-- Map size: 14 squares by 14 squares
-- Scale: 1 square equals 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters
-- Contains: (9) 2x2 world map tiles for each cardinal direction, (3) 2x2 world map tiles for each ordinal (hybrid) direction, and (1) 2x2 HQ tile
-
-Draw clear boundaries around each world map tile (use a grid). Hybrid tiles: draw a dashed diagonal line from one corner of the world map tile to its opposite corner in a color that will stand out. This dashed line represents the road or highway. World map tiles containing a highway are considered hybrid. While exploring hybrid tiles, players draw and play story cards from adjacent story directions simultaneously.
-
-The world map begins obscured. After choosing or creating the world map, place obscuring world map tiles over it. The nature of this obscurity is detailed in your setting handbook. The HQ (headquarters) tile is the only one not obscured at the beginning of the game. The HQ tile is placed at the map's center position. Obscuring world map tiles are removed whenever the PCs explore the world map tile it obscures. The following procedure must be completed to explore a world map tile:
-
-- Explore 55% or more of the map.
-- Find and resolve 3 footholds.
-- Locate an item or perform an action according to the setting handbook.
-
-Steps taken for world map deployment.
-1. **Preview.** Druids and rangers receive a special bonus round. Each druid and ranger PC, in initiative order, may choose one unexplored world map tile within the current level of play and preview its terrain by temporarily removing its obscuring world map tile. Once finished, the player then returns the obscuring world map tile back to its original position.
-2. **Selection.** The PCs, as a group, choose a cardinal or ordinal direction and trace a path from the HQ tile along the map until an obscured world map tile is encountered within the current level of play. This becomes the selected world map tile.
-3. **Prepare.** Players may choose to spend 1 round of preparation before deploying. See "Preparation."
-4. **Setup.** Place an empty (22 x 22) exploration map beside the world map. Roll a d20 onto the exploration map before placing any tiles and note the location of where the dice lands. This determines the starting position for the PCs.
-5. **Deploy.** The GM reveals the starting map tile on the exploration map at the starting position determined in the previous step, placing the group token onto it.
-6. **Choose Party Token Controller.** PCs appoint one player as the group token controller. This player can be the party leader, but this is not required. The PC with the most overland movement bonuses is typically the group token controller. Some background, species, and class features provide significant bonuses while controlling the group token during the exploration phase.
-7. **Move the group token.** The group token controller moves the token, lifting any obscuring tiles encountered along the way. Removing an obscuring tile may reveal one of several potential world map features called footholds:
-    - Dungeons
-    - Creatures
-    - Villages or settlements
-    - Buildings
-    - Treasures
-    - Traps
-    - Specific features or items necessary for completion as outlined in your setting handbook.
-
-# Exploration Map
-
-# Encounter Map
-
-# Headquarters (HQ)
-
-Headquarters (HQ) represents the core organization(s) that all player characters (PCs) belong to within a 5eFP campaign setting. HQ can be an organization, a settlement, an outpost, a watch tower, a ship, or a station. All HQs have a dedicated society of supporters who help PCs complete HQ missions and guarantee safety and protection from whatever awaits beyond HQ's borders, provided PCs pay HQ's upkeep cost. See your setting handbook for more details on HQ upkeep costs.
-
-HQ usually remains in one static location while PCs deploy on missions outward from the world map's center. However, some HQs relocate on the world map while other HQs have movable tokens representing a deployable vehicle or station with sufficient life support. Deployable HQ tokens function identically to static HQ world map tiles.
-
-Sometimes HQs create satellite locations within the world map. Treat satellite locations as extensions of HQ. PCs can spend their downtime in HQ or within one of HQ's satellite locations, which may provide alternative benefits. Satellite locations are less secure than HQ, but remain relatively safe and protected, provided PCs meet HQ's upkeep costs. Local circumstances, conditions, and disturbances can affect the safety and protection offered by HQ. A temporary suspension of HQ protection results in PCs losing the ability to rest and repair. Coins spent on rest and repairs are lost during these circumstances.
-
-## Game Session Start
-
-Unless stated otherwise, you always begin the game at HQ.
-
-You begin the game by revealing the HQ world map tile to all players. Place the HQ tile at the world map center tile position, reading any read-aloud text listed in your setting handbook for the start of the game.
-
-## Game Session End
-
-Unless stated otherwise, you always end the game at HQ. The following occurs when PCs return to HQ:
-1. All ongoing encounter powers, abilities, and features end.
-2. PCs may pay 1 Coin for rest and repairs.
-3. PCs take one downtime round (worker placement) by placing their token on a building within HQ (or linked through HQ at a satellite location).
-4. PCs gain the benefits of completing a long rest.
-
-# Between Adventures
-
-After PCs recall, they each gain 1 round of downtime. PCs resolve their downtown rounds in initiative order. At the start of a PC's downtime round, they place their character token on an available space in HQ. At the end of the round, PCs gain any end-of-turn benefits associated with their chosen downtime location (see below).
-
-## HQ
-
-While at HQ, the following downtime options become available.
-
-- Spend any amount of ⛁ on HQ upgrades.
-- Spend any amount of ⛁ on HQ research.
-- **Research.** Spend ⛁ and choose one from feature, item, location, or lore. Add the chosen research to the list of available HQ research. By default, research requires five coins to complete. When the research is complete, the PCs decide what is learned, revealing 1 new piece of information about the nature of the research. If it is determined that more than 1 piece of information can be gained through research, the PCs must begin and complete new research for each additional piece of information. Completing research on a feature upgrades gameplay, making the feature playable.
-
-### Level 1 HQ Upgrades
-
-- Buildings (10⛁)
-
-### HQ Research
-
-## Expanded Downtime Locations
-
-The following locations offer expanded downtime options but must first be unlocked through upgrades or research. Unless stated otherwise, a building becomes unlocked when PCs complete the Buildings HQ upgrade.
-
-### Docks
-
-**Unlock.** Gain access to the docks by discovering the world map tile containing the docks symbol.
-
-Downtime options:
-
-- Spend any number of ⛁ on HQ's docks research upgrades.
-- You and up to 4 additional PCs spend ⛁ to gain passage onboard a ship at HQ's docks. PCs on a ship resolve their downtime together once they board and move the ship.
-
-### Market
-
-### Temple
-
-**Unlock.** In addition to the normal way of gaining access to the temple, unlock this location when one or more PCs choose the acolyte background.
-
-The following downtime options are available at the temple.
-- Spend (1) herbs to get (1) healing potion.
-- Spend ⛁ to cast *lesser restoration*.
-- Spend 5⛁ to cast *greater restoration*.
-- Spend 25⛁ coins to cast *raise dead* on a fallen ally.
-
-### Manor
-
-### Barracks
-
-### Forge
-
-### Refugee Camps
-
-### Firing Range
-
-### Monument
-
-### Tower
-
-### Enclave
-
-### Mystic Jeweler
-
-### Library
-
-### Guild
-
-## Spending Coin
-After the conclusion of a game session, players take 1 or more rounds of downtime. At the start of the downtime phase, PCs each roll a d20, adding the number of coins they currently have as a modifier. This number represents their downtime initiative. Each rolls a d20 and adds the number of Coins they currently have. This is called the downtime initiative, or just initiative.
-
-## Downtime Activities
-Whenever a PC chooses a specific downtime activity, it cannot be chosen again until the beginning of the next round of downtime. During a round of downtime, a PC can perform the following actions:
-
-- **1 Action.** Choose and gain the benefit of 1 downtime activity.
-- **1 Reaction.** You have one reaction during a round of downtime. Once you use your reaction, you cannot do so again until the beginning of the next round of downtime.
-- **1 Bonus Action.** You may perform one bonus action during a round of downtime.
-- **1 Object Interaction.** You may equip or unequip items.
-
-### Crafting
-Choose this option to create items used in the game.
-
-You can craft nonmagical objects, including adventuring equipment and works of art. You must be proficient with tools related to the object you are trying to create (typically artisan’s tools). You might also need access to special materials or locations necessary to create it. For example, someone proficient with smith’s tools needs a forge in order to craft a sword or suit of armor.
-
-For every round of downtime you spend crafting, you can craft one item. The cost of creating some items requires spending more than one downtime round.
-
-Multiple characters can combine their efforts toward the crafting of a single item, provided that the characters all have the relevant tools equipped and are working together in the same place. Each additional character contributes +1 downtime round toward crafting the item. For example, three characters with the requisite tool proficiency and the proper facilities contribute +3 downtime rounds toward crafting a suit of plate armor. Crafting plate armor requires 6 rounds of downtime.
-While crafting, you can maintain a modest lifestyle without having to pay 1 gp per day, or a comfortable lifestyle at half the normal cost.
-
-Whenever you choose the crafting downtime activity, you can choose to create any 1 of the following items, provided you meet the prerequisites:
-
-**Healing Potion.** You create a minor healing potion.
-- (a) herbalism kit equiped and (b) 1 herbs trade good equipped, or (a) healer class
-
-**Holy Water.** You create holy water.
-- healer class or
-- (a) acolyte bakground and (b) temple building
-
-**Trade Goods.** You harvest, gather, or forge trade goods. Remove 1 trade good from your inventory: gain +1 round of downtime activity. Required:
-- (a) guild artisan background and (b) artisan guildhall building, or
-- (a) 1 trade good in your inventory and (b) the relevant tool is equipped
-
-**.**
-
-### Recuperating
-
-
-### Researching
-
-
-### Training
-
----
-
 # Feats
 
 A feat represents a talent or an area of expertise that gives a character special capabilities. It embodies training, experience, and abilities beyond what a class provides.
@@ -2749,7 +2571,113 @@ When a player wishes to speak, they pick up the talking stick. If the talking st
 
 GMs facilitate the sharing, allowing all players to speak first. With permission, they may step into a player's sharing to help them understand 5eFP concepts and subtleties but otherwise remain silent and receptive witnesses. Questions about 5eFP mechanics and features are reserved after everyone has shared. GMs are encouraged to limit sharing to a minimum and only share what it was like to run the game session. The game session is mainly an opportunity for players to share their experiences with peers (GMs are only peers with other GMs) and integrate what arises into their real lives. The game session ends once the sharing is complete.
 
-## End of Game Session
+## Downtime Rounds
+
+After PCs recall, they each gain 1 round of downtime. PCs resolve their downtown rounds in initiative order. At the start of a PC's downtime round, they place their character token on an available space in HQ. At the end of the round, PCs gain any end-of-turn benefits associated with their chosen downtime location (see below).
+
+While at HQ, the following downtime options become available.
+
+- Spend any amount of ⛁ on HQ upgrades.
+- Spend any amount of ⛁ on HQ research.
+- **Research.** Spend ⛁ and choose one from feature, item, location, or lore. Add the chosen research to the list of available HQ research. By default, research requires five coins to complete. When the research is complete, the PCs decide what is learned, revealing 1 new piece of information about the nature of the research. If it is determined that more than 1 piece of information can be gained through research, the PCs must begin and complete new research for each additional piece of information. Completing research on a feature upgrades gameplay, making the feature playable.
+
+### Level 1 HQ Upgrades
+
+- Buildings (10⛁)
+
+### HQ Research
+
+TBA
+
+### Expanded Downtime Locations
+
+The following locations offer expanded downtime options but must first be unlocked through upgrades or research. Unless stated otherwise, a building becomes unlocked when PCs complete the Buildings HQ upgrade.
+
+**Docks (unlock).** Gain access to the docks by discovering the world map tile containing the docks symbol and includes the following downtime options.
+- Spend any number of ⛁ on HQ's docks research upgrades.
+- You and up to 4 additional PCs spend ⛁ to gain passage onboard a ship at HQ's docks. PCs on a ship resolve their downtime together once they board and move the ship.
+
+**Market.** TBA.
+
+**Temple.** In addition to the normal way of gaining access to the temple, unlock this location when one or more PCs choose the acolyte background and include the following downtime options.
+- Spend (1) herbs to get (1) healing potion.
+- Spend ⛁ to cast *lesser restoration*.
+- Spend 5⛁ to cast *greater restoration*.
+- Spend 25⛁ coins to cast *raise dead* on a fallen ally.
+
+**Manor.** TBA.
+
+**Barracks.** TBA.
+
+**Forge.** TBA.
+
+**Refugee Camps.** TBA.
+
+**Firing Range.** TBA.
+
+**Monument.** TBA.
+
+**Tower.** TBA.
+
+**Enclave.** TBA.
+
+**Mystic Jeweler.** TBA.
+
+**Library.** TBA.
+
+**Guild.** TBA.
+
+## Spending Coin
+After the conclusion of a game session, players take 1 or more rounds of downtime. At the start of the downtime phase, PCs each roll a d20, adding the number of coins they currently have as a modifier. This number represents their downtime initiative. Each rolls a d20 and adds the number of Coins they currently have. This is called the downtime initiative, or just initiative.
+
+## Downtime Activities
+
+Whenever a PC chooses a specific downtime activity, it cannot be chosen again until the beginning of the next round of downtime. During a round of downtime, a PC can perform the following actions:
+
+- **1 Action.** Choose and gain the benefit of 1 downtime activity.
+- **1 Reaction.** You have one reaction during a round of downtime. Once you use your reaction, you cannot do so again until the beginning of the next round of downtime.
+- **1 Bonus Action.** You may perform one bonus action during a round of downtime.
+- **1 Object Interaction.** You may equip or unequip one item.
+
+### Crafting
+
+Choose this option to create items used in the game.
+
+You can craft nonmagical objects, including adventuring equipment and works of art. You must be proficient with tools related to the object you are trying to create (typically artisan’s tools). You might also need access to special materials or locations necessary to create it. For example, someone proficient with smith’s tools needs a forge in order to craft a sword or suit of armor.
+
+For every round of downtime you spend crafting, you can craft one item. The cost of creating some items requires spending more than one downtime round.
+
+Multiple characters can combine their efforts toward the crafting of a single item, provided that the characters all have the relevant tools equipped and are working together in the same place. Each additional character contributes +1 downtime round toward crafting the item. For example, three characters with the requisite tool proficiency and the proper facilities contribute +3 downtime rounds toward crafting a suit of plate armor. Crafting plate armor requires 6 rounds of downtime.
+While crafting, you can maintain a modest lifestyle without having to pay 1 gp per day, or a comfortable lifestyle at half the normal cost.
+
+Whenever you choose the crafting downtime activity, you can choose to create any 1 of the following items, provided you meet the prerequisites:
+
+**Healing Potion.** You create a minor healing potion.
+- (a) herbalism kit equiped and (b) 1 herbs trade good equipped, or (a) healer class
+
+**Holy Water.** You create holy water.
+- healer class or
+- (a) acolyte bakground and (b) temple building
+
+**Trade Goods.** You harvest, gather, or forge trade goods. Remove 1 trade good from your inventory: gain +1 round of downtime activity. Required:
+- (a) guild artisan background and (b) artisan guildhall building, or
+- (a) 1 trade good in your inventory and (b) the relevant tool is equipped
+
+**.**
+
+### Recuperating
+
+TBA
+
+### Researching
+
+TBA
+
+### Training
+
+TBA
+
+## Ending a Game Session
 
 # Adventuring
 
@@ -2762,6 +2690,16 @@ Swimming across a rushing river, sneaking down a dungeon corridor, scaling a tre
 ### Fast Travel
 
 Once a destination square is chosen on the world map and the deployment action is taken, PCs deploy instantaneously.
+
+~~Once a destination is revealed and set on the world map, PCs may choose and deploy to it instantly without random encounters.~~
+
+> ~~For Game Masters: Why is deployment Randomized?~~
+>> 
+>> ~~Come up with a reason that fits the story. For example, in Enchanted Forest, PCs use mystic skipping stones to fast travel to unexplored world map tiles. The stones are imprecise in where they land. This is a good reason why it is randomized. Others include getting lost, uncertainty, strong currents, resistance, or interference.~~
+>>
+> ~~Variant Rules: Add Random Encounters~~
+>>
+>> ~~GMs can add random encounters to a game by assigning up to five random encounters as footholds in an unexplored world map tile. When PCs encounter a foothold, they draw and resolve a creature encounter instead of drawing a story card until all random encounters are completed.~~
 
 ### Speed
 
