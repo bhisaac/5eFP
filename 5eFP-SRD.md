@@ -2130,28 +2130,6 @@ All 5eFP games follow the same rules framework. Elements of a 5eFP game include 
 
 Footholds are points of interest within a world map tile wherein the forces opposing the PCs form an encounter. Unexplored world map tiles contain 5 randomly located footholds. In order to consider a world map explored, the PCs must first discover and resolve 3 footholds.
 
-## Downtime and Ending a Game Session
-
-After you Recall back to HQ, each player spends one or more rounds of downtime. If you spend ⛁ on rest and repairs during a downtime round, it gains an extended rest of at least 8 hours for sleeping or light activities. Once completed, your gear is repaired, and you discard any wounds.
-
-You may use 1 or more rounds of downtime. You may spend ⛁ for each additional downtime round.
-
-If your character dies during Recall, HQ healers cast _gentle repose_ on your remains and transport them to a holding room within the crypt. In this room, players decide what to do next with the deceased character. The player whose character died can choose whether to retire the character or take other actions.
-
-When a character retires, healers conduct a funeral service, and the character will be added to the crypt. The player can continue playing the sidekick or create a new character. They may also revive the deceased character if they can afford the revival cost, which all players can contribute to.
-
-Dead characters cannot benefit from downtime rounds until they are revived or healed.
-
-A character who recalls stabilized at MAX Wounds may only spend a round of downtime to discard 1 wound, which revives the character. Once revived, the character can then spend ⛁ to add additional rounds of downtime.
-
-Once you have finished spending your downtime rounds, you declare this by stating that you "pass." When all players have passed on their downtime rounds, they restore and reset any expended class resources or game features on their character sheets, including spell slots that have been used.
-
-GMs and players then spend 5 minutes on unstructured downtime for self-reflection. During this downtime, activities can include resting, taking a break, journaling, drawing, or reflecting on the gaming experience. Following this period of self-reflection, there is a 25-minute group-sharing session conducted using talking stick rules.
-
-When a player wishes to speak, they pick up the talking stick. If the talking stick is unavailable because someone else is using it, the player must wait until it is available. The player holding the talking stick has the floor and may speak without others speaking, interrupting, or crosstalking. The player holding the talking stick can ask for feedback, which will temporarily lift the restriction on speaking. Once a player has finished sharing, they can pass the talking stick to the next player who wants to contribute or place it in the center of the sharing space.
-
-GMs facilitate the sharing, allowing all players to speak first. With permission, they may step into a player's sharing to help them understand 5eFP concepts and subtleties but otherwise remain silent and receptive witnesses. Questions about 5eFP mechanics and features are reserved after everyone has shared. GMs are encouraged to limit sharing to a minimum and only share what it was like to run the game session. The game session is mainly an opportunity for players to share their experiences with peers (GMs are only peers with other GMs) and integrate what arises into their real lives. The game session ends once the sharing is complete.
-
 ## Deploy
 
 A group of PCs deploy to a designated world map tile simultaneously. Deployment starting location on an unexplored world map tile is randomized. During a round of downtime, PCs may deploy on their own to an explored location on the world map without determining a random starting location.
@@ -2689,7 +2667,9 @@ A character or monster can choose not to resist a spell or game feature.
 
 # Time
 
-TBA
+5eFP simplifies time by adding a countdown clock with eight segments. At the start of the game session, the marker is set at the top or highest value. Starting an encounter, taking a rest, or using a special game rule or feature causes the countdown marker to decrease by 1 step (lower the number by - 1). When the countdown clock reaches 0, the PCs recall after the encounter or rest ends.
+
+In combat and other fast-­paced situations, the game relies on **rounds**, a 6-­second span of time.
 
 # Movement
 
@@ -2745,21 +2725,35 @@ Adventurers can rest in the midst of an adventuring day.
 
 A rest is a period of downtime, at least 1 hour long, during which a character does nothing more strenuous than eating, drinking, reading, and tending to wounds.
 
-PCs receive a number of points of healing equal to LEVEL at the end of a rest.
+PCs may remove up to LEVEL wounds at the end of a rest.
 
-## Resting at HQ
+# Downtime
 
-After you Recall back to HQ, each player spends one or more rounds of downtime. If you spend ⛁ on rest and repairs, your downtime includes an extended rest, typically at least 8 hours long, during which a character sleeps or performs light activities. You receive enough healing to discard any wounds you may have after completing this extended rest.
+After you Recall back to HQ, each player spends one or more rounds of downtime. If you spend ⛁ on rest and repairs during a downtime round, it gains an extended rest of at least 8 hours for sleeping or light activities. Once completed, your gear is repaired, and you discard any wounds.
+
+Your first downtime round is free. You can purchase more rounds of downtime by spending ⛁ for each additional round.
+
+If your character dies during Recall, HQ healers cast _gentle repose_ on your remains and transport them to a holding room within the crypt or morgue. In this room, players decide what to do next with the deceased character. The player whose character died can choose whether to retire the character or take other actions.
+
+When a character retires, healers conduct a funeral service, and the character will be added to the crypt. The player can continue playing the sidekick or create a new character. They may also revive the deceased character if they can afford the revival cost, which all players can contribute to.
+
+Dead characters cannot benefit from downtime rounds until they are revived or healed.
+
+A character who recalls stabilized at MAX Wounds may only spend a round of downtime to discard 1 wound, which revives the character. Once revived, the character can then spend ⛁ to add additional rounds of downtime.
+
+Once you have finished spending your downtime rounds, you declare this by stating that you "pass." When all players have passed on their downtime rounds, they restore and reset any expended class resources or game features on their character sheets, including spell slots that have been used.
+
+GMs and players then spend 5 minutes on unstructured downtime for self-reflection. During this downtime, activities can include resting, taking a break, journaling, drawing, or reflecting on the gaming experience. Following this period of self-reflection, there is a 25-minute group-sharing session conducted using talking stick rules.
+
+When a player wishes to speak, they pick up the talking stick. If the talking stick is unavailable because someone else is using it, the player must wait until it is available. The player holding the talking stick has the floor and may speak without others speaking, interrupting, or crosstalking. The player holding the talking stick can ask for feedback, which will temporarily lift the restriction on speaking. Once a player has finished sharing, they can pass the talking stick to the next player who wants to contribute or place it in the center of the sharing space.
+
+GMs facilitate the sharing, allowing all players to speak first. With permission, they may step into a player's sharing to help them understand 5eFP concepts and subtleties but otherwise remain silent and receptive witnesses. Questions about 5eFP mechanics and features are reserved after everyone has shared. GMs are encouraged to limit sharing to a minimum and only share what it was like to run the game session. The game session is mainly an opportunity for players to share their experiences with peers (GMs are only peers with other GMs) and integrate what arises into their real lives. The game session ends once the sharing is complete.
+
+## End of Game Session
 
 # Adventuring
 
 TBA
-
-## Time
-
-5eFP simplifies time by adding a countdown clock with eight segments. At the start of the game session, the marker is set at the top or highest value. Starting an encounter, taking a rest, or using a special game rule or feature causes the countdown marker to decrease by 1 step (lower the number by - 1). When the countdown clock reaches 0, the PCs recall after the encounter or rest ends.
-
-In combat and other fast-­paced situations, the game relies on **rounds**, a 6-­second span of time.
 
 ## Movement
 
