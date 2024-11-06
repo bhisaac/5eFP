@@ -1,6 +1,6 @@
 # 5eFP | About
 
-[5eFP-SRD](https://bit.ly/5eFPSRD) | [YouTube Soundtrack](https://bit.ly/5eFPsoundtrack) | [Spotify Soundtrack](https://open.spotify.com/playlist/3dHfOXpLhgOOSmuD7i9mdR?si=6b849196e23b4a4e)
+[5eFP-SRD](https://bit.ly/5eFPSRD) | Soundtrack [YouTube](https://bit.ly/5eFPsoundtrack) [Spotify](https://open.spotify.com/playlist/3dHfOXpLhgOOSmuD7i9mdR?si=6b849196e23b4a4e)
 
 5eFP (Five Energies Focus Practice) unites immersive, interactive tabletop roleplaying (TRPG) gameplay with self-reflection using the D20 fifth edition rules. Discover a new way to play TRPGs featuring easier, more intuitive rules, shorter game sessions, no GM preparation required, and larger playerbases (8-50+). The entire playerbase does not meet and play all at once. Rather, players asynchronously form parties of 3 to 5 and collectively go on adventures to complete 5eFP game objectives together. For example, all 5eFP games have the same initial objective: explore and discover the world map. A 5eFP playerbase assembles into several adventuring parties over time to fulfill this objective.
 
