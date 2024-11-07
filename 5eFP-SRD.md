@@ -31,6 +31,19 @@ Players will find that the action revolves around a typical in-game day, which b
 
 ## Game Terms
 
+### Party Buff
+
+When forming a party of adventurers, the players choose one defender, one healer, and up to three with the damage buff. There can only be one defender and one healer in an adventuring party.
+
+**Defender.** Defenders get the following features.
+- **Beginning of encounter.** Gain _Bolster 1_. You may combine this bolster with another bolster effect.
+- **Sieze the initiative.** Defenders take their turn immediately before rolling for initiative. Defenders pass their turn on round 1.
+- **Taunt.** At the start of each round, all minions, elites, and bosses with a line of sight to the defender gain the taunted condition, as long as the defender is the closest adversary within their line of sight.
+
+**Damage.** On your turn, the first time you target a creature or game feature and deal 1 or more points of damage, resolve the damage, and then you may choose up to one other minion, elite, or boss within 1 square of the target to take 1 point of damage of the same type.
+
+**Healing.** On your turn, the first time you target a creature or game feature with a spell or game feature, resolve it. Then, you may choose up to one other target within 1 square of the target to receive 1 point of healing, granting an additional ability check to resist up to one ongoing harmful effect. If your spell or game feature has an area of effect, choose one target to benefit from this feature.
+
 ### World Map
 
 The world map drives the game's story and content. It is a top-down illustration of the game world or region divided into a 14-square by 14-square grid. Each square within the grid is measured 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters. The map contains (9) 2x2 world map tiles for each cardinal direction, (3) 2x2 world map tiles for each hybrid ordinal direction, and (1) 2x2 HQ tile. A road connected to HQ diagonally divides hybrid world map tiles from one corner to the opposite. Hybrid world map tiles share characteristics with adjacent world map tiles.
