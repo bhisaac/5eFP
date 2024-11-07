@@ -1088,10 +1088,6 @@ You gain a +1 bonus to attack rolls you make with ranged weapons.
 
 While you are wearing armor, you gain advantage on DEX checks used to avoid an attack.
 
-#### ~~Dueling~~
-
-~~When you are wielding a melee weapon in one hand and no other weapons, you gain a +1 bonus to damage dealt with that weapon.~~
-
 #### Great Weapon Fighting
 
 Whenever you attack and miss with a melee weapon you are wielding with two hands, you may reroll the attack once and must use the new roll. The weapon must have the two-handed property for you to gain this benefit.
@@ -1099,10 +1095,6 @@ Whenever you attack and miss with a melee weapon you are wielding with two hands
 #### Protection
 
 When a creature you can see attacks a target other than you that is within 1 square of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
-
-#### ~~Two-Weapon Defense~~
-
-~~While you have a weapon equipped in each hand, you gain advantage on DEX checks used to avoid an attack.~~
 
 ### Second Wind
 
