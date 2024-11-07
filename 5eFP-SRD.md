@@ -1082,7 +1082,7 @@ You adopt a particular style of fighting as your specialty. Choose one of the fo
 
 #### Archery
 
-You gain a +2 bonus to attack rolls you make with ranged weapons.
+You gain a +1 bonus to attack rolls you make with ranged weapons.
 
 #### Defense
 
