@@ -37,7 +37,7 @@ When forming a party of adventurers, the players choose one defender, one healer
 
 **Defender.** Defenders get the following features.
 - **Beginning of encounter.** Gain _Bolster 1_. You may combine this bolster with another bolster effect.
-- **Sieze the initiative.** Defenders take their turn immediately before rolling for initiative. Defenders pass their turn on round 1.
+- **Sieze the initiative.** Defenders take their turn immediately before rolling for initiative. Defenders then pass their turn on round 1.
 - **Taunt.** At the start of each round, all minions, elites, and bosses with a line of sight to the defender gain the taunted condition, as long as the defender is the closest adversary within their line of sight.
 
 **Damage.** On your turn, the first time you target a creature or game feature and deal 1 or more points of damage, resolve the damage, and then you may choose up to one other minion, elite, or boss within 1 square of the target to take 1 point of damage of the same type.
