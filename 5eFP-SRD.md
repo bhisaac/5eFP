@@ -3834,7 +3834,7 @@ Alternatively, you can make a target indifferent about creatures of your choice 
 
 **Minion.** Minions represent simple encounters. Monster encounters treat minions as creatures with minimal stats that can only sustain one point of damage with MAX wounds of 1. Non-monster encounters represent situations where PCs must meet a single challenge to overcome the encounter. Examples: a trap that does not reset or picking a lock. While minion monster encounters are resolved in rounds, non-monster encounters may take minutes to resolve.
 
-Some creature minions have the critter tag. Critters are typically tiny or small creatures. They deal 0 damage, have a +1 bonus and a DC of 10. Critters can be upgraded. An upgraded critter shares the same base statistics as minions, but they do not add LEVEL to their base values.
+Some creature minions have the critter tag. Critters are typically tiny or small creatures. They deal 0 damage, have a +1 bonus and a DC of 10. Critters can be upgraded. An upgraded critter shares the same base statistics as minions, but they do not add LEVEL to their base values. A critter can be further upgraded to add LEVEL to base values.
 
 **Elite.** Elites represent advanced encounters which may include a number of minion encounters. Monster encounters treat elites as creatures with advanced stats and features. Non-monster encounters represent situations where PCs must overcome adversity several times before achieving completion. Examples: convince a skeptical creature of something or gather clues. While elite monster encounters are resolved in rounds, non-monster elite encounters may take an hour to resolve.
 
