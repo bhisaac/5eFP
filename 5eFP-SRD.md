@@ -4346,8 +4346,8 @@ Liches share the following statistics.
 |**3**|5th level (3 slots): *cloudkill, scrying*|
 |**4**|6th level (1 slot): *disintegrate, globe of invulnerability*|
 |**5**|7th level (1 slot): *finger of death, plane shift*|
-|**5**|8th level (1 slot): *dominate monster, power word stun*|
-|**7**|9th level (1 slot): *power word kill*|
+|**5**|Paragon Spell (1 slot): *dominate monster, power word stun*|
+|**7**|Epic Spell (1 slot): *power word kill*|
 
 ### Boss Features
 
