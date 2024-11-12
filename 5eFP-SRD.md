@@ -3822,14 +3822,14 @@ Alternatively, you can make a target indifferent about creatures of your choice 
 
 # Encounters
 
-5eFP uses encounters to describe the adversity PCs find while exploring maps. Traps, unfavorable environmental conditions, creatures, and challenging story situations are all considered encounters. Use the following table to determine the base statistics for all encounters. Except for forced movement, minion damage, and minion MAX wounds, add LEVEL to the base values.
+5eFP uses encounters to describe the adversity PCs find while exploring maps. Traps, unfavorable environmental conditions, creatures, and challenging story situations are all considered encounters. Use the following table to determine the base statistics for all encounters. ~~Except for forced movement, minion damage, and minion MAX wounds, add LEVEL to the base values.~~
 
 |   |**Minion**|**Elite**|**Boss**|
 |--:|:--------:|:-------:|:------:|
-|**Difficulty Class (DC)**|12|13|14|
-|**Bonus**|+2|+3|+4|
-|**Damage**|1|0|1|
-|**MAX Wounds**|1|2|4|
+|**Difficulty Class (DC)**|12 + LEVEL|13 + LEVEL|14 + LEVEL|
+|**Bonus**|2 + LEVEL|3 + LEVEL|4 + LEVEL|
+|**Damage**|1|LEVEL|1 + LEVEL|
+|**MAX Wounds**|1|2 + LEVEL|4 + LEVEL|
 |**Forced Movement**|1|1 or 2|2|
 
 **Minion.** Minions represent simple encounters. Monster encounters treat minions as creatures with minimal stats that can only sustain one point of damage with MAX wounds of 1. Non-monster encounters represent situations where PCs must meet a single challenge to overcome the encounter. Examples: a trap that does not reset or picking a lock. While minion monster encounters are resolved in rounds, non-monster encounters may take minutes to resolve.
