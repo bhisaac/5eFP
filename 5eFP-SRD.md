@@ -1280,7 +1280,7 @@ DRUID
 >>> |Grassland|_invisibility_, _pass without trace_|
 >>> |Mountain|_spider climb_, _spike growth_|
 >>> |Swamp|_acid arrow_, _darkness_|
->> 
+>>> 
 >>> Circle of the Sun and Moon
 >>> 
 >>> The Circle of the Sun and Moon is made up of mystics who meditate and commune with the cosmic astral plane, using radiance and starlight to strengthen allies while hindering foes. These druids meet within sacred standing stones to observe and reflect upon the position and motion of celestial bodies in the sky. The wisest members of the circle advise rulers of communities that follow the Old Faith, and are sometimes consulted by those of different faiths. As a member of this circle, your magic is influenced by the heavens and the astral plane.
