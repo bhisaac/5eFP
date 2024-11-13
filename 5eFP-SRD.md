@@ -40,7 +40,7 @@ When forming a party of adventurers, the players choose one defender, one healer
 - **Sieze the initiative.** Defenders take their turn immediately before rolling for initiative. Defenders then pass their turn on round 1.
 - **Taunt.** At the start of each round, all minions, elites, and bosses with a line of sight to the defender gain the taunted condition, as long as the defender is the closest adversary within their line of sight.
 
-**Damage.** On your turn, the first time you target a creature or game feature with an attack, spell, or effect, resolve that action. Afterward, you may choose a different minion, elite, or boss within 1 square of the target to take 1 point of damage of the same type.
+**Damage.** On your turn, the first time you successfully target a creature or game feature with an attack, spell, or effect, resolve that action. Afterward, you may choose a different minion, elite, or boss within 1 square of the target to take 1 point of damage of the same type.
 
 **Healing.** On your turn, the first time you target a creature or game feature with an attack, spell, or effect, resolve that action. Afterward, you may choose a different minion, elite, or boss within 1 square of the target to receive 1 point of healing, granting an additional ability check to resist up to one ongoing harmful effect.
 
