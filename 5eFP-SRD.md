@@ -1225,7 +1225,7 @@ DRUID
 |-:|:-|:-|
 |**Cost**|**Feature**|**Details**|
 |2⛁|Wild Shape|...|
-|2⛁|Druid Circle|Circle of the Land|
+|2⛁|Druid Circle|Circle of the Land, Circle of the Sun and Moon|
 |2⛁|Spells I|(+1) 1st-level spell slot|
 |3⛁|Spells II|(+1) 1st-level spell slot, (+2) 2nd-level spell slots|
 
@@ -1233,15 +1233,9 @@ DRUID
 >> You magically assume the shape of a beast that you have seen before. When you use this feature, save and set aside any wounds and choose a wild shape form. Use statistics for an elite creature except as detailed below. Your wild shape form cannot benefit from any swim or fly speeds it may have.
 >> 
 >> WILD SHAPE FORMS
->>> **_Astral._** You have 1 + LEVEL MAX wounds while in astral form. When you choose this form, you do not assume the shape of a beast. You remain in your normal form while gaining a number of additional features. Your form becomes translucent, taking on an indigo tint filled with points of moving lights.
->>>> **_Lunar Attunement._** Whenever you cast a spell that has no visible effect (i.e., _cure wounds_), you lose solar attunement and gain lunar attunement. If you already have lunar attunement, remove lunar attunement and activate _starfall_ (see below).
->>>> 
->>>> **_Solar Attunement._** Whenever you cast a spell that has a visible effect (i.e., _entangle_), you lose lunar attunement and gain solar attunement. If you already have solar attunement, remove solar attunement and activate _starfall_ (see below).
->>>> 
->>>> **_Starfall. (free action)_** A shooting star of radiance forms above your head and strikes a creature within 12 squares of you. If the creature is friendly, it receives 1 point of healing and allows the creature to make one additional ability check to resist one ongoing negative effect. If the creature is not a friendly target, it must succeed on a DEX check using your spell DC or take 1 point of radiant damage. You then gain Lunar Attunement or Solar Attunement.
 >>> 
->>> **_Defender._** You have 5 + LEVEL MAX wounds while in defender form. While in defender form, you can Bolster (LEVEL) without spending an action when you assume this wild shape form and at the beginning of each of your turns.
->>> 
+>>> **_Defender._** You have 5 + LEVEL MAX wounds while in this form, reducing all damage dealt to you by 1. You gain Bolster LEVEL when you assume this form and at the beginning of each of your turns.
+>>
 >>> **_Stealthy._** You have 4 + LEVEL MAX wounds while in stealthy form. While in stealthy form, you roll DEX and WIS checks with advantage and gain a pounce attack (if you don't already have one).
 >>>
 >>>> **Pounce.** If the stealthy form moves at least 3 squares straight toward a creature and then hits it with a melee attack on the same turn, that target must succeed on a DC 14 STR check or be knocked prone. If the target is prone, the stealthy form can make one melee attack against it as a bonus action.
@@ -1260,7 +1254,7 @@ DRUID
 >> - You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the GM decides whether it is practical for the new form to wear a piece of equipment, based on the creature’s shape and size. Your equipment doesn’t change size or shape to match the new form, and any equipment that the new form can’t wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.
 >
 > #### Druid Circle
->> You choose to identify with a circle of druids, such as the Circle of the Land.
+>> You choose to identify with a circle of druids, such as the Circle of the Land or the Circle of the Sun and Moon.
 >> 
 >>> Circle of the Land
 >>> 
@@ -1286,6 +1280,19 @@ DRUID
 >>> |Grassland|_invisibility_, _pass without trace_|
 >>> |Mountain|_spider climb_, _spike growth_|
 >>> |Swamp|_acid arrow_, _darkness_|
+>> 
+>>> Circle of the Sun and Moon
+>>> 
+>>> The Circle of the Sun and Moon is made up of mystics who meditate and commune with the cosmic astral plane, using radiance and starlight to strengthen allies while hindering foes. These druids meet within sacred standing stones to observe and reflect upon the position and motion of celestial bodies in the sky. The wisest members of the circle advise rulers of communities that follow the Old Faith, and are sometimes consulted by those of different faiths. As a member of this circle, your magic is influenced by the heavens and the astral plane.
+>>>
+>>> WILD SHAPE FORM
+>>>
+>>> **_Astral._** You have 3 + LEVEL MAX wounds while in astral form. When you choose this form, you do not assume the shape of a beast. You remain in your normal form while gaining a number of additional features. Your form becomes translucent, taking on an indigo tint filled with points of moving lights.
+>>>> **_Lunar Attunement._** Whenever you cast a spell that has no visible effect (i.e., _cure wounds_), you lose solar attunement and gain lunar attunement. If you already have lunar attunement, discard it and activate _starfall_ (see below).
+>>>> 
+>>>> **_Solar Attunement._** Whenever you cast a spell that has a visible effect (i.e., _entangle_), you lose lunar attunement and gain solar attunement. If you already have solar attunement, discard it and activate _starfall_ (see below).
+>>>> 
+>>>> **_Starfall._** A shooting star of radiance forms above your head and strikes a creature within 12 squares of you. If the creature is friendly, it receives 1 point of healing and allows the creature to make one additional ability check to resist one ongoing negative effect. If the creature is not a friendly target, it must succeed on a DEX check using your spell DC or take 1 point of radiant damage. You then gain Lunar Attunement or Solar Attunement.
 
 FIGHTER
 ||||
