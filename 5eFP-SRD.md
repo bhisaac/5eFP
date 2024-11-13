@@ -1288,9 +1288,9 @@ DRUID
 >>> WILD SHAPE FORM
 >>>
 >>> **_Astral._** You have 3 + LEVEL MAX wounds while in astral form. When you choose this form, you do not assume the shape of a beast. You remain in your normal form while gaining a number of additional features. Your form becomes translucent, taking on an indigo tint filled with points of moving lights.
->>>> **_Lunar Attunement._** Whenever you cast a spell that has no visible effect (i.e., _cure wounds_), you lose solar attunement and gain lunar attunement. If you already have lunar attunement, discard it and activate _starfall_ (see below).
+>>>> **_Lunar Attunement._** Whenever you cast a spell that has no visible effect (i.e., _cure wounds_), you discard solar attunement and gain lunar attunement. If you already have lunar attunement, discard it and activate _starfall_ (see below).
 >>>> 
->>>> **_Solar Attunement._** Whenever you cast a spell that has a visible effect (i.e., _entangle_), you lose lunar attunement and gain solar attunement. If you already have solar attunement, discard it and activate _starfall_ (see below).
+>>>> **_Solar Attunement._** Whenever you cast a spell that has a visible effect (i.e., _entangle_), you discard lunar attunement and gain solar attunement. If you already have solar attunement, discard it and activate _starfall_ (see below).
 >>>> 
 >>>> **_Starfall._** A shooting star of radiance forms above your head and strikes a creature within 12 squares of you. If the creature is friendly, it receives 1 point of healing and allows the creature to make one additional ability check to resist one ongoing negative effect. If the creature is not a friendly target, it must succeed on a DEX check using your spell DC or take 1 point of radiant damage. You then gain Lunar Attunement or Solar Attunement.
 
