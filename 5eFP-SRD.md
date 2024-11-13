@@ -1045,7 +1045,7 @@ You can rage twice per game session.
 
 ### Unarmored Defense
 
-While not wearing armor, you add CON (minimum 0) to your DEX checks used to avoid an attack. You can use a shield and still gain this benefit.
+While not wearing armor, you add CON (minimum 0) to your Defense. You can use a shield and still gain this benefit.
 
 ## Fighter
 
@@ -1084,9 +1084,9 @@ You adopt a particular style of fighting as your specialty. Choose one of the fo
 
 You gain a +1 bonus to attack rolls you make with ranged weapons.
 
-#### Defense
+#### Armored
 
-While you are wearing armor, you gain advantage on DEX checks used to avoid an attack.
+While you are wearing armor, increase your Defence by + 1.
 
 #### Great Weapon Fighting
 
@@ -1130,7 +1130,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
 ### Unarmored Defense
 
-While not wearing armor or wielding a shield, you add WIS (minimum 0) to your DEX checks used to avoid an attack.
+While not wearing armor or wielding a shield, you add WIS (minimum 0) to your Defense.
 
 ### Martial Arts
 
@@ -2799,7 +2799,7 @@ If there’s ever any question whether something you’re doing counts as an att
 
 ## Attack Rolls
 
-When you make an attack, your attack roll determines whether the attack hits or misses. To make an attack roll, roll a d20 and add the appropriate modifiers. If the total of the roll plus modifiers equals or exceeds the target’s DC, the attack hits. The DC of a character is determined by its Defense score, calculated as 10 + DEX, whereas a monster or game feature's DC is usually determined by encounter type (minion, elite, boss) and LEVEL, though your GM may modify DC values on some encounters.
+When you make an attack, your attack roll determines whether the attack hits or misses. To make an attack roll, roll a d20 and add the appropriate modifiers. If the total of the roll plus modifiers equals or exceeds the target’s DC, the attack hits. A character's DC equals its Defense score. A creature or game feature's DC is usually determined by encounter type (minion, elite, boss) and LEVEL, though your GM may modify DC values on some encounters.
 
 ### Modifiers to the Roll
 
