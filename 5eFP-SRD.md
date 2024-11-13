@@ -3828,7 +3828,7 @@ Alternatively, you can make a target indifferent about creatures of your choice 
 |--:|:--------:|:-------:|:------:|
 |**Difficulty Class (DC)**|12 + LEVEL|13 + LEVEL|14 + LEVEL|
 |**Bonus**|2 + LEVEL|3 + LEVEL|4 + LEVEL|
-|**Damage**|1|LEVEL|1 + LEVEL|
+|**Damage**|1|1 + LEVEL|1 + LEVEL|
 |**MAX Wounds**|1|2 + LEVEL|4 + LEVEL|
 |**Forced Movement**|1|1 or 2|2|
 
