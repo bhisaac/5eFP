@@ -1287,6 +1287,8 @@ DRUID
 >>>
 >>> WILD SHAPE FORM
 >>>
+>>> When you choose this circle, you can use Wild Shape to activate the astral wild shape form as a bonus action rather than an action.
+>>> 
 >>> **_Astral._** You have 3 + LEVEL MAX wounds while in astral form. When you choose this form, you do not assume the shape of a beast. You remain in your normal form while gaining a number of additional features. Your form becomes translucent, taking on an indigo tint filled with points of moving lights.
 >>>> **_Lunar Attunement._** Whenever you cast a spell that has no visible effect (i.e., _cure wounds_), you discard solar attunement and gain lunar attunement. If you already have lunar attunement, discard it and activate _starfall_ (see below).
 >>>> 
