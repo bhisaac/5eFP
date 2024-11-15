@@ -2754,8 +2754,6 @@ Players with the defender role typically strive to draw the focus of adversaries
 - At the end of each of your turns, as long as you are not unconscious or incapacitated, all minions, elites, and bosses that have a line of sight to you gain the taunted condition. This applies as long as you are the closest adversary within their line of sight.
 - You take your turn immediately. You pass your turn on round 1.
 
-**Damage.** On your turn, the first time you successfully target a creature or game feature with an attack, spell, or effect, resolve that action. Afterward, you may choose a different minion, elite, or boss within 1 square of the target to take 1 point of damage of the same type.
-
 ### Healer
 
 Players with the healer role typically use effects and game features to heal, protect, and empower allies. They also provide primary support for defenders.
