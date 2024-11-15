@@ -42,7 +42,7 @@ When forming a party of adventurers, the players choose one defender, one healer
 
 **Damage.** On your turn, the first time you successfully target a creature or game feature with an attack, spell, or effect, resolve that action. Afterward, you may choose a different minion, elite, or boss within 1 square of the target to take 1 point of damage of the same type.
 
-**Healing.** On your turn, the first time you target a creature or game feature with an attack, spell, or effect, resolve that action. Afterward, you may choose a different minion, elite, or boss within 1 square of the target to receive 1 point of healing, granting an additional ability check to resist up to one ongoing harmful effect.
+**Healing.** On your turn, the first time you target a creature or game feature with an attack, spell, or effect, resolve that action. Afterward, you may choose a different creature, minion, elite, or boss within 1 square of the target to receive 1 point of healing, granting it an additional ability check to resist up to one ongoing harmful effect.
 
 ### World Map
 
