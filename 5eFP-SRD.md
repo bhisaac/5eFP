@@ -2917,7 +2917,7 @@ If a spell or other effect deals damage to more than one target at the same time
 
 When you score a critical hit, you get to double the attack’s damage against the target. A critical hit does not double the damage of any secondary game features resolved after the attack.
 
-For example, suppose you are playing a character with the damage party buff and attack with a dagger, which deals 1 point of slashing damage on a successful attack. If you score a critical hit with the dagger, it deals 2 points of damage, rather than 1. Since you have the damage party buff, after resolving the attack, you then deal 1 point of damage to a creature within 1 square of the original target. The extra damage isn't doubled. If the attack involves additional damage, such as from the rogue’s Sneak Attack feature, you double this damage as well.
+For example, suppose you are playing a character with the damage group role and attack with a dagger, which deals 1 point of piercing damage on a successful attack. If you score a critical hit with the dagger, it deals 2 points of damage, rather than 1. Since you have the damage group role, after resolving the attack, you then deal 1 point of piercing damage to a creature within 1 square of the original target. The extra damage isn't doubled. If the attack involves additional damage, such as from the rogue’s Sneak Attack feature, you double this damage as well.
 
 ### Damage Types
 
@@ -4161,7 +4161,7 @@ Danger rooms are always obscured by a reinforced and locked door or an opaque ph
 
 > ### Danger Room Treasures
 > 
->> Danger rooms are unique game zones that contain a very powerful boss (super boss) creature encounter, requiring optimization with the best gear, features, party buffs, and abilities you can muster into a five-player party. You discover treasure from three potential treasure types once you clear a danger room.
+>> Danger rooms are unique game zones that contain a very powerful boss (super boss) creature encounter, requiring optimization with the ideal gear, features, group roles, and abilities you can muster into a five-player party. You discover treasure from three potential treasure types once you clear a danger room.
 >>
 >> **Class.** Treasure your class considers essential. For example, barbarians might discover handaxes, javelins, a battle axe, a shield, light armor, or medium armor
 >>
@@ -4563,7 +4563,7 @@ The following definitions specify what happens to a creature while it is subject
 
 ## Taunted
 
-- A taunted creature must include any PC with the Defender party buff as a target with any attack, effect, or spell whenever possible. Remove a creature's taunt condition whenever it receives 1 or more points of damage from a PC with the healer or damage party buff.
+- A taunted creature must include a PC with the defender group role as a target with any attack, effect, or spell whenever possible. Remove a creature's taunt condition whenever it receives 1 or more points of damage from a PC with the healer or damage group role.
 
 ## Unconscious
 
