@@ -35,7 +35,9 @@ Players will find that the action revolves around a typical in-game day, which b
 
 The world map drives the game's story and content. It is a top-down illustration of the game world or region divided into a 14-square by 14-square grid. Each square within the grid is measured 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters. The map contains (9) 2x2 world map tiles for each cardinal direction, (3) 2x2 world map tiles for each hybrid ordinal direction, and (1) 2x2 HQ tile. A road connected to HQ diagonally divides hybrid world map tiles from one corner to the opposite. Hybrid world map tiles share characteristics with adjacent world map tiles.
 
-**Removing Obscuring Tiles.** Before you move onto a map tile covered by an obscuring tile, turn over the obscuring tile in place. The underside of an obscuring tile may display one of several possible icons.
+World map obscuring tiles unique to a setting handbook covers all but the center HQ tile at the start of the game.
+
+**Removing Obscuring Tiles.** While deployed onto a map, before you move onto a map tile covered by an obscuring tile, turn over the obscuring tile in place. The underside of an obscuring tile may display one of several possible icons.
 - **Red Orb or Solid Red Circle.** The obscuring tile covered a foothold (see _Foothold_ below).
 - **White Orb or Solid White Circle.** The obscuring tile covered a setting handbook requirement (see _Setting Handbook_ below).
 - **Gold Orb or Solid Gold Circle.** The obscuring tile covered a _campfire encounter_ (TBD) on the world map or _treasure_ on an encounter map (TBD).
