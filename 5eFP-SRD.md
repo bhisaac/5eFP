@@ -1285,16 +1285,10 @@ DRUID
 >>> 
 >>> The Circle of the Sun and Moon is made up of mystics who meditate and commune with the cosmic astral plane, using radiance and starlight to strengthen allies while hindering foes. These druids meet within sacred standing stones to observe and reflect upon the position and motion of celestial bodies in the sky. The wisest members of the circle advise rulers of communities that follow the Old Faith, and are sometimes consulted by those of different faiths. As a member of this circle, your magic is influenced by the heavens and the astral plane.
 >>>
->>> WILD SHAPE FORM
->>>
->>> When you choose this circle, you can use Wild Shape to activate the astral wild shape form as a bonus action rather than an action.
->>> 
->>> **_Astral._** You have 2 + LEVEL MAX wounds while in astral form. When you choose this form, you do not assume the shape of a beast. You remain in your normal form while gaining a number of additional features. Your form becomes translucent, taking on an indigo tint filled with points of moving lights.
->>>> **_Lunar Attunement._** Whenever you cast a spell that has no visible effect (i.e., _cure wounds_), you discard solar attunement and gain lunar attunement. If you already have lunar attunement, discard it and activate _starfall_ (see below).
->>>> 
->>>> **_Solar Attunement._** Whenever you cast a spell that has a visible effect (i.e., _entangle_), you discard lunar attunement and gain solar attunement. If you already have solar attunement, discard it and activate _starfall_ (see below).
->>>> 
->>>> **_Starfall._** A shooting star of radiance forms above your head and strikes a creature within 12 squares of you. If the creature is friendly, it receives 1 point of healing and allows the creature to make one additional ability check to resist one ongoing negative effect. If the creature is not a friendly target, it must succeed on a DEX check using your spell DC or take 1 point of radiant damage. You then gain Lunar Attunement or Solar Attunement.
+>>> **_Astral Form._** You have 2 + LEVEL MAX wounds while in astral form. You may use Wild Shape as a bonus action when shapeshifting into astral form. When you choose this form, you do not assume the shape of a beast. You remain in your normal form while gaining a number of additional features. You become translucent, taking on an indigo tint filled with points of moving lights.
+>>> - **_Lunar Attunement._** Whenever you cast a spell that has no visible effect such as _cure wounds_, you discard solar attunement and gain lunar attunement. If you already have lunar attunement, discard it and activate _starfall_.
+>>> - **_Solar Attunement._** Whenever you cast a spell that has a visible effect such as _entangle_, you discard lunar attunement and gain solar attunement. If you already have solar attunement, discard it and activate _starfall_.
+>>> - **_Starfall._** A shooting star of radiance forms above your head and strikes a creature within 12 squares of you. If the creature is friendly, it receives 1 point of healing and may make an ability check to resist one ongoing negative effect. If the creature is not a friendly target, it must succeed on a DEX check using your spell DC or take 1 point of radiant damage. You then gain _lunar attunement_ or _solar attunement_.
 
 FIGHTER
 ||||
