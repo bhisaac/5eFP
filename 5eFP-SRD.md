@@ -1244,7 +1244,7 @@ DRUID
 >> 
 >> You can use this feature twice. You regain expended uses when you finish a short rest.
 >>
->> You can stay in a wild shape form until you return to the HQ map room. You then revert to your normal form. If your wild shape form ends early you can activate wild shape again to maintain your current form, as long as you have enough uses of the feature remaining. You can revert to your normal form earlier by using a bonus action on your turn. You automatically revert if you fall unconscious, gain MAX wounds, or die.
+>> You can stay in a wild shape form until you return to the HQ map room. You then revert to your normal form. ~~If your wild shape form ends early you can activate wild shape again to maintain your current form, as long as you have enough uses of the feature remaining.~~ You can revert to your normal form earlier by using a bonus action on your turn. You automatically revert if you fall unconscious, gain MAX wounds, or die.
 >>
 >> While you are transformed, the following rules apply:
 >> - Your game statistics are replaced by the statistics of the wild shape form, but you retain your alignment, personality, and INT, WIS, and CHA. You also retain all of your proficiencies, in addition to gaining those of the creature. If the creature has the same proficiency as you and the bonus in its stat block is higher than yours, use the creature’s bonus instead of yours. If the creature has any legendary or lair actions, you can’t use them.
