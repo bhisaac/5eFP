@@ -2739,7 +2739,7 @@ You can extend your arms into adjacent squares up to your reach during the jump.
 
 # Forming a Group
 
-Unlike traditional tabletop roleplaying games, 5eFP has no set group or time to play. The GM posts available days and times for game sessions according to their schedule. Players then choose the best day and time based on GM availability. The player who initiates forming a group becomes the group leader. An adventuring group consists of at least three and at most five PCs.
+Unlike traditional tabletop roleplaying games, 5eFP has no set group or time to play. The GM posts available days and times for game sessions according to their schedule. Players then choose the best day and time based on GM availability. The player who initiates forming a group becomes the group leader. An adventuring group consists of at least three and at most five PCs. The party leader notifies the GM and schedules a game session after at least three players agree on a specific day and time.
 
 All PCs in a group choose a group role before selecting a destination and deploying onto a map. Group leaders may pick their role first when forming a party.
 
