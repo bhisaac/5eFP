@@ -134,7 +134,7 @@ The following procedure must be completed to explore a world map tile:
 
 Steps taken for world map deployment.
 1. **Preview.** Druids and rangers receive a special bonus round. Each druid and ranger PC, in initiative order, may choose one unexplored world map tile within the current level of play and preview its terrain by temporarily removing its obscuring world map tile. Once finished, the player then returns the obscuring world map tile back to its original position.
-2. **Selection.** The PCs, as a group, choose a cardinal or ordinal direction and trace a path from the HQ tile along the map until an obscured world map tile is encountered within the current level of play. This becomes the selected world map tile.
+2. **Selection.** The PCs, as a group, choose a cardinal or ordinal direction and trace a path from the HQ tile along the map until an obscured world map tile is encountered within the current level of play. This becomes the selected world map tile. If no obscuring world map tile remain, the group may select any world map tile.
 3. **Prepare.** Players may choose to spend 1 round of preparation before deploying. See "Preparation."
 4. **Setup.** Place an empty (22 x 22) exploration map beside the world map. Roll a d20 onto the exploration map before placing any tiles and note the location of where the dice lands. This determines the starting position for the PCs.
 5. **Deploy.** The GM reveals the starting map tile on the exploration map at the starting position determined in the previous step, placing the group token onto it.
