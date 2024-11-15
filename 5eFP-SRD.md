@@ -1234,11 +1234,11 @@ DRUID
 >> 
 >> WILD SHAPE FORMS
 >>> 
->>> **_Defender._** You have 5 + LEVEL MAX wounds while in this form, reducing all damage dealt to you by 1. You gain Bolster LEVEL when you assume this form and at the beginning of each of your turns.
+>>> **_Defender._** You have 5 + LEVEL MAX wounds while in defender form. While in this form, you reduce all damage dealt to you by 1. Additionally, you gain Bolster LEVEL when you assume this form and at the beginning of each of your turns.
 >>
->>> **_Stealthy._** You have 4 + LEVEL MAX wounds while in stealthy form. While in stealthy form, you roll DEX and WIS checks with advantage and gain a pounce attack (if you don't already have one).
+>>> **_Stealthy._** You have 4 + LEVEL MAX wounds while in stealthy form. While in this form, you roll DEX and WIS checks with advantage and gain a pounce attack (if you don't already have one).
 >>>
->>>> **Pounce.** If the stealthy form moves at least 3 squares straight toward a creature and then hits it with a melee attack on the same turn, that target must succeed on a DC 14 STR check or be knocked prone. If the target is prone, the stealthy form can make one melee attack against it as a bonus action.
+>>>> **Pounce.** If you move at least 3 squares straight toward a creature and then hit it with a melee attack on the same turn, it must succeed on a DC 14 STR check or be knocked prone. If the creature is prone, the stealthy form can make one melee attack against it as a bonus action.
 >>> 
 >>> **_Travel._** To activate this feature, you must be on the overland map (see _Overland Map_) and not in a combat encounter. You have 1 MAX wounds while in travel form. When activated, you and any chosen creatures within 6 squares of you transform into travel forms and move together. If a combat encounter begins or if 1 or more points of damage are dealt to you or another affected creature, your wild shape and all travel forms end. Your movement score doubles while in travel form. Once activated while on the overland map, the travel form can be reactivated on the overland map outside of a combat encounter at any time until the end of the game session.
 >> 
