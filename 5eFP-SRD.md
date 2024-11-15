@@ -1221,7 +1221,7 @@ DRUID
 >> 
 >> WILD SHAPE FORMS
 >>> 
->>> **_Defender._** You have 5 + LEVEL MAX wounds while in defender form. While in this form, you reduce all damage dealt to you by 1. Additionally, you gain Bolster LEVEL when you assume this form and at the beginning of each of your turns.
+>>> **_Guardian._** You have 5 + LEVEL MAX wounds while in guardian form. While in this form, you reduce all damage dealt to you by 1. Additionally, you gain Bolster LEVEL when you assume this form and at the beginning of each of your turns.
 >>
 >>> **_Stealthy._** You have 4 + LEVEL MAX wounds while in stealthy form. While in this form, you roll DEX and WIS checks with advantage and gain a pounce attack (if you don't already have one).
 >>>
@@ -1236,9 +1236,9 @@ DRUID
 >> While you are transformed, the following rules apply:
 >> - Your game statistics are replaced by the statistics of the wild shape form, but you retain your alignment, personality, and INT, WIS, and CHA. You also retain all of your proficiencies, in addition to gaining those of the creature. If the creature has the same proficiency as you and the bonus in its stat block is higher than yours, use the creature’s bonus instead of yours. If the creature has any legendary or lair actions, you can’t use them.
 >> - When you transform, you assume the wild shape form's MAX wounds. When you revert to your normal form, you return all wound cards you set aside before you transformed. However, if you revert because your wild shape form gained MAX Wounds, any excess wounds carry over to your normal form. For example, if you take 2 damage in a wild shape form and have room for only 1 wound, you revert and take 1 damage. As long as the excess damage doesn’t cause you to reach your maximum wounds, you aren’t knocked unconscious.
->> - You can’t cast spells, and your ability to speak or take any action that requires hands is limited to the capabilities of your wild shape form. Transforming doesn’t break your concentration on a spell you’ve already cast, however, or prevent you from taking actions that are part of a spell, such as _call lightning_, that you’ve already cast. You may cast spells, speak, and take normal actions while in astral form.
+>> - You can’t cast spells, and your ability to speak or take any action that requires hands is limited to the capabilities of your wild shape form. Transforming doesn’t break your concentration on a spell you’ve already cast, however, or prevent you from taking actions that are part of a spell, such as _call lightning_, that you’ve already cast.
 >> - You retain the benefit of any features from your class, race, or other source and can use them if the new form is physically capable of doing so. However, you can’t use any of your special senses, such as truesight, unless your new form also has that sense.
->> - You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the GM decides whether it is practical for the new form to wear a piece of equipment, based on the creature’s shape and size. Your equipment doesn’t change size or shape to match the new form, and any equipment that the new form can’t wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.
+>> - ~~You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the GM decides whether it is practical for the new form to wear a piece of equipment, based on the creature’s shape and size. Your equipment doesn’t change size or shape to match the new form, and any equipment that the new form can’t wear must either fall to the ground or merge with it.~~ Your equipment merges into your new form and has no effect until you leave the form.
 >
 > #### Druid Circle
 >> You choose to identify with a circle of druids, such as the Circle of the Land or the Circle of the Sun and Moon.
@@ -1273,6 +1273,8 @@ DRUID
 >>> The Circle of the Sun and Moon is made up of mystics who meditate and commune with the cosmic astral plane, using radiance and starlight to strengthen allies while hindering foes. These druids meet within sacred standing stones to observe and reflect upon the position and motion of celestial bodies in the sky. The wisest members of the circle advise rulers of communities that follow the Old Faith, and are sometimes consulted by those of different faiths. As a member of this circle, your magic is influenced by the heavens and the astral plane.
 >>>
 >>> **_Astral Form._** You have 2 + LEVEL MAX wounds while in astral form. You may use Wild Shape as a bonus action when shapeshifting into astral form. When you choose this form, you do not assume the shape of a beast. You become translucent, taking on an indigo tint filled with points of moving lights. You gain the following features while in astral form.
+>>> - Your equipment does not merge into your astral form.
+>>> - You may cast spells, speak, and take normal actions while in astral form.
 >>> - **_Lunar Attunement._** Whenever you cast a spell that has no visible effect such as _cure wounds_, you discard solar attunement and gain lunar attunement. If you already have lunar attunement, discard it and activate _starfall_.
 >>> - **_Solar Attunement._** Whenever you cast a spell that has a visible effect such as _entangle_, you discard lunar attunement and gain solar attunement. If you already have solar attunement, discard it and activate _starfall_.
 >>> - **_Starfall._** A shooting star of radiance forms above your head and strikes a creature within 12 squares of you. If the creature is friendly, it receives 1 point of healing and may make an ability check to resist one ongoing negative effect. If the creature is not a friendly target, it must succeed on a DEX check using your spell DC or take 1 point of radiant damage. You then gain _lunar attunement_ or _solar attunement_.
@@ -2764,7 +2766,7 @@ Players with the healer role typically use effects and game features to heal, pr
 
 Players with the damage role typically use effects and game features to deal damage and hinder adversaries.
 
-- On your turn, the first time you successfully target a creature or game feature with an attack, spell, or effect, resolve that action. Afterward, you may choose a different minion, elite, or boss within 1 square of the target to take 1 point of damage of the same type..
+- On your turn, the first time you successfully target a creature or game feature with an attack, spell, or effect, resolve that action. Afterward, you may choose a different minion, elite, or boss within 1 square of the target to take 1 point of damage of the same type.
 
 ## Group Token
 
