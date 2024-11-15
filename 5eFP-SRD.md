@@ -31,19 +31,6 @@ Players will find that the action revolves around a typical in-game day, which b
 
 ## Game Terms
 
-### Party Buff
-
-When forming a party of adventurers, the players choose one defender, one healer, and up to three with the damage buff. There can only be one defender and one healer in an adventuring party.
-
-**Defender.** Defenders get the following features.
-- **Beginning of encounter.** Gain _Bolster 1_. You may combine this bolster with another bolster effect.
-- **Sieze the initiative.** Defenders take their turn immediately before rolling for initiative. Defenders then pass their turn on round 1.
-- **Taunt.** At the start of each round, all minions, elites, and bosses with a line of sight to the defender gain the taunted condition, as long as the defender is the closest adversary within their line of sight.
-
-**Damage.** On your turn, the first time you successfully target a creature or game feature with an attack, spell, or effect, resolve that action. Afterward, you may choose a different minion, elite, or boss within 1 square of the target to take 1 point of damage of the same type.
-
-**Healing.** On your turn, the first time you target a creature or game feature with an attack, spell, or effect, resolve that action. Afterward, you may choose a different creature, minion, elite, or boss within 1 square of the target to receive 1 point of healing, granting it an additional ability check to resist up to one ongoing harmful effect.
-
 ### World Map
 
 The world map drives the game's story and content. It is a top-down illustration of the game world or region divided into a 14-square by 14-square grid. Each square within the grid is measured 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters. The map contains (9) 2x2 world map tiles for each cardinal direction, (3) 2x2 world map tiles for each hybrid ordinal direction, and (1) 2x2 HQ tile. A road connected to HQ diagonally divides hybrid world map tiles from one corner to the opposite. Hybrid world map tiles share characteristics with adjacent world map tiles.
@@ -2752,27 +2739,35 @@ You can extend your arms into adjacent squares up to your reach during the jump.
 
 # Forming a Group
 
-Unlike traditional tabletop roleplaying games, 5eFP has no set group or time to play. The game master (GM) posts available days and times for game sessions. Players then choose the best day and time for their schedule based on GM availability. The player who initiates forming a group becomes the group leader. A 5eFP group contains a minimum of three PCs and a maximum of five PCs.
+Unlike traditional tabletop roleplaying games, 5eFP has no set group or time to play. The GM posts available days and times for game sessions according to their schedule. Players then choose the best day and time based on GM availability. The player who initiates forming a group becomes the group leader. An adventuring group consists of at least three and at most five PCs.
 
-All PCs in a group choose their group role before selecting a destination and deploying onto a map.
+All PCs in a group choose a group role before selecting a destination and deploying onto a map. Group leaders may pick their role first when forming a party.
 
-## Group Roles
+### Group Roles
 
-When PCs form a group, they choose one of three beneficial status effects that activate while deployed on a map and last until the end of a game session. Group leaders may choose their group role first. A group can have a maximum of one defender, one healer, and up to three damage roles. The defender and healer roles are designated first, followed by damage roles.
+When PCs form a group, they choose one of three beneficial status effects that activate while deployed on a map. Group leaders may choose their group role first. A group can have a maximum of one defender, one healer, and up to three damage roles. The defender and healer roles are designated first, followed by damage roles.
 
 ### Defender
 
-- **Act First.** At the start of an encounter and before any initiative is rolled, you take your turn first. After completing your turn, all initiatives are rolled as normal. Skip round 1, resuming normal gameplay afterward.
-- **Taunt.** Your attacks, opposed or contested ability checks, spells, and features are difficult to ignore. If you attack, damage, or otherwise affect a minion, elite, or boss, they gain the taunted condition (see Conditions). Minions, elites, and bosses automatically gain the taunted condition at the beginning of their turn if you are the closest visible target. Minions, elites, and bosses lose the taunted condition whenever you are unconscious or incapacitated.
-- **Soak.** At the beginning of a combat encounter, you gain Bolster 2.
+Players with the defender role typically strive to draw the focus of adversaries while safeguarding the more vulnerable player characters in the group from harm. The following features take effect at the start of an encounter.
+
+- You gain _Bolster 1_. You may combine this bolster with another bolster effect.
+- You take your turn immediately before rolling initiative. You pass your turn on round 1.
+- At the start of each of your turns, all minions, elites, and bosses with a line of sight to you gain the taunted condition, as long as you are the closest adversary within their line of sight.
+
+**Damage.** On your turn, the first time you successfully target a creature or game feature with an attack, spell, or effect, resolve that action. Afterward, you may choose a different minion, elite, or boss within 1 square of the target to take 1 point of damage of the same type.
 
 ### Healer
 
-- The first time you target a creature with a spell, attack, ability check, or feature on each of your turns, resolve the spell, attack, or feature as normal. Afterward, you may choose a different creature within 1 square of your target. The chosen creature receives 1 point of healing and may make an additional ability check to end one ongoing negative condition.
+Players with the healer role typically use effects and game features to heal, protect, and empower allies. They also provide primary support for defenders.
+
+- On your turn, the first time you target a creature or game feature with an attack, spell, or effect, resolve that action. Afterward, you may choose a different creature, minion, elite, or boss within 1 square of the target to receive 1 point of healing, granting it an additional ability check to resist up to one ongoing negative effect.
 
 ### Damage
 
-- The first time you target a creature with a spell, attack, ability check, or feature on each of your turns, resolve the spell, attack, or feature as normal. Afterward, you may choose a different creature within 1 square of your target. The chosen creature takes 1 point of damage. The damage type remains the same or bludgeoning (if no damage type is indicated).
+Players with the damage role typically use effects and game features to deal damage and hinder adversaries.
+
+- On your turn, the first time you successfully target a creature or game feature with an attack, spell, or effect, resolve that action. Afterward, you may choose a different minion, elite, or boss within 1 square of the target to take 1 point of damage of the same type..
 
 ## Group Token
 
