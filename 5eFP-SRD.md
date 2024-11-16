@@ -2762,7 +2762,7 @@ Players with the defender role typically strive to draw the focus of adversaries
 
 Players with the healer role typically use effects and game features to heal, protect, and empower allies. They also provide primary support for defenders.
 
-- On your turn, the first time you target a creature or game feature with an attack, spell, or effect, resolve that action. Afterward, you may choose a different creature, minion, elite, or boss within 1 square of the target to receive 1 point of healing, granting it an additional ability check to resist up to one ongoing negative effect.
+- On your turn, the first time you target a creature or game feature with an attack, spell, or effect, resolve that action. Afterward, you may choose a different creature, minion, elite, or boss within 1 square of the target to receive 1 point of healing, granting it an additional ability check to resist up to one ongoing negative effect. This feature has no effect on undead and constructs.
 
 ### Damage
 
