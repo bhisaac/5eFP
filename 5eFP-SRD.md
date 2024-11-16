@@ -1788,6 +1788,8 @@ DESC TBD.
 
 # Equipment
 
+
+
 ## Coins
 
 5eFP games use coins (**⛁** equals 1 coin), a single denomination representing wealth, resources, experience, and reputation. The name of a coin may change in some games. For example, coins might be called "gold pieces" in a medieval fantasy setting, while coins might refer to "credits" in a futuristic sci-fi setting. A game's setting handbook details what coins are called. All coins use the following rules.
@@ -1824,7 +1826,7 @@ The Armor table shows the cost, weight, and other properties of the common types
 
 ***Armor Proficiency.*** Anyone can put on a suit of armor or strap a shield to an arm. Only those proficient in the armor’s use know how to wear it effectively, however. Your class gives you proficiency with certain types of armor. Medium and heavy armor proficiency also grants proficiency with shields. If you wear armor that you lack proficiency with, you have disadvantage on any ability check or attack roll that involves STR or DEX, and you can’t cast spells.
 
-**_Defense Score._** Wearing armor may reduce the damage from successful attacks that target you, while your Defense can prevent attacks from hitting you and is calculated as follows:
+**_Defense._** Your Defense can prevent attacks from hitting you and is calculated as follows:
 
 **Defense**: 10 + DEX
 
@@ -2796,7 +2798,7 @@ If there’s ever any question whether something you’re doing counts as an att
 
 ## Attack Rolls
 
-When you make an attack, your attack roll determines whether the attack hits or misses. To make an attack roll, roll a d20 and add the appropriate modifiers. If the total of the roll plus modifiers equals or exceeds the target’s DC, the attack hits. A character's DC equals its Defense score. A creature or game feature's DC is usually determined by encounter type (minion, elite, boss) and LEVEL, though your GM may modify DC values on some encounters.
+When you make an attack, your attack roll determines whether the attack hits or misses. To make an attack roll, roll a d20 and add the appropriate modifiers. If the total of the roll plus modifiers equals or exceeds the target’s DC, the attack hits. A character's DC equals its Defense. A creature or game feature's DC is usually determined by encounter type (minion, elite, boss) and LEVEL, though your GM may modify DC values on some encounters.
 
 ### Modifiers to the Roll
 
@@ -3015,6 +3017,18 @@ Mighty villains and special nonplayer characters (NPCs) are common exceptions; t
 ## Knocking a Creature Out
 
 Sometimes an attacker wants to incapacitate a foe, rather than deal a killing blow. When an attacker adds enough wounds to a creature to reach its MAX Wounds score with a melee attack, the attacker can knock the creature out. The attacker can make this choice the instant the damage is dealt. The creature falls unconscious and becomes stabilized.
+
+## Bolster
+
+Some spells and special abilities confer bolster, a special pool of points used as a buffer against damage.
+
+When you have a bolster pool and take damage, the bolster points are lost first, and any leftover damage carries over. For example, if you have bolster 1 and take 3 damage, you lose bolster and then take 2 damage.
+
+Healing can’t restore a bolster pool, and they can’t be added together. If you have a bolster pool and receive more, you decide whether to keep the bolster pool you have or to gain the new one. For example, if a spell grants you bolster 1 when you already have bolster 2, you can have 1 or 2, not 3.
+
+If you are at MAX Wounds, receiving a bolster pool doesn’t restore you to consciousness or stabilize you. Your bolster can still absorb damage directed at you while you’re in that state, but only true healing can save you.
+
+Unless a feature that grants you bolster has a duration, your bolster pool lasts until they’re depleted or until the end of the game session.
 
 # Mounted Combat
 
