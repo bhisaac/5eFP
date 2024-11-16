@@ -3020,13 +3020,13 @@ Sometimes an attacker wants to incapacitate a foe, rather than deal a killing bl
 
 ## Bolster
 
-Some spells and special abilities confer bolster, a special pool of points used as a buffer against damage.
+Some spells and special abilities confer bolster, a special pool of points used as a buffer against wounds.
 
-When you have a bolster pool and take damage, the bolster points are lost first, and any leftover damage carries over. For example, if you have bolster 1 and take 3 damage, you lose bolster and then take 2 damage.
+When you have a bolster pool and take 1 or more wounds, you first reduce the number of wounds received by your bolster pool. Any leftover wounds carry over. For example, if you have bolster 1 and take 3 wounds, you lose bolster and then take 2 wounds.
 
 Healing can’t restore a bolster pool, and they can’t be added together. If you have a bolster pool and receive more, you decide whether to keep the bolster pool you have or to gain the new one. For example, if a spell grants you bolster 1 when you already have bolster 2, you can have 1 or 2, not 3.
 
-If you are at MAX Wounds, receiving a bolster pool doesn’t restore you to consciousness or stabilize you. Your bolster can still absorb damage directed at you while you’re in that state, but only true healing can save you.
+If you are at MAX Wounds, receiving a bolster pool doesn’t restore you to consciousness or stabilize you. Only true healing can save you.
 
 Unless a feature that grants you bolster has a duration, your bolster pool lasts until they’re depleted or until the end of the game session.
 
