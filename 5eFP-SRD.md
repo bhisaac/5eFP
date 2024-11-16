@@ -1223,7 +1223,7 @@ DRUID
 >> 
 >> WILD SHAPE FORMS
 >>> 
->>> **_Guardian._** You have 5 + LEVEL MAX wounds while in guardian form. Your size changes to large. While in this form, you reduce all damage dealt to you by 1. Additionally, you gain Bolster LEVEL when you assume this form and at the beginning of each of your turns.
+>>> **_Guardian._** You have 5 + LEVEL MAX wounds while in guardian form. While in this form, you reduce all damage dealt to you by 1. Additionally, you gain Bolster LEVEL when you assume this form and at the beginning of each of your turns.
 >>>
 >>> **_Stealthy._** You have 4 + LEVEL MAX wounds while in stealthy form. While in this form, you roll DEX and WIS checks with advantage and gain a pounce attack (if you don't already have one).
 >>>
