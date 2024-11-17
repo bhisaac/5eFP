@@ -10,9 +10,56 @@ _**Practice.**_ Focus alone isn't enough. Results require real doing through reg
 
 > "Vision without action is a daydream. Action without vision is a nightmare." — Japanese Proverb
 
-### Guiding Principles
+# SAFE SPACE AND CODE OF CONDUCT
 
-1. **Consent in gaming.** 5eFP uses consent in gaming to promote a safe space for players to explore themselves through the characters they play and the game world their characters interact with. Bullying, infighting, intimidation, backstabbing, and disharmonious behavior between game masters (GMs) and players and between player characters (PCs) is strictly prohibited.
+5eFP contributors, facilitators, and participants strive to create physical and virtual spaces where people have fun and feel safe. 5eFP GMs take it very seriously if any player feels threatened or uncomfortable by another person in their space. When a GM is made aware of situations related to this, they will make sure that your concerns are heard and will take the necessary steps with you to respond to the problem. GMs expect everyone who engages with them and shares their space to respect others and challenge unacceptable behaviors.
+
+## POLICY STATEMENT
+
+To create a safe, positive, and inclusive space free from harassment and discrimination and in which everyone is treated with dignity and respect, 5eFP has established the following code of conduct. Those who engage with 5eFP in any way are asked to understand and acknowledge this policy.
+
+We acknowledge that a tabletop roleplaying game (TRPG) with a focus on collaborative storytelling is an activity in which new ideas are explored, and boundaries are sometimes pushed. However, while we believe that people must be free to express themselves, it is unacceptable to exacerbate or reinforce discriminatory or harmful behaviors or views. The 5eFP community makes every effort to engage with people who share our philosophy. We hope and expect the content and work shared in our spaces to be done with care and without malicious intent.
+
+### Who is this policy for?
+
+This policy applies but is not limited to all 5eFP GMs, players participating in 5eFP game sessions, and public members joining 5eFP-related events.
+
+### Where does this policy apply?
+
+This policy applies to all managed events directly linked or associated with a 5eFP game, such as conferences, workshops, and other activities; after-event social spaces; and online while engaging with a 5eFP game’s virtual events or through email or social media.
+
+## CODE OF CONDUCT*
+
+The following is not exhaustive but is the minimum we expect from all 5eFP participants. GMs and players must all:
+
+- Foster a safe environment that is free from physical, written, verbal, or sexual harassment, violence, bullying, or discrimination. Unacceptable behaviors include sexually harassing another person with unwanted or unwelcome behavior; physically or sexually assaulting another person; making derogatory remarks about an individual’s body, manner, or sexual activities; intimidating, threatening, or victimizing another person; discriminating against or treating someone less favorably due to their race, gender, gender identity, age, sexual orientation, disability, or other personal characteristics.
+- Be active and inclusive. Recognize that bigotry, bullying, and lack of consent are pervasive and rooted in the TRPG industry and within broader society. Do not tolerate racism, ableism, transphobia, homophobia, or ageism in any form, and actively challenge discriminatory behaviors and opinions. Do not tolerate backstabbing, bullying, infighting, intimidating, and disharmonious behaviors and actions.
+- Respect boundaries. Be aware that each person is different and will have different personal and cultural boundaries. Pay attention to verbal and non-verbal signals, and respect others' wishes. This also means respecting possible rules and regulations to protect everyone from COVID-19 or other pandemics.
+- Be aware of and challenge our prejudices and privileges. Consider what influences your words, opinions, and feelings and who they might exclude or harm.
+- Respect how people choose to identify. Do not assume someone's gender identity, sexual preference, background, etc. Do not share this information with others without permission.
+- Listen if someone challenges us about our behavior. It’s always hard to hear that your behavior is making someone uncomfortable. Do not become defensive – listen, reflect, and learn.
+- Consume responsibly. Know your limits. The effects of alcohol and the consumption of intoxicants will not excuse inappropriate or harassing behavior.
+- Take care of ourselves. Take care of your health and safety, and do not act in any way that puts you or others at risk.
+- Respect the privacy of others. Please do not take photos/videos of others or share images of or information belonging to others without their express permission.
+- Report damaging behaviors. If you are being harassed, witness harassment of someone else, or have concerns about another person’s conduct, please contact your 5eFP GM. You can report any inappropriate behavior or harassment via the contact details in your 5eFP setting handbook. 5eFP GMs can also submit reports for review by all players.
+
+What can you expect from us?
+
+5eFP GMs, players, and public members participating in 5eFP-related events will follow and uphold this Code of Conduct. This policy is communicated to all GMs, players, volunteers, scholars, artists, conference and workshop participants, collaborators, independent contractors, employees, and others who work within a 5eFP game. It will also be available publicly. 5eFP GMs will take action. When someone reports a breach of the code of conduct or is uncomfortable in any of our spaces (including online), we will work with the complainant to determine an appropriate response. This might involve:
+
+- warning the offender
+- removing the offender from the event/activity
+- revoking a 5eFP game membership
+- contacting the police
+- putting the complainant in touch with local support services
+
+The 5eFP community will continue listening, learning, and reflecting, individually and with others. This policy will be regularly reviewed and updated. If you have any comments or suggestions about this policy, please contact your 5eFP GM using the details in your setting handbook.
+
+*This code does not supersede an individual’s right to file a police report and/or investigation or seek legal counsel. To the extent that there is an inconsistency between the law and this policy, the law prevails. 
+
+# Guiding Principles
+
+5eFP uses consent in gaming to promote a safe space for players to explore themselves through the characters they play and the game world their characters interact with. Bullying, infighting, intimidation, backstabbing, and disharmonious behavior between game masters (GMs) and players and between player characters (PCs) is strictly prohibited.
     * 2019.09.13 [Consent in Gaming](https://github.com/bhisaac/5eFP/blob/dcc548a4b9a3fa14b2f1def8178ae63fabcd1738/Consent_in_Gaming-2019-09-13.pdf)
     * 2019.09.13 [Form-Fillable Checklist](https://github.com/bhisaac/5eFP/blob/dcc548a4b9a3fa14b2f1def8178ae63fabcd1738/Consent%20in%20Gaming-Form%20Fillable%20Checklist-2019-09-13.pdf)
     * Also available at [Monty Cook Games](https://www.montecookgames.com/consent-in-gaming/) and [DriveThruRPG](https://www.drivethrurpg.com/en/product/288535/consent-in-gaming?term=consent%20in)
