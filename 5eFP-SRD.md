@@ -10,7 +10,7 @@ _**Practice.**_ Focus alone isn't enough. Results require real doing through reg
 
 > "Vision without action is a daydream. Action without vision is a nightmare." — Japanese Proverb
 
-# SAFE SPACE AND CODE OF CONDUCT
+# Safe Space and Code Of Conduct
 
 5eFP contributors, facilitators, and participants strive to create physical and virtual spaces where people have fun and feel safe. 5eFP GMs take it very seriously if any player feels threatened or uncomfortable by another person in their space. When a GM is made aware of situations related to this, they will make sure that your concerns are heard and will take the necessary steps with you to respond to the problem. GMs expect everyone who engages with them and shares their space to respect others and challenge unacceptable behaviors.
 
