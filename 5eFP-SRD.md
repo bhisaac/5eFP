@@ -1223,7 +1223,7 @@ DRUID
 >> 
 >> WILD SHAPE FORMS
 >>> 
->>> **_Brute._** You have 5 + LEVEL MAX wounds and Defense 11 while in brute form. Your size increases to large if it is not already, with a reach of 1 square. You can attack twice instead of once whenever you take the Attack action on your turn. You gain Bolster LEVEL when you assume this form.
+>>> **_Tough._** You have 5 + LEVEL MAX wounds and Defense 11 while in tough form. Your size increases to large if it is not already, with a reach of 1 square. You can attack twice instead of once whenever you take the Attack action on your turn. You gain Bolster LEVEL when you assume this form.
 >>> 
 >>> **_Stealthy._** You have 4 + LEVEL MAX wounds while in stealthy form. While in this form, you roll DEX and WIS checks with advantage and gain a pounce attack (if you don't already have one).
 >>>
