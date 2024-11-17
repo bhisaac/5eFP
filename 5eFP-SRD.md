@@ -39,7 +39,7 @@ This policy applies but is not limited to all 5eFP GMs, players participating in
 
 ### Where does this policy apply?
 
-This policy applies to all managed events directly linked or associated with a 5eFP game, such as conferences, workshops, and other activities; after-event social spaces; and online while engaging with a 5eFP game’s virtual events or through email or social media.
+This policy applies to all managed events directly linked or associated with a 5eFP game, such as conferences, workshops, and other activities; after-event social spaces; and online while engaging with a 5eFP game’s virtual events or through email, social media, or texting.
 
 ## CODE OF CONDUCT*
 
