@@ -56,9 +56,9 @@ The following is not exhaustive but is the minimum we expect from all 5eFP parti
 - Respect the privacy of others. Please do not take photos/videos of others or share images of or information belonging to others without their express permission.
 - Report damaging behaviors. If you are being harassed, witness harassment of someone else, or have concerns about another person’s conduct, please contact your 5eFP GM. You can report any inappropriate behavior or harassment via the contact details in your 5eFP setting handbook. 5eFP GMs can also submit reports for review by all players.
 
-What can you expect from us?
+### What can you expect from 5eFP games and events?
 
-5eFP GMs, players, and public members participating in 5eFP-related events will follow and uphold this Code of Conduct. This policy is communicated to all GMs, players, volunteers, scholars, artists, conference and workshop participants, collaborators, independent contractors, employees, and others who work within a 5eFP game. It will also be available publicly. 5eFP GMs will take action. When someone reports a breach of the code of conduct or is uncomfortable in any of our spaces (including online), we will work with the complainant to determine an appropriate response. This might involve:
+5eFP GMs, players, and public members participating in 5eFP-related events will follow and uphold this Code of Conduct. This policy is communicated to all GMs, players, volunteers, scholars, artists, conference and workshop participants, collaborators, independent contractors, employees, and others who work within a 5eFP game. It will also be available publicly. 5eFP GMs will take action. When someone reports a breach of the code of conduct or is uncomfortable in any space (including online), we will work with the complainant to determine an appropriate response. This might involve:
 
 - warning the offender
 - removing the offender from the event/activity
