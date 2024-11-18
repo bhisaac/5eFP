@@ -92,15 +92,15 @@ Steps taken for world map deployment:
 6. **Choose Party Token Controller.** PCs appoint one player as the group token controller. The PC with the most overland movement bonuses is typically the group token controller. Some background, species, and class features provide significant bonuses while controlling the group token during exploration.
 7. **Move the group token.** The group token controller moves the token, revealing obscuring world map tiles in sight along the way.
 
-**Removing Obscuring World Map Tiles.** While deployed onto a map, before you move onto a world map tile covered by an obscuring world map tile, turn over the obscuring map tile in place. The underside of the obscuring map tile may display one of several possible icons.
+**Removing Obscuring Map Tiles.** While deployed onto a map, before you move onto a world map tile covered by an obscuring map tile, turn over the obscuring map tile in place. The underside of the obscuring map tile may display one of several possible icons.
 - **Red Orb or Solid Red Circle.** The obscuring tile covered a foothold (see _Foothold_ below).
 - **White Orb or Solid White Circle.** The obscuring tile covered a setting handbook requirement (see _Setting Handbook_ below).
 - **Gold Orb or Solid Gold Circle.** The obscuring tile covered a _campfire encounter_ (TBD) on the world map or _treasure_ on an encounter map (TBD).
 - **Green Orb or Solid Green Circle.** The obscuring tile covered _resources_ (TBD).
 
-After revealing the obscured world map tile, move the party token onto it and determine the results of all revealed icons. Discard the obscuring tile after resolving any triggered game features.
+After revealing the obscured map tile, move the party token onto it and determine the results of all revealed icons. Discard the obscuring tile after resolving any triggered game features.
 
-If the obscuring map tile revealed a foothold, briefly reveal the map tile it obscures and note its terrain type. Set up the foothold with this terrain, modified by any revealed story elements and encounters. Note the cardinal or ordinal direction you used to move onto the foothold from the world map. The party then enters the foothold from the opposite direction used to enter it unless the foothold describes a designated starting area.
+If the obscuring map tile revealed a foothold, briefly reveal the map tile it obscures and note its terrain type. Set up the foothold with this terrain, modified by any revealed story elements and encounters. Note the cardinal or ordinal direction you used to move onto the foothold from the world map. The party then enters the foothold from the same direction used to enter it unless the foothold describes a designated starting area.
 
 ### Story Directions and Elements
 
