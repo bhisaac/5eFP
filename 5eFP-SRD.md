@@ -80,17 +80,25 @@ Players will find that the action revolves around a typical in-game day, which b
 
 ### World Map
 
-The world map drives the game's story and content. It is a top-down illustration of the game world or region divided into a 14-square by 14-square grid. Each square within the grid is measured 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters. The map contains (9) 2x2 world map tiles for each cardinal direction, (3) 2x2 world map tiles for each hybrid ordinal direction, and (1) 2x2 HQ tile. A road connected to HQ diagonally divides hybrid world map tiles from one corner to the opposite. Hybrid world map tiles share characteristics with adjacent world map tiles.
+The world map drives the game's story and content. It is a top-down illustration of the game world or region divided into a 14-square by 14-square grid. Each square within the grid is measured 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters. The map contains (49) 2x2 obscuring map tiles unique to a setting handbook that covers the map at the start of the game,  (49) 2x2 black obscuring map tiles, (9) 2x2 world map tiles for each cardinal direction, (3) 2x2 world map tiles for each hybrid ordinal direction, and (1) 2x2 HQ tile. A road connected to HQ diagonally divides hybrid world map tiles from one corner to the opposite. Hybrid world map tiles share characteristics with adjacent world map tiles.
 
-World map obscuring tiles unique to a setting handbook covers all but the center HQ tile at the start of the game.
+Steps taken for world map deployment:
 
-**Removing Obscuring Tiles.** While deployed onto a map, before you move onto a map tile covered by an obscuring tile, turn over the obscuring tile in place. The underside of an obscuring tile may display one of several possible icons.
+1. **Preview.** One Mage and one Scoundrel receive a special bonus round. Each may choose one unexplored world map tile within the current level of play and preview its terrain by temporarily removing its obscuring map tile. Once finished, the player then returns the obscuring map tile back to its original position.
+2. ** Selection.** The players select an obscured map tile within the current level of play. If no obscuring world map tile remains within the current level of play, the group may select any explored world map tile.
+3. **Prepare.** Players may choose to spend 1 round of preparation before deploying. During a round of preparation, a PC may take 1 action, such as casting a spell with a casting time of up to 1 round, drink a potion, or activate an item, up to 1 bonus action, 1 object interaction, and any number of free actions. A PC may move during a round of preparation by placing its token onto a downtime location in HQ, receiving any benefits as if completing a round of downtime.
+4. **Setup.** Place an empty (22 x 22) exploration map beside the world map. Roll a d20 onto the exploration map before placing any tiles and note the location of where the dice lands. This determines the starting position for the PCs.
+5. **Deploy.** The GM reveals the starting map tile on the exploration map at the starting position determined in the previous step, placing the group token onto it.
+6. **Choose Party Token Controller.** PCs appoint one player as the group token controller. The PC with the most overland movement bonuses is typically the group token controller. Some background, species, and class features provide significant bonuses while controlling the group token during exploration.
+7. **Move the group token.** The group token controller moves the token, revealing obscuring world map tiles in sight along the way.
+
+**Removing Obscuring World Map Tiles.** While deployed onto a map, before you move onto a world map tile covered by an obscuring world map tile, turn over the obscuring map tile in place. The underside of the obscuring map tile may display one of several possible icons.
 - **Red Orb or Solid Red Circle.** The obscuring tile covered a foothold (see _Foothold_ below).
 - **White Orb or Solid White Circle.** The obscuring tile covered a setting handbook requirement (see _Setting Handbook_ below).
 - **Gold Orb or Solid Gold Circle.** The obscuring tile covered a _campfire encounter_ (TBD) on the world map or _treasure_ on an encounter map (TBD).
 - **Green Orb or Solid Green Circle.** The obscuring tile covered _resources_ (TBD).
 
-After revealing the obscured map tile, move the party token onto it and determine the results of all revealed icons. Discard the obscuring tile after resolving any triggered game features.
+After revealing the obscured world map tile, move the party token onto it and determine the results of all revealed icons. Discard the obscuring tile after resolving any triggered game features.
 
 If the obscuring map tile revealed a foothold, briefly reveal the map tile it obscures and note its terrain type. Set up the foothold with this terrain, modified by any revealed story elements and encounters. Note the cardinal or ordinal direction you used to move onto the foothold from the world map. The party then enters the foothold from the opposite direction used to enter it unless the foothold describes a designated starting area.
 
@@ -166,34 +174,39 @@ When PCs in a group are finished with their objectives, they may recall back to 
 
 ### Setting Handbook
 
-All details about the 5eFP practice you are joining can be found in your setting handbook. The following information is contained within.
-- **World Map.** GMs and PCs will find a section illustrating the game world or region before the conflict begins and a summary of the game's setting. The world map begins covered with obscuring map tiles, which PCs remove when they explore an obscured map tile. The requirements for exploring an obscured map tile are detailed here.
-- **HQ.** Details about HQ's organization or organizing force and the role PCs play within it can be found here.
-- **Conflict.** 5eFP games have a conflict section detailing the central crisis or unfavorable circumstances that have transformed the game world or region into an unbalanced and afflicted state. The conflict cannot be resolved at LEVEL 1. Resolving the conflict requires completing a prerequisite at LEVEL 7, which is detailed in this section. Any changes to game features related to the conflict will also be documented here.
-- **Story Directions.** The four cardinal story directions are revealed here.
-- **Fast Travel.** How fast travel is achieved in your game is explained here.
-- **Recall.** How you Recall in your game is explained here, including any special equipment or game features linked to your ability to Recall. 
+All details about the 5eFP practice you are joining can be found in your setting handbook.
 
-The following procedure must be completed to explore a world map tile:
-- Explore 55% or more of the map.
-- Find and resolve 3 footholds.
-- Locate an item or complete a setting handbook requirement.
+#### GM CONTACT DETAILS
 
-Steps taken for world map deployment.
-1. **Preview.** Druids and rangers receive a special bonus round. Each druid and ranger PC, in initiative order, may choose one unexplored world map tile within the current level of play and preview its terrain by temporarily removing its obscuring world map tile. Once finished, the player then returns the obscuring world map tile back to its original position.
-2. **Selection.** The PCs, as a group, choose a cardinal or ordinal direction and trace a path from the HQ tile along the map until an obscured world map tile is encountered within the current level of play. This becomes the selected world map tile. If no obscuring world map tile remain, the group may select any world map tile.
-3. **Prepare.** Players may choose to spend 1 round of preparation before deploying. See "Preparation."
-4. **Setup.** Place an empty (22 x 22) exploration map beside the world map. Roll a d20 onto the exploration map before placing any tiles and note the location of where the dice lands. This determines the starting position for the PCs.
-5. **Deploy.** The GM reveals the starting map tile on the exploration map at the starting position determined in the previous step, placing the group token onto it.
-6. **Choose Party Token Controller.** PCs appoint one player as the group token controller. This player can be the party leader, but this is not required. The PC with the most overland movement bonuses is typically the group token controller. Some background, species, and class features provide significant bonuses while controlling the group token during the exploration phase.
-7. **Move the group token.** The group token controller moves the token, lifting any obscuring tiles encountered along the way. Removing an obscuring tile may reveal one of several potential world map features called footholds:
-    - Dungeons
-    - Creatures
-    - Villages or settlements
-    - Buildings
-    - Treasures
-    - Traps
-    - Specific features or items necessary for completion as outlined in your setting handbook.
+Find ways to contact your GM, including your GM's availability schedule.
+
+#### WORLD MAP
+
+This section describes the pre-conflict game world where players uncover the conflict that now obscures it on world map tiles, revealed through exploration. The following must be completed before revealing an obscured world map tile:
+
+- Explore half or more of the map by removing obscuring map tiles.
+- Reveal and resolve three footholds.
+- Complete a special task detailed in your setting handbook.
+
+#### HQ
+
+Explore details about HQ's organization or organizing force and the role PCs play within it.
+
+#### CONFLICT
+
+Central crisis or adverse conditions transforming the game world into an unbalanced and afflicted state. The conflict cannot be resolved at LEVEL 1. Resolving the conflict requires completing a specific prerequisite at LEVEL 7. Discover changes to game features related to the conflict.
+
+#### STORY DIRECTIONS
+
+The four cardinal story directions are revealed.
+
+#### FAST TRAVEL
+
+The method of achieving fast travel in your game is explained.
+
+#### RECALL
+
+This section explains how you Recall in your game, including any special equipment or game features linked to your ability to Recall. 
 
 ### Setting Handbook Requirement
 
