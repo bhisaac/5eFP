@@ -87,14 +87,15 @@ Steps taken for world map deployment:
 1. **Preview.** One Mage and one Scoundrel receive a special bonus round. Each may choose one unexplored world map tile within the current level of play and preview its terrain by temporarily removing its obscuring map tile. Once finished, the player then returns the obscuring map tile back to its original position.
 2. **Selection.** The players select an obscured map tile within the current level of play. If no obscuring world map tile remains within the current level of play, the group may select any explored world map tile.
 3. **Prepare.** Players may choose to spend 1 round of preparation before deploying. During a round of preparation, a player character (PC) may take the following actions: 
-    - **One action**: This could include casting a spell with a casting time of up to 1 round, activating a game feature, or using an item.
+    - **One action**: This could include casting a spell with a casting time and duration of up to 1 round, activating a game feature, or using an item.
     - **One bonus action**: Additionally, the PC can perform one bonus action.
+    - **One reaction**: Players get one reaction.
     - **One object interaction**: The PC may also interact with one object.
     - **Free actions**: The player can take any number of free actions.
 
-    A PC may move during a round of preparation by placing its token onto a downtime location in HQ, receiving any benefits as if completing a round of downtime and returning back to the map room afterward.
-4. **Setup.** Place an empty (22 x 22) exploration map beside the world map. Roll a d20 onto the exploration map before placing any tiles and note the location of where the dice lands. This determines the starting position for the PCs.
-5. **Deploy.** The GM reveals the starting map tile on the exploration map at the starting position determined in the previous step, placing the group token onto it.
+    A PC may move during a round of preparation by placing its token onto a downtime location in HQ that exchanges ⛁ for items or game features, receiving any benefits as if completing a round of downtime and returning back to the map room afterward.
+4. **Setup.** Place an empty 14 x 14 exploration map beside the world map. Roll a d20 onto the exploration map before placing any tiles and note the location of where the dice lands. This determines the starting position for the PCs.
+5. **Deploy.** The GM reveals the obscuring map tile on the exploration map at the starting position determined in the previous step, resolves any revealed icons on the underside of the obscuring map tile, and places the group token on it.
 6. **Choose Party Token Controller.** PCs appoint one player as the group token controller. The PC with the most overland movement bonuses is typically the group token controller. Some background, species, and class features provide significant bonuses while controlling the group token during exploration.
 7. **Move the group token.** The group token controller moves the token, revealing obscuring world map tiles in sight along the way.
 
