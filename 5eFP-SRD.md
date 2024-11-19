@@ -1285,7 +1285,7 @@ DRUID
 >>> 
 >>> **_Tough._** You have 5 + LEVEL MAX wounds and Defense 11 while in tough form. Your size increases to large if it is not already, with a reach of 1 square. You can attack twice instead of once whenever you take the Attack action on your turn. You gain Bolster LEVEL when you assume this form.
 >>> 
->>> **_Stealthy._** You have 4 + LEVEL MAX wounds while in stealthy form. While in this form, you roll DEX and WIS checks with advantage and gain a pounce attack (if you don't already have one).
+>>> **_Stealthy._** You have 4 + LEVEL MAX wounds and Defense 13 while in stealthy form. While in this form, you roll DEX and WIS checks with advantage and gain a pounce attack (if you don't already have one).
 >>>
 >>>> **_Pounce._** If you move at least 3 squares in a line toward a creature and then hit it with a melee attack on the same turn, it must succeed on a DC 14 + LEVEL STR check or be knocked prone. If the creature is prone, the stealthy form can make one melee attack against it as a bonus action.
 >>> 
