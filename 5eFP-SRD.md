@@ -3677,12 +3677,13 @@ Your unarmed strikes deal 1 bludgeoning, piercing, or slashing damage, as approp
 |The GM makes any necessary adjustments to the narrative to incorporate these readings into the story.|
 
 ### Spells (B)
+
 #### Bane
 |_1st-­level enchantment_|
 |:-|
 |**Casting Time:** 1 action|
 |**Range:** 6|
-|**Components:** V, S, M (a drop of blood)|
+|**Components:** V, S|
 |**Duration:** Concentration (encounter)|
 ||
 |Up to three creatures of your choice that you can see within range must make CHA checks. Whenever a target that fails this check makes an attack roll or an ability check before the spell ends, the target must roll with disadvantage. This spell removes the effects of *bless.*|
@@ -3703,8 +3704,8 @@ Your unarmed strikes deal 1 bludgeoning, piercing, or slashing damage, as approp
 |:-|
 |**Casting Time:** 1 action|
 |**Range:** 6|
-|**Components:** V, S, M (a sprinkling of holy water)|
-|**Duration:** Concentration (encounter)|
+|**Components:** V, S|
+|**Duration:** Concentration (Encounter)|
 ||
 |You bless up to three creatures of your choice within range. Whenever a target makes an attack roll or an ability check before the spell ends, the target makes these rolls with advantage. This spell removes the effects of *bane.*|
 |**At Higher Levels.** At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.|
