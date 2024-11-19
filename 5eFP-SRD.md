@@ -92,7 +92,7 @@ Steps taken for world map deployment:
     - **One object interaction**: The PC may also interact with one object.
     - **Free actions**: The player can take any number of free actions.
 
-    A PC may move during a round of preparation by placing its token onto a downtime location in HQ, receiving any benefits as if completing a round of downtime.
+    A PC may move during a round of preparation by placing its token onto a downtime location in HQ, receiving any benefits as if completing a round of downtime and returning back to the map room afterward.
 4. **Setup.** Place an empty (22 x 22) exploration map beside the world map. Roll a d20 onto the exploration map before placing any tiles and note the location of where the dice lands. This determines the starting position for the PCs.
 5. **Deploy.** The GM reveals the starting map tile on the exploration map at the starting position determined in the previous step, placing the group token onto it.
 6. **Choose Party Token Controller.** PCs appoint one player as the group token controller. The PC with the most overland movement bonuses is typically the group token controller. Some background, species, and class features provide significant bonuses while controlling the group token during exploration.
