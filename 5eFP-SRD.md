@@ -3694,9 +3694,9 @@ Your unarmed strikes deal 1 bludgeoning, piercing, or slashing damage, as approp
 |**Casting Time:** 1 action|
 |**Range:** Touch|
 |**Components:** V, S|
-|**Duration:** Concentration (encounter)|
+|**Duration:** Concentration (Encounter)|
 ||
-|You touch a willing creature, granting it Bolster 1. Until the spell ends, the target’s skin has a rough, bark-­like appearance, and the target reduces any damage assigned to it by 1.|
+|You touch a willing creature. Until the spell ends, the target’s skin has a rough, bark-­like appearance, and the target is considered to be wearing medium armor with medium armor proficiency.|
 
 #### Bless
 |_1st-­level enchantment_|
@@ -3839,9 +3839,9 @@ Alternatively, you can make a target indifferent about creatures of your choice 
 |**Range:** Touch|
 |**Target:** A willing creature who isn't wearing armor|
 |**Components:** V, S|
-|**Duration:** Instantaneous|
+|**Duration:** Recall|
 ||
-|You touch a willing creature who isn’t wearing armor. The target equips a weightless and protective magical suit of light armor, allowing the target to add your spellcasting ability score to DEX checks to avoid a creature or game feature's attack. The magical suit of armor and the protection granted by this spell ends on Recall, when the target equips armor, equips a shield, or if you dismiss the spell as an action.|
+|You touch a willing creature who isn’t wearing armor, and a protective magical force surrounds it until the spell ends. The target’s AC becomes 13. The spell ends if the target dons armor or if you dismiss the spell as an action.|
 
 ### Spells (N)
 
