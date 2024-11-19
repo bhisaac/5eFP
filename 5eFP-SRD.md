@@ -62,7 +62,7 @@ The following is not exhaustive but is the minimum we expect from all 5eFP parti
 
 - warning the offender
 - removing the offender from the event/activity
-- revoking a 5eFP game membership
+- revoking the offender's 5eFP game membership
 - contacting the police
 - putting the complainant in touch with local support services
 
