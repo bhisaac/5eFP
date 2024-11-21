@@ -78,13 +78,6 @@ Players will find that the action revolves around a typical in-game day, which b
 
 ## Game Terms
 
-### Encounter Map
-
-- 28-square by 28-square grid (piece together four 14-square by 14-square grids).
-- Players place their tokens on the side opposite the direction they entered from the exploration map unless the encounter specifies a designated starting area. For example, if the party token is moved onto the map from the W direction (the party token controller moves the party token from the adjacent tile to the E), the PCs appear and place their tokens along the E side of the map. Similarly, moving in the SW direction results in PC tokens being placed on the NE edge of the map.
-- An encounter map is combined with four smaller 14 x 14 maps, each forming four quadrants: NW, NE, SE, and SW.
-- Each quadrant is either blank or modified by the encounter based on any story elements rolled or drawn. Some story elements only modify a specific quadrant, while others can modify the entire map. Organize story elements by size in descending order. Set up story elements on the map one at a time in this order, beginning with the biggest area and ending with the smallest area.
-
 ### World Map
 
 The world map drives the game's story and content. It is a top-down illustration of the game world or region divided into a 14-square by 14-square grid. Each square within the grid is measured 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters. The map contains (49) 2x2 obscuring map tiles unique to a setting handbook that covers the map at the start of the game,  (49) 2x2 black obscuring map tiles, (9) 2x2 world map tiles for each cardinal direction, (3) 2x2 world map tiles for each hybrid ordinal direction, and (1) 2x2 HQ tile. A road connected to HQ diagonally divides hybrid world map tiles from one corner to the opposite. Hybrid world map tiles share characteristics with adjacent world map tiles.
@@ -135,6 +128,13 @@ A foothold is a concentrated local event related to the conflict detailed in you
 A foothold is a region on the world map containing an encounter that challenges the PCs somehow. The GM draws or rolls for a story element from the direction the PCs are exploring, continuing to draw and roll story elements until revealing an encounter. PCs choose and add one story element to the encounter from those revealed, discarding any remaining story elements. If the PCs encounter a foothold while exploring a hybrid tile, they keep two story elements (one from each adjacent direction) instead of picking only one story element.
 
 ~~Footholds are points of interest within a world map tile wherein the forces opposing the PCs form an encounter. Unexplored world map tiles contain 5 randomly located footholds. In order to consider a world map explored, the PCs must first discover and resolve 3 footholds.~~
+
+### Encounter Map
+
+- 28-square by 28-square grid (piece together four 14-square by 14-square grids).
+- Players place their tokens on the side opposite the direction they entered from the exploration map unless the encounter specifies a designated starting area. For example, if the party token is moved onto the map from the W direction (the party token controller moves the party token from the adjacent tile to the E), the PCs appear and place their tokens along the E side of the map. Similarly, moving in the SW direction results in PC tokens being placed on the NE edge of the map.
+- An encounter map is combined with four smaller 14 x 14 maps, each forming four quadrants: NW, NE, SE, and SW.
+- Each quadrant is either blank or modified by the encounter based on any story elements rolled or drawn. Some story elements only modify a specific quadrant, while others can modify the entire map. Organize story elements by size in descending order. Set up story elements on the map one at a time in this order, beginning with the biggest area and ending with the smallest area.
 
 ### Headquarters (HQ)
 
