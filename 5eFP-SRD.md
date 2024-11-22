@@ -86,12 +86,12 @@ Steps taken for world map deployment:
 
 1. **Preview.** One Mage and one Scoundrel receive a special bonus round. Each may choose one unexplored world map tile within the current level of play and preview its terrain by temporarily removing its obscuring map tile. Once finished, the player then returns the obscuring map tile back to its original position.
 2. **Selection.** The players select an obscured map tile within the current level of play. If no obscuring world map tile remains within the current level of play, the group may select any explored world map tile.
-3. **Prepare.** Players may choose to spend 1 round of preparation before deploying. During a round of preparation, a player character (PC) may take the following actions: 
-    - **One action**: This could include casting a spell with a casting time and duration of up to 1 round, activating a game feature, or using an item.
-    - **One bonus action**: Additionally, the PC can perform one bonus action.
-    - **One reaction**: The player gets one reaction.
-    - **One object interaction**: The PC may also interact with one object.
-    - **Free actions**: The player can take any number of free actions.
+3. **Prepare.** Player Characters (PCs) may choose to spend 1 round of preparation. A preparation round shares characteristics with an encounter round. The PC may take the following actions during preparation: 
+    - **1 action**: This could include casting a spell with a casting time and duration of up to 1 round, activating a game feature, or using an item.
+    - **1 bonus action**: Additionally, the PC can perform one bonus action.
+    - **1 reaction**: The PC gets one reaction.
+    - **1 object interaction**: The PC may also interact with one object.
+    - **∞ Free actions**: The PC can take any number of free actions.
 
     A PC may move during a round of preparation by placing its token onto a downtime location in HQ that exchanges ⛁ for items or game features, receiving any benefits as if completing a round of downtime and returning back to the map room afterward.
 4. **Setup.** Place an empty 14 x 14 exploration map beside the world map. Roll a d20 onto the exploration map before placing any tiles and note the location of where the dice lands. This determines the starting position for the PCs.
