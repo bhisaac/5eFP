@@ -82,7 +82,12 @@ Players will find that the action revolves around a typical in-game day, which b
 
 The world map drives the game's story and content. It is a top-down illustration of the game world or region divided into a 14-square by 14-square grid. Each square within the grid is measured 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters. The map contains
 - (49) 2x2 grey obscuring map tiles linked to a setting handbook
-- (49) 2x2 black obscuring map tiles
+- (196) 2x2 black obscuring map tiles with the following modifications
+    - (40) are marked with hybrid orbs or circles (all colors in four quadrants)
+    - (20) are marked with a red orb or solid red circle on one side
+    - (20) are marked with a green orb or solid green circle on one side
+    - (12) are marked with a golden orb or gold solid circle on one side
+    - (6) are marked with a white orb or solid white circle on one side
 - (9) 2x2 world map tiles for each cardinal direction
 - (3) 2x2 world map tiles for each hybrid ordinal direction
 - (1) 2x2 HQ tile unique to a setting handbook
@@ -110,8 +115,11 @@ Steps taken for world map deployment:
 - **White Orb or Solid White Circle.** The obscuring tile covered a setting handbook requirement (see _Setting Handbook_ below).
 - **Gold Orb or Solid Gold Circle.** The obscuring tile covered a _campfire encounter_ (TBD) on the world map or _treasure_ on an encounter map (TBD).
 - **Green Orb or Solid Green Circle.** The obscuring tile covered _resources_ (TBD).
+- **Hybrid Orb or Solid Hybrid Circle.** Choose what the obscuring tile covered from a foothold, a setting handbook requirement, a campfire encounter, or resources.
 
-Discard the obscuring tile after resolving any revealed icons. If the obscuring map tile revealed a foothold, briefly reveal the map tile it obscures and note its terrain type. Set up the foothold with this terrain, modified by any revealed story elements and encounters. Note the cardinal or ordinal direction you used to move onto the foothold from the world map. The party then enters the foothold from the same direction used to enter it unless the foothold describes a designated starting area.
+If you discover a foothold after the party has discovered five footholds, discard it and increase the time marker by 1 step.
+
+Discard the obscuring tile after resolving any revealed icons. If the obscuring map tile revealed a foothold, briefly reveal the map tile it obscures and note its terrain type. Set up the foothold with this terrain, modified by any revealed story elements and encounters. Note the cardinal or ordinal direction you used to move onto the foothold from the world map. The party then enters the foothold and places their tokens near each other along one side of the map unless the foothold describes a designated starting area.
 
 ### Story Directions and Elements
 
@@ -136,7 +144,7 @@ A foothold is a region on the world map containing an encounter that challenges 
 ### Encounter Map
 
 - 28-square by 28-square grid (piece together four 14-square by 14-square grids).
-- Players place their tokens on the side opposite the direction they entered from the exploration map unless the encounter specifies a designated starting area. For example, if the party token is moved onto the map from the W direction (the party token controller moves the party token from the adjacent tile to the E), the PCs appear and place their tokens along the E side of the map. Similarly, moving in the SW direction results in PC tokens being placed on the NE edge of the map.
+- Players place their tokens on one side of the map unless the encounter specifies a designated starting area. For example, if the party token is moved onto the map from the W direction (the party token controller moves the party token from the adjacent tile to the E), the PCs appear and place their tokens along the E side of the map. Similarly, moving in the SW direction results in PC tokens being placed on the NE edge of the map.
 - An encounter map is combined with four smaller 14 x 14 maps, each forming four quadrants: NW, NE, SE, and SW.
 - Each quadrant is either blank or modified by the encounter based on any story elements rolled or drawn. Some story elements only modify a specific quadrant, while others can modify the entire map. Organize story elements by size in descending order. Set up story elements on the map one at a time in this order, beginning with the biggest area and ending with the smallest area.
 
