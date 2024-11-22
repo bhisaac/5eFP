@@ -89,7 +89,7 @@ Steps taken for world map deployment:
 3. **Prepare.** Players may choose to spend 1 round of preparation before deploying. During a round of preparation, a player character (PC) may take the following actions: 
     - **One action**: This could include casting a spell with a casting time and duration of up to 1 round, activating a game feature, or using an item.
     - **One bonus action**: Additionally, the PC can perform one bonus action.
-    - **One reaction**: Players get one reaction.
+    - **One reaction**: The player gets one reaction.
     - **One object interaction**: The PC may also interact with one object.
     - **Free actions**: The player can take any number of free actions.
 
