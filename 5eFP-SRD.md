@@ -80,7 +80,14 @@ Players will find that the action revolves around a typical in-game day, which b
 
 ### World Map
 
-The world map drives the game's story and content. It is a top-down illustration of the game world or region divided into a 14-square by 14-square grid. Each square within the grid is measured 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters. The map contains (49) 2x2 obscuring map tiles unique to a setting handbook that covers the map at the start of the game,  (49) 2x2 black obscuring map tiles, (9) 2x2 world map tiles for each cardinal direction, (3) 2x2 world map tiles for each hybrid ordinal direction, and (1) 2x2 HQ tile. A road connected to HQ diagonally divides hybrid world map tiles from one corner to the opposite. Hybrid world map tiles share characteristics with adjacent world map tiles.
+The world map drives the game's story and content. It is a top-down illustration of the game world or region divided into a 14-square by 14-square grid. Each square within the grid is measured 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters. The map contains
+- (49) 2x2 grey obscuring map tiles linked to a setting handbook
+- (49) 2x2 black obscuring map tiles
+- (9) 2x2 world map tiles for each cardinal direction
+- (3) 2x2 world map tiles for each hybrid ordinal direction
+- (1) 2x2 HQ tile unique to a setting handbook
+
+A road connected to HQ diagonally divides hybrid world map tiles from one corner to the opposite. Hybrid world map tiles share characteristics with adjacent world map tiles.
 
 Steps taken for world map deployment:
 
@@ -98,15 +105,13 @@ Steps taken for world map deployment:
 6. **Choose Party Token Controller.** PCs appoint one player as the group token controller. The PC with the most overland movement bonuses is typically the group token controller. Some background, species, and class features provide significant bonuses while controlling the group token during exploration.
 7. **Move the group token.** The group token controller moves the token, revealing obscuring world map tiles in sight along the way.
 
-**Removing Obscuring Map Tiles.** While deployed onto a map, before you move onto a world map tile covered by an obscuring map tile, turn over the obscuring map tile in place. The underside of the obscuring map tile may display one of several possible icons.
+**Removing Obscuring Map Tiles.** The party token controller reveals and removes obscuring map tiles when placed onto a map and while moving the party token within its line of sight. Some backgrounds such as _street rat_ reveal additional obscuring map tiles. Before removing an obscuring map tile, turn it upside down. The underside of the obscuring map tile may display one of several possible icons.
 - **Red Orb or Solid Red Circle.** The obscuring tile covered a foothold (see _Foothold_ below).
 - **White Orb or Solid White Circle.** The obscuring tile covered a setting handbook requirement (see _Setting Handbook_ below).
 - **Gold Orb or Solid Gold Circle.** The obscuring tile covered a _campfire encounter_ (TBD) on the world map or _treasure_ on an encounter map (TBD).
 - **Green Orb or Solid Green Circle.** The obscuring tile covered _resources_ (TBD).
 
-After revealing the obscured map tile, move the party token onto it and determine the results of all revealed icons. Discard the obscuring tile after resolving any triggered game features.
-
-If the obscuring map tile revealed a foothold, briefly reveal the map tile it obscures and note its terrain type. Set up the foothold with this terrain, modified by any revealed story elements and encounters. Note the cardinal or ordinal direction you used to move onto the foothold from the world map. The party then enters the foothold from the same direction used to enter it unless the foothold describes a designated starting area.
+Discard the obscuring tile after resolving any revealed icons. If the obscuring map tile revealed a foothold, briefly reveal the map tile it obscures and note its terrain type. Set up the foothold with this terrain, modified by any revealed story elements and encounters. Note the cardinal or ordinal direction you used to move onto the foothold from the world map. The party then enters the foothold from the same direction used to enter it unless the foothold describes a designated starting area.
 
 ### Story Directions and Elements
 
@@ -229,12 +234,19 @@ TBA
 
 LEVEL is a placeholder representing the level of your 5eFP game. LEVEL initially starts at 1 and increases as game objectives are completed.
 
-### Short Rest
+### Rest
 
-Unless otherwise stated in your setting handbook, you can complete up to two short rests per game session. When you finish a short rest, you first receive a number of healing points equal to LEVEL. Then, any additional game features that activate during a short are resolved.
+Unless otherwise stated in your setting handbook, you can complete up to two rests per game session. When you finish a rest, you first discard up to LEVEL wounds. Then, any additional game features that activate when completing a rest are resolved.
 
 > What happened to the long rest?
->> 5eFP does not use long rest rules.
+>> 5eFP does not use long rest rules. A long rest is achieved through downtime rounds and rest and repairs at the end of a game session.
+
+### Setting Up the Game (floating section)
+
+At the beginning of the game (session 0):
+- Cover the world map with grey obscuring map tiles
+- Read the scenario start section in your setting handbook out loud
+- Replace an obscuring map tile with the HQ tile
 
 # Character Creation
 
