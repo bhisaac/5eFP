@@ -92,7 +92,7 @@ The world map drives the game's story and content. It is a top-down illustration
 - (3) 2x2 world map tiles for each hybrid ordinal direction
 - (1) 2x2 HQ tile unique to a setting handbook
 
-A road connected to HQ diagonally divides hybrid world map tiles from one corner to the opposite. Hybrid world map tiles share characteristics with adjacent world map tiles.
+A road connected to HQ diagonally divides hybrid world map tiles from one corner to the opposite along a contiguous line. Hybrid world map tiles share characteristics with adjacent world map tiles.
 
 Steps taken for world map deployment:
 
