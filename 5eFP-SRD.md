@@ -146,11 +146,11 @@ HQ will sometimes create satellite locations within the world map. Each satellit
 
 HQ usually remains in one static location while PCs deploy on missions outward from the world map's center. However, some HQs relocate on the world map while other HQs have movable tokens representing a deployable vehicle or station with sufficient resources and life support. Deployable HQ tokens function identically to static HQ world map tiles.
 
+You begin the game by revealing the HQ world map tile to all players, reading any read-aloud text listed in your setting handbook for the start of the game.
+
 #### Game Session Start
 
 Unless stated otherwise, you always begin the game at HQ.
-
-You begin the game by revealing the HQ world map tile to all players. Place the HQ tile at the world map center tile position, reading any read-aloud text listed in your setting handbook for the start of the game.
 
 #### Game Session End
 
