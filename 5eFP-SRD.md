@@ -3947,13 +3947,14 @@ Some creature minions have the critter tag. Critters are typically tiny or small
 
 **Elite.** Elites represent advanced encounters which may include a number of minion encounters. Monster encounters treat elites as creatures with advanced stats and features. Non-monster encounters represent situations where PCs must overcome adversity several times before achieving completion. Examples: convince a skeptical creature of something or gather clues. While elite monster encounters are resolved in rounds, non-monster elite encounters may take an hour to resolve.
 
-**Boss.** Boss encounters are difficult and include minion and elite encounters. Monster encounters treat bosses as creatures with advanced stats, features, and special tactics benefiting from the presence of one or more minions. Non-monster encounters represent difficult situations where PCs must overcome challenging conditions several times while also dealing with some simultaneous minion encounters. Non-monster boss encounters resolve after all non-monster minion encounters are resolved. Examples: attempt to sway the opinion of an adversary and associated followers or put out a fire spreading through a village while rescuing trapped villagers. While boss monster encounters are resolved in rounds, non-monster boss encounters may take several hours to resolve.
+**Boss.** Boss encounters are difficult and include minion and elite encounters. Monster encounters treat bosses as creatures with advanced stats, features, and special tactics benefiting from the presence of one or more minions. Non-monster encounters represent difficult situations where PCs must overcome challenging conditions several times while also dealing with some simultaneous minion 
+ and elite encounters. Non-monster boss encounters resolve after all non-monster minion encounters are resolved. Examples: attempt to sway the opinion of an adversary and associated followers or put out a fire spreading through a village while rescuing trapped villagers. While boss monster encounters are resolved in rounds, non-monster boss encounters may take several hours to resolve.
 
 **LEVEL.** The current level of play.
 
 **Difficulty Class (DC).** If an encounter attack or game feature requires an ability check, set the DC to this number. If the PCs take action against an encounter resulting in a melee or ranged attack, they must hit a DC equal to this number to succeed.
 
-**Bonus.** If any part of an encounter relies on a modifier to a d20 roll, it uses this number as the modifier. An encounter may list one or more ability scores with bonuses in its description. If the encounter rolls an ability check with one of the listed ability scores, add its corresponding bonus to the result.
+**Bonus.** If any part of an encounter relies on a modifier to a d20 roll, it uses this number as the modifier. An encounter may list one or more ability scores with bonuses in its description. If the encounter rolls an ability check with one of the listed ability scores, add its bonus to the result.
 
 If an encounter relies on a passive bonus, determine the passive bonus by adding 10 to the value of this bonus.
 
