@@ -3970,12 +3970,38 @@ The encounter statistics provided represent average values. Any number of statis
 
 A minion's MAX wounds and damage cannot be customized.
 
-Encounter elements cannot be reduced below the following values:
+Encounter statistics cannot be reduced below the following values:
 - **Damage** 1
-- **DC** 12 (minion), 13 (elite), 14 (boss)
+- **DC** 12
+- **Bonus** +2
 - **Speed** 2
 - **MAX Wounds (elite)** 2
-- **MAX Wounds (boss)** 5 
+- **MAX Wounds (boss)** 5
+
+### Elite Creature Encounter Templates (in progress ...)
+
+Elite creatures within an encounter can be further customized with healer, mage, scoundrel, and warrior templates. Add the template features to the designated creature or creatures in an encounter.
+
+### Healer Template
+- MAX Wounds +1
+- Defense +1
+- Action: target a creature within 6 squares. For the rest of the encounter, if the target is assigned 1 or more points of damage, reduce that damage by 1. If another friendly creature is within 6 squares of the target, move this beneficial effect onto it, favoring the target with more wounds.
+
+### Scoundrel Template
+- MAX Wounds +1
+- Defense +1
+- Immunity to the taunt condition
+
+### Mage Template
+- Defense -2
+- The elite gains one of three magic attacks that require an action to activate. The elite may use this magic attack twice per encounter.
+    - **_Dart_** targets 1 creature within 6 squares, reducing its speed by 2 until the beginning of the elite's next turn.
+    - **_Burst_** deals magic damage to all creatures within 1 square of the elite.
+    - **_Line_** affects all creatures who fail a DEX check within a 6-square by 1-square line originating from the elite. _Line_ deals magic damage to a target at the start of each of their turns. A creature can spend an action on thier turn to remove this effect from one target.
+
+### Warrior Template
+- Defense +2
+- MAX Wounds +2
 
 # Encounter Type
 
