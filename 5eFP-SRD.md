@@ -371,17 +371,17 @@ As a high elf, you have strong ties to nature and magic. In many fantasy gaming 
 - **Feywild.** You can cast the *misty step* spell once using this trait. You regain the ability to do so when you finish a short or long rest.
 - **Shadowfell.** You can cast the *faerie fire* spell once using this trait. You regain the ability to do so when you finish a short or long rest.
 
-### Wealden Elf
+### Wood Elf
 
-As a wealden elf, you have deep awareness and intuition, and your attunement to nature carries you quickly and stealthily through natural terrain. Wealden elves tend to be reclusive and distrusting of non-elves.
+As a wood elf, you have deep awareness and intuition, and your attunement to nature carries you quickly and stealthily through natural terrain. Wood elves tend to be reclusive and distrustful of non-elves.
 
 **Ability Score Increase.** If you assign a +1 or greater to your Wisdom score (WIS) during character creation, increase your WIS by an additional +1.
 
 **Elf Weapon Training.** You have proficiency with the longsword, shortsword, shortbow, and longbow.
 
-**Expeditious.** Your base speed increases by +1 square whenever you move through at least one square of natural terrain (arctic,	coast,	desert,	forest, grassland,	mountain,	or	swamp).
+**Fleet of Foot.** Your base speed increases by +1 square whenever you move through at least one square of natural terrain (arctic,	coast,	desert,	forest, grassland,	mountain,	or	swamp).
 
-**Naturemeld.** At the beginning of each of your turns, if you start your turn on natural terrain (arctic,	coast,	desert,	forest, grassland,	mountain,	or	swamp), you gain advantage on DEX checks until the beginning of your next turn.
+**Mask of the Wild.** At the beginning of each of your turns, if you start your turn on natural terrain (arctic,	coast,	desert,	forest, grassland,	mountain,	or	swamp), you gain advantage on DEX checks until the beginning of your next turn.
 
 ## Halfling
 
