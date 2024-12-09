@@ -379,7 +379,7 @@ As a wood elf, you have deep awareness and intuition, and your attunement to nat
 
 **Elf Weapon Training.** You have proficiency with the longsword, shortsword, shortbow, and longbow.
 
-**Fleet of Foot.** Your base speed increases by +1 square whenever you move through at least one square of natural terrain (arctic,	coast,	desert,	forest, grassland,	mountain,	or	swamp).
+**Fleet of Foot.** If you start your turn on or move through one or more squares of natural terrain (arctic, coast, desert, forest, grassland, mountain, or swamp), increase your base speed by +1.
 
 **Mask of the Wild.** At the beginning of each of your turns, if you start your turn on natural terrain (arctic,	coast,	desert,	forest, grassland,	mountain,	or	swamp), you gain advantage on DEX checks until the beginning of your next turn.
 
