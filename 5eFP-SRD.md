@@ -4027,11 +4027,14 @@ A treasure encounter may include
 
 Monster encounters use the encounter stats provided to determine the monster's strengths and statistics.
 
->Monster encounters use one of three templates:
+>Monster encounters use one of three templates (testing):
 >
 >- **Minion.** Place (number of PCs + 1) minions onto the playing field.
 >- **Elite.** As **Minion** plus add 2 elites onto the playing field.
->- **Boss.** As **Minion** plus add 1 boss onto the playing field adjacent to a minion.
+>- **Boss.** As **Elite** plus add 1 boss onto the playing field adjacent to a minion.
+>
+>Solo-Play (testing):
+>- **Elite.** As **Minion** plus add 1 elite onto the playing field.
 
 ### Size
 
