@@ -4035,6 +4035,7 @@ Monster encounters use the encounter stats provided to determine the monster's s
 >
 >Solo-Play (testing):
 >- **Elite.** As **Minion** plus add 1 elite onto the playing field.
+>- **Boss.** As **Minion** plus add 1 boss onto the playing field.
 
 ### Size
 
