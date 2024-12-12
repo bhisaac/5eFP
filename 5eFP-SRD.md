@@ -3985,7 +3985,7 @@ Elite creatures within an encounter can be further customized with healer, mage,
 ### Healer Template
 - MAX Wounds +1
 - Defense +1
-- Action: target a creature within 6 squares. For the rest of the encounter, if the target is assigned 1 or more points of damage, reduce that damage by 1. If another friendly creature is within 6 squares of the target, move this beneficial effect onto it, favoring the target with more wounds.
+- Action: target a creature within 6 squares. For the rest of the encounter, if the target is assigned 1 or more points of damage, reduce that damage by 1. If another friendly creature is within 6 squares of the target, move this beneficial effect onto it at the end of the turn, favoring the target with more wounds. The elite can use this feature once per encounter.
 
 ### Scoundrel Template
 - MAX Wounds +1
@@ -4003,6 +4003,7 @@ Elite creatures within an encounter can be further customized with healer, mage,
 ### Warrior Template
 - Defense +2
 - MAX Wounds +2
+- Multiattack: The elite makes two attacks.
 
 # Encounter Type
 
