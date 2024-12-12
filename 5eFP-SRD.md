@@ -3994,10 +3994,11 @@ Elite creatures within an encounter can be further customized with healer, mage,
 
 ### Mage Template
 - Defense -2
-- The elite gains one of three magic attacks that require an action to activate. The elite may use this magic attack twice per encounter.
-    - **_Dart_** targets 1 creature within 6 squares, reducing its speed by 2 until the beginning of the elite's next turn.
-    - **_Burst_** deals magic damage to all creatures within 1 square of the elite.
-    - **_Line_** affects all creatures who fail a DEX check within a 6-square by 1-square line originating from the elite. _Line_ deals magic damage to a target at the start of each of their turns. A creature can spend an action on thier turn to remove this effect from one target.
+- The elite gains two magic attacks.
+    - **_Dart_ (action)** deals magic damage to one creature within 6 squares, reducing its speed by 2 until the beginning of the elite's next turn.
+    - **_Burst_ (action)** deals magic damage to all creatures within 1 square.
+-  The elite gains limited use of an additional magic attack. The elite may use this magic attack twice per encounter.
+    - **_Line_ (action)** affects all creatures who fail a DEX check within a 6-square by 1-square line originating from the elite. _Line_ deals magic damage to a target at the start of each of their turns. A creature can spend its action to remove this effect or remove it from another creature within 1 square.
 
 ### Warrior Template
 - Defense +2
