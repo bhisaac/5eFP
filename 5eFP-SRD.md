@@ -83,11 +83,11 @@ Players will find that the action revolves around a typical in-game day, which b
 The world map drives the game's story and content. It is a top-down illustration of the game world or region divided into a 14-square by 14-square grid. Each square within the grid is measured 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters. The map contains
 - (49) 2x2 grey obscuring map tiles linked to a setting handbook
 - (196) 2x2 black obscuring map tiles with the following modifications
-    - (40) are marked on the underside with hybrid orbs or circles (all colors separated into four quadrants)
-    - (20) are marked on the underside with a red orb or solid red circle on one side
-    - (20) are marked on the underside with a green orb or solid green circle on one side
-    - (12) are marked on the underside with a golden orb or gold solid circle on one side
-    - (6) are marked on the underside with a white orb or solid white circle on one side
+    - (40) are marked with hybrid orbs or circles (all colors separated into four quadrants) on one side
+    - (20) are marked with a red orb or solid red circle on one side
+    - (20) are marked with a green orb or solid green circle on one side
+    - (12) are marked with a golden orb or gold solid circle on one side
+    - (6) are marked with a white orb or solid white circle on one side
 - (9) 2x2 world map tiles for each cardinal direction
 - (3) 2x2 world map tiles for each hybrid ordinal direction
 - (1) 2x2 HQ tile unique to a setting handbook
