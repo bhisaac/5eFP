@@ -102,15 +102,15 @@ Steps taken for world map deployment:
     - **1 action**: This could include casting a spell with a casting time and duration of up to 1 round, activating a game feature, or using an item.
     - **1 bonus action**: Additionally, the PC can perform one bonus action.
     - **1 reaction**: The PC gets one reaction.
-    - **1 object interaction**: The PC may also interact with one object.
+    - **1 object interaction**: The PC may also interact with one object, such as readying a weapon or equipping a shield or item.
     - **∞ Free actions**: The PC can take any number of free actions.
-    - **Movement**: A PC may move once during a round of preparation by placing its token onto a downtime location in HQ that exchanges ⛁ for items or game features, receiving any benefits as if completing a round of downtime and returning back to the map room afterward.
+    - **Movement**: A PC may move once during a round of preparation by placing its token onto a downtime location in HQ that exchanges ⛁ for items or game features, receiving any benefits as if completing a round of downtime and returning to the map room afterward.
 4. **Setup.** Place an empty 14 x 14 exploration map beside the world map. Randomize the starting position for the PCs. Set up the time marker for an 8-hour countdown.
 5. **Deploy.** The GM reveals the obscuring map tile on the exploration map at the starting position determined in the previous step, resolves any revealed icons on the underside of the obscuring map tile, and places the group token on it.
-6. **Choose Party Token Controller.** PCs appoint one player as the party token controller. The PC with the most overland movement bonuses is typically the party token controller. Some background, species, and class features provide significant bonuses while controlling the party token during exploration.
-7. **Move the party token.** The group token controller moves the token up to their speed, revealing obscuring world map tiles in sight along the way. Most have a sight of 1, which means one reveals obscuring world map tiles within 1 square.
+6. **Choose Party Token Controller.** PCs appoint one player as the party token controller. The PC with the most advantageous movement bonus is typically the party token controller. Some background, species, and class features provide significant bonuses while controlling the party token. PCs can change who controls the party token each round if desired.
+7. **Move the party token.** The party token controller moves the token up to their speed, revealing obscuring world map tiles in sight.
 
-**Removing Obscuring Map Tiles.** The party token controller reveals and removes obscuring map tiles when placed onto a map and while moving the party token within its line of sight. Some backgrounds such as _street rat_ reveal additional obscuring map tiles. Before removing an obscuring map tile, turn it upside down. The underside of the obscuring map tile may display one of several possible icons.
+**Removing Obscuring Map Tiles.** The party token controller reveals and removes obscuring map tiles while moving the party token within its line of sight. Most have a sight of 1, which means the party token controller reveals obscuring world map tiles within 1 square. Some backgrounds such as _street rat_ reveal additional obscuring map tiles. Before removing an obscuring map tile, turn it upside down. The underside of the obscuring map tile may display one of several possible icons.
 - **Red Orb or Solid Red Circle.** The obscuring tile covered a foothold (see _Foothold_ below).
 - **White Orb or Solid White Circle.** The obscuring tile covered a setting handbook requirement (see _Setting Handbook_ below).
 - **Gold Orb or Solid Gold Circle.** The obscuring tile covered a _campfire encounter_ (TBD) on the world map or _treasure_ on an encounter map (TBD).
