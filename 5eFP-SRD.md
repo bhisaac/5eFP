@@ -200,41 +200,18 @@ The nature of how PCs recall depends on the game world you are playing in, which
 
 All details about the 5eFP practice you are joining can be found in your setting handbook.
 
-#### GM CONTACT DETAILS
-
-Find ways to contact your GM, including your GM's availability schedule.
-
-#### WORLD MAP
-
-This section describes the pre-conflict game world, now obscured by the conflict.
-
-#### HQ
-
-Explore details about HQ's organization or organizing force and the role PCs play within it.
-
-#### CONFLICT
-
-The conflict is the central crisis or adverse conditions transforming the game world into an unbalanced and afflicted state. It cannot be resolved at LEVEL 1 and requires completing a specific prerequisite at LEVEL 7. This section lists changes or additions to game features that relate directly to the conflict.
-
-#### STORY DIRECTIONS
-
-The four cardinal story directions are revealed.
-
-#### FAST TRAVEL
-
-The method of achieving fast travel in your game is explained.
-
-#### RECALL
-
-This section explains how you Recall in your game, including any special equipment or game features linked to your ability to Recall. 
-
-#### SETTING HANDBOOK REQUIREMENT
-
-Each setting has a special task that needs to be completed before finishing a game session. This may involve but isn't limited to placing and using an item, locating and gathering an item, finding and rescuing bystanders, gathering intelligence, or gathering a resource. For example, PCs must find and gather a starflower in the Enchanted Forest setting.
+- **GM CONTACT DETAILS.** Contact your GM and view their availability schedule.
+- **WORLD MAP.** Describes and illustrates the pre-conflict game world.
+- **HQ.** Details about HQ's organization or organizing force and the role PCs play within it.
+- **CONFLICT.** Reveals the central crisis or adverse conditions transforming the game world into an unbalanced and afflicted state. This conflict cannot be resolved at LEVEL 1 and requires completing a specific prerequisite at LEVEL 7. Includes changes or additions to game features that relate directly to the conflict.
+- **STORY DIRECTIONS.** The four cardinal story directions are defined.
+- **FAST TRAVEL.** How fast travel is achieved.
+- **RECALL.** Details on how PCs Recall, including any related special equipment or game features. 
+- **SETTING HANDBOOK REQUIREMENT.** PCs must complete this special task each game session, which might involve but isn't limited to placing and using an item, locating and gathering an item, finding and rescuing bystanders, gathering intelligence, or gathering a resource. For example, PCs must find and gather a starflower in the _Enchanted Forest_ setting.
 
 ### LEVEL
 
-LEVEL is a placeholder representing the level of your 5eFP game. LEVEL initially starts at 1 and increases as game objectives are completed.
+LEVEL is a placeholder number that starts at 1 and increases over time to 7 as game objectives are completed.
 
 ### Setting Up the Game (floating section)
 
