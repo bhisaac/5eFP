@@ -200,16 +200,16 @@ The nature of how PCs recall depends on the game world you are playing in, which
 
 LEVEL equals the current level of play. LEVEL starts at 1 and increases over time to 7 as game objectives are completed.
 
-**LEVEL PROGRESSION**
+**PROGRESSION**
 |||
 |-:|:-|
-|LEVEL|Prerequisites|
-|2|Explore all world map tiles 1 square away from HQ.|
-|3|Explore all world map tiles 2 squares away from HQ.|
-|4|Explore all world map tiles 3 squares away from HQ.|
-|5|Resolve remaining footholds on each map tile 1 square away from HQ.|
-|6|Resolve remaining footholds on each map tile 2 squares away from HQ.|
-|7|Resolve remaining footholds on each map tile 3 squares away from HQ.|
+||Prerequisites|
+|2|Explore each world map tile 1 square away from HQ.|
+|3|LEVEL 2, explore each world map tile 2 squares away from HQ.|
+|4|LEVEL 3, explore each world map tile 3 squares away from HQ.|
+|5|LEVEL 4, resolve remaining footholds on each map tile 1 square away from HQ.|
+|6|LEVEL 5, resolve remaining footholds on each map tile 2 squares away from HQ.|
+|7|LEVEL 6, resolve remaining footholds on each map tile 3 squares away from HQ.|
 
 ### Setting Handbook
 
