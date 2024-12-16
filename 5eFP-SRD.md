@@ -117,7 +117,7 @@ Steps taken for world map deployment:
 - **Green Orb or Solid Green Circle.** The obscuring tile covered _resources_ (TBD).
 - **Hybrid Orb or Solid Hybrid Circle.** Choose what the obscuring tile covered from a foothold, a setting handbook requirement, a campfire encounter, or resources.
 
-If you discover a foothold after the party has discovered five footholds, discard it and increase the time marker by 1 step.
+If a foothold is revealed after the party has revealed five footholds, or if a white circle is revealed after the party has acquired the setting handbook requirement, discard it and lower the time marker by one step.
 
 Discard the obscuring tile after resolving any revealed icons. If the obscuring map tile revealed a foothold, briefly reveal the map tile it obscures and note its terrain type. Set up the foothold with this terrain, modified by any revealed story elements and encounters. Note the cardinal or ordinal direction you used to move onto the foothold from the world map. The party then enters the foothold and places their tokens near each other along one side of the map unless the foothold describes a designated starting area.
 
