@@ -182,11 +182,9 @@ A group of PCs deploy to a designated world map tile simultaneously. Deployment 
 
 ### Recall
 
-PCs are transported back to HQ after performing a Recall ritual outside of an encounter. PCs automatically Recall 8 hours after deploying onto the world map.
+A PC is transported back to the HQ map room after finishing a Recall ritual completed outside of an encounter. PCs automatically Recall when the time marker reaches 0 (8 hours) after deploying onto the world map. A PC may only recall once per game session.
 
-When PCs in a group are finished with their objectives, they may recall back to the HQ map room at any time by performing a special ritual that can only be completed outside of an encounter. Once one or more PCs complete a recall ritual, all PCs in the group recall simultaneously, returning to the HQ map room. The nature of how PCs recall depends on the game world you are playing in, which is detailed in your setting handbook. PCs automatically recall if they haven't already done so after 8 hours.
-
-~~Once deployed, PCs in a group may recall back to the headquarters (HQ) map room at any time by performing a special ritual that can only be completed outside of an encounter. Once one or more PCs complete a recall ritual, all PCs in the group recall simultaneously. After 8 hours have elapsed while deployed, any PC not currently located at HQ is automatically recalled. A PC may only recall once per game session.~~
+The nature of how PCs recall depends on the game world you are playing in, which is detailed in your setting handbook.
 
 > For Game Masters: How do the PCs recall?
 > 
