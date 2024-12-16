@@ -196,6 +196,10 @@ The nature of how PCs recall depends on the game world you are playing in, which
 > 
 >> A condition or situation afflicts the world map. This condition or situation makes prolonged contact impossible or lethal. What's going on in your world map that explains this limit? For example, in Enchanted Forest, the Enchantress Queen can only keep the PCs safe from the Nightmare for up to 8 hours once the PCs have deployed. Keeping PCs safe from the Nightmare for 8 hours consumes 1 starflower. The Enchantress Queen must then finish a long rest before undertaking another deployment.
 
+### LEVEL
+
+LEVEL is a placeholder number that starts at 1 and increases over time to 7 as game objectives are completed.
+
 ### Setting Handbook
 
 All details about the 5eFP practice you are joining can be found in your setting handbook.
@@ -208,10 +212,6 @@ All details about the 5eFP practice you are joining can be found in your setting
 - **FAST TRAVEL.** How fast travel is achieved.
 - **RECALL.** Details on how PCs Recall, including any related special equipment or game features. 
 - **SETTING HANDBOOK REQUIREMENT.** PCs must complete this special task each game session, which might involve but isn't limited to placing and using an item, locating and gathering an item, finding and rescuing bystanders, gathering intelligence, or gathering a resource. For example, PCs must find and gather a starflower in the _Enchanted Forest_ setting.
-
-### LEVEL
-
-LEVEL is a placeholder number that starts at 1 and increases over time to 7 as game objectives are completed.
 
 ### Setting Up the Game (floating section)
 
