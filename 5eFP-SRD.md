@@ -151,11 +151,11 @@ A foothold is a region on the world map containing an encounter that challenges 
 
 ### Headquarters (HQ)
 
-Each world map has an HQ, usually located at the center of the world map. HQ represents the central organization or organizing force responsible for maintaining the health and security of the game world or region. All PCs are peers and colleagues within this organization. You are objectively safe from the conflict at HQ, provided HQ's upkeep costs are maintained (see _Setting Handbook_ below).
+Each world map has an HQ, usually located at the center of the world map. HQ represents the central organization or organizing force responsible for maintaining the health and security of the game world or region. All PCs are peers and colleagues within this organization. You are objectively safe from the conflict at HQ, provided HQ receives the setting handbook requirement (see _Setting Handbook_ below).
 
 HQ might be a city, a settlement, an outpost, a watch tower, a ship, or a station. All HQs have a dedicated society of supporters who help PCs complete missions. PCs almost always begin and end a game session at HQ.
 
-HQ will sometimes create satellite locations within the world map. Each satellite behaves as if it were HQ with different downtime options, and you may deploy to a satellite location at the start of a downtime round, returning to HQ afterward. Satellite locations are less secure than HQ but remain relatively safe and protected, provided PCs meet HQ's upkeep costs. Local circumstances, conditions, and disturbances can affect the safety and protection offered by HQ. A temporary suspension of HQ protection results in PCs losing the ability to rest and repair. Coins spent on rest and repairs are lost during these circumstances. 
+HQ will sometimes create satellite locations within the world map. Each satellite behaves as if it were HQ with different downtime options, and you may deploy to a satellite location at the start of a downtime round, returning to HQ afterward. Satellite locations are less secure than HQ but remain relatively safe and protected, provided PCs find the setting handbook requirement. Local circumstances, conditions, and disturbances can affect the safety and protection offered by HQ. A temporary suspension of HQ protection results in PCs losing the ability to rest and repair. Coins spent on rest and repairs are lost during these circumstances.
 
 HQ usually remains in one static location while PCs deploy on missions outward from the world map's center. However, some HQs relocate on the world map while other HQs have movable tokens representing a deployable vehicle or station with sufficient resources and life support. Deployable HQ tokens function identically to static HQ world map tiles.
 
@@ -216,6 +216,7 @@ LEVEL equals the current level of play. LEVEL starts at 1 and increases over tim
 
 All details about the 5eFP practice you are joining can be found in your setting handbook.
 
+- **READ-ALOUD TEXT.** Your GM reads this text aloud at the beginning of the game.
 - **GM CONTACT DETAILS.** Contact your GM and view their availability schedule.
 - **WORLD MAP.** Describes and illustrates the pre-conflict game world.
 - **HQ.** Details about HQ's organization or organizing force and the role PCs play within it.
@@ -229,7 +230,7 @@ All details about the 5eFP practice you are joining can be found in your setting
 
 At the beginning of the game (session 0):
 - Cover the world map with grey obscuring map tiles
-- Read the scenario start section in your setting handbook out loud
+- Read the read-aloud text in your setting handbook
 - Replace an obscuring map tile with the HQ tile
 
 # Character Creation
