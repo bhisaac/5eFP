@@ -110,16 +110,16 @@ Steps taken for world map deployment:
 6. **Choose Party Token Controller.** PCs appoint one player as the party token controller. The PC with the most advantageous movement bonus is typically the party token controller. Some background, species, and class features provide significant bonuses while controlling the party token. PCs can change who controls the party token each round if desired.
 7. **Move the party token.** The party token controller moves the token up to their speed, revealing obscuring world map tiles in sight.
 
-**Removing Obscuring Map Tiles.** The party token controller reveals and removes obscuring map tiles while moving the party token within its line of sight. Most have a sight of 1, which means the party token controller reveals obscuring world map tiles within 1 square. Some backgrounds such as _street rat_ reveal additional obscuring map tiles. Before removing an obscuring map tile, turn it upside down. The underside of the obscuring map tile may display one of several possible icons.
+**Removing Obscuring Map Tiles.** The party token controller reveals and removes obscuring map tiles while moving the party token within its line of sight. Most have a sight of 1, which means the party token controller reveals obscuring world map tiles within 1 square. Some backgrounds such as _street rat_ reveal additional obscuring map tiles. Before removing an obscuring map tile, turn it upside down. The underside of the obscuring map tile may display one of several possible icons displayed within one of four quadrants.
 - **Red Orb or Solid Red Circle.** The obscuring tile covered a foothold (see _Foothold_ below).
 - **White Orb or Solid White Circle.** The obscuring tile covered a setting handbook requirement (see _Setting Handbook_ below).
 - **Gold Orb or Solid Gold Circle.** The obscuring tile covered a _campfire encounter_ (TBD) on the world map or _treasure_ on an encounter map (TBD).
 - **Green Orb or Solid Green Circle.** The obscuring tile covered _resources_ (TBD).
 - **Hybrid Orb or Solid Hybrid Circle.** Choose what the obscuring tile covered from a foothold, a setting handbook requirement, a campfire encounter, or resources.
 
-If a foothold is revealed after the party has revealed five footholds, or if a white circle is revealed after the party has acquired the setting handbook requirement, discard it and lower the time marker by one step.
+If a foothold is revealed after the party has revealed five footholds, or if a white circle is revealed after the party has acquired the setting handbook requirement, discard it and lower the time marker by 1.
 
-Discard the obscuring tile after resolving any revealed icons. If the obscuring map tile revealed a foothold, briefly reveal the map tile it obscures and note its terrain type. Set up the foothold with this terrain, modified by any revealed story elements and encounters. Note the cardinal or ordinal direction you used to move onto the foothold from the world map. The party then enters the foothold and places their tokens near each other along one side of the map unless the foothold describes a designated starting area.
+Discard the obscuring tile after resolving any revealed icons. If the obscuring map tile revealed a foothold, briefly reveal the map tile it obscures and note its terrain type. Set up the foothold with this terrain, modified by any revealed story elements and encounters. Note the cardinal or ordinal direction you used to move onto the foothold from the world map. The party then enters the foothold and places their tokens near each other along the corresponding side of the map unless the foothold describes a designated starting area.
 
 ### Story Directions and Elements
 
@@ -147,7 +147,7 @@ A foothold is a region on the world map containing an encounter that challenges 
 - Do not cover the map with obscuring map tiles.
 - PCs place their tokens on one side of the map unless the encounter specifies a designated starting area. For example, if the party token is moved onto the map from the W direction (the party token controller moves the party token from the adjacent tile to the E), the PCs appear and place their tokens along the E side of the map. Similarly, moving in the SW direction results in PC tokens being placed on the NE edge of the map.
 - An encounter map has four quadrants: NW (quadrant II), NE (quadrant I), SE (quadrant IV), and SW (quadrant III).
-- Each quadrant is either blank or modified by the encounter position revealed when an obscuring map tile is turned upside down, and any story elements rolled or drawn. Some story elements only modify a specific quadrant, while others can modify the entire map. Organize story elements by size in descending order. Set up story elements on the map one at a time in this order, beginning with the biggest area and ending with the smallest area.
+- Each quadrant is either blank or modified by the encounter position revealed when an obscuring map tile is turned upside down, and any story elements rolled or drawn. Some story elements only modify a specific quadrant, while others can modify the entire map.
 
 ### Headquarters (HQ)
 
