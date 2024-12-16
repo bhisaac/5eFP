@@ -208,11 +208,7 @@ Find ways to contact your GM, including your GM's availability schedule.
 
 #### WORLD MAP
 
-This section describes the pre-conflict game world where players uncover the conflict that now obscures it on world map tiles, revealed through exploration. The following must be completed before revealing an obscured world map tile:
-
-- Explore half or more of the map by removing obscuring map tiles.
-- Reveal and resolve three footholds.
-- Complete a special task detailed in your setting handbook.
+This section describes the pre-conflict game world, now obscured by the conflict.
 
 #### HQ
 
@@ -220,7 +216,7 @@ Explore details about HQ's organization or organizing force and the role PCs pla
 
 #### CONFLICT
 
-Central crisis or adverse conditions transforming the game world into an unbalanced and afflicted state. The conflict cannot be resolved at LEVEL 1. Resolving the conflict requires completing a specific prerequisite at LEVEL 7. Discover changes to game features related to the conflict.
+The conflict is the central crisis or adverse conditions transforming the game world into an unbalanced and afflicted state. It cannot be resolved at LEVEL 1 and requires completing a specific prerequisite at LEVEL 7. This section lists changes or additions to game features that relate directly to the conflict.
 
 #### STORY DIRECTIONS
 
@@ -234,20 +230,13 @@ The method of achieving fast travel in your game is explained.
 
 This section explains how you Recall in your game, including any special equipment or game features linked to your ability to Recall. 
 
-### Setting Handbook Requirement
+#### SETTING HANDBOOK REQUIREMENT
 
-TBA
+Each setting has a special task that needs to be completed before finishing a game session. This may involve but isn't limited to placing and using an item, locating and gathering an item, finding and rescuing bystanders, gathering intelligence, or gathering a resource. For example, PCs must find and gather a starflower in the Enchanted Forest setting.
 
 ### LEVEL
 
 LEVEL is a placeholder representing the level of your 5eFP game. LEVEL initially starts at 1 and increases as game objectives are completed.
-
-### Rest
-
-Unless otherwise stated in your setting handbook, you can complete up to two rests per game session. When you finish a rest, you first discard up to LEVEL wounds. Then, any additional game features that activate when completing a rest are resolved.
-
-> What happened to the long rest?
->> 5eFP does not use long rest rules. A long rest is achieved through downtime rounds and rest and repairs at the end of a game session.
 
 ### Setting Up the Game (floating section)
 
@@ -2643,7 +2632,7 @@ Adventurers can rest in the midst of an adventuring day.
 
 A rest is a period of downtime, at least 1 hour long, during which a character does nothing more strenuous than eating, drinking, reading, and tending to wounds.
 
-PCs may remove up to LEVEL wounds at the end of a rest.
+PCs may discard up to LEVEL wounds at the end of a rest.
 
 # Downtime
 
