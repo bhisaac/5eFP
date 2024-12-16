@@ -182,17 +182,17 @@ A group of PCs deploy to a designated world map tile simultaneously. Deployment 
 
 ### Recall
 
-A PC is transported back to the HQ map room after finishing a Recall ritual completed outside of an encounter. PCs automatically Recall when the time marker reaches 0 (8 hours) after deploying onto the world map. A PC may only recall once per game session.
+A PC is transported back to the HQ map room after finishing a Recall ritual completed outside of an encounter. PCs automatically Recall when the time marker reaches 0 (8 hours) after deploying onto the world map. A PC may only Recall once per game session.
 
-The nature of how PCs recall depends on the game world you are playing in, which is detailed in your setting handbook.
+The nature of how PCs Recall depends on the game world you are playing in, which is detailed in your setting handbook.
 
-> For Game Masters: How do the PCs recall?
+> For Game Masters: How do the PCs Recall?
 > 
 >> What technology does the game use to make this happen? Teleportation? Airlifting? Shuttles? Flying mounts?
 >>
 >> For example, in Enchanted Forest, the PCs use mystic skipping stone artifacts gifted to them when they graduate as a Queen's Herald. The stones are powerful magic items that cannot be destroyed. Each stone is unique and bonded to exactly one PC. PCs and their bonded stones simultaneously Recall to HQ.
 >>
-> For Game Masters: Why do the PCs recall automatically after 8 hours?
+> For Game Masters: Why do the PCs Recall automatically after 8 hours?
 > 
 >> A condition or situation afflicts the world map. This condition or situation makes prolonged contact impossible or lethal. What's going on in your world map that explains this limit? For example, in Enchanted Forest, the Enchantress Queen can only keep the PCs safe from the Nightmare for up to 8 hours once the PCs have deployed. Keeping PCs safe from the Nightmare for 8 hours consumes 1 starflower. The Enchantress Queen must then finish a long rest before undertaking another deployment.
 
