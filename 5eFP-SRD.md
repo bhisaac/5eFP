@@ -190,7 +190,7 @@ The nature of how PCs recall depends on the game world you are playing in, which
 > 
 >> What technology does the game use to make this happen? Teleportation? Airlifting? Shuttles? Flying mounts?
 >>
->> For example, in Enchanted Forest, the PCs use mystic skipping stone artifacts gifted to them when they graduate as a Queen's Herald. The stones are powerful magic items that cannot be destroyed. Each stone is unique and bonded to exactly one PC. PCs and their bonded stones simultaneously recall to HQ.
+>> For example, in Enchanted Forest, the PCs use mystic skipping stone artifacts gifted to them when they graduate as a Queen's Herald. The stones are powerful magic items that cannot be destroyed. Each stone is unique and bonded to exactly one PC. PCs and their bonded stones simultaneously Recall to HQ.
 >>
 > For Game Masters: Why do the PCs recall automatically after 8 hours?
 > 
@@ -198,7 +198,18 @@ The nature of how PCs recall depends on the game world you are playing in, which
 
 ### LEVEL
 
-LEVEL is a placeholder number that starts at 1 and increases over time to 7 as game objectives are completed.
+LEVEL equals the current level of play. LEVEL starts at 1 and increases over time to 7 as game objectives are completed.
+
+**LEVEL PROGRESSION**
+|||
+|-:|:-|
+|LEVEL|Prerequisites|
+|2|Explore all world map tiles 1 square away from HQ.|
+|3|Explore all world map tiles 2 squares away from HQ.|
+|4|Explore all world map tiles 3 squares away from HQ.|
+|5|Resolve remaining footholds on each map tile 1 square away from HQ.|
+|6|Resolve remaining footholds on each map tile 2 squares away from HQ.|
+|7|Resolve remaining footholds on each map tile 3 squares away from HQ.|
 
 ### Setting Handbook
 
