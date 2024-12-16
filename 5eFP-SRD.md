@@ -168,10 +168,9 @@ Unless stated otherwise, you always begin the game at HQ.
 #### Game Session End
 
 Unless stated otherwise, you always end the game at HQ. The following occurs when PCs return to HQ:
-1. All ongoing encounter powers, abilities, and features end.
-2. PCs may pay 1 Coin for rest and repairs.
-3. PCs take one downtime round (worker placement) by placing their token on a building within HQ (or linked through HQ at a satellite location).
-4. PCs gain the benefits of completing a long rest.
+1. PCs may pay ⛁ for rest and repairs.
+2. PCs take one downtime round (worker placement) by placing their token on a building within HQ (or linked through HQ at a satellite location). PCs can spend ⛁ to gain a number of bonus downtime rounds equal to the amount spent.
+3. PCs reset all game features on their character sheet.
 
 ### Deploy
 
