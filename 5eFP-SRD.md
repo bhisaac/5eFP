@@ -4003,7 +4003,7 @@ A treasure encounter may include
 
 ## Monster
 
-Monster encounters use the encounter stats provided to determine the monster's strengths and statistics.
+Monster encounters use the encounter stats provided to determine the monster's strengths and statistics. Completing a monster encounter decreases the time marker by 1.
 
 >Monster encounters use one of three templates (testing):
 >
@@ -4066,12 +4066,6 @@ Some creatures can have **any alignment**. In other words, you choose the monste
 Many creatures of low intelligence have no comprehension of law or chaos, good or evil. They don’t make moral or ethical choices, but rather act on instinct. These creatures are **unaligned**, which means they don’t have an alignment.
 
 ### Size
-
-- If an elite monster's size is less than medium, its size becomes medium.
-
-- If a boss monster's size is less than large, its size becomes large. 
-
-If a monster minion is small, the elite version's size increases to medium. If an elite monster's size is medium, the boss version's size increases to large.
 
 ### Speed
 
