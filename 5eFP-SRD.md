@@ -105,10 +105,10 @@ Steps taken for world map deployment:
     - **1 object interaction**: The PC may also interact with one object.
     - **∞ Free actions**: The PC can take any number of free actions.
     - **Movement**: A PC may move once during a round of preparation by placing its token onto a downtime location in HQ that exchanges ⛁ for items or game features, receiving any benefits as if completing a round of downtime and returning back to the map room afterward.
-4. **Setup.** Place an empty 14 x 14 exploration map beside the world map. Roll a d20 onto the exploration map before placing any tiles and note the location of where the dice lands. This determines the starting position for the PCs.
+4. **Setup.** Place an empty 14 x 14 exploration map beside the world map. Randomize the starting position for the PCs. Set up the time marker for an 8-hour countdown.
 5. **Deploy.** The GM reveals the obscuring map tile on the exploration map at the starting position determined in the previous step, resolves any revealed icons on the underside of the obscuring map tile, and places the group token on it.
 6. **Choose Party Token Controller.** PCs appoint one player as the group token controller. The PC with the most overland movement bonuses is typically the group token controller. Some background, species, and class features provide significant bonuses while controlling the group token during exploration.
-7. **Move the group token.** The group token controller moves the token, revealing obscuring world map tiles in sight along the way.
+7. **Move the group token.** The group token controller moves the token up to their speed, revealing obscuring world map tiles in sight along the way. Most have a sight of 1, which means one reveals obscuring world map tiles within 1 square.
 
 **Removing Obscuring Map Tiles.** The party token controller reveals and removes obscuring map tiles when placed onto a map and while moving the party token within its line of sight. Some backgrounds such as _street rat_ reveal additional obscuring map tiles. Before removing an obscuring map tile, turn it upside down. The underside of the obscuring map tile may display one of several possible icons.
 - **Red Orb or Solid Red Circle.** The obscuring tile covered a foothold (see _Foothold_ below).
