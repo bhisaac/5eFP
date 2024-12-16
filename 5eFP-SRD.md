@@ -204,12 +204,12 @@ LEVEL equals the current level of play. LEVEL starts at 1 and increases over tim
 |||
 |-:|:-|
 ||Prerequisites|
-|2|Explore each world map tile 1 square away from HQ.|
-|3|LEVEL 2, explore each world map tile 2 squares away from HQ.|
-|4|LEVEL 3, explore each world map tile 3 squares away from HQ.|
-|5|LEVEL 4, resolve remaining footholds on each map tile 1 square away from HQ.|
-|6|LEVEL 5, resolve remaining footholds on each map tile 2 squares away from HQ.|
-|7|LEVEL 6, resolve remaining footholds on each map tile 3 squares away from HQ.|
+|2|Explore each world map tile 1 square away from HQ|
+|3|LEVEL 2, explore each world map tile 2 squares away from HQ|
+|4|LEVEL 3, explore each world map tile 3 squares away from HQ|
+|5|LEVEL 4, resolve remaining footholds on each map tile 1 square away from HQ|
+|6|LEVEL 5, resolve remaining footholds on each map tile 2 squares away from HQ|
+|7|LEVEL 6, resolve remaining footholds on each map tile 3 squares away from HQ|
 
 ### Setting Handbook
 
