@@ -107,8 +107,8 @@ Steps taken for world map deployment:
     - **Movement**: A PC may move once during a round of preparation by placing its token onto a downtime location in HQ that exchanges ⛁ for items or game features, receiving any benefits as if completing a round of downtime and returning back to the map room afterward.
 4. **Setup.** Place an empty 14 x 14 exploration map beside the world map. Randomize the starting position for the PCs. Set up the time marker for an 8-hour countdown.
 5. **Deploy.** The GM reveals the obscuring map tile on the exploration map at the starting position determined in the previous step, resolves any revealed icons on the underside of the obscuring map tile, and places the group token on it.
-6. **Choose Party Token Controller.** PCs appoint one player as the group token controller. The PC with the most overland movement bonuses is typically the group token controller. Some background, species, and class features provide significant bonuses while controlling the group token during exploration.
-7. **Move the group token.** The group token controller moves the token up to their speed, revealing obscuring world map tiles in sight along the way. Most have a sight of 1, which means one reveals obscuring world map tiles within 1 square.
+6. **Choose Party Token Controller.** PCs appoint one player as the party token controller. The PC with the most overland movement bonuses is typically the party token controller. Some background, species, and class features provide significant bonuses while controlling the party token during exploration.
+7. **Move the party token.** The group token controller moves the token up to their speed, revealing obscuring world map tiles in sight along the way. Most have a sight of 1, which means one reveals obscuring world map tiles within 1 square.
 
 **Removing Obscuring Map Tiles.** The party token controller reveals and removes obscuring map tiles when placed onto a map and while moving the party token within its line of sight. Some backgrounds such as _street rat_ reveal additional obscuring map tiles. Before removing an obscuring map tile, turn it upside down. The underside of the obscuring map tile may display one of several possible icons.
 - **Red Orb or Solid Red Circle.** The obscuring tile covered a foothold (see _Foothold_ below).
@@ -143,10 +143,11 @@ A foothold is a region on the world map containing an encounter that challenges 
 
 ### Encounter Map
 
-- 28-square by 28-square grid (piece together four 14-square by 14-square grids).
-- Players place their tokens on one side of the map unless the encounter specifies a designated starting area. For example, if the party token is moved onto the map from the W direction (the party token controller moves the party token from the adjacent tile to the E), the PCs appear and place their tokens along the E side of the map. Similarly, moving in the SW direction results in PC tokens being placed on the NE edge of the map.
-- An encounter map is combined with four smaller 14 x 14 maps, each forming four quadrants: NW, NE, SE, and SW.
-- Each quadrant is either blank or modified by the encounter based on any story elements rolled or drawn. Some story elements only modify a specific quadrant, while others can modify the entire map. Organize story elements by size in descending order. Set up story elements on the map one at a time in this order, beginning with the biggest area and ending with the smallest area.
+- Set up a 14-square by 14-square encounter map to one side of the exploration map when an encounter is revealed
+- Do not cover the map with obscuring map tiles.
+- PCs place their tokens on one side of the map unless the encounter specifies a designated starting area. For example, if the party token is moved onto the map from the W direction (the party token controller moves the party token from the adjacent tile to the E), the PCs appear and place their tokens along the E side of the map. Similarly, moving in the SW direction results in PC tokens being placed on the NE edge of the map.
+- An encounter map has four quadrants: NW (quadrant II), NE (quadrant I), SE (quadrant IV), and SW (quadrant III).
+- Each quadrant is either blank or modified by the encounter position revealed when an obscuring map tile is turned upside down, and any story elements rolled or drawn. Some story elements only modify a specific quadrant, while others can modify the entire map. Organize story elements by size in descending order. Set up story elements on the map one at a time in this order, beginning with the biggest area and ending with the smallest area.
 
 ### Headquarters (HQ)
 
