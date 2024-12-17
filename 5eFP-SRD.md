@@ -85,7 +85,8 @@ A roll table or frequency table lists potential results likely to occur within a
 ### Discover
 
 5eFP uses the **_discover_** game mechanic. The discover keyword translates into the following rules.
-- If a game feature asks you to discover a game feature, you determine three results from that game feature's roll table or draw three cards from that game feature's deck. 
+- If a game feature asks you to discover a game feature, you determine three results from that game feature's roll table or draw three cards from that game feature's deck.
+    - Choose one result or card and discard the remaining results or cards.
 
 ### World Map
 
