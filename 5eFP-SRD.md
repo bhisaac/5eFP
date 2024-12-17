@@ -4015,6 +4015,10 @@ Monster encounters use the encounter stats provided to determine the monster's s
 >- **Elite.** As **Minion** plus add 1 elite onto the playing field.
 >- **Boss.** As **Minion** plus add 1 boss onto the playing field.
 
+### Minion, Elite, and Boss Features
+
+A minion uses only minion features. Elites combine minion and elite characteristics. Bosses combine both minion and elite features with boss features.
+
 ### Size
 
 ### Type
@@ -4143,7 +4147,7 @@ A creature within the area of an *antimagic field* or in any other location wher
 
 When determining the challenge of a monster encounter, let *N* equal the number of PCs + 1.
 
-An appropriately equipped and well-rested party of adventurers should be able to defeat *N* minions, *N* minions and two elites, or *N* minions and one boss without suffering any deaths.
+An appropriately equipped and well-rested party of adventurers should be able to defeat *N* minions, *N* minions with two elites, or *N* minions with one boss and two elites without suffering any deaths.
 
 ### Special Traits
 
@@ -4201,17 +4205,17 @@ If a monster can do something special with its reaction, that information is con
 
 Some special abilities have restrictions on the number of times they can be used.
 
-**Bolster X.** The notation "Bolster X" means a monster can use a special pool of points to reduce incoming damage. As long as this creature has a bolster pool of 1 or more, it may assign 1 or more bolster points as a free action and reduce incoming damage by 1 for each point spent. Spent points are lost. Whenever a creature has two or more bolster pools, it keeps the largest bolster pool and discards the rest.
+**Bolster X.** The notation "bolster X" means a monster gains a bolster pool equal to X.
 
-For example, "Bolster 2" means a monster can use up to 2 bolster points as a free action to reduce incoming damage by an amount equal to the number of bolster points spent. If the creature uses 1 bolster point, it then has "Bolster 1." If it later gains "Bolster 2," the creature gains "Bolster 2" and discards "Bolster 1."
+**X/encounter.** The notation "X/encounter" means a special ability or game feature can only be used X number of times during an encounter.
 
-**X/Game.** The notation “X/Game” means a special ability or feature can only be used X number of times during one game session.
+**X/session.** The notation “X/session” means a special ability or feature can only be used X number of times during one game session.
 
-**Recharge X–Y.** The notation “Recharge X–Y” means a monster can use a special ability once and that the ability then has a random chance of recharging during each subsequent round of combat. At the start of each of the monster’s turns, roll three action dice. If the number of actions equals one of the numbers in the recharge notation, the monster regains the use of the special ability. The ability also recharges when the monster finishes a short rest.
+**Recharge X–Y.** The notation “Recharge X–Y” means a monster can use a special ability once and that the ability then has a random chance of recharging during each subsequent round of combat. At the start of each of the monster’s turns, roll three action dice. If the number of actions equals one of the numbers in the recharge notation, the monster regains the use of the special ability. The ability also recharges when the monster finishes a Rest.
 
 For example, “Recharge 3–4” means a monster can use the special ability once. Then, at the start of the monster’s turn, it regains the use of that ability if it rolls 3 or 4 actions after rolling three action dice.
 
-**Recharge after a Short Rest.** This notation means that a monster can use a special ability once and then must finish a short rest to use it again.
+**Recharge after a Rest.** This notation means that a monster can use a special ability once and then must finish a short rest to use it again.
 
 >#### Grapple Rules for Monsters
 >Many monsters have special attacks that allow them to quickly grapple prey. When a monster hits with such an attack, it doesn’t need to make an additional ability check to determine whether the grapple succeeds, unless the attack says otherwise.
@@ -4224,8 +4228,6 @@ A stat block rarely refers to equipment, other than armor or weapons used by a m
 
 You can equip monsters with additional gear and trinkets however you like, and you decide how much of a monster’s equipment is recoverable after the creature is slain and whether any of that equipment is still usable. A battered suit of armor made for a monster is rarely usable by someone else, for instance.
 
-If a spellcasting monster needs material components to cast its spells, assume that it has the material components it needs to cast the spells in its stat block.
-
 ### Bosses are Legendary Creatures
 
 Bosses are legendary creatures because they can do things that ordinary creatures can’t. They can take special actions outside their turn, and they might exert magical or mundane influence for miles around.
@@ -4234,14 +4236,15 @@ If a creature assumes the form of a boss, such as through a spell, it doesn’t 
 
 ### Legendary Actions
 
-A boss can take up to three special actions—called legendary actions—outside its turn. Only one legendary action option can be used at a time and only at the end of another creature’s turn. A creature regains its spent legendary actions at the start of its turn. It can forgo using them, and it can’t use them while incapacitated or otherwise unable to take actions. If surprised, it can’t use them until after its first turn in the combat.
+A boss can make special actions—called legendary actions—outside its turn. Only one legendary action option can be used at a time and only at the end of another creature’s turn. A creature regains its spent legendary actions at the start of its turn. It can forgo using them, and it can’t use them while incapacitated or otherwise unable to take actions. If surprised, it can’t use them until after its first turn in the combat.
 
 #### Default Legendary Actions
 
 All bosses automatically have the following legendary actions.
 
-- **Attack (1 Action).** The boss makes one attack against a creature within range.
-- **Bolster (2 Actions).** The boss gains **bolster (LEVEL)**. A boss can only activate this legendary action if a minion is within its line of sight.
+- **Attack.** The boss may move up to its speed and make one attack against a creature within range.
+- **Combat Reflexes.** The boss regains its reaction.
+- **Bolster LEVEL.** The boss gains a bolster pool equal to LEVEL. A boss can only activate this legendary action if a minion is within its line of sight.
 
 ### A Boss' Lair
 
@@ -4427,18 +4430,16 @@ Once fine robes hang in tatters from this withered corpse’s frame. A pale blue
 
 Liches share the following statistics.
 - **Abilities** CON, INT, WIS
-- **Damage Resistances** cold, lighting, necrotic
+- **Damage Resistances** cold, lightning, necrotic
 - **Damage Immunities** poison
 - **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
 - **Senses** truesight 12 squares
 - **Languages** Common. A lich knows up to 4 additional languages.
 - **Speed** 6
 
-**Rejuvenation.** If it has a phylactery, a destroyed lich respawns once the PCs recall to HQ, healing all wounds and becoming active again. The new body appears within 1 square of the phylactery. Phylacteries for minions and elites are located near where they are first encountered in containers, urns, gravestones, buried under 1 square or ontop of a 1 square ledge. Boss phylacteries are safeguarded behind hidden passages, traps, or cleverly hidden within mundane items.
-
 **Turn Resistance.** The lich has advantage on ability checks against any effect that turns undead.
 
-**Spellcasting.** Lich minions are spellcasters. Thier spellcasting ability is INT. Lich minions have the following wizard spells prepared:
+**Spellcasting.** Lich minions are spellcasters. Their spellcasting ability is INT. Lich minions have the following wizard spells prepared:
 - **Cantrips (at will):** *mage hand, prestidigitation, ray of frost*
 
 ### Actions
@@ -4463,13 +4464,15 @@ Liches share the following statistics.
 
 ### Boss Features
 
-#### Legendary Actions
+**Rejuvenation.** If it has a phylactery, a destroyed lich boss respawns once the PCs Recall, healing all wounds and becoming active again. The new body appears within 1 square of the phylactery. Phylacteries for minions and elites are located near where they are first encountered in containers, urns, gravestones, buried under 1 square or ontop of a 1 square ledge. Boss phylacteries are safeguarded behind hidden passages, traps, or cleverly hidden within mundane items.
 
-**Cantrip (1 Action).** The lich casts a cantrip
+### Legendary Actions
 
-**Frightening Gaze (2 Actions).** The lich fixes its gaze on one creature it can see within 2 squares of it. The target must succeed on a WIS check or become frightened until the end of the encounter. The frightened target can repeat the check at the end of each of its turns, ending the effect on itself on a success. If a target’s check is successful or the effect ends for it, the target is immune to the lich’s gaze until the end of the game session.
+**Cantrip.** The lich casts a cantrip
 
-**Disrupt Life (3 Actions).** Each non-undead creature within 5 squares of the lich must make a CON check, taking necrotic damage on a failed check or half damage on a successful one.
+**Frightening Gaze.** The lich fixes its gaze on one creature it can see within 2 squares of it. The target must succeed on a WIS check or become frightened until the end of the encounter. The frightened target can repeat the check at the end of each of its turns, ending the effect on itself on a success. If a target’s check is successful or the effect ends for it, the target is immune to the lich’s frightening gaze until the end of the game session.
+
+**Disrupt Life.** Each non-undead creature within 5 squares of the lich must make a CON check, taking necrotic damage on a failed check or half damage on a successful one.
 
 ## Monsters (M)
 
