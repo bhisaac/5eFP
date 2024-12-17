@@ -78,6 +78,15 @@ Players will find that the action revolves around a typical in-game day, which b
 
 ## Game Terms
 
+### Roll Table (in progress ... )
+
+A roll table or frequency table lists potential results likely to occur within a specific circumstance and context. A typical game circumstance would be exploring a map, while the context is a story direction such as **_(N) Feywood Forest_**. The results can either be arranged in a columnar table with numerical values assigned to each entry, representing its weight or how commonly it is encountered, or also assembled within a deck of cards sharing the specific circumstance and context. A poker deck can represent 52 typical results and two unpredictable results (jokers). Jokers are treated special, like rolling a 1 or 20 on a d20. Determining or drawing a joker result typically takes a result from its opposite story direction roll table or deck. A typical roll table lists a number of items using percentages or another metric representing common, uncommon, and rare occurrences. A good roll table will have fewer outlier entries at the start and at the end of the list, with the majority of results occurring in the middle of the list. Arranging the poker card results by suit and numeric versus royalty can help you separate results. Suits can represent different content and themes.
+
+### Discover
+
+5eFP uses the **_discover_** game mechanic. The discover keyword translates into the following rules.
+- If a game feature asks you to discover a game feature, you determine three results from that game feature's roll table or draw three cards from that game feature's deck. 
+
 ### World Map
 
 The world map drives the game's story and content. It is a top-down illustration of the game world or region divided into a 14-square by 14-square grid. Each square within the grid is measured 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters. The map contains
