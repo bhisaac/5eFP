@@ -85,7 +85,7 @@ A roll table or frequency table lists potential results likely to occur within a
 (N) Feywood Forest (♠ Feywild)
 |Poker Card|d20|Story Element|
 |-:|-:|:-|
-|♠A|1-2|Feywild crossover|
+|♠A|1-2|Feywild crossroad|
 |♠2-♠3|3-5|Elven Enclave Scouts|
 |♠4-♠7|6-12|Elven Enclave Bystanders|
 |♠8-♠9|13-15|Elven Enclave Caravan|
