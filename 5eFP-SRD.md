@@ -92,7 +92,7 @@ Typical roll tables list things using percentages or another metric separating c
 |♠4-♠7|6-12|Encounter: Elven Enclave Bystanders|
 |♠8-♠9|13-15|Encounter (creature): Beast|
 |♠J-♠Q|16-18|Encounter (creature): Fey|
-|♠K|19-20|Encounter (creature): Goblins|
+|♠K|19-20|Encounter (creature): Goblin|
 
 ### Discover
 
