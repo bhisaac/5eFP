@@ -84,13 +84,13 @@ A roll table or frequency table lists potential results likely to occur within a
 
 (N) Feywood Forest (♠ Feywild)
 ||||
-|-:|:-|-:|
-|♠A|Feywild crossover|♣A|
-|♠2-♠3|Elven Enclave Scouts|♣2-♣3|
-|♠4-♠7|Elven Enclave Bystanders|♣4-♣7|
-|♠8-♠9|Elven Enclave Caravan|♣8-♣9|
-|♠J-♠Q|Fey Creature|♣J-♣Q|
-|♠K|Goblins|♣K|
+|-:|:-|
+|♠A|Feywild crossover|
+|♠2-♠3|Elven Enclave Scouts|
+|♠4-♠7|Elven Enclave Bystanders|
+|♠8-♠9|Elven Enclave Caravan|
+|♠J-♠Q|Fey Creature|
+|♠K|Goblins|
 
 ### Discover
 
