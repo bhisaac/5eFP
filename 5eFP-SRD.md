@@ -88,11 +88,11 @@ Typical roll tables list things using percentages or another metric separating c
 |Poker Card|d20|Story Element|
 |-:|-:|:-|
 |♠A|1-2|Feywild crossroad|
-|♠2-♠3|3-5|Elven Enclave Scouts|
-|♠4-♠7|6-12|Elven Enclave Bystanders|
-|♠8-♠9|13-15|Elven Enclave Caravan|
-|♠J-♠Q|16-18|Fey Creature|
-|♠K|19-20|Goblins|
+|♠2-♠3|3-5|Encounter: Elven Enclave Caravan|
+|♠4-♠7|6-12|Encounter: Elven Enclave Bystanders|
+|♠8-♠9|13-15|Encounter (creature): Beast|
+|♠J-♠Q|16-18|Encounter (creature): Fey|
+|♠K|19-20|Encounter (creature): Goblins|
 
 ### Discover
 
