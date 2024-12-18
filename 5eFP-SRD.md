@@ -88,11 +88,21 @@ Typical roll tables list things using percentages or another metric separating c
 |Poker Card|d20|Story Element|
 |-:|-:|:-|
 |♠A|1-2|Feywild crossroad|
-|♠2-♠3|3-5|Encounter: Elven Enclave Caravan|
-|♠4-♠7|6-12|Encounter: Elven Enclave Bystanders|
-|♠8-♠9|13-15|Encounter (creature): Beast|
-|♠J-♠Q|16-18|Encounter (creature): Fey|
-|♠K|19-20|Encounter (creature): Goblin|
+|♠2-♠3|3-5|Misty Forest|
+|♠4-♠7|6-12|Elven Enclave|
+|♠8-♠9|13-15|Creature: Beast|
+|♠J-♠Q|16-18|Creature: Fey|
+|♠K|19-20|Creature: Goblin|
+
+(N) Feywood Forest (♣ Sylvan Glen)
+|Poker Card|d20|Story Element|
+|-:|-:|:-|
+|♣A|1-2|Elven Enclave|
+|♣2-♣3|3-5|Creature: Celestial|
+|♣4-♣7|6-12|Creature: Beast|
+|♣8-♣9|13-15|Creature: Fey|
+|♣J-♣Q|16-18|Misty Vale|
+|♣K|19-20|Water feature|
 
 ### Discover
 
