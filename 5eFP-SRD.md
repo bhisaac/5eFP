@@ -86,7 +86,7 @@ Typical roll tables list things using percentages or another metric separating c
 
 (N) Feywood Forest (♠ Feywild)
 |Poker Card|d20|Story Element|
-|-:|-:|:-|
+|-:|:-:|:-|
 ||||
 |♠A|1-2|Feywild crossroad|
 |♠2-♠3|3-5|Misty Forest|
@@ -97,7 +97,7 @@ Typical roll tables list things using percentages or another metric separating c
 
 (N) Feywood Forest (♣ Sylvan Glen)
 |Poker Card|d20|Story Element|
-|-:|-:|:-|
+|-:|:-:|:-|
 ||||
 |♣A|1-2|Elven Enclave|
 |♣2-♣3|3-5|Creature: Celestial|
