@@ -83,6 +83,7 @@ Players will find that the action revolves around a typical in-game day, which b
 A roll table or frequency table lists potential results likely to occur within a specific circumstance and context. A typical game circumstance would be exploring a map, while the context is a story direction such as **_(N) Feywood Forest_**. The results can either be arranged in a columnar table with numerical values assigned to each entry, representing its weight or how commonly it is encountered, or also assembled within a deck of cards sharing the specific circumstance and context. A poker deck can represent 52 typical results and two unpredictable results (jokers). Jokers are treated special, like rolling a 1 or 20 on a d20. Determining or drawing a joker result typically takes a result from its opposite story direction roll table or deck. A typical roll table lists a number of items using percentages or another metric representing common, uncommon, and rare occurrences. A good roll table will have fewer outlier entries at the start and at the end of the list, with the majority of common results occurring near or at the middle of the list. Arranging the poker card results by suit and numeric versus royalty can help you separate results. Each suit represents different themes and content introduced by this particular story direction.
 
 (N) Feywood Forest (♠ Feywild)
+
 ||||
 |-:|:-|
 |♠A|Feywild crossover|
