@@ -88,7 +88,7 @@ Typical roll tables list things using percentages or another metric separating c
 |Poker Card|d20|Story Element|
 |-:|:-:|:-|
 ||||
-|♠A|1-2|Feywild crossroad|
+|♠A|1-2|Feywild crossing|
 |♠2-♠3|3-5|Misty Forest|
 |♠4-♠7|6-12|Elven Enclave|
 |♠8-♠9|13-15|Creature: Beast|
