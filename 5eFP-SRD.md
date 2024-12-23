@@ -101,8 +101,8 @@ Typical roll tables list things using percentages or another metric separating c
 ||||
 |♣A|1-2|Elven Enclave|
 |♣2-♣3|3-5|Creature: Celestial|
-|♣4-♣7|6-12|Creature: Beast|
-|♣8-♣9|13-15|Creature: Fey|
+|♣4-♣7|6-12|Creature: Fey|
+|♣8-♣9|13-15|Creature: Beast|
 |♣J-♣Q|16-18|Misty Vale|
 |♣K|19-20|Water feature|
 
