@@ -90,7 +90,7 @@ Typical roll tables list things using percentages or another metric separating c
 ||||
 |1-5|♠|Feywild|
 |6-10|♣|Sylvan Glen|
-|11-15|♦|Wierd Sister|
+|11-15|♦|Wierd Sisters|
 |16-20|♥|Archfey|
 
 **(♠)** _Feywild_
