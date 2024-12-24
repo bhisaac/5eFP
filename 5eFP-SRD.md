@@ -84,48 +84,6 @@ A roll table or frequency table lists potential results likely to occur within a
 
 Typical roll tables list things using percentages or another metric separating common, uncommon, and rare occurrences. A good roll table will have fewer entries at the start and end of the list, with the most common results positioned near or at the middle of the list. Arrange the poker card results by suit and then by numeric versus royalty. Each suit represents different themes and content introduced by this particular story direction.
 
-**(N)** Feywood Forest
-|d20|Poker Suit|Roll Table|
-|:-:|:-:|:-|
-||||
-|1-5|♠|Feywild|
-|6-10|♣|Sylvan Glen|
-|11-15|♦|Wierd Sisters|
-|16-20|♥|Archfey|
-
-**(♠)** _Feywild_
-|Poker Card|d20|Story Element|
-|-:|:-:|:-|
-||||
-|♠A|1-2|Feywild crossing|
-|♠2-♠3|3-5|Misty Forest|
-|♠4-♠7|6-12|Elven Enclave|
-|♠8-♠9|13-15|Creature: Beast|
-|♠J-♠Q|16-18|Creature: Fey|
-|♠K|19-20|Creature: Goblin|
-
-**(♣)** _Sylvan Glen_
-|Poker Card|d20|Story Element|
-|-:|:-:|:-|
-||||
-|♣A|1-2|Elven Enclave|
-|♣2-♣3|3-5|Creature: Celestial|
-|♣4-♣7|6-12|Creature: Fey|
-|♣8-♣9|13-15|Creature: Beast|
-|♣J-♣Q|16-18|Misty Vale|
-|♣K|19-20|Water feature|
-
-**(♦)** _Wierd Sisters_
-|Poker Card|d20|Story Element|
-|-:|:-:|:-|
-||||
-|♦A|1-2|Creature: Will-o’-Wisp|
-|♦2|3-5|Creature: Goblin|
-|♦4-♦7|6-12|Creature: Hag|
-|♦8-♦9|13-15|Creature: Ogre|
-|♦J-♦Q|16-18|Creature: Shambling Mound|
-|♦K|19-20|Creature: Fey|
-
 ### Discover
 
 5eFP uses the **_discover_** game mechanic. The discover keyword translates into the following rules.
