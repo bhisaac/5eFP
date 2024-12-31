@@ -105,7 +105,7 @@ Use the following roll table if there are no story decks.
 |||||
 |?|?|♠A|Misty Forest|
 |?|?|♠2|Twilight Glen|
-|?|?|♠3|Enchantment or Charm|
+|?|?|♠3|Charm, Enchantment, or Illusion|
 |?|?|♠4|Wild Hunt|
 |?|?|♠5|Elven Enclave Caravan|
 |?|?|♠6|Elven Enclave Pilgrims|
