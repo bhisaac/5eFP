@@ -100,22 +100,22 @@ Use the following roll table if there are no story decks.
 |16-20|76-00|♥|Archfey|
 
 **(N) _Feywood Forest_** [♠:Feywild]
-|Card|d20|%|Story Element|
+|d20|%|Card|Story Element|
 |:-:|:-:|:-:|:-|
 |||||
-|♠A|?|?|Misty Forest|
-|♠2|?|?|Twilight Glen|
-|♠3|?|?|Glammer|
-|♠4|?|?|Wild Hunt|
-|♠5|?|?|Elven Enclave Caravan|
-|♠6|?|?|Elven Enclave Pilgrims|
-|♠7|?|?|Elven Enclave Scouts|
-|♠8|?|?|Elven Enclave Bystanders|
-|♠9|?|?|Feywild Crossing Cave|
-|♠10|?|?|Feywild Crossing Manor, Hamlet, or Village|
-|♠J|?|?|Feywild Crossing Lake|
-|♠Q|?|?|Feywild Crossing Stream|
-|♠K|?|?|Feywild Crossing Castle|
+|?|?|♠A|Misty Forest|
+|?|?|♠2|Twilight Glen|
+|?|?|♠3|Glammer|
+|?|?|♠4|Wild Hunt|
+|?|?|♠5|Elven Enclave Caravan|
+|?|?|♠6|Elven Enclave Pilgrims|
+|?|?|♠7|Elven Enclave Scouts|
+|?|?|♠8|Elven Enclave Bystanders|
+|?|?|♠9|Feywild Crossing Cave|
+|?|?|♠10|Feywild Crossing Manor, Hamlet, or Village|
+|?|?|♠J|Feywild Crossing Lake|
+|?|?|♠Q|Feywild Crossing Stream|
+|?|?|♠K|Feywild Crossing Castle|
 
 More TBA
 
