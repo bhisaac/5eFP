@@ -112,13 +112,12 @@ Use the following roll table if there are no story decks.
 |♠7|?|?|Elven Enclave Scouts|
 |♠8|?|?|Elven Enclave Bystanders|
 |♠9|?|?|Feywild Crossing Cave|
-|♠10|?|?|Feywild Crossing Deep Well|
+|♠10|?|?|Feywild Crossing Manor, Hamlet, or Village|
 |♠J|?|?|Feywild Crossing Lake|
 |♠Q|?|?|Feywild Crossing Stream|
-|♠K|?|?|Feywild Crossing Grove|
+|♠K|?|?|Feywild Crossing Castle|
 
 More TBA
-
 
 ### Discover
 
