@@ -103,16 +103,16 @@ Use the following roll table if there are no story decks.
 |d20|%|Card|Story Element|
 |:-:|:-:|:-:|:-|
 |||||
-|1|01-05|♠A|Cloudy Forest|
-|2|06-10|♠2|Twilight Glen|
+|1|01-05|♠A|Wild Hunt|
+|2|06-10|♠2|Feywild Crossing Manor, Hamlet, or Village|
 |3|11-15|♠3|Charm, Enchantment, or Illusion|
-|4-5|16-25|♠4|Wild Hunt|
+|4-5|16-25|♠4|Misty, Cloudy, or Stormy|
 |6-7|26-35|♠5|Elven Enclave Caravan|
 |8-9|36-45|♠6|Elven Enclave Pilgrims|
 |10-11|46-55|♠7|Elven Enclave Scouts|
 |12-13|56-65|♠8|Elven Enclave Bystanders|
 |14-15|66-75|♠9|Feywild Crossing Cave|
-|16-17|76-85|♠10|Feywild Crossing Manor, Hamlet, or Village|
+|16-17|76-85|♠10|Twilight Glen|
 |18|86-90|♠J|Feywild Crossing Lake|
 |19|91-95|♠Q|Feywild Crossing Stream|
 |20|96-00|♠K|Feywild Crossing Castle, Keep, or Tower|
