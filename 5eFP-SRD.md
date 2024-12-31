@@ -82,9 +82,43 @@ Players will find that the action revolves around a typical in-game day, which b
 
 ### Roll Tables and Decks
 
-A roll table or frequency table lists potential results likely to occur within a specific context. Exploring a story direction such as **_(N) Feywood Forest_**, browsing available items for purchase, and looting treasure chests are all typical game contexts that use roll tables. The results can be arranged in a columnar table with numerical values assigned to each entry, representing its weight or how commonly it is encountered and may or may not include a deck of cards. A poker deck can represent 52 typical results and two unpredictable results (jokers). Jokers are treated special, like rolling a 1 or 20 on a d20. When you roll or draw a joker, the result should be unexpected. While exploring a story direction, a joker result means you draw a result from the opposite story direction roll table or deck. A joker result might include a higher-level item while browsing items for purchase or looting a treasure chest.
+A roll table lists potential results likely to occur within a specific context. Exploring a story direction such as **_(N) Feywood Forest_**, browsing available items for purchase at the Market, and looting treasure chests are all typical game contexts that use roll tables. The results can be arranged in a columnar table with numerical values assigned to each entry, representing its weight or how commonly it is encountered and may or may not include a deck of cards. A poker deck can represent 52 typical results and two unpredictable results (jokers). Jokers are treated special, like rolling a 1 or 20 on a d20. When you roll or draw a joker, the result should be unexpected. While exploring a story direction, a joker result means you draw a result from the opposite story direction roll table or deck. A joker result might include a higher-level or higher-quality item while browsing items for purchase or looting a treasure chest.
 
-Typical roll tables list things using percentages or another metric separating common, uncommon, and rare occurrences. A good roll table will have fewer entries at the start and end of the list, with the most common results positioned near or at the middle of the list. Arrange the poker card results by suit and then by numeric versus royalty. Each suit represents different themes and content introduced by this particular story direction.
+Typical roll tables list things using a d20, percentages (d100), or another metric separating common, uncommon, and rare occurrences. A good roll table will have fewer entries at the start and end of the list, with the most common results positioned near or at the middle of the list. For those using poker decks: arrange the poker card results by suit and then by numeric versus royalty within each suit. Each suit represents different themes and content introduced by this particular story direction. A typical story direction uses one or two suits (one-quarter to half of the listed results) for creature encounters, leaving the remaining suits (remaining three-quarters to half of the listed results) for story elements that are not creature encounters.
+
+**SAMPLE ROLL TABLES**
+
+Use the following roll table if there are no story decks.
+
+**(N)** _Feywood Forest_ (no deck)
+|d20|%|Poker Suit|Roll Table|
+|-:|-:|:-:|:-|
+|||||
+|1-5|01-25|♠|Feywild|
+|6-10|26-50|♣|Sylvan Glen|
+|11-15|51-75|♦|Something Wicked|
+|16-20|76-00|♥|Archfey|
+
+**(N) _Feywood Forest_** [♠:Feywild]
+|Poker Card|d20|% (d100)|Story Element|
+|-:|-:|-:|:-|
+|||||
+|♠A|?|?|Misty Forest|
+|♠2|?|?|Twilight Glen|
+|♠3|?|?|Glammer|
+|♠4|?|?|Wild Hunt|
+|♠5|?|?|Elven Enclave Caravan|
+|♠6|?|?|Elven Enclave Pilgrims|
+|♠7|?|?|Elven Enclave Scouts|
+|♠8|?|?|Elven Enclave Bystanders|
+|♠9|?|?|Feywild Crossing Cave|
+|♠10|?|?|Feywild Crossing Deep Well|
+|♠J|?|?|Feywild Crossing Lake|
+|♠Q|?|?|Feywild Crossing Stream|
+|♠K|?|?|Feywild Crossing Grove|
+
+More TBA
+
 
 ### Discover
 
