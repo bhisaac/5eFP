@@ -115,7 +115,7 @@ Use the following roll table if there are no story decks.
 |?|?|♠10|Feywild Crossing Manor, Hamlet, or Village|
 |?|?|♠J|Feywild Crossing Lake|
 |?|?|♠Q|Feywild Crossing Stream|
-|?|?|♠K|Feywild Crossing Castle|
+|?|?|♠K|Feywild Crossing Castle, Keep, or Tower|
 
 More TBA
 
