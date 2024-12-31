@@ -101,7 +101,7 @@ Use the following roll table if there are no story decks.
 
 **(N) _Feywood Forest_** [♠:Feywild]
 |d20|%|Card|Story Element|
-|-:|:-:|:-:|:-|
+|:-:|:-:|:-:|:-|
 |||||
 |1|01-05|♠A|Misty Forest|
 |2|06-10|♠2|Twilight Glen|
