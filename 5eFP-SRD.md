@@ -92,7 +92,7 @@ Use the following roll table if there are no story decks.
 
 **(N)** _Feywood Forest_ (no deck)
 |d20|%|Suit|Roll Table|
-|-:|-:|:-:|:-|
+|:-:|:-:|:-:|:-|
 |||||
 |01-05|01-25|♠|Feywild|
 |06-10|26-50|♣|Sylvan Glen|
@@ -100,8 +100,8 @@ Use the following roll table if there are no story decks.
 |16-20|76-00|♥|Archfey|
 
 **(N) _Feywood Forest_** [♠:Feywild]
-|Poker Card|d20|% (d100)|Story Element|
-|-:|-:|-:|:-|
+|Card|d20|%|Story Element|
+|:-:|:-:|:-:|:-|
 |||||
 |♠A|?|?|Misty Forest|
 |♠2|?|?|Twilight Glen|
