@@ -103,7 +103,7 @@ Use the following roll table if there are no story decks.
 |d20|%|Card|Story Element|
 |:-:|:-:|:-:|:-|
 |||||
-|1|01-05|♠A|Misty Forest|
+|1|01-05|♠A|Cloudy Forest|
 |2|06-10|♠2|Twilight Glen|
 |3|11-15|♠3|Charm, Enchantment, or Illusion|
 |4-5|16-25|♠4|Wild Hunt|
