@@ -91,11 +91,11 @@ Typical roll tables list things using a d20, percentages (d100), or another metr
 Use the following roll table if there are no story decks.
 
 **(N)** _Feywood Forest_ (no deck)
-|d20|%|Poker Suit|Roll Table|
+|d20|%|Suit|Roll Table|
 |-:|-:|:-:|:-|
 |||||
-|1-5|01-25|♠|Feywild|
-|6-10|26-50|♣|Sylvan Glen|
+|01-05|01-25|♠|Feywild|
+|06-10|26-50|♣|Sylvan Glen|
 |11-15|51-75|♦|Something Wicked|
 |16-20|76-00|♥|Archfey|
 
