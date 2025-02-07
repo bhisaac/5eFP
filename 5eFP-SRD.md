@@ -1584,13 +1584,15 @@ Inspiration is a rule the GM uses to reward you when you show up to play a game 
 
 ## Gaining Inspiration
 
-At the beginning of each game session, PCs choose two different dedications from Insight, Medicine, Perception, Performance, or Survival (see _Dedications_ below). Once the choices are made, the chosen dedications can only be changed at the beginning of the next game session. Your GM then awards inspiration to all PCs who are physically present (if a player is remotely playing, they must be signed into the service and present within the chat session) in the current game session. Your GM also has the option to grant you inspiration for various reasons during gameplay. Generally, inspiration is given when you effectively portray your character in a compelling way. Your GM may introduce other ways to earn inspiration during the game. Your setting handbook may also introduce other ways to earn inspiration during the game.
+At the beginning of each game session, PCs choose two different dedications from Insight, Medicine, Perception, Performance, or Survival (see _Dedications_ below). Once the choices are made, the chosen dedications can only be changed at the beginning of the next game session. Your GM then awards inspiration to all PCs who are physically or virtually (for online games) present. A player is present if they are in the room. Remote players who are away from their keyboards do not receive inspiration. Your GM also has the option to grant you inspiration for various reasons during gameplay. Generally, inspiration is given when you effectively portray your character in a compelling way. Your GM may introduce other ways to earn inspiration during the game. Your setting handbook may also introduce other ways to earn inspiration during the game.
 
 You either have inspiration or you don’t—you can’t stockpile multiple “inspirations” for later use.
 
 ### Using Inspiration
 
 If you have inspiration, you can spend it when you roll to attack, resist a game feature, or otherwise perform an action. Spending your inspiration gives you advantage on that roll, allowing you to roll twice and keep the better result. Alternatively, you may spend your inspiration anytime to activate a dedication you made at the start of the game session.
+
+Once per game session, whenever you spend your inspiration, you can either activate a chosen dedication or a dedication you did not choose at the start of the current game session.
 
 Additionally, if you have inspiration, you can reward another player for good roleplaying, clever thinking, or simply doing something exciting in the game. When another player character does something that really contributes to the story in a fun and interesting way, you can give up your inspiration to give that character inspiration.
 
@@ -1671,7 +1673,7 @@ Activating survival allows you to reveal a game objective. Place a foothold or s
 >
 >> When you use your dedication to activate survival, the GM indicates the direction and position (if within view) of your current focused objective on the map. For example, a player might activate inspired survival when faced with three mysterious doors. The GM reveals the door leading to the player's current quest. How your character ends up knowing this is connected with their class abilities, skills, and game features. Healers might receive divine inspiration to determine the result. Mages might use divination magic to determine the result. Scoundrels might use knowledge, cunning, or preternatural awareness to determine the result. Warriors might use knowledge, survival skills, or gut instincts to determine the result.
 
-Alternatively, once per game session, when you spend your inspiration to activate Survival, you can instead choose to activate a dedication you didn't choose at the beginning of the current game session.
+~~Alternatively, once per game session, when you spend your inspiration to activate Survival, you can instead choose to activate a dedication you didn't choose at the beginning of the current game session.~~
 
 # Backgrounds
 
