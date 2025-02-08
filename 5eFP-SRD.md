@@ -1669,6 +1669,8 @@ If the result of your chosen action further affects you on subsequent rounds dur
 >>> 
 >> In example 2, _Player 2_'s action resolves a successful attack action from a hidden position and then finishes. The action does not continue on subsequent rounds.
 
+**Performance in Real Life (RL).** _TBA_
+
 ### Survival
 
 Your survival awards expanded capacities, allowing you to identify and acquire new advantages, qualities, or skills.
@@ -1680,6 +1682,8 @@ Activating survival allows you to reveal a game objective. Place a foothold or s
 >> When you use your dedication to activate survival, the GM indicates the direction and position (if within view) of your current focused objective on the map. For example, a player might activate inspired survival when faced with three mysterious doors. The GM reveals the door leading to the player's current quest. How your character ends up knowing this is connected with their class abilities, skills, and game features. Healers might receive divine inspiration to determine the result. Mages might use divination magic to determine the result. Scoundrels might use knowledge, cunning, or preternatural awareness to determine the result. Warriors might use knowledge, survival skills, or gut instincts to determine the result.
 
 ~~Alternatively, once per game session, when you spend your inspiration to activate Survival, you can instead choose to activate a dedication you didn't choose at the beginning of the current game session.~~
+
+**Survival in Real Life (RL).** _Survival begins with admitting that you do not know everything and do not have all the answers. Admit to yourself and your life that reaching your goals will involve letting in the mysterious and the unknowable. Arriving at a destination in life includes encountering something unplanned. Plans are helpful, but life rarely follows them. Life can be thought of as what arises despite the plans we make. This dedication grows capacities to find your path forward when lost or unsure of what to do next. You may know where you want to go but are unsure how to get there. Dedicating Survival grants access to new ways of being or new paths outside the old and familiar ways of being and knowing yourself that can lead you to your destination more effectively. Solving your problems requires innovation and a willingness to be and do something different. Survival helps you keep your destination in mind while encouraging you to remain open to new ways of getting there. As the one who dedicates Survival, be prepared to step toward what is coming into your life, for it may be the solution you're looking for._
 
 # Backgrounds
 
