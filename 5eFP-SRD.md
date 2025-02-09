@@ -1669,7 +1669,7 @@ If the result of your chosen action further affects you on subsequent rounds dur
 >>> 
 >> In example 2, _Player 2_'s action resolves a successful attack action from a hidden position and then finishes. The action does not continue on subsequent rounds.
 
-**Performance in Real Life (RL).** _TBA_
+**Performance in Real Life (RL).** _Developing healthy growth and skills takes time. Some are easy to acquire, while others seem impossible. Dedication to Performance enhances efficiency as it focuses your efforts. Recognize your limits in pursuing growth since our bodies have different capacities. Cultivating growth involves recognizing and healing wounds, releasing old patterns, practicing gratitude, and nurturing self-acceptance. Individuals dedicated to Performance progress better due to their commitment to improvement and allocating time for necessary tasks, followed by taking essential steps toward success._
 
 ### Survival
 
