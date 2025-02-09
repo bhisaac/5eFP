@@ -56,7 +56,7 @@ The following is not exhaustive but is the minimum we expect from all 5eFP parti
 - Consume responsibly. Know your limits. The effects of alcohol and the consumption of intoxicants will not excuse inappropriate or harassing behavior.
 - Take care of ourselves. Take care of your health and safety, and do not act in any way that puts you or others at risk.
 - Respect the privacy of others. Please do not take photos/videos of others or share images of or information belonging to others without their express permission.
-- Report damaging behaviors. If you are being harassed, witness harassment of someone else, or have concerns about another person’s conduct, please contact your 5eFP GM. You can report any inappropriate behavior or harassment via the contact details in your 5eFP setting handbook. 5eFP GMs can also submit reports for review by all players.
+- Report damaging behaviors. If you are being harassed, witness harassment of someone else, or have concerns about another person’s conduct, please contact your 5eFP GM. You can report any inappropriate behavior or harassment via the contact details in your 5eFP setting handbook. 5eFP GMs can also submit reports for review by all players within a practice.
 
 ### What can you expect from 5eFP games and events?
 
