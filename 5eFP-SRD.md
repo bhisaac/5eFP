@@ -10,6 +10,10 @@ _**Practice.**_ Focus alone isn't enough. Results require real doing through reg
 
 > "Vision without action is a daydream. Action without vision is a nightmare." — Japanese Proverb
 
+> "Whatever we resist persists." — Carl Jung
+
+> "The wound is the place where the Light enters you." — Rumi
+
 # Safe Space and Code Of Conduct
 
 5eFP contributors, facilitators, and participants strive to create physical and virtual spaces where people have fun and feel safe. 5eFP game masters (GMs) take it very seriously if any player feels threatened or uncomfortable by another person in their space. When a GM is made aware of situations related to this, they will make sure that your concerns are heard and will take the necessary steps with you to respond to the problem. A 5eFP GM expects all participants to respect one another and to address unacceptable behaviors, including those instigated or perpetuated by the GM.
