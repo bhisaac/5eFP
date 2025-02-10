@@ -18,63 +18,7 @@ _**Practice.**_ Focus alone isn't enough. Results require real doing through reg
 
 5eFP contributors, facilitators, and participants strive to create physical and virtual spaces where people have fun and feel safe. 5eFP game masters (GMs) take it very seriously if any player feels threatened or uncomfortable by another person in their space. When a GM is made aware of situations related to this, they will make sure that your concerns are heard and will take the necessary steps with you to respond to the problem. A 5eFP GM expects all participants to respect one another and to address unacceptable behaviors, including those instigated or perpetuated by the GM.
 
-## POLICY STATEMENT
-
-To create a safe, positive, and inclusive space free from harassment and discrimination and in which everyone is treated with dignity and respect, 5eFP has established the following code of conduct. Those who engage with 5eFP in any way are asked to understand and acknowledge this policy.
-
-We acknowledge that a tabletop roleplaying game (TRPG) with a focus on collaborative storytelling is an activity in which new ideas are explored, and boundaries are sometimes pushed. However, while we believe that people must be free to express themselves, it is unacceptable to exacerbate or reinforce discriminatory or harmful behaviors or views. The 5eFP community makes every effort to engage with people who share our philosophy. We hope and expect the content and work shared in our spaces to be done with care and without malicious intent.
-
-## GUIDING PRINCIPLES
-
-1. 5eFP uses consent in gaming to help promote a safe space for players to self-reflect through the characters they play and the game world their characters interact with.
-    * 2019.09.13 [Consent in Gaming](https://github.com/bhisaac/5eFP/blob/dcc548a4b9a3fa14b2f1def8178ae63fabcd1738/Consent_in_Gaming-2019-09-13.pdf)
-    * 2019.09.13 [Form-Fillable Checklist](https://github.com/bhisaac/5eFP/blob/dcc548a4b9a3fa14b2f1def8178ae63fabcd1738/Consent%20in%20Gaming-Form%20Fillable%20Checklist-2019-09-13.pdf)
-    * Also available at [Monty Cook Games](https://www.montecookgames.com/consent-in-gaming/) and [DriveThruRPG](https://www.drivethrurpg.com/en/product/288535/consent-in-gaming?term=consent%20in)
-
-2. **Collaboration and Trust.** GMs and player characters (PCs) collaborate to create meaningful narratives during gameplay wherein story elements arise spontaneously. GMs cooperate with PCs when generating story ideas with a genuine interest in co-creating a story that pleases all participants. This cooperation extends to co-creation between players as well. Trust and collaboration are key to improving each player's experience and the game's story. GMs and players seek to understand and support each other while maintaining healthy boundaries established with consent in gaming. 5eFP GMs excel at storytelling, providing a game structure that holds the game's narrative with a neutral and balanced atmosphere free of compulsion and cruelty.
-3. **No compulsion.** 5eFP is an at-will TRPG where you can join or leave practices freely, without compulsion. Rejoining a practice after being asked to leave or voluntarily leaving is not allowed, but you can join a different one. Benefits are gained only from active participation.
-4. **Not just another TRPG.** 5eFP GMs hold the center for all players within their practice, requiring cultivated skills and capacities that demand resources and energy to sustain. They are selective about participants. Ideal candidates possess curiosity about themselves and others, along with emotional and social intelligence. Preferred candidates have an attitude of openness, eagerness, and lack of preconceptions when studying, even at an advanced level, just as a beginner would. Suitable candidates want to join the practice from a genuine desire for personal growth and self-awareness. Other reasons for joining are not accepted, and all admission fees are non-refundable.
-5. **Guidance.** 5eFP can offer insight to players with existing counselors, therapists, teachers, or guides. Players are strongly encouraged to seek help with self-reflection and mindfulness guides. Without an objective observer to provide feedback, we easily fall into self-deception and denial. We often become blinded by our insecurities and shortcomings, making it difficult to overcome or release old patterns that no longer serve without their assistance. The content generated during 5eFP sessions can serve as material for discussion with these guides, who can also suggest suitable gameplay explorations.
-6. **Therapeutic but _not therapy_.** 5eFP games can be therapeutic by revealing hidden parts of ourselves. Taking brief notes about these parts during the game is important, as these sessions are not therapy, and your GM won’t pause to process them. Players adapt and integrate experiences spontaneously. At the end of the session, there will be time for journaling and sharing with the group, and further processing can occur later with a guide or teacher.
-7. **_One GM: One practice_.** A 5eFP game has one designated GM dedicated to the practice. The designated GM may recruit one or more additional GMs to help run repeatable quests within the practice. A GM can create a new practice only after an existing practice is completed or ends. A 5eFP practice ends before completion if the number of active players drops below eight. Players become inactive if they do not participate in the practice at least once each month. 
-8. **_GMs do not fraternize with players within their practice_.** Friendships are welcomed, while romantic or intimate relationships between players and 5eFP GMs within a shared 5eFP practice are strongly discouraged. If a player wants to pursue a romantic or intimate relationship with their 5eFP GM, they must first agree to leave the GM's practice and refrain from joining any other practices led by that GM while the romantic or intimate relationship continues. They are encouraged to join a different 5eFP GM's practice.
-
-### Who is this policy for?
-
-This policy applies but is not limited to all 5eFP GMs, players participating in 5eFP game sessions, and public members joining 5eFP-related events.
-
-### Where does this policy apply?
-
-This policy applies to all managed events directly linked or associated with a 5eFP game, such as conferences, workshops, and other activities; after-event social spaces; and online while engaging with a 5eFP game’s virtual events or through email, social media, or texting.
-
-## CODE OF CONDUCT*
-
-The following is not exhaustive but is the minimum we expect from all 5eFP participants. GMs and players must all:
-
-- Foster a safe environment that is free from physical, written, verbal, or sexual harassment, violence, bullying, or discrimination. Unacceptable behaviors include sexually harassing another person with unwanted or unwelcome behavior; physically or sexually assaulting another person; making derogatory remarks about an individual’s body, manner, or sexual activities; intimidating, threatening, or victimizing another person; discriminating against or treating someone less favorably due to their race, gender, gender identity, age, sexual orientation, disability, or other personal characteristics.
-- Be active and inclusive. Recognize that bigotry, bullying, and lack of consent are pervasive and rooted in the TRPG industry and within broader society. Do not tolerate racism, ableism, transphobia, homophobia, or ageism in any form, and actively challenge discriminatory behaviors and opinions. Do not tolerate backstabbing, bullying, infighting, intimidating, and disharmonious behaviors and actions.
-- Respect boundaries. Be aware that each person is different and will have different personal and cultural boundaries. Pay attention to verbal and non-verbal signals, and respect others' wishes. This also means respecting possible rules and regulations to protect everyone from COVID-19 or other pandemics.
-- Be aware of and challenge our prejudices and privileges. Consider what influences your words, opinions, and feelings and who they might exclude or harm.
-- Respect how people choose to identify. Do not assume someone's gender identity, sexual preference, background, etc. Do not share this information with others without permission.
-- Listen if someone challenges us about our behavior. It’s always hard to hear that your behavior is making someone uncomfortable. Do not become defensive – listen, reflect, and learn.
-- Consume responsibly. Know your limits. The effects of alcohol and the consumption of intoxicants will not excuse inappropriate or harassing behavior.
-- Take care of ourselves. Take care of your health and safety, and do not act in any way that puts you or others at risk.
-- Respect the privacy of others. Please do not take photos/videos of others or share images of or information belonging to others without their express permission.
-- Report damaging behaviors. If you are being harassed, witness harassment of someone else, or have concerns about another person’s conduct, please contact your 5eFP GM. You can report any inappropriate behavior or harassment via the contact details in your 5eFP setting handbook. 5eFP GMs can also submit reports for review by all players within a practice.
-
-### What can you expect from 5eFP games and events?
-
-5eFP GMs, players, and public members participating in 5eFP-related events will follow and uphold this Code of Conduct. This policy is communicated to all GMs, players, volunteers, scholars, artists, conference and workshop participants, collaborators, independent contractors, employees, and others who work within a 5eFP game. It will also be available publicly. 5eFP GMs will take action. When someone reports a breach of the code of conduct or is uncomfortable in any space (including online), a 5eFP GM works with the complainant to determine an appropriate response. This might involve:
-
-- warning the offender
-- removing the offender from the event/activity
-- revoking the offender's 5eFP game membership
-- contacting the police
-- putting the complainant in touch with local support services
-
-The 5eFP community will continue listening, learning, and reflecting, individually and with others. This policy will be regularly reviewed and updated. If you have any comments or suggestions about this policy, please contact your 5eFP GM using the details in your setting handbook.
-
-*This code does not supersede an individual’s right to file a police report and/or investigation or seek legal counsel. To the extent that there is an inconsistency between the law and this policy, the law prevails. 
+Read the complete policy in Appendix PO-A.
 
 # A New Way to Play
 
@@ -4750,6 +4694,68 @@ The following definitions specify what happens to a creature while it is subject
 - Any attack that hits the creature is a critical hit if the attacker is within 1 square of the creature.
 
 ---
+
+# Appendix PO-A: Safe Space and Code Of Conduct
+
+5eFP contributors, facilitators, and participants strive to create physical and virtual spaces where people have fun and feel safe. 5eFP game masters (GMs) take it very seriously if any player feels threatened or uncomfortable by another person in their space. When a GM is made aware of situations related to this, they will make sure that your concerns are heard and will take the necessary steps with you to respond to the problem. A 5eFP GM expects all participants to respect one another and to address unacceptable behaviors, including those instigated or perpetuated by the GM.
+
+## POLICY STATEMENT
+
+To create a safe, positive, and inclusive space free from harassment and discrimination and in which everyone is treated with dignity and respect, 5eFP has established the following code of conduct. Those who engage with 5eFP in any way are asked to understand and acknowledge this policy.
+
+We acknowledge that a tabletop roleplaying game (TRPG) with a focus on collaborative storytelling is an activity in which new ideas are explored, and boundaries are sometimes pushed. However, while we believe that people must be free to express themselves, it is unacceptable to exacerbate or reinforce discriminatory or harmful behaviors or views. The 5eFP community makes every effort to engage with people who share our philosophy. We hope and expect the content and work shared in our spaces to be done with care and without malicious intent.
+
+## GUIDING PRINCIPLES
+
+1. 5eFP uses consent in gaming to help promote a safe space for players to self-reflect through the characters they play and the game world their characters interact with.
+    * 2019.09.13 [Consent in Gaming](https://github.com/bhisaac/5eFP/blob/dcc548a4b9a3fa14b2f1def8178ae63fabcd1738/Consent_in_Gaming-2019-09-13.pdf)
+    * 2019.09.13 [Form-Fillable Checklist](https://github.com/bhisaac/5eFP/blob/dcc548a4b9a3fa14b2f1def8178ae63fabcd1738/Consent%20in%20Gaming-Form%20Fillable%20Checklist-2019-09-13.pdf)
+    * Also available at [Monty Cook Games](https://www.montecookgames.com/consent-in-gaming/) and [DriveThruRPG](https://www.drivethrurpg.com/en/product/288535/consent-in-gaming?term=consent%20in)
+
+2. **Collaboration and Trust.** GMs and player characters (PCs) collaborate to create meaningful narratives during gameplay wherein story elements arise spontaneously. GMs cooperate with PCs when generating story ideas with a genuine interest in co-creating a story that pleases all participants. This cooperation extends to co-creation between players as well. Trust and collaboration are key to improving each player's experience and the game's story. GMs and players seek to understand and support each other while maintaining healthy boundaries established with consent in gaming. 5eFP GMs excel at storytelling, providing a game structure that holds the game's narrative with a neutral and balanced atmosphere free of compulsion and cruelty.
+3. **No compulsion.** 5eFP is an at-will TRPG where you can join or leave practices freely, without compulsion. Rejoining a practice after being asked to leave or voluntarily leaving is not allowed, but you can join a different one. Benefits are gained only from active participation.
+4. **Not just another TRPG.** 5eFP GMs hold the center for all players within their practice, requiring cultivated skills and capacities that demand resources and energy to sustain. They are selective about participants. Ideal candidates possess curiosity about themselves and others, along with emotional and social intelligence. Preferred candidates have an attitude of openness, eagerness, and lack of preconceptions when studying, even at an advanced level, just as a beginner would. Suitable candidates want to join the practice from a genuine desire for personal growth and self-awareness. Other reasons for joining are not accepted, and all admission fees are non-refundable.
+5. **Guidance.** 5eFP can offer insight to players with existing counselors, therapists, teachers, or guides. Players are strongly encouraged to seek help with self-reflection and mindfulness guides. Without an objective observer to provide feedback, we easily fall into self-deception and denial. We often become blinded by our insecurities and shortcomings, making it difficult to overcome or release old patterns that no longer serve without their assistance. The content generated during 5eFP sessions can serve as material for discussion with these guides, who can also suggest suitable gameplay explorations.
+6. **Therapeutic but _not therapy_.** 5eFP games can be therapeutic by revealing hidden parts of ourselves. Taking brief notes about these parts during the game is important, as these sessions are not therapy, and your GM won’t pause to process them. Players adapt and integrate experiences spontaneously. At the end of the session, there will be time for journaling and sharing with the group, and further processing can occur later with a guide or teacher.
+7. **_One GM: One practice_.** A 5eFP game has one designated GM dedicated to the practice. The designated GM may recruit one or more additional GMs to help run repeatable quests within the practice. A GM can create a new practice only after an existing practice is completed or ends. A 5eFP practice ends before completion if the number of active players drops below eight. Players become inactive if they do not participate in the practice at least once each month. 
+8. **_GMs do not fraternize with players within their practice_.** Friendships are welcomed, while romantic or intimate relationships between players and 5eFP GMs within a shared 5eFP practice are strongly discouraged. If a player wants to pursue a romantic or intimate relationship with their 5eFP GM, they must first agree to leave the GM's practice and refrain from joining any other practices led by that GM while the romantic or intimate relationship continues. They are encouraged to join a different 5eFP GM's practice.
+
+### Who is this policy for?
+
+This policy applies but is not limited to all 5eFP GMs, players participating in 5eFP game sessions, and public members joining 5eFP-related events.
+
+### Where does this policy apply?
+
+This policy applies to all managed events directly linked or associated with a 5eFP game, such as conferences, workshops, and other activities; after-event social spaces; and online while engaging with a 5eFP game’s virtual events or through email, social media, or texting.
+
+## CODE OF CONDUCT*
+
+The following is not exhaustive but is the minimum we expect from all 5eFP participants. GMs and players must all:
+
+- Foster a safe environment that is free from physical, written, verbal, or sexual harassment, violence, bullying, or discrimination. Unacceptable behaviors include sexually harassing another person with unwanted or unwelcome behavior; physically or sexually assaulting another person; making derogatory remarks about an individual’s body, manner, or sexual activities; intimidating, threatening, or victimizing another person; discriminating against or treating someone less favorably due to their race, gender, gender identity, age, sexual orientation, disability, or other personal characteristics.
+- Be active and inclusive. Recognize that bigotry, bullying, and lack of consent are pervasive and rooted in the TRPG industry and within broader society. Do not tolerate racism, ableism, transphobia, homophobia, or ageism in any form, and actively challenge discriminatory behaviors and opinions. Do not tolerate backstabbing, bullying, infighting, intimidating, and disharmonious behaviors and actions.
+- Respect boundaries. Be aware that each person is different and will have different personal and cultural boundaries. Pay attention to verbal and non-verbal signals, and respect others' wishes. This also means respecting possible rules and regulations to protect everyone from COVID-19 or other pandemics.
+- Be aware of and challenge our prejudices and privileges. Consider what influences your words, opinions, and feelings and who they might exclude or harm.
+- Respect how people choose to identify. Do not assume someone's gender identity, sexual preference, background, etc. Do not share this information with others without permission.
+- Listen if someone challenges us about our behavior. It’s always hard to hear that your behavior is making someone uncomfortable. Do not become defensive – listen, reflect, and learn.
+- Consume responsibly. Know your limits. The effects of alcohol and the consumption of intoxicants will not excuse inappropriate or harassing behavior.
+- Take care of ourselves. Take care of your health and safety, and do not act in any way that puts you or others at risk.
+- Respect the privacy of others. Please do not take photos/videos of others or share images of or information belonging to others without their express permission.
+- Report damaging behaviors. If you are being harassed, witness harassment of someone else, or have concerns about another person’s conduct, please contact your 5eFP GM. You can report any inappropriate behavior or harassment via the contact details in your 5eFP setting handbook. 5eFP GMs can also submit reports for review by all players within a practice.
+
+### What can you expect from 5eFP games and events?
+
+5eFP GMs, players, and public members participating in 5eFP-related events will follow and uphold this Code of Conduct. This policy is communicated to all GMs, players, volunteers, scholars, artists, conference and workshop participants, collaborators, independent contractors, employees, and others who work within a 5eFP game. It will also be available publicly. 5eFP GMs will take action. When someone reports a breach of the code of conduct or is uncomfortable in any space (including online), a 5eFP GM works with the complainant to determine an appropriate response. This might involve:
+
+- warning the offender
+- removing the offender from the event/activity
+- revoking the offender's 5eFP game membership
+- contacting the police
+- putting the complainant in touch with local support services
+
+The 5eFP community will continue listening, learning, and reflecting, individually and with others. This policy will be regularly reviewed and updated. If you have any comments or suggestions about this policy, please contact your 5eFP GM using the details in your setting handbook.
+
+*This code does not supersede an individual’s right to file a police report and/or investigation or seek legal counsel. To the extent that there is an inconsistency between the law and this policy, the law prevails.
 
 ### RECOMMENDED READING
 
