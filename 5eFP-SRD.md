@@ -10,9 +10,9 @@ _**Practice.**_ Focus alone isn't enough. Results require real doing through reg
 
 > "Vision without action is a daydream. Action without vision is a nightmare." — Japanese Proverb
 >
-> "Whatever we resist persists." — Carl Jung
->
 > "The wound is the place where the Light enters you." — Rumi
+>
+> "Whatever we resist persists." — Carl Jung
 
 # Safe Space and Code Of Conduct
 
