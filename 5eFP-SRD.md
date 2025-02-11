@@ -24,7 +24,7 @@ _**Practice.**_ Focus alone isn't enough. Results require real doing through reg
 
 The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenting the rules of the game. The following are among the most common.
 
-**_Group Token_.** A special miniature token representing all of the PCs within a group.
+**_Group Token_.** A special game token representing all of the PCs within a group.
 
 **_Deploy_.** After choosing an unexplored world map tile, the PCs deploy onto its exploration map by placing the group token onto the exploration map in a random location. The obscuring map tile under the group token is revealed.
 
