@@ -22,11 +22,15 @@ _**Practice.**_ Focus alone isn't enough. Results require real doing through reg
 
 ## Common Terms
 
+**_Group Token_.** A special miniature token representing all of the PCs within a group.
+
+**_Deploy_.** After choosing an unexplored world map tile, the PCs deploy onto its exploration map by placing the group token onto the exploration map in a random location. The obscuring map tile under the group token is revealed.
+
 **_Player Character (PC)_.** A character created and played by a player.
 
 **_Non-Player Character (NPC)_.** A character created and played by the Game Master.
 
-**_Gamemaster (GM)_.** A gamemaster is a player with sufficient proficiency with the game's rules to run games for player characters (PCs). The other players in a 5eFP practice play a character within the game story while the GM plays everything else.
+**_Gamemaster (GM)_.** A gamemaster is a player with sufficient proficiency with the game's rules to run games for player characters (PCs). The other players in a 5eFP practice play a character within the game while the GM plays everything else.
 
 **_Discover._** If a game feature instructs you to discover something, you determine three results, choose one, and discard any remaining results.
 
