@@ -1575,7 +1575,7 @@ Your perception enables you to spot, hear, or otherwise detect the presence of s
 
 Your GM reveals all relevant information regarding the current scene gathered through the five senses (sight, smell, sound, taste, and touch).
 
-**Perception in Real Life (RL).** _Perception begins with perceiving your physical, Earthly body and your immediate surroundings. This awareness helps you interrelate with others and navigate life's changes. Witnessing your feelings, thoughts, and instincts as information lets you learn about your reactions. The more you know about yourself, the less you identify with the reactions of others._
+**Perception in Real Life (RL).** _Perception begins with perceiving your physical, earthly body and immediate surroundings. This awareness helps you interrelate with others and navigate life's changes. Witnessing your feelings, thoughts, and instincts as information lets you learn about your reactions. The more you know about yourself, the less you identify with the reactions of others._
 
 ### Performance
 
