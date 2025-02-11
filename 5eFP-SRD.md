@@ -20,129 +20,31 @@ _**Practice.**_ Focus alone isn't enough. Results require real doing through reg
 
 [Read the complete policy in Appendix PO-A.](#appendix-po-a-safe-space-and-code-of-conduct)
 
-# A New Way to Play
+## Common Terms
 
-5eFP is different from other TRPGs. While many of its game features are based on the D20 fifth edition rules, 5eFP's versions are simplified and restructured to create a new set of rules outlined in this section. These rules were created to promote a game that can be set up and taken down like a board game and as a modular game whose pieces can be used repeatedly and consistently.
+**_Player Character (PC)_.** A character created and played by a player. Game features sometimes refer to you directly, such as when you are asked to choose a creature within your line of sight. This is addressing both you as a player and you as a character played by you. In this example, your character chooses a creature within line of sight. As a player, you may have a line of sight on a creature your character cannot see, such as a creature waiting around a corner. You must choose a creature your character is capable of seeing. You might make these game decisions as a player, your character, or a mix of both. Players sometimes know things about the game that their characters do not know. Cultivating the capacity to allow your character to make decisions without using your player knowledge is a crucial skill for players.
 
-Players will find that the action revolves around a typical in-game day, which begins after gaining the benefits of a long rest and involves choosing and deploying onto the world map to complete game objectives. GMs and PCs are strongly encouraged to review the 5eFP game differences before moving on to other sections, such as character creation or creating a setting handbook.
+**_Game Master (GM)_.** A game master is a player with sufficient proficiency with the game's rules to run games for player characters (PCs). The other players in a 5eFP practice play a character within the game story while the GM plays everyone and everything else.
 
-## Game Terms
+**_Discover._** If a game feature instructs you to discover something, you determine three results, choose one, and discard any remaining results.
 
-### Roll Tables and Decks
+**_World Map_.** The world map defines the game world and drives the game's story. It is a top-down illustration of the game world or region divided into a 14-square by 14-square grid. Each square within the grid is measured 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters.
 
-A roll table lists potential results likely to occur within a specific context. Exploring a story direction such as **_(N) Feywood Forest_**, browsing available items for purchase at the Market, and looting treasure chests are all typical game contexts that use roll tables. The results can be arranged in a columnar table with numerical values assigned to each entry, representing its weight or how commonly it is encountered and may or may not include a deck of cards. A poker deck can represent 52 typical results and two unpredictable results (jokers). Jokers are treated special, like rolling a 1 or 20 on a d20. When you roll or draw a joker, the result should be unexpected. While exploring a story direction, a joker result means you draw a result from the opposite story direction roll table or deck. A joker result might include a higher-level or higher-quality item while browsing items for purchase or looting a treasure chest.
+**_World Map Tile_.** A square on the world map. A world map tile can either be explored or unexplored. An obscuring map tile covers unexplored world map tiles.
 
-Typical roll tables list things using a d20, percentages (d100), or another metric separating common, uncommon, and rare occurrences. A good roll table will have fewer entries at the start and end of the list, with the most common results positioned near or at the middle of the list. For those using poker decks: arrange the poker card results by suit and then by numeric versus royalty within each suit. Each suit represents different themes and content introduced by this particular story direction. A typical story direction uses one or two suits (one-quarter to half of the listed results) for creature encounters, leaving the remaining suits (remaining three-quarters to half of the listed results) for story elements that are not creature encounters.
+**_Exploration Map_.** The players prepare an exploration map When PCs deploy onto an obscured world map tile. This map is a top-down illustration of a specific area on the world map divided into a 14-square by 14-square grid. Each square within the grid is measured 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters. The exploration map begins covered by obscuring map tiles.
 
-**SAMPLE ROLL TABLES**
+**_Encounter_.** An encounter is a moment and significant event within the game where the outcome of events is uncertain and measured in rounds. Common encounters include creatures, dungeons, traps, treasure, and resources. Encounters last as long as they need to be resolved. Any requirements necessary to complete an encounter can be fulfilled using any available means. For example, a creature encounter asks the PCs to confront and subdue a group of creatures. PCs could attack the creatures, offer them items, or attempt to influence them through social actions. As long as the creatures are subdued or no longer opposing the PCs or situation, the actions taken fulfill the encounter's requirements for completion.
 
-Use the following roll table if there are no story decks.
+**_Encounter Map_.** Set up a 14-square by 14-square encounter map on one side of the exploration map when an encounter is revealed. Unlike other maps, you do not cover this map with obscuring map tiles.
 
-**(N)** _Feywood Forest_ (no deck)
-|d20|%|Suit|Roll Table|
-|:-:|:-:|:-:|:-|
-|||||
-|01-05|01-25|♠|Feywild|
-|06-10|26-50|♣|Sylvan Glen|
-|11-15|51-75|♦|Something Wicked|
-|16-20|76-00|♥|Archfey|
+**_Obscuring Map Tiles_.** At the beginning of the game, each world map tile is covered by a two-sided opaque obscuring map tile. The underside of each obscuring map tile may illustrate one or more symbols. These symbols might include a foothold, setting handbook requirement, treasure, or resources.
 
-**(N) _Feywood Forest_** [♠:Feywild]
-|d20|%|Card|Story Element|
-|:-:|:-:|:-:|:-|
-|||||
-|1|01-05|♠A|Wild Hunt|
-|2|06-10|♠2|Feywild Crossing Manor, Hamlet, or Village|
-|3|11-15|♠3|Charm, Enchantment, or Illusion|
-|4-5|16-25|♠4|Misty, Cloudy, or Stormy|
-|6-7|26-35|♠5|Elven Enclave Caravan|
-|8-9|36-45|♠6|Elven Enclave Pilgrims|
-|10-11|46-55|♠7|Elven Enclave Scouts|
-|12-13|56-65|♠8|Elven Enclave Bystanders|
-|14-15|66-75|♠9|Feywild Crossing Cave|
-|16-17|76-85|♠10|Twilight Glen|
-|18|86-90|♠J|Feywild Crossing Lake|
-|19|91-95|♠Q|Feywild Crossing Stream|
-|20|96-00|♠K|Feywild Crossing Castle, Keep, or Tower|
+**_Story Directions_.** The world map has four cardinal directions: North (N), South (S), East (E), and West (W). Each cardinal direction is linked to a unique story corresponding to that direction. There are also four ordinal or hybrid directions: Northwest (NW), Southeast (SE), Southwest (SW), and Northwest (NW). Each hybrid direction is linked to the stories contained within adjacent directions.
 
-More TBA
+**_Story Elements_.** Story elements are pieces of the overall story relating to the conflict detailed in your setting handbook modified by the particular direction the PCs are exploring. Over time, these story elements automatically create stories of their own. GMs and PCs don't necessarily need to control how these elements emerge, though GMs may choose to adjust them with player consent so they fit together better.
 
-### Discover
-
-5eFP uses the **_discover_** game mechanic. The discover keyword translates into the following rules.
-- If a game feature asks you to discover a game feature, you determine three results from that game feature's roll table or draw three cards from that game feature's deck.
-    - Choose one result or card and discard the remaining results or cards.
-
-### World Map
-
-The world map drives the game's story and content. It is a top-down illustration of the game world or region divided into a 14-square by 14-square grid. Each square within the grid is measured 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters. The map contains
-- (49) 2x2 grey obscuring map tiles linked to a setting handbook
-- (196) 2x2 black obscuring map tiles with the following modifications
-    - (40) are marked with hybrid orbs or circles (all colors separated into four quadrants) on one side
-    - (20) are marked with a red orb or solid red circle on one side
-    - (20) are marked with a green orb or solid green circle on one side
-    - (12) are marked with a golden orb or gold solid circle on one side
-    - (6) are marked with a white orb or solid white circle on one side
-- (9) 2x2 world map tiles for each cardinal direction
-- (3) 2x2 world map tiles for each hybrid ordinal direction
-- (1) 2x2 HQ tile unique to a setting handbook
-
-A road connected to HQ diagonally divides hybrid world map tiles from one corner to the opposite along a contiguous line. Hybrid world map tiles share characteristics with adjacent world map tiles.
-
-Steps taken for world map deployment:
-
-1. **Preview.** One Mage and one Scoundrel receive a special bonus round before the selection step. Each may choose one unexplored world map tile within the current level of play and preview its terrain by temporarily removing its obscuring map tile. Once finished, the player then returns the obscuring map tile back to its original position. If there are no unexplored world map tiles, they each discover a story element from a story direction of their choice. The remaining story elements are discarded or put on the top or bottom of the story deck in any order. Return the discovered story element to the top of the story deck.
-2. **Selection.** The players select an obscured map tile within the current level of play. If no obscuring world map tile remains within the current level of play, the group may select any explored world map tile.
-3. **Prepare.** Player Characters (PCs) may choose to spend 1 round of preparation. A preparation round shares characteristics with an encounter round. The PC may take the following actions during preparation: 
-    - **1 action**: This could include casting a spell with a casting time and duration of up to 1 round, activating a game feature, or using an item.
-    - **1 bonus action**: Additionally, the PC can perform one bonus action.
-    - **1 reaction**: The PC gets one reaction.
-    - **1 object interaction**: The PC may also interact with one object, such as readying a weapon or equipping a shield or item.
-    - **∞ Free actions**: The PC can take any number of free actions.
-    - **Movement**: A PC may move once during a round of preparation by placing its token onto a downtime location in HQ that exchanges ⛁ for items or game features, receiving any benefits as if completing a round of downtime and returning to the map room afterward.
-4. **Setup.** Place an empty 14 x 14 exploration map beside the world map. Randomize the starting position for the PCs. Set up the time marker for an 8-hour countdown.
-5. **Deploy.** The GM reveals the obscuring map tile on the exploration map at the starting position determined in the previous step, resolves any revealed icons on the underside of the obscuring map tile, and places the group token on it.
-6. **Choose Party Token Controller.** PCs appoint one player as the party token controller. The PC with the most advantageous movement bonus is typically the party token controller. Some background, species, and class features provide significant bonuses while controlling the party token. PCs can change who controls the party token each round if desired.
-7. **Move the party token.** The party token controller moves the token up to their speed, revealing obscuring world map tiles in sight.
-
-**Removing Obscuring Map Tiles.** The party token controller reveals and removes obscuring map tiles while moving the party token within its line of sight. Most have a sight of 1, which means the party token controller reveals obscuring world map tiles within 1 square. Some backgrounds such as _street rat_ reveal additional obscuring map tiles. Before removing an obscuring map tile, turn it upside down. The underside of the obscuring map tile may display one of several possible icons displayed within one of four quadrants.
-- **Red Orb or Solid Red Circle.** The obscuring tile covered a foothold (see _Foothold_ below).
-- **White Orb or Solid White Circle.** The obscuring tile covered a setting handbook requirement (see _Setting Handbook_ below).
-- **Gold Orb or Solid Gold Circle.** The obscuring tile covered a _campfire encounter_ (TBD) on the world map or _treasure_ on an encounter map (TBD).
-- **Green Orb or Solid Green Circle.** The obscuring tile covered _resources_ (TBD).
-- **Hybrid Orb or Solid Hybrid Circle.** Choose what the obscuring tile covered from a foothold, a setting handbook requirement, a campfire encounter, or resources.
-
-If a foothold is revealed after the party has revealed five footholds, or if a white circle is revealed after the party has acquired the setting handbook requirement, discard it and lower the time marker by 1.
-
-Discard the obscuring tile after resolving any revealed icons. If the obscuring map tile revealed a foothold, briefly reveal the map tile it obscures and note its terrain type. Set up the foothold with this terrain, modified by any revealed story elements and encounters. Note the cardinal or ordinal direction you used to move onto the foothold from the world map. The party then enters the foothold and places their tokens near each other along the corresponding side of the map unless the foothold describes a designated starting area.
-
-### Story Directions and Elements
-
-**Story Directions.** The world map has four cardinal directions: North (N), South (S), East (E), and West (W). Each cardinal direction is linked to unique and interconnected story elements corresponding to that direction. There are also four ordinal or hybrid directions: Northwest (NW), Southeast (SE), Southwest (SW), and Northwest (NW). Each hybrid direction is linked to the story elements contained within adjacent directions.
-
-**Story Elements.** Think of story elements as pieces of the overall story relating to the conflict detailed in your setting handbook modified by the particular direction the PCs are exploring. Over time, these story elements automatically create stories of their own. GMs and PCs don't necessarily need to control how these elements emerge, though GMs may choose to adjust them with player consent so they fit together better.
-
-You reveal a story element by drawing one from a story direction deck or rolling a random result on a story direction roll table. If a story element is revealed in a hybrid direction, you reveal a story element for each adjacent direction.
-
-A story direction is typically summarized with short descriptive phrases such as (N) Lonely Wood, (W) Haunted Moors, (S) Shifting Desert, and (E) Sunken Temple.
-
-For example, while exploring NE, the PCs reveal a foothold. Because they are exploring a hybrid direction, they reveal one story element from both directions. They reveal a _withered copse_ from (N) Lonely Wood and _swampy ruins_ from (E) Sunken Temple. They continue to draw story elements from both adjacent directions until they reveal an encounter. In this case, they reveal a _windswept glade_ from Lonely Wood and get the _merrow encampment_ monster encounter from the Sunken Temple direction. Since they drew an encounter, they stopped drawing more story elements. The GM and PCs discard the _windswept glade_ story element because they don't feel as much interest in it and keep the _withered copse_ and the _swampy ruins_. They then decide together that the party is in a transition area between the Lonely Wood and where the land sinks away toward the Sunken Temple. They then determine that the party can see a _withered copse_ near a _merrow encampment_, and the whole area has a scattering of mysterious ruins sinking into the swamp.
-
-### Foothold
-
-A foothold is a concentrated local event related to the conflict detailed in your setting handbook (see _Setting Handbook_ below). PCs must find and resolve three footholds to finish exploring an obscured world map tile.
-
-A foothold is a region on the world map containing an encounter that challenges the PCs somehow. The GM draws or rolls for a story element from the direction the PCs are exploring, continuing to draw and roll story elements until revealing an encounter. PCs choose and add one story element to the encounter from those revealed, discarding any remaining story elements. If the PCs encounter a foothold while exploring a hybrid tile, they keep two story elements (one from each adjacent direction) instead of picking only one story element.
-
-~~Footholds are points of interest within a world map tile wherein the forces opposing the PCs form an encounter. Unexplored world map tiles contain 5 randomly located footholds. In order to consider a world map explored, the PCs must first discover and resolve 3 footholds.~~
-
-### Encounter Map
-
-- Set up a 14-square by 14-square encounter map to one side of the exploration map when an encounter is revealed
-- Do not cover the map with obscuring map tiles.
-- PCs place their tokens on one side of the map unless the encounter specifies a designated starting area. For example, if the party token is moved onto the map from the W direction (the party token controller moves the party token from the adjacent tile to the E), the PCs appear and place their tokens along the E side of the map. Similarly, moving in the SW direction results in PC tokens being placed on the NE edge of the map.
-- An encounter map has four quadrants: NW (quadrant II), NE (quadrant I), SE (quadrant IV), and SW (quadrant III).
-- Each quadrant is either blank or modified by the encounter position revealed when an obscuring map tile is turned upside down, and any story elements rolled or drawn. Some story elements only modify a specific quadrant, while others can modify the entire map.
+**_Foothold_.** A foothold is a square on a map that features an encounter connected to the conflict outlined in your setting handbook. PCs must find and resolve three footholds to finish exploring an obscured world map tile.
 
 ### Headquarters (HQ)
 
