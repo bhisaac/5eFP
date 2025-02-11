@@ -40,7 +40,7 @@ _**Practice.**_ Focus alone isn't enough. Results require real doing through reg
 
 **_Exploration Map_.** The players prepare an exploration map When PCs deploy onto an obscured world map tile. This map is a top-down illustration of a specific area on the world map divided into a 14-square by 14-square grid. Each square within the grid is measured 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters. The exploration map begins covered by obscuring map tiles.
 
-**_Encounter_.** An encounter is a moment and significant event within the game where the outcome of events is uncertain and measured in rounds. Common encounters include creatures, dungeons, traps, treasure, and resources. Encounters last as long as they need to be resolved. Any requirements necessary to complete an encounter can be fulfilled using any available means. For example, a creature encounter asks the PCs to confront and subdue a group of creatures. PCs could attack the creatures, offer them items, or attempt to influence them through social actions. As long as the creatures are subdued or no longer opposing the PCs or situation, the actions taken fulfill the encounter's requirements for completion.
+**_Encounter_.** An encounter is a moment and a significant event within the game where the outcome of events is uncertain and is measured in rounds.
 
 **_Encounter Map_.** Set up a 14-square by 14-square encounter map on one side of the exploration map when an encounter is revealed. Unlike other maps, you do not cover this map with obscuring map tiles.
 
