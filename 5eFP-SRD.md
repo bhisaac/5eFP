@@ -24,6 +24,8 @@ _**Practice.**_ Focus alone isn't enough. Results require real doing through reg
 
 **_Player Character (PC)_.** A character created and played by a player. Game features sometimes refer to you directly, such as when you are asked to choose a creature within your line of sight. This is addressing both you as a player and you as a character played by you. In this example, your character chooses a creature within line of sight. As a player, you may have a line of sight on a creature your character cannot see, such as a creature waiting around a corner. You must choose a creature your character is capable of seeing. You might make these game decisions as a player, your character, or a mix of both. Players sometimes know things about the game that their characters do not know. Cultivating the capacity to allow your character to make decisions without using your player knowledge is a crucial skill for players.
 
+**_Non-Player Character (NPC)_.** A character created and played by the GM.
+
 **_Game Master (GM)_.** A game master is a player with sufficient proficiency with the game's rules to run games for player characters (PCs). The other players in a 5eFP practice play a character within the game story while the GM plays everyone and everything else.
 
 **_Discover._** If a game feature instructs you to discover something, you determine three results, choose one, and discard any remaining results.
