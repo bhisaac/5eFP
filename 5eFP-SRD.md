@@ -1608,7 +1608,7 @@ You are a natural performer who can captivate, entertain, and motivate your audi
 
 ### Feature: By Popular Demand
 
-If you spend a round of downtime at an inn, tavern, circus, theater, or in a noble's court, you gain ⛁. Bonus coins awarded through this feature can only be spent on rest and repairs. Afterward, you may spend 1 additional downtime round without spending any coin.
+If you spend a round of downtime at an inn, tavern, circus, theater, or in a noble's court, you gain ⛁. Bonus coins awarded through this feature can only be spent on rest and repairs.
 
 ## Folk Hero
 
@@ -1622,7 +1622,7 @@ Your social status may be humble, but you have a greater purpose in life. The pe
 
 ### Feature: Rustic Hospitality
 
-Whenever you move the party token, it bypasses obstacles and moves undetected through city and city road terrain tiles. Additionally, whenever you speak to a commoner (someone without military or aristocratic rank), any related checks made while doing so gain advantage. If you spend a round of downtime at a commoner's home, you gain ⛁. Bonus coins awarded through this feature can only be spent on rest and repairs.
+You bypass obstacles and move undetected through city and road terrain tiles while you are the group token controller. Additionally, whenever you speak to a commoner (someone without military or aristocratic rank), any related checks made while doing so gain advantage. If you spend a round of downtime at a commoner's home, you gain ⛁. Bonus coins awarded through this feature can only be spent on rest and repairs.
 
 ## Guild Artisan
 
