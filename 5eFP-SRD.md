@@ -26,13 +26,17 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Group Token_.** A special game token representing all of the PCs within a group.
 
-**_Deploy_.** After choosing an unexplored world map tile, the PCs deploy onto its exploration map by placing the group token onto the exploration map in a random location. The obscuring map tile under the group token is revealed.
+**_Coin_ (⛁).** A 5eFP game awards and uses coin (⛁) as its currency, representing wealth, reputation, and experience.
+
+**_Downtime_.** Downtime is measured in rounds. The player with the most coins spends their downtime round first. The first downtime round is free, and subsequent rounds of downtime cost ⛁ each. A game session ends after all PCs pass on downtime rounds.
+
+**_Deploy_.** After choosing an unexplored world map tile, the PCs deploy onto its exploration map by placing the group token onto the exploration map in a random location. The obscuring map tile under the group token is revealed. During a round of downtime, PCs may deploy onto a downtime location on an explored world map tile without determining a random starting location.
 
 **_Player Character (PC)_.** A character created and played by a player.
 
-**_Non-Player Character (NPC)_.** A character created and played by the Game Master.
+**_Non-Player Character (NPC)_.** A character created and played by the gamemaster.
 
-**_Gamemaster (GM)_.** A gamemaster is a player with sufficient proficiency with the game's rules to run games for player characters (PCs). The other players in a 5eFP practice play a character within the game while the GM plays everything else.
+**_Gamemaster (GM)_.** A gamemaster is a player with sufficient proficiency with the game's rules to run games for player characters (PCs). The other players in a 5eFP practice play PCs, while the GM plays everything else.
 
 **_Discover._** If a game feature instructs you to discover something, you determine three results, choose one, and discard any remaining results.
 
@@ -42,7 +46,7 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Exploration Map_.** The players prepare an exploration map When PCs deploy onto an obscured world map tile. This map is a top-down illustration of a specific area on the world map divided into a 14-square by 14-square grid. Each square within the grid is measured 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters. The exploration map begins covered by obscuring map tiles.
 
-**_Encounter_.** An encounter is a moment and a significant event within the game where the outcome of events is uncertain and is measured in rounds.
+**_Encounter_.** An encounter is a significant event within the game where the outcome of events is uncertain and is measured in rounds. PCs are awarded ⛁ when an encounter ends.
 
 **_Encounter Map_.** Set up a 14-square by 14-square encounter map on one side of the exploration map when an encounter is revealed. Unlike other maps, you do not cover this map with obscuring map tiles.
 
@@ -54,28 +58,7 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Foothold_.** A foothold is an encounter connected to the conflict outlined in your setting handbook. PCs must find and resolve three footholds to finish exploring an obscured world map tile.
 
-### Headquarters (HQ)
-
-Each world map has an HQ, usually located at the center of the world map. HQ represents the central organization or organizing force responsible for maintaining the health and security of the game world or region. All PCs are peers and colleagues within this organization. You are objectively safe from the conflict at HQ, provided HQ receives the setting handbook requirement (see _Setting Handbook_ below).
-
-HQ might be a city, a settlement, an outpost, a watch tower, a ship, or a station. All HQs have a dedicated society of supporters who help PCs complete missions. PCs almost always begin and end a game session at HQ.
-
-HQ will sometimes create satellite locations within the world map. Each satellite behaves as if it were HQ with different downtime options, and you may deploy to a satellite location at the start of a downtime round, returning to HQ afterward. Satellite locations are less secure than HQ but remain relatively safe and protected, provided PCs find the setting handbook requirement. Local circumstances, conditions, and disturbances can affect the safety and protection offered by HQ. A temporary suspension of HQ protection results in PCs losing the ability to rest and repair. Coins spent on rest and repairs are lost during these circumstances.
-
-HQ usually remains in one static location while PCs deploy on missions outward from the world map's center. However, some HQs relocate on the world map while other HQs have movable tokens representing a deployable vehicle or station with sufficient resources and life support. Deployable HQ tokens function identically to static HQ world map tiles.
-
-You begin the game by revealing the HQ world map tile to all players, reading any read-aloud text listed in your setting handbook for the start of the game.
-
-#### Game Session Start
-
-Unless stated otherwise, you always begin the game at HQ.
-
-#### Game Session End
-
-Unless stated otherwise, you always end the game at HQ. The following occurs when PCs return to HQ:
-1. PCs may pay ⛁ for rest and repairs.
-2. PCs take one downtime round (worker placement) by placing their token on a building within HQ (or linked through HQ at a satellite location). PCs can spend ⛁ to gain a number of bonus downtime rounds equal to the amount spent.
-3. PCs reset all game features on their character sheet.
+**_Headquarters (HQ)_.** Each world map has an HQ, usually located at the center of the map, representing the central organization or organizing force responsible for maintaining the health and security of the game world or region. All PCs are peers and colleagues within this organization. You are objectively safe from the conflict at HQ, provided HQ receives the setting handbook requirement. Unless stated otherwise, PCs always begin and end a game session at HQ.
 
 ### Deploy
 
