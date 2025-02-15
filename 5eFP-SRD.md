@@ -24,6 +24,8 @@ _**Practice.**_ Focus alone isn't enough. Results require real doing through reg
 
 The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenting the rules of the game. The following are among the most common.
 
+**_Ability Score_.** Six ability scores ranging from -5 to +10 provide a quick description of every creature’s physical and mental characteristics, including strength (STR) measuring physical power, dexterity (DEX) measuring agility, constitution (CON) measuring endurance, intelligence (INT) measuring reasoning and memory, wisdom (WIS) measuring awareness, and charisma (CHA) measuring force of personality.
+
 **_Group Token_.** A special game token representing all of the PCs within a group.
 
 **_Coin_ (⛁).** A 5eFP game awards and uses coin (⛁) as its currency, representing wealth, reputation, and experience.
@@ -61,6 +63,12 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 **_Foothold_.** A foothold is an encounter connected to the conflict outlined in your setting handbook. PCs must find and resolve three footholds to finish exploring an obscured world map tile.
 
 **_Recall_.** A PC is transported back to the HQ map room after finishing a special Recall ritual completed outside of an encounter. PCs automatically Recall when the time marker reaches 0 (8 hours) after deploying onto the world map. A PC may only Recall once per game session.
+
+**_Round_.** TBA
+
+**_Turn_.** TBA
+
+**_Beginning of ... Ending of ..._.** TBA
 
 **_Headquarters (HQ)_.** Each world map has an HQ, usually located at the center of the map, representing the central organization or organizing force responsible for maintaining the health and security of the game world or region. All PCs are peers and colleagues within this organization. You are objectively safe from the conflict at HQ, provided HQ receives the setting handbook requirement. Unless stated otherwise, PCs always begin and end a game session at HQ.
 
