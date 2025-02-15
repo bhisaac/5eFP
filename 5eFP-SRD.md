@@ -28,9 +28,9 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Coin_ (⛁).** A 5eFP game awards and uses coin (⛁) as its currency, representing wealth, reputation, and experience.
 
-**_Downtime_.** Downtime is measured in rounds. The player with the most coins spends their downtime round first. The first downtime round is free, and subsequent rounds of downtime cost ⛁ each. A game session ends after all PCs pass on downtime rounds.
+**_Downtime and Downtime Rounds_.** Downtime is measured in rounds. The PC with the most coin wins the initiative (PCs that tie choose their downtime together, deciding who will act first) and spends its downtime round first. All other PCs take turns spending downtime rounds in clockwise order. The first downtime round is free, and subsequent rounds of downtime cost ⛁ each. PCs may pass on additional downtime rounds, removing them from the initiative order. A game session ends after all PCs pass on downtime rounds.
 
-**_Deploy_.** After choosing an unexplored world map tile, the PCs deploy onto its exploration map by placing the group token onto the exploration map in a random location. The obscuring map tile under the group token is revealed. During a round of downtime, PCs may deploy onto a downtime location on an explored world map tile without determining a random starting location.
+**_Deploy_.** After choosing an unexplored world map tile, the PCs deploy onto its exploration map by placing the group token in a random location. The obscuring map tile under the group token is revealed. During a downtime round, PCs may deploy and resolve the downtime round on an area within an explored world map tile.
 
 **_Player Character (PC)_.** A character created and played by a player.
 
