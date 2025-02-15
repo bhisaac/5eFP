@@ -28,7 +28,9 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Coin_ (⛁).** A 5eFP game awards and uses coin (⛁) as its currency, representing wealth, reputation, and experience.
 
-**_Downtime and Downtime Rounds_.** Downtime is measured in rounds. The PC with the most coin wins the initiative (PCs that tie choose their downtime together, deciding who will act first) and spends its downtime round first. All other PCs take turns spending downtime rounds in clockwise order. The first downtime round is free, and subsequent rounds of downtime cost ⛁ each. PCs may pass on additional downtime rounds, removing them from the initiative order. A game session ends after all PCs pass on downtime rounds.
+**_Upgrade_.** Once the PCs Recall, they may spend coin unlocking character upgrades. Available upgrades include species, background, and class and are limited to only those upgrades equal to or less than LEVEL. Once all PCs have finished spending coin on upgrades, downtime begins.
+
+**_Downtime_.** Downtime consists of downtime actions measured in rounds and may include rest, repairs, research, spending coin on HQ upgrades, or taking other actions between game sessions.
 
 **_Deploy_.** After choosing an unexplored world map tile, the PCs deploy onto its exploration map by placing the group token in a random location. The obscuring map tile under the group token is revealed. During a downtime round, PCs may deploy and resolve the downtime round on an area within an explored world map tile.
 
@@ -59,6 +61,8 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 **_Foothold_.** A foothold is an encounter connected to the conflict outlined in your setting handbook. PCs must find and resolve three footholds to finish exploring an obscured world map tile.
 
 **_Headquarters (HQ)_.** Each world map has an HQ, usually located at the center of the map, representing the central organization or organizing force responsible for maintaining the health and security of the game world or region. All PCs are peers and colleagues within this organization. You are objectively safe from the conflict at HQ, provided HQ receives the setting handbook requirement. Unless stated otherwise, PCs always begin and end a game session at HQ.
+
+**_LEVEL_.** LEVEL equals the current level of play. LEVEL starts at 1 and increases over time to 7 as game objectives are completed.
 
 ### Deploy
 
