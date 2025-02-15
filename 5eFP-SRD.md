@@ -60,69 +60,17 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Foothold_.** A foothold is an encounter connected to the conflict outlined in your setting handbook. PCs must find and resolve three footholds to finish exploring an obscured world map tile.
 
+**_Recall_.** A PC is transported back to the HQ map room after finishing a special Recall ritual completed outside of an encounter. PCs automatically Recall when the time marker reaches 0 (8 hours) after deploying onto the world map. A PC may only Recall once per game session.
+
 **_Headquarters (HQ)_.** Each world map has an HQ, usually located at the center of the map, representing the central organization or organizing force responsible for maintaining the health and security of the game world or region. All PCs are peers and colleagues within this organization. You are objectively safe from the conflict at HQ, provided HQ receives the setting handbook requirement. Unless stated otherwise, PCs always begin and end a game session at HQ.
 
 **_LEVEL_.** LEVEL equals the current level of play. LEVEL starts at 1 and increases over time to 7 as game objectives are completed.
 
-### Deploy
+**_Fast Travel_.** 5eFP games use fast travel rules when deploying onto the world map, skipping past traveling and travel times.
 
-A group of PCs deploy to a designated world map tile simultaneously. Deployment starting location on an unexplored world map tile is randomized. During a round of downtime, PCs may deploy on their own to an explored location on the world map without determining a random starting location.
+**_Setting Handbook_.** All details about the 5eFP practice you are joining, including read-aloud text, GM contact information, game backstory, world map, HQ information, the game's central conflict, the game's story directions, how PC Recall, how PCs fast travel, and the setting handbook requirement can be found in your setting handbook.
 
-### Fast Travel
-
-5eFP games use fast travel rules when deploying onto the world map, skipping past traveling and travel times.
-
-### Recall
-
-A PC is transported back to the HQ map room after finishing a Recall ritual completed outside of an encounter. PCs automatically Recall when the time marker reaches 0 (8 hours) after deploying onto the world map. A PC may only Recall once per game session.
-
-The nature of how PCs Recall depends on the game world you are playing in, which is detailed in your setting handbook.
-
-> For Game Masters: How do the PCs Recall?
-> 
->> What technology does the game use to make this happen? Teleportation? Airlifting? Shuttles? Flying mounts?
->>
->> For example, in Enchanted Forest, the PCs use mystic skipping stone artifacts gifted to them when they graduate as a Queen's Herald. The stones are powerful magic items that cannot be destroyed. Each stone is unique and bonded to exactly one PC. PCs and their bonded stones simultaneously Recall to HQ.
->>
-> For Game Masters: Why do the PCs Recall automatically after 8 hours?
-> 
->> A condition or situation afflicts the world map. This condition or situation makes prolonged contact impossible or lethal. What's going on in your world map that explains this limit? For example, in Enchanted Forest, the Enchantress Queen can only keep the PCs safe from the Nightmare for up to 8 hours once the PCs have deployed. Keeping PCs safe from the Nightmare for 8 hours consumes 1 starflower. The Enchantress Queen must then finish a long rest before undertaking another deployment.
-
-### LEVEL
-
-LEVEL equals the current level of play. LEVEL starts at 1 and increases over time to 7 as game objectives are completed.
-
-**PROGRESSION**
-|||
-|-:|:-|
-||Prerequisites|
-|2|Explore each world map tile 1 square away from HQ|
-|3|LEVEL 2, explore each world map tile 2 squares away from HQ|
-|4|LEVEL 3, explore each world map tile 3 squares away from HQ|
-|5|LEVEL 4, resolve remaining footholds on each map tile 1 square away from HQ|
-|6|LEVEL 5, resolve remaining footholds on each map tile 2 squares away from HQ|
-|7|LEVEL 6, resolve remaining footholds on each map tile 3 squares away from HQ|
-
-### Setting Handbook
-
-All details about the 5eFP practice you are joining can be found in your setting handbook.
-
-- **READ-ALOUD TEXT.** Your GM reads this text aloud at the beginning of the game.
-- **GM CONTACT DETAILS.** Contact your GM and view their availability schedule.
-- **WORLD MAP.** Describes and illustrates the pre-conflict game world.
-- **HQ.** Details about HQ's organization or organizing force and the role PCs play within it.
-- **CONFLICT.** Reveals the central crisis or adverse conditions transforming the game world into an unbalanced and afflicted state. This conflict cannot be resolved at LEVEL 1 and requires completing a specific prerequisite at LEVEL 7. Includes changes or additions to game features that relate directly to the conflict.
-- **STORY DIRECTIONS.** The four cardinal story directions are defined.
-- **FAST TRAVEL.** How fast travel is achieved.
-- **RECALL.** Details on how PCs Recall, including any related special equipment or game features. 
-- **SETTING HANDBOOK REQUIREMENT.** PCs must complete this special task each game session, which might involve but isn't limited to placing and using an item, locating and gathering an item, finding and rescuing bystanders, gathering intelligence, or gathering a resource. For example, PCs must find and gather a starflower in the _Enchanted Forest_ setting.
-
-### Setting Up the Game (floating section)
-
-At the beginning of the game (session 0):
-- Cover the world map with grey obscuring map tiles
-- Read the read-aloud text in your setting handbook
-- Replace an obscuring map tile with the HQ tile
+**_Setting Handbook Requirement_.** PCs must complete this special task each game session, which might involve but isn't limited to placing and using an item, locating and gathering an item, finding and rescuing bystanders, gathering intelligence, or gathering a resource. For example, PCs must find and gather an herb, a starflower, in the _Enchanted Forest_ setting.
 
 # Character Creation
 
