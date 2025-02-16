@@ -1919,11 +1919,11 @@ When you use an action, bonus action, or reaction to attack with a net, you can 
 |Morningstar|2⛁|1 piercing|1|--|
 |Pike|1⛁|2 piercing|4|Heavy, reach, two-handed|
 |Rapier|4⛁|1 piercing|1|Finesse|
-|Scimitar|4⛁|1 slashing|1|Finess, light|
-|Shortsword|2⛁|1 piercing|1|Finess, light|
+|Scimitar|4⛁|1 slashing|1|Light|
+|Shortsword|2⛁|1 piercing|1|Light|
 |Trident|2⛁|1 piercing|1|Thrown (range 4)|
-|Warhammer|2⛁|1 bludgeoning|1|Versatile|
-|Whip|1⛁|1 slashing|1|Finesse, reach|
+|Warhammer|2⛁|1 bludgeoning|1|--|
+|Whip|1⛁|1 slashing|1|Reach|
 
 **MARTIAL RANGED WEAPONS**
 ||||||
