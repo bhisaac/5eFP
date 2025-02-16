@@ -1691,7 +1691,12 @@ You grew up on the streets alone, fighting for survival every day. You had no fa
 
 ### Feature: Streetwise
 
-If you are the group token controller and you move through 1 or more squares with the city, dungeon, or road terrains, you gain +1 speed and may move through buildings and end your turn on a building (rooftop) as if they were roads. Buildings are considered difficult terrain. Your pet critter allows you to remove one additional obscuring map tile up to 2 squares away. Also, your party is never surprised when the group token is on a square with the building, city, dungeon, or road terrain.
+If you are the group token controller and you move through 1 or more squares with the city, dungeon, or road terrains, you gain:
+- +1 Speed
+- You may move through buildings or end your turn on a building.
+- Buildings are considered difficult terrain for you.
+- Your pet critter allows you to remove one additional obscuring map tile up to 2 squares away.
+- Your party is never surprised when the group token is on a square with the building, city, dungeon, or road terrain.
 
 ## Background-Name
 
