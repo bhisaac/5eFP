@@ -1826,7 +1826,7 @@ Proficiency with a weapon allows you to add your LEVEL to the attack roll for an
 ### Weapon Properties
 Many weapons have special properties related to their use, as shown in the Weapons table.
 
-**_Ammunition._** You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Ammunition is a special multi-use item. Each time you attack with the weapon, roll 1 action die. If you roll only 1 action, your ammunition depletes indicated by turning the ammunition card sideways. If your ammunition is already depleted, you have only one piece of ammunition left, represented by turning the card upside down. After using the last piece of ammunition, discard the ammunition card to the equipment deck discard pile. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-­handed weapon).
+**_Ammunition._** You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Ammunition is a special multi-use item. Each time you attack with the weapon, roll 1 action die. If you roll only 1 action, your ammunition depletes, as indicated by turning the ammunition card sideways. If your ammunition is already depleted, you have only one piece of ammunition left, represented by turning the card upside down. After using the last piece of ammunition, discard the ammunition card to the equipment deck discard pile. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-­handed weapon).
 
 You may purchase more ammunition during a downtime or preparation round before deploying onto the world map by spending up to 3⛁. For each ⛁ spent, you roll one more action die when determining whether or not your ammunition depletes. Ammunition may use a maximum of three action dice.
 
@@ -1900,10 +1900,10 @@ When you use an action, bonus action, or reaction to attack with a net, you can 
 ||||||
 |:-|:-:|:-|:-:|:-|
 |**Name**|**Cost**|**Damage**|**Slots**|**Properties**|
-|Crossbow, light|2⛁|1 piercing|1|Ammunition (range 16), loading, two-handed|
-|Dart|1⛁|1 piercing|1|Finesse, multi-use, thrown (range 4)|
-|Shortbow|2⛁|1 percing|1|Ammunition (range 16), two-handed|
-|Sling|1⛁|1 bludgeoning|1|Ammunition (range 16)|
+|Crossbow, light|2⛁|1 piercing|1|Ammunition (range line of sight), loading, two-handed|
+|Dart|1⛁|1 piercing|1|Multi-use, thrown (range 4)|
+|Shortbow|2⛁|1 percing|1|Ammunition (range line of sight), two-handed|
+|Sling|1⛁|1 bludgeoning|1|Ammunition (range line of sight)|
 
 **MARTIAL MELEE WEAPONS**
 ||||||
@@ -1931,8 +1931,8 @@ When you use an action, bonus action, or reaction to attack with a net, you can 
 |**Name**|**Cost**|**Damage**|**Slots**|**Properties**|
 |Blowgun|2⛁|1 piercing|1|Ammunition (range 5), loading|
 |Crossbow, hand|6⛁|1 piercing|1|Ammunition (range 6), light, loading|
-|Crossbow, heavy|4⛁|2 piercing|3|Ammunition (range 20), heavy, loading, two-handed|
-|Longbow|4⛁|1 piercing|2|Ammunition (range 30), heavy, two-handed|
+|Crossbow, heavy|4⛁|2 piercing|3|Ammunition (range line of sight), heavy, loading, two-handed|
+|Longbow|4⛁|1 piercing|2|Ammunition (range line of sight), heavy, two-handed|
 |Net|1⛁|--|1|Special, thrown (range 1)|
 
 ### Adventuring Gear
