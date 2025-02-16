@@ -1918,7 +1918,7 @@ When you use an action, bonus action, or reaction to attack with a net, you can 
 |Maul|2⛁|2 bludgeoning|2|Heavy, two-handed|
 |Morningstar|2⛁|1 piercing|1|--|
 |Pike|1⛁|2 piercing|4|Heavy, reach, two-handed|
-|Rapier|4⛁|1 piercing|1|Finesse|
+|Rapier|4⛁|1 piercing|1|--|
 |Scimitar|4⛁|1 slashing|1|Light|
 |Shortsword|2⛁|1 piercing|1|Light|
 |Trident|2⛁|1 piercing|1|Thrown (range 4)|
