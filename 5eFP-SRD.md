@@ -26,61 +26,61 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Ability Score_.** Six ability scores ranging from -5 to +10 provide a quick description of every creature’s physical and mental characteristics, including strength (STR) measuring physical power, dexterity (DEX) measuring agility, constitution (CON) measuring endurance, intelligence (INT) measuring reasoning and memory, wisdom (WIS) measuring awareness, and charisma (CHA) measuring force of personality.
 
-**_Conflict_.** The conflict, detailed in your setting handbook, is an event with ongoing effects that changed the game world into an unbalanced and afflicted state. A 5eFP game ends when the conflict is resolved.
-
-**_Group Token_.** A special game token representing all of the PCs within a group.
+**_Beginning of ... Ending of ..._.** TBA
 
 **_Coin_ (⛁).** A 5eFP game awards and uses coin (⛁) as its currency, representing wealth, reputation, and experience.
 
-**_Upgrade_.** Once the PCs Recall, they may spend coin unlocking character upgrades. Available upgrades include species, background, and class and are limited to only those upgrades equal to or less than LEVEL. Once all PCs have finished spending coin on upgrades, downtime begins.
-
-**_Downtime_.** Downtime consists of downtime actions measured in rounds and may include rest, repairs, research, spending coin on HQ upgrades, or taking other actions between game sessions.
+**_Conflict_.** The conflict, detailed in your setting handbook, is an event with ongoing effects that changed the game world into an unbalanced and afflicted state. A 5eFP game ends when the conflict is resolved.
 
 **_Deploy_.** After choosing an unexplored world map tile, the PCs deploy onto its exploration map by placing the group token in a random location. The obscuring map tile under the group token is revealed. During a downtime round, PCs may deploy and resolve the downtime round on an area within an explored world map tile.
 
-**_Player Character (PC)_.** A character created and played by a player.
-
-**_Non-Player Character (NPC)_.** A character created and played by the gamemaster.
-
-**_Gamemaster (GM)_.** A gamemaster is a player with sufficient proficiency with the game's rules to run games for player characters (PCs). The other players in a 5eFP practice play PCs, while the GM plays everything else.
-
 **_Discover._** If a game feature instructs you to discover something, you determine three results, choose one, and discard any remaining results.
 
-**_World Map_.** The world map defines the game world and drives the game's story. It is a top-down illustration of the game world or region divided into a 14-square by 14-square grid. Each square within the grid is measured 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters.
-
-**_World Map Tile_.** A square on the world map. A world map tile can either be explored or unexplored. An obscuring map tile covers unexplored world map tiles.
-
-**_Exploration Map_.** The players prepare an exploration map When PCs deploy onto an obscured world map tile. This map is a top-down illustration of a specific area on the world map divided into a 14-square by 14-square grid. Each square within the grid is measured 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters. The exploration map begins covered by obscuring map tiles.
+**_Downtime_.** Downtime consists of downtime actions measured in rounds and may include rest, repairs, research, spending coin on HQ upgrades, or taking other actions between game sessions.
 
 **_Encounter_.** An encounter is a significant event within the game where the outcome of events is uncertain and is measured in rounds. PCs are awarded ⛁ when an encounter ends.
 
 **_Encounter Map_.** Set up a 14-square by 14-square encounter map near the exploration map when an encounter is revealed. Unlike other maps, you do not cover this map with obscuring map tiles.
 
-**_Obscuring Map Tiles_.** Obscuring map tiles are two-sided opaque map tiles that cover unexplored areas of a map or may represent areas of magical darkness.
+**_Exploration Map_.** The players prepare an exploration map When PCs deploy onto an obscured world map tile. This map is a top-down illustration of a specific area on the world map divided into a 14-square by 14-square grid. Each square within the grid is measured 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters. The exploration map begins covered by obscuring map tiles.
 
-**_Story Directions_.** The world map has four cardinal directions: North (N), South (S), East (E), and West (W). Each cardinal direction is linked to a unique story corresponding to that direction. There are also four ordinal or hybrid directions: Northwest (NW), Southeast (SE), Southwest (SW), and Northwest (NW). Each hybrid direction is linked to the stories contained within adjacent directions.
-
-**_Story Elements_.** Story elements are pieces of the overall story relating to the conflict detailed in your setting handbook modified by the particular direction the PCs are exploring. Over time, these story elements automatically create stories of their own. GMs and PCs don't necessarily need to control how these elements emerge, though GMs may choose to adjust them with player consent so they fit together better.
+**_Fast Travel_.** 5eFP games use fast travel rules when deploying onto the world map, skipping past traveling and travel times.
 
 **_Foothold_.** A foothold is an encounter connected to the conflict outlined in your setting handbook. PCs must find and resolve three footholds to finish exploring an obscured world map tile.
+
+**_Gamemaster (GM)_.** A gamemaster or GM is a player who is proficient in the game's rules and can facilitate 5eFP game sessions within a 5eFP practice. The other players in a 5eFP practice play player characters while the GM plays everything else.
+
+**_Group Token_.** A special game token representing all of the PCs within a group.
+
+**_Headquarters (HQ)_.** Each world map has an HQ, usually located at the center of the map, representing the central organization or organizing force responsible for maintaining the health and security of the game world or region. All PCs are peers and colleagues within this organization. You are objectively safe from the conflict at HQ, provided HQ receives the setting handbook requirement. Unless stated otherwise, PCs always begin and end a game session at HQ.
+
+**_Player Character (PC)_.** A character created and played by a player.
+
+**_Non-Player Character (NPC)_.** A character created and played by the gamemaster.
+
+**_LEVEL_.** LEVEL equals the current level of play. LEVEL starts at 1 and increases over time to 7 as game objectives are completed.
+
+**_Obscuring Map Tiles_.** Obscuring map tiles are two-sided opaque map tiles that cover unexplored areas of a map or may represent areas of magical darkness.
 
 **_Recall_.** A PC is transported back to the HQ map room after finishing a special Recall ritual completed outside of an encounter. PCs automatically Recall when the time marker reaches 0 (8 hours) after deploying onto the world map. A PC may only Recall once per game session.
 
 **_Round_.** TBA
 
-**_Turn_.** TBA
-
-**_Beginning of ... Ending of ..._.** TBA
-
-**_Headquarters (HQ)_.** Each world map has an HQ, usually located at the center of the map, representing the central organization or organizing force responsible for maintaining the health and security of the game world or region. All PCs are peers and colleagues within this organization. You are objectively safe from the conflict at HQ, provided HQ receives the setting handbook requirement. Unless stated otherwise, PCs always begin and end a game session at HQ.
-
-**_LEVEL_.** LEVEL equals the current level of play. LEVEL starts at 1 and increases over time to 7 as game objectives are completed.
-
-**_Fast Travel_.** 5eFP games use fast travel rules when deploying onto the world map, skipping past traveling and travel times.
-
 **_Setting Handbook_.** All details about the 5eFP practice you are joining, including read-aloud text, GM contact information, game backstory, world map, HQ information, the game's central conflict, the game's story directions, how PC Recall, how PCs fast travel, and the setting handbook requirement can be found in your setting handbook.
 
 **_Setting Handbook Requirement_.** PCs must complete this special task each game session, which might involve but isn't limited to placing and using an item, locating and gathering an item, finding and rescuing bystanders, gathering intelligence, or gathering a resource. For example, PCs must find and gather an herb, a starflower, in the _Enchanted Forest_ setting.
+
+**_Story Directions_.** The world map has four cardinal directions: North (N), South (S), East (E), and West (W). Each cardinal direction is linked to a unique story corresponding to that direction. There are also four ordinal or hybrid directions: Northwest (NW), Southeast (SE), Southwest (SW), and Northwest (NW). Each hybrid direction is linked to the stories contained within adjacent directions.
+
+**_Story Elements_.** Story elements are pieces of the overall story relating to the conflict detailed in your setting handbook modified by the particular direction the PCs are exploring. Over time, these story elements automatically create stories of their own. GMs and PCs don't necessarily need to control how these elements emerge, though GMs may choose to adjust them with player consent so they fit together better.
+
+**_Turn_.** TBA
+
+**_Upgrade_.** Once the PCs Recall, they may spend coin unlocking character upgrades. Available upgrades include species, background, and class and are limited to only those upgrades equal to or less than LEVEL. Once all PCs have finished spending coin on upgrades, downtime begins.
+
+**_World Map_.** The world map defines the game world and drives the game's story. It is a top-down illustration of the game world or region divided into a 14-square by 14-square grid. Each square within the grid is measured 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters.
+
+**_World Map Tile_.** A square on the world map. A world map tile can either be explored or unexplored. An obscuring map tile covers unexplored world map tiles.
 
 # Character Creation
 
