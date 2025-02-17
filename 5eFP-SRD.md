@@ -25,7 +25,6 @@ _**Practice.**_ Focus alone isn't enough. Results require real doing through reg
 The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenting the rules of the game. The following are among the most common.
 
 **_Action_.** An action is a discrete measurement of time accessible during your turn that typically resolves before the end of your turn. You spend your action when you use game features, cast spells, and make attacks. Your action remains spent until the beginning of your next turn.
-**_Bonus Action_.** A bonus action is similar to an action.
 
 **_Ability Score_.** Six ability scores ranging from -5 to +10 provide a quick description of every creature’s physical and mental characteristics, including strength (STR) measuring physical power, dexterity (DEX) measuring agility, constitution (CON) measuring endurance, intelligence (INT) measuring reasoning and memory, wisdom (WIS) measuring awareness, and charisma (CHA) measuring force of personality.
 
