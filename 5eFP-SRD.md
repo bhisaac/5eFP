@@ -26,6 +26,8 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Ability Score_.** Six ability scores ranging from -5 to +10 provide a quick description of every creature’s physical and mental characteristics, including strength (STR) measuring physical power, dexterity (DEX) measuring agility, constitution (CON) measuring endurance, intelligence (INT) measuring reasoning and memory, wisdom (WIS) measuring awareness, and charisma (CHA) measuring force of personality.
 
+**_Conflict_.** The conflict, detailed in your setting handbook, is an event with ongoing effects that changed the game world into an unbalanced and afflicted state. A 5eFP game ends when the conflict is resolved.
+
 **_Group Token_.** A special game token representing all of the PCs within a group.
 
 **_Coin_ (⛁).** A 5eFP game awards and uses coin (⛁) as its currency, representing wealth, reputation, and experience.
@@ -52,9 +54,9 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Encounter_.** An encounter is a significant event within the game where the outcome of events is uncertain and is measured in rounds. PCs are awarded ⛁ when an encounter ends.
 
-**_Encounter Map_.** Set up a 14-square by 14-square encounter map on one side of the exploration map when an encounter is revealed. Unlike other maps, you do not cover this map with obscuring map tiles.
+**_Encounter Map_.** Set up a 14-square by 14-square encounter map near the exploration map when an encounter is revealed. Unlike other maps, you do not cover this map with obscuring map tiles.
 
-**_Obscuring Map Tiles_.** At the beginning of the game, each world map tile is covered by a two-sided opaque obscuring map tile. The underside of each obscuring map tile may illustrate one or more symbols. These symbols might include a foothold, setting handbook requirement, treasure, or resources.
+**_Obscuring Map Tiles_.** Obscuring map tiles are two-sided opaque map tiles that cover unexplored areas of a map or may represent areas of magical darkness.
 
 **_Story Directions_.** The world map has four cardinal directions: North (N), South (S), East (E), and West (W). Each cardinal direction is linked to a unique story corresponding to that direction. There are also four ordinal or hybrid directions: Northwest (NW), Southeast (SE), Southwest (SW), and Northwest (NW). Each hybrid direction is linked to the stories contained within adjacent directions.
 
