@@ -66,7 +66,7 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Recall_.** A PC is transported back to the HQ map room after finishing a special Recall ritual completed outside of an encounter. PCs automatically Recall when the time marker reaches 0 (8 hours) after deploying onto the world map. A PC may only Recall once per game session.
 
-**_Round_.** TBA
+**_Round_.** In combat and other fast-­paced situations, the game relies on rounds, a 6-­second span of time.
 
 **_Setting Handbook_.** All details about the 5eFP practice you are joining, including read-aloud text, GM contact information, game backstory, world map, HQ information, the game's central conflict, the game's story directions, how PC Recall, how PCs fast travel, and the setting handbook requirement can be found in your setting handbook.
 
@@ -76,7 +76,7 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Story Elements_.** Story elements are pieces of the overall story relating to the conflict detailed in your setting handbook modified by the particular direction the PCs are exploring. Over time, these story elements automatically create stories of their own. GMs and PCs don't necessarily need to control how these elements emerge, though GMs may choose to adjust them with player consent so they fit together better.
 
-**_Turn_.** TBA
+**_Turn_.** During a round, a creature takes its turn, during which it can spend a wide variety of actions. Usually, over the course of one turn, a creature can spend an action, a bonus action, use an object, or spend its reaction (see Actions).
 
 **_Upgrade_.** Once the PCs Recall, they may spend coin unlocking character upgrades. Available upgrades include species, background, and class and are limited to only those upgrades equal to or less than LEVEL. Once all PCs have finished spending coin on upgrades, downtime begins.
 
