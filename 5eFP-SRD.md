@@ -2978,6 +2978,20 @@ When you take your action on your turn, you can take one of the	actions presente
  
 When you describe an action not detailed elsewhere in the rules, the GM tells you whether that action is possible and what kind of roll you need to make, if any, to determine success or failure.
 
+Return discarded actions at the start of a game session. You return any discarded actions at the beginning of your turn.
+
+## Action
+
+Discard your action on your turn to activate most game features, spells, and abilities.
+
+## Bonus Action
+
+Various game features, spells, and other abilities let you take an additional action on your turn called a bonus action. The Cunning Action feature, for example, allows a rogue to take a bonus action. You can take a bonus action only when a special ability, spell, or other game feature states that you can do something as a bonus action. You otherwise don’t have a bonus action to take.
+
+You can take only one bonus action on your turn, so you must choose which bonus action to use when you have more than one available.
+
+You choose when to take a bonus action during your turn, unless the bonus action’s timing is specified. Additionally, anything that deprives you of your ability to take actions also prevents you from taking a bonus action.
+
 # Mounted Combat
 
 A knight charging into battle on a warhorse, a wizard casting spells from the back of a griffon, or a cleric soaring through the sky on a pegasus all enjoy the benefits of speed and mobility that a mount can provide.
