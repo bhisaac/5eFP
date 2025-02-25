@@ -3039,7 +3039,7 @@ You gain one free object interaction each turn. Additional object interactions d
 
 ## Reaction
 
-**_You discard your reaction to use certain game features, spells, and situations_.** A reaction is an instant response to a trigger of some kind, which can occur on your turn or on someone else’s.
+**_Discard your reaction to use certain game features, spells, and situations_.** A reaction is an instant response to a trigger of some kind, which can occur on your turn or on someone else’s.
 
 The opportunity attack is the most common type of reaction.
 
