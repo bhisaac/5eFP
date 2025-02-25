@@ -2982,15 +2982,19 @@ Return discarded actions at the start of a game session. You return any discarde
 
 ## Action
 
-Discard your action on your turn to activate most game features, spells, and abilities.
+You discard your action on your turn to activate most game features, spells, and abilities.
 
-## Bonus Action
+## Reaction
 
-Various game features, spells, and other abilities let you take an additional action on your turn called a bonus action. The Cunning Action feature, for example, allows a rogue to take a bonus action. You can take a bonus action only when a special ability, spell, or other game feature states that you can do something as a bonus action. You otherwise don’t have a bonus action to take.
+Certain game features, spells, and situations allow you to take a special action called a reaction. A reaction is an instant response to a trigger of some kind, which can occur on your turn or on someone else’s.	
 
-You can take only one bonus action on your turn, so you must choose which bonus action to use when you have more than one available.
+The opportunity attack is the most common type of reaction. When you take a reaction, you can’t take another reaction until the start of your next turn.
 
-You choose when to take a bonus action during your turn, unless the bonus action’s timing is specified. Additionally, anything that deprives you of your ability to take actions also prevents you from taking a bonus action.
+## Object Interaction (Interact with Object)
+
+You normally interact with an object while doing something else, such as when you draw a sword as part of an attack. When an object requires your action for its use, you take the Use an Object action. This action is also useful when you want to interact with more than one object on your turn.
+
+You gain one free object interaction each turn. An additional object interaction disards your action.
 
 # Mounted Combat
 
