@@ -2978,11 +2978,11 @@ When you take your action on your turn, you can take one of the	actions presente
 
 When you describe an action not detailed elsewhere in the rules, the GM tells you whether that action is possible and what kind of roll you need to make, if any, to determine success or failure.
 
-Return discarded actions at the start of a game session. You return any discarded actions at the beginning of your turn.
+Return your discarded actions at the start of a game session. You return your discarded actions at the beginning of your turn.
 
 ## Action
 
-You discard your action on your turn to activate most game features, spells, and abilities.
+You discard your action on your turn to activate most game features, spells, and attacks.
 
 ## Reaction
 
@@ -2995,6 +2995,20 @@ The opportunity attack is the most common type of reaction.
 You normally interact with an object while doing something else, such as when you draw a sword as part of an attack. When an object requires your action for its use, you take the Use an Object action. This action is also useful when you want to interact with more than one object on your turn.
 
 You gain one free object interaction each turn. An additional object interaction disards your action.
+
+# Actions in Combat
+
+## Attack
+
+The most common action to take in combat is the Attack action, whether you are swinging a sword, firing an arrow from a bow, or brawling with your fists.
+
+With this action, you make one melee or ranged attack. See the “Making an Attack” section for the action.
+
+Certain features, such as the Extra Attack feature of the fighter, allow you to make more than one attack with this action.
+
+## Cast a Spell
+
+TBA
 
 # Mounted Combat
 
