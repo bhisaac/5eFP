@@ -2983,13 +2983,13 @@ You can forgo moving, taking an action, taking a reaction, or doing anything at 
 
 # Actions
 
-An action is a discrete measurement of time. You discard your action when using game features, casting spells, and making attacks. An action remains discarded until the beginning of your next turn. You can only take a specific action or reaction once until the start of your next turn.
+An action is a discrete measurement of time and effort. Using game features, casting spells, and making attacks require you to discard your action. Once discarded, your action remains discarded for the rest of your turn. You can only take a specific action or reaction once during your turn.
 
 When you discard your action, you can take one of the actions presented here, take an action you gained from a game feature, or take an action you improvise. Many monsters have action options of their own in their stat blocks.
 
 When you describe an action not detailed elsewhere in the rules, the GM tells you whether that action is possible and what kind of roll you need to make, if any, to determine success or failure.
 
-Return your discarded actions at the start of a game session and the beginning of your turn.
+Return your discarded actions at the start of a game session and at the beginning of your turn.
 
 ## Action
 
@@ -2997,7 +2997,7 @@ You discard your action during your turn to use most game features, spells, and 
 
 ## Reaction
 
-Certain game features, spells, and situations require you to discard your reaction to complete. A reaction is an instant response to a trigger of some kind, which can occur on your turn or on someone else’s.
+Certain game features, spells, and situations require you to discard your reaction. A reaction is an instant response to a trigger of some kind, which can occur on your turn or on someone else’s.
 
 The opportunity attack is the most common type of reaction.
 
@@ -3005,13 +3005,13 @@ The opportunity attack is the most common type of reaction.
 
 You normally interact with an object while doing something else, such as when you draw a sword as part of an attack. When an object requires your action for its use, you take the Use an Object action. This action is also useful when you want to interact with more than one object on your turn.
 
-You gain one free object interaction each turn. An additional object interaction disards your action.
+You gain one free object interaction each turn. Additional object interactions discard your action.
 
 ## Attack
 
-Discard your action to Attack. The most common action to take in combat is the Attack action, whether you are swinging a sword, firing an arrow from a bow, or brawling with your fists.
+**_Discard your action to Attack_.** The most common action to take in combat is the Attack action, whether you are swinging a sword, firing an arrow from a bow, or brawling with your fists.
 
-With this action, you make one melee or ranged attack. See the “Making an Attack” section for the action.
+With this action, you make one attack. See the “Making an Attack” section for the action.
 
 Certain features, such as the Extra Attack feature of the fighter, allow you to make more than one attack with this action.
 
@@ -3021,41 +3021,41 @@ Mages and many monsters have access to spells and can use them to great effect. 
 
 ## Dash
 
-Discard your action to Dash. After applying any modifiers, you gain extra movement for the current turn, equal to your speed. For example, with a speed of 6, you can move up to 12 squares on your turn if you Dash.
+**_Discard your action to Dash_.** After applying any modifiers, you gain extra movement for the current turn, equal to your speed. For example, with a speed of 6, you can move up to 12 squares on your turn if you Dash.
 
 Any increase or decrease to your speed changes this additional movement by the same amount.
 
 ## Disengage
 
-Discard your action to Disengage. Until the end of your turn, your movement does not provoke opportunity attacks.
+**_Discard your action to Disengage_.** Until the end of your turn, your movement does not provoke opportunity attacks.
 
 ## Dodge
 
-Discard your action to Dodge. Until the start of your next turn, any attack roll made against you has disadvantage if you can see the attacker, and you make Dexterity saving throws with advantage. You lose this benefit if you are incapacitated (as explained in appendix PH-A) or if your speed drops to 0.
+**_Discard your action to Dodge_.** Until the start of your next turn, any attack roll made against you has disadvantage if you can see the attacker, and you make DEX checks with advantage. You lose this benefit if you are incapacitated (as explained in appendix PH-A) or if your speed drops to 0.
 
 ## Help
 
-Discard your action to Help a creature until the beginning of your next turn. You lend aid to another creature in the completion of a task. The creature you aid gains advantage on the next ability check it makes to perform the task you are helping with.
+**_Discard your action to Help a creature until the beginning of your next turn_.** You lend aid to another creature in the completion of a task. The creature you aid gains advantage on the next ability check it makes to perform the task you are helping with.
 
 Alternatively, you can aid a friendly creature in attacking a creature within your reach. You can feint, distract the target, or, in some other way, team up to make your ally’s attack more effective. If your ally attacks the target, the first attack roll is made with advantage.
 
 ## Hide
 
-Discard your action to Hide. You make a DEX check in an attempt to hide, following the rules for hiding. If you succeed, you gain certain benefits, as described in the “Unseen Attackers and Targets” section.
+**_Discard your action to Hide_.** You make a DEX check in an attempt to hide, following the rules for hiding. If you succeed, you gain certain benefits, as described in the “Unseen Attackers and Targets” section.
 
 ## Ready
 
-Discard your action to Ready an action. Sometimes you want to get the jump on a foe or wait for a particular circumstance before you act. The Ready action allows you to discard your reaction to act before the start of your next turn.
+**_Discard your action to Ready an action_.** Sometimes you want to get the jump on a foe or wait for a particular circumstance before you act. The Ready action allows you to discard your reaction to act before the start of your next turn.
 
 First, you decide what perceivable circumstance will trigger your reaction. Then, you choose the action you will take in response to that trigger or you choose to move up to your speed in response to it. Examples include, “If the cultist steps on the trapdoor, I’ll pull the lever that opens it,” and “If the goblin steps next to me, I move away.”
 
-When the trigger occurs, you can either discard your reaction right after the trigger finishes or ignore the trigger.
+When the trigger occurs, you can either discard your reaction and take your action right after the trigger finishes or ignore the trigger.
 
 When you ready a spell, you cast it as normal but hold its energy, which you release when you discard your reaction during the triggered event. To be readied, a spell must have a casting time of 1 action, and holding the spell’s magic requires concentration. If your concentration is broken, the spell dissipates without taking effect. For example, if you are concentrating on the _web_ spell and readying a _magic missile_, your _web_ spell ends.
 
 ## Search
 
-When you take the Search action, you devote your attention to finding something. Depending on the nature of your search, the GM might have you make a WIS check or an INT check.
+**_Discard your action to Search_.** You devote your attention to finding something. Depending on the nature of your search, the GM might have you make a WIS check or an INT check.
 
 # Mounted Combat
 
