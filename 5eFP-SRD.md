@@ -2976,7 +2976,7 @@ On your turn, you can move a distance up to your speed and take one action. You 
 
 You also have access to your reaction, a special action that can be taken during your turn or on someone else's.
 
-The most common actions you can take are described in the “Actions” section. Many class and game features provide additional options for your action.
+The most common actions you can take are described in the “Actions” section. Many class and game features provide additional options for your action or reaction.
 
 The “Movement and Position" section provides the rules for your move.
 
