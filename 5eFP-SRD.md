@@ -2972,10 +2972,10 @@ Unless a feature that grants you bolster has a duration, your bolster pool lasts
 
 # Actions
 
-An action is a discrete measurement of time accessible during your turn that typically resolves before the end of your turn. You spend your action when you use game features, cast spells, and make attacks. Your action remains spent until the beginning of your next turn.
+An action is a discrete measurement of time accessible during your turn that typically resolves before the end of your turn. You discard your action when you use game features, cast spells, and make attacks. Your action remains discarded until the beginning of your next turn.
 
 When you take your action on your turn, you can take one of the	actions presented here, an action you gained from your class or a game feature, or an action that you improvise. Many monsters have action options of their own in their stat blocks.
- 
+
 When you describe an action not detailed elsewhere in the rules, the GM tells you whether that action is possible and what kind of roll you need to make, if any, to determine success or failure.
 
 Return discarded actions at the start of a game session. You return any discarded actions at the beginning of your turn.
