@@ -2974,11 +2974,13 @@ Unless a feature that grants you bolster has a duration, your bolster pool lasts
 
 On your turn, you can move a distance up to your speed and take one action. You decide whether to move first or take your action first. Your speed—sometimes called your walking speed—is noted on your character sheet.
 
+You also have access to your reaction, a special action that can be taken during your turn or on someone else's.
+
 The most common actions you can take are described in the “Actions” section. Many class and game features provide additional options for your action.
 
 The “Movement and Position" section provides the rules for your move.
 
-You can forgo moving, taking an action, or doing anything at all on your turn. If you can’t decide what to do on your turn, consider taking the Dodge or Ready action, as described in “Actions in Combat.”
+You can forgo moving, taking an action, taking a reaction, or doing anything at all on your turn. If you can’t decide what to do on your turn, consider taking the Dodge or Ready action, as described in “Actions in Combat.”
 
 # Actions
 
