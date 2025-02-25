@@ -2995,18 +2995,6 @@ Return your discarded actions at the start of a game session and at the beginnin
 
 You discard your action during your turn to use most game features, spells, and attacks.
 
-## Reaction
-
-**_You discard your reaction to use certain game features, spells, and situations_.** A reaction is an instant response to a trigger of some kind, which can occur on your turn or on someone else’s.
-
-The opportunity attack is the most common type of reaction.
-
-## Object Interaction (Interact with Object)
-
-You normally interact with an object while doing something else, such as when you draw a sword as part of an attack. When an object requires your action for its use, you take the Use an Object action. This action is also useful when you want to interact with more than one object on your turn.
-
-You gain one free object interaction each turn. Additional object interactions discard your action.
-
 ## Attack
 
 **_Discard your action to Attack_.** The most common action to take in combat is the Attack action, whether you are swinging a sword, firing an arrow from a bow, or brawling with your fists.
@@ -3042,6 +3030,18 @@ Alternatively, you can aid a friendly creature in attacking a creature within yo
 ## Hide
 
 **_Discard your action to Hide_.** You make a DEX check in an attempt to hide, following the rules for hiding. If you succeed, you gain certain benefits, as described in the “Unseen Attackers and Targets” section.
+
+## Object Interaction (Interact with Object)
+
+You normally interact with an object while doing something else, such as when you draw a sword as part of an attack. When an object requires your action for its use, you take the Use an Object action. This action is also useful when you want to interact with more than one object on your turn.
+
+You gain one free object interaction each turn. Additional object interactions discard your action.
+
+## Reaction
+
+**_You discard your reaction to use certain game features, spells, and situations_.** A reaction is an instant response to a trigger of some kind, which can occur on your turn or on someone else’s.
+
+The opportunity attack is the most common type of reaction.
 
 ## Ready
 
