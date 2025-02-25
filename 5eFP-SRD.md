@@ -2993,7 +2993,7 @@ Return your discarded actions at the start of a game session and at the beginnin
 
 ## Action
 
-You discard your action during your turn to use most game features, spells, and attacks.
+**_Discard your action to take an action_.** You discard your action during your turn to use most game features, spells, and attacks.
 
 ## Attack
 
@@ -3005,7 +3005,7 @@ Certain features, such as the Extra Attack feature of the fighter, allow you to 
 
 ## Cast a Spell
 
-Mages and many monsters have access to spells and can use them to great effect. Each spell has a casting time, which specifies whether the caster must discard an action or a reaction to cast the spell.
+**_Discard your action or your reaction to Cast a Spell_.** Mages and many monsters have access to spells and can use them to great effect. Each spell has a casting time, which specifies whether the caster must discard an action or a reaction to cast the spell.
 
 ## Dash
 
@@ -3031,9 +3031,9 @@ Alternatively, you can aid a friendly creature in attacking a creature within yo
 
 **_Discard your action to Hide_.** You make a DEX check in an attempt to hide, following the rules for hiding. If you succeed, you gain certain benefits, as described in the “Unseen Attackers and Targets” section.
 
-## Object Interaction (Interact with Object)
+## Object Interaction (Interact with an Object)
 
-You normally interact with an object while doing something else, such as when you draw a sword as part of an attack. When an object requires your action for its use, you take the Use an Object action. This action is also useful when you want to interact with more than one object on your turn.
+**_Discard your action to Interact with an Object_.** You normally interact with an object while doing something else, such as when you draw a sword as part of an attack. When an object requires your action for its use, you take the Use an Object action. This action is also useful when you want to interact with more than one object on your turn.
 
 You gain one free object interaction each turn. Additional object interactions discard your action.
 
