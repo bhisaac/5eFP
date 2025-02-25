@@ -2996,8 +2996,6 @@ You normally interact with an object while doing something else, such as when yo
 
 You gain one free object interaction each turn. An additional object interaction disards your action.
 
-# Actions in Combat
-
 ## Attack
 
 The most common action to take in combat is the Attack action, whether you are swinging a sword, firing an arrow from a bow, or brawling with your fists.
@@ -3007,6 +3005,38 @@ With this action, you make one melee or ranged attack. See the “Making an Atta
 Certain features, such as the Extra Attack feature of the fighter, allow you to make more than one attack with this action.
 
 ## Cast a Spell
+
+Mages and many monsters have access to spells and can use them to great effect. Each spell has a casting time, which specifies whether the caster must use an action or a reaction to cast the spell.
+
+## Dash
+
+Discard your action to Dash. After applying any modifiers, you gain extra movement for the current turn, equal to your speed. For example, with a speed of 6, you can move up to 12 squares on your turn if you Dash.
+
+Any increase or decrease to your speed changes this additional movement by the same amount.
+
+## Disengage
+
+Discard your action to Disengage. Until the end of your turn, your movement does not provoke opportunity attacks.
+
+## Dodge
+
+Discard your action to Dodge. Until the start of your next turn, any attack roll made against you has disadvantage if you can see the attacker, and you make Dexterity saving throws with advantage. You lose this benefit if you are incapacitated (as explained in appendix PH-A) or if your speed drops to 0.
+
+## Help
+
+Discard your action to Help. Until the beginning of your next turn, you lend aid to another creature in the completion of a task. The creature you aid gains advantage on the next ability check it makes to perform the task you are helping with.
+
+~~Alternatively, you can gain advantage.~~
+
+## Hide
+
+Discard your action to Hide. You make a DEX check in an attempt to hide, following the rules for hiding. If you succeed, you gain certain benefits, as described in the “Unseen Attackers and Targets” section.
+
+## Ready
+
+TBA
+
+## Search
 
 TBA
 
