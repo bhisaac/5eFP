@@ -3052,7 +3052,7 @@ First, you decide what perceivable circumstance will trigger your reaction. Then
 
 When the trigger occurs, you can either discard your reaction right after the trigger finishes or ignore the trigger.
 
-When you are ready a spell, you cast it as normal but hold its energy, which you release when you discard your reaction during the triggered event. To be readied, a spell must have a casting time of 1 action, and holding the spell’s magic requires concentration. If your concentration is broken, the spell dissipates without taking effect. For example, if you are concentrating on the _web_ spell and readying a _magic missile_, your _web_ spell ends.
+When you ready a spell, you cast it as normal but hold its energy, which you release when you discard your reaction during the triggered event. To be readied, a spell must have a casting time of 1 action, and holding the spell’s magic requires concentration. If your concentration is broken, the spell dissipates without taking effect. For example, if you are concentrating on the _web_ spell and readying a _magic missile_, your _web_ spell ends.
 
 ## Search
 
