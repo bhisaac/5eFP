@@ -2984,7 +2984,7 @@ You can forgo moving, taking an action, taking a reaction, or doing anything at 
 
 # Actions
 
-An action is a discrete measurement of time. You discard your action when using game features, casting spells, and making attacks. An action remains discarded until the beginning of your next turn.
+An action is a discrete measurement of time. You discard your action when using game features, casting spells, and making attacks. An action remains discarded until the beginning of your next turn. You can only take a specific action or reaction once until the start of your next turn.
 
 When you discard your action, you can take one of the actions presented here, take an action you gained from a game feature, or take an action you improvise. Many monsters have action options of their own in their stat blocks.
 
@@ -2998,7 +2998,7 @@ You discard your action during your turn to use most game features, spells, and 
 
 ## Reaction
 
-Certain game features, spells, and situations require you to discard your reaction. A reaction is an instant response to a trigger of some kind, which can occur on your turn or on someone else’s.
+Certain game features, spells, and situations require you to discard your reaction to complete. A reaction is an instant response to a trigger of some kind, which can occur on your turn or on someone else’s.
 
 The opportunity attack is the most common type of reaction.
 
@@ -3018,7 +3018,7 @@ Certain features, such as the Extra Attack feature of the fighter, allow you to 
 
 ## Cast a Spell
 
-Discard your action to Cast a Spell. Mages and many monsters have access to spells and can use them to great effect. Each spell has a casting time, which specifies whether the caster must use an action or a reaction to cast the spell.
+Mages and many monsters have access to spells and can use them to great effect. Each spell has a casting time, which specifies whether the caster must discard an action or a reaction to cast the spell.
 
 ## Dash
 
@@ -3056,7 +3056,7 @@ When you ready a spell, you cast it as normal but hold its energy, which you rel
 
 ## Search
 
-TBA
+When you take the Search action, you devote your attention to finding something. Depending on the nature of your search, the GM might have you make a WIS check or an INT check.
 
 # Mounted Combat
 
