@@ -2997,7 +2997,7 @@ You discard your action during your turn to use most game features, spells, and 
 
 ## Reaction
 
-Certain game features, spells, and situations require you to discard your reaction. A reaction is an instant response to a trigger of some kind, which can occur on your turn or on someone else’s.
+Certain game features, spells, and situations discard your reaction. A reaction is an instant response to a trigger of some kind, which can occur on your turn or on someone else’s.
 
 The opportunity attack is the most common type of reaction.
 
