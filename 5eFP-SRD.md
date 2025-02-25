@@ -2983,7 +2983,7 @@ You can forgo moving, taking an action, taking a reaction, or doing anything at 
 
 # Actions
 
-An action is a discrete measurement of time and effort. Using game features, casting spells, and making attacks require you to discard your action. Once discarded, an action remains discarded for the rest of your turn. You can only take a specific action or reaction once during your turn.
+An action is a discrete measurement of time and effort. Using game features, casting spells, and making attacks require you to discard your action. Once discarded, an action remains discarded for the rest of your turn. You can only take a specific action once during your turn.
 
 When you discard your action, you can take one of the actions presented here, take an action you gained from a game feature, or take an action you improvise. Many monsters have action options of their own in their stat blocks.
 
