@@ -809,7 +809,7 @@ Your bardic magic lets you use your voice or any instrument you wield more effec
 
 ### Bardic Action Dice
 
-You can inspire others through stirring words or music. To do so, you use a bonus action on your turn to choose one creature other than yourself within 10 squares of you who can hear you. That creature gains three of your action dice.
+Once during your turn you can inspire others through stirring words or music. Choose one creature other than yourself within 10 squares of you who can hear you. That creature gains three of your action dice.
 
 For the remainder of the encounter, the creature can roll any of your action dice and add the result to one ability check or attack roll it makes. The creature can wait until after it rolls the d20 before deciding to use any of your action dice but must decide before the GM says whether the roll succeeds or fails. Once your action dice are rolled, they are returned to you. If the creature has one or more of your action dice and gains more, it decides whether to keep the ones it has or gain the new ones. Any discarded action dice are returned to you.
 
@@ -940,16 +940,15 @@ You start with the following equipment, in addition to the equipment granted by 
 
 ### Rage
 
-In battle, you fight with primal ferocity. On your turn, you can enter a rage as a bonus action that lasts until the end of the encounter.
+In battle, you fight with primal ferocity. Once during your turn, you can enter a rage that lasts until the end of the encounter.
 
 While raging, you gain the following benefits if you aren’t wearing armor:
-- ~~You reduce all damage dealt to you by minions to 0.~~
 - You have advantage on STR checks.
 - You gain resistance to bludgeoning, piercing, and slashing damage.
 
 If you are able to cast spells, you can’t cast them or concentrate on them while raging.
 
-Your rage ends early if you are knocked unconscious or if your turn ends and you haven’t attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.
+Your rage ends early if you are knocked unconscious or if your turn ends and you haven’t attacked a hostile creature since your last turn or taken damage since then. You can end your rage early once during your turn, starting on the turn after you activate your rage.
 
 You can rage twice per game session.
 
@@ -1008,7 +1007,7 @@ When a creature you can see attacks a target other than you that is within 1 squ
 
 ### Second Wind
 
-You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to heal up to 2 wounds. Once you use this feature, you must finish a short rest before you can use it again.
+You have a limited well of stamina that you can draw on to protect yourself from harm. Once during your turn, you receive up to 2 points of healing. Once you use this feature, you must finish a rest before you can use it again.
 
 ## Monk
 
