@@ -2970,19 +2970,29 @@ If you are at MAX Wounds, receiving a bolster pool doesn’t restore you to cons
 
 Unless a feature that grants you bolster has a duration, your bolster pool lasts until they’re depleted or until the end of the game session.
 
+# Your Turn
+
+On your turn, you can move a distance up to your speed and take one action. You decide whether to move first or take your action first. Your speed—sometimes called your walking speed—is noted on your character sheet.
+
+The most common actions you can take are described in the “Actions” section. Many class and game features provide additional options for your action.
+
+The “Movement and Position" section provides the rules for your move.
+
+You can forgo moving, taking an action, or doing anything at all on your turn. If you can’t decide what to do on your turn, consider taking the Dodge or Ready action, as described in “Actions in Combat.”
+
 # Actions
 
-An action is a discrete measurement of time accessible during your turn that typically resolves before the end of your turn. You discard your action when you use game features, cast spells, and make attacks. Your action remains discarded until the beginning of your next turn.
+An action is a discrete measurement of time. You discard your action when using game features, casting spells, and making attacks. An action remains discarded until the beginning of your next turn.
 
-When you take your action on your turn, you can take one of the	actions presented here, an action you gained from your class or a game feature, or an action that you improvise. Many monsters have action options of their own in their stat blocks.
+When you discard your action, you can take one of the actions presented here, take an action you gained from a game feature, or take an action you improvise. Many monsters have action options of their own in their stat blocks.
 
 When you describe an action not detailed elsewhere in the rules, the GM tells you whether that action is possible and what kind of roll you need to make, if any, to determine success or failure.
 
-Return your discarded actions at the start of a game session. You return your discarded actions at the beginning of your turn.
+Return your discarded actions at the start of a game session and the beginning of your turn.
 
 ## Action
 
-You discard your action on your turn to activate most game features, spells, and attacks.
+You discard your action during your turn to activate most game features, spells, and attacks.
 
 ## Reaction
 
