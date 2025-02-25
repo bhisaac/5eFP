@@ -2972,7 +2972,7 @@ Unless a feature that grants you bolster has a duration, your bolster pool lasts
 
 # Your Turn
 
-On your turn, you can move a distance up to your speed and take one action. You decide whether to move first or take your action first. Your speed—sometimes called your walking speed—is noted on your character sheet.
+On your turn, you can move a distance up to your speed and take one action. You decide whether to move first or take your action first, and you can split up your movement before and after taking an action. Your speed—sometimes called your walking speed—is noted on your character sheet.
 
 You also have access to your reaction, a special action that can be taken during your turn or on someone else's.
 
@@ -2980,7 +2980,7 @@ The most common actions you can take are described in the “Actions” section.
 
 The “Movement and Position" section provides the rules for your move.
 
-You can forgo moving, taking an action, taking a reaction, or doing anything at all on your turn. If you can’t decide what to do on your turn, consider taking the Dodge or Ready action, as described in “Actions in Combat.”
+You can forgo moving, taking an action, taking a reaction, or doing anything at all on your turn. If you can’t decide what to do on your turn, consider taking the Dodge or Ready action, as described in “Actions.”
 
 # Actions
 
@@ -2994,7 +2994,7 @@ Return your discarded actions at the start of a game session and the beginning o
 
 ## Action
 
-You discard your action during your turn to activate most game features, spells, and attacks.
+You discard your action during your turn to use most game features, spells, and attacks.
 
 ## Reaction
 
@@ -3010,7 +3010,7 @@ You gain one free object interaction each turn. An additional object interaction
 
 ## Attack
 
-The most common action to take in combat is the Attack action, whether you are swinging a sword, firing an arrow from a bow, or brawling with your fists.
+Discard your action to Attack. The most common action to take in combat is the Attack action, whether you are swinging a sword, firing an arrow from a bow, or brawling with your fists.
 
 With this action, you make one melee or ranged attack. See the “Making an Attack” section for the action.
 
@@ -3018,7 +3018,7 @@ Certain features, such as the Extra Attack feature of the fighter, allow you to 
 
 ## Cast a Spell
 
-Mages and many monsters have access to spells and can use them to great effect. Each spell has a casting time, which specifies whether the caster must use an action or a reaction to cast the spell.
+Discard your action to Cast a Spell. Mages and many monsters have access to spells and can use them to great effect. Each spell has a casting time, which specifies whether the caster must use an action or a reaction to cast the spell.
 
 ## Dash
 
@@ -3036,9 +3036,9 @@ Discard your action to Dodge. Until the start of your next turn, any attack roll
 
 ## Help
 
-Discard your action to Help. Until the beginning of your next turn, you lend aid to another creature in the completion of a task. The creature you aid gains advantage on the next ability check it makes to perform the task you are helping with.
+Discard your action to Help a creature until the beginning of your next turn. You lend aid to another creature in the completion of a task. The creature you aid gains advantage on the next ability check it makes to perform the task you are helping with.
 
-~~Alternatively, you can gain advantage.~~
+Alternatively, you can aid a friendly creature in attacking a creature within your reach. You can feint, distract the target, or, in some other way, team up to make your ally’s attack more effective. If your ally attacks the target, the first attack roll is made with advantage.
 
 ## Hide
 
@@ -3046,7 +3046,13 @@ Discard your action to Hide. You make a DEX check in an attempt to hide, followi
 
 ## Ready
 
-TBA
+Discard your action to Ready an action. Sometimes you want to get the jump on a foe or wait for a particular circumstance before you act. The Ready action allows you to discard your reaction to act before the start of your next turn.
+
+First, you decide what perceivable circumstance will trigger your reaction. Then, you choose the action you will take in response to that trigger or you choose to move up to your speed in response to it. Examples include, “If the cultist steps on the trapdoor, I’ll pull the lever that opens it,” and “If the goblin steps next to me, I move away.”
+
+When the trigger occurs, you can either discard your reaction right after the trigger finishes or ignore the trigger.
+
+When you are ready a spell, you cast it as normal but hold its energy, which you release when you discard your reaction during the triggered event. To be readied, a spell must have a casting time of 1 action, and holding the spell’s magic requires concentration. If your concentration is broken, the spell dissipates without taking effect. For example, if you are concentrating on the _web_ spell and readying a _magic missile_, your _web_ spell ends.
 
 ## Search
 
