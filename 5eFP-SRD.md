@@ -24,7 +24,7 @@ _**Practice.**_ Focus alone isn't enough. Results require real doing through reg
 
 The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenting the rules of the game. The following are among the most common.
 
-**_Action_.** An action is a discrete measurement of time usually accessible during your turn and typically resolves before the end of your turn. You discard your action when you use certain game features, cast spells, and make attacks. You regain your action at the beginning of your next turn. There are a number of different kinds of actions, such as a bonus action, an interact with object action, a free action, a reaction, and combat actions such as dash, dodge, and disengage (see Actions).
+**_Action_.** An action is a discrete measurement of time usually accessible during your turn and typically resolves before the end of your turn. You discard your action when you use certain game features, cast spells, and make attacks. You regain your action at the beginning of your next turn (see Actions).
 
 **_Ability Score_.** Six ability scores ranging from -5 to +10 provide a quick description of every creature’s physical and mental characteristics, including strength (STR) measuring physical power, dexterity (DEX) measuring agility, constitution (CON) measuring endurance, intelligence (INT) measuring reasoning and memory, wisdom (WIS) measuring awareness, and charisma (CHA) measuring force of personality.
 
@@ -76,7 +76,7 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Story Elements_.** Story elements are pieces of the overall story relating to the conflict detailed in your setting handbook modified by the particular direction the PCs are exploring. Over time, these story elements automatically create stories of their own. GMs and PCs don't necessarily need to control how these elements emerge, though GMs may choose to adjust them with player consent so they fit together better.
 
-**_Turn_.** During a round, a creature takes its turn, during which it can spend a wide variety of actions. Usually, over the course of one turn, a creature can spend an action, a bonus action, use an object, or spend its reaction (see Actions).
+**_Turn_.** During a round, a creature takes its turn, during which it can spend a wide variety of actions. Usually, over the course of one turn, a creature can spend an action, use an object, or discard its reaction (see Actions).
 
 **_Upgrade_.** Once the PCs Recall, they may spend coin unlocking character upgrades. Available upgrades include species, background, and class and are limited to only those upgrades equal to or less than LEVEL. Once all PCs have finished spending coin on upgrades, downtime begins.
 
@@ -2986,9 +2986,9 @@ You discard your action on your turn to activate most game features, spells, and
 
 ## Reaction
 
-Certain game features, spells, and situations allow you to take a special action called a reaction. A reaction is an instant response to a trigger of some kind, which can occur on your turn or on someone else’s.	
+Certain game features, spells, and situations require you to discard your reaction. A reaction is an instant response to a trigger of some kind, which can occur on your turn or on someone else’s.
 
-The opportunity attack is the most common type of reaction. When you take a reaction, you can’t take another reaction until the start of your next turn.
+The opportunity attack is the most common type of reaction.
 
 ## Object Interaction (Interact with Object)
 
