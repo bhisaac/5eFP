@@ -1046,7 +1046,7 @@ While not wearing armor or wielding a shield, you add WIS (minimum 0) to your De
 Your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are shortswords and any simple melee weapons that don't have the two-handed or heavy property.
 
 You gain the following benefits while you are unarmed or wielding only monk weapons and you aren’t wearing armor or wielding a shield:
-- When you use the Attack action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the Attack action and attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you haven’t already taken a bonus action this turn.
+- When you use the Attack action with an unarmed strike or a monk weapon on your turn, you can make one additional Attack with an unarmed strike. For example, if you take the Attack action and attack with a quarterstaff, you can also make an unarmed strike.
 
 Certain monasteries use specialized forms of monk weapons. For example, you might use a club that is two lengths of wood connected by a short chain (called a nunchaku) or a sickle with a shorter, straighter blade (called a kama). Whatever name you use for a monk weapon, you can use the game statistics provided for the weapon.
 
@@ -1079,7 +1079,7 @@ BARBARIAN
 > #### Path of the Berserker
 >> For some barbarians, rage is a means to an end—that end being violence. The Path of the Berserker is a path of untrammeled fury, slick with blood. As you enter the berserker’s rage, you thrill in the chaos of battle, heedless of your own health or well-­being.
 >> 
->> **_Frenzy._** You can go into a frenzy when you rage. If you do so, for the duration of your rage you can make a single melee weapon attack as a bonus action on each of your turns after this one. When your rage ends, you suffer one level of exhaustion (as described in Appendix PH-­A).
+>> **_Frenzy._** You can go into a frenzy when you rage. If you do so, for the duration of your rage, you can make a single melee weapon attack after you take the Attack action. When your rage ends, you suffer one level of exhaustion (as described in Appendix PH-­A).
 
 BARD
 ||||
@@ -1147,13 +1147,13 @@ DRUID
 >>> 
 >>> **_Stealthy._** You have 4 + LEVEL MAX wounds and Defense 13 while in stealthy form. While in this form, you roll DEX and WIS checks with advantage and gain a pounce attack (if you don't already have one).
 >>>
->>>> **_Pounce._** If you move at least 3 squares in a line toward a creature and then hit it with a melee attack on the same turn, it must succeed on a DC 14 + LEVEL STR check or be knocked prone. If the creature is prone, the stealthy form can make one melee attack against it as a bonus action.
+>>>> **_Pounce._** Whenever you move at least 3 squares in a line toward a creature and take the Attack action, hitting it with a melee attack, it must succeed on a DC (14 + LEVEL) STR check or be knocked prone. If the creature is prone, the stealthy form can make one melee attack against it.
 >>> 
 >>> **_Travel._** To activate this feature, you must be on the overland map (see _Overland Map_) and not in a combat encounter. You have 1 MAX wounds while in travel form. When activated, you and any chosen creatures within 6 squares of you transform into travel forms and move together. If a combat encounter begins or if 1 or more points of damage are dealt to you or another affected creature, your wild shape and all travel forms end. Your movement score doubles while in travel form. Once activated, the travel form can be reactivated on the exploration map anytime outside of a combat encounter until the end of the game session. When you reactivate travel form, set aside any wild-shape form you are currently in. When travel form ends due to entering a combat encounter or taking 1 or more points of damage, you shift back into the wild shape form you set aside.
 >> 
 >> You can use this feature twice. You regain expended uses when you finish a short rest.
 >>
->> You can stay in a wild shape form until you return to the HQ map room. You then revert to your normal form. ~~If your wild shape form ends early you can activate wild shape again to maintain your current form, as long as you have enough uses of the feature remaining.~~ You can revert to your normal form earlier by using a bonus action on your turn. You automatically revert if you fall unconscious, gain MAX wounds, or die.
+>> You can stay in a wild shape form until you return to the HQ map room. You then revert to your normal form. ~~If your wild shape form ends early you can activate wild shape again to maintain your current form, as long as you have enough uses of the feature remaining.~~ You can revert to your normal form earlier ~~by using a bonus action~~ on your turn. You automatically revert if you fall unconscious, gain MAX wounds, or die.
 >>
 >> While you are transformed, the following rules apply:
 >> - Your game statistics are replaced by the statistics of the wild shape form, but you retain your alignment, personality, and INT, WIS, and CHA. You also retain all of your proficiencies, in addition to gaining those of the creature. If the creature has the same proficiency as you and the bonus in its stat block is higher than yours, use the creature’s bonus instead of yours. If the creature has any legendary or lair actions, you can’t use them.
@@ -1194,7 +1194,7 @@ DRUID
 >>> 
 >>> The Circle of the Sun and Moon is made up of mystics who meditate and commune with the cosmic astral plane, using radiance and starlight to strengthen allies while hindering foes. These druids meet within sacred standing stones to observe and reflect upon the position and motion of celestial bodies in the sky. The wisest members of the circle advise rulers of communities that follow the Old Faith, and are sometimes consulted by those of different faiths. As a member of this circle, your magic is influenced by the heavens and the astral plane.
 >>>
->>> **_Astral Form._** You have 2 + LEVEL MAX wounds while in astral form. You may use Wild Shape as a bonus action when shapeshifting into astral form. When you choose this form, you do not assume the shape of a beast. You become translucent, taking on an indigo tint filled with points of moving lights. You gain the following features while in astral form.
+>>> **_Astral Form._** You have 2 + LEVEL MAX wounds while in astral form. You may use Wild Shape without discarding your action when shapeshifting into astral form. When you choose this form, you do not assume the shape of a beast. You become translucent, taking on an indigo tint filled with points of moving lights. You gain the following features while in astral form.
 >>> - Your equipment does not merge into your astral form.
 >>> - You may cast spells, speak, and take normal actions while in astral form.
 >>> - **_Lunar Attunement._** Whenever you cast a spell that has no visible effect such as _cure wounds_, you discard solar attunement and gain lunar attunement. If you already have lunar attunement, discard it and activate _starfall_.
