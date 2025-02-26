@@ -1843,7 +1843,7 @@ Ammunition may be used to make melee attacks. If you are proficient with the wea
 
 **_Light._** A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons.
 
-**_Loading._** Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an action, bonus action, or reaction to fire it, regardless of the number of attacks you can normally make.
+**_Loading._** Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an action or reaction to fire it, regardless of the number of attacks you can normally make.
 
 **_Multi-Use._** This weapon can be used multiple times, but each time it is used, there is a chance it will deplete, like ammunition. Each time you attack with a multi-use weapon, roll 1 action die. If you roll only 1 action, the multi-use weapon depletes indicated by turning the weapon card sideways. If your multi-use weapon is already depleted, you have only one left, represented by turning the card upside down. After using the last multi-use weapon, discard the weapon card to the equipment deck discard pile. Drawing the multi-use item from a quiver, case, or other container is part of the attack.
 
@@ -1880,7 +1880,7 @@ Weapons with special rules are described here.
 
 **_Net._** A Large or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 STR check, freeing itself or another creature within its reach on a success. Dealing 1 slashing damage to the net (DC 10) also frees the creature without harming it, ending the effect and destroying the net.
 
-When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.
+When you use an action or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.
 
 **SIMPLE MELEE WEAPONS**
 ||||||
@@ -2576,7 +2576,6 @@ Whenever a PC chooses a specific downtime activity, it cannot be chosen again un
 
 - **1 Action.** Choose and gain the benefit of 1 downtime activity.
 - **1 Reaction.** You have one reaction during a round of downtime. Once you use your reaction, you cannot do so again until the beginning of the next round of downtime.
-- **1 Bonus Action.** You may perform one bonus action during a round of downtime.
 - **1 Object Interaction.** You may equip or unequip one item.
 
 ### Crafting
@@ -2711,7 +2710,7 @@ Players with the damage role typically use effects and game features to deal dam
 
 ## Group Token
 
-While deployed on a map, one player becomes the group token controller. The group token represents the entire group and can move up to the controller's speed, one square at a time. After moving, the controller removes any fog of war tiles within 1 square of its current position. Removing a fog of war tile may trigger an encounter. Once the group token stops moving, PCs may choose to take a turn in initiative order. Players can take free actions and up to one action, bonus action, and reaction during a group token turn, but they cannot move the group token until the turn is completed.
+One player acts as the group token controller while deployed on a map. The group token, representing the entire group, moves at the controller's speed, one square at a time. The controller removes obscuring map tiles within one square of its position. Once movement stops, PCs take one turn in initiative order, performing free actions and up to one action and one reaction during a group token turn.
 
 Certain backgrounds, classes, and species have bonus features while controlling the group token. The PC with the highest movement or the best bonus features while moving the group token typically becomes the group token controller.
 
