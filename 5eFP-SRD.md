@@ -3330,6 +3330,12 @@ The effects of different spells add together while the durations of those spells
 
 For example, if two clerics cast _bless_ on the same target, that character gains the spell’s benefit only once; he or she doesn’t get to roll two bonus dice.
 
+### Detect Magic
+
+Spellcasters have an innate ability to perceive the flow of magic. You can discard your action on your turn to sense the presence of magic up to 6 squares away. If you sense magic in this way, you can see a faint aura around any visible creature or object in the area that bears magic, and you learn its school of magic, if any.
+
+This awareness can penetrate most barriers but is blocked by 1 square of stone, metal, wood, or dirt and a thin sheet of lead.
+
 ## Spell Lists
 
 ### Bard Spells
@@ -3339,7 +3345,7 @@ For example, if two clerics cast _bless_ on the same target, that character gain
 |**Cantrips (Level 0)**|
 |mage hand, mending, message, minor illusion, prestidigitation, true strike, vicious mockery|
 |**Level 1**|
-|animal friendship, bane, charm person, comprehend languages, cure wounds, detect magic, disguise self, faerie fire, feather fall, healing word, heroism, hideous laughter, identify, illusory script, longstrider, silent image, sleep, speak with animals, thunderwave, unseen servant|
+|animal friendship, bane, charm person, comprehend languages, cure wounds, ~~detect magic~~, disguise self, faerie fire, feather fall, healing word, heroism, hideous laughter, identify, illusory script, longstrider, silent image, sleep, speak with animals, thunderwave, unseen servant|
 |**Level 2**|
 |animal messenger, blindness/deafness, calm emotions, detect thoughts, enhance ability, enthrall, heat metal, hold person, invisibility, knock, lesser restoration, locate animals or plants, locate object, magic mouth, see invisibility, shatter, silence, suggestion, zone of truth|
 |**Level 3**|
@@ -3366,7 +3372,7 @@ For example, if two clerics cast _bless_ on the same target, that character gain
 |**Cantrips (Level 0)**|
 |guidance, mending, resistance, sacred flame, spare the dying, thaumaturgy|
 |**Level 1**|
-|bane, bless, command, create or destroy water, cure wounds, detect evil and good, detect magic, detect poison and disease, guiding bolt, healing word, inflict wounds, protection from evil and good, purify food and drink, sanctuary, shield of faith|
+|bane, bless, command, create or destroy water, cure wounds, detect evil and good, ~~detect magic~~, detect poison and disease, guiding bolt, healing word, inflict wounds, protection from evil and good, purify food and drink, sanctuary, shield of faith|
 |**Level 2**|
 |aid, augury, blindness/deafness, calm emotions, continual flame, enhance ability, find traps, gentle repose, hold person, lesser restoration, locate object, prayer of healing, protection from poison, silence, spiritual weapon, warding bond, zone of truth|
 |**Level 3**|
@@ -3391,7 +3397,7 @@ For example, if two clerics cast _bless_ on the same target, that character gain
 |**Cantrips (Level 0)**|
 |druidcraft, guidance, mending, poison spray, produce flame, resistance, shillelagh|
 |**Level 1**|
-|animal friendship, charm person, create or destroy water, cure wounds, detect magic, detect poison and disease, entangle, faerie fire, fog cloud, goodberry, healing word, jump, longstrider, purify food and drink, speak with animals, thunderwave|
+|animal friendship, charm person, create or destroy water, cure wounds, ~~detect magic~~, detect poison and disease, entangle, faerie fire, fog cloud, goodberry, healing word, jump, longstrider, purify food and drink, speak with animals, thunderwave|
 |**Level 2**|
 |animal messenger, barkskin, enhance ability, find traps, flame blade, flaming sphere, gust of wind, heat metal, hold person, lesser restoration, locate animals or plants, locate object, moonbeam, pass without trace, protection from poison, spike growth|
 |**Level 3**|
@@ -3414,7 +3420,7 @@ For example, if two clerics cast _bless_ on the same target, that character gain
 |  |
 |:-|
 |**Level 1**|
-|bless, command, cure wounds, detect evil and good, detect magic, detect poison and disease, divine favor, heroism, protection from evil and good, purify food and drink, shield of faith|
+|bless, command, cure wounds, detect evil and good, ~~detect magic~~, detect poison and disease, divine favor, heroism, protection from evil and good, purify food and drink, shield of faith|
 |**Level 2**|
 |aid, branding smite, find steed, lesser restoration, locate object, magic weapon, protection from poison, zone of truth|
 |**Level 3**|
@@ -3428,7 +3434,7 @@ For example, if two clerics cast _bless_ on the same target, that character gain
 |  |
 |:-|
 |**Level 1**|
-|alarm, animal friendship, cure wounds, detect magic, detect poison and disease, fog cloud, goodberry, hunter's mark, jump, longstrider, speak with animals|
+|alarm, animal friendship, cure wounds, ~~detect magic~~, detect poison and disease, fog cloud, goodberry, hunter's mark, jump, longstrider, speak with animals|
 |**Level 2**|
 |animal messenger, barkskin, find traps, lesser restoration, locate animals or plants, locate object, pass without trace, protection from poison, silence, spike growth|
 |**Level 3**|
@@ -3444,7 +3450,7 @@ For example, if two clerics cast _bless_ on the same target, that character gain
 |**Cantrips (Level 0)**|
 |acid splash, chill touch, fire bolt, mage hand, mending, message, minor illusion, poison spray, prestidigitation, ray of frost, shocking grasp, true strike|
 |**Level 1**|
-|burning hands, charm person, color spray, comprehend languages, detect magic, disguise self, expeditious retreat, false life, feather fall, fog cloud, jump, mage armor, magic missile, shield, silent image, sleep, thunderwave|
+|burning hands, charm person, color spray, comprehend languages, ~~detect magic~~, disguise self, expeditious retreat, false life, feather fall, fog cloud, jump, mage armor, magic missile, shield, silent image, sleep, thunderwave|
 |**Level 2**|
 |alter self, blindness/deafness, blur, darkness, detect thoughts, enhance ability, enlarge/reduce, gust of wind, hold person, invisibility, knock, levitate, mirror image, misty step, scorching ray, see invisibility, shatter, spider climb, suggestion, web|
 |**Level 3**|
@@ -3494,7 +3500,7 @@ For example, if two clerics cast _bless_ on the same target, that character gain
 |**Cantrips (Level 0)**|
 |acid splash, chill touch, fire bolt, mage hand, mending, message, minor illusion, poison spray, prestidigitation, ray of frost, shocking grasp, true strike|
 |**Level 1**|
-|alarm, burning hands, charm person, color spray, comprehend languages, detect magic, disguise self, expeditious retreat, false life, feather fall, find familiar, floating disk, fog cloud, grease, hideous laughter, identify, illusory script, jump, longstrider, mage armor, magic missile, protection from evil and good, shield, silent image, sleep, thunderwave, unseen servant|
+|alarm, burning hands, charm person, color spray, comprehend languages, ~~detect magic~~, disguise self, expeditious retreat, false life, feather fall, find familiar, floating disk, fog cloud, grease, hideous laughter, identify, illusory script, jump, longstrider, mage armor, magic missile, protection from evil and good, shield, silent image, sleep, thunderwave, unseen servant|
 |**Level 2**|
 |acid arrow, alter self, arcane lock, arcanist’s magic aura, blindness/deafness, blur, continual flame, darkness, detect thoughts, enlarge/reduce, flaming sphere, gentle repose, gust of wind, hold person, invisibility, knock, levitate, locate object, magic mouth, magic weapon, mirror image, misty step, ray of enfeeblement, rope trick, scorching ray, see invisibility, shatter, spider climb, suggestion, web|
 |**Level 3**|
@@ -3616,7 +3622,7 @@ Your unarmed strikes deal 1 bludgeoning, piercing, or slashing damage, as approp
 ||
 |You place an illusion on a creature or an object you touch so that divination spells reveal false information about it. The target can be a willing creature or an object that isn’t being carried or worn by another creature.|
 |When you cast the spell, choose one or both of the following effects. The effect lasts for the duration. If you cast this spell on the same creature or object every day for 30 days, placing the same effect on it each time, the illusion lasts until it is dispelled.|
-|**False Aura.** You change the way the target appears to spells and magical effects, such as detect magic, that detect magical auras. You can make a nonmagical object appear magical, a magical object appear nonmagical, or change the object’s magical aura so that it appears to belong to a specific school of magic that you choose. When you use this effect on an object, you can make the false magic apparent to any creature that handles the item.|
+|**False Aura.** You change the way the target appears to spells and magical effects, such as when a spellcaster uses detect magic that detects magical auras. You can make a nonmagical object appear magical, a magical object appear nonmagical, or change the object’s magical aura so that it appears to belong to a specific school of magic that you choose. When you use this effect on an object, you can make the false magic apparent to any creature that handles the item.|
 |**Mask.** You change the way the target appears to spells and magical effects that detect creature types, such as a paladin’s Divine Sense or the trigger of a symbol spell. You choose a creature type and other spells and magical effects treat the target as if it were a creature of that type or of that alignment.|
 
 #### Augury
@@ -4405,7 +4411,7 @@ Liches share the following statistics.
 
 |LEVEL||
 |-:|:-|
-|**1**|1st level (4 slots): *detect magic, magic missile, shield, thunderwave*|
+|**1**|1st level (4 slots): *~~detect magic~~, magic missile, shield, thunderwave*|
 |**1**|2nd level (3 slots): *acid arrow, detect thoughts, invisibility, mirror image*|
 |**2**|3rd level (3 slots): *animate dead, counterspell, dispel magic, fireball*|
 |**3**|4th level (3 slots): *blight, dimension door*|
