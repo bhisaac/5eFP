@@ -1153,7 +1153,7 @@ DRUID
 >> 
 >> You can use this feature twice. You regain expended uses when you finish a short rest.
 >>
->> You can stay in a wild shape form until you return to the HQ map room. You then revert to your normal form. ~~If your wild shape form ends early you can activate wild shape again to maintain your current form, as long as you have enough uses of the feature remaining.~~ You can revert to your normal form earlier ~~by using a bonus action~~ on your turn. You automatically revert if you fall unconscious, gain MAX wounds, or die.
+>> You can stay in a wild shape form until you return to the HQ map room. You then revert to your normal form. ~~If your wild shape form ends early you can activate wild shape again to maintain your current form, as long as you have enough uses of the feature remaining.~~ You can revert to your normal form earlier on your turn. If you fall unconscious, gain MAX wounds, or die, you automatically revert.
 >>
 >> While you are transformed, the following rules apply:
 >> - Your game statistics are replaced by the statistics of the wild shape form, but you retain your alignment, personality, and INT, WIS, and CHA. You also retain all of your proficiencies, in addition to gaining those of the creature. If the creature has the same proficiency as you and the bonus in its stat block is higher than yours, use the creature’s bonus instead of yours. If the creature has any legendary or lair actions, you can’t use them.
@@ -1209,7 +1209,7 @@ FIGHTER
 |3⛁|Martial Archetype|...|
 
 > #### Action Surge
->> You can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action on top of your regular action and a possible bonus action.
+>> You can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action on top of your regular action.
 >>
 >> Once you use this feature, you must finish a short or long rest before you can use it again. Starting at 17th level, you can use it twice before a rest, but only once on the same turn.
 >>  
@@ -1233,17 +1233,17 @@ MONK
 >>
 >> You can spend these points to fuel various ki features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind.
 >>
->> When you spend a ki point, it is unavailable until you finish a short rest or until the end of the game session, at the end of which you draw all of your expended ki back into yourself. You must spend half the short rest meditating to regain your ki points.
+>> When you spend a ki point, it is unavailable until you finish a rest or until the end of the game session, at the end of which you draw all of your expended ki back into yourself. You must spend half the rest meditating to regain your ki points. Once you spend 1 or more ki, you cannot spend any more ki until the beginning of your next turn.
 >>
 >> Some of your ki features require your target to make an ability check to resist the feature’s effects. The ki DC is calculated as follows:
 >>
 >> **Ki DC** = 10 +  WIS
 >>
->> **Flurry of Blows.** Immediately after you take the Attack action on your turn, you can spend 1 ki point to make two unarmed strikes as a bonus action.
+>> **Flurry of Blows.** Immediately after you take the Attack action on your turn, you can spend 1 ki point to make two unarmed strikes.
 >>
->> **Patient Defense.** You can spend 1 ki point to take the Dodge action as a bonus action on your turn.
+>> **Patient Defense.** You can spend 1 ki point to take the Dodge action on your turn without discarding your action.
 >>
->> **Step of the Wind.** You can spend 1 ki point to take the Disengage or Dash action as a bonus action on your turn, and your jump distance is doubled for the turn.
+>> **Step of the Wind.** You can spend 1 ki point to take the Disengage or Dash action on your turn without discarding your action, and your jump distance is doubled for the turn.
 >>
 > #### Unarmored Movement
 >> Your speed increases by 2 while you are not wearing armor or wielding a shield.
@@ -1276,11 +1276,9 @@ SORCERER
 >>> **Sorcery Points.** You have 2 sorcery points. At the beginning of a game session, you regain all spent sorcery points.
 >>>
 >>> **Flexible Casting.** You can use your sorcery points to gain additional sorcerer spell slots, or sacrifice sorcerer spell slots to gain additional sorcery points.
->>>> **_Creating Spell Slots._** You can transform 2 unexpended sorcery points into one 1st-level sorcerer spell slot as a bonus action on your turn.
->>>> 
+>>>> **_Creating Spell Slots and Converting Spell Slots to Sorcery Points._** Once per turn, you can either transform 2 unexpended sorcery points into one 1st-level sorcerer spell or expend one 1st-level sorcerer spell slot and gain 1 sorcery point.
+>>>>
 >>>> Any spell slot you create with this feature vanishes at the end of the game session.
->>>> 
->>>> **_Converting a Spell Slot to Sorcery Points._** As a bonus action on your turn, you can expend one 1st-level sorcerer spell slot and gain 1 sorcery point.
 
 > #### Metamagic
 >> You gain the ability to twist your spells to suit your needs. You gain two of the following Metamagic options of your choice.
@@ -1300,7 +1298,7 @@ SORCERER
 >>
 >> **_Heightened Spell._** When you cast a spell that forces a creature to make an ability check to resist its effects, you can spend 3 sorcery points to give one target of the spell disadvantage on its first ability check made against the spell.
 >>
->> **_Quickened Spell._** When you cast a spell that has a casting time of 1 action, you can spend 2 sorcery points to change the casting time to 1 bonus action for this casting.
+>> **_Quickened Spell._** Once per turn, when you take the Cast a Spell action with a spell with a casting time of 1 action, you can spend 2 sorcery points instead of discarding your action. If you use the Cast a Spell action again during the same turn, the spell must be a cantrip.
 >>
 >> **_Subtle Spell._** When you cast a spell, you can spend 1 sorcery point to cast it without any somatic or verbal components.
 >>
