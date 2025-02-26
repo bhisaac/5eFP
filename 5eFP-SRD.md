@@ -2796,7 +2796,7 @@ You can avoid provoking an opportunity attack by taking the Disengage action. Yo
 
 #### Two-Weapon Fighting
 
-When you take the Attack action and attack with a light weapon that you're holding in one hand, you can use a bonus action to attack with a different light weapon that you're holding in the other hand.
+When you take the Attack action and attack with a light weapon you're holding in one hand, you can make an additional attack with a different light weapon you're holding in the other hand.
 
 If either weapon can be used to make a ranged attack, you can throw it instead of making a melee attack.
 
@@ -3161,11 +3161,11 @@ Each spell description begins with a block of information, including the spell�
 
 ### Casting Time
 
-Most spells require a single action to cast, but some spells require a bonus action, a reaction, or much more time to cast.
+Most spells require you to discard your action to cast, but some spells discard your reaction, while others can only be cast at HQ or during downtime rounds.
 
-#### Bonus Action
+#### Casting Multiple Spells During Your Turn
 
-A spell cast with a bonus action is especially swift. You must use a bonus action on your turn to cast the spell, provided that you haven’t already taken a bonus action this turn. You can’t cast another spell during the same turn, except for a cantrip with a casting time of 1 action.
+During your turn, if you take the Cast a Spell action to cast a spell that doesn't discard your action, you can take the Cast a Spell action again, but you can only cast a cantrip with a casting time of 1 action.
 
 #### Reactions
 
@@ -3173,9 +3173,7 @@ Some spells can be cast as reactions. These spells take a fraction of a second t
 
 #### Longer Casting Times
 
-Certain spells (including spells cast as rituals) require more time to cast. When you cast a spell with a casting time longer than a single action, bonus action, or reaction, you must spend your action each turn casting the spell, and you must maintain your concentration while you do so (see “Concentration” below). If your concentration is broken, the spell fails, but you don’t expend a spell slot. If you want to try casting the spell again, you must start over.
-
-**Downtime Rounds.** Some spells can only be cast when completing a downtime round. These spells may take hours or even a day to cast. If the location where you are spending a downtime round loses HQ protection, you lose concentration and must use another downtime round at a location with HQ protection to cast it again.
+Certain spells (including spells cast as rituals) require more time to cast. Ritual spells can only be cast outside of an encounter. More powerful spells with long casting times can only be cast once per game session and may require you to be at HQ to cast. Other spells can only be cast when completing a downtime round. These spells may take hours or even a day to cast. If the location where you spend a downtime round loses HQ protection, you lose the spell without expending a spell slot. You must use another downtime round at a location with HQ protection to cast it again.
 
 ### Range
 
