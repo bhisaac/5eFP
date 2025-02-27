@@ -1053,7 +1053,7 @@ Certain monasteries use specialized forms of monk weapons. For example, you migh
 
 As PCs go on adventures and overcome challenges, they gain experience, represented by Coin. When all world map tiles in the current level of play are discovered and resolved, the next level of play on the world map unlocks, and players advance to the next level. This is called gaining a level.
 
-When your character gains a level, you can spend Coin to gain additional game features available to your background, class, or species. These features are detailed in the background, class, and species descriptions below. Some of these features allow you to increase one ability score by +1. You can’t increase an ability score above +5.
+When your character gains Coin, you can spend it at HQ to gain additional game features available to your background, class, or species. These features are detailed in the background, class, and species descriptions below. Some of these features allow you to increase one ability score by +1. You can’t increase an ability score above +5 through upgrades.
 
 Each time you gain a level, increase our MAX wounds by +1.
 
@@ -1137,8 +1137,8 @@ DRUID
 |2⛁|Spells I|(+1) 1st-level spell slot|
 |3⛁|Spells II|(+1) 1st-level spell slot, (+2) 2nd-level spell slots|
 
-> #### Wild Shape (action)
->> You magically assume the shape of a beast that you have seen before. When you use this feature, save and set aside any wounds and choose a wild shape form. Use statistics for an elite creature except as detailed below. Your wild shape form cannot benefit from any swim or fly speeds it may have.
+> #### Wild Shape
+>> As an action, you magically assume the shape of a beast that you have seen before. When you use this feature, save and set aside any wounds and choose a wild shape form. Use statistics for an elite creature except as detailed below. Your wild shape form cannot benefit from any swim or fly speeds it may have.
 >> 
 >> WILD SHAPE FORMS
 >>> 
@@ -1148,7 +1148,7 @@ DRUID
 >>>
 >>>> **_Pounce._** Whenever you move at least 3 squares in a line toward a creature and take the Attack action, hitting it with a melee attack, it must succeed on a DC (14 + LEVEL) STR check or be knocked prone. If the creature is prone, the stealthy form can make one melee attack against it.
 >>> 
->>> **_Travel._** To activate this feature, you must be on the overland map (see _Overland Map_) and not in a combat encounter. You have 1 MAX wounds while in travel form. When activated, you and any chosen creatures within 6 squares of you transform into travel forms and move together. If a combat encounter begins or if 1 or more points of damage are dealt to you or another affected creature, your wild shape and all travel forms end. Your movement score doubles while in travel form. Once activated, the travel form can be reactivated on the exploration map anytime outside of a combat encounter until the end of the game session. When you reactivate travel form, set aside any wild-shape form you are currently in. When travel form ends due to entering a combat encounter or taking 1 or more points of damage, you shift back into the wild shape form you set aside.
+>>> **_Travel._** You can activate a travel form outside of a combat encounter. You have 1 MAX wounds while in travel form. When activated, you and any chosen creatures within 6 squares of you transform into travel forms and move together. If a combat encounter begins or if 1 or more points of damage are dealt to you or another affected creature, your wild shape and all travel forms end. Your speed doubles while in travel form. Once activated, the travel form can be reactivated on the exploration map anytime outside of a combat encounter until you Recall. When you reactivate travel form, set aside any wild-shape form you are currently in. When travel form ends due to entering a combat encounter or taking 1 or more points of damage, you shift back into the wild shape form you set aside.
 >> 
 >> You can use this feature twice. You regain expended uses when you finish a short rest.
 >>
