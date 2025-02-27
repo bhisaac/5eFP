@@ -1233,7 +1233,7 @@ MONK
 >>
 >> You can spend these points to fuel various ki features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind.
 >>
->> When you spend a ki point, it is unavailable until you finish a rest or until the end of the game session, at the end of which you draw all of your expended ki back into yourself. You must spend half the rest meditating to regain your ki points. Once you spend 1 or more ki, you cannot spend any more ki until the beginning of your next turn.
+>> When you spend a ki point, it is unavailable until you finish a rest or until the end of the game session, at the end of which you draw all of your expended ki back into yourself. You must spend half the rest meditating to regain your ki points. Once you spend 1 or more ki points, you cannot spend any more until the beginning of your next turn.
 >>
 >> Some of your ki features require your target to make an ability check to resist the feature’s effects. The ki DC is calculated as follows:
 >>
