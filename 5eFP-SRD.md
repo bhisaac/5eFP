@@ -940,7 +940,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
 ### Rage
 
-In battle, you fight with primal ferocity. Once during your turn, you can enter a rage that lasts until the end of the encounter.
+In battle, you fight with primal ferocity. When you take the Attack action on your turn, you can choose to first enter into a rage for the rest of the encounter.
 
 While raging, you gain the following benefits if you aren’t wearing armor:
 - You have advantage on STR checks.
@@ -948,7 +948,7 @@ While raging, you gain the following benefits if you aren’t wearing armor:
 
 If you are able to cast spells, you can’t cast them or concentrate on them while raging.
 
-Your rage ends early if you are knocked unconscious or if your turn ends and you haven’t attacked a hostile creature since your last turn or taken damage since then. You can end your rage early once during your turn, starting on the turn after you activate your rage.
+Your rage ends early if you are knocked unconscious or if your turn ends and you haven’t attacked a hostile creature since your last turn or taken damage since then. You can end your rage early on your turn, starting on the turn after you activate rage.
 
 You can rage twice per game session.
 
