@@ -1051,11 +1051,11 @@ Certain monasteries use specialized forms of monk weapons. For example, you migh
 
 # Beyond 1st Level
 
-Players gain experience by discovering and resolving world map tiles. When all tiles in the current level of play are discovered and resolved, the next level of play on the world map unlocks and players advance to the next level. This is called gaining a level.
+As PCs go on adventures and overcome challenges, they gain experience, represented by Coin. When all world map tiles in the current level of play are discovered and resolved, the next level of play on the world map unlocks, and players advance to the next level. This is called gaining a level.
 
-When your character gains a level, you can spend Coin to gain additional features available to your background, class, or species. These features are detailed in the background, class, and species descriptions below. Some of these features allow you to increase one ability score by +1. You can’t increase an ability score above +5.
+When your character gains a level, you can spend Coin to gain additional game features available to your background, class, or species. These features are detailed in the background, class, and species descriptions below. Some of these features allow you to increase one ability score by +1. You can’t increase an ability score above +5.
 
-Each time you gain a level, your MAX wounds increases by +1.
+Each time you gain a level, increase our MAX wounds by +1.
 
 Whenever your CON changes, recalculate your MAX wounds with the new CON score.
 
