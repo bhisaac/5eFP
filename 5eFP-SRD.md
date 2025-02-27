@@ -28,8 +28,6 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Ability Score_.** Six ability scores ranging from -5 to +10 provide a quick description of every creature’s physical and mental characteristics, including strength (STR) measuring physical power, dexterity (DEX) measuring agility, constitution (CON) measuring endurance, intelligence (INT) measuring reasoning and memory, wisdom (WIS) measuring awareness, and charisma (CHA) measuring force of personality.
 
-**_Beginning of ... Ending of ..._.** TBA
-
 **_Coin_ (⛁).** A 5eFP game awards and uses coin (⛁) as its currency, representing wealth, reputation, and experience.
 
 **_Conflict_.** The conflict, detailed in your setting handbook, is an event with ongoing effects that changed the game world into an unbalanced and afflicted state. A 5eFP game ends when the conflict is resolved.
@@ -84,6 +82,10 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_World Map Tile_.** A square on the world map. A world map tile can either be explored or unexplored. An obscuring map tile covers unexplored world map tiles.
 
+# Round Down
+
+Certain features and effects in the game allow you to divide a number by half or more. Whenever you divide a number, round down if you end up with a fraction, even if the fraction is one-half or greater.
+
 # Character Creation
 
 **Ability Scores**
@@ -91,9 +93,6 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 Whenever you create a new character, assign ability scores using the standard array: (+2, +2, +1, +1, +0, -1)
 
 Choose and place each score as desired. Two ability scores represent advanced ability and talent (+2), another two represent aptitude (+1), another ability score represents average ability (+0), and the last ability score is challenged by adversity and unfavorable circumstances (-1).
-
-### Round Down
-Certain features and effects in the game allow you to divide a number by half or more. Whenever you divide a number, round down if you end up with a fraction, even if the fraction is one-half or greater.
 
 # Species
 
