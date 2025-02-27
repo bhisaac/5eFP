@@ -3161,7 +3161,7 @@ Each spell description begins with a block of information, including the spell�
 
 ### Casting Time
 
-Most spells require you to discard your action to cast, but some spells discard your reaction, while others can only be cast at HQ or during downtime rounds.
+Most spells have a casting time of 1 action or 1 reaction, which requires you to discard your action or reaction to cast respectively. Some spells have an instantaneous casting time and do not require you to discard your action or reaction to cast the spell.
 
 #### Casting Multiple Spells During Your Turn
 
@@ -3215,7 +3215,7 @@ A number of spells have durations longer than an instant but shorter than a game
 
 #### Instantaneous
 
-Many spells are instantaneous. The spell harms, heals, creates, or alters a creature or an object in a way that can’t be dispelled, because its magic exists only for an instant.
+Many spell durations are instantaneous. The spell harms, heals, creates, or alters a creature or an object in a way that can’t be dispelled, because its magic exists only for an instant.
 
 #### Recall
 
@@ -3702,7 +3702,7 @@ Your unarmed strikes deal 1 bludgeoning, piercing, or slashing damage, as approp
 #### Branding Smite
 |_2nd-­level evocation_|
 |:-|
-|**Casting Time:** 1 bonus action|
+|**Casting Time:** Instantaneous|
 |**Range:** Self|
 |**Components:** V|
 |**Duration:** Concentration (encounter)|
@@ -3783,7 +3783,7 @@ Alternatively, you can make a target indifferent about creatures of your choice 
 #### Healing Word
 |_1st-level evocation_|
 |:-|
-|**Casting Time:** 1 bonus action|
+|**Casting Time:** Instantaneous|
 |**Range:** 12|
 |**Components:** V|
 |**Duration:** Instantaneous|
