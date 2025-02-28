@@ -1083,7 +1083,7 @@ INSPIRATION UPGRADES
 
 **_Recless Attack_.** You can throw aside all concern for defense to attack with fierce determination. When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you advantage on weapon attack rolls using STR during this turn, but attack rolls against you have advantage until your next turn.
 
-**_Path of the Berserker_.** For some barbarians, rage is a means to an end. The Path of the Berserker is a path of untrammeled fury, slick with blood. You can go into a frenzy when you rage. If you do so, for the duration of your rage, you can make a single melee weapon attack after you take the Attack action. When your rage ends, you suffer one level of exhaustion (as described in Appendix PH-­A).
+**_Path of the Berserker_.** For some barbarians, rage is a means to an end. The Path of the Berserker is a path of unleashed fury. You can go into a frenzy when you rage. If you do so, for the duration of your rage, you can make a single melee weapon attack after you take the Attack action. When your rage ends, you suffer one level of exhaustion (as described in Appendix PH-­A).
 
 ### Bard Upgrades
 
