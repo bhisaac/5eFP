@@ -60,7 +60,9 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_LEVEL_.** LEVEL equals the current level of play. LEVEL starts at 1 and increases over time to 7 as game objectives are completed.
 
-**_Obscuring Map Tiles_.** Obscuring map tiles are two-sided opaque map tiles that cover unexplored areas of a map or may represent areas of magical darkness.
+**_Obscuring Map Tiles_.** Obscuring map tiles are two-sided opaque map tiles that cover unexplored areas of a map or may represent areas of preternatural or magical darkness. 
+
+> These opaque tiles represent the conflict on a personal and embodied level for those of us who struggle with a conflict or crisis in our lives. We reach out, take the opaqueness in our hand as a beloved friend, turn it over to determine whether or not it hid an encounter on its underside, and then return it to the supply of obscuring map tiles.
 
 **_Recall_.** A PC is transported back to the HQ map room after finishing a special Recall ritual completed outside of an encounter. PCs automatically Recall when the time marker reaches 0 (8 hours) after deploying onto the world map. A PC may only Recall once per game session.
 
