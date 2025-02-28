@@ -1051,17 +1051,28 @@ Certain monasteries use specialized forms of monk weapons. For example, you migh
 
 # Beyond 1st Level
 
-As PCs go on adventures and overcome challenges, they gain experience, represented by Coin. When all world map tiles in the current level of play are discovered and resolved, the next level of play on the world map unlocks, and players advance to the next level. This is called gaining a level.
+As you go on adventures and overcome challenges, you gain experience, represented by Coin. When all world map tiles in the current level of play are explored, the next level of play on the world map unlocks, and you advance to the next level. This is called gaining a level.
 
-When your character gains Coin, you can spend it at HQ to gain additional game features available to your background, class, or species. These features are detailed in the background, class, and species descriptions below. Some of these features allow you to increase one ability score by +1. You can’t increase an ability score above +5 through upgrades.
+While at HQ, you can spend your Coin to purchase background, species, or class upgrades for your character. The background, class, and species descriptions below detail these additional game features.
 
-Each time you gain a level, increase our MAX wounds by +1.
+Whenever your level increases, you also increase your MAX wounds by +1.
 
 Whenever your CON changes, recalculate your MAX wounds with the new CON score.
 
-### Level 1 Class Upgrades
+## Level 1 Upgrades
 
-BARBARIAN
+INSPIRATION UPGRADES
+||||
+|-:|:-|:-|
+|**Cost**|**Feature**|**Details**|
+|3⛁|Inspired Success|Once per game session, you gain inspiration after resolving a critical success|
+|3⛁|Inspired Failure|Once per game session, you gain inspiration after resolving a critical failure|
+|3⛁|Inspired Support|Once per game session, if a game feature or effect helps you succeed when you would have otherwise failed, you gain inspiration at the end of your turn|
+
+## Class Upgrades
+
+### Barbarian Upgrades
+
 ||||
 |-:|:-|:-|
 |**Cost**|**Feature**|**Details**|
@@ -1070,17 +1081,14 @@ BARBARIAN
 |2⛁|Primal Path|Path of the Berserker|
 |3⛁|Rage I|+1 rage/day|
 
-> #### Reckless Attack
->> You can throw aside all concern for defense to attack with fierce determination.
->> 
->> When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you advantage on weapon attack rolls using STR during this turn, but attack rolls against you have advantage until your next turn.
->> 
-> #### Path of the Berserker
->> For some barbarians, rage is a means to an end—that end being violence. The Path of the Berserker is a path of untrammeled fury, slick with blood. As you enter the berserker’s rage, you thrill in the chaos of battle, heedless of your own health or well-­being.
->> 
->> **_Frenzy._** You can go into a frenzy when you rage. If you do so, for the duration of your rage, you can make a single melee weapon attack after you take the Attack action. When your rage ends, you suffer one level of exhaustion (as described in Appendix PH-­A).
+**_Recless Attack_.** You can throw aside all concern for defense to attack with fierce determination. When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you advantage on weapon attack rolls using STR during this turn, but attack rolls against you have advantage until your next turn.
 
-BARD
+**_Path of the Berserker_.** For some barbarians, rage is a means to an end—that end being violence. The Path of the Berserker is a path of untrammeled fury, slick with blood. As you enter the berserker’s rage, you thrill in the chaos of battle, heedless of your own health or well-­being.
+
+**_Frenzy._** You can go into a frenzy when you rage. If you do so, for the duration of your rage, you can make a single melee weapon attack after you take the Attack action. When your rage ends, you suffer one level of exhaustion (as described in Appendix PH-­A).
+
+### Bard Upgrades
+
 ||||
 |-:|:-|:-|
 |**Cost**|**Feature**|**Details**|
@@ -1105,7 +1113,8 @@ BARD
 > #### Expertise
 >> Gain proficiency with a nonproficient ability of your choice. Then choose two of your ability proficiencies or one of your ability proficiencies and your proficiency with a tool. As long as the chosen proficiencies or tools do not already have expertise, you gain expertise in the chosen abilities or tools. Expertise allows you to add your level to a check twice instead of once.
 
-CLERIC
+### Cleric
+
 ||||
 |-:|:-|:-|
 |**Cost**|**Feature**|**Details**|
@@ -1128,7 +1137,8 @@ Some Channel Divinity effects require ability checks. When you use such an effec
 >> 
 >> **_Preserve Life. (action)_** You present your holy symbol and evoke healing energy that can provide up to 5 points of healing. Choose any creatures within 6 squares of you, and divide the healing among them. You can’t use this feature on an undead or a construct.
 
-DRUID
+### Druid Upgrades
+
 ||||
 |-:|:-|:-|
 |**Cost**|**Feature**|**Details**|
@@ -1200,7 +1210,8 @@ DRUID
 >>> - **_Solar Attunement._** Whenever you cast a spell that has a visible effect such as _entangle_, you discard lunar attunement and gain solar attunement. If you already have solar attunement, discard it and activate _starfall_.
 >>> - **_Starfall._** A shooting star of radiance forms above your head and strikes a creature within 12 squares of you. If the creature is friendly, it receives 1 point of healing and may make an ability check to resist one ongoing negative effect. If the creature is not a friendly target, it must succeed on a DEX check using your spell DC or take 1 point of radiant damage. You then gain _lunar attunement_ or _solar attunement_.
 
-FIGHTER
+### Fighter Upgrades
+
 ||||
 |-:|:-|:-|
 |**Cost**|**Feature**|**Details**|
@@ -1217,7 +1228,8 @@ FIGHTER
 >>
 >>> **_Champion._** The archetypal Champion focuses on the development of raw physical power honed to deadly perfection. Those who model themselves on this archetype combine rigorous training with physical excellence to deal devastating blows. Your weapon attacks score a critical hit on a roll of 19 or 20.
 
-MONK
+### Monk Upgrades
+
 ||||
 |-:|:-|:-|
 |**Cost**|**Feature**|**Details**|
@@ -1262,7 +1274,8 @@ MONK
 >>
 >> If you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in one hand and you have at least one hand free. If you catch a missile in this way, you can spend 1 ki point to make a ranged attack with the weapon or piece of ammunition you just caught, as part of the same reaction. You make this attack with proficiency, regardless of your weapon proficiencies, and the missile counts as a monk weapon for the attack, which has a normal range of 4 squares and a long range of 12 squares.
 
-SORCERER
+### Sorcerer Upgrades
+
 ||||
 |-:|:-|:-|
 |**Cost**|**Feature**|**Details**|
