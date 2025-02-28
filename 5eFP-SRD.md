@@ -1061,7 +1061,8 @@ Whenever your CON changes, recalculate your MAX wounds with the new CON score.
 
 ## Level 1 Upgrades
 
-INSPIRATION UPGRADES
+### Inspiration Upgrades
+
 ||||
 |-:|:-|:-|
 |**Cost**|**Feature**|**Details**|
