@@ -26,7 +26,7 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Action_.** An action is a discrete measurement of time usually accessible during your turn and typically resolves before the end of your turn. You discard your action when you use certain game features, cast spells, and make attacks. You regain your action at the beginning of your next turn (see Actions).
 
-> **_Action in Real Life (RL)_.** Life requires some effort to maintain. You must physically attend to your life and take action to promote your health and wellness. Your body, mind, and essence or spirit need loving kindness, loving guidance, and self-care for optimal health. There is no away-from-keyboard (AFK) in RL. There is no auto-follow or AFK leveling. You must take action if you are to meet your goals in life. If you don't take action in your life, who will?
+> Life requires some effort to maintain. You must physically attend to your life and take action to promote your health and wellness. Your body, mind, and essence or spirit need loving kindness, loving guidance, and self-care for optimal health. There is no away-from-keyboard (AFK) in RL. There is no auto-follow or AFK leveling. You must take action if you are to meet your goals in life. If you don't take action in your life, who will?
 
 **_Ability Score_.** Six ability scores ranging from -5 to +10 provide a quick description of every creature’s physical and mental characteristics, including strength (STR) measuring physical power, dexterity (DEX) measuring agility, constitution (CON) measuring endurance, intelligence (INT) measuring reasoning and memory, wisdom (WIS) measuring awareness, and charisma (CHA) measuring force of personality.
 
@@ -34,7 +34,7 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Conflict_.** The conflict, detailed in your setting handbook, is an event with ongoing effects that changed the game world into an unbalanced and afflicted state. A 5eFP game ends when the conflict is resolved.
 
-> **_Conflict in Real Life (RL)_.** Think about what bothers and scares you the most. What experience disturbed your sense of balance and well-being? This is your inner conflict, which represents what the conflict means for you in the game. Every player experiences this conflict differently.
+> What bothers and scares you the most? What experience disturbed your sense of balance and well-being? This is your inner conflict, which represents what the conflict means for you in the game. Every player experiences this conflict differently.
 
 **_Deploy_.** After choosing an unexplored world map tile, the PCs deploy onto its exploration map by placing the group token in a random location. The obscuring map tile under the group token is revealed. During a downtime round, PCs may deploy and resolve the downtime round on an area within an explored world map tile.
 
