@@ -63,6 +63,8 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 **_Obscuring Map Tiles_.** Obscuring map tiles are two-sided opaque map tiles that cover unexplored areas of a map or may represent areas of preternatural or magical darkness. 
 
 > These opaque tiles represent the conflict on a personal and embodied level for those of us who struggle with a conflict or crisis. We reach out, take the opaqueness in our hand as a beloved friend, turn it over to determine whether or not it hid an encounter on its underside, and then return it to the supply of obscuring map tiles. Often, we must confront and address the conflict or crisis, facing what arises within ourselves and our lives as we do so. We don't know what we will find once we have decided to face our conflict or crisis, but the healing process will never be complete unless we do so. Approaching the obscurity as a questing adventurer means you gain experience from your efforts.
+>
+> The map begins completely obscured. The conflict or crisis feels overwhelming and overpowering at first, both in life and when we begin the game. Over time, this lessens, replaced by a growing sense of free agency, playfulness, and gratitude as more and more of the conflict is removed, revealing what the conflict was hiding from you.
 
 **_Recall_.** A PC is transported back to the HQ map room after finishing a special Recall ritual completed outside of an encounter. PCs automatically Recall when the time marker reaches 0 (8 hours) after deploying onto the world map. A PC may only Recall once per game session.
 
