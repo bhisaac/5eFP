@@ -30,7 +30,7 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Ability Score_.** Six ability scores ranging from -5 to +10 provide a quick description of every creature’s physical and mental characteristics, including strength (STR) measuring physical power, dexterity (DEX) measuring agility, constitution (CON) measuring endurance, intelligence (INT) measuring reasoning and memory, wisdom (WIS) measuring awareness, and charisma (CHA) measuring force of personality.
 
-**_Coin_ (⛁).** A 5eFP game awards and uses coin (⛁) as its currency, representing wealth, reputation, and experience.
+**_Coin_ (⛁).** A 5eFP game awards and uses Coin (⛁) as its currency, representing wealth, reputation, and experience.
 
 **_Conflict_.** The conflict, detailed in your setting handbook, is an event with ongoing effects that changed the game world into an unbalanced and afflicted state. A 5eFP game ends when the conflict is resolved.
 
@@ -40,7 +40,7 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Discover._** If a game feature instructs you to discover something, you determine three results, choose one, and discard any remaining results.
 
-**_Downtime_.** Downtime consists of downtime actions measured in rounds and may include rest, repairs, research, spending coin on HQ upgrades, or taking other actions between game sessions.
+**_Downtime_.** Downtime consists of downtime actions measured in rounds, including rest and repairs, research, spending ⛁ on HQ upgrades, or taking other actions between game sessions.
 
 **_Encounter_.** An encounter is a significant event within the game where the outcome of events is uncertain and is measured in rounds. PCs are awarded ⛁ when an encounter ends.
 
@@ -84,7 +84,7 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Turn_.** During a round, a creature takes its turn, during which it can spend a wide variety of actions. Usually, over the course of one turn, a creature can spend an action, use an object, or discard its reaction (see Actions).
 
-**_Upgrade_.** Once the PCs Recall, they may spend coin unlocking character upgrades. Available upgrades include species, background, and class and are limited to only those upgrades equal to or less than LEVEL. Once all PCs have finished spending coin on upgrades, downtime begins.
+**_Upgrade_.** Once the PCs Recall, they may spend ⛁ unlocking character upgrades. Available upgrades include background, class, and species and are limited to only those upgrades equal to or less than LEVEL. Once all PCs have finished spending ⛁ on upgrades, downtime begins.
 
 **_World Map_.** The world map defines the game world and drives the game's story. It is a top-down illustration of the game world or region divided into a 14-square by 14-square grid. Each square within the grid is measured 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters.
 
@@ -735,11 +735,11 @@ For example, if you’re a 2nd-­level wizard, you can recover up to two levels 
 > #### Your Spellbook
 > The spells that you add to your spellbook as you gain levels reflect the arcane research you conduct on your own, as well as intellectual breakthroughs you have had about the nature of the multiverse. You might find other spells during your adventures. You could discover a spell recorded on a scroll in an evil wizard’s chest, for example, or in a dusty tome in an ancient library.
 > 
-> ***Copying a Spell into the Book.*** When you find a wizard spell of 1st level or higher, you can add it to your spellbook if it is of a spell level you can prepare and if you can spare the time to decipher and copy it.
+> ***Copying a Spell into the Book.*** When you find a wizard spell of 1st level or higher, you can add it to your spellbook during downtime, but only if it is of a spell level that you can prepare.
 > 
 > Copying that spell into your spellbook involves reproducing the basic form of the spell, then deciphering the unique system of notation used by the wizard who wrote it. You must practice the spell until you understand the sounds or gestures required, then transcribe it into your spellbook using your own notation.
 > 
-> For each level of the spell, the process takes 2 hours and costs 1⛁. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it. Once you have spent this time and coin, you can prepare the spell just like your other spells.
+> For each level of the spell, the process requires one round of downtime at a mage tower. The cost reflects the material components you use while experimenting with the spell to master it, along with the special inks necessary for recording it. After completing the necessary downtime, you can prepare the spell just like your other spells.
 > 
 > ***Replacing the Book.*** You can copy a spell from your own spellbook into another book—for example, if you want to make a backup copy of your spellbook. This is just like copying a new spell into your spellbook, but faster and easier, since you understand your own notation and already know how to cast the spell. You need spend only 1 hour for each level of the copied spell.
 > 
@@ -1059,7 +1059,7 @@ Certain monasteries use specialized forms of monk weapons. For example, you migh
 
 # Beyond 1st Level
 
-As you go on adventures and overcome challenges, you gain experience, represented by Coin. When all world map tiles in the current level of play are explored, the next level of play on the world map unlocks, and you advance to the next level. This is called gaining a level.
+As you go on adventures and overcome challenges, you gain experience, represented by ⛁. When all world map tiles in the current level of play are explored, the next level of play on the world map unlocks, and you advance to the next level. This is called gaining a level.
 
 While at HQ, you can spend your Coin to purchase background, species, or class upgrades for your character. The background, class, and species descriptions below detail these additional game features.
 
@@ -1071,12 +1071,14 @@ Whenever your CON changes, recalculate your MAX wounds with the new CON score.
 
 ### Inspiration Upgrades
 
+The following upgrades provide an additional way to gain inspiration once per game session.
+
 ||||
 |-:|:-|:-|
 |**Cost**|**Feature**|**Details**|
-|3⛁|Inspired Success|Once per game session, you gain inspiration after resolving a critical success|
-|3⛁|Inspired Failure|Once per game session, you gain inspiration after resolving a critical failure|
-|3⛁|Inspired Support|Once per game session, if a game feature or effect helps you succeed when you would have otherwise failed, you gain inspiration at the end of your turn|
+|3⛁|Inspired Success|You gain inspiration after resolving a critical success|
+|3⛁|Inspired Failure|You gain inspiration after resolving a critical failure|
+|3⛁|Inspired Support|If a game feature or effect helps you succeed when you would have otherwise failed, you gain inspiration at the end of your turn|
 
 ## Class Upgrades
 
@@ -1531,7 +1533,9 @@ Some backgrounds also allow characters to learn additional languages beyond thos
 Each background provides a package of starting equipment.
 
 ### Feature
-Background features unlock bonuses that may provide expanded options in HQ, additional choices during downtime rounds, added features while you are the group token controller, or access to otherwise restricted content.
+Background features unlock bonuses that may provide expanded options in HQ, additional choices during downtime rounds, added features while you are the group token controller, or access to otherwise restricted options.
+
+Unless stated otherwise, any bonus ⛁ awarded through a background feature can only be spent on rest and repairs during a downtime round.
 
 ## Acolyte
 
@@ -1543,11 +1547,9 @@ Choose a god, a pantheon of gods, or some other quasi-divine being from among th
 
 ### Feature: Shelter of the Faithful
 
-As an acolyte, you command the respect of those who share your faith, and you can perform the religious ceremonies of your deity. Whenever you spend a downtime round at a temple, shrine, or other established presence of your faith, at the start of the downtime round, you gain ⛁ and holy water. Bonus coins awarded through this feature may only be spent on rest and repairs.
+As an acolyte, you command the respect of those who share your faith, and you can perform the religious ceremonies of your deity. Whenever you spend a downtime round at a temple, shrine, or other established presence of your faith, at the start of the downtime round, you gain ⛁ and holy water.
 
 ## Swindler
-
-~~You have always had a way with people. You know what makes them tick, you can tease out their heart's desires after a few minutes of conversation, and with a few leading questions, you can read them like they were children's books. It's a useful talent, and one that you're perfectly willing to use for your advantage.~~
 
 You have a remarkable ability to connect with people. You understand their motivations and can decipher their deepest desires with just a few questions. You find this talent valuable and use it to your benefit.
 
@@ -1561,8 +1563,6 @@ As part of completing a short rest, you may switch to a secondary identity that 
 
 ## Entertainer
 
-~~You thrive in front of an audience. You know how to entrance them, entertain them, and even inspire them. Your poetics can stir the hearts of those who hear you, awakening grief or joy, laughter or anger. Your music raises their spirits or captures their sorrow. Your dance steps captivate, your humor cuts to the quick. Whatever techniques you use, your art your life.~~
-
 You are a natural performer who can captivate, entertain, and motivate your audience. Your words, music, or dance moves can evoke powerful emotions. Your performance art is an integral part of your life.
 
 **Tool Proficiencies:** Disguise kit, one type of musical instrument
@@ -1571,11 +1571,9 @@ You are a natural performer who can captivate, entertain, and motivate your audi
 
 ### Feature: By Popular Demand
 
-If you spend a round of downtime at an inn, tavern, circus, theater, or in a noble's court, you gain ⛁. Bonus coins awarded through this feature can only be spent on rest and repairs.
+You gain ⛁ if you spend a downtime round at a circus, inn, marketplace, noble's court, tavern, or theater.
 
 ## Folk Hero
-
-~~You come from a humble social rank, but you are destined for so much more. Already, the people of your home village regard you as their champion, and your destiny calls you to stand against the tyrants and monsters that threaten the common folk everywhere.~~
 
 Your social status may be humble, but you have a greater purpose in life. The people of your village already view you as their champion, and you are called upon to confront the tyrants and monsters that endanger the common people everywhere.
 
@@ -1585,11 +1583,9 @@ Your social status may be humble, but you have a greater purpose in life. The pe
 
 ### Feature: Rustic Hospitality
 
-You bypass obstacles and move undetected through city and road terrain tiles while you are the group token controller. Additionally, whenever you speak to a commoner (someone without military or aristocratic rank), any related checks made while doing so gain advantage. If you spend a round of downtime at a commoner's home, you gain ⛁. Bonus coins awarded through this feature can only be spent on rest and repairs.
+You bypass obstacles and move undetected through city and road terrain tiles while you are the group token controller. Additionally, whenever you speak to a commoner (someone without military or aristocratic rank), any related checks made while doing so gain advantage. If you spend a downtime round at a commoner's home, you gain ⛁.
 
 ## Guild Artisan
-
-~~You are a member of an artisan's guild, skilled in a particular field and closely associated with other artisans. You are a well-established part of the mercantile world, freed by talent and wealth from the constraints of a feudal social order. You learned your skills as an apprentice to a master artisan, under the sponsorship of your guild, until you became a master in your own right.~~
 
 As a member of an artisan's guild, you possess excellent crafting skills and have established yourself among a community of like-minded individuals. Your talent and wealth have freed you from the restrictions of the feudal social order.
 
