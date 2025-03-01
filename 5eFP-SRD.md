@@ -30,7 +30,7 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Ability Score_.** Six ability scores ranging from -5 to +10 provide a quick description of every creature’s physical and mental characteristics, including strength (STR) measuring physical power, dexterity (DEX) measuring agility, constitution (CON) measuring endurance, intelligence (INT) measuring reasoning and memory, wisdom (WIS) measuring awareness, and charisma (CHA) measuring force of personality.
 
-**_Coin_ (⛁).** A 5eFP game awards and uses Coin (⛁) as its currency, representing wealth, reputation, and experience.
+**_Coin_ (⛁).** A 5eFP game awards and uses ⛁ as its currency, representing wealth, reputation, and experience.
 
 **_Conflict_.** The conflict, detailed in your setting handbook, is an event with ongoing effects that changed the game world into an unbalanced and afflicted state. A 5eFP game ends when the conflict is resolved.
 
