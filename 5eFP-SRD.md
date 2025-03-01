@@ -1061,7 +1061,7 @@ Certain monasteries use specialized forms of monk weapons. For example, you migh
 
 As you go on adventures and overcome challenges, you gain experience, represented by ⛁. When all world map tiles in the current level of play are explored, the next level of play on the world map unlocks, and you advance to the next level. This is called gaining a level.
 
-While at HQ, you can spend your Coin to purchase background, species, or class upgrades for your character. The background, class, and species descriptions below detail these additional game features.
+While at HQ, you can spend ⛁ to purchase background, species, or class upgrades for your character. The upgrade descriptions below detail these additional game features.
 
 Whenever your level increases, you also increase your MAX wounds by +1.
 
@@ -1675,7 +1675,7 @@ For years, you spent your time on a seafaring vessel, braving powerful storms, s
 
 You gain the following features when HQ's docks are discovered.
 
-Once during the downtime phase, you and up to 4 other PCs may complete one round of downtime onboard a ship in HQ's docks without spending any coin. Before the end of your downtime round, move the ship onto a different and accessible world map tile that shares the same terrain as HQ's docks. Ships return to HQ's dock at the end of the downtime round.
+Once during the downtime phase, you and up to 4 other PCs may complete one downtime round onboard a ship in HQ's docks without spending ⛁. Before the end of your downtime round, move the ship onto a different and accessible world map tile that shares the same terrain as HQ's docks. Ships return to HQ's dock at the end of the downtime round.
 
 After deploying onto the world map, you may choose to deploy onboard your ship if the group token is on the same terrain as HQ's docks. Remove the group token from the world map and replace it with your ship token. Your ship token functions the same as a group token. While you are the group token controller onboard your ship, the ship gives you +1 speed, and you may remove obscuring tiles up to 2 squares away.
 
@@ -1685,8 +1685,6 @@ Your ship returns to dock when you return to HQ.
 
 ## Soldier
 
-~~War has been your life for as long as you care to remember. You trained as a youth, studied the use of weapons and armor, and learned basic survival techniques, including how to stay alive on the battlefield. You might have been part of a standing national army, a mercenary company, or perhaps a member of a local militia who rose to prominence during a recent war.~~
-
 You were trained at a young age for battle, learning how to handle weapons and armor, as well as basic survival skills. You have spent most of your life amidst wars, either as a member of a standing national army, a mercenary company, or a local militia that gained prominence during a recent conflict.
 
 **Tool Proficiencies:** One type of gaming set, vehicles (land)
@@ -1695,7 +1693,7 @@ You were trained at a young age for battle, learning how to handle weapons and a
 
 ### Feature: Military Rank
 
-You have a military rank from your career as a soldier. Soldiers loyal to your former military organization still recognize your authority and influence, and they defer to you if they are of a lower rank. Before deploying onto the world map, you gain a soldier minion under your command who deploys and returns to HQ alongside you. The soldier minion follows your commands to the best of its ability and allows you to remove 1 additional obscuring tile up to 2 squares away if you are the group token controller. If the soldier minion dies while deployed, remove it from the playing field. If your soldier minion did not die, you gain ⛁ at the start of the downtime phase.
+You have a military rank from your career as a soldier. Soldiers loyal to your former military organization still recognize your authority and influence, and they defer to you if they are of a lower rank. Before deploying onto the world map, you gain a soldier minion under your command who Deploys and Recalls to HQ alongside you. The soldier minion follows your commands to the best of its ability and allows you to remove 1 additional obscuring tile up to 2 squares away if you are the group token controller. If the soldier minion dies while deployed, remove it from the playing field. If your soldier minion Recalls with you, you gain ⛁.
 
 ## Street Rat
 
