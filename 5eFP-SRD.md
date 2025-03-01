@@ -82,7 +82,7 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Story Elements_.** Story elements are pieces of the overall story relating to the conflict detailed in your setting handbook modified by the particular direction the PCs are exploring. Over time, these story elements automatically create stories of their own. GMs and PCs don't necessarily need to control how these elements emerge, though GMs may choose to adjust them with player consent so they fit together better.
 
-**_Turn_.** During a round, a creature takes its turn, during which it can spend a wide variety of actions. Usually, over the course of one turn, a creature can spend an action, use an object, or discard its reaction (see Actions).
+**_Turn_.** During a round, a creature takes its turn, during which it can spend a wide variety of actions. Usually, over the course of one turn, a creature can take an action, use an object, or take a reaction (see Actions).
 
 **_Upgrade_.** Once the PCs Recall, they may spend ⛁ unlocking character upgrades. Available upgrades include background, class, and species and are limited to only those upgrades equal to or less than LEVEL. Once all PCs have finished spending ⛁ on upgrades, downtime begins.
 
