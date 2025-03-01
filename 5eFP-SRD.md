@@ -34,6 +34,8 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Conflict_.** The conflict, detailed in your setting handbook, is an event with ongoing effects that changed the game world into an unbalanced and afflicted state. A 5eFP game ends when the conflict is resolved.
 
+**_Conflict in Real Life (RL)_.** Think about what bothers and scares you the most. What experience disturbed your sense of balance and well-being? This is your inner conflict, which represents what the conflict means for you in the game. Every player experiences this conflict differently.
+
 **_Deploy_.** After choosing an unexplored world map tile, the PCs deploy onto its exploration map by placing the group token in a random location. The obscuring map tile under the group token is revealed. During a downtime round, PCs may deploy and resolve the downtime round on an area within an explored world map tile.
 
 **_Discover._** If a game feature instructs you to discover something, you determine three results, choose one, and discard any remaining results.
