@@ -58,7 +58,7 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Headquarters (HQ)_.** Each world map has an HQ, usually located at the center of the map, representing the central organization or organizing force responsible for maintaining the health and security of the game world or region. All PCs are peers and colleagues within this organization. You are objectively safe from the conflict at HQ, provided HQ receives the setting handbook requirement. Unless stated otherwise, PCs always begin and end a game session at HQ.
 
-> Your HQ could be your home, your work, or the department you work in. (More TBA)
+> Your HQ could be your home, your work, or the department you work in.
 
 **_Player Character (PC)_.** A character created and played by a player.
 
