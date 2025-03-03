@@ -62,7 +62,7 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Player Character (PC)_.** A character created and played by a player.
 
-> You created your character since birth, and you continue to create your character with each new day. You are your character.
+> You created your character since birth, and you continue to create your character with each new day. Your character in RL is a part of you and, despite appearances, isn't rigidly defined. Your character is a mutable quality. Are there parts of your character that you need to work on? Is there a part of your character that no longer serves your life? Is there qualities that you long for and wish to include within your life?
 
 **_Non-Player Character (NPC)_.** A character created and played by the gamemaster.
 
