@@ -32,8 +32,6 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Conflict_.** The conflict, detailed in your setting handbook, is an event with ongoing effects that changed the game world into an unbalanced and afflicted state. A 5eFP game ends when the conflict is resolved.
 
-> The game's conflict mirrors the central conflict within your life. What is the agitaor upseting your sense of balance and well-being? Become aware of the scary story when you think of your central conflict. This is your inner conflict, symbolically held through the conflict in the game. Every player experiences this conflict differently.
-
 **_Deploy_.** After choosing an unexplored world map tile, the PCs deploy onto its exploration map by placing the group token in a random location. The obscuring map tile under the group token is revealed. During a downtime round, PCs may deploy and resolve the downtime round on an area within an explored world map tile.
 
 **_Discover._** If a game feature instructs you to discover something, you determine three results, choose one, and discard the rest.
@@ -4669,6 +4667,44 @@ The following definitions specify what happens to a creature while it is subject
 - Any attack that hits the creature is a critical hit if the attacker is within 1 square of the creature.
 
 ---
+
+# Appendix SH-A: Setting Handbook
+
+All details about the 5eFP practice you are joining, including read-aloud text, GM contact information, game backstory, world map, HQ information, the game's central conflict, the game's story directions, how PC Recall, how PCs fast travel, and the setting handbook requirement can be found in your setting handbook.
+
+> Life rarely gives you a manual with instructions. So, create one for yourself. Create read-aloud text, preferably positive and affirming, for the beginning of each new day. A great start would be "I am so grateful now that I am releasing old patterns that no longer serve me and my life." You already know how to get in contact with yourself, but are you truly communicating with yourself and your life? Include contact information regarding how you intend to make contact or, if you're starting with this process, affirm your desire to connect and better communicate with yourself and your life. Everything begins with a _wish_ or _desire_. What is your backstory? What has happened that has prompted you to create your life manual? Keep it brief, one or two paragraphs with two to three sentences each. Your world map might be a vision board, an image, or images representing your life or the qualities, people, and experiences you're longing for.
+
+## Read-Aloud Text
+
+The read-aloud text in your setting handbook introduces the game world with a narrative that reveals each game world's ambiance, genre, and main story.
+
+## GM Contact Information
+
+The GM Contact Information section lists all contact information for your 5eFP GM, including preferred contact method and game availability calendar.
+
+## Game Backstory
+
+The Game Backstory section is at most 1 page long, contains game setting information, reveals common knowledge, and details the moments before the conflict began.
+
+## World Map
+
+## HQ Information
+
+## The Conflict
+
+The Conflict is an event with ongoing effects that changed the game world into an unbalanced and afflicted state. A 5eFP game ends when the conflict is resolved.
+
+> The game's conflict mirrors the central conflict within your life. What is the agitaor upseting your sense of balance and well-being? Become aware of the scary story when you think of your central conflict. This is your inner conflict, symbolically held through the conflict in the game. Every player experiences this conflict differently.
+
+## Story Directions
+
+## Recall
+
+## Fast Travel
+
+## Setting Handbook Requirement
+
+
 
 # Appendix PO-A: Safe Space and Code Of Conduct
 
