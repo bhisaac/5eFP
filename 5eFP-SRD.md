@@ -30,7 +30,7 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Coin_ (⛁).** A 5eFP game awards and uses Coin (⛁) as its currency, representing wealth, reputation, and experience.
 
-**_Conflict_.** The conflict, detailed in your setting handbook, is an event with ongoing effects that changed the game world into an unbalanced and afflicted state. A 5eFP game ends when the conflict is resolved.
+**_Conflict_.** The conflict, detailed in your setting handbook, is an event with ongoing effects that changed the game world into an unbalanced and afflicted state (see Setting Handbook). A 5eFP game ends when the conflict is resolved.
 
 **_Deploy_.** After choosing an unexplored world map tile, the PCs deploy onto its exploration map by placing the group token in a random location. The obscuring map tile under the group token is revealed. During a downtime round, PCs may deploy and resolve the downtime round on an area within an explored world map tile.
 
