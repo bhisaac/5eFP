@@ -26,8 +26,6 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Action_.** An action is a discrete measurement of time usually accessible during your turn and typically resolves before the end of your turn. You discard your action when you use certain game features, cast spells, and make attacks. You regain your action at the beginning of your next turn (see Actions).
 
-> Life requires some effort to maintain. You must physically attend to your life and take action to promote your health and wellness. Your body, mind, and essence or spirit need loving kindness, loving guidance, and self-care for optimal health. There is no away-from-keyboard (AFK) in RL. There is no auto-follow or AFK leveling. You must take action if you are to meet your goals in life. If you don't take action in your life, who will?
-
 **_Ability Score_.** Six ability scores ranging from -5 to +10 provide a quick description of every creature’s physical and mental characteristics, including strength (STR) measuring physical power, dexterity (DEX) measuring agility, constitution (CON) measuring endurance, intelligence (INT) measuring reasoning and memory, wisdom (WIS) measuring awareness, and charisma (CHA) measuring force of personality.
 
 **_Coin_ (⛁).** A 5eFP game awards and uses ⛁ as its currency, representing wealth, reputation, and experience.
@@ -1653,7 +1651,7 @@ You have grown up in an environment far away from civilization and the convenien
 
 ### Feature: Wanderer
 
-While you are the party token controller, you reveal obscuring tiles up to 2 squares away provided you start your turn on natural terrain. You automatically detect and disarm any natural traps while moving the party token through natural terrain. You may set a natural trap during your round. You can only have 1 trap set this way per world map. When you use this feature to set a new trap, any previously set traps are removed. You may use this feature to place a foothold or an objective outlined within your setting handbook on an explored world map tile within 2 squares. Once you have used this feature in this way, you cannot do so again until the next game session.
+While you are the group token controller, you reveal obscuring tiles up to 2 squares away provided you start your turn on natural terrain. You automatically detect and disarm any natural traps while moving the group token through natural terrain. You may set a natural trap during your round. You can only have 1 trap set this way per world map. When you use this feature to set a new trap, any previously set traps are removed. You may use this feature to place a foothold or an objective outlined within your setting handbook on an explored world map tile within 2 squares. Once you have used this feature in this way, you cannot do so again until the next game session.
 
 ## Scholar
 
@@ -1687,7 +1685,7 @@ Once during the downtime phase, you and up to 4 other PCs may complete one downt
 
 After deploying onto the world map, you may choose to deploy onboard your ship if the group token is on the same terrain as HQ's docks. Remove the group token from the world map and replace it with your ship token. Your ship token functions the same as a group token. While you are the group token controller onboard your ship, the ship gives you +1 speed, and you may remove obscuring tiles up to 2 squares away.
 
-If your ship is adjacent to a world map tile that does not share terrain with HQ's docks, all players may choose to embark simultaneously from the ship, placing the group token on an adjacent world map tile that does not share terrain with HQ's docks. While the players embark, the ship no longer counts as a group token. All players can later board the ship simultaneously, removing the party token from the world map. Once players board the ship, the ship resumes as the group token.
+If your ship is adjacent to a world map tile that does not share terrain with HQ's docks, all players may choose to embark simultaneously from the ship, placing the group token on an adjacent world map tile that does not share terrain with HQ's docks. While the players embark, the ship no longer counts as a group token. All players can later board the ship simultaneously, removing the group token from the world map. Once players board the ship, the ship resumes as the group token.
 
 Your ship returns to dock when you return to HQ.
 
@@ -3011,7 +3009,9 @@ Return your discarded actions at the start of a game session and at the beginnin
 
 ## Action
 
-**_Discard your action to take an action_.** You discard your action during your turn to use most game features, spells, and attacks.
+**_Discard your action to take one action_.** You discard your action during your turn to use most game features, spells, and attacks.
+
+> Life requires some effort to maintain. You must physically attend to your life and take action to promote your health and wellness. Your body, mind, and essence or spirit need loving kindness, loving guidance, and self-care for optimal health. There is no away-from-keyboard (AFK) in RL. There is no auto-follow or AFK leveling. You must take action if you are to meet your goals in life. If you don't take action in your life, who will?
 
 ## Attack
 
@@ -4322,11 +4322,11 @@ A settlement uses the encounter stats provided to determine the checks needed to
 >>
 >> While a boss settlement encounter is unresolved, it gains bolster (LEVEL) after all PCs have finished taking their turn.
 
-## Campfire (Short Rest)
+## Campfire (Rest)
 
 A campfire encounter usually doesn't need encounter stats to resolve, but you can use the provided stats if necessary.
 
-Campfire encounters are initiated during a short rest and resolve at the end of the short rest. Campfire encounters should take up at most 10 minutes of game-session time. When a campfire scene resolves, the party token controller reveals obscuring map tiles up to 3 squares away from the party token.
+Campfire encounters are initiated during a rest and resolve at the end of the rest. Campfire encounters should take up at most 10 minutes of game-session time. When a campfire scene resolves, the group token controller reveals obscuring map tiles up to 3 squares away from the group token.
 
 Campfire encounters do not require the presence of a campfire to be considered campfire encounters.
 
@@ -4334,7 +4334,7 @@ Campfire encounters do not require the presence of a campfire to be considered c
 
 During a campfire encounter, one PC volunteers to set the scene and drives the initial interaction while the others join in and play with the focus created in the story. Typically, the volunteer desires to initiate a specific kind of roleplaying scenario. PCs can have conversations, plan their next move, talk to locals, gather clues, share a meal, play games, and more.
 
-When you discover a campfire encounter, you can use it immediately or wait and use it later. You can only use it immediately if your party is not already in an encounter or the party token is not next to an unresolved foothold or setting requirement. If you use the campfire encounter immediately, your party gets the benefits of a short rest without it counting toward the total number of short rests available in the game session.
+When you discover a campfire encounter, you can use it immediately or wait and use it later. You can only use it immediately if your party is not already in an encounter or the group token is not next to an unresolved foothold or setting requirement. If you use the campfire encounter immediately, your party gets the benefits of a short rest without it counting toward the total number of short rests available in the game session.
 
 Discard any unused campfires on recall.
 
