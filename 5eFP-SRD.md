@@ -4672,7 +4672,7 @@ All details about the 5eFP practice you are joining, including read-aloud text, 
 
 The read-aloud text in your setting handbook introduces the game world with a narrative that reveals each game world's ambiance, genre, and main story.
 
-> Create read-aloud text, preferably positive and affirming, for the beginning of each new day. A great start would be "I am so grateful now that I am releasing old patterns that no longer serve me and my life."
+> Create RL read-aloud text, preferably positive and affirming, for the beginning of each new day. A great start would be "I am so grateful now that I am releasing old patterns that no longer serve me and my life."
 
 ## GM Contact Information
 
