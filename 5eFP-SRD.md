@@ -74,11 +74,7 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Setting Handbook_.** All details about the 5eFP practice you are joining, including read-aloud text, GM contact information, game backstory, world map, HQ information, the game's central conflict, the game's story directions, how PC Recall, how PCs fast travel, and the setting handbook requirement can be found in your setting handbook.
 
-> Life rarely gives you a manual with instructions. So, create one for yourself. Create read-aloud text, preferably positive and affirming, for the beginning of each new day. A great start would be "I am so grateful now that I am releasing old patterns that no longer serve me and my life." You already know how to get in contact with yourself, but are you truly communicating with yourself and your life? Include contact information regarding how you intend to make contact or, if you're starting with this process, affirm your desire to connect and better communicate with yourself and your life. Everything begins with a _wish_ or _desire_. What is your backstory? What has happened that has prompted you to create your life manual? Keep it brief--one or two paragraphs with two to three sentences each. Your world map might be a vision board, an image, or images representing your life or the qualities, people, and experiences you're longing for.
-
 **_Setting Handbook Requirement_.** PCs must complete this special task each game session, which might involve but isn't limited to placing and using an item, locating and gathering an item, finding and rescuing bystanders, gathering intelligence, or gathering a resource. For example, PCs must find and gather an herb, a starflower, in the _Enchanted Forest_ setting.
-
-> Your setting handbook requirement in RL relates to your monthly expenses, property tax and taxes in general, work tasks, and self-care routine. These parts of life are required for life on earth.
 
 **_Story Directions_.** The world map has four cardinal directions: North (N), South (S), East (E), and West (W). Each cardinal direction is linked to a unique story corresponding to that direction. There are also four ordinal or hybrid directions: Northwest (NW), Southeast (SE), Southwest (SW), and Northwest (NW). Each hybrid direction is linked to the stories contained within adjacent directions.
 
@@ -4706,7 +4702,9 @@ The Conflict is an event with ongoing effects that changed the game world into a
 
 ## Setting Handbook Requirement
 
+PCs must complete this special task each game session, which might involve but isn't limited to placing and using an item, locating and gathering an item, finding and rescuing bystanders, gathering intelligence, or gathering a resource. For example, PCs must find and gather an herb, a starflower, in the _Enchanted Forest_ setting.
 
+> Your setting handbook requirement in RL relates to your monthly expenses, property tax and taxes in general, work tasks, and self-care routine. These parts of life are required for life on Earth.
 
 # Appendix PO-A: Safe Space and Code Of Conduct
 
