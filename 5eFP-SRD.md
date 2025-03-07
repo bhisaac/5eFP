@@ -4666,21 +4666,29 @@ The following definitions specify what happens to a creature while it is subject
 
 All details about the 5eFP practice you are joining, including read-aloud text, GM contact information, game backstory, world map, HQ information, the game's central conflict, the game's story directions, how PC Recall, how PCs fast travel, and the setting handbook requirement can be found in your setting handbook.
 
-> Life rarely gives you a manual with instructions. So, create one for yourself. Create read-aloud text, preferably positive and affirming, for the beginning of each new day. A great start would be "I am so grateful now that I am releasing old patterns that no longer serve me and my life." You already know how to get in contact with yourself, but are you truly communicating with yourself and your life? Include contact information regarding how you intend to make contact or, if you're starting with this process, affirm your desire to connect and better communicate with yourself and your life. Everything begins with a _wish_ or _desire_. What is your backstory? What has happened that has prompted you to create your life manual? Keep it brief, one or two paragraphs with two to three sentences each. Your world map might be a vision board, an image, or images representing your life or the qualities, people, and experiences you're longing for.
+> Life rarely gives you a manual with instructions. So, create one for yourself.
 
 ## Read-Aloud Text
 
 The read-aloud text in your setting handbook introduces the game world with a narrative that reveals each game world's ambiance, genre, and main story.
 
+> Create read-aloud text, preferably positive and affirming, for the beginning of each new day. A great start would be "I am so grateful now that I am releasing old patterns that no longer serve me and my life."
+
 ## GM Contact Information
 
 The GM Contact Information section lists all contact information for your 5eFP GM, including preferred contact method and game availability calendar.
+
+> You are both the GM and the player in RL. You already know how to contact yourself, but are you truly communicating with yourself and your life? Include contact information regarding how you intend to make contact or, if you're starting with this process, affirm your desire to connect and better communicate with yourself and your life. Everything begins with a _wish_ or _desire_. Are you willing to set up and commit to a schedule of availability to ensure contact? If so, display your availability.
 
 ## Game Backstory
 
 The Game Backstory section is at most 1 page long, contains game setting information, reveals common knowledge, and details the moments before the conflict began.
 
+> What is your RL backstory? What has prompted you to join a 5eFP practice and create your RL setting handbook? Keep it brief, one or two paragraphs with two to three sentences each.
+
 ## World Map
+
+> Your world map might be a vision board, an image, or images representing your life or the qualities, people, and experiences you're longing for.
 
 ## HQ Information
 
