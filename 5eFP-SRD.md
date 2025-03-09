@@ -40,9 +40,9 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Encounter_.** An encounter is a significant event within the game where the outcome of events is uncertain and is measured in rounds. PCs are awarded ⛁ when an encounter ends.
 
-**_Encounter Map_.** Set up a 14-square by 14-square encounter map near the exploration map when an encounter is revealed. Unlike other maps, you do not cover this map with obscuring map tiles.
+**_Encounter Map_.** You set up a 14-square by 14-square encounter map near the exploration map when an encounter is revealed. Each square within the map is measured 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters. Unlike the exploration map, you do not cover this map with obscuring map tiles.
 
-**_Exploration Map_.** The players prepare an exploration map When PCs deploy onto an obscured world map tile. This map is a top-down illustration of a specific area on the world map divided into a 14-square by 14-square grid. Each square within the grid is measured 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters. The exploration map begins covered by obscuring map tiles.
+**_Exploration Map_.** The players prepare an exploration map When PCs deploy onto an obscured world map tile. This map is a top-down illustration of a specific area on the world map divided into a 14-square by 14-square map. Each square within the map is measured 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters. The exploration map begins covered by obscuring map tiles.
 
 **_Fast Travel_.** 5eFP games use fast travel rules when deploying onto the world map, skipping past traveling and travel times.
 
