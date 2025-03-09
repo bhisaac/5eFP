@@ -36,7 +36,7 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Discover._** If a game feature instructs you to discover something, you determine three results, choose one, and discard the rest.
 
-**_Downtime_.** Downtime consists of downtime actions measured in rounds, including rest and repairs, research, spending ⛁ on HQ upgrades, or taking other actions between game sessions.
+**_Downtime_.** Downtime consists of downtime actions measured in rounds, including rest and repairs, research, spending Coin on HQ upgrades, or taking other actions between game sessions.
 
 **_Encounter_.** An encounter is a significant event within the game where the outcome of events is uncertain and is measured in rounds. PCs are awarded ⛁ when an encounter ends.
 
