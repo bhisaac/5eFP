@@ -2506,35 +2506,33 @@ PCs may discard up to LEVEL wounds at the end of a rest.
 
 # Downtime
 
-After you Recall back to HQ, each player spends one or more rounds of downtime. If you spend ⛁ on rest and repairs during a downtime round, it gains an extended rest of at least 8 hours for sleeping or light activities. Once completed, your gear is repaired, and you discard any wounds.
+After all PCs Recall and finish spending Coin on background, class, and species upgrades, the first downtime round begins. If you spend ⛁ on rest and repairs during your downtime round, you gain an extended rest of at least 8 hours for sleeping or light activities. Once completed, your gear is repaired, and you discard any wounds. If you do not spend Coin on rest and repairs during downtime, you gain one level of exhaustion before the end of the game session.
 
 Your first downtime round is free. You can purchase more rounds of downtime by spending ⛁ for each additional round.
 
-If your character Recalls dead, HQ healers cast _gentle repose_ on your remains and transport them to a holding room within the crypt or morgue. In this room, players decide what to do next with the deceased character. The player whose character died can choose whether to retire the character or take other actions.
+If your character Recalls dead, HQ healers cast _gentle repose_ on your remains or place you in stasis and transport you to a holding room within the crypt or morgue. In this room, players decide what to do next with the deceased character. The player whose character died can choose whether to retire the character or take other actions.
 
 When a character retires, healers conduct a funeral service, and the character will be added to the crypt. The player can continue playing the sidekick or create a new character. They may also spend a downtime round reviving the deceased character if they can afford the revival cost, which all players can contribute to.
 
 Dead characters cannot benefit from downtime rounds until they are revived or healed.
 
-A character who recalls stabilized at MAX Wounds may only spend a round of downtime to discard 1 wound, which revives the character. Once revived, the character can then spend ⛁ to add additional rounds of downtime.
+A PC who recalls stabilized at MAX Wounds may only spend a round of downtime to discard one wound, which revives the PC. Once revived, the PC can then spend ⛁ to add additional rounds of downtime.
 
-Once you have finished spending your downtime rounds, you declare this by stating that you "pass." When all players have passed on their downtime rounds, they restore and reset any expended class resources or game features on their character sheets, including spell slots that have been used.
+Once downtime finishes, GMs and players spend 5 minutes on unstructured downtime for self-reflection. During this downtime, activities can include resting, taking a break, journaling, drawing, or reflecting on the gaming experience. Following this period of self-reflection, there is a 25-minute group-sharing session facilitated by the GM and conducted using talking stick rules.
 
-GMs and players then spend 5 minutes on unstructured downtime for self-reflection. During this downtime, activities can include resting, taking a break, journaling, drawing, or reflecting on the gaming experience. Following this period of self-reflection, there is a 25-minute group-sharing session conducted using talking stick rules.
+When a player wishes to speak, they pick up the talking stick. If the talking stick is unavailable because someone else is using it, the player must wait until it is available. The player holding the talking stick has the floor and may speak without others speaking, interrupting, or crosstalking. The player holding the talking stick can ask for feedback, which will temporarily lift the restriction on speaking. Once a player has finished sharing, they can pass the talking stick to the next player who wants to contribute or place it in the center of the sharing space. Players are encouraged to be mindful of one another and allow as many fellow players a chance to speak as possible.
 
-When a player wishes to speak, they pick up the talking stick. If the talking stick is unavailable because someone else is using it, the player must wait until it is available. The player holding the talking stick has the floor and may speak without others speaking, interrupting, or crosstalking. The player holding the talking stick can ask for feedback, which will temporarily lift the restriction on speaking. Once a player has finished sharing, they can pass the talking stick to the next player who wants to contribute or place it in the center of the sharing space.
-
-GMs facilitate the sharing, allowing all players to speak first. With permission, they may step into a player's sharing to help them understand 5eFP concepts and subtleties but otherwise remain silent and receptive witnesses. Questions about 5eFP mechanics and features are reserved after everyone has shared. GMs are encouraged to limit sharing to a minimum and only share what it was like to run the game session. The game session is mainly an opportunity for players to share their experiences with peers (GMs are only peers with other GMs) and integrate what arises into their real lives. The game session ends once the sharing is complete.
+GMs facilitate the sharing, allowing all players to speak first. With permission, they may step into a player's sharing to help them understand 5eFP concepts and subtleties but otherwise remain silent and receptive witnesses. Questions about 5eFP mechanics and features are reserved after everyone has shared. GMs are encouraged to limit their sharing to a minimum and only share what it was like to run the game session. The game session is mainly an opportunity for players to share their experiences with peers (GMs are only peers with other GMs) and integrate what arises into their real lives. The current game session ends once the sharing is complete.
 
 ## Downtime Rounds
 
-After PCs recall, they each gain 1 round of downtime. PCs resolve their downtown rounds in initiative order. At the start of a PC's downtime round, they place their character token on an available space in HQ. At the end of the round, PCs gain any end-of-turn benefits associated with their chosen downtime location (see below).
+The PC with the most Coin acts first during a downtime round, followed by the PC with the second highest Coin total. All remaining PCs then take their downtime rounds in any order. The players yield to one another to resolve ties. Ties for the first to act place their character tokens simultaneously, yielding to one another. At the start of a PC's downtime round, they can place their character token on an available downtime location in HQ. At the end of the round, PCs gain any end-of-turn benefits associated with their chosen downtime location (see below). You indicate that your downtime actions are complete by saying, "pass." A downtime round ends once all players have passed.
 
-While at HQ, the following downtime options become available.
+While at HQ, the following downtime round options become available regardless of downtime location.
 
-- Spend any amount of ⛁ on HQ upgrades.
-- Spend any amount of ⛁ on HQ research.
-- **Research.** Spend ⛁ and choose one from feature, item, location, or lore. Add the chosen research to the list of available HQ research. By default, research requires five coins to complete. When the research is complete, the PCs decide what is learned, revealing 1 new piece of information about the nature of the research. If it is determined that more than 1 piece of information can be gained through research, the PCs must begin and complete new research for each additional piece of information. Completing research on a feature upgrades gameplay, making the feature playable.
+- Spend ⛁ or more on HQ upgrades.
+- Spend ⛁ or more on HQ research.
+- **Research.** Spend ⛁ and choose one from a restricted game feature, item, location, or lore. Add the chosen research to the list of available HQ research. By default, research requires 5⛁ to complete. Any player may contribute to the cost of completing research during their turn. Some research may require additional Coin to complete as indicated within its description. When the research is complete, the PCs decide what is learned, revealing one new piece of information about the nature of the research. If it is determined that more than one piece of information can be gained through research, the PCs must begin and complete new research for each additional piece of information. Completing research on a game feature upgrades gameplay, making the feature playable. Example: adding Gnome as a playable species.
 
 ### Level 1 HQ Upgrades
 
@@ -2582,14 +2580,11 @@ The following locations offer expanded downtime options but must first be unlock
 
 **Guild.** TBA.
 
-## Spending Coin
-After the conclusion of a game session, players take 1 or more rounds of downtime. At the start of the downtime phase, PCs each roll a d20, adding the number of coins they currently have as a modifier. This number represents their downtime initiative. Each rolls a d20 and adds the number of Coins they currently have. This is called the downtime initiative, or just initiative.
+## Downtime Actions
 
-## Downtime Activities
+During a round of downtime, a PC can perform the following actions:
 
-Whenever a PC chooses a specific downtime activity, it cannot be chosen again until the beginning of the next round of downtime. During a round of downtime, a PC can perform the following actions:
-
-- **1 Action.** Choose and gain the benefit of 1 downtime activity.
+- **1 Action.** Choose and gain the benefit of one downtime activity.
 - **1 Reaction.** You have one reaction during a round of downtime. Once you use your reaction, you cannot do so again until the beginning of the next round of downtime.
 - **1 Object Interaction.** You may equip or unequip one item.
 
@@ -2597,23 +2592,25 @@ Whenever a PC chooses a specific downtime activity, it cannot be chosen again un
 
 Choose this option to create items used in the game.
 
-You can craft nonmagical objects, including adventuring equipment and works of art. You must be proficient with tools related to the object you are trying to create (typically artisan’s tools). You might also need access to special materials or locations necessary to create it. For example, someone proficient with smith’s tools needs a forge in order to craft a sword or suit of armor.
+You can craft nonmagical objects, including adventuring equipment and works of art. You must be proficient with tools related to the object you are trying to create (typically artisan’s tools). You might also need access to special materials or locations necessary to make it. For example, someone proficient with smith’s tools needs a forge in order to craft a sword or suit of armor.
 
 For every round of downtime you spend crafting, you can craft one item. The cost of creating some items requires spending more than one downtime round.
 
-Multiple characters can combine their efforts toward the crafting of a single item, provided that the characters all have the relevant tools equipped and are working together in the same place. Each additional character contributes +1 downtime round toward crafting the item. For example, three characters with the requisite tool proficiency and the proper facilities contribute +3 downtime rounds toward crafting a suit of plate armor. Crafting plate armor requires 6 rounds of downtime.
-While crafting, you can maintain a modest lifestyle without having to pay 1 gp per day, or a comfortable lifestyle at half the normal cost.
+Multiple characters can combine their efforts toward the crafting of a single item, provided that the characters all have the relevant tools equipped and are working together in the same place. Each additional character contributes +1 downtime round toward crafting the item. For example, three characters with the requisite tool proficiency and the proper facilities contribute +3 downtime rounds toward crafting a suit of plate armor. Crafting plate armor requires six rounds of downtime to complete.
 
-Whenever you choose the crafting downtime activity, you can choose to create any 1 of the following items, provided you meet the prerequisites:
+Whenever you choose the crafting downtime activity, you can choose to create any one of the following items, provided you meet the prerequisites:
 
 **Healing Potion.** You create a minor healing potion.
-- (a) herbalism kit equiped and (b) 1 herbs trade good equipped, or (a) healer class
+
+- (a) herbalism kit equipped and (b) 1 trade goods (herb), or (a) healer class
 
 **Holy Water.** You create holy water.
-- healer class or
-- (a) acolyte bakground and (b) temple building
 
-**Trade Goods.** You harvest, gather, or forge trade goods. Remove 1 trade good from your inventory: gain +1 round of downtime activity. Required:
+- healer class or
+- (a) acolyte background and (b) temple building
+
+**Trade Goods.** You harvest, gather, or forge trade goods. You may discard a trade good to gain an additional downtime round. Required:
+
 - (a) guild artisan background and (b) artisan guildhall building, or
 - (a) 1 trade good in your inventory and (b) the relevant tool is equipped
 
