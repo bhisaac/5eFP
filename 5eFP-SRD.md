@@ -2500,7 +2500,7 @@ Adventurers can rest in the midst of an adventuring day.
 
 ## Rest
 
-A rest is a period of downtime, at least 1 hour long, during which a character does nothing more strenuous than eating, drinking, reading, and tending to wounds.
+A rest is at least 1 hour long, during which a character does nothing more strenuous than eating, drinking, reading, and tending to wounds.
 
 PCs may discard up to LEVEL wounds at the end of a rest.
 
