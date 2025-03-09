@@ -38,6 +38,8 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Downtime_.** Downtime consists of downtime actions measured in rounds, including rest and repairs, research, spending Coin on HQ upgrades, or taking other actions between game sessions.
 
+> Downtime in RL can be ignored, but it will likely disrupt or even end your health and wellness! Working, which includes working on your inner life, needs moderation and temperance. There is a time to work, a time to play, and a time to do nothing at all. Doing nothing, which is also known as resting with minimal effort, allows for the deepest and most effective Medicine. Without Medicine or first aid and other medical interventions, your wounds continue to bleed out.
+
 **_Encounter_.** An encounter is a significant event within the game where the outcome of events is uncertain and is measured in rounds. PCs are awarded ⛁ when an encounter ends.
 
 **_Encounter Map_.** You set up a 14-square by 14-square encounter map near the exploration map when an encounter is revealed. Each square within the map is measured 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters. Unlike the exploration map, you do not cover this map with obscuring map tiles.
