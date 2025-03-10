@@ -100,6 +100,10 @@ Whenever you create a new character, assign ability scores using the standard ar
 
 Choose and place each score as desired. Two ability scores represent advanced ability and talent (+2), another two represent aptitude (+1), another ability score represents average ability (+0), and the last ability score is challenged by adversity and unfavorable circumstances (-1).
 
+> Pick only one aspect of yourself facing the challenge of unfavorable circumstances for this character. The character you create will hold the post and wear the mantle of this challenge for you during the length of that character's experience in the game. You may be overwhelmed by the number of aspects that challenge you. Return your focus to choosing the most central aspect that may even have more aspects revolving or orbiting around it. It isn't difficult to find those aspects that produce pain, aversion, aggression, fear, or worry. Our world rarely allows us to simply feel into them and become more aware of what they bring to the table. You will have plenty of time to explore additional challenging aspects as you wade into the depths of this practice.
+>
+> You aren't just the challenging aspects that confront you. You also identify at least two talents within your life, two aptitudes, and one average ability. Try to be as honest with yourself as you can be when assigning ability scores. Your character can be an idealized version of yourself with more capacity than you feel. This is OK and encouraged while playing your character and the game. It can be challenging to see our positive qualities through the cloud of unfavorable circumstances. Even if you don't readily identify with these talents and aptitudes, allow your PC to have them while being curious about where those qualities are in your RL body. You may journal your sense of what your real ability scores are without censoring or revising your answers and revisit this inner awareness while you level your PC within the practice. Notice when the aspects are aligned and when the aspects are not attuned to you.
+
 # Species
 
 ## Species Traits
