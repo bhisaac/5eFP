@@ -2706,10 +2706,10 @@ When PCs form a group, they choose one of three beneficial status effects that a
 
 ### Defender
 
-Players with the defender role typically strive to draw the focus of adversaries while safeguarding the more vulnerable player characters in the group from harm. The following features take effect during an encounter before initiative is rolled.
+Players with the defender role typically strive to draw the focus of adversaries while safeguarding the more vulnerable player characters in the group from harm. The following features take effect during an encounter before initiative order is determined.
 
 - You gain _Bolster 1_. You may combine this bolster with another bolster effect.
-- At the end of each of your turns, as long as you are not unconscious or incapacitated, all minions, elites, and bosses that have a line of sight to you gain the taunted condition. This applies as long as you are the closest adversary within their line of sight.
+- At the end of each of your turns, all minions, elites, and bosses that can see you gain the taunted condition if you are not unconscious or incapacitated and are the closest adversary within their line of sight.
 - You take your turn immediately. You pass your turn on round 1.
 
 ### Healer
