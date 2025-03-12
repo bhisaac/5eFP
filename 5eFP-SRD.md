@@ -1431,8 +1431,6 @@ Your insight imbues inward sight, granting vision beneath surface impressions.
 
 Your GM reveals all the relevant hidden or obscured pieces of information in the current scene. Features granted through spell effects specifically designed to prevent sight, such as _invisibility_ or an equivalent effect, are not revealed; instead, their presence is confirmed, and you can sense the subtle flows of energy the spell displaces in its wake. This awareness lasts until the beginning of your next turn.
 
-**Insight in Real Life (RL).** _Insight always begins with us, the individual parts of our society or assembly which collectively form the whole of humanity. There are endless opportunities for deepening your Insight within yourself. Any_ surplus _Insight pours forth from you once you have received your fill. Insights have more to do with ourselves than the other person, movement, event, or interaction being witnessed. You can spend a lifetime dedicated to Insight and still have something left to learn about yourself. Turn the eyes of the heart inward. Become curious about what is arising within you._
-
 ### Medicine
 
 Your medicine stabilizes wounds.
@@ -1443,8 +1441,6 @@ Choose any number of creatures your character can see within 6 squares of you wh
 > Choose any number of creatures your character can see within 6 squares of you who are unconscious and dying. The selected creatures receive sufficient healing to stabilize their wounds, regain minimal health, and awaken, allowing them to take action on their next turn.
 >
 > 5eFP is forgiving around character death because the point of 5eFP is not to kill off all the PCs as fast as possible. Instead, it encourages _ongoing gameplay with familiar characters to engender a felt experience over time_. If your game has no grace period wherein PCs may recover from a deadly blow, then allow an inspired medicine to bring them back, but at the edge of death (one more hit will take them out again).
-
-**Medicine in Real Life (RL).** _Finding balance in your work, life, health, and wellness is crucial, but the world's distractions can throw you off your center. So, we must continually dedicate time to healing. Some wounds are easier to dress than others. You may need to deal with deeper wounds before healing a wound closer to the surface. Putting in consistent effort over months or even years helps you understand your wounds and what you need for stabilization. The healing process requires courage and curiosity; it's often not a straightforward path and may involve unexpected support. Having a guide can make healing faster. Additionally, your healing depends on your willingness to explore parts of yourself that you may have ignored or overlooked._
 
 ### Perception
 
@@ -4333,13 +4329,27 @@ During a campfire encounter, one PC volunteers to set the scene and drives the i
 
 When you discover a campfire encounter, you can use it immediately or wait and use it later. You can only use it immediately if your party is not already in an encounter or the group token is not next to an unresolved foothold or setting requirement. If you use the campfire encounter immediately, your party gets the benefits of a short rest without it counting toward the total number of short rests available in the game session.
 
-Discard any unused campfires on recall.
+Discard any unused campfires on Recall.
 
 ## Setting Handbook Requirement
 
 TBA.
 
 ...
+
+# Appendix FP-A
+
+_This section is devoted to all Focus Practice details including RL versions and RL nuances/symbolism of 5eFP mechanics and rules._
+
+## Insight in Real Life (RL)
+
+Insight always begins with us, the individual parts of our society or assembly which collectively form the whole of humanity. There are endless opportunities for deepening your Insight within yourself. Any _surplus_ Insight pours forth from you once you have received your fill. Insights have more to do with ourselves than the other person, movement, event, or interaction being witnessed. You can spend a lifetime dedicated to Insight and still have something left to learn about yourself. Turn the eyes of the heart inward. Become curious about what is arising within you.
+
+## Medicine in Real Life (RL)
+
+Finding balance in your work, life, health, and wellness is crucial, but the world's distractions can throw you off your center. So, we must continually dedicate time to healing. Some wounds are easier to dress than others. You may need to deal with deeper wounds before healing a wound closer to the surface. Putting in consistent effort over months or even years helps you understand your wounds and what you need for stabilization. The healing process requires courage and curiosity; it's often not a straightforward path and may involve unexpected support. Having a guide can make healing faster. Additionally, your healing depends on your willingness to explore parts of yourself that you may have ignored or overlooked.
+
+More: TBA.
 
 # Appendix PHS
 
