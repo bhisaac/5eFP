@@ -62,10 +62,6 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Obscuring Map Tiles_.** Obscuring map tiles are two-sided opaque map tiles that cover unexplored areas of a map or may represent areas of preternatural or magical darkness. 
 
-> These opaque tiles represent your conflict on a personal and embodied level. You reach out, take the opaqueness in your hand as a beloved friend, turn it over to determine whether or not it hid an encounter on its underside, and then return it to the supply of obscuring map tiles. Often, you must confront and address your conflict or crisis, facing what arises within yourself and your life as you do so. You don't know what you will find once you have decided to face your conflict or crisis, but the healing process will never be complete unless you do so.
->
-> The map begins completely obscured. The conflict or crisis feels overwhelming and overpowering at first, both in life and when you begin the game. Over time, this lessens, replaced by a growing sense of free agency, playfulness, lightness of being, and gratitude as more and more of the conflict is cleared, making known to you what the conflict obscured and eclipsed all along.
-
 **_Recall_.** A PC is transported back to the HQ map room after finishing a special Recall ritual completed outside of an encounter. PCs automatically Recall when the time marker reaches 0 (8 hours) after deploying onto the world map. A PC may only Recall once per game session.
 
 **_Round_.** In combat and other fast-­paced situations, the game relies on rounds, a 6-­second span of time. A downtime round represents one or more days.
@@ -4336,6 +4332,12 @@ _This section is devoted to all Focus Practice details including RL versions and
 ## Character Creation
 
 You created your character since birth, and you continue to create your character when you wake up to each new day. Your character in RL is a part of you and, despite appearances, isn't rigidly defined. Your character is a mutable quality. Are there parts of your character that you need to work on? Are there parts of your character that no longer serve your life? Are there qualities that you long for and wish to include within your life?
+
+## Obscuring Map Tiles
+
+These opaque tiles represent your conflict on a personal and embodied level. You reach out, take the opaqueness in your hand as a beloved friend, turn it over to determine whether or not it hid an encounter on its underside, and then return it to the supply of obscuring map tiles. Often, you must confront and address your conflict or crisis, facing what arises within yourself and your life as you do so. You don't know what you will find once you have decided to face your conflict or crisis, but the healing process will never be complete unless you do so.
+
+The map begins completely obscured. The conflict or crisis feels overwhelming and overpowering at first, both in life and when you begin the game. Over time, this lessens, replaced by a growing sense of free agency, playfulness, lightness of being, and gratitude as more and more of the conflict is cleared, making known to you what the conflict obscured and eclipsed all along.
 
 ## Insight in Real Life
 
