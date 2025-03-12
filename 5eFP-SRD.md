@@ -4321,9 +4321,9 @@ TBA.
 
 ...
 
-# Appendix FP-A
+# Appendix FP-A: Focus Practice
 
-_This section is devoted to all Focus Practice details including RL versions and RL nuances/symbolism of 5eFP mechanics and rules._
+_This section is devoted to all Focus Practice details, including RL versions and RL nuances/symbolism of 5eFP mechanics and rules._
 
 ## Character Creation
 
