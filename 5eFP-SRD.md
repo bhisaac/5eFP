@@ -56,8 +56,6 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Player Character (PC)_.** A character created and played by a player.
 
-> You created your character since birth, and you continue to create your character when you wake up to each new day. Your character in RL is a part of you and, despite appearances, isn't rigidly defined. Your character is a mutable quality. Are there parts of your character that you need to work on? Are there parts of your character that no longer serve your life? Are there qualities that you long for and wish to include within your life?
-
 **_Non-Player Character (NPC)_.** A character created and played by the gamemaster.
 
 **_LEVEL_.** LEVEL equals the current level of play. LEVEL starts at 1 and increases over time to 7 as game objectives are completed.
@@ -4334,6 +4332,10 @@ TBA.
 # Appendix FP-A
 
 _This section is devoted to all Focus Practice details including RL versions and RL nuances/symbolism of 5eFP mechanics and rules._
+
+## Character Creation
+
+You created your character since birth, and you continue to create your character when you wake up to each new day. Your character in RL is a part of you and, despite appearances, isn't rigidly defined. Your character is a mutable quality. Are there parts of your character that you need to work on? Are there parts of your character that no longer serve your life? Are there qualities that you long for and wish to include within your life?
 
 ## Insight in Real Life
 
