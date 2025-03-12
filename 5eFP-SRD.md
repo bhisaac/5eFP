@@ -1448,8 +1448,6 @@ Your perception enables you to spot, hear, or otherwise detect the presence of s
 
 Your GM reveals all relevant information regarding the current scene gathered through the five senses (sight, smell, sound, taste, and touch).
 
-**Perception in Real Life (RL).** _Perception begins with perceiving your physical, earthly body and immediate surroundings. This awareness helps you interrelate with others and navigate life's changes. Witnessing your feelings, thoughts, and instincts as information lets you learn about your reactions. The more you know about yourself, the less you identify with the reactions of others._
-
 ### Performance
 
 Your performance allows the satisfying completion of one action.
@@ -1490,8 +1488,6 @@ If the result of your chosen action further affects you on subsequent rounds dur
 >>> 
 >> In example 2, _Player 2_'s action resolves a successful attack action from a hidden position and then finishes. The action does not continue on subsequent rounds.
 
-**Performance in Real Life (RL).** _Developing healthy growth and skills takes time. Some are easy to acquire, while others take longer. Dedication to Performance enhances efficiency as it focuses your efforts. This dedication also encourages you to let go of the old and familiar narratives that identify you with what no longer serves your life. Changing the narrative and deciding to be successful improves your chances of reaching your goals. Recognize your limits in pursuing growth and goals since your body has needs, physical limitations, and capacities that cannot be ignored. Cultivating growth involves recognizing and healing wounds, releasing old patterns, practicing gratitude, and nurturing self-acceptance. Individuals dedicated to Performance progress better due to their commitment to improvement and allocating time for necessary tasks, followed by taking essential steps toward success._
-
 ### Survival
 
 Your survival awards expanded capacities, allowing you to identify and acquire new advantages, qualities, or skills.
@@ -1505,8 +1501,6 @@ When you use your dedication to activate Survival, choose one of the following:
 > **Other Game Systems**
 >
 >> When you use your dedication to activate Survival, the GM indicates the direction and position (if within view) of your current focused objective on the map. For example, a player might activate Survival when faced with three mysterious doors. The GM reveals the door leading to the player's current quest. How your character knows this is connected with their class abilities, skills, and game features. Healers might receive divine inspiration to determine the result. Mages might use divination magic to determine the result. Scoundrels might use knowledge, cunning, or preternatural awareness to determine the result. Warriors might use knowledge, survival skills, or gut instincts to determine the result.
-
-**Survival in Real Life (RL).** _Survival starts with recognizing that you don’t have all the answers and that achieving goals requires embracing the unknown and the courage to get lost once in a while. While plans and routes are important, adaptability is needed to navigate unexpected events. Dedicating Survival can help lead you to undiscovered paths and solutions. Focus on your goals but remain receptive to what life brings, as it may hold the necessary answers. Arriving (somewhere) or receiving (something) might require you to first surrender to not knowing exactly how you will arrive or how you will receive. You don't need to know how it will happen to receive the benefits it provides._
 
 # Backgrounds
 
@@ -4341,13 +4335,25 @@ TBA.
 
 _This section is devoted to all Focus Practice details including RL versions and RL nuances/symbolism of 5eFP mechanics and rules._
 
-## Insight in Real Life (RL)
+## Insight in Real Life
 
 Insight always begins with us, the individual parts of our society or assembly which collectively form the whole of humanity. There are endless opportunities for deepening your Insight within yourself. Any _surplus_ Insight pours forth from you once you have received your fill. Insights have more to do with ourselves than the other person, movement, event, or interaction being witnessed. You can spend a lifetime dedicated to Insight and still have something left to learn about yourself. Turn the eyes of the heart inward. Become curious about what is arising within you.
 
-## Medicine in Real Life (RL)
+## Medicine in Real Life
 
 Finding balance in your work, life, health, and wellness is crucial, but the world's distractions can throw you off your center. So, we must continually dedicate time to healing. Some wounds are easier to dress than others. You may need to deal with deeper wounds before healing a wound closer to the surface. Putting in consistent effort over months or even years helps you understand your wounds and what you need for stabilization. The healing process requires courage and curiosity; it's often not a straightforward path and may involve unexpected support. Having a guide can make healing faster. Additionally, your healing depends on your willingness to explore parts of yourself that you may have ignored or overlooked.
+
+## Perception in Real Life
+
+Perception begins with perceiving your physical, earthly body and immediate surroundings. This awareness helps you interrelate with others and navigate life's changes. Witnessing your feelings, thoughts, and instincts as information lets you learn about your reactions. The more you know about yourself, the less you identify with the reactions of others.
+
+## Performance in Real Life
+
+Developing healthy growth and skills takes time. Some are easy to acquire, while others take longer. Dedication to Performance enhances efficiency as it focuses your efforts. This dedication also encourages you to let go of the old and familiar narratives that identify you with what no longer serves your life. Changing the narrative and deciding to be successful improves your chances of reaching your goals. Recognize your limits in pursuing growth and goals since your body has needs, physical limitations, and capacities that cannot be ignored. Cultivating growth involves recognizing and healing wounds, releasing old patterns, practicing gratitude, and nurturing self-acceptance. Individuals dedicated to Performance progress better due to their commitment to improvement and allocating time for necessary tasks, followed by taking essential steps toward success.
+
+## Survival in Real Life
+
+Survival starts with recognizing that you don’t have all the answers and that achieving goals requires embracing the unknown and the courage to get lost once in a while. While plans and routes are important, adaptability is needed to navigate unexpected events. Dedicating Survival can help lead you to undiscovered paths and solutions. Focus on your goals but remain receptive to what life brings, as it may hold the necessary answers. Arriving (somewhere) or receiving (something) might require you to first surrender to not knowing exactly how you will arrive or how you will receive. You don't need to know how it will happen to receive the benefits it provides.
 
 More: TBA.
 
