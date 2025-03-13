@@ -4352,7 +4352,7 @@ When positive circumstances start trending, you are experiencing a positive swin
 - Plan a more conservative approach to whatever you do during a positive swing.
 - Successes that arise can be definitive beginnings, but perhaps they are not that defined. There is also a tendency to read too much into positive swing. The universe isn't really deciding to choose you as the "chosen one." Everyone experiences a positive swing once in a while. You aren't necessarily destined or fated to win or succeed.
 - You can be less risk-averse during a positive swing.
-- Set aside and preserve any gains or advances acquired through positive swing and avoid over-committing your efforts or overinvesting your time and energy.
+- Set aside and preserve any gains or advances acquired through positive swing and avoid over-committing your efforts or overinvesting your time and energy. Use the resrouces you set aside during a postive swing for when a negative swing takes over.
 - Positive swing can end with little or no advanced warning.
 
 More TBA.
