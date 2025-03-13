@@ -4359,7 +4359,7 @@ Outcomes can be capricious. Growing attached to specific outcomes can end in fru
 
 This is the "yes" and "no" of existence playing out within a d20 die roll. It is a microcosm that shows us a similar universal actor in our daily lives. We don't know why, but sometimes the result of something is NO. Sometimes, the result is YES. The "yes" and "no" are also constantly changing. As a human bound by linear awareness, you typically lack the long-term or consistent non-linear awareness of geologic or cosmic time needed to see why the probability curve bends the way it does. This realization can either be upsetting or comforting. 5eFP encourages you to see this as comforting.
 
-A human flooded with non-linear awareness is sundered by a barrage of perplexing and confusing information that can interfere with and overly complicate your life on Earth. Awareness like this can do little to support a life harmonized within human society and the world's linear existence. An effect may precede its cause in our non-linear existence, but this realization does little to achieve goals, win arguments, and push through adversity and the resistance of others to see the other side of a conflict.
+A flood of non-linear awareness sunders your equilibrium with a barrage of perplexing and confusing information that can interfere with and overly complicate daily life's already complicated and challenging experience. Awareness like this can do little to support a life harmonized within human society and the world's linear existence. An effect may precede its cause in our non-linear existence, but this realization does little to achieve goals, win arguments, and push through adversity and the resistance of others to see the other side of a conflict.
 
 ## Character Creation
 
