@@ -10,7 +10,7 @@ _**Practice.**_ Focus alone isn't enough. Results require real doing through reg
 
 SUPPOSITION
 
-Dedication to the qualities of Insight, Medicine, Perception, Performance, and Survival within 5eFP games bolsters and promotes their growth in your real life.
+Dedication to the qualities of Insight, Medicine, Perception, Performance, and Survival within 5eFP games supports and promotes their growth in your real life.
 
 > "Vision without action is a daydream. Action without vision is a nightmare." — Japanese Proverb
 >
