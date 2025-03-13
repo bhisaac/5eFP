@@ -4350,6 +4350,7 @@ Part of reaching the next level of experience is understanding why a failure occ
 **_Negative Swing_.** When negative circumstances start trending, you are experiencing negative swing or the tendency for results to bottom out, flatten out, and fail instead of building up, coming together, and succeeding. If you learn to identify the signs of negative swing, you can adjust to it and plan your next steps accordingly.
 
 - Plan a more conservative approach to whatever you do during a negative swing.
+- It may be tempting to hold what you're going through with pessimism, resentment, or disappointment. It's natural to be disappointed with outcomes that do not end up matching what we want. Adopting a pessimistic attitude may make the negative swing last longer or cause the negative results to strengthen. The best approach is to remain as neutral as possible. It's OK and natural to be disappointed. Let this disappointment fuel your next efforts and actions after the swing ends.
 - Failures that arise can be definitive endings, but perhaps they are not that defined. There is a tendency to read too much into negative swing. The universe isn't really out to get you; it just feels that way sometimes. You aren't cursed or destined to fail.
 - Strive to see these failures as "not now" or "not like this" experiences and, ultimately, opportunities to educate and inform yourself for when (not if!) you try again.
 
