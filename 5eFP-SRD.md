@@ -4333,9 +4333,9 @@ _This section is devoted to all Focus Practice details, including RL versions an
 
 The probability of rolling any number on a d20 (twenty-sided dice) is 1 in 20 or 5%. The probability of rolling any single number twice in a row on a d20 is 1 in 400 or 0.0025%. If you roll a 1 and then pass your turn or pause between die rolls, your chance of rolling a 1 on your next d20 roll returns to 5%. A d20 result of 20 is an automatic success, while 1 is an automatic failure. There is no free agency associated with automatic success or failure. So, 10% of all d20 die rolls produce results beyond your control. Let's take this to the next level and explore the rule of 20 and 1 in your real life.
 
-## Swing
+## Swing (RNG)
 
-Positive and negative circumstances are in constant flux within games that rely on random results and probability, but changing circumstances also play out in your real life. When cirumstances trend in a paticular direction over time, it's known as swing.
+Positive and negative circumstances are in constant flux within games that rely on random results and probability, but changing circumstances also play out in your real life. It's known as a swing when circumstances trend in a particular direction over time. Gamers also refer to this as RNG or random number generation, one metric gamers use to describe a game with random elements that significantly factor into their success or failure.
 
 ### Rule of 1: HOW DID I FAIL?
 
