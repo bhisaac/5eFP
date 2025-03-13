@@ -4329,6 +4329,38 @@ TBA.
 
 _This section is devoted to all Focus Practice details, including RL versions and RL nuances/symbolism of 5eFP mechanics and rules._
 
+## The Rule of 1 and 20
+
+The probability of rolling any number on a d20 (twenty-sided dice) is 1 in 20 or 5%. The probability of rolling any single number twice in a row on a d20 is 1 in 400 or 0.0025%. If you roll a 1 and then pass your turn, your chance of rolling a 1 on your next d20 roll returns to 5%. A d20 result of 20 is an automatic success, while 1 is an automatic failure. There is no free agency associated with automatic success or failure. So, 10% of all d20 die rolls produce results beyond your control. Let's take this to the next level and explore the rule of 20 and 1 in your real life.
+
+### Rule of 1: HOW DID I FAIL?
+
+_No matter how advantaged or experienced you are, sometimes negative circumstances randomly arise, leading to automatic failure._
+
+Sometimes, you are dealt a poor hand of cards and must strive to make them work together to serve your purposes. Accomplished gamers and those who achieve more of their life's goals push through the experience anyway and learn what they can from the experience they gain. Dwelling on unfavorable circumstances or failures doesn't improve your chance of meeting life goals. Rolling a 1 does not mean your next die roll will also be a 1. There is a near-zero chance that you will roll the same number twice, but the chance is close enough to zero to treat it as such. Less than half of a percent is an outlier. Rolling the dice again will likely produce a _different_ number.
+
+So, roll with the punches. Play that poor hand and draw new cards. Roll the dice again. If fear of rolling an automatic failure is all that slows you down, take comfort in knowing it happens only 5% of the time.
+
+Part of reaching the next level of experience is understanding why a failure occurred, standing up, brushing oneself off, and trying again.
+
+### Rule of 20: HOW DID I WIN?
+
+_No matter how disadvantaged or inexperienced we are, sometimes positive circumstances randomly arise, leading to automatic success._
+
+We were dealt a poor hand of cards to work with, but somehow, the cards worked. We got exactly what we needed when we needed it. This success may be temporary, however. Rolling 20 doesn't guarantee the next roll will also be a 20. You roll a 20 twice in a row less than half of a percent of the time. It's a near-zero occurrence and should not be relied upon in achieving life goals.
+
+Natural 20s occur once in a while automatically. This is why using an energy or skill we aren't proficient with is an acceptable strategy. While our results might be mediocre or average, not all skill tests must be spectacular. Often, we only need basic success to move the story (and our lives) forward.
+
+Learn from automatic successes. If you can identify those factors that are out of your control, you can more easily see those that are. Did controllable circumstances and skill factor into your success? If the answer is yes, you know you are on the right track. If the answer is no, then jumping tracks and increasing or acquiring proficiencies may be necessary to achieve consistent, long-term results.
+
+### FINAL THOUGHTS
+
+Outcomes can be capricious. Growing attached to specific outcomes can end in frustration and result in the negation of your efforts. Some failures lead to pleasing or helpful outcomes, while some successes create undesired results or consequences.
+
+This is the "yes" and "no" of existence playing out within a d20 die roll. It is a microcosm that shows us a similar universal actor in our daily lives. We don't know why, but sometimes the result of something is NO. Sometimes, the result is YES. The "yes" and "no" are also constantly changing. As a human bound by linear awareness, you typically lack the long-term or consistent non-linear awareness of geologic or cosmic time needed to see why the probability curve bends the way it does. This realization can either be upsetting or comforting. 5eFP encourages you to see this as comforting.
+
+A human flooded with non-linear awareness is sundered by a barrage of perplexing and confusing information. Awareness like this can do little to support a life harmonized within human society and the world's linear existence. An effect may precede its cause in our non-linear existence, but this realization does little to achieve goals, win arguments, and push through adversity and the resistance of others to see the other side of a conflict.
+
 ## Character Creation
 
 You created your character since birth, and you continue to create your character when you wake up to each new day. Your character in RL is a part of you and, despite appearances, isn't rigidly defined. Your character is a mutable quality. Are there parts of your character that you need to work on? Are there parts of your character that no longer serve your life? Are there qualities that you long for and wish to include within your life?
