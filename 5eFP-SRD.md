@@ -4333,11 +4333,35 @@ _This section is devoted to all Focus Practice details, including RL versions an
 
 The probability of rolling any number on a d20 (twenty-sided dice) is 1 in 20 or 5%. The probability of rolling any single number twice in a row on a d20 is 1 in 400 or 0.0025%. If you roll a 1 and then pass your turn or pause between die rolls, your chance of rolling a 1 on your next d20 roll returns to 5%. A d20 result of 20 is an automatic success, while 1 is an automatic failure. There is no free agency associated with automatic success or failure. So, 10% of all d20 die rolls produce results beyond your control. Let's take this to the next level and explore the rule of 20 and 1 in your real life.
 
+## Swing
+
+Positive and negative circumstances are in constant flux within games that rely on random results and probability, but changing circumstances also play out in your real life. When cirumstances trend in a paticular direction over time, it's known as swing.
+
+### Negative Swing
+
+When negative circumstances start trending, you are experiencing negative swing or the tendency for results to bottom out, flatten out, and fail instead of building up, coming together, and succeeding. If you learn to identify the signs of negative swing, you can adjust to it and plan your next steps accordingly.
+
+- Plan a more conservative approach to whatever you do during a negative swing.
+- Failures that arise can be definitive endings, but perhaps they are not that defined. There is a tendency to read too much into negative swing. The universe isn't really out to get you; it just feels that way sometimes. You aren't cursed or destined to fail.
+- Strive to see these failures as "not now" or "not like this" experiences and, ultimately, opportunities to educate and inform yourself for when (not if!) you try again.
+
+### Positive Swing
+
+When positive circumstances start trending, you are experiencing a positive swing or the tendency for results to build upward, come together, and succeed instead of bottoming out, flattening out, and failing. If you learn to identify the signs of positive swing, you can adjust to it and plan your next steps accordingly.
+
+- Plan a more conservative approach to whatever you do during a positive swing.
+- Successes that arise can be definitive beginnings, but perhaps they are not that defined. There is also a tendency to read too much into positive swing. The universe isn't really deciding to choose you as the "chosen one." Everyone experiences a positive swing once in a while. You aren't necessarily destined or fated to win or succeed.
+- You can be less risk-averse during a positive swing.
+- Set aside and preserve any gains or advances acquired through positive swing and avoid over-committing your efforts or overinvesting your time and energy.
+- Positive swing can end with little or no advanced warning.
+
+More TBA.
+
 ### Rule of 1: HOW DID I FAIL?
 
 _No matter how advantaged or experienced you are, sometimes negative circumstances randomly arise, leading to automatic failure._
 
-Sometimes, you are dealt a poor hand of cards and must strive to make them work together to serve your purposes. Accomplished gamers and those who achieve more of their life's goals push through the experience anyway and learn what they can from the experience they gain. Dwelling on unfavorable circumstances or failures doesn't improve your chance of meeting life goals. Rolling a 1 does not mean your next die roll will also be a 1. There is a near-zero chance that you will roll the same number twice consecutively. The chance is close enough to zero to treat it as such. Less than half of a percent is an outlier. Rolling the dice again will likely produce a _different_ number.
+Sometimes, you are dealt a poor hand of cards and must strive to make them work together to serve your purposes. Accomplished gamers and those who achieve more of their life's goals push through the experience anyway and learn what they can from the experience they gain. Dwelling on unfavorable circumstances or failures doesn't improve your chance of meeting life goals. Rolling a 1 does not mean your next die roll will also be a 1. There is a near-zero chance that you will consecutively roll the same number twice. The chance is close enough to zero to treat it as such. Less than half of a percent is an outlier. Rolling the dice again will likely produce a _different_ number.
 
 So, roll with the punches. Play that poor hand and draw new cards. Roll the dice again. If fear of rolling an automatic failure is all that slows you down, take comfort in knowing it happens only 5% of the time.
 
