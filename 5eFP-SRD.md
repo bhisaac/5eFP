@@ -4337,26 +4337,6 @@ The probability of rolling any number on a d20 (twenty-sided dice) is 1 in 20 or
 
 Positive and negative circumstances are in constant flux within games that rely on random results and probability, but changing circumstances also play out in your real life. When cirumstances trend in a paticular direction over time, it's known as swing.
 
-### Negative Swing
-
-When negative circumstances start trending, you are experiencing negative swing or the tendency for results to bottom out, flatten out, and fail instead of building up, coming together, and succeeding. If you learn to identify the signs of negative swing, you can adjust to it and plan your next steps accordingly.
-
-- Plan a more conservative approach to whatever you do during a negative swing.
-- Failures that arise can be definitive endings, but perhaps they are not that defined. There is a tendency to read too much into negative swing. The universe isn't really out to get you; it just feels that way sometimes. You aren't cursed or destined to fail.
-- Strive to see these failures as "not now" or "not like this" experiences and, ultimately, opportunities to educate and inform yourself for when (not if!) you try again.
-
-### Positive Swing
-
-When positive circumstances start trending, you are experiencing a positive swing or the tendency for results to build upward, come together, and succeed instead of bottoming out, flattening out, and failing. If you learn to identify the signs of positive swing, you can adjust to it and plan your next steps accordingly.
-
-- Plan a more conservative approach to whatever you do during a positive swing.
-- Successes that arise can be definitive beginnings, but perhaps they are not that defined. There is also a tendency to read too much into positive swing. The universe isn't really deciding to choose you as the "chosen one." Everyone experiences a positive swing once in a while. You aren't necessarily destined or fated to win or succeed.
-- You can be less risk-averse during a positive swing.
-- Set aside and preserve any gains or advances acquired through positive swing and avoid over-committing your efforts or overinvesting your time and energy. Use the resrouces you set aside during a postive swing for when a negative swing takes over.
-- Positive swing can end with little or no advanced warning.
-
-More TBA.
-
 ### Rule of 1: HOW DID I FAIL?
 
 _No matter how advantaged or experienced you are, sometimes negative circumstances randomly arise, leading to automatic failure._
@@ -4367,6 +4347,12 @@ So, roll with the punches. Play that poor hand and draw new cards. Roll the dice
 
 Part of reaching the next level of experience is understanding why a failure occurred, standing up, brushing oneself off, and trying again.
 
+**_Negative Swing_.** When negative circumstances start trending, you are experiencing negative swing or the tendency for results to bottom out, flatten out, and fail instead of building up, coming together, and succeeding. If you learn to identify the signs of negative swing, you can adjust to it and plan your next steps accordingly.
+
+- Plan a more conservative approach to whatever you do during a negative swing.
+- Failures that arise can be definitive endings, but perhaps they are not that defined. There is a tendency to read too much into negative swing. The universe isn't really out to get you; it just feels that way sometimes. You aren't cursed or destined to fail.
+- Strive to see these failures as "not now" or "not like this" experiences and, ultimately, opportunities to educate and inform yourself for when (not if!) you try again.
+
 ### Rule of 20: HOW DID I WIN?
 
 _No matter how disadvantaged or inexperienced we are, sometimes positive circumstances randomly arise, leading to automatic success._
@@ -4376,6 +4362,14 @@ We were dealt a poor hand of cards to work with, but somehow, the cards worked. 
 Natural 20s occur once in a while automatically. This is why using an energy or skill we aren't proficient with is an acceptable strategy. While our results might be mediocre or average, not all skill tests must be spectacular. Often, we only need basic success to move the story (and our lives) forward.
 
 Learn from automatic successes. If you can identify those factors that are out of your control, you can more easily see those that are. Did controllable circumstances and skill factor into your success? If the answer is yes, you know you are on the right track. If the answer is no, then jumping tracks and increasing or acquiring proficiencies may be necessary to achieve consistent, long-term results.
+
+**_Positive Swing_.** When positive circumstances start trending, you are experiencing a positive swing or the tendency for results to build upward, come together, and succeed instead of bottoming out, flattening out, and failing. If you learn to identify the signs of positive swing, you can adjust to it and plan your next steps accordingly.
+
+- Plan a more conservative approach to whatever you do during a positive swing.
+- Successes that arise can be definitive beginnings, but perhaps they are not that defined. There is also a tendency to read too much into positive swing. The universe isn't really deciding to choose you as the "chosen one." Everyone experiences a positive swing once in a while. You aren't necessarily destined or fated to win or succeed.
+- You can be less risk-averse during a positive swing.
+- Set aside and preserve any gains or advances acquired through positive swing and avoid over-committing your efforts or overinvesting your time and energy. Use the resrouces you set aside during a postive swing for when a negative swing takes over.
+- Positive swing can end with little or no advanced warning.
 
 ### FINAL THOUGHTS
 
