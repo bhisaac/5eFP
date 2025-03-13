@@ -4331,7 +4331,7 @@ _This section is devoted to all Focus Practice details, including RL versions an
 
 ## The Rule of 1 and 20
 
-The probability of rolling any number on a d20 (twenty-sided dice) is 1 in 20 or 5%. The probability of rolling any single number twice in a row on a d20 is 1 in 400 or 0.0025%. If you roll a 1 and then pass your turn, your chance of rolling a 1 on your next d20 roll returns to 5%. A d20 result of 20 is an automatic success, while 1 is an automatic failure. There is no free agency associated with automatic success or failure. So, 10% of all d20 die rolls produce results beyond your control. Let's take this to the next level and explore the rule of 20 and 1 in your real life.
+The probability of rolling any number on a d20 (twenty-sided dice) is 1 in 20 or 5%. The probability of rolling any single number twice in a row on a d20 is 1 in 400 or 0.0025%. If you roll a 1 and then pass your turn or pause between die rolls, your chance of rolling a 1 on your next d20 roll returns to 5%. A d20 result of 20 is an automatic success, while 1 is an automatic failure. There is no free agency associated with automatic success or failure. So, 10% of all d20 die rolls produce results beyond your control. Let's take this to the next level and explore the rule of 20 and 1 in your real life.
 
 ### Rule of 1: HOW DID I FAIL?
 
