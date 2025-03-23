@@ -36,7 +36,7 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Conflict_.** The conflict, detailed in your setting handbook, is an event with ongoing effects that changed the game world into an unbalanced and afflicted state (see Setting Handbook). A 5eFP game ends when the conflict is resolved.
 
-**_Creature_.** A creature can be a player character, a non-player character, or a minion, elite, or boss monster encounter.
+**_Creature and Monster_.** A creature can be a player character or a non-player character. A creature can also refer to a monster minion, elite, or boss found within a monster encounter. Monster and creature both carry unfortunate connotations in our modern world. The practice asks players to strive to set these preconceptions and cultural conditioning aside. Creatures and monsters in 5eFP can be good, neutral, or evil. They might have a leaning toward being lawful or chaotic. Neutral (neither good nor evil) is often the most common monster encountered. However, sometimes the name fits. Some creatures are frightening and terrible. Some monsters are, indeed, monsters.
 
 **_Difficulty Class (DC)_.** Difficulty Class or DC represents a task's difficulty. The more difficult a task, the higher its DC.
 
@@ -3959,7 +3959,7 @@ Encounter statistics cannot be reduced below the following values:
 - **MAX Wounds (elite)** 2
 - **MAX Wounds (boss)** 5
 
-### Elite Creature Encounter Templates (in progress ...)
+### Elite Monster Encounter Templates (in progress ...)
 
 Elite creatures within an encounter can be further customized with healer, mage, scoundrel, and warrior templates. Add the template features to the designated creature or creatures in an encounter.
 
@@ -4000,11 +4000,11 @@ A treasure encounter may include
 >>
 > ELITE TREASURE
 >
->> Treasure of type elite rewards ⛁ once discovered. Elite treasures are often protected by an elite trap or one minion creature encounter.
+>> Treasure of type elite rewards ⛁ once discovered. Elite treasures are often protected by an elite trap or one minion monster encounter.
 >>
 > BOSS TREASURE
 >
->> Boss treasures award the greatest amount of coin, but are the most difficult to finish. These encounters are awarded ⛁ upon discovery but potentially contain more bonus coins. It is difficult, if not impossible, to unlock all boss treasure bonus coins. Boss treasure encounters require (MAX Wounds) successful WIS checks to find ⛁, and may include a boss trap or a boss creature encounter before resolving.
+>> Boss treasures award the greatest amount of coin, but are the most difficult to finish. These encounters are awarded ⛁ upon discovery but potentially contain more bonus coins. It is difficult, if not impossible, to unlock all boss treasure bonus coins. Boss treasure encounters require (MAX Wounds) successful WIS checks to find ⛁, and may include a boss trap or a boss monster encounter before resolving.
 
 ## Monster
 
@@ -4281,7 +4281,7 @@ Danger rooms are always obscured by a reinforced and locked door or an opaque ph
 
 > ### Danger Room Treasures
 > 
->> Danger rooms are unique game zones that contain a very powerful boss (super boss) creature encounter, requiring optimization with the ideal gear, features, group roles, and abilities you can muster into a five-player party. You discover treasure from three potential treasure types once you clear a danger room.
+>> Danger rooms are unique game zones that contain a very powerful boss (super boss) monster encounter, requiring optimization with the ideal gear, features, group roles, and abilities you can muster into a five-player party. You discover treasure from three potential treasure types once you clear a danger room.
 >>
 >> **Class.** Treasure your class considers essential. For example, barbarians might discover handaxes, javelins, a battle axe, a shield, light armor, or medium armor
 >>
