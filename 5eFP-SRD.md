@@ -324,11 +324,9 @@ You know three cleric cantrips of your choice.
 
 #### Preparing and Casting Spells
 
-You begin the game with two 1st level spell slots. To cast one of your spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest. For example, if you know the 1st-level spell *cure wounds* and have a 1st-level and a 2nd-level spell slot available, you can cast cure wounds using either slot. Casting the spell doesn’t remove it from your list of prepared spells.
+You begin the game with 2 mana and knowing 2 1st-level spells. To cast one of your spells, you must spend an amount of mana equal to the spell’s level or higher. You regain all spent mana at the beginning of a game session.
 
-You prepare the list of cleric spells that are available for you to cast, choosing from the cleric spell list. When you do so, choose a number of cleric spells equal to WIS + LEVEL (minimum of one spell). The spells must be of a level for which you have spell slots.
-
-You can change your list of prepared spells at headquarters (HQ). While away from HQ, you can prepare a new list of cleric spells by completing a short rest in prayer or meditation.
+For example, if you know the 1st-level spell _cure wounds_ and have 2 mana, you can either cast _cure wounds_ as a 1st-level spell or spend an additional +1 mana to cast it as a 2nd-level spell. Casting the spell doesn’t remove it from your list of prepared spells.
 
 #### Spellcasting Ability
 
@@ -515,15 +513,15 @@ You know four sorcerer cantrips of your choice.
 
 #### Spell Slots
 
-You begin the game with two 1st level spell slots. To cast one of your spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots at the end of the game session.
+You begin the game with 2 mana and knowing 2 1st-level spells. To cast one of your spells, you must spend an amount of mana equal to the spell’s level or higher. You regain all spent mana at the beginning of a game session.
 
-For example, if you know the 1st-level spell _burning hands_ and have a 1st-level and a 2nd-level spell slot available, you can cast _burning hands_ using either slot.
+For example, if you know the 1st-level spell _burning hands_ and have 2 mana, you can either cast _burning hands_ as a 1st-level spell or spend an additional +1 mana to cast it as a 2nd-level spell.
 
 #### Spells Known
 
 You know two 1st-level spells of your choice from the sorcerer spell list.
 
-Whenever you successfully upgrade a Magic feature (i.e., "Magic I", "Magic II", "Magic III", etc.), you can choose one of the sorcerer spells you know and replace it with another spell from the sorcerer spell list, which also must be of a level for which you have spell slots.
+Whenever you purchase a Magic upgrade, you can choose one of the sorcerer spells you know and replace it with another spell from the sorcerer spell list, which also must be of a level for which you can cast.
 
 #### Spellcasting Ability
 
