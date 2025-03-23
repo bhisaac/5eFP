@@ -1111,7 +1111,7 @@ TBA
 |||||
 |-:|:-|:-|:-|
 |**Cost**|**Feature**|**Prerequisites**|**Details**|
-|3⛁|Magic|Spellcasting feature|You gain +1 Mana and add +1 known spell from your class spell list. The added spell's level cannot exceed LEVEL.|
+|3⛁|Magic|Spellcasting feature|You gain +3 Mana and add +1 known spell from your class spell list. The added spell's level cannot exceed LEVEL.|
 |||||
 |4⛁|Touch of Magic|-|...|
 
@@ -3164,15 +3164,13 @@ Spellcasters gain access to paragon spells at level 5 and epic spells at level 6
 
 ### Known and Prepared Spells
 
-Spellcasters must have the spell firmly fixed in mind before they can use it, or they must have access to the spell with a magic item. Spellcasters have a limited list of spells they know that are always fixed in mind. The same thing is true of many magic-­using monsters. Other spellcasters, such as clerics and wizards, undergo a process of preparing spells. This process varies for different classes, as detailed in their descriptions.
+Spellcasters must have the spell firmly fixed in mind before they can use it, or they must have access to the spell with a magic item. Spellcasters have a limited list of spells they know that are always fixed in mind. The same thing is true of many magic-­using monsters. Wizards are an exception and may learn any number of spells, provided the spell level does not exceed LEVEL, choosing which spells are fixed in mind at the beginning of each game session.
 
-> Choosing prepared spells can be time-consuming. To expedite gameplay, 5eFP spellcasters who prepare a spell list (clerics, druids, wizards) may prepare up to three different lists of prepared spells. It can help to have a damage, healing, and defender or support list. They then choose which spell list to use for the game session before deploying from HQ. If you have a class feature that allows you to swap prepared spells, you swap spells from one list to another until the end of the game session.
-
-In every case, the number of spells a caster can have fixed in mind at any given time depends on how many Magic or Spells upgrades a character unlocks with Coin.
+In every case, the number of spells a caster can have fixed in mind at any given time equals LEVEL. Add + 1 for each Magic upgrade.
 
 ### Mana
 
-Regardless of how many spells casters know or prepare, they can cast only a limited number of spells before resting. Manipulating the fabric of magic and channeling its energy into even a simple spell requires spending mana. Casting spells is also physically and mentally taxing, and higher-level spells are even more so.
+Regardless of how many spells casters know or prepare, they can cast only a limited number of spells before resting. Manipulating the fabric of magic and channeling its energy into even a simple spell requires spending magic energy known as mana. Casting spells is also physically and mentally taxing, and higher-level spells are even more so.
 
 When characters cast a spell, they expend an amount of mana equal to that spell’s level. Alternatively, if a spell description allows it, they can spend additional mana to augment the spell's effects, provided the total mana spent does not exceed LEVEL.
 
