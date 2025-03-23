@@ -2686,15 +2686,9 @@ Swimming across a rushing river, sneaking down a dungeon corridor, scaling a tre
 
 Once a destination square is chosen on the world map and the deployment action is taken, PCs deploy instantaneously.
 
-~~Once a destination is revealed and set on the world map, PCs may choose and deploy to it instantly without random encounters.~~
-
-> ~~For Game Masters: Why is deployment Randomized?~~
+> For Game Masters: Why is deployment Randomized?
 >> 
->> ~~Come up with a reason that fits the story. For example, in Enchanted Forest, PCs use mystic skipping stones to fast travel to unexplored world map tiles. The stones are imprecise in where they land. This is a good reason why it is randomized. Others include getting lost, uncertainty, strong currents, resistance, or interference.~~
->>
-> ~~Variant Rules: Add Random Encounters~~
->>
->> ~~GMs can add random encounters to a game by assigning up to five random encounters as footholds in an unexplored world map tile. When PCs encounter a foothold, they draw and resolve a creature encounter instead of drawing a story card until all random encounters are completed.~~
+>> Come up with a reason that fits the story. For example, in Enchanted Forest, PCs use mystic skipping stones to fast travel to unexplored world map tiles. The stones are imprecise in where they land. This is a good reason why it is randomized. Others include getting lost, uncertainty, strong currents, resistance, or interference.
 
 ### Speed
 
