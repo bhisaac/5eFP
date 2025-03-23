@@ -322,11 +322,17 @@ As a conduit for divine power, you can cast cleric spells.
 
 You know three cleric cantrips of your choice.
 
-#### Preparing and Casting Spells
+#### Mana
 
-You begin the game with 2 mana and knowing 2 1st-level spells. To cast one of your spells, you must spend an amount of mana equal to the spell’s level or higher. You regain all spent mana at the beginning of a game session.
+You begin the game with 2 mana. To cast one of your spells, you must spend an amount of mana equal to the spell’s level or higher. You regain all spent mana at the beginning of a game session.
 
 For example, if you know the 1st-level spell _cure wounds_ and have 2 mana, you can either cast _cure wounds_ as a 1st-level spell or spend an additional +1 mana to cast it as a 2nd-level spell. Casting the spell doesn’t remove it from your list of prepared spells.
+
+#### Spells Known
+
+You know WIS 1st-level spells from the cleric spell list.
+
+Whenever you purchase a Magic upgrade, you can choose one of the cleric spells you know and replace it with another spell from the cleric spell list that you can cast.
 
 #### Spellcasting Ability
 
@@ -511,17 +517,17 @@ An event in your past, or in the life of a parent or ancestor, left an indelible
 
 You know four sorcerer cantrips of your choice.
 
-#### Spell Slots
+#### Mana
 
-You begin the game with 2 mana and knowing 2 1st-level spells. To cast one of your spells, you must spend an amount of mana equal to the spell’s level or higher. You regain all spent mana at the beginning of a game session.
+You begin the game with 2 mana. To cast one of your spells, you must spend an amount of mana equal to the spell’s level or higher. You regain all spent mana at the beginning of a game session.
 
 For example, if you know the 1st-level spell _burning hands_ and have 2 mana, you can either cast _burning hands_ as a 1st-level spell or spend an additional +1 mana to cast it as a 2nd-level spell.
 
 #### Spells Known
 
-You know two 1st-level spells of your choice from the sorcerer spell list.
+You know CHA 1st-level spells from the sorcerer spell list.
 
-Whenever you purchase a Magic upgrade, you can choose one of the sorcerer spells you know and replace it with another spell from the sorcerer spell list, which also must be of a level for which you can cast.
+Whenever you purchase a Magic upgrade, you can choose one of the sorcerer spells you know and replace it with another spell from the sorcerer spell list that you can cast.
 
 #### Spellcasting Ability
 
