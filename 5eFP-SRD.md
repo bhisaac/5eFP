@@ -8,7 +8,7 @@ _**Focus.**_ Learning and gaining proficiency requires focus, time, and attentio
 
 _**Practice.**_ Focus alone isn't enough. Results require real doing through regular and consistent gameplay. We transform TRPGs into mindful practices. Practices are activities we return to because they feed us in some way. Successful practices provide a nutrient missing in other activities. Our practice is regularly playing 5eFP games from beginning to end, fully conscious and aware at least once per month.
 
-## POSIT
+POSIT
 
 Dedication to the qualities of Insight, Medicine, Perception, Performance, and Survival within 5eFP games supports and promotes their growth in your real life.
 
