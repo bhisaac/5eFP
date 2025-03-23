@@ -36,6 +36,8 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Conflict_.** The conflict, detailed in your setting handbook, is an event with ongoing effects that changed the game world into an unbalanced and afflicted state (see Setting Handbook). A 5eFP game ends when the conflict is resolved.
 
+**_Creature_.** A creature can be a player character, a non-player character, or a minion, elite, or boss monster encounter.
+
 **_Difficulty Class (DC)_.** Difficulty Class or DC represents a task's difficulty. The more difficult a task, the higher its DC.
 
 **_Deploy_.** After choosing an unexplored world map tile, the PCs deploy onto its exploration map by placing the group token in a random location. The obscuring map tile under the group token is revealed. Explored world map tiles sometimes provide additional locations for placing your character during a downtime round. These bonus areas are placed along the sides of the world map. PCs may deploy onto these special areas before resolving a downtime round.
@@ -338,7 +340,7 @@ Whenever you purchase a Magic upgrade, you can choose one of the cleric spells y
 
 #### Spellcasting Ability
 
-Wisdom (WIS) is your spellcasting ability for your cleric spells. The power of your spells comes from your devotion to your deity, a dedication, such as those listed in the dedication rules, or an elemental quality. You use your WIS whenever a cleric spell refers to your spellcasting ability. In addition, you use WIS when setting the DC for a cleric spell you cast and when making an attack roll with one.
+Wisdom (WIS) is your spellcasting ability for your cleric spells. The power of your spells comes from your devotion to your deity, a dedication, such as those listed in the dedication rules, or one elemental quality from earth, water, fire, air, and aether. You use your WIS whenever a cleric spell refers to your spellcasting ability. In addition, you use WIS when setting the DC for a cleric spell you cast and when making an attack roll with one.
 
 **Spell DC** = 10 + WIS
 
@@ -346,7 +348,7 @@ Wisdom (WIS) is your spellcasting ability for your cleric spells. The power of y
 
 #### Ritual Casting
 
-You can cast a cleric spell as a ritual if that spell has the ritual tag and you have the spell prepared.
+You can cast a cleric spell as a ritual if that spell has the ritual tag.
 
 #### Divine Domain
 
@@ -354,7 +356,7 @@ Choose one domain related to your deity, such as Medicine. Each domain is detail
 
 #### Domain Spells
 
-Each domain has a list of domain spells. You always have domain spells prepared and they don't count against the number of spells you can prepare while at HQ or during a short rest.
+Each domain has a list of domain spells. You always have domain spells prepared, which don't count against the number of spells you know.
 
 If you gain a domain spell that isn't a cleric spell, the spell is nonetheless a cleric spell for you.
 
@@ -379,7 +381,7 @@ Your healing spells are more effective. Whenever you use a spell of 1st level or
 
 #### Class Features
 
-As	a	paladin,	you	gain	the	following	class	features.
+As a paladin, you gain the following class features.
 
 #### Health
 
