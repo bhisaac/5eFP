@@ -36,6 +36,8 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Conflict_.** The conflict, detailed in your setting handbook, is an event with ongoing effects that changed the game world into an unbalanced and afflicted state (see Setting Handbook). A 5eFP game ends when the conflict is resolved.
 
+**_Difficulty Class (DC)_.** Difficulty Class or DC represents a task's difficulty. The more difficult a task, the higher its DC.
+
 **_Deploy_.** After choosing an unexplored world map tile, the PCs deploy onto its exploration map by placing the group token in a random location. The obscuring map tile under the group token is revealed. Explored world map tiles sometimes provide additional locations for placing your character during a downtime round. These bonus areas are placed along the sides of the world map. PCs may deploy onto these special areas before resolving a downtime round.
 
 **_Discover._** If a game feature instructs you to discover something, you determine three results, choose one, and discard the rest.
@@ -462,13 +464,17 @@ Drawing on the divine essence of nature itself, you can cast spells to shape tha
 
 You know two druid cantrips of your choice.
 
-#### Preparing and Casting Spells
+#### Mana
 
-You begin the game with two 1st level spell slots. To cast one of your spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest. For example, if you know the 1st-level spell *cure wounds* and have a 1st-level and a 2nd-level spell slot available, you can cast cure wounds using either slot. Casting the spell doesn’t remove it from your list of prepared spells.
+You begin the game with 2 mana. To cast one of your spells, you must spend an amount of mana equal to the spell’s level or higher. You regain all spent mana at the beginning of a game session.
 
-You prepare the list of druid spells that are available for you to cast, choosing from the druid spell list. When you do so, choose a number of druid spells equal to WIS + LEVEL (minimum of one spell). The spells must be of a level for which you have spell slots.
+For example, if you know the 1st-level spell _cure wounds_ and have 2 mana, you can either cast _cure wounds_ as a 1st-level spell or spend an additional +1 mana to cast it as a 2nd-level spell.
 
-You can change your list of prepared spells at HQ.
+#### Spells Known
+
+You know WIS 1st-level spells from the druid spell list.
+
+Whenever you purchase a Magic upgrade, you can choose one of the druid spells you know and replace it with another spell from the druid spell list that you can cast.
 
 #### Spellcasting Ability
 
