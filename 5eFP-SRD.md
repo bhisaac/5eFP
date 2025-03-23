@@ -1057,15 +1057,13 @@ Certain monasteries use specialized forms of monk weapons. For example, you migh
 
 As you go on adventures and overcome challenges, you gain experience, represented by ⛁. When all world map tiles in the current level of play are explored, the next level of play on the world map unlocks, and you advance to the next level. This is called gaining a level.
 
-While at HQ, you can spend ⛁ to purchase background, species, or class upgrades for your character. The upgrade descriptions below detail these additional game features.
+While at HQ, you can spend ⛁ to purchase background, species, class, or other upgrades for your character. The upgrade descriptions below detail these additional game features.
 
 Whenever your level increases, you also increase your MAX wounds by +1.
 
 Whenever your CON changes, recalculate your MAX wounds with the new CON score.
 
-## Level 1 Upgrades
-
-### Inspiration Upgrades
+# Inspiration Upgrades
 
 The following upgrades provide an additional way to gain inspiration once per game session.
 
@@ -1076,47 +1074,9 @@ The following upgrades provide an additional way to gain inspiration once per ga
 |3⛁|Inspired Failure|You gain inspiration after resolving a critical failure|
 |3⛁|Inspired Support|If a game feature or effect helps you succeed when you would have otherwise failed, you gain inspiration at the end of your turn|
 
+# Healer Upgrades
+
 ## Class Upgrades
-
-### Barbarian Upgrades
-
-||||
-|-:|:-|:-|
-|**Cost**|**Feature**|**Details**|
-|2⛁|Reckless Attack|...|
-|2⛁|Danger Sense|You gain advantage to DEX checks vs. effects you can see|
-|2⛁|Primal Path|Path of the Berserker|
-|3⛁|Rage I|+1 rage/day|
-
-**_Recless Attack_.** You can throw aside all concern for defense to attack with fierce determination. When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you advantage on weapon attack rolls using STR during this turn, but attack rolls against you have advantage until your next turn.
-
-**_Path of the Berserker_.** For some barbarians, rage is a means to an end. The Path of the Berserker is a path of unleashed fury. You can go into a frenzy when you rage. If you do so, for the duration of your rage, you can make a single melee weapon attack after you take the Attack action. When your rage ends, you suffer one level of exhaustion (as described in Appendix PH-­A).
-
-### Bard Upgrades
-
-||||
-|-:|:-|:-|
-|**Cost**|**Feature**|**Details**|
-|2⛁|Jack of All Trades|Add +1 to nonproficient abilities|
-|2⛁|Song of Rest|You and your allies receive 1 point of healing at the end of a short rest|
-|2⛁|Spells I|(+1) known spell, (+1) 1st-level spell slot|
-|3⛁|Bard College|College of Lore|
-|3⛁|Expertise|...|
-|3⛁|Spells II|(+1) known spell, (+1) 1st-level spell slot, (+2) 2nd-level spell slots|
-
-> #### College of Lore
->> Bards of the College of Lore know something about most things, collecting bits of knowledge from sources as diverse as scholarly tomes and peasant tales. Whether singing folk ballads in taverns or elaborate compositions in royal courts, these bards use their gifts to hold audiences spellbound. When the applause dies down, the audience members might find themselves questioning everything they held to be true, from their faith in the priesthood of the local temple to their loyalty to the king.
->> 
->> The loyalty of these bards lies in the pursuit of beauty and truth, not in fealty to a monarch or following the tenets of a deity. A noble who keeps such a bard as a herald or advisor knows that the bard would rather be honest than politic.
->> 
->> The college’s members gather in libraries and sometimes in actual colleges, complete with classrooms and dormitories, to share their lore with one another. They also meet at festivals or affairs of state, where they can expose corruption, unravel lies, and poke fun at self-­important figures of authority.
->> 
->> **_Bonus Proficiencies._** You gain proficiency with one ability of your choice.
->> 
->> **_Cutting Words._** You learn how to use your wit to distract, confuse, and otherwise sap the confidence and competence of others. When a creature that you can see within 12 squares of you makes an attack roll, an ability check, or a damage roll, you can use your reaction to expend one of your uses of bardic action dice, rolling three action dice and subtracting the number rolled from the creature’s roll. You can choose to use this feature after the creature makes its roll, but before the GM determines whether the attack roll or ability check succeeds or fails, or before the creature deals its damage. The creature is immune if it can’t hear you or if it’s immune to being charmed.
->
-> #### Expertise
->> Gain proficiency with a nonproficient ability of your choice. Then choose two of your ability proficiencies or one of your ability proficiencies and your proficiency with a tool. As long as the chosen proficiencies or tools do not already have expertise, you gain expertise in the chosen abilities or tools. Expertise allows you to add your level to a check twice instead of once.
 
 ### Cleric
 
@@ -1141,6 +1101,25 @@ Some Channel Divinity effects require ability checks. When you use such an effec
 >> MEDICINE
 >> 
 >> **_Preserve Life. (action)_** You present your holy symbol and evoke healing energy that can provide up to 5 points of healing. Choose any creatures within 6 squares of you, and divide the healing among them. You can’t use this feature on an undead or a construct.
+
+### Paladin
+
+TBA
+
+# Mage Upgrades
+
+||||
+|-:|:-|:-|
+|**Cost**|**Feature**|**Prerequisites**|**Details**|
+|3⛁|Magic|Spellcasting feature|You gain +1 Mana and add +1 known spell from your class spell list. The added spell's level cannot exceed LEVEL.|
+||||
+|4⛁|Touch of Magic|-|...|
+
+**_Touch of Magic_.** Choose a mage class. You gain the ability to cast two cantrips from the chosen class. Additionally, choose a 1st level spell from your chosen class spell list. You gain the ability to cast the chosen spell once per game session without spending mana. If the chosen 1st-level spell appears on your 1st-level class spell list, you also add the spell as a known spell.
+
+Your spellcasting ability score for the chosen spells depends on the chosen class. INT for wizards, WIS for clerics and druids, and CHA for sorcerers and warlocks.
+
+## Class Upgrades
 
 ### Druid Upgrades
 
@@ -1215,6 +1194,114 @@ Some Channel Divinity effects require ability checks. When you use such an effec
 >>> - **_Solar Attunement._** Whenever you cast a spell that has a visible effect such as _entangle_, you discard lunar attunement and gain solar attunement. If you already have solar attunement, discard it and activate _starfall_.
 >>> - **_Starfall._** A shooting star of radiance forms above your head and strikes a creature within 12 squares of you. If the creature is friendly, it receives 1 point of healing and may make an ability check to resist one ongoing negative effect. If the creature is not a friendly target, it must succeed on a DEX check using your spell DC or take 1 point of radiant damage. You then gain _lunar attunement_ or _solar attunement_.
 
+### Sorcerer Upgrades
+
+||||
+|-:|:-|:-|
+|**Cost**|**Feature**|**Details**|
+|2⛁|Font of Magic|...|
+|3⛁|Metamagic|...|
+
+> #### Font of Magic
+>> You tap into a deep wellspring of magic within yourself. This wellspring is represented by sorcery points, which allow you to create a variety of magical effects.
+>>
+>>> **Sorcery Points.** You have 2 sorcery points. At the beginning of a game session, you regain all spent sorcery points.
+>>>
+>>> **Flexible Casting.** You can use your sorcery points to gain additional sorcerer spell slots, or sacrifice sorcerer spell slots to gain additional sorcery points.
+>>>> **_Creating Spell Slots and Converting Spell Slots to Sorcery Points._** Once per turn, you can either transform 2 unexpended sorcery points into one 1st-level sorcerer spell or expend one 1st-level sorcerer spell slot and gain 1 sorcery point.
+>>>>
+>>>> Any spell slot you create with this feature vanishes at the end of the game session.
+
+> #### Metamagic
+>> You gain the ability to twist your spells to suit your needs. You gain two of the following Metamagic options of your choice.
+>>
+>> You can use only one Metamagic option on a spell when you cast it, unless otherwise noted.
+>>
+>> **_Careful Spell._** When you cast a spell that forces other creatures to make an ability check, you can protect some of those creatures from the spell’s full force. To do so, you spend 1 sorcery point and choose a number of those creatures up to your CHA (minimum of one creature). A chosen creature automatically succeeds on its ability check against the spell.
+>>
+>> **_Distant Spell._** When you cast a spell that has a range of 1 square or greater, you can spend 1 sorcery point to double the range of the spell.
+>> When you cast a spell that has a range of touch, you can spend 1 sorcery point to make the range of the spell 6 squares.
+>>
+>> **_Empowered Spell._** When a spell deals damage, you can spend 2 sorcery points to increase the spell damage by +1.
+>>
+>> You can use Empowered Spell even if you have already used a different Metamagic option during the casting of the spell.
+>>
+>> **_Extended Spell._** When you cast a spell that has a duration of encounter, you can spend 1 sorcery point to extend its duration to the current game session.
+>>
+>> **_Heightened Spell._** When you cast a spell that forces a creature to make an ability check to resist its effects, you can spend 3 sorcery points to give one target of the spell disadvantage on its first ability check made against the spell.
+>>
+>> **_Quickened Spell._** Once per turn, when you take the Cast a Spell action with a spell with a casting time of 1 action, you can spend 2 sorcery points instead of discarding your action. If you use the Cast a Spell action again during the same turn, the spell must be a cantrip.
+>>
+>> **_Subtle Spell._** When you cast a spell, you can spend 1 sorcery point to cast it without any somatic or verbal components.
+>>
+>> **_Twinned Spell._** When you cast a spell that targets only one creature and doesn’t have a range of self, you can spend a number of sorcery points equal to the spell’s level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip).
+>>
+>> To be eligible, a spell must be incapable of targeting more than one creature at the spell’s current level. For example, _magic missile_ and _scorching ray_ aren’t eligible, but _ray of frost_ is.
+
+### Warlock Upgrades
+
+TBA
+
+### Wizard Upgrades
+
+TBA
+
+# Scoundrel Upgrades
+
+## Class Upgrades
+
+### Bard Upgrades
+
+||||
+|-:|:-|:-|
+|**Cost**|**Feature**|**Details**|
+|2⛁|Jack of All Trades|Add +1 to nonproficient abilities|
+|2⛁|Song of Rest|You and your allies receive 1 point of healing at the end of a short rest|
+|2⛁|Spells I|(+1) known spell, (+1) 1st-level spell slot|
+|3⛁|Bard College|College of Lore|
+|3⛁|Expertise|...|
+|3⛁|Spells II|(+1) known spell, (+1) 1st-level spell slot, (+2) 2nd-level spell slots|
+
+> #### College of Lore
+>> Bards of the College of Lore know something about most things, collecting bits of knowledge from sources as diverse as scholarly tomes and peasant tales. Whether singing folk ballads in taverns or elaborate compositions in royal courts, these bards use their gifts to hold audiences spellbound. When the applause dies down, the audience members might find themselves questioning everything they held to be true, from their faith in the priesthood of the local temple to their loyalty to the king.
+>> 
+>> The loyalty of these bards lies in the pursuit of beauty and truth, not in fealty to a monarch or following the tenets of a deity. A noble who keeps such a bard as a herald or advisor knows that the bard would rather be honest than politic.
+>> 
+>> The college’s members gather in libraries and sometimes in actual colleges, complete with classrooms and dormitories, to share their lore with one another. They also meet at festivals or affairs of state, where they can expose corruption, unravel lies, and poke fun at self-­important figures of authority.
+>> 
+>> **_Bonus Proficiencies._** You gain proficiency with one ability of your choice.
+>> 
+>> **_Cutting Words._** You learn how to use your wit to distract, confuse, and otherwise sap the confidence and competence of others. When a creature that you can see within 12 squares of you makes an attack roll, an ability check, or a damage roll, you can use your reaction to expend one of your uses of bardic action dice, rolling three action dice and subtracting the number rolled from the creature’s roll. You can choose to use this feature after the creature makes its roll, but before the GM determines whether the attack roll or ability check succeeds or fails, or before the creature deals its damage. The creature is immune if it can’t hear you or if it’s immune to being charmed.
+>
+> #### Expertise
+>> Gain proficiency with a nonproficient ability of your choice. Then choose two of your ability proficiencies or one of your ability proficiencies and your proficiency with a tool. As long as the chosen proficiencies or tools do not already have expertise, you gain expertise in the chosen abilities or tools. Expertise allows you to add your level to a check twice instead of once.
+
+### Rogue Upgrades
+
+TBA
+
+### Ranger Upgrades
+
+TBA
+
+# Warrior Upgrades
+
+## Class Upgrades
+
+### Barbarian Upgrades
+
+||||
+|-:|:-|:-|
+|**Cost**|**Feature**|**Details**|
+|2⛁|Reckless Attack|...|
+|2⛁|Danger Sense|You gain advantage to DEX checks vs. effects you can see|
+|2⛁|Primal Path|Path of the Berserker|
+|3⛁|Rage I|+1 rage/day|
+
+**_Recless Attack_.** You can throw aside all concern for defense to attack with fierce determination. When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you advantage on weapon attack rolls using STR during this turn, but attack rolls against you have advantage until your next turn.
+
+**_Path of the Berserker_.** For some barbarians, rage is a means to an end. The Path of the Berserker is a path of unleashed fury. You can go into a frenzy when you rage. If you do so, for the duration of your rage, you can make a single melee weapon attack after you take the Attack action. When your rage ends, you suffer one level of exhaustion (as described in Appendix PH-­A).
+
 ### Fighter Upgrades
 
 ||||
@@ -1279,51 +1366,8 @@ Some Channel Divinity effects require ability checks. When you use such an effec
 >>
 >> If you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in one hand and you have at least one hand free. If you catch a missile in this way, you can spend 1 ki point to make a ranged attack with the weapon or piece of ammunition you just caught, as part of the same reaction. You make this attack with proficiency, regardless of your weapon proficiencies, and the missile counts as a monk weapon for the attack, which has a normal range of 4 squares and a long range of 12 squares.
 
-### Sorcerer Upgrades
-
-||||
-|-:|:-|:-|
-|**Cost**|**Feature**|**Details**|
-|2⛁|Font of Magic|...|
-|3⛁|Metamagic|...|
-
-> #### Font of Magic
->> You tap into a deep wellspring of magic within yourself. This wellspring is represented by sorcery points, which allow you to create a variety of magical effects.
->>
->>> **Sorcery Points.** You have 2 sorcery points. At the beginning of a game session, you regain all spent sorcery points.
->>>
->>> **Flexible Casting.** You can use your sorcery points to gain additional sorcerer spell slots, or sacrifice sorcerer spell slots to gain additional sorcery points.
->>>> **_Creating Spell Slots and Converting Spell Slots to Sorcery Points._** Once per turn, you can either transform 2 unexpended sorcery points into one 1st-level sorcerer spell or expend one 1st-level sorcerer spell slot and gain 1 sorcery point.
->>>>
->>>> Any spell slot you create with this feature vanishes at the end of the game session.
-
-> #### Metamagic
->> You gain the ability to twist your spells to suit your needs. You gain two of the following Metamagic options of your choice.
->>
->> You can use only one Metamagic option on a spell when you cast it, unless otherwise noted.
->>
->> **_Careful Spell._** When you cast a spell that forces other creatures to make an ability check, you can protect some of those creatures from the spell’s full force. To do so, you spend 1 sorcery point and choose a number of those creatures up to your CHA (minimum of one creature). A chosen creature automatically succeeds on its ability check against the spell.
->>
->> **_Distant Spell._** When you cast a spell that has a range of 1 square or greater, you can spend 1 sorcery point to double the range of the spell.
->> When you cast a spell that has a range of touch, you can spend 1 sorcery point to make the range of the spell 6 squares.
->>
->> **_Empowered Spell._** When a spell deals damage, you can spend 2 sorcery points to increase the spell damage by +1.
->>
->> You can use Empowered Spell even if you have already used a different Metamagic option during the casting of the spell.
->>
->> **_Extended Spell._** When you cast a spell that has a duration of encounter, you can spend 1 sorcery point to extend its duration to the current game session.
->>
->> **_Heightened Spell._** When you cast a spell that forces a creature to make an ability check to resist its effects, you can spend 3 sorcery points to give one target of the spell disadvantage on its first ability check made against the spell.
->>
->> **_Quickened Spell._** Once per turn, when you take the Cast a Spell action with a spell with a casting time of 1 action, you can spend 2 sorcery points instead of discarding your action. If you use the Cast a Spell action again during the same turn, the spell must be a cantrip.
->>
->> **_Subtle Spell._** When you cast a spell, you can spend 1 sorcery point to cast it without any somatic or verbal components.
->>
->> **_Twinned Spell._** When you cast a spell that targets only one creature and doesn’t have a range of self, you can spend a number of sorcery points equal to the spell’s level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip).
->>
->> To be eligible, a spell must be incapable of targeting more than one creature at the spell’s current level. For example, _magic missile_ and _scorching ray_ aren’t eligible, but _ray of frost_ is.
-
 ## Alignment
+
 A typical creature in the game world has an alignment, which broadly describes its moral and personal attitudes. Alignment is a combination of two factors: one identifies morality (good, evil, or neutral), and the other describes attitudes toward society and order (lawful, chaotic, or neutral). Thus, nine distinct alignments define the possible combinations.
 
 These brief summaries of the nine alignments describe the typical behavior of a creature with that alignment. Player characters must select a non-evil alignment at character creation. Individuals might vary significantly from that typical behavior, and few people are perfectly and consistently faithful to the precepts of their alignment.
@@ -3100,7 +3144,7 @@ This section provides the rules for casting spells. Different character classes 
 >
 > You can use these same spellcasting rules, replacing terms and common usage. For example, preternatural effects may require the use of an implement such as an 8-inch to 1-foot-long thin piece of synthetic, wood, metal, or composite material infused with energy instead of a free hand, which effectively still requires a free hand to grasp the implement.
 >
-> You can replace or "reskin" how magic works in your game, but you must still keep these spellcasting rules and limitations. 
+> You can replace or "reskin" how magic works in your game, but you must still use these spellcasting rules and limitations. 
 
 ## What Is a Spell?
 
@@ -3120,25 +3164,25 @@ Spellcasters gain access to paragon spells at level 5 and epic spells at level 6
 
 ### Known and Prepared Spells
 
-Spellcasters must have the spell firmly fixed in mind before they can use it, or they must have access to the spell with a magic item. Spellcasters ~~Members of a few classes, including bards and sorcerers,~~ have a limited list of spells they know that are always fixed in mind. The same thing is true of many magic-­using monsters. Other spellcasters, such as clerics and wizards, undergo a process of preparing spells. This process varies for different classes, as detailed in their descriptions.
+Spellcasters must have the spell firmly fixed in mind before they can use it, or they must have access to the spell with a magic item. Spellcasters have a limited list of spells they know that are always fixed in mind. The same thing is true of many magic-­using monsters. Other spellcasters, such as clerics and wizards, undergo a process of preparing spells. This process varies for different classes, as detailed in their descriptions.
 
 > Choosing prepared spells can be time-consuming. To expedite gameplay, 5eFP spellcasters who prepare a spell list (clerics, druids, wizards) may prepare up to three different lists of prepared spells. It can help to have a damage, healing, and defender or support list. They then choose which spell list to use for the game session before deploying from HQ. If you have a class feature that allows you to swap prepared spells, you swap spells from one list to another until the end of the game session.
 
-In every case, the number of spells a caster can have fixed in mind at any given time depends on how many Magic feature upgrades a character unlocks with ⛁.
+In every case, the number of spells a caster can have fixed in mind at any given time depends on how many Magic or Spells upgrades a character unlocks with Coin.
 
-### Spell Slots
+### Mana
 
-Regardless of how many spells casters know or prepare, they can cast only a limited number of spells before resting. Manipulating the fabric of magic and channeling its energy into even a simple spell is physically and mentally taxing, and higher-level spells are even more so.
+Regardless of how many spells casters know or prepare, they can cast only a limited number of spells before resting. Manipulating the fabric of magic and channeling its energy into even a simple spell requires spending mana. Casting spells is also physically and mentally taxing, and higher-level spells are even more so.
 
-When characters cast a spell, they expend a slot of that spell’s level or higher, effectively “filling” a slot with the spell. You can think of a spell slot as a groove of a certain size—small for a 1st-­level slot, larger for a spell of higher level. A 1st-­level spell fits into a slot of any size, but a 7th-level spell fits only in a 7th-­level slot.
+When characters cast a spell, they expend an amount of mana equal to that spell’s level. Alternatively, if a spell description allows it, they can spend additional mana to augment the spell's effects, provided the total mana spent does not exceed LEVEL.
 
-Spell slots are restored at the end of a game session.
+Mana is restored at the end of a game session. Some class and game features replenish mana during a game session.
 
-Some characters and monsters have special abilities that let them cast spells without using spell slots. For example, a warlock who chooses certain eldritch invocations and a pit fiend from the Nine Hells can all cast spells in such a way.
+Some characters and monsters have special abilities that let them cast spells without using mana. For example, a warlock who chooses certain eldritch invocations and a pit fiend from the Nine Hells can all cast spells in such a way. Spells cast this way cannot be augmented with additional mana.
 
 #### Casting a Spell at a Higher Level
 
-When a spellcaster casts a spell using a slot that is of a higher level than the spell, the spell assumes the higher level for that casting. For instance, if a spellcaster casts _magic missile_ using a 2nd-­level slot, that _magic missile_ is 2nd level. Effectively, the spell expands to fill the slot it is put into.
+When a spellcaster casts a spell with more mana than its level, the spell assumes a higher level for that casting equal to the amount of mana spent. For instance, if a spellcaster spends 2 mana to cast _magic missile_, that _magic missile_ is 2nd level.
 
 Some spells, such as _magic missile_ and _cure wounds_, have more powerful effects when cast at a higher level, as detailed in a spell’s description.
 
@@ -3147,11 +3191,11 @@ Some spells, such as _magic missile_ and _cure wounds_, have more powerful effec
 
 ### Cantrips
 
-A cantrip is a spell that can be cast at will, without using a spell slot and without being prepared in advance. Repeated practice has fixed the spell in the caster’s mind and infused the caster with the magic needed to produce the effect over and over. A cantrip’s spell level is 0.
+A cantrip is a spell that can be cast at will, without spending any mana and without being prepared in advance. Repeated practice has fixed the spell in the caster’s mind and infused the caster with the magic needed to produce the effect repeatedly. A cantrip’s spell level is 0.
 
 ### Rituals
 
-Certain spells have a special tag: ritual. Such a spell can be cast following the normal rules for spellcasting, or the spell can be cast as a ritual. The ritual version of a spell can only be cast outside of a combat encounter and generally takes longer to cast than normal. It also doesn’t expend a spell slot, which means the ritual version of a spell can’t be cast at a higher level.
+Certain spells have a special tag: ritual. Such a spell can be cast following the normal rules for spellcasting, or the spell can be cast as a ritual. The ritual version of a spell can only be cast outside of a combat encounter and generally takes longer to cast than normal. It also doesn’t require using mana to cast. The ritual version of a spell can’t be cast at a higher level.
 
 To cast a spell as a ritual, a spellcaster must have a feature that grants the ability to do so. The cleric and the druid, for example, have such a feature. The caster must also have the spell prepared or on his or her list of spells known, unless the character’s ritual feature specifies otherwise, as the wizard’s does.
 
@@ -3199,14 +3243,6 @@ Some spells require the chanting of mystic words. The words themselves aren’t 
 
 Spellcasting gestures might include a forceful gesticulation or an intricate set of gestures. If a spell requires a somatic component, the caster must have free use of at least one hand to perform these gestures.
 
-~~#### Material (M)~~
-
-~~Casting some spells requires particular objects, specified in parentheses in the component entry. A character can use a **component pouch** or a **spellcasting focus** (found in “Equipment”) in place of the components specified for a spell. But if a cost is indicated for a component, a character must have that specific component before he or she can cast the spell.~~
-
-~~If a spell states that a material component is consumed by the spell, the caster must provide this component for each casting of the spell.~~
-
-~~A spellcaster must have a hand free to access a spell’s material components—or to hold a spellcasting focus—but it can be the same hand that he or she uses to perform somatic components.~~
-
 ### Duration
 
 A spell’s duration is the length of time the spell persists. A duration can be the length of an encounter, instantaneous, or until the PCs recall back to HQ. Some spells specify that their effects last until the spells are dispelled or destroyed.
@@ -3221,9 +3257,9 @@ Many spell durations are instantaneous. The spell harms, heals, creates, or alte
 
 #### Recall
 
-Some spells have lingering effects. A spell with a duration of recall lasts until the players return to HQ.
+Some spells have lingering effects. A spell with a duration of recall lasts until Recall.
 
-> A recall is a special ritual any PC can complete that can only be performed outside of an encounter. Once one or more PCs complete the recall ritual, all players return to the map room at HQ. PCs automatically recall after 8 hours have elapsed since deploying.
+> A recall is a special ritual any PC can complete that can only be performed outside of an encounter. Once one or more PCs complete the recall ritual, all players Recall, returning to the map room at HQ. PCs automatically recall after 8 hours have elapsed since deploying.
 
 ### Concentration
 
@@ -3234,8 +3270,6 @@ You can end concentration at any time (no action required).
 Normal activity, such as moving and attacking, doesn’t interfere with concentration. The following factors can break concentration:
 - **Casting another spell with a duration longer than instantaneous.** You lose concentration on a spell if you cast another spell that requires concentration. You can’t concentrate on two spells at once.
 - **Being incapacitated or killed.** You lose concentration on a spell if you are incapacitated or if you die.
-
-~~The GM might also decide that certain environmental phenomena, such as a wave crashing over you while you’re on a storm-­tossed ship, require you to succeed on a DC 10 CON check to maintain concentration on a spell.~~
 
 ### Targets
 
@@ -3299,7 +3333,7 @@ The DC to resist one of your spells equals 10 + your spellcasting ability + any 
 
 ### Attack Rolls
 
-Some spells require the caster to make an attack roll to determine whether the spell effect hits the intended target. Your attack bonus with a spell attack equals your spellcasting ability modifier + your proficiency bonus.
+Some spells require the caster to make an attack roll to determine whether the spell effect hits the intended target. Your attack bonus with a spell attack equals your spellcasting ability modifier + LEVEL.
 
 Most spells that require attack rolls involve ranged attacks. Remember that you have disadvantage on a ranged attack roll if you are within 1 square of a hostile creature that can see you and that isn’t incapacitated.
 
@@ -3336,7 +3370,7 @@ For example, if two clerics cast _bless_ on the same target, that character gain
 
 Spellcasters have an innate ability to perceive the flow of magic. You can discard your action on your turn to sense the presence of magic up to 6 squares away. If you sense magic in this way, you can see a faint aura around any visible creature or object in the area that bears magic, and you learn its school of magic, if any.
 
-This awareness can penetrate most barriers but is blocked by 1 square of stone, metal, wood, or dirt and a thin sheet of lead.
+This awareness lasts until the beginning of your next turn and can penetrate most barriers. However, it is blocked by one square of stone, metal, wood, or dirt and a thin sheet of lead.
 
 ## Spell Lists
 
@@ -3347,7 +3381,7 @@ This awareness can penetrate most barriers but is blocked by 1 square of stone, 
 |**Cantrips (Level 0)**|
 |mage hand, mending, message, minor illusion, prestidigitation, true strike, vicious mockery|
 |**Level 1**|
-|animal friendship, bane, charm person, comprehend languages, cure wounds, ~~detect magic~~, disguise self, faerie fire, feather fall, healing word, heroism, hideous laughter, identify, illusory script, longstrider, silent image, sleep, speak with animals, thunderwave, unseen servant|
+|animal friendship, bane, charm person, comprehend languages, cure wounds, disguise self, faerie fire, feather fall, healing word, heroism, hideous laughter, identify, illusory script, longstrider, silent image, sleep, speak with animals, thunderwave, unseen servant|
 |**Level 2**|
 |animal messenger, blindness/deafness, calm emotions, detect thoughts, enhance ability, enthrall, heat metal, hold person, invisibility, knock, lesser restoration, locate animals or plants, locate object, magic mouth, see invisibility, shatter, silence, suggestion, zone of truth|
 |**Level 3**|
@@ -3374,7 +3408,7 @@ This awareness can penetrate most barriers but is blocked by 1 square of stone, 
 |**Cantrips (Level 0)**|
 |guidance, mending, resistance, sacred flame, spare the dying, thaumaturgy|
 |**Level 1**|
-|bane, bless, command, create or destroy water, cure wounds, detect evil and good, ~~detect magic~~, detect poison and disease, guiding bolt, healing word, inflict wounds, protection from evil and good, purify food and drink, sanctuary, shield of faith|
+|bane, bless, command, create or destroy water, cure wounds, detect evil and good, detect poison and disease, guiding bolt, healing word, inflict wounds, protection from evil and good, purify food and drink, sanctuary, shield of faith|
 |**Level 2**|
 |aid, augury, blindness/deafness, calm emotions, continual flame, enhance ability, find traps, gentle repose, hold person, lesser restoration, locate object, prayer of healing, protection from poison, silence, spiritual weapon, warding bond, zone of truth|
 |**Level 3**|
@@ -3399,7 +3433,7 @@ This awareness can penetrate most barriers but is blocked by 1 square of stone, 
 |**Cantrips (Level 0)**|
 |druidcraft, guidance, mending, poison spray, produce flame, resistance, shillelagh|
 |**Level 1**|
-|animal friendship, charm person, create or destroy water, cure wounds, ~~detect magic~~, detect poison and disease, entangle, faerie fire, fog cloud, goodberry, healing word, jump, longstrider, purify food and drink, speak with animals, thunderwave|
+|animal friendship, charm person, create or destroy water, cure wounds, detect poison and disease, entangle, faerie fire, fog cloud, goodberry, healing word, jump, longstrider, purify food and drink, speak with animals, thunderwave|
 |**Level 2**|
 |animal messenger, barkskin, enhance ability, find traps, flame blade, flaming sphere, gust of wind, heat metal, hold person, lesser restoration, locate animals or plants, locate object, moonbeam, pass without trace, protection from poison, spike growth|
 |**Level 3**|
@@ -3422,7 +3456,7 @@ This awareness can penetrate most barriers but is blocked by 1 square of stone, 
 |  |
 |:-|
 |**Level 1**|
-|bless, command, cure wounds, detect evil and good, ~~detect magic~~, detect poison and disease, divine favor, heroism, protection from evil and good, purify food and drink, shield of faith|
+|bless, command, cure wounds, detect evil and good, detect poison and disease, divine favor, heroism, protection from evil and good, purify food and drink, shield of faith|
 |**Level 2**|
 |aid, branding smite, find steed, lesser restoration, locate object, magic weapon, protection from poison, zone of truth|
 |**Level 3**|
@@ -3436,7 +3470,7 @@ This awareness can penetrate most barriers but is blocked by 1 square of stone, 
 |  |
 |:-|
 |**Level 1**|
-|alarm, animal friendship, cure wounds, ~~detect magic~~, detect poison and disease, fog cloud, goodberry, hunter's mark, jump, longstrider, speak with animals|
+|alarm, animal friendship, cure wounds, detect poison and disease, fog cloud, goodberry, hunter's mark, jump, longstrider, speak with animals|
 |**Level 2**|
 |animal messenger, barkskin, find traps, lesser restoration, locate animals or plants, locate object, pass without trace, protection from poison, silence, spike growth|
 |**Level 3**|
@@ -3452,7 +3486,7 @@ This awareness can penetrate most barriers but is blocked by 1 square of stone, 
 |**Cantrips (Level 0)**|
 |acid splash, chill touch, fire bolt, mage hand, mending, message, minor illusion, poison spray, prestidigitation, ray of frost, shocking grasp, true strike|
 |**Level 1**|
-|burning hands, charm person, color spray, comprehend languages, ~~detect magic~~, disguise self, expeditious retreat, false life, feather fall, fog cloud, jump, mage armor, magic missile, shield, silent image, sleep, thunderwave|
+|burning hands, charm person, color spray, comprehend languages, disguise self, expeditious retreat, false life, feather fall, fog cloud, jump, mage armor, magic missile, shield, silent image, sleep, thunderwave|
 |**Level 2**|
 |alter self, blindness/deafness, blur, darkness, detect thoughts, enhance ability, enlarge/reduce, gust of wind, hold person, invisibility, knock, levitate, mirror image, misty step, scorching ray, see invisibility, shatter, spider climb, suggestion, web|
 |**Level 3**|
@@ -3502,7 +3536,7 @@ This awareness can penetrate most barriers but is blocked by 1 square of stone, 
 |**Cantrips (Level 0)**|
 |acid splash, chill touch, fire bolt, mage hand, mending, message, minor illusion, poison spray, prestidigitation, ray of frost, shocking grasp, true strike|
 |**Level 1**|
-|alarm, burning hands, charm person, color spray, comprehend languages, ~~detect magic~~, disguise self, expeditious retreat, false life, feather fall, find familiar, floating disk, fog cloud, grease, hideous laughter, identify, illusory script, jump, longstrider, mage armor, magic missile, protection from evil and good, shield, silent image, sleep, thunderwave, unseen servant|
+|alarm, burning hands, charm person, color spray, comprehend languages, disguise self, expeditious retreat, false life, feather fall, find familiar, floating disk, fog cloud, grease, hideous laughter, identify, illusory script, jump, longstrider, mage armor, magic missile, protection from evil and good, shield, silent image, sleep, thunderwave, unseen servant|
 |**Level 2**|
 |acid arrow, alter self, arcane lock, arcanist’s magic aura, blindness/deafness, blur, continual flame, darkness, detect thoughts, enlarge/reduce, flaming sphere, gentle repose, gust of wind, hold person, invisibility, knock, levitate, locate object, magic mouth, magic weapon, mirror image, misty step, ray of enfeeblement, rope trick, scorching ray, see invisibility, shatter, spider climb, suggestion, web|
 |**Level 3**|
