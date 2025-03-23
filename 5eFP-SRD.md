@@ -1108,11 +1108,11 @@ TBA
 
 # Mage Upgrades
 
-||||
-|-:|:-|:-|
+|||||
+|-:|:-|:-|:-|
 |**Cost**|**Feature**|**Prerequisites**|**Details**|
 |3⛁|Magic|Spellcasting feature|You gain +1 Mana and add +1 known spell from your class spell list. The added spell's level cannot exceed LEVEL.|
-||||
+|||||
 |4⛁|Touch of Magic|-|...|
 
 **_Touch of Magic_.** Choose a mage class. You gain the ability to cast two cantrips from the chosen class. Additionally, choose a 1st level spell from your chosen class spell list. You gain the ability to cast the chosen spell once per game session without spending mana. If the chosen 1st-level spell appears on your 1st-level class spell list, you also add the spell as a known spell.
