@@ -330,7 +330,7 @@ You know three cleric cantrips of your choice.
 
 You begin the game with 2 mana. To cast one of your spells, you must spend an amount of mana equal to the spell’s level or higher. You regain all spent mana at the beginning of a game session.
 
-For example, if you know the 1st-level spell _cure wounds_ and have 2 mana, you can either spend 1 mana to cast _cure wounds_ as a 1st-level spell or spend 2 mana to cast it as a 2nd-level spell. Casting the spell doesn’t remove it from your list of prepared spells.
+For example, if you know the 1st-level spell _cure wounds_ and have 2 mana, you can either spend 1 mana to cast _cure wounds_ as a 1st-level spell or spend 2 mana to cast it as a 2nd-level spell.
 
 #### Spells Known
 
@@ -712,7 +712,7 @@ You know three cantrips of your choice from the wizard spell list.
 
 You begin the game with 2 mana. To cast one of your spells, you must spend an amount of mana equal to the spell’s level or higher. You regain all spent mana at the beginning of a game session.
 
-For example, if you know the 1st-level spell _magic missile_ and have 2 mana, you can spend 1 mana to cast _magic missile_ as a 1st-level spell or 2 mana to cast it as a 2nd-level spell. Casting the spell doesn’t remove it from your list of prepared spells.
+For example, if you know the 1st-level spell _magic missile_ and have 2 mana, you can spend 1 mana to cast _magic missile_ as a 1st-level spell or 2 mana to cast it as a 2nd-level spell.
 
 #### Spells Known
 
