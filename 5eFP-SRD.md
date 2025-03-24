@@ -42,7 +42,7 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Deploy_.** After choosing an unexplored world map tile, the PCs deploy onto its exploration map by placing the group token in a random location. The obscuring map tile under the group token is revealed. Explored world map tiles sometimes provide additional locations for placing your character during a downtime round. These bonus areas are placed along the sides of the world map. PCs may deploy onto these special areas before resolving a downtime round.
 
-**_Discover._** If a game feature instructs you to discover something, you determine three results, choose one, and discard the rest.
+**_Discover._** If a game feature instructs you to discover something, you determine two results, choose one, and discard the rest.
 
 **_Downtime_.** Downtime consists of downtime actions measured in rounds, including rest and repairs, research, spending Coin on HQ upgrades, or taking other actions between game sessions.
 
