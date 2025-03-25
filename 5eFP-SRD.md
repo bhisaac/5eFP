@@ -1304,9 +1304,9 @@ You can now inscribe magical rituals in your Book of Shadows. Choose two 1st-­l
 
 On your adventures, you can add other ritual spells to your Book of Shadows. When you find such a spell, you can add it to the book if the spell’s level is equal to or less than half your level and if you can spare the time to transcribe the spell. The transcription process takes one downtime round and costs ⛁ for the rare inks needed to inscribe it.
 
-### See in Darkness
+### Eldritch Sight
 
-You can see normally in magical darkness.
+You can see normally in normal and magical darkness, and you can read all writing.
 
 ### Eldritch Spear
 
@@ -1314,13 +1314,9 @@ _Prerequisite: eldritch blast cantrip_
 
 When you cast _eldritch blast_, its range becomes line of sight.
 
-### Eyes of the Rune Keeper
-
-You can read all writing.
-
 ### Eldritch Vigor
 
-You can cast _false life_ on yourself at will as a 1st-­level spell, without using your pact magic feature.
+You can cast _false life_ on yourself at will as a 1st-­level spell, without spending mana.
 
 ### Gaze of Two Minds
 
@@ -1328,7 +1324,27 @@ You can discard your action to touch a willing humanoid and perceive through its
 
 ### Mask of Many Faces
 
-You can cast _disguise self_ at will, without using your pact magic feature.
+You can cast _disguise self_ at will, without spending mana.
+
+### Misty Visions
+
+You can cast _silent image_ at will, without spending mana.
+
+### Repelling Blast
+
+_Prerequisite: eldritch blast cantrip_
+
+When you hit a creature with _eldritch blast_, you can push the creature up to 2 squares away from you in a straight line.
+
+### Thief of Five Fates
+
+Once per game session, you can cast _bane_ using your pact magic feature.
+
+### Voice of the Chain Master
+
+_Prerequisite: Pact of the Chain feature_
+
+You can communicate telepathically with your familiar and perceive through your familiar’s senses as long as you are on the same plane of existence. Additionally, while perceiving through your familiar’s senses, you can also speak through your familiar in your own voice, even if your familiar is normally incapable of speech.
 
 ## Pact Boon
 
