@@ -1348,7 +1348,18 @@ You can communicate telepathically with your familiar and perceive through your 
 
 ## Pact Boon
 
-TBA
+Your otherworldly patron bestows a gift upon you for your loyal service. You gain one of the following features of your choice.
+
+### Pact of the Chain
+
+You learn the _find familiar_ spell and can cast it as a ritual. The spell doesn’t count against your number of spells known.
+
+When you cast the spell, you can choose one of the normal forms for your familiar or one of the following special forms: homunculus, pseudodragon, quasit, or sprite.
+Additionally, when you take the Attack action, you can forgo one of your own attacks to allow your familiar to make one attack of its own with its reaction.
+
+### Pact of the Blade
+
+Discard your action to conjure and equip a magic melee weapon of your choice into your empty hand. The weapon deals 1 point of magic damage on a successful hit with a damage type that depends on the weapon's form: blades are piercing or slashing, and chains, hammers, and clubs are bludgeoning.
 
 # Wizard Upgrades
 
