@@ -324,7 +324,7 @@ As a conduit for divine power, you can cast cleric spells.
 
 #### Cantrips
 
-You know three cleric cantrips of your choice.
+You know three cantrips of your choice from the cleric spell list.
 
 #### Mana
 
