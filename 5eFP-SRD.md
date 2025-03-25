@@ -1359,7 +1359,11 @@ Additionally, when you take the Attack action, you can forgo one of your own att
 
 ### Pact of the Blade
 
-Discard your action to conjure and equip a magic melee weapon of your choice into your empty hand. The weapon deals 1 point of magic damage on a successful hit with a damage type that depends on the weapon's form: blades are piercing or slashing, and chains, hammers, and clubs are bludgeoning.
+Discard your action to create a pact weapon lacking the two-handed property in your empty hand. You can choose the form that this melee weapon takes each time you create it. You are proficient with it while you wield it. The weapon deals 1 point of magic damage on a successful hit with a damage type that depends on the weapon's form: blades are piercing or slashing, and chains, hammers, and clubs are bludgeoning.
+
+Your pact weapon disappears if it is more than 1 square away from you. It also disappears if you use this feature again, if you dismiss the weapon (no action required), or if you die.
+
+You can transform one magic weapon into your pact weapon by performing a special ritual while you hold the weapon. You perform the ritual over the course of a rest. You can then dismiss the weapon, shunting it into an extradimensional space, and it appears whenever you create your pact weapon thereafter. You can’t affect an artifact or a sentient weapon in this way. The weapon ceases being your pact weapon if you die, if you perform the pact of the blade ritual on a different weapon, or if you use the ritual to break your bond to it. The weapon appears at your feet if it is in the extradimensional space when the bond breaks.
 
 # Wizard Upgrades
 
