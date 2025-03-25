@@ -332,7 +332,7 @@ You know three cantrips of your choice from the cleric spell list.
 
 You gain 2 mana. To cast one of your spells, you must spend an amount of mana equal to the spell’s level or higher. You regain all spent mana at the beginning of a game session.
 
-For example, if you know the 1st-level spell _cure wounds_ and have 2 mana, you can either spend 1 mana to cast _cure wounds_ as a 1st-level spell or spend 2 mana to cast it as a 2nd-level spell.
+For example, if you know the 1st-level spell _cure wounds_ and have 2 mana, you can spend 1 mana to cast _cure wounds_ as a 1st-level spell or 2 mana to cast it as a 2nd-level spell.
 
 #### Spells Known
 
@@ -358,7 +358,7 @@ Choose one domain related to your deity, such as Medicine. Each domain is detail
 
 #### Domain Spells
 
-Each domain has a list of domain spells. You always have domain spells prepared, which don't count against the number of spells you know.
+Each domain has a list of domain spells. You always know your domain spells, which don't count against the number of spells you know.
 
 If you gain a domain spell that isn't a cleric spell, the spell is nonetheless a cleric spell for you.
 
@@ -410,13 +410,13 @@ You start with the following equipment, in addition to the equipment granted by 
 
 ### Divine Sense
 
-The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 12 squares of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the hallow spell.
+The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 12 squares of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the _hallow_ spell.
 
-You can use this feature a number of times equal to 1 + CHA. You regain all expended uses whenever you return to Headquarters (HQ).
+You can use this feature a number of times equal to CHA + 1.
 
 ### Lay on Hands
 
-Your blessed touch can heal wounds. You have a reserve of healing power that replenishes at the end of a game session. You can assign up to 5 points of healing with your reserve.
+Your blessed touch can heal wounds. You have a reserve of healing power. You can assign up to 5 points of healing with your reserve.
 
 As an action, you can touch a wounded creature and spend 1 or more points of healing, up to the maximum amount remaining in your reserve. The creature receives the healing.
 
@@ -466,13 +466,13 @@ Drawing on the divine essence of nature itself, you can cast spells to shape tha
 
 #### Cantrips
 
-You know two druid cantrips of your choice.
+You know two cantrips of your choice from the druid spell list.
 
 #### Mana
 
 You gain 2 mana. To cast one of your spells, you must spend an amount of mana equal to the spell’s level or higher. You regain all spent mana at the beginning of a game session.
 
-For example, if you know the 1st-level spell _cure wounds_ and have 2 mana, you can either spend 1 mana and cast _cure wounds_ as a 1st-level spell or spend 2 mana to cast it as a 2nd-level spell.
+For example, if you know the 1st-level spell _cure wounds_ and have 2 mana, you can spend 1 mana to cast _cure wounds_ as a 1st-level spell or 2 mana to cast it as a 2nd-level spell.
 
 #### Spells Known
 
@@ -525,13 +525,13 @@ An event in your past, or in the life of a parent or ancestor, left an indelible
 
 #### Cantrips
 
-You know four sorcerer cantrips of your choice.
+You know four cantrips of your choice from the sorcerer spell list.
 
 #### Mana
 
 You gain 2 mana. To cast one of your spells, you must spend an amount of mana equal to the spell’s level or higher. You regain all spent mana at the beginning of a game session.
 
-For example, if you know the 1st-level spell _burning hands_ and have 2 mana, you can either cast _burning hands_ as a 1st-level spell or spend an additional +1 mana to cast it as a 2nd-level spell.
+For example, if you know the 1st-level spell _burning hands_ and have 2 mana, you can spend 1 mana to cast _burning hands_ as a 1st-level spell or 2 mana to cast it as a 2nd-level spell.
 
 #### Spells Known
 
@@ -610,21 +610,21 @@ You start with the following equipment, in addition to the equipment granted by 
 
 #### Otherworldly Patron
 
-You are in the service of an otherworldly being of your choice: the Fey, the Celestial, or the Primordial each of which is detailed at the end of the class description. Your choice grants you features.
+You are in the service of an otherworldly being of your choice: the Fey, the Celestial, or the Primordial, each detailed at the end of the class description. Your choice grants you additional game features.
 
 #### Pact Magic
 
-Your arcane research and the magic bestowed on you by your patron have given you facility with spells.
+Your arcane research and the magic bestowed on you by your otherworldly patron have given you facility with spells.
 
 #### Cantrips
 
-You know two warlock cantrips of your choice.
+You know two cantrips of your choice from the warlock spell list.
 
-#### Spell Slots
+#### Mana
 
-You begin the game with one 1st level spell slot. To cast one of your spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a short rest.
+You gain 1 mana. To cast one of your spells, you must spend an amount of mana equal to the spell’s level or higher. You regain all spent mana at the beginning of a game session.
 
-For example, if you know the 1st-level spell _burning hands_ and have a 1st-level and a 2nd-level spell slot available, you can cast _burning hands_ using either slot.
+For example, if you know the 1st-level spell _burning hands_ and have 2 mana, you can spend 1 mana to cast _burning hands_ as a 1st-level spell or 2 mana to cast it as a 2nd-level spell.
 
 #### Spells Known
 
@@ -795,13 +795,13 @@ You have learned to untangle and reshape the fabric of reality in harmony with y
 
 ### Cantrips
 
-You know two bard cantrips of your choice.
+You know two cantrips of your choice from the bard spell list.
 
 ### Spell Slots
 
 You begin the game with two 1st level spell slots. To cast one of your spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots at the end of the game session.
 
-For example, if you know the 1st-level spell _cure wounds_ and have a 1st-level and a 2nd-level spell slot available, you can cast _cure wounds_ using either slot.
+For example, if you know the 1st-level spell _cure wounds_ and have 2 mana, you can spend 1 mana to cast _cure wounds_ as a 1st-level spell or 2 mana to cast it as a 2nd-level spell.
 
 ### Spells Known
 
