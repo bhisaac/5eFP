@@ -1324,11 +1324,11 @@ You can discard your action to touch a willing humanoid and perceive through its
 
 ### Mask of Many Faces
 
-You can cast _disguise self_ at will, without spending mana.
+You can cast _disguise self_ at will, without using your pact magic feature.
 
 ### Misty Visions
 
-You can cast _silent image_ at will, without spending mana.
+You can cast _silent image_ at will, without using your pact magic feature.
 
 ### Repelling Blast
 
