@@ -1127,6 +1127,8 @@ TBA
 ## Wild Shape
 
 As an action, you magically assume the shape of a beast that you have seen before. When you use this feature, save and set aside any wounds and choose a wild shape form. Use statistics for an elite creature except as detailed below. Your wild shape form cannot benefit from any swim or fly speeds it may have.
+
+You can use this feature twice. You regain expended uses when you finish a rest.
  
 ### Wild Shape Forms
  
@@ -1137,8 +1139,6 @@ As an action, you magically assume the shape of a beast that you have seen befor
 > **_Pounce._** Whenever you take the Attack action, move at least 3 squares in a line toward a creature, and hit it with a melee attack, it must succeed on a DC (14 + LEVEL) STR check or be knocked prone. If the creature is prone, you can make one melee attack against it.
  
 **_Travel._** You can activate travel form outside of an encounter. You have 1 MAX wounds while in travel form. When activated, you and any chosen creatures within 6 squares of you transform into travel forms and move together. If an encounter begins or if 1 or more points of damage are dealt to you or another affected creature, your wild shape and all travel forms end. Your speed doubles while in travel form. Once activated, the travel form can be reactivated on the exploration map anytime outside of an encounter until you Recall. When you reactivate travel form, set aside any wild-shape form you are currently in. When travel form ends due to entering an encounter or taking 1 or more points of damage, you shift back into the wild shape form you set aside.
- 
-You can use this feature twice. You regain expended uses when you finish a short rest.
 
 You can stay in a wild shape form until you Recall. You then revert to your normal form. You can discard your action to revert to your normal form earlier on your turn. If you fall unconscious, gain MAX wounds, or die, you automatically revert.
 
@@ -1270,7 +1270,57 @@ To be eligible, a spell must be incapable of targeting more than one creature at
 
 ## Eldritch Invocations
 
-TBA
+In your study of esoteric lore, you have unearthed eldritch invocations, fragments of arcane knowledge that imbue you with an abiding magical ability.
+
+You gain two eldritch invocations of your choice. Your invocation options are detailed below.
+
+Additionally, when you gain a warlock level, you can choose one of the invocations you know and replace it with another invocation that you could learn at that level.
+
+If an eldritch invocation has prerequisites, you must meet them to learn it. You can learn the invocation at the same time that you meet its prerequisites.
+
+### Performance Blast
+
+_Prerequisite: eldritch blast cantrip_
+
+Your _eldritch blast_ spells deal +1 damage.
+
+### Eldritch Armor
+
+You can cast _mage armor_ on yourself at will, without using your pact magic feature.
+
+### Beast Speech
+
+You can cast _speak with animals_ at will, without using your pact magic feature.
+
+### Beguiling Influence
+
+You can use this feature to cast _charm person_ without verbal or somatic components once without using your pact magic feature.
+
+### Book of Ancient Secrets
+
+_Prerequisite: Pact of the Tome feature_
+
+You can now inscribe magical rituals in your Book of Shadows. Choose two 1st-­level spells that have the ritual tag from any class’s spell list (the two needn’t be from the same list). The spells appear in the book and don’t count against the number of spells you know. With your Book of Shadows in hand, you can cast the chosen spells as rituals. You can’t cast the spells except as rituals, unless you’ve learned them by some other means. You can also cast a warlock spell you know as a ritual if it has the ritual tag.
+
+On your adventures, you can add other ritual spells to your Book of Shadows. When you find such a spell, you can add it to the book if the spell’s level is equal to or less than half your level and if you can spare the time to transcribe the spell. The transcription process takes one downtime round and costs ⛁ for the rare inks needed to inscribe it.
+
+### See in Darkness
+
+You can see normally in magical darkness.
+
+### Eldritch Spear
+
+_Prerequisite: eldritch blast cantrip_
+
+When you cast _eldritch blast_, its range becomes line of sight.
+
+### Eyes of the Rune Keeper
+
+You can read all writing.
+
+### Eldritch Vigor
+
+You can cast _false life_ on yourself at will as a 1st-­level spell, without using your pact magic feature.
 
 ## Pact Boon
 
@@ -3835,6 +3885,17 @@ Alternatively, you can make a target indifferent about creatures of your choice 
 ### Spells (E)
 
 ### Spells (F)
+
+#### False Life
+|_1st-level necromancy_|
+|:-|
+|**Casting Time:** 1 action|
+|**Range:** Self|
+|**Components:** V,S|
+|**Duration:** Encounter|
+||
+|Drawing upon a necromantic facsimile of life, you gain bolster 1.|
+|**At Higher Levels.** When you cast this spell at 2nd level or higher, your bolster increases by +1 for each spell level above 1st.|
 
 ### Spells (G)
 
