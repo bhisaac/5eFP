@@ -36,7 +36,7 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Conflict_.** The conflict, detailed in your setting handbook, is an event with ongoing effects that changed the game world into an unbalanced and afflicted state (see Setting Handbook). A 5eFP game ends when the conflict is resolved.
 
-**_Creature, Monster_.** A creature can be a player character or a non-player character. It can also be a monster minion, elite, or boss in a monster encounter. In 5eFP, creatures and monsters can be good, neutral, or evil. They can be lawful or chaotic as well. The majority are neutral, meaning they are not good, evil, lawful, or chaotic. Sometimes, the label fits. Some creatures are frightening and terrible, and some monsters are monsters.
+**_Creature, Monster_.** A creature can be a player character or a non-player character. It can also be a monster minion, elite, or boss in a monster encounter. Creatures and monsters can be good, neutral, or evil. They can be lawful or chaotic as well. The majority are neutral, meaning they are not good, evil, lawful, or chaotic. Sometimes, the label fits. Some creatures are frightening and terrible, and some monsters are monsters.
 
 **_Difficulty Class (DC)_.** Difficulty Class or DC represents a task's difficulty. The more difficult a task, the higher its DC.
 
