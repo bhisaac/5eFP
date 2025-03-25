@@ -1286,11 +1286,11 @@ Your _eldritch blast_ spells deal +1 damage.
 
 ### Eldritch Armor
 
-You can cast _mage armor_ on yourself at will, without using your pact magic feature.
+You can cast _mage armor_ on yourself at will, without using mana.
 
 ### Beast Speech
 
-You can cast _speak with animals_ at will, without using your pact magic feature.
+You can cast _speak with animals_ at will, without using mana.
 
 ### Beguiling Influence
 
