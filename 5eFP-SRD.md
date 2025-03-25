@@ -1265,7 +1265,7 @@ To be eligible, a spell must be incapable of targeting more than one creature at
 |-:|:-|:-|
 |**Cost**|**Feature**|**Details**|
 |2⛁|Eldritch Invocations|...|
-|3⛁|Magic|You gain one additional use of your Pact Magic feature between rests and add +1 known spell from the warlock spell list. The added spell's level cannot exceed LEVEL.|
+|3⛁|Magic|You gain one additional use of your Pact Magic feature between rests and add +1 known spell from the warlock spell list.|
 |3⛁|Pact Boon|...|
 
 ## Eldritch Invocations
@@ -1321,6 +1321,14 @@ You can read all writing.
 ### Eldritch Vigor
 
 You can cast _false life_ on yourself at will as a 1st-­level spell, without using your pact magic feature.
+
+### Gaze of Two Minds
+
+You can discard your action to touch a willing humanoid and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can discard your action on subsequent turns to maintain this connection, extending the duration until the end of your next turn. While perceiving through the other creature’s senses, you benefit from any special senses possessed by that creature, and you are blinded and deafened to your own surroundings.
+
+### Mask of Many Faces
+
+You can cast _disguise self_ at will, without using your pact magic feature.
 
 ## Pact Boon
 
@@ -3879,8 +3887,22 @@ Alternatively, you can make a target indifferent about creatures of your choice 
 |The summoned creature is friendly to you and your companions. Roll initiative for the summoned creature, which has its own turns. It obeys any verbal commands that you issue (no action required by you). If you don’t issue any commands, the animal defends itself from hostile creatures but otherwise takes no actions.|
 |The GM has the creatures’ statistics.|
 
-
 ### Spells (D)
+
+#### Disguise Self
+|_1st-level illusion_|
+|:-|
+|**Casting Time:** 1 action|
+|**Range:** Self|
+|**Components:** V,S|
+|**Duration:** Encounter|
+||
+|You make yourself—including your clothing, armor, weapons, and other belongings on your person—look different until the spell ends or until you discard your action to dismiss it. You can seem shorter or taller and can appear thin, fat, or in between, but your actual size remains the same. You can’t change your body type, so you must adopt a form that has the same basic arrangement of limbs. Otherwise, the extent of the illusion is up to you.
+
+The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to your outfit, objects pass through the hat, and anyone who touches it would feel nothing or would feel your head and hair. If you use this spell to appear thinner than you are, the hand of someone who reaches out to touch you will bump into you while it is seemingly still in midair.
+
+To discern that you are disguised, a creature can discard its action to inspect your appearance and must succeed on an INT check.
+|
 
 ### Spells (E)
 
