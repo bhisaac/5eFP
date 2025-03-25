@@ -350,7 +350,7 @@ Wisdom (WIS) is your spellcasting ability for your cleric spells. The power of y
 
 #### Ritual Casting
 
-You can cast a cleric spell as a ritual if that spell has the ritual tag.
+You can cast a cleric spell as a ritual if that spell has the ritual tag and you know the spell.
 
 #### Divine Domain
 
@@ -819,7 +819,7 @@ Charisma (CHA) is your spellcasting ability for your bard spells. Your magic com
 
 ### Ritual Casting
 
-You can cast any bard spell you know as a ritual if that spell has the ritual tag.
+You can cast any bard spell you know as a ritual if that spell has the ritual tag and you know the spell.
 
 ### Magic Performance
 
