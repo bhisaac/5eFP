@@ -1286,11 +1286,11 @@ Your _eldritch blast_ spells deal +1 damage.
 
 ### Eldritch Armor
 
-You can cast _mage armor_ on yourself at will, without using mana.
+You can cast _mage armor_ on yourself at will, without using your pact magic feature.
 
 ### Beast Speech
 
-You can cast _speak with animals_ at will, without using mana.
+You can cast _speak with animals_ at will, without using your pact magic feature.
 
 ### Beguiling Influence
 
@@ -1300,13 +1300,13 @@ You can use this feature to cast _charm person_ without verbal or somatic compon
 
 _Prerequisite: Pact of the Tome feature_
 
-You can now inscribe magical rituals in your Book of Shadows. Choose two 1st-­level spells that have the ritual tag from any class’s spell list (the two needn’t be from the same list). The spells appear in the book and don’t count against the number of spells you know. With your Book of Shadows in hand, you can cast the chosen spells as rituals. You can’t cast the spells except as rituals, unless you’ve learned them by some other means. You can also cast a warlock spell you know as a ritual if it has the ritual tag.
+You can now inscribe magical rituals in your Tome of Secrets. Choose two 1st-­level spells that have the ritual tag from any class’s spell list (the two needn’t be from the same list). The spells appear in the book and don’t count against the number of spells you know. With your Tome of Secrets in hand, you can cast the chosen spells as rituals. You can’t cast the spells except as rituals, unless you’ve learned them by some other means. You can also cast a warlock spell you know as a ritual if it has the ritual tag.
 
-On your adventures, you can add other ritual spells to your Book of Shadows. When you find such a spell, you can add it to the book if the spell’s level is equal to or less than half your level and if you can spare the time to transcribe the spell. The transcription process takes one downtime round and costs ⛁ for the rare inks needed to inscribe it.
+You can add other ritual spells to your Tome of Secrets on your adventures. When you find such a spell, you can add it to the book if the spell’s level is equal to or less than half your level and if you can spare the time to transcribe the spell. The transcription process takes one downtime round and costs ⛁ for the rare inks needed to inscribe it.
 
 ### Eldritch Sight
 
-You can see normally in normal and magical darkness, and you can read all writing.
+You see normally in magical darkness, and you can read all writing.
 
 ### Eldritch Spear
 
@@ -1316,7 +1316,7 @@ When you cast _eldritch blast_, its range becomes line of sight.
 
 ### Eldritch Vigor
 
-You can cast _false life_ on yourself at will as a 1st-­level spell, without spending mana.
+At the beginning of an encounter, you gain bolster 1.
 
 ### Gaze of Two Minds
 
