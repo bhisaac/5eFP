@@ -1094,7 +1094,7 @@ The following upgrades provide an additional way to gain inspiration once per ga
 |**Cost**|**Feature**|**Details**|
 |2⛁|Channel Divinity (1/rest)|...|
 |2⛁|Divine Domain Feature|...|
-|3⛁|Magic|You gain +2 Mana and add +1 known spell from your class spell list. The added spell's level cannot exceed LEVEL.|
+|3⛁|Magic|You gain +2 Mana and add +1 known spell from your class spell list.|
 
 > #### Channel Divinity (1/rest)
 >> You gain the ability to channel divine energy directly from your deity, using that energy to fuel magical effects. You start with two such effects: Turn Undead and an effect determined by your domain. Some domains grant you additional effects as you advance in levels, as noted in the domain description.
@@ -1122,7 +1122,7 @@ TBA
 |**Cost**|**Feature**|**Details**|
 |2⛁|Wild Shape|...|
 |2⛁|Druid Circle|Circle of the Land, Circle of the Sun and Moon|
-|3⛁|Magic|You gain +2 Mana and add +1 known spell from your class spell list. The added spell's level cannot exceed LEVEL.|
+|3⛁|Magic|You gain +2 Mana and add +1 known spell from your class spell list.|
 
 ## Wild Shape
 
@@ -1197,7 +1197,7 @@ The Circle of the Sun and Moon is made up of mystics who meditate and commune wi
 |-:|:-|:-|
 |**Cost**|**Feature**|**Details**|
 |2⛁|Font of Magic|...|
-|3⛁|Magic|You gain +2 Mana and add +1 known spell from your class spell list. The added spell's level cannot exceed LEVEL.|
+|3⛁|Magic|You gain +2 Mana and add +1 known spell from your class spell list.|
 |3⛁|Metamagic|...|
 
 ## Font of Magic
