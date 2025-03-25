@@ -616,25 +616,23 @@ You are in the service of an otherworldly being of your choice: the Fey, the Cel
 
 Your arcane research and the magic bestowed on you by your otherworldly patron have given you facility with spells.
 
+You can use this feature to cast a spell with a spell level up to LEVEL. You can use this feature once. You regain expended uses when you finish a rest.
+
+For example, if you are a 2nd-level warlock and know the 1st-level spell _burning hands_, you can use this feature to cast _burning hands_ as a 1st-level or 2nd-level spell.
+
 #### Cantrips
 
 You know two cantrips of your choice from the warlock spell list.
 
-#### Mana
-
-You gain 1 mana. To cast one of your spells, you must spend an amount of mana equal to the spell’s level or higher. You regain all spent mana at the beginning of a game session.
-
-For example, if you know the 1st-level spell _burning hands_ and have 2 mana, you can spend 1 mana to cast _burning hands_ as a 1st-level spell or 2 mana to cast it as a 2nd-level spell.
-
 #### Spells Known
 
-You know two 1st-level spells of your choice from the warlock spell list.
+You know CHA 1st-level spells of your choice from the warlock spell list.
 
-Whenever you successfully upgrade a Magic feature (i.e., "Magic I", "Magic II", "Magic III", etc.), you can choose one of the warlock spells you know and replace it with another spell from the warlock spell list, which also must be of a level for which you have spell slots.
+Whenever you purchase a Magic upgrade, you can choose one of the warlock spells you know and replace it with another spell from the warlock spell list that you can cast.
 
 #### Spellcasting Ability
 
-Charisma (CHA) is your spellcasting ability for your warlock spells,	so you use your CHA whenever a spell refers to your spellcasting ability. In addition, you use your CHA when setting the DC for a warlock spell you cast and when making an attack roll with one.
+Charisma (CHA) is your spellcasting ability for your warlock spells, so you use your CHA whenever a spell refers to your spellcasting ability. In addition, you use your CHA when setting the DC for a warlock spell you cast and when making an attack roll with one.
 
 **Spell DC** = 10 + CHA
 
@@ -1072,7 +1070,7 @@ Certain monasteries use specialized forms of monk weapons. For example, you migh
 
 As you go on adventures and overcome challenges, you gain experience, represented by ⛁. When all world map tiles in the current level of play are explored, the next level of play on the world map unlocks, and you advance to the next level. This is called gaining a level.
 
-While at HQ, you can spend ⛁ to purchase background, species, class, or other upgrades for your character. The upgrade descriptions below detail these additional game features.
+While at HQ, you can spend ⛁ to purchase background, species, class, or other upgrades for your character. The upgrade descriptions below detail these additional game features. You can only purchase an upgrade once unless otherwise indicated in its description.
 
 Whenever your level increases, you also increase your MAX wounds by +1.
 
@@ -1089,26 +1087,22 @@ The following upgrades provide an additional way to gain inspiration once per ga
 |3⛁|Inspired Failure|You gain inspiration after resolving a critical failure|
 |3⛁|Inspired Support|If a game feature or effect helps you succeed when you would have otherwise failed, you gain inspiration at the end of your turn|
 
-# Healer Upgrades
-
-## Class Upgrades
-
-### Cleric
+# Cleric Upgrades
 
 ||||
 |-:|:-|:-|
 |**Cost**|**Feature**|**Details**|
 |2⛁|Channel Divinity (1/rest)|...|
 |2⛁|Divine Domain Feature|...|
-|3⛁|Spells I|(+1) 1st-level spell slot, (+2) 2nd-level spell slots|
+|3⛁|Magic|You gain +2 Mana and add +1 known spell from your class spell list. The added spell's level cannot exceed LEVEL.|
 
 > #### Channel Divinity (1/rest)
 >> You gain the ability to channel divine energy directly from your deity, using that energy to fuel magical effects. You start with two such effects: Turn Undead and an effect determined by your domain. Some domains grant you additional effects as you advance in levels, as noted in the domain description.
 >>
->> When you use your Channel Divinity, you choose which effect to create. You must then finish a short or long rest to use your Channel Divinity again.
+>> When you use your Channel Divinity, you choose which effect to create. You must then finish a rest to use your Channel Divinity again.
 Some Channel Divinity effects require ability checks. When you use such an effect from this class, the DC equals your cleric spell DC.
 >> 
->> **_Turn Undead. (action)_** You present your holy symbol and speak a prayer censuring the undead. Each undead that can see or hear you within 6 squares of you must make a WIS check. If the creature fails its check, it is turned for the rest of the encounter or until it takes any damage.
+>> **_Turn Undead. (action)_** You present your holy symbol and speak a prayer, censuring the undead. Each undead that can see or hear you within 6 squares of you must make a WIS check. If the creature fails its check, it is turned for the rest of the encounter or until it takes any damage.
 >>
 >> A turned creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 6 squares of you. It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.
 >> 
@@ -1117,155 +1111,176 @@ Some Channel Divinity effects require ability checks. When you use such an effec
 >> 
 >> **_Preserve Life. (action)_** You present your holy symbol and evoke healing energy that can provide up to 5 points of healing. Choose any creatures within 6 squares of you, and divide the healing among them. You can’t use this feature on an undead or a construct.
 
-### Paladin
+# Paladin
 
 TBA
 
-# Mage Upgrades
-
-|||||
-|-:|:-|:-|:-|
-|**Cost**|**Feature**|**Prerequisites**|**Details**|
-|3⛁|Magic|Spellcasting feature|You gain +3 Mana and add +1 known spell from your class spell list. The added spell's level cannot exceed LEVEL.|
-|||||
-|4⛁|Touch of Magic|-|...|
-
-**_Touch of Magic_.** Choose a mage class. You gain the ability to cast two cantrips from the chosen class. Additionally, choose a 1st level spell from your chosen class spell list. You gain the ability to cast the chosen spell once per game session without spending mana. If the chosen 1st-level spell appears on your 1st-level class spell list, you also add the spell as a known spell.
-
-Your spellcasting ability score for the chosen spells depends on the chosen class. INT for wizards, WIS for clerics and druids, and CHA for sorcerers and warlocks.
-
-## Class Upgrades
-
-### Druid Upgrades
+# Druid Upgrades
 
 ||||
 |-:|:-|:-|
 |**Cost**|**Feature**|**Details**|
 |2⛁|Wild Shape|...|
 |2⛁|Druid Circle|Circle of the Land, Circle of the Sun and Moon|
-|2⛁|Spells I|(+1) 1st-level spell slot|
-|3⛁|Spells II|(+1) 1st-level spell slot, (+2) 2nd-level spell slots|
+|3⛁|Magic|You gain +2 Mana and add +1 known spell from your class spell list. The added spell's level cannot exceed LEVEL.|
 
-> #### Wild Shape
->> As an action, you magically assume the shape of a beast that you have seen before. When you use this feature, save and set aside any wounds and choose a wild shape form. Use statistics for an elite creature except as detailed below. Your wild shape form cannot benefit from any swim or fly speeds it may have.
->> 
->> WILD SHAPE FORMS
->>> 
->>> **_Tough._** You have 5 + LEVEL MAX wounds and Defense 11 while in tough form. Your size increases to large if it is not already, with a reach of 1 square. You can attack twice instead of once whenever you take the Attack action on your turn. You gain Bolster LEVEL when you assume this form.
->>> 
->>> **_Stealthy._** You have 4 + LEVEL MAX wounds and Defense 13 while in stealthy form. While in this form, you roll DEX and WIS checks with advantage and gain a pounce attack (if you don't already have one).
->>>
->>>> **_Pounce._** Whenever you move at least 3 squares in a line toward a creature and take the Attack action, hitting it with a melee attack, it must succeed on a DC (14 + LEVEL) STR check or be knocked prone. If the creature is prone, the stealthy form can make one melee attack against it.
->>> 
->>> **_Travel._** You can activate a travel form outside of a combat encounter. You have 1 MAX wounds while in travel form. When activated, you and any chosen creatures within 6 squares of you transform into travel forms and move together. If a combat encounter begins or if 1 or more points of damage are dealt to you or another affected creature, your wild shape and all travel forms end. Your speed doubles while in travel form. Once activated, the travel form can be reactivated on the exploration map anytime outside of a combat encounter until you Recall. When you reactivate travel form, set aside any wild-shape form you are currently in. When travel form ends due to entering a combat encounter or taking 1 or more points of damage, you shift back into the wild shape form you set aside.
->> 
->> You can use this feature twice. You regain expended uses when you finish a short rest.
->>
->> You can stay in a wild shape form until you return to the HQ map room. You then revert to your normal form. ~~If your wild shape form ends early you can activate wild shape again to maintain your current form, as long as you have enough uses of the feature remaining.~~ You can revert to your normal form earlier on your turn. If you fall unconscious, gain MAX wounds, or die, you automatically revert.
->>
->> While you are transformed, the following rules apply:
->> - Your game statistics are replaced by the statistics of the wild shape form, but you retain your alignment, personality, and INT, WIS, and CHA. You also retain all of your proficiencies, in addition to gaining those of the creature. If the creature has the same proficiency as you and the bonus in its stat block is higher than yours, use the creature’s bonus instead of yours. If the creature has any legendary or lair actions, you can’t use them.
->> - When you transform, you assume the wild shape form's MAX wounds. When you revert to your normal form, you return all wound cards you set aside before you transformed. However, if you revert because your wild shape form gained MAX Wounds, any excess wounds carry over to your normal form. For example, if you take 2 damage in a wild shape form and have room for only 1 wound, you revert and take 1 damage. As long as the excess damage doesn’t cause you to reach your maximum wounds, you aren’t knocked unconscious.
->> - You can’t cast spells, and your ability to speak or take any action that requires hands is limited to the capabilities of your wild shape form. Transforming doesn’t break your concentration on a spell you’ve already cast, however, or prevent you from taking actions that are part of a spell, such as _call lightning_, that you’ve already cast.
->> - You retain the benefit of any features from your class, race, or other source and can use them if the new form is physically capable of doing so. However, you can’t use any of your special senses, such as truesight, unless your new form also has that sense.
->> - ~~You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the GM decides whether it is practical for the new form to wear a piece of equipment, based on the creature’s shape and size. Your equipment doesn’t change size or shape to match the new form, and any equipment that the new form can’t wear must either fall to the ground or merge with it.~~ Your equipment merges into your new form and has no effect until you leave the form.
->
-> #### Druid Circle
->> You choose to identify with a circle of druids, such as the Circle of the Land or the Circle of the Sun and Moon.
->> 
->>> Circle of the Land
->>> 
->>> The Circle of the Land is made up of mystics and sages who safeguard ancient knowledge and rites through a vast oral tradition. These druids meet within sacred circles of trees or standing stones to whisper primal secrets in Druidic. The circle’s wisest members preside as the chief priests of communities that hold to the Old Faith and serve as advisors to the rulers of those folk. As a member of this circle, your magic is influenced by the land where you were initiated into the circle’s mysterious rites.
->>>
->>> **_Bonus Cantrip._** When you choose this circle, you learn one additional druid cantrip of your choice.
->>> 
->>> **_Natural Recovery._** You can regain some of your magical energy by sitting in meditation and communing with nature. During a short rest, you choose expended spell slots to recover. The spell slots can have a combined level that is equal to your level, and none of the slots can be 6th level or higher. You can’t use this feature again until you finish a long rest.
->>>
->>> For example, when you are a 2nd-­level druid, you can recover up to two levels worth of spell slots. You can recover either a 2nd-­level slot or two 1st-level slots.
->>>
->>> **_Circle Spells._** Your mystical connection to the land infuses you with the ability to cast certain spells. You gain access to circle spells connected to the land where you became a druid. Choose that land—arctic, coast, desert, forest, grassland, mountain, or swamp—and consult the associated list of spells.
->>>
->>> Once you gain access to a circle spell, you always have it prepared, and it doesn’t count against the number of spells you can prepare each day. If you gain access to a spell that doesn’t appear on the druid spell list, the spell is nonetheless a druid spell for you.
->>>
->>> |||
->>> |:-|:-|
->>> |**Land**|**Circle Spells**|
->>> |Arctic|_hold person_, _spike growth_|
->>> |Coast|_mirror image_, _misty step_|
->>> |Desert|_blur_, _silence_|
->>> |Forest|_barkskin_, _spider climb_|
->>> |Grassland|_invisibility_, _pass without trace_|
->>> |Mountain|_spider climb_, _spike growth_|
->>> |Swamp|_acid arrow_, _darkness_|
->>> 
->>> Circle of the Sun and Moon
->>> 
->>> The Circle of the Sun and Moon is made up of mystics who meditate and commune with the cosmic astral plane, using radiance and starlight to strengthen allies while hindering foes. These druids meet within sacred standing stones to observe and reflect upon the position and motion of celestial bodies in the sky. The wisest members of the circle advise rulers of communities that follow the Old Faith, and are sometimes consulted by those of different faiths. As a member of this circle, your magic is influenced by the heavens and the astral plane.
->>>
->>> **_Astral Form._ (Wild Shape Form)** You have 2 + LEVEL MAX wounds while in astral form. You may use Wild Shape without discarding your action when shapeshifting into astral form. When you choose this form, you do not assume the shape of a beast. You become translucent, taking on an indigo tint filled with points of moving lights. You gain the following features while in astral form.
->>> - Your equipment does not merge into your astral form.
->>> - You may cast spells, speak, and take normal actions while in astral form.
->>> - **_Lunar Attunement._** Whenever you cast a spell that has no visible effect such as _cure wounds_, you discard solar attunement and gain lunar attunement. If you already have lunar attunement, discard it and activate _starfall_.
->>> - **_Solar Attunement._** Whenever you cast a spell that has a visible effect such as _entangle_, you discard lunar attunement and gain solar attunement. If you already have solar attunement, discard it and activate _starfall_.
->>> - **_Starfall._** A shooting star of radiance forms above your head and strikes a creature within 12 squares of you. If the creature is friendly, it receives 1 point of healing and may make an ability check to resist one ongoing negative effect. If the creature is not a friendly target, it must succeed on a DEX check using your spell DC or take 1 point of radiant damage. You then gain _lunar attunement_ or _solar attunement_.
+## Wild Shape
 
-### Sorcerer Upgrades
+As an action, you magically assume the shape of a beast that you have seen before. When you use this feature, save and set aside any wounds and choose a wild shape form. Use statistics for an elite creature except as detailed below. Your wild shape form cannot benefit from any swim or fly speeds it may have.
+ 
+### Wild Shape Forms
+ 
+**_Tough._** You have 5 + LEVEL MAX wounds and Defense 11 while in tough form. Your size increases to large if it is not already, with a reach of 1 square. You can attack twice instead of once whenever you take the Attack action on your turn. You gain Bolster LEVEL when you assume this form.
+
+**_Stealthy._** You have 4 + LEVEL MAX wounds and Defense 13 while in stealthy form. While in this form, you roll DEX and WIS checks with advantage and gain a pounce attack (if you don't already have one).
+
+> **_Pounce._** Whenever you take the Attack action, move at least 3 squares in a line toward a creature, and hit it with a melee attack, it must succeed on a DC (14 + LEVEL) STR check or be knocked prone. If the creature is prone, you can make one melee attack against it.
+ 
+**_Travel._** You can activate travel form outside of an encounter. You have 1 MAX wounds while in travel form. When activated, you and any chosen creatures within 6 squares of you transform into travel forms and move together. If an encounter begins or if 1 or more points of damage are dealt to you or another affected creature, your wild shape and all travel forms end. Your speed doubles while in travel form. Once activated, the travel form can be reactivated on the exploration map anytime outside of an encounter until you Recall. When you reactivate travel form, set aside any wild-shape form you are currently in. When travel form ends due to entering an encounter or taking 1 or more points of damage, you shift back into the wild shape form you set aside.
+ 
+You can use this feature twice. You regain expended uses when you finish a short rest.
+
+You can stay in a wild shape form until you Recall. You then revert to your normal form. You can discard your action to revert to your normal form earlier on your turn. If you fall unconscious, gain MAX wounds, or die, you automatically revert.
+
+While you are transformed, the following rules apply:
+
+- Your game statistics are replaced by the statistics of the wild shape form, but you retain your alignment, personality, and INT, WIS, and CHA. You also retain all of your proficiencies, in addition to gaining those of the creature. If the creature has the same proficiency as you and the bonus in its stat block is higher than yours, use the creature’s bonus instead of yours. If the creature has any legendary or lair actions, you can’t use them.
+- When you transform, you assume the wild shape form's MAX wounds. When you revert to your normal form, you return all wound cards you set aside before you transformed. However, if you revert because your wild shape form gained MAX Wounds, any excess wounds carry over to your normal form. For example, if you take 2 damage in a wild shape form and have room for only 1 wound, you revert and take 1 damage. As long as the excess damage doesn’t cause you to reach your maximum wounds, you aren’t knocked unconscious.
+- You can’t cast spells, and your ability to speak or take any action that requires hands is limited to the capabilities of your wild shape form. Transforming doesn’t break your concentration on a spell you’ve already cast, however, or prevent you from taking actions that are part of a spell, such as _call lightning_, that you’ve already cast.
+- You retain the benefit of any features from your class, race, or other source and can use them if the new form is physically capable of doing so. However, you can’t use any of your special senses, such as truesight, unless your new form also has that sense.
+- Your equipment merges into your new form and has no effect until you leave the form.
+
+## Druid Circle
+
+You choose to identify with a circle of druids, such as the Circle of the Land or the Circle of the Sun and Moon.
+ 
+### Circle of the Land
+
+The Circle of the Land is made up of mystics and sages who safeguard ancient knowledge and rites through a vast oral tradition. These druids meet within sacred circles of trees or standing stones to whisper primal secrets in Druidic. The circle’s wisest members preside as the chief priests of communities that hold to the Old Faith and serve as advisors to the rulers of those folk. As a member of this circle, your magic is influenced by the land where you were initiated into the circle’s mysterious rites.
+
+**_Bonus Cantrip._** When you choose this circle, you learn one additional druid cantrip of your choice.
+ 
+**_Natural Recovery._** You can regain some of your magical energy by sitting in meditation and communing with nature. During a short rest, you choose expended spell slots to recover. The spell slots can have a combined level that is equal to your level, and none of the slots can be 6th level or higher. You can’t use this feature again until you finish a long rest.
+
+For example, when you are a 2nd-­level druid, you can recover up to two levels worth of spell slots. You can recover either a 2nd-­level slot or two 1st-level slots.
+
+**_Circle Spells._** Your mystical connection to the land infuses you with the ability to cast certain spells. You gain access to circle spells connected to the land where you became a druid. Choose that land—arctic, coast, desert, forest, grassland, mountain, or swamp—and consult the associated list of spells.
+
+Once you gain access to a circle spell, you always have it prepared, and it doesn’t count against the number of spells you can prepare each day. If you gain access to a spell that doesn’t appear on the druid spell list, the spell is nonetheless a druid spell for you.
+
+|||
+|:-|:-|
+|**Land**|**Circle Spells**|
+|Arctic|_hold person_, _spike growth_|
+|Coast|_mirror image_, _misty step_|
+|Desert|_blur_, _silence_|
+|Forest|_barkskin_, _spider climb_|
+|Grassland|_invisibility_, _pass without trace_|
+|Mountain|_spider climb_, _spike growth_|
+|Swamp|_acid arrow_, _darkness_|
+ 
+### Circle of the Sun and Moon
+
+The Circle of the Sun and Moon is made up of mystics who meditate and commune with the cosmic astral plane, using radiance and starlight to strengthen allies while hindering foes. These druids meet within sacred standing stones to observe and reflect upon the position and motion of celestial bodies in the sky. The wisest members of the circle advise rulers of communities that follow the Old Faith, and are sometimes consulted by those of different faiths. As a member of this circle, your magic is influenced by the heavens and the astral plane.
+
+**_Astral Form._ (Wild Shape Form)** You have 2 + LEVEL MAX wounds while in astral form. You may use Wild Shape without discarding your action when shapeshifting into astral form. When you choose this form, you do not assume the shape of a beast. You and your equipment become translucent, taking on an indigo tint filled with points of moving lights. You gain the following features while in astral form.
+
+- Your equipment does not merge into your astral form and functions normally.
+- You may cast spells, speak, and take normal actions while in astral form.
+- **_Lunar Attunement._** Whenever you cast a spell that has no visible effect such as _cure wounds_, you discard solar attunement and gain lunar attunement. If you already have lunar attunement, discard it and activate _starfall_.
+- **_Solar Attunement._** Whenever you cast a spell that has a visible effect such as _entangle_, you discard lunar attunement and gain solar attunement. If you already have solar attunement, discard it and activate _starfall_.
+- **_Starfall._** A shooting star of radiance forms above your head and strikes a creature within 12 squares of you. If the creature is friendly, it receives 1 point of healing and may make an ability check to resist one ongoing negative effect. If the creature is not a friendly target, it must succeed on a DEX check using your spell DC or take 1 point of radiant damage. You then gain _lunar attunement_ or _solar attunement_.
+
+# Sorcerer Upgrades
 
 ||||
 |-:|:-|:-|
 |**Cost**|**Feature**|**Details**|
 |2⛁|Font of Magic|...|
+|3⛁|Magic|You gain +2 Mana and add +1 known spell from your class spell list. The added spell's level cannot exceed LEVEL.|
 |3⛁|Metamagic|...|
 
-> #### Font of Magic
->> You tap into a deep wellspring of magic within yourself. This wellspring is represented by sorcery points, which allow you to create a variety of magical effects.
->>
->>> **Sorcery Points.** You have 2 sorcery points. At the beginning of a game session, you regain all spent sorcery points.
->>>
->>> **Flexible Casting.** You can use your sorcery points to gain additional sorcerer spell slots, or sacrifice sorcerer spell slots to gain additional sorcery points.
->>>> **_Creating Spell Slots and Converting Spell Slots to Sorcery Points._** Once per turn, you can either transform 2 unexpended sorcery points into one 1st-level sorcerer spell or expend one 1st-level sorcerer spell slot and gain 1 sorcery point.
->>>>
->>>> Any spell slot you create with this feature vanishes at the end of the game session.
+## Font of Magic
 
-> #### Metamagic
->> You gain the ability to twist your spells to suit your needs. You gain two of the following Metamagic options of your choice.
->>
->> You can use only one Metamagic option on a spell when you cast it, unless otherwise noted.
->>
->> **_Careful Spell._** When you cast a spell that forces other creatures to make an ability check, you can protect some of those creatures from the spell’s full force. To do so, you spend 1 sorcery point and choose a number of those creatures up to your CHA (minimum of one creature). A chosen creature automatically succeeds on its ability check against the spell.
->>
->> **_Distant Spell._** When you cast a spell that has a range of 1 square or greater, you can spend 1 sorcery point to double the range of the spell.
->> When you cast a spell that has a range of touch, you can spend 1 sorcery point to make the range of the spell 6 squares.
->>
->> **_Empowered Spell._** When a spell deals damage, you can spend 2 sorcery points to increase the spell damage by +1.
->>
->> You can use Empowered Spell even if you have already used a different Metamagic option during the casting of the spell.
->>
->> **_Extended Spell._** When you cast a spell that has a duration of encounter, you can spend 1 sorcery point to extend its duration to the current game session.
->>
->> **_Heightened Spell._** When you cast a spell that forces a creature to make an ability check to resist its effects, you can spend 3 sorcery points to give one target of the spell disadvantage on its first ability check made against the spell.
->>
->> **_Quickened Spell._** Once per turn, when you take the Cast a Spell action with a spell with a casting time of 1 action, you can spend 2 sorcery points instead of discarding your action. If you use the Cast a Spell action again during the same turn, the spell must be a cantrip.
->>
->> **_Subtle Spell._** When you cast a spell, you can spend 1 sorcery point to cast it without any somatic or verbal components.
->>
->> **_Twinned Spell._** When you cast a spell that targets only one creature and doesn’t have a range of self, you can spend a number of sorcery points equal to the spell’s level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip).
->>
->> To be eligible, a spell must be incapable of targeting more than one creature at the spell’s current level. For example, _magic missile_ and _scorching ray_ aren’t eligible, but _ray of frost_ is.
+You tap into a deep wellspring of magic within yourself. This wellspring is represented by sorcery points, which allow you to create a variety of magical effects.
 
-### Warlock Upgrades
+### Sorcery Points.
+
+You have 2 sorcery points. At the beginning of a game session, you regain all spent sorcery points.
+
+### Flexible Casting
+
+You can use your sorcery points to gain additional mana, or sacrifice mana to gain additional sorcery points.
+
+Once per turn, you can either transform 2 unexpended sorcery points into 2 mana or expend 2 mana and gain 1 sorcery point.
+
+Any mana you create with this feature vanishes at the end of the game session.
+
+## Metamagic
+
+You gain the ability to change your spells to suit your needs. You gain two of the following Metamagic options of your choice.
+
+Unless otherwise noted, you can use only one Metamagic option on a spell when you cast it.
+
+### Careful Spell
+
+When you cast a spell that forces other creatures to make an ability check, you can protect some of those creatures from the spell’s full force. To do so, you spend 1 sorcery point and choose a number of those creatures up to your CHA (minimum of one creature). A chosen creature automatically succeeds on its ability check against the spell.
+
+### Distant Spell
+
+When you cast a spell that has a range of 1 square or greater, you can spend 1 sorcery point to double the range of the spell.
+When you cast a spell that has a range of touch, you can spend 1 sorcery point to make the range of the spell 6 squares.
+
+### Empowered Spell
+
+When a spell deals damage, you can spend 2 sorcery points to increase the spell damage by +1.
+
+You can use Empowered Spell even if you have already used a different Metamagic option during the casting of the spell.
+
+### Extended Spell
+
+When you cast a spell that has a duration of encounter, you can spend 1 sorcery point to extend its duration to Recall.
+
+### Heightened Spell
+
+When you cast a spell that forces a creature to make an ability check to resist its effects, you can spend 3 sorcery points to give one target of the spell disadvantage on its first ability check made against the spell.
+
+### Quickened Spell
+
+Once per turn, when you take the Cast a Spell action with a spell with a casting time of 1 action, you can spend 2 sorcery points instead of discarding your action. If you use the Cast a Spell action again during the same turn, the spell must be a cantrip.
+
+### Subtle Spell
+
+When you cast a spell, you can spend 1 sorcery point to cast it without any somatic or verbal components.
+
+### Twinned Spell
+
+When you cast a spell that targets only one creature and doesn’t have a range of self, you can spend a number of sorcery points equal to the spell’s level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip).
+
+To be eligible, a spell must be incapable of targeting more than one creature at the spell’s current level. For example, _magic missile_ and _scorching ray_ aren’t eligible, but _ray of frost_ is.
+
+# Warlock Upgrades
+
+||||
+|-:|:-|:-|
+|**Cost**|**Feature**|**Details**|
+|2⛁|Eldritch Invocations|...|
+|3⛁|Magic|You gain one additional use of your Pact Magic feature between rests and add +1 known spell from the warlock spell list. The added spell's level cannot exceed LEVEL.|
+|3⛁|Pact Boon|...|
+
+## Eldritch Invocations
 
 TBA
 
-### Wizard Upgrades
+## Pact Boon
 
 TBA
 
-# Scoundrel Upgrades
+# Wizard Upgrades
 
-## Class Upgrades
+TBA
 
-### Bard Upgrades
+# Bard Upgrades
 
 ||||
 |-:|:-|:-|
@@ -1291,19 +1306,15 @@ TBA
 > #### Expertise
 >> Gain proficiency with a nonproficient ability of your choice. Then choose two of your ability proficiencies or one of your ability proficiencies and your proficiency with a tool. As long as the chosen proficiencies or tools do not already have expertise, you gain expertise in the chosen abilities or tools. Expertise allows you to add your level to a check twice instead of once.
 
-### Rogue Upgrades
+# Rogue Upgrades
 
 TBA
 
-### Ranger Upgrades
+# Ranger Upgrades
 
 TBA
 
-# Warrior Upgrades
-
-## Class Upgrades
-
-### Barbarian Upgrades
+# Barbarian Upgrades
 
 ||||
 |-:|:-|:-|
@@ -1317,7 +1328,7 @@ TBA
 
 **_Path of the Berserker_.** For some barbarians, rage is a means to an end. The Path of the Berserker is a path of unleashed fury. You can go into a frenzy when you rage. If you do so, for the duration of your rage, you can make a single melee weapon attack after you take the Attack action. When your rage ends, you suffer one level of exhaustion (as described in Appendix PH-­A).
 
-### Fighter Upgrades
+# Fighter Upgrades
 
 ||||
 |-:|:-|:-|
@@ -1335,7 +1346,7 @@ TBA
 >>
 >>> **_Champion._** The archetypal Champion focuses on the development of raw physical power honed to deadly perfection. Those who model themselves on this archetype combine rigorous training with physical excellence to deal devastating blows. Your weapon attacks score a critical hit on a roll of 19 or 20.
 
-### Monk Upgrades
+# Monk Upgrades
 
 ||||
 |-:|:-|:-|
@@ -2168,7 +2179,7 @@ You must meet any prerequisite specified in a feat to take that feat. If you eve
 
 _Prerequisite: Proficiency with medium armor_
 
-You gain proficiency with heavy armor and shields. At the beginning of each of your turns, if you are wearing heavy armor, you gain **bolster 1**. Unlike other sources of bolster, you may combine this bolster with another bolster. Once you combine bolsters in this way, you cannot do so again until your next turn.
+You gain proficiency with heavy armor and shields. At the beginning of each of your turns, if you are wearing heavy armor, you gain **bolster 1**. Unlike other sources of bolster, you may combine this bolster with another bolster once.
 
 - 3⛁: Permanently increase your bolster score granted through this feature by +1. You may choose this option up to three times and only once per level.
 
@@ -2189,6 +2200,12 @@ _Prerequisite: STR +1 or higher_
 You’ve developed the skills necessary to hold your own in close-­quarters grappling. You gain the following benefits:
 - You have advantage on attack rolls against a creature you are grappling.
 - You can use your action to try to pin a creature grappled by you. To do so, make another grapple check. If you succeed, you and the creature are both restrained until the grapple ends.
+
+## Touch of Magic
+
+Choose a mage class. You gain the ability to cast two cantrips from the chosen class. Additionally, choose a 1st level spell from the chosen class' spell list. You gain the ability to cast the chosen spell once per game session without spending mana. If the chosen 1st-level spell appears on your 1st-level class spell list, you also add the spell as a known spell.
+
+Your spellcasting ability score for these spells depends on the chosen class. INT for wizards, WIS for clerics and druids, and CHA for sorcerers and warlocks.
 
 # Using Ability Scores
 
