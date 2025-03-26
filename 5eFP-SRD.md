@@ -286,15 +286,15 @@ It’s hard to make generalizations about humans, but your human character has t
 
 **Languages.** You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on.
 
-## Barbarian
+# Barbarian
 
-**Class Features**
+## Class Features
 
-**Health**
+## Health
 
 **MAX Wounds:** 5 + Constitution (CON)
 
-**Proficiencies**
+## Proficiencies
 
 **Armor:** Light armor, medium armor, shields
 
@@ -304,14 +304,14 @@ It’s hard to make generalizations about humans, but your human character has t
 
 **Abilities:** Strength (STR), Constitution (CON)
 
-**Equipment**
+## Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 - (*a*) a battleaxe or (*b*) any martial melee weapon
 - (*a*) handaxes or (*b*) any simple weapon
 - An explorer's pack and javelins
 
-### Rage
+## Rage
 
 In battle, you fight with primal ferocity. When you take the Attack action on your turn, you can choose to first enter into a rage for the rest of the encounter.
 
@@ -325,7 +325,7 @@ Your rage ends early if you are knocked unconscious or if your turn ends and you
 
 You can rage twice per game session.
 
-### Unarmored Defense
+## Unarmored Defense
 
 While not wearing armor, you add CON (minimum 0) to your Defense. You can use a shield and still gain this benefit.
 
@@ -490,54 +490,9 @@ Your healing spells are more effective. Whenever you use a spell of 1st level or
 
 ### Channel Divinity: Preserve Life
 
-_Purchase Channel Divinity to unlock this feature._
+_Purchase the Channel Divinity upgrade to unlock this feature._
 
 You discard your action and present your holy symbol, evoking healing energy that can provide up to 5 points of healing. Choose any creatures within 6 squares of you, and divide the healing among them. You can’t use this feature on an undead or a construct.
-
-# Paladin
-
-## Class Features
-
-As a paladin, you gain the following class features.
-
-## Health
-
-**MAX Wounds:** 4 + Constitution (CON)
-
-## Proficiencies
-
-**Armor:** All armor, shields
-
-**Weapons:** Simple	weapons,	martial	weapons
-
-**Tools:** None
-
-**Abilities:** Wisdom (WIS), Charisma (CHA)
-
-## Equipment
-
-You start with the following equipment, in addition to the equipment granted by your background:
-
-- (a) a martial weapon and a shield or (b) two martial weapons
-- (a) javelins or (b) any simple melee weapon
-- (a) a priest’s pack or (b) an explorer’s pack
-- Chain mail and a holy symbol
-
-## Divine Sense
-
-The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 12 squares of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the _hallow_ spell.
-
-You can use this feature a number of times equal to CHA + 1.
-
-## Lay on Hands
-
-Your blessed touch can heal wounds. You have a reserve of healing power. You can assign up to 5 points of healing with your reserve.
-
-As an action, you can touch a wounded creature and spend 1 or more points of healing, up to the maximum amount remaining in your reserve. The creature receives the healing.
-
-Alternatively, you can expend 5 points from your reserve to cure the target of one disease or neutralize one poison affecting it. You can cure multiple diseases and neutralize multiple poisons with a single use of Lay on Hands, expending points separately for each one.
-
-This feature has no effect on undead and constructs.
 
 # Druid
 
@@ -602,6 +557,239 @@ Wisdom (WIS) is your spellcasting ability for your druid spells, since your magi
 ## Ritual Casting
 
 You can cast a druid spell as a ritual if that spell has the ritual tag and you know the spell.
+
+## Fighter
+
+### Class Features
+
+As a fighter, you gain the following class features.
+
+### Health
+
+**MAX Wounds:** 5 + Constitution (CON)
+
+### Proficiencies
+
+**Armor:** All	armor, shields
+
+**Weapons:** Simple weapons, martial weapons
+
+**Tools:** None
+
+**Abilities:** Strength (STR), Constitution (CON)
+
+### Equipment
+
+You start with the following equipment, in addition to the equipment granted by your background:
+
+- (*a*) chain mail or (*b*) leather armor, longbow, and arrows
+- (*a*) a martial weapon and a shield or (*b*) two martial weapons
+- (*a*) a light crossbow and bolts or (*b*) handaxes
+- (*a*) a dungeoneer’s pack or (*b*) an explorer’s pack
+
+### Fighting Style
+
+You adopt a particular style of fighting as your specialty. Choose one of the following options. You can’t take a Fighting Style option more than once, even if you later get to choose again.
+
+#### Archery
+
+You gain a +1 bonus to attack rolls you make with ranged weapons.
+
+#### Armored
+
+While you are wearing armor, you gain a +1 bonus to Defense.
+
+#### Great Weapon Fighting
+
+Whenever you attack and miss with a melee weapon you are wielding with two hands, you may reroll the attack once and must use the new roll. The weapon must have the two-handed property for you to gain this benefit.
+
+#### Protection
+
+When a creature you can see attacks a target other than you that is within 1 square of you, you can discard your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
+
+### Second Wind
+
+You have a limited well of stamina that you can draw on to protect yourself from harm. Once during your turn, you receive up to 2 points of healing. Once you use this feature, you must finish a rest before you can use it again.
+
+## Monk
+
+#### Class Features
+
+As a monk, you gain the following class features.
+
+#### Health
+
+**MAX Wounds:** 5 + Constitution (CON)
+
+#### Proficiencies
+
+**Armor:** None
+
+**Weapons:** Simple weapons, shortswords
+
+**Tools:** Choose one type of artisan’s tools or one musical instrument
+
+**Abilities:** Strength (STR), Dexterity (DEX)
+
+#### Equipment
+
+You start with the following equipment, in addition to the equipment granted by your background:
+
+- (*a*) a shortsword or (*b*) any simple weapon
+- (*a*) a dungeoneer’s pack or (*b*) an explorer’s pack
+- darts
+
+### Unarmored Defense
+
+While not wearing armor or wielding a shield, you add WIS (minimum 0) to your Defense.
+
+### Martial Arts
+
+Your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are shortswords and any simple melee weapons that don't have the two-handed or heavy property.
+
+You gain the following benefits while you are unarmed or wielding only monk weapons and you aren’t wearing armor or wielding a shield:
+- When you use the Attack action with an unarmed strike or a monk weapon on your turn, you can make one additional Attack with an unarmed strike. For example, if you take the Attack action and attack with a quarterstaff, you can also make an unarmed strike.
+
+Certain monasteries use specialized forms of monk weapons. For example, you might use a club that is two lengths of wood connected by a short chain (called a nunchaku) or a sickle with a shorter, straighter blade (called a kama). Whatever name you use for a monk weapon, you can use the game statistics provided for the weapon.
+
+# Paladin
+
+## Class Features
+
+As a paladin, you gain the following class features.
+
+## Health
+
+**MAX Wounds:** 4 + Constitution (CON)
+
+## Proficiencies
+
+**Armor:** All armor, shields
+
+**Weapons:** Simple	weapons,	martial	weapons
+
+**Tools:** None
+
+**Abilities:** Wisdom (WIS), Charisma (CHA)
+
+## Equipment
+
+You start with the following equipment, in addition to the equipment granted by your background:
+
+- (a) a martial weapon and a shield or (b) two martial weapons
+- (a) javelins or (b) any simple melee weapon
+- (a) a priest’s pack or (b) an explorer’s pack
+- Chain mail and a holy symbol
+
+## Divine Sense
+
+The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 12 squares of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the _hallow_ spell.
+
+You can use this feature a number of times equal to CHA + 1.
+
+## Lay on Hands
+
+Your blessed touch can heal wounds. You have a reserve of healing power. You can assign up to 5 points of healing with your reserve.
+
+As an action, you can touch a wounded creature and spend 1 or more points of healing, up to the maximum amount remaining in your reserve. The creature receives the healing.
+
+Alternatively, you can expend 5 points from your reserve to cure the target of one disease or neutralize one poison affecting it. You can cure multiple diseases and neutralize multiple poisons with a single use of Lay on Hands, expending points separately for each one.
+
+This feature has no effect on undead and constructs.
+
+## Ranger
+
+#### Class Features
+
+As a ranger, you gain the following class features.
+
+#### Health
+
+**MAX Wounds:** 4 + Constitution (CON)
+
+#### Proficiencies
+
+**Armor:** Light armor, medium armor, shields
+
+Weapons: Simple weapons, martial weapons
+
+**Tools:** None
+
+**Abilities:** Strength (STR), Dexterity (DEX)
+
+#### Equipment
+
+You start with the following equipment, in addition to the equipment granted by your background:
+
+- (a) scale mail or (b) leather armor
+- (a) two shortswords or (b) two simple melee weapons
+- (a) a dungeoneer’s pack or (b) an explorer’s pack
+- A longbow and arrows
+
+### Favored Enemy
+
+You have significant experience studying, tracking, hunting, and even talking to a certain type of enemy. Choose a type of favored enemy: aberrations, beasts, celestials, constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead. Alternatively, you can select two species of humanoid (such as gnolls and orcs) as favored enemies.
+
+You have advantage on WIS checks to track your favored enemies, as well as on INT checks to recall information about them.
+
+When you gain this feature, you also learn one language of your choice that is spoken by your favored enemies, if they speak one at all.
+
+### Natural Explorer
+
+You are particularly familiar with one type of natural environment and are adept at traveling and surviving in such regions. Choose one type of favored terrain: arctic, coast, desert, forest, grassland, mountain, or swamp. While in your favored terrain, proficient ability checks related to your favored terrain gain expertise. (Expertise allows you to add your level to your bonus twice.)
+
+While traveling in your favored terrain, you gain the following benefits:
+- Difficult terrain doesn’t slow your group’s travel.
+- Your group can’t become lost except by magical means.
+- Your group always acts on the surprise round.
+- Your group may move stealthily at a normal pace.
+- You find one additional resource when you gather resources.
+- While tracking other creatures, you also learn their exact number and sizes and how long ago they passed through the area.
+
+## Rogue
+
+#### Class Features
+
+As a rogue, you have the following class features.
+
+#### Health
+
+**MAX Wounds:** 4 + Constitution (CON)
+
+#### Proficiencies
+
+**Armor:** Light armor
+
+**Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords
+
+**Tools:** Thieves’ tools
+
+**Abilities:** Dexterity (DEX), Intelligence (INT)
+
+#### Equipment
+
+You start with the following equipment, in addition to the equipment granted by your background:
+
+- (a) a rapier or (b) a shortsword
+- (a) a shortbow and quiver of arrows or (b) a shortsword
+- (a) a burglar’s pack, (b) a dungeoneer’s pack, or (c) an explorer’s pack
+- (a) Leather armor, two daggers, and thieves’ tools
+
+### Expertise
+
+Gain proficiency with a nonproficient ability of your choice. Then choose two of your ability proficiencies or one of your ability proficiencies and your proficiency with thieves’ tools. As long as the chosen proficiencies or tools do not already have expertise, you gain expertise in the chosen abilities or tools. Expertise allows you to add your level to a check twice instead of once.
+
+### Sneak Attack
+
+You know how to strike subtly and exploit a foe’s distraction. Once per turn, you can deal an extra +1 damage to one creature you hit with an attack if you have advantage on the attack roll.
+
+You don’t need advantage on the attack roll if another enemy of the target is within 1 square of it, that enemy isn’t incapacitated, and you don’t have disadvantage on the attack roll.
+
+### Thieves’ Cant
+
+During your rogue training you learned thieves’ cant, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. Only another creature that knows thieves’ cant understands such messages. It takes four times longer to convey such a message than it does to speak the same idea plainly.
+
+In addition, you understand a set of secret signs and symbols used to convey short, simple messages, such as whether an area is dangerous or the territory of a thieves' guild, whether loot is nearby, or whether the people in an area are easy marks or will provide a safe house for thieves on the run.
 
 # Sorcerer
 
@@ -861,202 +1049,6 @@ For example, if you’re a 2nd-­level wizard, you can recover up to two levels 
 > If you lose your spellbook, you can use the same procedure to transcribe the spells that you have prepared into a new spellbook. Filling out the remainder of your spellbook requires you to find new spells to do so, as normal. For this reason, many wizards keep backup spellbooks in a safe place.
 > 
 > ***The Book’s Appearance.*** Your spellbook is a unique compilation of spells, with its own decorative flourishes and margin notes. It might be a plain, functional leather volume that you received as a gift from your master, a finely bound gilt-edged tome you found in an ancient library, or even a loose collection of notes scrounged together after you lost your previous spellbook in a mishap.
-
-# Scoundrals
-
-Scoundrels are generally charismatic when seen and nearly invisible when unseen.
-
-## Ranger
-
-#### Class Features
-
-As a ranger, you gain the following class features.
-
-#### Health
-
-**MAX Wounds:** 4 + Constitution (CON)
-
-#### Proficiencies
-
-**Armor:** Light armor, medium armor, shields
-
-Weapons: Simple weapons, martial weapons
-
-**Tools:** None
-
-**Abilities:** Strength (STR), Dexterity (DEX)
-
-#### Equipment
-
-You start with the following equipment, in addition to the equipment granted by your background:
-
-- (a) scale mail or (b) leather armor
-- (a) two shortswords or (b) two simple melee weapons
-- (a) a dungeoneer’s pack or (b) an explorer’s pack
-- A longbow and arrows
-
-### Favored Enemy
-
-You have significant experience studying, tracking, hunting, and even talking to a certain type of enemy. Choose a type of favored enemy: aberrations, beasts, celestials, constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead. Alternatively, you can select two species of humanoid (such as gnolls and orcs) as favored enemies.
-
-You have advantage on WIS checks to track your favored enemies, as well as on INT checks to recall information about them.
-
-When you gain this feature, you also learn one language of your choice that is spoken by your favored enemies, if they speak one at all.
-
-### Natural Explorer
-
-You are particularly familiar with one type of natural environment and are adept at traveling and surviving in such regions. Choose one type of favored terrain: arctic, coast, desert, forest, grassland, mountain, or swamp. While in your favored terrain, proficient ability checks related to your favored terrain gain expertise. (Expertise allows you to add your level to your bonus twice.)
-
-While traveling in your favored terrain, you gain the following benefits:
-- Difficult terrain doesn’t slow your group’s travel.
-- Your group can’t become lost except by magical means.
-- Your group always acts on the surprise round.
-- Your group may move stealthily at a normal pace.
-- You find one additional resource when you gather resources.
-- While tracking other creatures, you also learn their exact number and sizes and how long ago they passed through the area.
-
-## Rogue
-
-#### Class Features
-
-As a rogue, you have the following class features.
-
-#### Health
-
-**MAX Wounds:** 4 + Constitution (CON)
-
-#### Proficiencies
-
-**Armor:** Light armor
-
-**Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords
-
-**Tools:** Thieves’ tools
-
-**Abilities:** Dexterity (DEX), Intelligence (INT)
-
-#### Equipment
-
-You start with the following equipment, in addition to the equipment granted by your background:
-
-- (a) a rapier or (b) a shortsword
-- (a) a shortbow and quiver of arrows or (b) a shortsword
-- (a) a burglar’s pack, (b) a dungeoneer’s pack, or (c) an explorer’s pack
-- (a) Leather armor, two daggers, and thieves’ tools
-
-### Expertise
-
-Gain proficiency with a nonproficient ability of your choice. Then choose two of your ability proficiencies or one of your ability proficiencies and your proficiency with thieves’ tools. As long as the chosen proficiencies or tools do not already have expertise, you gain expertise in the chosen abilities or tools. Expertise allows you to add your level to a check twice instead of once.
-
-### Sneak Attack
-
-You know how to strike subtly and exploit a foe’s distraction. Once per turn, you can deal an extra +1 damage to one creature you hit with an attack if you have advantage on the attack roll.
-
-You don’t need advantage on the attack roll if another enemy of the target is within 1 square of it, that enemy isn’t incapacitated, and you don’t have disadvantage on the attack roll.
-
-### Thieves’ Cant
-
-During your rogue training you learned thieves’ cant, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. Only another creature that knows thieves’ cant understands such messages. It takes four times longer to convey such a message than it does to speak the same idea plainly.
-
-In addition, you understand a set of secret signs and symbols used to convey short, simple messages, such as whether an area is dangerous or the territory of a thieves' guild, whether loot is nearby, or whether the people in an area are easy marks or will provide a safe house for thieves on the run.
-
-# Warriors
-
-Warriors are fighters or expert combatants with extensive training in attacking and defending.
-
-## Fighter
-
-### Class Features
-
-As a fighter, you gain the following class features.
-
-### Health
-
-**MAX Wounds:** 5 + Constitution (CON)
-
-### Proficiencies
-
-**Armor:** All	armor, shields
-
-**Weapons:** Simple weapons, martial weapons
-
-**Tools:** None
-
-**Abilities:** Strength (STR), Constitution (CON)
-
-### Equipment
-
-You start with the following equipment, in addition to the equipment granted by your background:
-
-- (*a*) chain mail or (*b*) leather armor, longbow, and arrows
-- (*a*) a martial weapon and a shield or (*b*) two martial weapons
-- (*a*) a light crossbow and bolts or (*b*) handaxes
-- (*a*) a dungeoneer’s pack or (*b*) an explorer’s pack
-
-### Fighting Style
-
-You adopt a particular style of fighting as your specialty. Choose one of the following options. You can’t take a Fighting Style option more than once, even if you later get to choose again.
-
-#### Archery
-
-You gain a +1 bonus to attack rolls you make with ranged weapons.
-
-#### Armored
-
-While you are wearing armor, you gain a +1 bonus to Defense.
-
-#### Great Weapon Fighting
-
-Whenever you attack and miss with a melee weapon you are wielding with two hands, you may reroll the attack once and must use the new roll. The weapon must have the two-handed property for you to gain this benefit.
-
-#### Protection
-
-When a creature you can see attacks a target other than you that is within 1 square of you, you can discard your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
-
-### Second Wind
-
-You have a limited well of stamina that you can draw on to protect yourself from harm. Once during your turn, you receive up to 2 points of healing. Once you use this feature, you must finish a rest before you can use it again.
-
-## Monk
-
-#### Class Features
-
-As a monk, you gain the following class features.
-
-#### Health
-
-**MAX Wounds:** 5 + Constitution (CON)
-
-#### Proficiencies
-
-**Armor:** None
-
-**Weapons:** Simple weapons, shortswords
-
-**Tools:** Choose one type of artisan’s tools or one musical instrument
-
-**Abilities:** Strength (STR), Dexterity (DEX)
-
-#### Equipment
-
-You start with the following equipment, in addition to the equipment granted by your background:
-
-- (*a*) a shortsword or (*b*) any simple weapon
-- (*a*) a dungeoneer’s pack or (*b*) an explorer’s pack
-- darts
-
-### Unarmored Defense
-
-While not wearing armor or wielding a shield, you add WIS (minimum 0) to your Defense.
-
-### Martial Arts
-
-Your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are shortswords and any simple melee weapons that don't have the two-handed or heavy property.
-
-You gain the following benefits while you are unarmed or wielding only monk weapons and you aren’t wearing armor or wielding a shield:
-- When you use the Attack action with an unarmed strike or a monk weapon on your turn, you can make one additional Attack with an unarmed strike. For example, if you take the Attack action and attack with a quarterstaff, you can also make an unarmed strike.
-
-Certain monasteries use specialized forms of monk weapons. For example, you might use a club that is two lengths of wood connected by a short chain (called a nunchaku) or a sickle with a shorter, straighter blade (called a kama). Whatever name you use for a monk weapon, you can use the game statistics provided for the weapon.
 
 # Beyond 1st Level
 
