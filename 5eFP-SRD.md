@@ -286,6 +286,119 @@ It’s hard to make generalizations about humans, but your human character has t
 
 **Languages.** You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on.
 
+## Barbarian
+
+**Class Features**
+
+**Health**
+
+**MAX Wounds:** 5 + Constitution (CON)
+
+**Proficiencies**
+
+**Armor:** Light armor, medium armor, shields
+
+**Weapons:** Simple weapons, martial weapons
+
+**Tools:** None
+
+**Abilities:** Strength (STR), Constitution (CON)
+
+**Equipment**
+
+You start with the following equipment, in addition to the equipment granted by your background:
+- (*a*) a battleaxe or (*b*) any martial melee weapon
+- (*a*) handaxes or (*b*) any simple weapon
+- An explorer's pack and javelins
+
+### Rage
+
+In battle, you fight with primal ferocity. When you take the Attack action on your turn, you can choose to first enter into a rage for the rest of the encounter.
+
+While raging, you gain the following benefits if you aren’t wearing armor:
+- You have advantage on STR checks.
+- You gain resistance to bludgeoning, piercing, and slashing damage.
+
+If you are able to cast spells, you can’t cast them or concentrate on them while raging.
+
+Your rage ends early if you are knocked unconscious or if your turn ends and you haven’t attacked a hostile creature since your last turn or taken damage since then. You can end your rage early on your turn, starting on the turn after you activate rage.
+
+You can rage twice per game session.
+
+### Unarmored Defense
+
+While not wearing armor, you add CON (minimum 0) to your Defense. You can use a shield and still gain this benefit.
+
+# Bard
+
+## Class Features
+
+## Health
+
+**MAX Wounds:** 4 + Constitution (CON)
+
+## Proficiencies
+
+**Armor:** Light armor
+
+**Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords
+
+**Tools:** None
+
+**Abilities:** Dexterity (DEX), Charisma (CHA)
+
+## Equipment
+
+You start with the following equipment, in addition to the equipment granted by your background:
+- (*a*) a rapier or (*b*) a longsword, or (*c*) any simple weapon
+- (*a*) a diplomat's pack or (*b*) an entertainer's pack
+- (*a*) a lute or (*b*) any other musical instrument
+- Leather armor and dagger
+
+## Spellcasting
+
+You have learned to untangle and reshape the fabric of reality in harmony with your wishes and music.
+
+### Cantrips
+
+You know two cantrips of your choice from the bard spell list.
+
+### Spell Slots
+
+You begin the game with two 1st level spell slots. To cast one of your spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots at the end of the game session.
+
+For example, if you know the 1st-level spell _cure wounds_ and have 2 mana, you can spend 1 mana to cast _cure wounds_ as a 1st-level spell or 2 mana to cast it as a 2nd-level spell.
+
+### Spells Known
+
+You know four 1st-level spells of your choice from the bard spell list.
+
+Whenever you unlock a Magic feature (i.e., Magic I, Magic II, Magic III, etc.), you can choose one of the bard spells you know and replace it with another spell from the bard spell list, which also must be of a level for which you have spell slots.
+
+### Spellcasting Ability
+
+Charisma (CHA) is your spellcasting ability for your bard spells. Your magic comes from the heart and soul you pour into the performance of your music or oration. You use your CHA whenever a spell refers to your spellcasting ability. In addition, you use your CHA when setting the DC for a bard spell you cast and when making an attack roll with one.
+
+**Spell DC** = 10 + CHA
+
+**Spell attack modifier** = 2 + CHA
+
+### Ritual Casting
+
+You can cast any bard spell you know as a ritual if that spell has the ritual tag and you know the spell.
+
+### Magic Performance
+
+Your bardic magic lets you use your voice or any instrument you wield more effectively. You roll with advantage whenever you make CHA checks with your voice or an instrument you're welding.
+
+### Bardic Action Dice
+
+Once during your turn you can inspire others through stirring words or music. Choose one creature other than yourself within 10 squares of you who can hear you. That creature gains three of your action dice.
+
+For the remainder of the encounter, the creature can roll any of your action dice and add the result to one ability check or attack roll it makes. The creature can wait until after it rolls the d20 before deciding to use any of your action dice but must decide before the GM says whether the roll succeeds or fails. Once your action dice are rolled, they are returned to you. If the creature has one or more of your action dice and gains more, it decides whether to keep the ones it has or gain the new ones. Any discarded action dice are returned to you.
+
+You can use this feature a number of times per day equal to your CHA (minimum 1).
+
 # Cleric
 
 ## Class Features
@@ -320,23 +433,23 @@ You start with the following equipment, in addition to the equipment granted by 
 
 As a conduit for divine power, you can cast cleric spells. 
 
-## Cantrips
+### Cantrips
 
 You know three cantrips of your choice from the cleric spell list.
 
-## Mana
+### Mana
 
 You gain 2 mana. To cast one of your spells, you must spend an amount of mana equal to the spell’s level or higher. You regain all spent mana at the beginning of a game session.
 
 For example, if you know the 1st-level spell _cure wounds_ and have 2 mana, you can spend 1 mana to cast _cure wounds_ as a 1st-level spell or 2 mana to cast it as a 2nd-level spell.
 
-## Spells Known
+### Spells Known
 
 You know WIS 1st-level spells from the cleric spell list.
 
 Whenever you purchase a Magic upgrade, you can choose one of the cleric spells you know and replace it with another spell from the cleric spell list that you can cast.
 
-## Spellcasting Ability
+### Spellcasting Ability
 
 Wisdom (WIS) is your spellcasting ability for your cleric spells. The power of your spells comes from your devotion to your deity, a dedication, such as those listed in the dedication rules, or one elemental quality from earth, water, fire, air, and aether. You use your WIS whenever a cleric spell refers to your spellcasting ability. In addition, you use WIS when setting the DC for a cleric spell you cast and when making an attack roll with one.
 
@@ -344,7 +457,7 @@ Wisdom (WIS) is your spellcasting ability for your cleric spells. The power of y
 
 **Spell attack modifier** = 2 + WIS
 
-## Ritual Casting
+### Ritual Casting
 
 You can cast a cleric spell as a ritual if that spell has the ritual tag and you know the spell.
 
@@ -352,7 +465,7 @@ You can cast a cleric spell as a ritual if that spell has the ritual tag and you
 
 Choose one domain related to your deity, such as Medicine. Each domain is detailed at the end of the class description, and each one provides examples of gods associated with it. Your choice grants you domain spells and other features.
 
-### Domain Spells
+#### Domain Spells
 
 Each domain has a list of domain spells. You always know your domain spells, which don't count against the number of spells you know.
 
@@ -374,10 +487,6 @@ You gain proficiency with heavy armor.
 ### Performance Medicine
 
 Your healing spells are more effective. Whenever you use a spell of 1st level or higher to give a creature 1 or more points of healing, the creature receives one additional point of healing per spell level.
-
-### Channel Divinity: Preserve Life
-
-You discard your action and present your holy symbol, evoking healing energy that can provide up to 5 points of healing. Choose any creatures within 6 squares of you, and divide the healing among them. You can’t use this feature on an undead or a construct.
 
 # Paladin
 
@@ -751,76 +860,6 @@ For example, if you’re a 2nd-­level wizard, you can recover up to two levels 
 
 Scoundrels are generally charismatic when seen and nearly invisible when unseen.
 
-## Bard
-
-**Class Features**
-
-**Health**
-
-**MAX Wounds:** 4 + Constitution (CON)
-
-**Proficiencies**
-
-**Armor:** Light armor
-
-**Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords
-
-**Tools:** None
-
-**Abilities:** Dexterity (DEX), Charisma (CHA)
-
-**Equipment**
-
-You start with the following equipment, in addition to the equipment granted by your background:
-- (*a*) a rapier or (*b*) a longsword, or (*c*) any simple weapon
-- (*a*) a diplomat's pack or (*b*) an entertainer's pack
-- (*a*) a lute or (*b*) any other musical instrument
-- Leather armor and dagger
-
-### Spellcasting
-
-You have learned to untangle and reshape the fabric of reality in harmony with your wishes and music.
-
-### Cantrips
-
-You know two cantrips of your choice from the bard spell list.
-
-### Spell Slots
-
-You begin the game with two 1st level spell slots. To cast one of your spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots at the end of the game session.
-
-For example, if you know the 1st-level spell _cure wounds_ and have 2 mana, you can spend 1 mana to cast _cure wounds_ as a 1st-level spell or 2 mana to cast it as a 2nd-level spell.
-
-### Spells Known
-
-You know four 1st-level spells of your choice from the bard spell list.
-
-Whenever you unlock a Magic feature (i.e., Magic I, Magic II, Magic III, etc.), you can choose one of the bard spells you know and replace it with another spell from the bard spell list, which also must be of a level for which you have spell slots.
-
-### Spellcasting Ability
-
-Charisma (CHA) is your spellcasting ability for your bard spells. Your magic comes from the heart and soul you pour into the performance of your music or oration. You use your CHA whenever a spell refers to your spellcasting ability. In addition, you use your CHA when setting the DC for a bard spell you cast and when making an attack roll with one.
-
-**Spell DC** = 10 + CHA
-
-**Spell attack modifier** = 2 + CHA
-
-### Ritual Casting
-
-You can cast any bard spell you know as a ritual if that spell has the ritual tag and you know the spell.
-
-### Magic Performance
-
-Your bardic magic lets you use your voice or any instrument you wield more effectively. You roll with advantage whenever you make CHA checks with your voice or an instrument you're welding.
-
-### Bardic Action Dice
-
-Once during your turn you can inspire others through stirring words or music. Choose one creature other than yourself within 10 squares of you who can hear you. That creature gains three of your action dice.
-
-For the remainder of the encounter, the creature can roll any of your action dice and add the result to one ability check or attack roll it makes. The creature can wait until after it rolls the d20 before deciding to use any of your action dice but must decide before the GM says whether the roll succeeds or fails. Once your action dice are rolled, they are returned to you. If the creature has one or more of your action dice and gains more, it decides whether to keep the ones it has or gain the new ones. Any discarded action dice are returned to you.
-
-You can use this feature a number of times per day equal to your CHA (minimum 1).
-
 ## Ranger
 
 #### Class Features
@@ -918,49 +957,6 @@ In addition, you understand a set of secret signs and symbols used to convey sho
 # Warriors
 
 Warriors are fighters or expert combatants with extensive training in attacking and defending.
-
-## Barbarian
-
-**Class Features**
-
-**Health**
-
-**MAX Wounds:** 5 + Constitution (CON)
-
-**Proficiencies**
-
-**Armor:** Light armor, medium armor, shields
-
-**Weapons:** Simple weapons, martial weapons
-
-**Tools:** None
-
-**Abilities:** Strength (STR), Constitution (CON)
-
-**Equipment**
-
-You start with the following equipment, in addition to the equipment granted by your background:
-- (*a*) a battleaxe or (*b*) any martial melee weapon
-- (*a*) handaxes or (*b*) any simple weapon
-- An explorer's pack and javelins
-
-### Rage
-
-In battle, you fight with primal ferocity. When you take the Attack action on your turn, you can choose to first enter into a rage for the rest of the encounter.
-
-While raging, you gain the following benefits if you aren’t wearing armor:
-- You have advantage on STR checks.
-- You gain resistance to bludgeoning, piercing, and slashing damage.
-
-If you are able to cast spells, you can’t cast them or concentrate on them while raging.
-
-Your rage ends early if you are knocked unconscious or if your turn ends and you haven’t attacked a hostile creature since your last turn or taken damage since then. You can end your rage early on your turn, starting on the turn after you activate rage.
-
-You can rage twice per game session.
-
-### Unarmored Defense
-
-While not wearing armor, you add CON (minimum 0) to your Defense. You can use a shield and still gain this benefit.
 
 ## Fighter
 
