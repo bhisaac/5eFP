@@ -1082,6 +1082,10 @@ Whenever your CON changes, recalculate your MAX wounds with the new CON score.
 
 The following upgrades provide an additional way to gain inspiration once per game session.
 
+- 3⛁: **Inspired Success.** You gain inspiration after resolving a critical success.
+- 3⛁: Inspired Failure. You gain inspiration after resolving a critical failure.
+- 3⛁: Inspired Support. If a game feature or effect helps you succeed when you would have otherwise failed, you gain inspiration at the end of your turn.
+
 ||||
 |-:|:-|:-|
 |**Cost**|**Feature**|**Details**|
