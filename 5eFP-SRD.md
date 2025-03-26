@@ -286,10 +286,6 @@ It’s hard to make generalizations about humans, but your human character has t
 
 **Languages.** You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on.
 
-# Healers
-
-Healers are generally good combatants with features that protect and heal themselves and others.
-
 # Cleric
 
 ## Class Features
@@ -428,10 +424,6 @@ Alternatively, you can expend 5 points from your reserve to cure the target of o
 
 This feature has no effect on undead and constructs.
 
-# Mages
-
-Mages are generally spellcasters or versatile specialists with more mental and less physical training.
-
 # Druid
 
 ## Class Features
@@ -498,15 +490,15 @@ You can cast a druid spell as a ritual if that spell has the ritual tag and you 
 
 # Sorcerer
 
-#### Class Features
+## Class Features
 
 As a sorcerer, you gain the following class features.
 
-#### Health
+## Health
 
 **MAX Wounds:** 3 + Constitution (CON)
 
-### Proficiencies
+## Proficiencies
 
 **Armor:**	None
 
@@ -516,34 +508,34 @@ As a sorcerer, you gain the following class features.
 
 **Abilities:** Constitution (CON), Charisma (CHA)
 
-#### Equipment
+## Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
 
 - (a) a light crossbow and bolts or (b) any simple weapon
 - (a) a dungeoneer’s pack or (b) an explorer’s pack
 - Daggers
 
-#### Spellcasting
+## Spellcasting
 
 An event in your past, or in the life of a parent or ancestor, left an indelible mark on you, infusing you with arcane magic. This font of magic, whatever its origin, fuels your spells.
 
-#### Cantrips
+## Cantrips
 
 You know four cantrips of your choice from the sorcerer spell list.
 
-#### Mana
+## Mana
 
 You gain 2 mana. To cast one of your spells, you must spend an amount of mana equal to the spell’s level or higher. You regain all spent mana at the beginning of a game session.
 
 For example, if you know the 1st-level spell _burning hands_ and have 2 mana, you can spend 1 mana to cast _burning hands_ as a 1st-level spell or 2 mana to cast it as a 2nd-level spell.
 
-#### Spells Known
+## Spells Known
 
 You know CHA 1st-level spells from the sorcerer spell list.
 
 Whenever you purchase a Magic upgrade, you can choose one of the sorcerer spells you know and replace it with another spell from the sorcerer spell list that you can cast.
 
-#### Spellcasting Ability
+## Spellcasting Ability
 
 Charisma (CHA) is your spellcasting ability for your sorcerer spells, since the power of your magic relies on your ability to project your will into the world. You use your CHA whenever a spell refers to your spellcasting ability. In addition, you use your CHA when setting the DC for a sorcerer spell you cast and when making an attack roll with one.
 
@@ -551,7 +543,7 @@ Charisma (CHA) is your spellcasting ability for your sorcerer spells, since the 
 
 **Spell attack modifier** = 2 + CHA
 
-### Sorcerous Origin
+## Sorcerous Origin
 
 Choose a sorcerous origin, which describes the source of your innate magical power, such as Draconic Bloodline. Your choice grants you additional features.
 
@@ -559,9 +551,7 @@ Choose a sorcerous origin, which describes the source of your innate magical pow
 
 Your innate magic comes from draconic magic that was mingled with your blood or that of your ancestors. Most often, sorcerers with this origin trace their descent back to a mighty sorcerer of ancient times who made a bargain with a dragon or who might even have claimed a dragon parent. Some of these bloodlines are well established in the world, but most are obscure. Any given sorcerer could be the first of a new bloodline, as a result of a pact or some other exceptional circumstance.
 
-#### Dragon Ancestor
-
-Choose one type of dragon as your ancestor. The damage type associated with each dragon is used by features you gain later.
+**_Dragon Ancestor_.** Choose one type of dragon as your ancestor. The damage type associated with each dragon is used by features you gain later. You can speak, read, and write Draconic. Additionally, you gain advantage on CHA checks while interacting with dragons.
 
 **Draconic	Ancestry**
 | Dragon | Damage	Type |
@@ -577,13 +567,7 @@ Choose one type of dragon as your ancestor. The damage type associated with each
 | Silver | Cold |
 | White | Cold |
 
-You can speak, read, and write Draconic. Additionally, you gain advantage on CHA checks while interacting with dragons.
-
-#### Draconic Resilience
-
-As magic flows through your body, it causes physical traits of your dragon ancestors to emerge. Your MAX wounds increases by +1.
-
-Additionally, parts of your skin are covered by a thin sheen of dragon-like scales. As long as you have no armor equipped, you gain the benefits of wearing light armor.
+**_Draconic Resilience_.** As magic flows through your body, it causes physical traits of your dragon ancestors to emerge. Your MAX wounds increases by +1. Additionally, parts of your skin are covered by a thin sheen of dragon-like scales. As long as you have no armor equipped, you gain the benefits of wearing light armor.
 
 ## Warlock
 
