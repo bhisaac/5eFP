@@ -383,17 +383,17 @@ Your healing spells are more effective. Whenever you use a spell of 1st level or
 
 You discard your action and present your holy symbol, evoking healing energy that can provide up to 5 points of healing. Choose any creatures within 6 squares of you, and divide the healing among them. You can’t use this feature on an undead or a construct.
 
-## Paladin
+# Paladin
 
-#### Class Features
+## Class Features
 
 As a paladin, you gain the following class features.
 
-#### Health
+## Health
 
 **MAX Wounds:** 4 + Constitution (CON)
 
-#### Proficiencies
+## Proficiencies
 
 **Armor:** All armor, shields
 
@@ -403,7 +403,7 @@ As a paladin, you gain the following class features.
 
 **Abilities:** Wisdom (WIS), Charisma (CHA)
 
-#### Equipment
+## Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
@@ -412,13 +412,13 @@ You start with the following equipment, in addition to the equipment granted by 
 - (a) a priest’s pack or (b) an explorer’s pack
 - Chain mail and a holy symbol
 
-### Divine Sense
+## Divine Sense
 
 The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 12 squares of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the _hallow_ spell.
 
 You can use this feature a number of times equal to CHA + 1.
 
-### Lay on Hands
+## Lay on Hands
 
 Your blessed touch can heal wounds. You have a reserve of healing power. You can assign up to 5 points of healing with your reserve.
 
@@ -432,17 +432,17 @@ This feature has no effect on undead and constructs.
 
 Mages are generally spellcasters or versatile specialists with more mental and less physical training.
 
-## Druid
+# Druid
 
-#### Class Features
+## Class Features
 
 As a druid, you gain the following class features. 
   
-#### Health
+## Health
 
 **MAX Wounds:** 3 + Constitution (CON)
 
-#### Proficiencies
+## Proficiencies
 
 **Armor:** Light armor, medium armor, shields (druids will not wear armor or use shields made of metal)
 
@@ -452,7 +452,7 @@ As a druid, you gain the following class features.
 
 **Abilities:** Intelligence (INT), Wisdom (WIS)
 
-#### Equipment
+## Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
@@ -460,31 +460,31 @@ You start with the following equipment, in addition to the equipment granted by 
 - (*a*) a scimitar or (*b*) any simple melee weapon
 - Leather armor, and an explorer's pack
 
-### Druidic
+## Druidic
 
 You know Druidic, the secret language of druids. You can speak the language and use it to leave hidden messages. You and others who know this language automatically spot such a message. Others spot the message’s presence with a successful (DC 15) WIS check but can’t decipher it without magic.
 
-#### Spellcasting
+## Spellcasting
 
 Drawing on the divine essence of nature itself, you can cast spells to shape that essence to your will.
 
-#### Cantrips
+## Cantrips
 
 You know two cantrips of your choice from the druid spell list.
 
-#### Mana
+## Mana
 
 You gain 2 mana. To cast one of your spells, you must spend an amount of mana equal to the spell’s level or higher. You regain all spent mana at the beginning of a game session.
 
 For example, if you know the 1st-level spell _cure wounds_ and have 2 mana, you can spend 1 mana to cast _cure wounds_ as a 1st-level spell or 2 mana to cast it as a 2nd-level spell.
 
-#### Spells Known
+## Spells Known
 
 You know WIS 1st-level spells from the druid spell list.
 
 Whenever you purchase a Magic upgrade, you can choose one of the druid spells you know and replace it with another spell from the druid spell list that you can cast.
 
-#### Spellcasting Ability
+## Spellcasting Ability
 
 Wisdom (WIS) is your spellcasting ability for your druid spells, since your magic draws upon your devotion and attunement to nature. You use your WIS whenever a druid spell refers to your spellcasting ability. In addition, you use WIS when setting the DC for a druid spell you cast and when making an attack roll with one.
 
@@ -492,11 +492,11 @@ Wisdom (WIS) is your spellcasting ability for your druid spells, since your magi
 
 **Spell attack modifier** = 2 + WIS
 
-#### Ritual Casting
+## Ritual Casting
 
 You can cast a druid spell as a ritual if that spell has the ritual tag and you know the spell.
 
-## Sorcerer
+# Sorcerer
 
 #### Class Features
 
@@ -980,15 +980,15 @@ While not wearing armor, you add CON (minimum 0) to your Defense. You can use a 
 
 ## Fighter
 
-#### Class Features
+### Class Features
 
 As a fighter, you gain the following class features.
 
-#### Health
+### Health
 
 **MAX Wounds:** 5 + Constitution (CON)
 
-#### Proficiencies
+### Proficiencies
 
 **Armor:** All	armor, shields
 
@@ -998,7 +998,7 @@ As a fighter, you gain the following class features.
 
 **Abilities:** Strength (STR), Constitution (CON)
 
-#### Equipment
+### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
@@ -1017,7 +1017,7 @@ You gain a +1 bonus to attack rolls you make with ranged weapons.
 
 #### Armored
 
-While you are wearing armor, increase your Defence by + 1.
+While you are wearing armor, you gain a +1 bonus to Defense.
 
 #### Great Weapon Fighting
 
@@ -1025,7 +1025,7 @@ Whenever you attack and miss with a melee weapon you are wielding with two hands
 
 #### Protection
 
-When a creature you can see attacks a target other than you that is within 1 square of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
+When a creature you can see attacks a target other than you that is within 1 square of you, you can discard your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
 
 ### Second Wind
 
@@ -1115,9 +1115,44 @@ You discard your action and present your holy symbol, speaking a prayer that cen
 
 A turned creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 6 squares of you. It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.
 
-# Paladin
+# Paladin Upgrades
 
-TBA
+||||
+|-:|:-|:-|
+|**Cost**|**Feature**|**Details**|
+|2⛁|Fighting Style|...|
+|2⛁|Spellcasting|...|
+|3⛁|Divine Smite|...|
+|3⛁|Magic|You gain +1 mana|
+
+## Fighting Style
+
+You adopt a style of fighting as your specialty. Choose one of the following options. You can’t take a Fighting Style option more than once, even if you later get to choose again.
+
+### Armored
+
+While you are wearing armor, you gain a +1 bonus to Defense.
+
+### Dueling
+
+When you are wielding a melee weapon in one hand and no other weapons, that weapon's damage increases by +1.
+
+### Great Weapon Fighting
+
+Whenever you attack and miss with a melee weapon you are wielding with two hands, you may reroll the attack once and must use the new roll. The weapon must have the two-handed property for you to gain this benefit.
+
+
+## Spellcasting
+
+
+
+## Divine Smite
+
+
+
+## Magic
+
+
 
 # Druid Upgrades
 
@@ -1126,7 +1161,7 @@ TBA
 |**Cost**|**Feature**|**Details**|
 |2⛁|Wild Shape|...|
 |2⛁|Druid Circle|Circle of the Land, Circle of the Sun and Moon|
-|3⛁|Magic|You gain +2 Mana and add +1 known spell from your class spell list.|
+|3⛁|Magic|You gain +2 mana and add +1 known spell from the druid spell list.|
 
 ## Wild Shape
 
