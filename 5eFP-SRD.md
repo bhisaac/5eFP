@@ -290,17 +290,17 @@ It’s hard to make generalizations about humans, but your human character has t
 
 Healers are generally good combatants with features that protect and heal themselves and others.
 
-## Cleric
+# Cleric
 
-#### Class Features
+## Class Features
 
 As a cleric, you gain the following class features.
 
-#### Health
+## Health
 
 **MAX Wounds:** 4 + Constitution (CON)
 
-#### Proficiencies
+## Proficiencies
 
 **Armor:** Light armor, medium armor, shields
 
@@ -310,7 +310,7 @@ As a cleric, you gain the following class features.
 
 **Abilities:** Wisdom (WIS), Charisma (CHA)
 
-#### Equipment
+## Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
@@ -320,27 +320,27 @@ You start with the following equipment, in addition to the equipment granted by 
 - (*a*) a priest’s pack or (*b*) an explorer’s pack
 - A shield and a holy symbol
 
-#### Spellcasting
+## Spellcasting
 
 As a conduit for divine power, you can cast cleric spells. 
 
-#### Cantrips
+## Cantrips
 
 You know three cantrips of your choice from the cleric spell list.
 
-#### Mana
+## Mana
 
 You gain 2 mana. To cast one of your spells, you must spend an amount of mana equal to the spell’s level or higher. You regain all spent mana at the beginning of a game session.
 
 For example, if you know the 1st-level spell _cure wounds_ and have 2 mana, you can spend 1 mana to cast _cure wounds_ as a 1st-level spell or 2 mana to cast it as a 2nd-level spell.
 
-#### Spells Known
+## Spells Known
 
 You know WIS 1st-level spells from the cleric spell list.
 
 Whenever you purchase a Magic upgrade, you can choose one of the cleric spells you know and replace it with another spell from the cleric spell list that you can cast.
 
-#### Spellcasting Ability
+## Spellcasting Ability
 
 Wisdom (WIS) is your spellcasting ability for your cleric spells. The power of your spells comes from your devotion to your deity, a dedication, such as those listed in the dedication rules, or one elemental quality from earth, water, fire, air, and aether. You use your WIS whenever a cleric spell refers to your spellcasting ability. In addition, you use WIS when setting the DC for a cleric spell you cast and when making an attack roll with one.
 
@@ -348,15 +348,15 @@ Wisdom (WIS) is your spellcasting ability for your cleric spells. The power of y
 
 **Spell attack modifier** = 2 + WIS
 
-#### Ritual Casting
+## Ritual Casting
 
 You can cast a cleric spell as a ritual if that spell has the ritual tag and you know the spell.
 
-#### Divine Domain
+## Divine Domain
 
 Choose one domain related to your deity, such as Medicine. Each domain is detailed at the end of the class description, and each one provides examples of gods associated with it. Your choice grants you domain spells and other features.
 
-#### Domain Spells
+### Domain Spells
 
 Each domain has a list of domain spells. You always know your domain spells, which don't count against the number of spells you know.
 
@@ -366,18 +366,22 @@ If you gain a domain spell that isn't a cleric spell, the spell is nonetheless a
 
 The Medicine domain focuses on vibrant positive energy that sustains all life. The gods of life promote vitality and health through healing the sick and wounded, caring for those in need, and driving away the forces of death and undeath. Almost any non-evil deity can claim influence over this domain, particularly agricultural deities (such as Chauntea, Arawai, and Demeter), sun gods (such as Lathander, Pelor, and Re-Horakhty), gods of healing or endurance (such as Ilmater, Mishakal, Apollo, and Diancecht), and gods of home and community (such as Hestia, Hathor, and Boldrei).
 
-#### Medicine Domain Spells
+### Medicine Domain Spells
 
 - bless
 - cure wounds
 
-#### Bonus Proficiency
+### Bonus Proficiency
 
 You gain proficiency with heavy armor.
 
-#### Performance Medicine
+### Performance Medicine
 
 Your healing spells are more effective. Whenever you use a spell of 1st level or higher to give a creature 1 or more points of healing, the creature receives one additional point of healing per spell level.
+
+### Channel Divinity: Preserve Life
+
+You discard your action and present your holy symbol, evoking healing energy that can provide up to 5 points of healing. Choose any creatures within 6 squares of you, and divide the healing among them. You can’t use this feature on an undead or a construct.
 
 ## Paladin
 
@@ -1082,10 +1086,6 @@ Whenever your CON changes, recalculate your MAX wounds with the new CON score.
 
 The following upgrades provide an additional way to gain inspiration once per game session.
 
-- 3⛁ **Inspired Success.** You gain inspiration after resolving a critical success.
-- 3⛁ **Inspired Failure.** You gain inspiration after resolving a critical failure.
-- 3⛁ **Inspired Support.** If a game feature or effect helps you succeed when you would have otherwise failed, you gain inspiration at the end of your turn.
-
 ||||
 |-:|:-|:-|
 |**Cost**|**Feature**|**Details**|
@@ -1099,23 +1099,18 @@ The following upgrades provide an additional way to gain inspiration once per ga
 |-:|:-|:-|
 |**Cost**|**Feature**|**Details**|
 |2⛁|Channel Divinity (1/rest)|...|
-|2⛁|Divine Domain Feature|...|
 |3⛁|Magic|You gain +2 Mana and add +1 known spell from your class spell list.|
 
-> #### Channel Divinity (1/rest)
->> You gain the ability to channel divine energy directly from your deity, using that energy to fuel magical effects. You start with two such effects: Turn Undead and an effect determined by your domain. Some domains grant you additional effects as you advance in levels, as noted in the domain description.
->>
->> When you use your Channel Divinity, you choose which effect to create. You must then finish a rest to use your Channel Divinity again.
+## Channel Divinity (1/rest)
+
+You gain the ability to channel divine energy directly from your deity, using that energy to fuel magical effects. You start with two such effects: Turn Undead and an effect determined by your domain. Some domains grant you additional effects as you upgrade them, as noted in the domain description.
+
+When you use your Channel Divinity, you choose which effect to create. You must then finish a rest to use your Channel Divinity again.
 Some Channel Divinity effects require ability checks. When you use such an effect from this class, the DC equals your cleric spell DC.
->> 
->> **_Turn Undead. (action)_** You present your holy symbol and speak a prayer, censuring the undead. Each undead that can see or hear you within 6 squares of you must make a WIS check. If the creature fails its check, it is turned for the rest of the encounter or until it takes any damage.
->>
->> A turned creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 6 squares of you. It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.
->> 
-> #### Divine Domain Feature
->> MEDICINE
->> 
->> **_Preserve Life. (action)_** You present your holy symbol and evoke healing energy that can provide up to 5 points of healing. Choose any creatures within 6 squares of you, and divide the healing among them. You can’t use this feature on an undead or a construct.
+ 
+**_Turn Undead. (action)_** You present your holy symbol and speak a prayer, censuring the undead. Each undead that can see or hear you within 6 squares of you must make a WIS check. If the creature fails its check, it is turned for the rest of the encounter or until it takes any damage.
+
+A turned creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 6 squares of you. It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.
 
 # Paladin
 
