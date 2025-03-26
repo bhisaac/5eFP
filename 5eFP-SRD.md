@@ -608,7 +608,7 @@ You can use this feature to cast a spell with a spell level up to LEVEL. You can
 
 For example, if you are a 2nd-level warlock and know the 1st-level spell _rebuke_, you can use this feature to cast _rebuke_ as a 1st-level or 2nd-level spell.
 
-Whenever you use this feature to cast a 6th-level or 7th-level spell, you cannot do so again until the beginning of the next game session.
+Whenever you use this feature to cast a paragon or epic spell, you cannot do so again until the beginning of the next game session.
 
 #### Cantrips
 
