@@ -618,7 +618,7 @@ Your arcane research and the magic bestowed on you by your otherworldly patron h
 
 You can use this feature to cast a spell with a spell level up to LEVEL. You can use this feature once. You regain expended uses when you finish a rest.
 
-For example, if you are a 2nd-level warlock and know the 1st-level spell _burning hands_, you can use this feature to cast _burning hands_ as a 1st-level or 2nd-level spell.
+For example, if you are a 2nd-level warlock and know the 1st-level spell _rebuke_, you can use this feature to cast _rebuke_ as a 1st-level or 2nd-level spell.
 
 #### Cantrips
 
@@ -3630,7 +3630,7 @@ This awareness lasts until the beginning of your next turn and can penetrate mos
 |**Cantrips (Level 0)**|
 |chill touch, eldritch blast, mage hand, minor illusion, poison spray, prestidigitation, true strike|
 |**Level 1**|
-|charm person, comprehend languages, expeditious retreat, hellish rebuke, illusory script, protection from evil and good, unseen servant|
+|charm person, comprehend languages, expeditious retreat, rebuke, illusory script, protection from evil and good, unseen servant|
 |**Level 2**|
 |darkness, enthrall, hold person, invisibility, mirror image, misty step, ray of enfeeblement, shatter, spider climb, suggestion|
 |**Level 3**|
@@ -4001,6 +4001,18 @@ To discern that you are disguised, a creature can discard its action to inspect 
 ### Spells (Q)
 
 ### Spells (R)
+
+#### Rebuke
+|_1st-level evocation_|
+|:-|
+|**Casting Time:** 1 reaction, which you take in response to being damaged by a creature within 12 squares of you that you can see|
+|**Range:** 12|
+|**Components:** V, S|
+|**Duration:** Instantaneous|
+||
+|You point your finger, and the creature that damaged you is momentarily surrounded by flames. The creature must make a DEX check. It takes 1 point of fire damage on a failed check, or half as much damage on a successful one.
+
+**At Higher Levels.** When you cast this spell at 2nd level or higher, the damage increases by +1 for each level above 1st.|
 
 ### Spells (S)
 
