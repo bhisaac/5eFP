@@ -1098,7 +1098,7 @@ The following upgrades provide an additional way to gain inspiration once per ga
 ||||
 |-:|:-|:-|
 |**Cost**|**Feature**|**Details**|
-|2⛁|Channel Divinity (1/rest)|...|
+|3⛁|Channel Divinity (1/rest)|...|
 |3⛁|Magic|You gain +2 Mana and add +1 known spell from your class spell list.|
 
 ## Channel Divinity (1/rest)
@@ -1106,9 +1106,12 @@ The following upgrades provide an additional way to gain inspiration once per ga
 You gain the ability to channel divine energy directly from your deity, using that energy to fuel magical effects. You start with two such effects: Turn Undead and an effect determined by your domain. Some domains grant you additional effects as you upgrade them, as noted in the domain description.
 
 When you use your Channel Divinity, you choose which effect to create. You must then finish a rest to use your Channel Divinity again.
+
 Some Channel Divinity effects require ability checks. When you use such an effect from this class, the DC equals your cleric spell DC.
  
-**_Turn Undead. (action)_** You present your holy symbol and speak a prayer, censuring the undead. Each undead that can see or hear you within 6 squares of you must make a WIS check. If the creature fails its check, it is turned for the rest of the encounter or until it takes any damage.
+### Turn Undead
+
+You discard your action and present your holy symbol, speaking a prayer that censures undead. Each undead that can see or hear you within 6 squares of you must make a WIS check. If the creature fails its check, it is turned for the rest of the encounter or until it takes any damage.
 
 A turned creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 6 squares of you. It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.
 
