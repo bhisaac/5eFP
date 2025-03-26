@@ -488,6 +488,12 @@ You gain proficiency with heavy armor.
 
 Your healing spells are more effective. Whenever you use a spell of 1st level or higher to give a creature 1 or more points of healing, the creature receives one additional point of healing per spell level.
 
+### Channel Divinity: Preserve Life
+
+_Purchase Channel Divinity to unlock this feature._
+
+You discard your action and present your holy symbol, evoking healing energy that can provide up to 5 points of healing. Choose any creatures within 6 squares of you, and divide the healing among them. You can’t use this feature on an undead or a construct.
+
 # Paladin
 
 ## Class Features
