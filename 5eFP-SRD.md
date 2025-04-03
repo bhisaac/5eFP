@@ -104,6 +104,10 @@ Whenever you create a new character, assign ability scores using the standard ar
 
 Choose and place each score as desired. Two ability scores represent advanced ability and talent (+2), another two represent aptitude (+1), another ability score represents average ability (+0), and the last ability score is challenged by adversity and unfavorable circumstances (-1).
 
+**Attack Roll Modifier**
+
+Choose DEX or STR. The chosen ability score is used for melee and ranged attack rolls.
+
 # Species
 
 ## Species Traits
@@ -363,17 +367,17 @@ You have learned to untangle and reshape the fabric of reality in harmony with y
 
 You know two cantrips of your choice from the bard spell list.
 
-### Spell Slots
+### Mana
 
-You begin the game with two 1st level spell slots. To cast one of your spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots at the end of the game session.
+You gain 2 mana. To cast one of your spells, you must spend an amount of mana equal to the spell’s level or higher. You regain all spent mana at the beginning of a game session.
 
 For example, if you know the 1st-level spell _cure wounds_ and have 2 mana, you can spend 1 mana to cast _cure wounds_ as a 1st-level spell or 2 mana to cast it as a 2nd-level spell.
 
 ### Spells Known
 
-You know four 1st-level spells of your choice from the bard spell list.
+You know CHA 1st-level spells from the bard spell list.
 
-Whenever you unlock a Magic feature (i.e., Magic I, Magic II, Magic III, etc.), you can choose one of the bard spells you know and replace it with another spell from the bard spell list, which also must be of a level for which you have spell slots.
+Whenever you purchase a Magic upgrade, you can choose one of the bard spells you know and replace it with another spell from the bard spell list that you can cast.
 
 ### Spellcasting Ability
 
@@ -2008,16 +2012,14 @@ Proficiency with a weapon allows you to add your LEVEL to the attack roll for an
 ### Weapon Properties
 Many weapons have special properties related to their use, as shown in the Weapons table.
 
-**_Ammunition._** You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Ammunition is a special multi-use item. Each time you attack with the weapon, roll 1 action die. If you roll only 1 action, your ammunition depletes, as indicated by turning the ammunition card sideways. If your ammunition is already depleted, you have only one piece of ammunition left, represented by turning the card upside down. After using the last piece of ammunition, discard the ammunition card to the equipment deck discard pile. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-­handed weapon).
+**_Ammunition._** You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon in your equipment. Ammunition is a special multi-use item. Each time you attack with the weapon that uses ammunition and roll a 1, your ammunition depletes, as indicated by turning the ammunition card sideways. If your ammunition is already depleted, you have only one piece of ammunition left, represented by turning the card upside down. After using the last piece of ammunition, discard the ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-­handed weapon).
 
-You may purchase more ammunition during a downtime or preparation round before deploying onto the world map by spending up to 3⛁. For each ⛁ spent, you roll one more action die when determining whether or not your ammunition depletes. Ammunition may use a maximum of three action dice.
+You may purchase ammunition during a downtime or preparation round before deploying onto the world map by spending ⛁ for each type of ammunition.
 
 Ammunition may be used to make melee attacks. If you are proficient with the weapon that uses the ammunition, you are proficient with melee attacks using that weapon's ammunition as well. Ammunition deals 1 point of damage. If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon (see “Improvised Weapons” later in the section). A sling must be loaded to deal any damage when used in this way.
 
-~~**_Finesse._** When making an attack with a finesse weapon, you use your choice of your STR or DEX for attack rolls.~~
-
 > The finesse and versatile weapon properties are removed in 5eFP. There is now one attack roll that covers both melee and ranged attacks. At character creation, players choose whether their attack rolls are modified by DEX or STR.
->
+> 
 > Some realism is sacrificed for ease of gameplay. Emphasizing one ability score for both attacks allows PCs to focus more closely on an ability score they wish to work with.
 
 **_Heavy._** Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon’s size and bulk make it too large for a Small creature to use effectively.
