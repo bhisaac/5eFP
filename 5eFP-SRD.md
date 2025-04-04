@@ -371,7 +371,7 @@ You know two cantrips of your choice from the bard spell list.
 
 ### Mana
 
-You gain 2 mana. To cast one of your spells, you must spend an amount of mana equal to the spell’s level or higher. You regain all spent mana at the beginning of a game session.
+You begin a game session with 2 mana. To cast one of your spells, you must spend an amount of mana equal to the spell’s level or higher.
 
 For example, if you know the 1st-level spell _cure wounds_ and have 2 mana, you can spend 1 mana to cast _cure wounds_ as a 1st-level spell or 2 mana to cast it as a 2nd-level spell.
 
@@ -399,11 +399,11 @@ Your bardic magic lets you use your voice or any instrument you wield more effec
 
 ### Bardic Action Dice
 
-Once during your turn you can inspire others through stirring words or music. Choose one creature other than yourself within 10 squares of you who can hear you. That creature gains three of your action dice.
+During your turn, you can inspire others by stirring words or music. Choose one creature other than yourself within 10 squares of you who can hear you. That creature gains five of your action dice until the beginning of your next turn.
 
-For the remainder of the encounter, the creature can roll any of your action dice and add the result to one ability check or attack roll it makes. The creature can wait until after it rolls the d20 before deciding to use any of your action dice but must decide before the GM says whether the roll succeeds or fails. Once your action dice are rolled, they are returned to you. If the creature has one or more of your action dice and gains more, it decides whether to keep the ones it has or gain the new ones. Any discarded action dice are returned to you.
+During its turn, the creature can roll any of your action dice and add the result to one ability check or attack roll it makes. The creature can wait until after it rolls the d20 before deciding to use any of your action dice but must decide before the GM says whether the roll succeeds or fails. Once your action dice are rolled, they are returned to you. If the creature has one or more of your action dice and gains more, it decides whether to keep the ones it has or gain the new ones. Any discarded action dice are returned to you.
 
-You can use this feature a number of times per day equal to your CHA (minimum 1).
+You can use this feature CHA (minimum 1) times per game session.
 
 # Cleric
 
