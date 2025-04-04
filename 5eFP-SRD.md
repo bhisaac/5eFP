@@ -36,7 +36,7 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Coin_ (⛁).** A 5eFP game awards and uses Coin (⛁) as its currency, representing wealth, reputation, and experience.
 
-**_Cooldown_.** A game feature with the cooldown keyword can only be used once per game session.
+**_Cooldown_.** A game feature with the cooldown keyword can only be used once per game session. If a number follows the cooldown keyword, the number represents how many times you can use this game feature per game session but no more than once per turn.
 
 **_Conflict_.** The conflict, detailed in your setting handbook, is an event with ongoing effects that changed the game world into an unbalanced and afflicted state (see Setting Handbook). A 5eFP game ends when the conflict is resolved.
 
@@ -321,6 +321,8 @@ You start with the following equipment, in addition to the equipment granted by 
 
 ## Rage
 
+_Cooldown 2_
+
 In battle, you fight with primal ferocity. When you take the Attack action on your turn, you can choose to first enter into a rage for the rest of the encounter.
 
 While raging, you gain the following benefits if you aren’t wearing armor:
@@ -330,8 +332,6 @@ While raging, you gain the following benefits if you aren’t wearing armor:
 If you are able to cast spells, you can’t cast them or concentrate on them while raging.
 
 Your rage ends early if you are knocked unconscious or if your turn ends and you haven’t attacked a hostile creature since your last turn or taken damage since then. You can end your rage early on your turn, starting on the turn after you activate rage.
-
-You can rage twice per game session.
 
 ## Unarmored Defense
 
@@ -401,11 +401,11 @@ Your bardic magic lets you use your voice or any instrument you wield more effec
 
 ### Bardic Action Dice
 
+_Cooldown CHA (minimum 1)_
+
 During your turn, you can inspire others by stirring words or music. Choose one creature other than yourself within 10 squares of you who can hear you. That creature gains five of your action dice until the beginning of your next turn.
 
 During its turn, the creature can roll any of your action dice and add the result to one ability check or attack roll it makes. The creature can wait until after it rolls the d20 before deciding to use any of your action dice but must decide before the GM says whether the roll succeeds or fails. Once your action dice are rolled, they are returned to you. If the creature has one or more of your action dice and gains more, it decides whether to keep the ones it has or gain the new ones. Any discarded action dice are returned to you.
-
-You can use this feature CHA (minimum 1) times per game session.
 
 # Cleric
 
@@ -1035,7 +1035,9 @@ You have a spellbook containing your known wizard spells. Your spellbook is the 
 
 ## Arcane Recovery
 
-Studying your spellbook taught you how to replenish some of your magical energy. Once per game session, you can regain mana equal to LEVEL when you finish a rest.
+_Cooldown_
+
+Studying your spellbook taught you how to replenish some of your magical energy. You gain LEVEL mana when you finish a rest.
 
 For example, if you’re a 2nd-­level wizard, you gain 2 mana.
 
@@ -1067,7 +1069,7 @@ Whenever your CON changes, recalculate your MAX wounds with the new CON score.
 
 # Inspiration Upgrades
 
-The following upgrades provide an additional way to gain inspiration once per game session.
+The following upgrades provide an additional way to gain inspiration as a cooldown.
 
 ||||
 |-:|:-|:-|
@@ -1182,7 +1184,7 @@ The Circle of the Land is made up of mystics and sages who safeguard ancient kno
 
 **_Bonus Cantrip._** When you choose this circle, you learn one additional druid cantrip of your choice.
  
-**_Natural Recovery._** You can regain some of your magical energy by sitting in meditation and communing with nature. Once per game session and during a rest, you regain up to LEVEL mana.
+**_Natural Recovery._ (cooldown)** You can regain some of your magical energy by sitting in meditation and communing with nature. You gain LEVEL mana during a rest.
 
 For example, when you are a 2nd-­level druid, you can recover up to 2 mana.
 
@@ -1316,7 +1318,9 @@ You can cast _speak with animals_ at will, without using your pact magic feature
 
 ### Beguiling Influence
 
-Once per game session, you can use this feature to cast _charm person_ without verbal or somatic components and without using your pact magic feature.
+_Cooldown_
+
+You cast _charm person_ once without verbal or somatic components and without using your pact magic feature.
 
 ### Book of Ancient Secrets
 
@@ -1360,7 +1364,9 @@ When you hit a creature with _eldritch blast_, you can push the creature up to 2
 
 ### Thief of Five Fates
 
-Once per game session, you can cast _bane_ using your pact magic feature.
+_Cooldown_
+
+You cast _bane_ using your pact magic feature.
 
 ### Voice of the Chain Master
 
@@ -1603,7 +1609,7 @@ You either have inspiration or you don’t—you can’t stockpile multiple “i
 
 If you have inspiration, you can spend it when you roll to attack, resist a game feature, or otherwise perform an action. Spending your inspiration gives you advantage on that roll, allowing you to roll twice and keep the better result. Alternatively, you may spend your inspiration anytime to activate a dedication you made at the start of the game session.
 
-Once per game session, whenever you spend your inspiration, you can choose to activate a dedication you did not choose at the start of the current game session.
+Whenever you spend your inspiration, you can choose to activate a dedication you did not choose at the start of the current game session as a cooldown.
 
 Additionally, if you have inspiration, you can reward another player for good roleplaying, clever thinking, or simply doing something exciting in the game. When another player character does something that really contributes to the story in a fun and interesting way, you can give up your inspiration to give that character inspiration.
 
@@ -2323,7 +2329,7 @@ You’ve developed the skills necessary to hold your own in close-­quarters gra
 
 ## Touch of Magic
 
-Choose a mage class. You gain the ability to cast two cantrips from the chosen class. Additionally, choose a 1st level spell from the chosen class' spell list. You gain the ability to cast the chosen spell once per game session without spending mana. If the chosen 1st-level spell appears on your 1st-level class spell list, you also add the spell as a known spell.
+Choose a class with the spellcasting or pact magic game feature. You gain the ability to cast two cantrips from the chosen class. Choose a 1st level spell from the chosen class' spell list. You gain the ability to cast the chosen spell as a cooldown without spending any mana. If the chosen 1st-level spell appears on your 1st-level class spell list, you also add the spell as a known spell.
 
 Your spellcasting ability score for these spells depends on the chosen class. INT for wizards, WIS for clerics and druids, and CHA for sorcerers and warlocks.
 
