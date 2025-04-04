@@ -1997,30 +1997,30 @@ Heavy armor decreases damage taken by LEVEL, but hinders movement, reducing your
 |Full Plate|Disadvantage|12⛁|
 
 ### Getting Into and Out of Armor
+
 You may don or doff armor as part of completing a Rest (Short Rest).
 
 ## Weapons
+
 Your class grants proficiency in certain weapons, reflecting both the class’s focus and the tools you are most likely to use. Whether you favor a longsword or a longbow, your weapon and your ability to wield it effectively can mean the difference between life and death while adventuring.
 
 The Weapons table shows the most common weapons used in the fantasy gaming worlds, their price and weight, the damage they deal when they hit, and any special properties they possess. Every weapon is classified as either melee or ranged. A **melee weapon** is used to attack a target within 5 feet of you, whereas a **ranged weapon** is used to attack a target at a distance.
 
 ### Weapon Proficiency
+
 Your species, class, and feats can grant you proficiency with certain weapons or categories of weapons. The two categories are simple and martial. Most people can use simple weapons with proficiency. These weapons include clubs, maces, and other weapons often found in the hands of commoners. Martial weapons, including swords, axes, and polearms, require more specialized training to use effectively. Most warriors use martial weapons because these weapons put their fighting style and training to best use.
 
 Proficiency with a weapon allows you to add your LEVEL to the attack roll for any attack you make with that weapon. If you make an attack roll using a weapon with which you lack proficiency, you do not add your LEVEL to the attack roll.
 
 ### Weapon Properties
+
 Many weapons have special properties related to their use, as shown in the Weapons table.
 
 **_Ammunition._** You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon in your equipment. Ammunition is a special multi-use item. Each time you attack with the weapon that uses ammunition and roll a 1, your ammunition depletes, as indicated by turning the ammunition card sideways. If your ammunition is already depleted, you have only one piece of ammunition left, represented by turning the card upside down. After using the last piece of ammunition, discard the ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-­handed weapon).
 
-You may purchase ammunition during a downtime or preparation round before deploying onto the world map by spending ⛁ for each type of ammunition.
+~~You may purchase ammunition during a downtime or preparation round before deploying onto the world map by spending ⛁ for each type of ammunition.~~
 
 Ammunition may be used to make melee attacks. If you are proficient with the weapon that uses the ammunition, you are proficient with melee attacks using that weapon's ammunition as well. Ammunition deals 1 point of damage. If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon (see “Improvised Weapons” later in the section). A sling must be loaded to deal any damage when used in this way.
-
-> The finesse and versatile weapon properties are removed in 5eFP. There is now one attack roll that covers both melee and ranged attacks. At character creation, players choose whether their attack rolls are modified by DEX or STR.
-> 
-> Some realism is sacrificed for ease of gameplay. Emphasizing one ability score for both attacks allows PCs to focus more closely on an ability score they wish to work with.
 
 **_Heavy._** Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon’s size and bulk make it too large for a Small creature to use effectively.
 
@@ -2028,9 +2028,9 @@ Ammunition may be used to make melee attacks. If you are proficient with the wea
 
 **_Loading._** Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an action or reaction to fire it, regardless of the number of attacks you can normally make.
 
-**_Multi-Use._** This weapon can be used multiple times, but each time it is used, there is a chance it will deplete, like ammunition. Each time you attack with a multi-use weapon, roll 1 action die. If you roll only 1 action, the multi-use weapon depletes indicated by turning the weapon card sideways. If your multi-use weapon is already depleted, you have only one left, represented by turning the card upside down. After using the last multi-use weapon, discard the weapon card to the equipment deck discard pile. Drawing the multi-use item from a quiver, case, or other container is part of the attack.
+**_Multi-Use._** This weapon can be used multiple times, but each time it is used, there is a chance it will deplete, like ammunition. Each time you attack with a multi-use weapon and roll a 1, the multi-use weapon depletes, indicated by turning the weapon card sideways. If your multi-use weapon is already depleted, you have only one left, represented by turning the card upside down. After using the last multi-use weapon, discard the weapon card to the equipment deck discard pile. Drawing the multi-use item from a quiver, case, or other container is part of the attack.
 
-You may purchase more multi-use items during a downtime or preparation round before deploying onto the world map by spending up to 3⛁. For each ⛁ spent on a chosen multi-use weapon, you roll one more action die when determining whether or not your multi-use weapon depletes. Ammunition may use a maximum of three action dice. Remove all depletion on all multi-use items, represented by returning the equipment card to its upright position, after spending ⛁ on Rest and Repairs.
+~~You may purchase more multi-use items during a downtime or preparation round before deploying onto the world map by spending ⛁. For each ⛁ spent on a chosen multi-use weapon, you roll one more action die when determining whether or not your multi-use weapon depletes. Ammunition may use a maximum of three action dice. Remove all depletion on all multi-use items, represented by returning the equipment card to its upright position, after spending ⛁ on Rest and Repairs.~~
 
 **_Range._** A weapon that can be used to make a ranged attack has a range in parentheses after the ammunition or thrown property. The range lists the weapon’s normal range in squares. You may make a ranged attack beyond the weapon's normal range, but doing so imposes disadvantage on the attack roll.
 
@@ -2680,7 +2680,7 @@ PCs may discard up to LEVEL wounds at the end of a rest.
 
 # Downtime
 
-Downtime consists of downtime actions measured in rounds, including rest and repairs, research, spending Coin on HQ upgrades, or taking other actions between game sessions. After all PCs Recall and finish spending Coin on character updgrades, the first downtime round begins. If you spend ⛁ on rest and repairs during your downtime round, you gain an extended rest of at least 8 hours for sleeping or light activities. Once completed, your gear is repaired, and you discard any wounds. If you do not spend Coin on rest and repairs during downtime, you gain one level of exhaustion.
+Downtime consists of downtime actions measured in rounds, including rest and repairs, research, spending Coin on HQ upgrades, or taking other actions between game sessions. After all PCs Recall and finish spending Coin on character updgrades, the first downtime round begins. If you spend ⛁ on rest and repairs during your downtime round, you gain an extended rest of at least 8 hours for sleeping or light activities. Once completed, your gear is repaired, you replenish any depleted ammunition or multi-use items, and you discard any wounds. If you do not spend ⛁ on rest and repairs during downtime, you do not gain the benefits of an extended rest and instead gain one level of exhaustion.
 
 > Downtime in RL can be ignored, but it will likely disrupt or even end your health and wellness! Working, which includes working on your inner life, needs moderation and temperance. There is a time to work, a time to play, and a time to do nothing at all. Doing nothing, which is also known as resting with minimal effort, allows for the deepest and most effective Medicine. Without Medicine or first aid and other medical interventions, your wounds continue to bleed out. Gross downtime negligence indicates a passive and lengthy suicide, for a death like this is preventable with self-care.
 > 
@@ -2696,7 +2696,7 @@ Dead characters cannot benefit from downtime rounds until they are revived or he
 
 If your character Recalls stabilized at MAX Wounds, your character spends the first downtime round discarding one wound, which revives the PC. Once revived, the PC may then purchase additional rounds of downtime.
 
-Once downtime finishes, GMs and players spend 5 minutes on unstructured downtime for self-reflection. During this downtime, activities can include resting, taking a break, journaling, drawing, or reflecting on the gaming experience. Following this period of self-reflection, there is a 25-minute group-sharing session facilitated by the GM and conducted using talking stick rules.
+Once downtime finishes, GMs and players spend 5 minutes on unstructured downtime for self-reflection. During this downtime, activities can include resting, taking a break, journaling, drawing, or reflecting on the game session experience. Following this period of self-reflection, there is a 25-minute group-sharing session facilitated by the GM and conducted using talking stick rules.
 
 > When a player wishes to speak, they pick up the talking stick. If the talking stick is unavailable because someone else is using it, the player must wait until it is available. The player holding the talking stick has the floor and may speak without others speaking, interrupting, or crosstalking. Once a player has finished sharing, they can pass the talking stick to the next player who wants to contribute or place it in the center of the sharing space. Players are encouraged to be mindful of one another and allow as many fellow players a chance to speak as possible.
 > 
