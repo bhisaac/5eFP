@@ -78,6 +78,8 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Recall_.** A PC is transported back to the HQ map room after finishing a special Recall ritual completed outside of an encounter. PCs automatically Recall when the time marker reaches 0 (8 hours) after deploying onto the world map. A PC may only Recall once per game session.
 
+**_Rest_.** Twice per game session, players may choose to take a rest. Once completed, each PC receives a number of healing points equal to LEVEL and the time marker advances 1 hour.
+
 **_Round_.** In combat and other fast-­paced situations, the game relies on rounds, a 6-­second span of time. A downtime round represents one or more days.
 
 **_Setting Handbook_.** All details about the 5eFP practice you are joining, including read-aloud text, GM contact information, game backstory, world map, HQ information, the game's central conflict, the game's story directions, how PC Recall, how PCs fast travel, and the setting handbook requirement can be found in your setting handbook.
