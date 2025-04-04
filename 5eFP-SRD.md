@@ -1035,9 +1035,9 @@ You have a spellbook containing your known wizard spells. Your spellbook is the 
 
 #### Arcane Recovery
 
-Studying your spellbook taught you to regain some of your magical energy. Once per game session, during a rest, you can regain mana equal to LEVEL x2 (maximum 12 mana) when you finish a rest.
+Studying your spellbook taught you to regain some of your magical energy. Once per game session, you can regain mana equal to LEVEL when you finish a rest.
 
-For example, if you’re a 2nd-­level wizard, you can recover up to two levels worth of spell slots. You can recover either a 2nd-­level spell slot or two 1st-level spell slots.
+For example, if you’re a 2nd-­level wizard, you can recover up to 2 mana.
 
 > #### Your Spellbook
 > The spells that you add to your spellbook reflect the arcane research you conduct on your own, as well as intellectual breakthroughs you have had about the nature of the multiverse. You might find other spells during your adventures. You could discover a spell recorded on a scroll in an evil wizard’s chest, for example, or in a dusty tome in an ancient library.
@@ -1181,9 +1181,9 @@ The Circle of the Land is made up of mystics and sages who safeguard ancient kno
 
 **_Bonus Cantrip._** When you choose this circle, you learn one additional druid cantrip of your choice.
  
-**_Natural Recovery._** You can regain some of your magical energy by sitting in meditation and communing with nature. During a short rest, you choose expended spell slots to recover. The spell slots can have a combined level that is equal to your level, and none of the slots can be 6th level or higher. You can’t use this feature again until you finish a long rest.
+**_Natural Recovery._** You can regain some of your magical energy by sitting in meditation and communing with nature. Once per game session and during a rest, you regain up to LEVEL mana.
 
-For example, when you are a 2nd-­level druid, you can recover up to two levels worth of spell slots. You can recover either a 2nd-­level slot or two 1st-level slots.
+For example, when you are a 2nd-­level druid, you can recover up to 2 mana.
 
 **_Circle Spells._** Your mystical connection to the land infuses you with the ability to cast certain spells. You gain access to circle spells connected to the land where you became a druid. Choose that land—arctic, coast, desert, forest, grassland, mountain, or swamp—and consult the associated list of spells.
 
@@ -1403,10 +1403,9 @@ TBA
 |**Cost**|**Feature**|**Details**|
 |2⛁|Jack of All Trades|Add +1 to nonproficient abilities|
 |2⛁|Song of Rest|You and your allies receive 1 point of healing at the end of a short rest|
-|2⛁|Spells I|(+1) known spell, (+1) 1st-level spell slot|
+|3⛁|Magic|You gain +2 Mana and add +1 known spell from your class spell list|
 |3⛁|Bard College|College of Lore|
 |3⛁|Expertise|...|
-|3⛁|Spells II|(+1) known spell, (+1) 1st-level spell slot, (+2) 2nd-level spell slots|
 
 > #### College of Lore
 >> Bards of the College of Lore know something about most things, collecting bits of knowledge from sources as diverse as scholarly tomes and peasant tales. Whether singing folk ballads in taverns or elaborate compositions in royal courts, these bards use their gifts to hold audiences spellbound. When the applause dies down, the audience members might find themselves questioning everything they held to be true, from their faith in the priesthood of the local temple to their loyalty to the king.
@@ -2158,7 +2157,7 @@ Holy Symbol. A holy symbol is a representation of a god or pantheon. It might be
 
 Holy Water. As an action, you can splash the contents of this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. In either case, make a ranged attack against a target creature, treating the holy water as an improvised weapon. If the target is a fiend or undead, it takes 2d6 radiant damage.
 
-A cleric or paladin may create holy water by performing a special ritual. The ritual takes 1 hour to perform, uses 25 gp worth of powdered silver, and requires the caster to expend a 1st-­‐‑level spell slot.
+A cleric or paladin may create holy water by performing a special ritual. The ritual takes 1 hour to perform, uses 25 gp worth of powdered silver, and requires the caster to expend a 1st-­level spell slot.
 
 Hunting Trap. When you use your action to set it, this trap forms a saw-­toothed steel ring that snaps shut when a creature steps on a pressure plate in the center. The trap is affixed by a heavy chain to an immobile object, such as a tree or a spike driven into the ground. A creature that steps on the plate must succeed on a DC 13 DEX check or take 1d4 piercing damage and stop moving. Thereafter, until the creature breaks free of the trap, its movement is limited by the length of the chain (typically 3 feet long). A creature can use its action to make a DC 13 STR check, freeing itself or another creature within its reach on a success. Each failed check deals 1 piercing damage to the trapped creature.
 
@@ -3357,7 +3356,7 @@ Some spells can be cast as reactions. These spells take a fraction of a second t
 
 #### Longer Casting Times
 
-Certain spells (including spells cast as rituals) require more time to cast. Ritual spells can only be cast outside of an encounter. More powerful spells with long casting times can only be cast once per game session and may require you to be at HQ to cast. Other spells can only be cast when completing a downtime round. These spells may take hours or even a day to cast. If the location where you spend a downtime round loses HQ protection, you lose the spell without expending a spell slot. You must use another downtime round at a location with HQ protection to cast it again.
+Certain spells (including spells cast as rituals) require more time to cast. Ritual spells can only be cast outside of an encounter. More powerful spells with long casting times can only be cast once per game session and may require you to be at HQ to cast. Other spells can only be cast when completing a downtime round. These spells may take hours or even a day to cast. If the location where you spend a downtime round loses HQ protection, you lose the spell without expending mana. You must use another downtime round at a location with HQ protection to cast it again.
 
 ### Range
 
@@ -3704,7 +3703,7 @@ This awareness lasts until the beginning of your next turn and can penetrate mos
 |**Duration:** Instantaneous|
 ||
 |A shimmering green arrow streaks toward a target within range and bursts in a spray of acid. Make a ranged spell attack against the target. On a hit, the target takes 1 acid damage immediately and 1 acid damage at the end of its next turn.|
-|**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage (both initial and later) increases by +1 for each slot level above 2nd.|
+|**At Higher Levels.** When you cast this at a higher level, the damage (both initial and later) increases by +1 for each level above 2nd.|
 
 #### Acid Splash
 |_Conjuration cantrip_|
@@ -3725,7 +3724,7 @@ This awareness lasts until the beginning of your next turn and can penetrate mos
 |**Duration:** Recall|
 ||
 |Your spell bolsters your allies with toughness and resolve. Choose up to three creatures within range. Each target gains bolster 2.|
-|**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, increase the bolster value by +1 for each slot level above 2nd.|
+|**At Higher Levels.** When you cast this spell at a higher level, increase the bolster value by +1 for each level above 2nd.|
 
 #### Alarm
 |_1st-­level abjuration (ritual)_|
@@ -3762,7 +3761,7 @@ Your unarmed strikes deal 1 bludgeoning, piercing, or slashing damage, as approp
 |**Duration:** Recall|
 ||
 |This spell lets you convince a beast that you mean it no harm. Choose a beast that you can see within range. It must see and hear you. If the beast's Intelligence is 4 or higher, the spell fails. Otherwise, the beast must succeed on a WIS check or be charmed by you for the spell's duration. If you or one of your companions harms the target, the spells ends.|
-|**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can affect one additional beast for each slot level above 1st.|
+|**At Higher Levels.** When you cast this spell at a higher level, you can affect one additional beast for each level above 1st.|
 
 #### Animal Messenger
 |_2nd-­level enchantment (ritual)_|
@@ -3773,7 +3772,7 @@ Your unarmed strikes deal 1 bludgeoning, piercing, or slashing damage, as approp
 |**Duration:** Recall|
 ||
 |By means of this spell, you use an animal to deliver a message. Choose a Tiny beast you can see within range, such as a squirrel, a blue jay, or a bat. You specify a location, which you must have visited, and a recipient who matches a general description, such as “a man or woman dressed in the uniform of the town guard” or “a red-­haired dwarf wearing a pointed hat.” You also speak a message of up to twenty-­five words. The target beast travels for the duration of the spell toward the specified location, covering 2 world map tiles for a flying messenger, or 1 world map tile for other animals. When the messenger arrives, it delivers your message to the creature that you described, replicating the sound of your voice. The messenger speaks only to a creature matching the description you gave. If the messenger doesn’t reach its destination before the spell ends, the message is lost, and the beast makes its way back to where you cast this spell.|
-|**At Higher Levels.** If you cast this spell using a spell slot of 3nd level or higher, the distance the animal messenger travels increases by +1 world map tile for each slot level above 2nd.|
+|**At Higher Levels.** If you cast this spell at a higher level, the distance the animal messenger travels increases by +1 world map tile for each slot level above 2nd.|
 
 #### Arcane Lock
 |_2nd-level abjuration_|
@@ -3829,7 +3828,7 @@ Your unarmed strikes deal 1 bludgeoning, piercing, or slashing damage, as approp
 |**Duration:** Concentration (encounter)|
 ||
 |Up to three creatures of your choice that you can see within range must make CHA checks. Whenever a target that fails this check makes an attack roll or an ability check before the spell ends, the target must roll with disadvantage. This spell removes the effects of *bless.*|
-|**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.|
+|**At Higher Levels.** When you cast this spell at a higher level, you can target one additional creature for each level above 1st.|
 
 #### Barkskin
 |_2nd-­level transmutation_|
@@ -3850,7 +3849,7 @@ Your unarmed strikes deal 1 bludgeoning, piercing, or slashing damage, as approp
 |**Duration:** Concentration (Encounter)|
 ||
 |You bless up to three creatures of your choice within range. Whenever a target makes an attack roll or an ability check before the spell ends, the target makes these rolls with advantage. This spell removes the effects of *bane.*|
-|**At Higher Levels.** At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.|
+|**At Higher Levels.** When you cast this spell at a higher level, you can target one additional creature for each level above 1st.|
 
 #### Blindness/Deafness
 |_2nd-­level necromancy_|
@@ -3861,7 +3860,7 @@ Your unarmed strikes deal 1 bludgeoning, piercing, or slashing damage, as approp
 |**Duration:** Encounter|
 ||
 |You can blind or deafen a foe. Choose one creature that you can see within range to make a CON check. If it fails, the target is either blinded or deafened (your choice) for the duration. At the end of each of its turns, the target can make a CON check. On a success, the spell ends.|
-|**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.|
+|**At Higher Levels.** When you cast this spell at a higher level, you can target one additional creature for each level above 2nd.|
 
 #### Blur
 |_2nd-­level illusion_|
@@ -3882,7 +3881,7 @@ Your unarmed strikes deal 1 bludgeoning, piercing, or slashing damage, as approp
 |**Duration:** Concentration (encounter)|
 ||
 |The next time you hit a creature with a weapon attack before this spell ends, the weapon gleams with astral radiance as you strike. The attack deals an extra 1 radiant damage to the target, which becomes visible if it's invisible, and the target sheds dim light in a 1 square radius and can't become invisible until the spell ends.|
-|**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the extra damage increases by +1 for each slot level above 2nd|
+|**At Higher Levels.** When you cast this spell at a higher level, the extra damage increases by +1 for each level above 2nd|
 
 #### Burning Hands
 |_1st-­level evocation_|
