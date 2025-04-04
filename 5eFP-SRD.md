@@ -70,7 +70,7 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_LEVEL_.** LEVEL equals the current level of play. LEVEL starts at 1 and increases over time to 7 as game objectives are completed.
 
-**_Mana_.** Mana is a resource representing the energy used to fuel spells or other preternatural game features.
+**_Mana_.** Mana is a reserve of energy used to fuel spells or other preternatural game features.
 
 **_Obscuring Map Tiles_.** Obscuring map tiles are two-sided opaque map tiles that cover unexplored areas of a map or may represent areas of preternatural or magical darkness. 
 
