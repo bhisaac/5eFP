@@ -30,6 +30,8 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Action_.** An action is a discrete measurement of time usually accessible during your turn and typically resolves before the end of your turn. You discard your action when you use certain game features, cast spells, and make attacks. You regain your action at the beginning of your next turn (see Actions).
 
+**_Action Dice_.** Action dice are special six-sided dice with four blank faces, one side with one lightning bolt symbol, and one side with two lightning bolt symbols. The symbols can represent +1 (one symbol) or +2 (two symbols) or additional options depending on the action using them. Alternatively, you can use regular six-sided dice and assign these results to 1 and 2, respectively, with the remaining values representing blank results.
+
 **_Ability Score_.** Six ability scores ranging from -5 to +10 provide a quick description of every creature’s physical and mental characteristics, including strength (STR) measuring physical power, dexterity (DEX) measuring agility, constitution (CON) measuring endurance, intelligence (INT) measuring reasoning and memory, wisdom (WIS) measuring awareness, and charisma (CHA) measuring force of personality.
 
 **_Coin_ (⛁).** A 5eFP game awards and uses Coin (⛁) as its currency, representing wealth, reputation, and experience.
@@ -106,7 +108,7 @@ Choose and place each score as desired. Two ability scores represent advanced ab
 
 **Attack Roll Modifier**
 
-Choose DEX or STR. The chosen ability score is used for melee and ranged attack rolls.
+After assigning ability scores, choose DEX or STR. You use the chosen ability score for melee and ranged attack rolls.
 
 # Species
 
@@ -876,17 +878,17 @@ Your innate magic comes from draconic magic that was mingled with your blood or 
 
 **_Draconic Resilience_.** As magic flows through your body, it causes physical traits of your dragon ancestors to emerge. Your MAX wounds increases by +1. Additionally, parts of your skin are covered by a thin sheen of dragon-like scales. As long as you have no armor equipped, you gain the benefits of wearing light armor.
 
-## Warlock
+# Warlock
 
-#### Class Features
+## Class Features
 
 As a warlock, you gain the following class features.
 
-#### Health
+## Health
 
 **MAX Wounds:** 3 + Constitution (CON)
 
-#### Proficiencies
+## Proficiencies
 
 **Armor:** Light armor
 
@@ -896,18 +898,18 @@ As a warlock, you gain the following class features.
 
 **Abilities:** Wisdom (WIS), Charisma (CHA)
 
-#### Equipment
+## Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 - (a) a light crossbow and bolts or (b) any simple weapon
 - (a) a scholar’s pack or (b) a dungeoneer’s pack
 - Leather armor, any simple weapon, and two daggers
 
-#### Otherworldly Patron
+## Otherworldly Patron
 
 You are in the service of an otherworldly being of your choice: the Fey, the Celestial, or the Primordial, each detailed at the end of the class description. Your choice grants you additional game features.
 
-#### Pact Magic
+## Pact Magic
 
 Your arcane research and the magic bestowed on you by your otherworldly patron have given you facility with spells.
 
@@ -915,19 +917,19 @@ You can use this feature to cast a spell with a spell level up to LEVEL. You can
 
 For example, if you are a 2nd-level warlock and know the 1st-level spell _rebuke_, you can use this feature to cast _rebuke_ as a 1st-level or 2nd-level spell.
 
-Whenever you use this feature to cast a paragon or epic spell, you cannot do so again until the beginning of the next game session.
+Whenever you use this feature to cast a paragon or epic spell, you cannot use it in this way again until the beginning of the next game session.
 
-#### Cantrips
+## Cantrips
 
 You know two cantrips of your choice from the warlock spell list.
 
-#### Spells Known
+## Spells Known
 
 You know CHA 1st-level spells of your choice from the warlock spell list.
 
 Whenever you purchase a Magic upgrade, you can choose one of the warlock spells you know and replace it with another spell from the warlock spell list that you can cast.
 
-#### Spellcasting Ability
+## Spellcasting Ability
 
 Charisma (CHA) is your spellcasting ability for your warlock spells, so you use your CHA whenever a spell refers to your spellcasting ability. In addition, you use your CHA when setting the DC for a warlock spell you cast and when making an attack roll with one.
 
@@ -945,9 +947,7 @@ Some patrons collect warlocks, doling out mystic knowledge relatively freely or 
 
 You have made a pact with a powerful elemental from within the Primordial Chaos, the home plane of existence for all elementals. Your primordial patron is strictly neutral in outlook and temperament, swayed only by their attunement to a specific elemental quality. Earth tends to be steady, tenacious, and indomitable. Water tends to be flexible and aware. Fire tends to be activating, charged, and focused. Air tends to be expansive and mobile. Primordials rarely involve themselves in mortal affairs or circumstances unless the elemental balance is threatened somehow. Such beings desire the propagation of the elements and their elemental outlook upon the prime material plane through you, their chosen vessel. Primordials powerful enough to forge a pact and their preferred elemental outlook include Phoneix (fire), Leviathan (water), Zaratan (earth), and Elder Tempest (air).
 
-#### Expanded Spell List
-
-The Primordial lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
+**_Expanded Spell List_.** The Primordial lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
 
 **PRIMORDIAL EXPANDED SPELLS**
 |||
@@ -964,23 +964,21 @@ The Primordial lets you choose from an expanded list of spells when you learn a 
 |Paragon|Control Weather, Incendiary Cloud|
 |Epic|Gate, Prismatic Wall|
 
-### Elemental Attunement
-
-Starting at 1st level, your patron bestows upon you the ability to shift and adapt elemental energies within the spells you cast from the Primordial expanded spell list. Whenever you cast a spell from the Primordial expanded spell list that deals energy damage, you may choose to replace the energy type with the type preferred by your patron (Phoenix: fire, Laviathon: cold, Zaraton: acid, and Elder Tempest: lightning).
+**_Elemental Attunement_.** Your patron bestows you the ability to adapt elemental energies within the spells you cast from the Primordial expanded spell list. Whenever you cast a spell from the Primordial expanded spell list that deals energy damage, you may choose to replace the energy type with the type preferred by your patron (Phoenix: fire, Laviathon: cold, Zaraton: acid, and Elder Tempest: lightning).
 
 Spells affected by this feature lose any secondary effects. For example, a cold _fireball_ no longer ignites combustibles within the spell's area of effect. Similarly, an acid _thunderwave_ does not push creatures or unsecured objects and no longer generates a thunderous boom.
 
-## Wizard
+# Wizard
 
-#### Class Features
+## Class Features
 
 As a wizard, you gain the following class features.
 
-#### Health
+## Health
 
 **MAX Wounds:** 3 + Constitution (CON)
 
-#### Proficiencies
+## Proficiencies
 
 **Armor:** None
 
@@ -990,34 +988,34 @@ As a wizard, you gain the following class features.
 
 **Abilities:** Intelligence (INT), Wisdom (WIS)
 
-#### Equipment
+## Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 - (a) a quarterstaff or (b) a dagger
 - (a) a scholar’s pack or (b) an explorer’s pack
 - A spellbook
 
-#### Spellcasting
+## Spellcasting
 
 As a student of arcane magic, you have a spellbook containing spells that show the first glimmerings of your true power.
 
-#### Cantrips
+## Cantrips
 
 You know three cantrips of your choice from the wizard spell list.
 
-#### Mana
+## Mana
 
 You gain 2 mana. To cast one of your spells, you must spend an amount of mana equal to the spell’s level or higher. You regain all spent mana at the beginning of a game session.
 
 For example, if you know the 1st-level spell _magic missile_ and have 2 mana, you can spend 1 mana to cast _magic missile_ as a 1st-level spell or 2 mana to cast it as a 2nd-level spell.
 
-#### Spells Known
+## Spells Known
 
 You know (INT + 2) 1st-level spells from the wizard spell list.
 
 Whenever you purchase a Magic upgrade, you can add one spell of your choice from the wizard spell list that you can cast and add it to your spellbook for free. On your adventures, you might find other spells that you can add to your spellbook (see the “Your Spellbook” sidebar).
 
-#### Spellcasting Ability
+## Spellcasting Ability
 
 Intelligence (INT) is your spellcasting ability for your wizard spells. You learn your spells through dedicated study and memorization. You use your INT whenever a wizard spell refers to your spellcasting ability. In addition, you use INT when setting the DC for a wizard spell you cast and when making an attack roll with one.
 
@@ -1025,34 +1023,35 @@ Intelligence (INT) is your spellcasting ability for your wizard spells. You lear
 
 **Spell attack modifier** = 2 + INT
 
-#### Ritual Casting
+## Ritual Casting
 
 You can cast a wizard spell as a ritual if that spell has the ritual tag and you know the spell.
 
-#### Spellbook
+## Spellbook
 
-You have a spellbook containing your known wizard spells. Your spellbook is the repository of the wizard spells you know, except your cantrips, which are fixed in your mind. Except for cantrips, your wizard spells require you to have your spellbook in your equipment. If you ever lose your spellbook, you must create a new one to cast a wizard spell.
+You have a spellbook containing your known wizard spells. Your spellbook is the repository of the wizard spells you know, except your cantrips, which are fixed in your mind. Except for cantrips, your wizard spells require you to have your spellbook in your equipment or in hand.
 
-#### Arcane Recovery
+## Arcane Recovery
 
-Studying your spellbook taught you to regain some of your magical energy. Once per game session, you can regain mana equal to LEVEL when you finish a rest.
+Studying your spellbook taught you how to replenish some of your magical energy. Once per game session, you can regain mana equal to LEVEL when you finish a rest.
 
-For example, if you’re a 2nd-­level wizard, you can recover up to 2 mana.
+For example, if you’re a 2nd-­level wizard, you gain 2 mana.
 
-> #### Your Spellbook
-> The spells that you add to your spellbook reflect the arcane research you conduct on your own, as well as intellectual breakthroughs you have had about the nature of the multiverse. You might find other spells during your adventures. You could discover a spell recorded on a scroll in an evil wizard’s chest, for example, or in a dusty tome in an ancient library.
-> 
-> ***Copying a Spell into the Book.*** When you find a wizard spell of 1st level or higher, you can add it to your spellbook during a downtime round by spending a number of Coin equal to the spell's level, but only if it is of a spell level that you can prepare.
-> 
-> Copying that spell into your spellbook involves reproducing the basic form of the spell, then deciphering the unique system of notation used by the wizard who wrote it. You must practice the spell until you understand the sounds or gestures required, then transcribe it into your spellbook using your own notation.
-> 
-> The cost associated with copying spells into your spellbook reflects the material components you use while experimenting with the spell to master it, along with the special inks necessary for recording it. After completing the necessary downtime, you know the spell.
-> 
-> ***Replacing the Book.*** You can copy a spell from your own spellbook into another book—for example, if you want to make a backup copy of your spellbook. This is just like copying a new spell into your spellbook, but faster and easier, since you understand your own notation and already know how to cast the spell. You need spend only 1 hour for each level of the copied spell.
-> 
-> If you lose your spellbook, you can use the same procedure to transcribe the spells that you have prepared into a new spellbook. Filling out the remainder of your spellbook requires you to find new spells to do so, as normal. For this reason, many wizards keep backup spellbooks in a safe place.
-> 
-> ***The Book’s Appearance.*** Your spellbook is a unique compilation of spells, with its own decorative flourishes and margin notes. It might be a plain, functional leather volume that you received as a gift from your master, a finely bound gilt-edged tome you found in an ancient library, or even a loose collection of notes scrounged together after you lost your previous spellbook in a mishap.
+## Your Spellbook
+
+The spells you add to your spellbook reflect the arcane research you conduct on your own and the intellectual breakthroughs you have had about the nature of the multiverse. You might find other spells during your adventures. For example, you could discover a spell recorded on a scroll in an evil wizard’s chest or in a dusty tome in an ancient library.
+ 
+***Copying a Spell into the Book.*** When you find a wizard spell of 1st level or higher, you can add it to your spellbook during a downtime round by spending ⛁ for each level of the spell beyond 1st, but only if it is a spell you can learn. For example, you can add the 3rd-level spell _stoneskin_ to your spellbook by spending 2⛁.
+ 
+Copying that spell into your spellbook involves reproducing the basic form of the spell and then deciphering the unique system of notation used by the wizard who wrote it. You must practice the spell until you understand the sounds or gestures required, then transcribe it into your spellbook using your notation.
+
+The cost associated with copying spells into your spellbook reflects the material components you use while experimenting with the spell to master it, along with the special inks necessary for recording it. After completing the necessary downtime, you know the spell.
+
+***Replacing the Book.*** You can copy a spell from your spellbook into another book—for example, if you want to make a backup copy of your spellbook. This is just like copying a new spell into your spellbook, but faster and easier since you understand your notation and already know how to cast the spell. You can create a copy of your spellbook or update it with any new spells you have discovered during downtime round.
+
+If you lose your spellbook, you can use the same procedure to transcribe the spells that you have prepared into a new spellbook. Filling out the remainder of your spellbook requires you to find new spells to do so, as normal. For this reason, many wizards keep backup spellbooks in a safe place.
+
+***The Book’s Appearance.*** Your spellbook is a unique compilation of spells, with its own decorative flourishes and margin notes. It might be a plain, functional leather volume that you received as a gift from your master, a finely bound gilt-edged tome you found in an ancient library, or even a loose collection of notes scrounged together after you lost your previous spellbook in a mishap.
 
 # Beyond 1st Level
 
@@ -1315,7 +1314,7 @@ You can cast _speak with animals_ at will, without using your pact magic feature
 
 ### Beguiling Influence
 
-You can use this feature to cast _charm person_ without verbal or somatic components once without using your pact magic feature.
+Once per game session, you can use this feature to cast _charm person_ without verbal or somatic components and without using your pact magic feature.
 
 ### Book of Ancient Secrets
 
@@ -1472,42 +1471,48 @@ TBA
 |3⛁|Monastic Tradition|...|
 |3⛁|Deflect Missiles|...|
 
-> #### Ki
->> Your training allows you to harness the mystic energy of ki. Your access to this energy is represented by a number of ki points. You have 1 + LEVEL ki points.
->>
->> You can spend these points to fuel various ki features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind.
->>
->> When you spend a ki point, it is unavailable until you finish a rest or until the end of the game session, at the end of which you draw all of your expended ki back into yourself. You must spend half the rest meditating to regain your ki points. Once you spend 1 or more ki points, you cannot spend any more until the beginning of your next turn.
->>
->> Some of your ki features require your target to make an ability check to resist the feature’s effects. The ki DC is calculated as follows:
->>
->> **Ki DC** = 10 +  WIS
->>
->> **Flurry of Blows.** Immediately after you take the Attack action on your turn, you can spend 1 ki point to make two unarmed strikes.
->>
->> **Patient Defense.** You can spend 1 ki point to take the Dodge action on your turn without discarding your action.
->>
->> **Step of the Wind.** You can spend 1 ki point to take the Disengage or Dash action on your turn without discarding your action, and your jump distance is doubled for the turn.
->>
-> #### Unarmored Movement
->> Your speed increases by 2 while you are not wearing armor or wielding a shield.
->> 
-> #### Monastic Tradition
->> You commit yourself to a monastic tradition, such as the Way of the Open Hand. Your tradition grants you features.
->>
->>> **Way of the Open Hand.** Monks of the Way of the Open Hand are the ultimate masters of martial arts combat, whether armed or unarmed. They learn techniques to push and trip their opponents, manipulate ki to heal damage to their bodies, and practice advanced meditation that can protect them from harm.
->>>
->>>> **Open Hand Technique.** You can manipulate your enemy’s ki when you harness your own. Whenever you hit a creature with one of the attacks granted by your Flurry of Blows, you can impose one of the following effects on that target:
->>>> - It must succeed on a DEX check or be knocked prone.
->>>> - It must make a STR check. If it fails, you can push it up to 3 squares away from you.
->>>> - It can’t take reactions until the end of your next turn.
->>
-> #### Deflect Missiles
->> You can use your reaction to deflect or catch the piece of ammunition or missile when you are hit by a ranged weapon attack. When you do so, the damage you take from the attack is reduced by 1 + DEX + your level (minimum 0).
->>
->> If you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in one hand and you have at least one hand free. If you catch a missile in this way, you can spend 1 ki point to make a ranged attack with the weapon or piece of ammunition you just caught, as part of the same reaction. You make this attack with proficiency, regardless of your weapon proficiencies, and the missile counts as a monk weapon for the attack, which has a normal range of 4 squares and a long range of 12 squares.
+## Ki
 
-## Alignment
+Your training allows you to harness the mystic energy of ki. Your access to this energy is represented by a number of ki points. You have 1 + LEVEL ki points.
+
+You can spend these points to fuel various ki features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind.
+
+When you spend a ki point, it is unavailable until you finish a rest or until the end of the game session, at the end of which you draw all of your expended ki back into yourself. You must spend half the rest meditating to regain your ki points. Once you spend 1 or more ki points, you cannot spend any more until the beginning of your next turn.
+
+Some of your ki features require your target to make an ability check to resist the feature’s effects. The ki DC is calculated as follows:
+
+**Ki DC** = 10 +  WIS
+
+**Flurry of Blows.** Immediately after you take the Attack action on your turn, you can spend 1 ki point to make two unarmed strikes.
+
+**Patient Defense.** You can spend 1 ki point to take the Dodge action on your turn without discarding your action.
+
+**Step of the Wind.** You can spend 1 ki point to take the Disengage or Dash action on your turn without discarding your action, and your jump distance is doubled for the turn.
+
+## Unarmored Movement
+
+Your speed increases by 2 while you are not wearing armor or wielding a shield.
+
+## Monastic Tradition
+
+You commit yourself to a monastic tradition, such as the Way of the Open Hand. Your tradition grants you features.
+
+### Way of the Open Hand
+
+Monks of the Way of the Open Hand are the ultimate masters of martial arts combat, whether armed or unarmed. They learn techniques to push and trip their opponents, manipulate ki to heal damage to their bodies, and practice advanced meditation that can protect them from harm.
+
+**Open Hand Technique.** You can manipulate your enemy’s ki when you harness your own. Whenever you hit a creature with one of the attacks granted by your Flurry of Blows, you can impose one of the following effects on that target:
+- It must succeed on a DEX check or be knocked prone.
+- It must make a STR check. If it fails, you can push it up to 3 squares away from you.
+- It can’t take reactions until the end of your next turn.
+
+## Deflect Missiles
+
+You can use your reaction to deflect or catch the piece of ammunition or missile when you are hit by a ranged weapon attack. When you do so, the damage you take from the attack is reduced by 1 + DEX + your level (minimum 0).
+
+If you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in one hand and you have at least one hand free. If you catch a missile in this way, you can spend 1 ki point to make a ranged attack with the weapon or piece of ammunition you just caught, as part of the same reaction. You make this attack with proficiency, regardless of your weapon proficiencies, and the missile counts as a monk weapon for the attack, which has a normal range of 4 squares and a long range of 12 squares.
+
+# Alignment
 
 A typical creature in the game world has an alignment, which broadly describes its moral and personal attitudes. Alignment is a combination of two factors: one identifies morality (good, evil, or neutral), and the other describes attitudes toward society and order (lawful, chaotic, or neutral). Thus, nine distinct alignments define the possible combinations.
 
@@ -2679,13 +2684,13 @@ PCs may discard up to LEVEL wounds at the end of a rest.
 
 # Downtime
 
-Downtime consists of downtime actions measured in rounds, including rest and repairs, research, spending Coin on HQ upgrades, or taking other actions between game sessions. After all PCs Recall and finish spending Coin on character updgrades, the first downtime round begins. If you spend ⛁ on rest and repairs during your downtime round, you gain an extended rest of at least 8 hours for sleeping or light activities. Once completed, your gear is repaired, you replenish any depleted ammunition or multi-use items, and you discard any wounds. If you do not spend ⛁ on rest and repairs during downtime, you do not gain the benefits of an extended rest and instead gain one level of exhaustion.
+Downtime consists of downtime actions measured in rounds, including rest and repairs, research, spending Coin on HQ upgrades, or taking other actions between game sessions. The first downtime round begins after all PCs Recall and finish spending Coin on character upgrades. If you spend ⛁ on rest and repairs during downtime, you gain an extended rest of at least 8 hours for sleeping or light activities. Once completed, your gear is repaired, you replenish any depleted ammunition or multi-use items, and you discard any wounds. If you do not spend ⛁ on rest and repairs during downtime, you do not gain the benefits of an extended rest and instead gain one level of exhaustion.
 
-> Downtime in RL can be ignored, but it will likely disrupt or even end your health and wellness! Working, which includes working on your inner life, needs moderation and temperance. There is a time to work, a time to play, and a time to do nothing at all. Doing nothing, which is also known as resting with minimal effort, allows for the deepest and most effective Medicine. Without Medicine or first aid and other medical interventions, your wounds continue to bleed out. Gross downtime negligence indicates a passive and lengthy suicide, for a death like this is preventable with self-care.
+> Downtime in RL can be ignored, but it will likely disrupt or even end your health and wellness! Working, which includes working on your inner life, needs moderation and temperance. There is a time to work, a time to play, and a time to do nothing at all. Doing nothing, which is also known as resting with minimal effort, allows for the most effective Medicine. Without Medicine or first aid and other medical interventions, your wounds continue to bleed out. Gross downtime negligence indicates a passive and lengthy suicide, for a death like this is preventable with a degree of self-care.
 > 
 > The actions you take in RL happen between game sessions. Try to harmonize what your PC does during downtime rounds with what you are working on in RL.
 
-Your first downtime round is free. You can purchase more rounds of downtime by spending ⛁ for each additional round.
+Your first downtime round is free. You can only gain one benefit per downtime round. For example, you could spend ⛁ on rest and repairs during a downtime round or move your token onto an HQ location that provides a different benefit, but you cannot do both. You can purchase more rounds of downtime by spending ⛁ for each additional round.
 
 If your character Recalls dead, HQ healers cast _gentle repose_ on or take steps to preserve your character's remains, transporting them to a holding room within the crypt or morgue. In this room, players decide what to do next with the deceased character. The player whose character died can choose whether to retire the character or take other actions.
 
@@ -3356,7 +3361,11 @@ Some spells can be cast as reactions. These spells take a fraction of a second t
 
 #### Longer Casting Times
 
-Certain spells (including spells cast as rituals) require more time to cast. Ritual spells can only be cast outside of an encounter. More powerful spells with long casting times can only be cast once per game session and may require you to be at HQ to cast. Other spells can only be cast when completing a downtime round. These spells may take hours or even a day to cast. If the location where you spend a downtime round loses HQ protection, you lose the spell without expending mana. You must use another downtime round at a location with HQ protection to cast it again.
+Certain spells (including spells cast as rituals) require more time to cast. Ritual spells can only be cast outside of an encounter. More powerful spells or spells with long casting times can only be cast once per game session and may require you to be at HQ to cast. Other spells can only be cast when completing a downtime round. These spells may take hours or even a day to cast. If the location where you spend a downtime round loses HQ protection, you lose the spell without expending mana. You must use another downtime round at a location with HQ protection to cast it again.
+
+### Cooldown
+
+Some powerful spells have the cooldown keyword. Spells with a cooldown can only be cast once per game session.
 
 ### Range
 
@@ -4047,6 +4056,16 @@ To discern that you are disguised, a creature can discard its action to inspect 
 |Once you cast _simulacrum_, you cannot cast it again until you gain a level of experience.|
 |If the simulacrum is damaged, you can repair it in an alchemical laboratory, spending 1 or more coins to heal an equal number of wounds. The simulacrum lasts until it reaches MAX Wounds, at which point it reverts to snow and melts instantly.|
 |If you cast this spell again, any currently active duplicates you created with this spell are instantly destroyed.|
+
+#### Stoneskin
+|_3rd-level abjuration, cooldown_|
+|:-|
+|**Casting Time:** 1 action|
+|**Range:** Touch|
+|**Components:** V, S|
+|**Duration:** Recall|
+||
+|This spell turns the flesh of a willing creature you touch as hard as stone. Until the spell ends, the target has resistance to nonmagical bludgeoning, piercing, and slashing damage.|
 
 ### Spells (T)
 
