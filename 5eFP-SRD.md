@@ -36,7 +36,7 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Coin_ (⛁).** A 5eFP game awards and uses Coin (⛁) as its currency, representing wealth, reputation, and experience.
 
-**_Cooldown_.** A game feature with the cooldown keyword can only be used once per game session. If a number follows the cooldown keyword, the number represents how many times you can use this game feature per game session but no more than once per turn.
+**_Cooldown_.** A game feature with the cooldown keyword can only be used once during a game session. If a number follows the cooldown keyword, the number represents how many times you can use the game feature during a game session (minimum 1). Once a game feature with a cooldown is used, you can't use the same game feature again until the beginning of your next turn.
 
 **_Conflict_.** The conflict, detailed in your setting handbook, is an event with ongoing effects that changed the game world into an unbalanced and afflicted state (see Setting Handbook). A 5eFP game ends when the conflict is resolved.
 
@@ -78,7 +78,7 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Recall_.** A PC is transported back to the HQ map room after finishing a special Recall ritual completed outside of an encounter. PCs automatically Recall when the time marker reaches 0 (8 hours) after deploying onto the world map. A PC may only Recall once per game session.
 
-**_Rest_.** Twice per game session, PCs may choose to take a rest. Once completed, each PC receives a number of healing points equal to LEVEL and the time marker advances 1 hour.
+**_Rest_.** Twice per game session, PCs may choose to take a rest. Once completed, each PC receives a number of healing points equal to LEVEL, you regain all uses of game features with the rest keyword, and the time marker advances 1 hour.
 
 **_Round_.** In combat and other fast-­paced situations, the game relies on rounds, a 6-­second span of time. A downtime round represents one or more days.
 
@@ -222,8 +222,8 @@ As a high elf, you have strong ties to nature and magic. In many fantasy gaming 
 
 **Magic Attunement.** Choose and gain one species trait:
 - **Arcane.** You know one cantrip of your choice from the wizard spell list. INT is your spellcasting ability for it. You can also speak, read, and write one extra language of your choice.
-- **Feywild.** You can cast the *misty step* spell once without spending any mana using this trait. You regain the ability to do so when you finish a rest.
-- **Shadowfell.** You can cast the *faerie fire* spell once without spending any mana using this trait. You regain the ability to do so when you finish a rest.
+- **Feywild. (Rest)** You can cast the *misty step* spell once without spending any mana using this trait.
+- **Shadowfell. (Rest)** You can cast the *faerie fire* spell once without spending any mana using this trait.
 
 ### Wood Elf
 
@@ -408,7 +408,7 @@ Your bardic magic lets you use your voice or any instrument you wield more effec
 
 ### Bardic Action Dice
 
-_Cooldown CHA (minimum 1)_
+_Cooldown CHA_
 
 During your turn, you can inspire others by stirring words or music. Choose one creature other than yourself within 10 squares of you who can hear you. That creature gains five of your action dice until the beginning of your next turn.
 
@@ -620,9 +620,9 @@ Whenever you attack and miss with a melee weapon you are wielding with two hands
 
 When a creature you can see attacks a target other than you that is within 1 square of you, you can discard your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
 
-### Second Wind
+### Second Wind (Rest)
 
-You have a limited well of stamina that you can draw on to protect yourself from harm. Once during your turn, you receive up to 2 points of healing. Once you use this feature, you must finish a rest before you can use it again.
+You have a limited well of stamina that you can draw on to protect yourself from harm. Once during your turn, you receive up to 2 points of healing.
 
 ## Monk
 
@@ -891,52 +891,50 @@ Your innate magic comes from draconic magic that was mingled with your blood or 
 
 As a warlock, you gain the following class features.
 
-## Health
+_HEALTH_
 
 **MAX Wounds:** 3 + Constitution (CON)
 
-## Proficiencies
+_PROFICIENCIES_
+
+**Abilities:** Wisdom (WIS), Charisma (CHA)
 
 **Armor:** Light armor
 
 **Weapons:** Simple weapons
 
-**Tools:** None
-
-**Abilities:** Wisdom (WIS), Charisma (CHA)
-
-## Equipment
+_EQUIPMENT_
 
 You start with the following equipment, in addition to the equipment granted by your background:
 - (a) a light crossbow and bolts or (b) any simple weapon
 - (a) a scholar’s pack or (b) a dungeoneer’s pack
 - Leather armor, any simple weapon, and two daggers
 
-## Otherworldly Patron
+### Otherworldly Patron
 
 You are in the service of an otherworldly being of your choice: the Fey, the Celestial, or the Primordial, each detailed at the end of the class description. Your choice grants you additional game features.
 
-## Pact Magic
+### Pact Magic (Rest)
 
 Your arcane research and the magic bestowed on you by your otherworldly patron have given you facility with spells.
 
-You can use this feature to cast a spell with a spell level up to LEVEL. You can use this feature once. You regain expended uses when you finish a rest.
+You can use this feature once to cast a spell with a spell level up to LEVEL without spending mana.
 
 For example, if you are a 2nd-level warlock and know the 1st-level spell _rebuke_, you can use this feature to cast _rebuke_ as a 1st-level or 2nd-level spell.
 
-Cooldown: You can use this feature to cast a paragon or epic spell.
+You can use this feature to cast a paragon or epic spell as a cooldown.
 
-## Cantrips
+_CANTRIPS_
 
 You know two cantrips of your choice from the warlock spell list.
 
-## Spells Known
+_SPELLS KNOWN_
 
 You know CHA 1st-level spells of your choice from the warlock spell list.
 
 Whenever you purchase a Magic upgrade, you can choose one of the warlock spells you know and replace it with another spell from the warlock spell list that you can cast.
 
-## Spellcasting Ability
+_SPELLCASTING ABILITY_
 
 Charisma (CHA) is your spellcasting ability for your warlock spells, so you use your CHA whenever a spell refers to your spellcasting ability. In addition, you use your CHA when setting the DC for a warlock spell you cast and when making an attack roll with one.
 
@@ -944,13 +942,13 @@ Charisma (CHA) is your spellcasting ability for your warlock spells, so you use 
 
 **Spell attack modifier** = 2 + CHA
 
-## Otherworldly Patrons
+### Otherworldly Patrons
 
 The beings that serve as patrons for warlocks are mighty inhabitants of other planes of existence—not gods, but almost godlike in their power. Various patrons give their warlocks access to different powers and abilities and expect significant favors in return.
 
 Some patrons collect warlocks, doling out mystic knowledge relatively freely or boasting of their ability to bind mortals to their will. Other patrons bestow their power only grudgingly, and might make a pact with only one warlock. Warlocks who serve the same patron might view each other as allies, siblings, or rivals.
 
-### The Primordial
+_THE PRIMORDIAL_
 
 You have made a pact with a powerful elemental from within the Primordial Chaos, the home plane of existence for all elementals. Your primordial patron is strictly neutral in outlook and temperament, swayed only by their attunement to a specific elemental quality. Earth tends to be steady, tenacious, and indomitable. Water tends to be flexible and aware. Fire tends to be activating, charged, and focused. Air tends to be expansive and mobile. Primordials rarely involve themselves in mortal affairs or circumstances unless the elemental balance is threatened somehow. Such beings desire the propagation of the elements and their elemental outlook upon the prime material plane through you, their chosen vessel. Primordials powerful enough to forge a pact and their preferred elemental outlook include Phoneix (fire), Leviathan (water), Zaratan (earth), and Elder Tempest (air).
 
