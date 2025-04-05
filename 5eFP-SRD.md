@@ -121,24 +121,31 @@ After assigning ability scores, choose DEX or STR. You use the chosen ability sc
 The description of each species includes species traits that are common to members of that species. The following entries appear among the traits of most species.
 
 ### Ability Score Increase
+
 Every species increases one character’s ability score by +1. Most species also grant another improved ability score that gains an additional +1 if you assign a +1 or greater score during character creation.
 
 ### Age
+
 The age entry notes the age when a member of the species is considered an adult, as well as the species’ expected lifespan. This information can help you decide how old your character is at the start of the game. You can choose any age for your character, which could provide an explanation for some of your ability scores. For example, if you play a young or very old character, your age could explain a particularly low Strength or Constitution score, while advanced age could account for a high Intelligence or Wisdom.
 
 ### Alignment
+
 Most species have tendencies toward certain alignments, described in this entry. These are not binding for player characters, but considering why your dwarf is chaotic, for example, in defiance of lawful dwarf society can help you better define your character.
 
 ### Size
+
 Characters of most species are Medium, a size category including creatures that are roughly 4 to 8 feet tall. Members of a few species are Small (between 2 and 4 feet tall), which means that certain rules of the game affect them differently. The most important of these rules is that Small characters have trouble wielding heavy weapons, as explained in “Equipment.”
 
 ### Speed
+
 Your speed determines how far you can move when traveling (“Adventuring”) and fighting (“Combat”). Your speed represents the maximum number of squares you can move during your turn.
 
 ### Languages
+
 By virtue of your species, your character can speak, read, and write certain languages.
 
 ### Varieties
+
 Some species have one or more varieties. Each variety has the traits of the parent species in addition to the traits specified for their variety. Relationships among varieties differ significantly from species to species and world to world.
 
 ## Dwarf
