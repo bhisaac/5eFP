@@ -1093,7 +1093,7 @@ The following upgrades provide an additional way to gain inspiration as a cooldo
 |-:|:-|:-|
 |**Cost**|**Feature**|**Details**|
 |3⛁|Channel Divinity (1/rest)|...|
-|3⛁|Magic|You gain +2 Mana and add +1 known spell from your class spell list.|
+|3⛁|Magic|You start a game session with 4 Mana. You learn one spell from your class spell list.|
 
 ## Channel Divinity (1/rest)
 
@@ -3325,13 +3325,11 @@ Spellcasters gain access to paragon spells at level 6 and epic spells at level 7
 
 ### Known and Prepared Spells
 
-Spellcasters must have the spell firmly fixed in mind before they can use it, or they must have access to the spell with a magic item. Spellcasters have a limited list of spells they know that are always fixed in mind. The same thing is true of many magic-­using monsters. Wizards are an exception and may learn any number of spells, provided the spell level does not exceed LEVEL, choosing which spells are fixed in mind at the beginning of each game session.
-
-In every case, the number of spells a caster can have fixed in mind at any given time equals LEVEL. Add + 1 for each Magic upgrade.
+Spellcasters must have the spell firmly fixed in mind before they can use it, or they must have access to the spell with a magic item. Spellcasters have a limited list of spells they know that are always fixed in mind. The same thing is true of many magic-­using monsters. Wizards are an exception and may learn any number of spells.
 
 ### Mana
 
-Regardless of how many spells casters know or prepare, they can cast only a limited number of spells before resting. Manipulating the fabric of magic and channeling its energy into even a simple spell requires spending magic energy known as mana. Casting spells is also physically and mentally taxing, and higher-level spells are even more so.
+Regardless of how many spells casters know, they can cast only a limited number of spells before resting. Manipulating the fabric of magic and channeling its energy into even a simple spell requires spending magic energy known as mana. Casting spells is also physically and mentally taxing, and higher-level spells are even more so.
 
 When characters cast a spell, they expend an amount of mana equal to that spell’s level. Alternatively, if a spell description allows it, they can spend additional mana to augment the spell's effects, provided the total mana spent does not exceed LEVEL.
 
