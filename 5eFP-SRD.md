@@ -350,11 +350,11 @@ While not wearing armor, you add CON (minimum 0) to your Defense. You can use a 
 
 ## Class Features
 
-## Health
+_HEALTH_
 
 **MAX Wounds:** 4 + Constitution (CON)
 
-## Proficiencies
+_PROFICIENCIES_
 
 **Armor:** Light armor
 
@@ -364,7 +364,7 @@ While not wearing armor, you add CON (minimum 0) to your Defense. You can use a 
 
 **Abilities:** Dexterity (DEX), Charisma (CHA)
 
-## Equipment
+_EQUIPMENT_
 
 You start with the following equipment, in addition to the equipment granted by your background:
 - (*a*) a rapier or (*b*) a longsword, or (*c*) any simple weapon
@@ -372,27 +372,27 @@ You start with the following equipment, in addition to the equipment granted by 
 - (*a*) a lute or (*b*) any other musical instrument
 - Leather armor and dagger
 
-## Spellcasting
+### Spellcasting
 
 You have learned to untangle and reshape the fabric of reality in harmony with your wishes and music.
 
-### Cantrips
+_CANTRIPS_
 
 You know two cantrips of your choice from the bard spell list.
 
-### Mana
+_MANA_
 
 You begin a game session with 2 mana. To cast one of your spells, you must spend an amount of mana equal to the spell’s level or higher.
 
 For example, if you know the 1st-level spell _cure wounds_ and have 2 mana, you can spend 1 mana to cast _cure wounds_ as a 1st-level spell or 2 mana to cast it as a 2nd-level spell.
 
-### Spells Known
+_SPELLS KNOWN_
 
 You know CHA 1st-level spells from the bard spell list.
 
 Whenever you purchase a Magic upgrade, you can choose one of the bard spells you know and replace it with another spell from the bard spell list that you can cast.
 
-### Spellcasting Ability
+_SPELLCASTING ABILITY_
 
 Charisma (CHA) is your spellcasting ability for your bard spells. Your magic comes from the heart and soul you pour into the performance of your music or oration. You use your CHA whenever a spell refers to your spellcasting ability. In addition, you use your CHA when setting the DC for a bard spell you cast and when making an attack roll with one.
 
@@ -400,7 +400,7 @@ Charisma (CHA) is your spellcasting ability for your bard spells. Your magic com
 
 **Spell attack modifier** = 2 + CHA
 
-### Ritual Casting
+_RITUAL CASTING_
 
 You can cast any bard spell you know as a ritual if that spell has the ritual tag and you know the spell.
 
