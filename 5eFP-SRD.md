@@ -222,8 +222,8 @@ As a high elf, you have strong ties to nature and magic. In many fantasy gaming 
 
 **Magic Attunement.** Choose and gain one species trait:
 - **Arcane.** You know one cantrip of your choice from the wizard spell list. INT is your spellcasting ability for it. You can also speak, read, and write one extra language of your choice.
-- **Feywild.** You can cast the *misty step* spell once using this trait. You regain the ability to do so when you finish a rest.
-- **Shadowfell.** You can cast the *faerie fire* spell once using this trait. You regain the ability to do so when you finish a rest.
+- **Feywild.** You can cast the *misty step* spell once without spending any mana using this trait. You regain the ability to do so when you finish a rest.
+- **Shadowfell.** You can cast the *faerie fire* spell once without spending any mana using this trait. You regain the ability to do so when you finish a rest.
 
 ### Wood Elf
 
@@ -307,11 +307,13 @@ It’s hard to make generalizations about humans, but your human character has t
 
 ## Class Features
 
-## Health
+As a barbarian, you gain the following class features.
+
+#### Health
 
 **MAX Wounds:** 5 + Constitution (CON)
 
-## Proficiencies
+#### Proficiencies
 
 **Armor:** Light armor, medium armor, shields
 
@@ -321,14 +323,14 @@ It’s hard to make generalizations about humans, but your human character has t
 
 **Abilities:** Strength (STR), Constitution (CON)
 
-## Equipment
+#### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 - (*a*) a battleaxe or (*b*) any martial melee weapon
 - (*a*) handaxes or (*b*) any simple weapon
 - An explorer's pack and javelins
 
-## Rage
+### Rage
 
 _Cooldown 2_
 
@@ -342,7 +344,7 @@ If you are able to cast spells, you can’t cast them or concentrate on them whi
 
 Your rage ends early if you are knocked unconscious or if your turn ends and you haven’t attacked a hostile creature since your last turn or taken damage since then. You can end your rage early on your turn, starting on the turn after you activate rage.
 
-## Unarmored Defense
+### Unarmored Defense
 
 While not wearing armor, you add CON (minimum 0) to your Defense. You can use a shield and still gain this benefit.
 
