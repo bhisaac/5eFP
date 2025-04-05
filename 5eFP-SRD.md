@@ -1117,7 +1117,7 @@ A turned creature must spend its turns trying to move as far away from you as it
 |2⛁|Fighting Style|...|
 |2⛁|Spellcasting|...|
 |3⛁|Divine Smite|...|
-|3⛁|Magic|You gain +1 mana|
+|3⛁|Magic|You begin the game with 3 mana|
 
 ## Fighting Style
 
@@ -1138,7 +1138,27 @@ Whenever you attack and miss with a melee weapon you are wielding with two hands
 
 ## Spellcasting
 
+You have learned to draw on divine magic through meditation and prayer to cast spells as a cleric does.
 
+### Mana
+
+You begin a game session with 2 mana. To cast one of your spells, you must spend an amount of mana equal to the spell’s level or higher.
+
+For example, if you know the 1st-level spell _cure wounds_ and have 2 mana, you can spend 1 mana to cast _cure wounds_ as a 1st-level spell or 2 mana to cast it as a 2nd-level spell.
+
+### Spells Known
+
+You know CHA 1st-level spells from the paladin spell list.
+
+Whenever you purchase a Magic upgrade, you can choose one of the paladin spells you know and replace it with another spell from the paladin spell list that you can cast.
+
+### Spellcasting Ability
+
+Charisma (CHA) is your spellcasting ability for your paladin spells since their power derives from the strength of your convictions. You use your CHA whenever a paladin spell refers to your spellcasting ability. In addition, you use CHA when setting the DC for a paladin spell you cast and when making an attack roll with one.
+
+**Spell DC** = 10 + CHA
+
+**Spell attack modifier** = 2 + CHA
 
 ## Divine Smite
 
