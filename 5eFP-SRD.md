@@ -215,8 +215,8 @@ As a high elf, you have strong ties to nature and magic. In many fantasy gaming 
 
 **Magic Attunement.** Choose and gain one species trait:
 - **Arcane.** You know one cantrip of your choice from the wizard spell list. INT is your spellcasting ability for it. You can also speak, read, and write one extra language of your choice.
-- **Feywild.** You can cast the *misty step* spell once using this trait. You regain the ability to do so when you finish a short or long rest.
-- **Shadowfell.** You can cast the *faerie fire* spell once using this trait. You regain the ability to do so when you finish a short or long rest.
+- **Feywild.** You can cast the *misty step* spell once using this trait. You regain the ability to do so when you finish a rest.
+- **Shadowfell.** You can cast the *faerie fire* spell once using this trait. You regain the ability to do so when you finish a rest.
 
 ### Wood Elf
 
@@ -1463,7 +1463,7 @@ TBA
 > #### Action Surge
 >> You can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action on top of your regular action.
 >>
->> Once you use this feature, you must finish a short or long rest before you can use it again. Starting at 17th level, you can use it twice before a rest, but only once on the same turn.
+>> Once you use this feature, you must finish a rest before you can use it again. Starting at 17th level, you can use it twice before a rest, but only once on the same turn.
 >>  
 > #### Martial Archetype
 >> You choose an archetype that you strive to emulate in your combat styles and techniques, such as Champion. The archetype you choose grants you additional features.
