@@ -328,9 +328,7 @@ You start with the following equipment, in addition to the equipment granted by 
 - (*a*) handaxes or (*b*) any simple weapon
 - An explorer's pack and javelins
 
-### Rage
-
-_Cooldown 2_
+### Rage (Cooldown 2)
 
 In battle, you fight with primal ferocity. When you take the Attack action on your turn, you can choose to first enter into a rage for the rest of the encounter.
 
@@ -406,9 +404,7 @@ You can cast any bard spell you know as a ritual if that spell has the ritual ta
 
 Your bardic magic lets you use your voice or any instrument you wield more effectively. You roll with advantage whenever you make CHA checks with your voice or an instrument you're welding.
 
-### Bardic Action Dice
-
-_Cooldown CHA_
+### Bardic Action Dice (Cooldown CHA)
 
 During your turn, you can inspire others by stirring words or music. Choose one creature other than yourself within 10 squares of you who can hear you. That creature gains five of your action dice until the beginning of your next turn.
 
@@ -922,8 +918,6 @@ You can use this feature once to cast a spell with a spell level up to LEVEL wit
 
 For example, if you are a 2nd-level warlock and know the 1st-level spell _rebuke_, you can use this feature to cast _rebuke_ as a 1st-level or 2nd-level spell.
 
-You can use this feature to cast a paragon or epic spell as a cooldown.
-
 _CANTRIPS_
 
 You know two cantrips of your choice from the warlock spell list.
@@ -954,7 +948,7 @@ You have made a pact with a powerful elemental from within the Primordial Chaos,
 
 **_Expanded Spell List_.** The Primordial lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
 
-**PRIMORDIAL EXPANDED SPELLS**
+**EXPANDED SPELL LIST**
 |||
 |:-:|:-:|
 |Spell Level|Spells|
