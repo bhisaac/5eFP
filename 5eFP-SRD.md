@@ -1117,7 +1117,7 @@ A turned creature must spend its turns trying to move as far away from you as it
 |2⛁|Fighting Style|...|
 |2⛁|Spellcasting|...|
 |3⛁|Divine Smite|...|
-|3⛁|Magic|You begin the game with 3 mana|
+|3⛁|Magic|You begin the game with 3 mana. You learn one spell from the paladin spell list.|
 
 ## Fighting Style
 
