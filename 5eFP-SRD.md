@@ -509,21 +509,21 @@ You discard your action and present your holy symbol, evoking healing energy tha
 
 As a druid, you gain the following class features. 
   
-## Health
+_HEALTH_
 
 **MAX Wounds:** 3 + Constitution (CON)
 
-## Proficiencies
-
-**Armor:** Light armor, medium armor, shields (druids will not wear armor or use shields made of metal)
-
-**Weapons:** Clubs, daggers, darts, javelins, maces, quarterstaffs, scimitars, sickles, slings, spears
-
-**Tools:** Herbalism kit
+_PROFICIENCIES_
 
 **Abilities:** Intelligence (INT), Wisdom (WIS)
 
-## Equipment
+**Armor:** Light armor, medium armor, shields (druids will not wear armor or use shields made of metal)
+
+**Tools:** Herbalism kit
+
+**Weapons:** Clubs, daggers, darts, javelins, maces, quarterstaffs, scimitars, sickles, slings, spears
+
+_EQUIPMENT_
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
@@ -531,31 +531,31 @@ You start with the following equipment, in addition to the equipment granted by 
 - (*a*) a scimitar or (*b*) any simple melee weapon
 - Leather armor, and an explorer's pack
 
-## Druidic
+### Druidic
 
 You know Druidic, the secret language of druids. You can speak the language and use it to leave hidden messages. You and others who know this language automatically spot such a message. Others spot the message’s presence with a successful (DC 15) WIS check but can’t decipher it without magic.
 
-## Spellcasting
+### Spellcasting
 
 Drawing on the divine essence of nature itself, you can cast spells to shape that essence to your will.
 
-## Cantrips
+_CANTRIPS_
 
 You know two cantrips of your choice from the druid spell list.
 
-## Mana
+_MANA_
 
 You begin a game session with 2 mana. To cast one of your spells, you must spend an amount of mana equal to the spell’s level or higher.
 
 For example, if you know the 1st-level spell _cure wounds_ and have 2 mana, you can spend 1 mana to cast _cure wounds_ as a 1st-level spell or 2 mana to cast it as a 2nd-level spell.
 
-## Spells Known
+_SPELLS KNOWN_
 
 You know WIS 1st-level spells from the druid spell list.
 
 Whenever you purchase a Magic upgrade, you can choose one of the druid spells you know and replace it with another spell from the druid spell list that you can cast.
 
-## Spellcasting Ability
+_SPELLCASTING ABILITY_
 
 Wisdom (WIS) is your spellcasting ability for your druid spells, since your magic draws upon your devotion and attunement to nature. You use your WIS whenever a druid spell refers to your spellcasting ability. In addition, you use WIS when setting the DC for a druid spell you cast and when making an attack roll with one.
 
@@ -563,31 +563,29 @@ Wisdom (WIS) is your spellcasting ability for your druid spells, since your magi
 
 **Spell attack modifier** = 2 + WIS
 
-## Ritual Casting
+_RITUAL CASTING_
 
 You can cast a druid spell as a ritual if that spell has the ritual tag and you know the spell.
 
-## Fighter
+# Fighter
 
-### Class Features
+## Class Features
 
 As a fighter, you gain the following class features.
 
-### Health
+_HEALTH_
 
 **MAX Wounds:** 5 + Constitution (CON)
 
-### Proficiencies
+_PROFICIENCIES_
+
+**Abilities:** Strength (STR), Constitution (CON)
 
 **Armor:** All	armor, shields
 
 **Weapons:** Simple weapons, martial weapons
 
-**Tools:** None
-
-**Abilities:** Strength (STR), Constitution (CON)
-
-### Equipment
+_EQUIPMENT_
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
@@ -600,19 +598,19 @@ You start with the following equipment, in addition to the equipment granted by 
 
 You adopt a particular style of fighting as your specialty. Choose one of the following options. You can’t take a Fighting Style option more than once, even if you later get to choose again.
 
-#### Archery
+_ARCHERY_
 
 You gain a +1 bonus to attack rolls you make with ranged weapons.
 
-#### Armored
+_ARMORED_
 
 While you are wearing armor, you gain a +1 bonus to Defense.
 
-#### Great Weapon Fighting
+_GREAT WEAPON FIGHTING_
 
 Whenever you attack and miss with a melee weapon you are wielding with two hands, you may reroll the attack once and must use the new roll. The weapon must have the two-handed property for you to gain this benefit.
 
-#### Protection
+_PROTECTION_
 
 When a creature you can see attacks a target other than you that is within 1 square of you, you can discard your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
 
@@ -620,27 +618,25 @@ When a creature you can see attacks a target other than you that is within 1 squ
 
 You have a limited well of stamina that you can draw on to protect yourself from harm. Once during your turn, you receive up to 2 points of healing.
 
-## Monk
+# Monk
 
-#### Class Features
+## Class Features
 
 As a monk, you gain the following class features.
 
-#### Health
+_HEALTH_
 
 **MAX Wounds:** 5 + Constitution (CON)
 
-#### Proficiencies
-
-**Armor:** None
-
-**Weapons:** Simple weapons, shortswords
-
-**Tools:** Choose one type of artisan’s tools or one musical instrument
+_PROFICIENCIES_
 
 **Abilities:** Strength (STR), Dexterity (DEX)
 
-#### Equipment
+**Tools:** Choose one type of artisan’s tools or one musical instrument
+
+**Weapons:** Simple weapons, shortswords
+
+_EQUIPMENT_
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
@@ -667,21 +663,19 @@ Certain monasteries use specialized forms of monk weapons. For example, you migh
 
 As a paladin, you gain the following class features.
 
-## Health
+_HEALTH_
 
 **MAX Wounds:** 4 + Constitution (CON)
 
-## Proficiencies
+_PROFICIENCIES_
+
+**Abilities:** Wisdom (WIS), Charisma (CHA)
 
 **Armor:** All armor, shields
 
 **Weapons:** Simple	weapons,	martial	weapons
 
-**Tools:** None
-
-**Abilities:** Wisdom (WIS), Charisma (CHA)
-
-## Equipment
+_EQUIPMENT_
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
@@ -690,43 +684,39 @@ You start with the following equipment, in addition to the equipment granted by 
 - (a) a priest’s pack or (b) an explorer’s pack
 - Chain mail and a holy symbol
 
-## Divine Sense
+### Divine Sense (Cooldown CHA + 1)
 
-The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 12 squares of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the _hallow_ spell.
+The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. You can discard your action to open your awareness and detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 12 squares of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the _hallow_ spell.
 
-You can use this feature a number of times equal to CHA + 1.
-
-## Lay on Hands
+### Lay on Hands
 
 Your blessed touch can heal wounds. You have a reserve of healing power. You can assign up to 5 points of healing with your reserve.
 
-As an action, you can touch a wounded creature and spend 1 or more points of healing, up to the maximum amount remaining in your reserve. The creature receives the healing.
+You can discard your action to touch a wounded creature, spending 1 or more healing points up to the maximum remaining in your reserve. The creature receives the healing.
 
 Alternatively, you can expend 5 points from your reserve to cure the target of one disease or neutralize one poison affecting it. You can cure multiple diseases and neutralize multiple poisons with a single use of Lay on Hands, expending points separately for each one.
 
 This feature has no effect on undead and constructs.
 
-## Ranger
+# Ranger
 
-#### Class Features
+## Class Features
 
 As a ranger, you gain the following class features.
 
-#### Health
+_HEALTH_
 
 **MAX Wounds:** 4 + Constitution (CON)
 
-#### Proficiencies
-
-**Armor:** Light armor, medium armor, shields
-
-Weapons: Simple weapons, martial weapons
-
-**Tools:** None
+_PROFICIENCIES_
 
 **Abilities:** Strength (STR), Dexterity (DEX)
 
-#### Equipment
+**Armor:** Light armor, medium armor, shields
+
+**Weapons:** Simple weapons, martial weapons
+
+_EQUIPMENT_
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
@@ -755,27 +745,27 @@ While traveling in your favored terrain, you gain the following benefits:
 - You find one additional resource when you gather resources.
 - While tracking other creatures, you also learn their exact number and sizes and how long ago they passed through the area.
 
-## Rogue
+# Rogue
 
-#### Class Features
+## Class Features
 
 As a rogue, you have the following class features.
 
-#### Health
+_HEALTH_
 
 **MAX Wounds:** 4 + Constitution (CON)
 
-#### Proficiencies
-
-**Armor:** Light armor
-
-**Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords
-
-**Tools:** Thieves’ tools
+_PROFICIENCIES_
 
 **Abilities:** Dexterity (DEX), Intelligence (INT)
 
-#### Equipment
+**Armor:** Light armor
+
+**Tools:** Thieves’ tools
+
+**Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords
+
+_EQUIPMENT_
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
@@ -786,7 +776,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
 ### Expertise
 
-Gain proficiency with a nonproficient ability of your choice. Then choose two of your ability proficiencies or one of your ability proficiencies and your proficiency with thieves’ tools. As long as the chosen proficiencies or tools do not already have expertise, you gain expertise in the chosen abilities or tools. Expertise allows you to add your level to a check twice instead of once.
+Gain proficiency with a nonproficient ability of your choice. Then, choose two of your ability proficiencies or one of your ability proficiencies and your proficiency with thieves’ tools. As long as the chosen proficiencies or tools do not already have expertise, you gain expertise in the chosen abilities or tools. Expertise allows you to add your level to a check twice instead of once.
 
 ### Sneak Attack
 
@@ -806,48 +796,47 @@ In addition, you understand a set of secret signs and symbols used to convey sho
 
 As a sorcerer, you gain the following class features.
 
-## Health
+_HEALTH_
 
 **MAX Wounds:** 3 + Constitution (CON)
 
-## Proficiencies
+_PROFICIENCIES_
+
+**Abilities:** Constitution (CON), Charisma (CHA)
 
 **Armor:**	None
 
 **Weapons:** Daggers, darts, slings, quarterstaffs, light crossbows
 
-**Tools:**	None
+_EQUIPMENT_
 
-**Abilities:** Constitution (CON), Charisma (CHA)
-
-## Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
 
 - (a) a light crossbow and bolts or (b) any simple weapon
 - (a) a dungeoneer’s pack or (b) an explorer’s pack
 - Daggers
 
-## Spellcasting
+### Spellcasting
 
 An event in your past, or in the life of a parent or ancestor, left an indelible mark on you, infusing you with arcane magic. This font of magic, whatever its origin, fuels your spells.
 
-## Cantrips
+_CANTRIPS_
 
 You know four cantrips of your choice from the sorcerer spell list.
 
-## Mana
+_MANA_
 
 You begin a game session with 2 mana. To cast one of your spells, you must spend an amount of mana equal to the spell’s level or higher.
 
 For example, if you know the 1st-level spell _burning hands_ and have 2 mana, you can spend 1 mana to cast _burning hands_ as a 1st-level spell or 2 mana to cast it as a 2nd-level spell.
 
-## Spells Known
+_SPELLS KNOWN_
 
 You know CHA 1st-level spells from the sorcerer spell list.
 
 Whenever you purchase a Magic upgrade, you can choose one of the sorcerer spells you know and replace it with another spell from the sorcerer spell list that you can cast.
 
-## Spellcasting Ability
+_SPELLCASTING ABILITY_
 
 Charisma (CHA) is your spellcasting ability for your sorcerer spells, since the power of your magic relies on your ability to project your will into the world. You use your CHA whenever a spell refers to your spellcasting ability. In addition, you use your CHA when setting the DC for a sorcerer spell you cast and when making an attack roll with one.
 
@@ -855,11 +844,11 @@ Charisma (CHA) is your spellcasting ability for your sorcerer spells, since the 
 
 **Spell attack modifier** = 2 + CHA
 
-## Sorcerous Origin
+### Sorcerous Origin
 
 Choose a sorcerous origin, which describes the source of your innate magical power, such as Draconic Bloodline. Your choice grants you additional features.
 
-### Draconic Bloodline
+_DRACONIC BLOODLINE_
 
 Your innate magic comes from draconic magic that was mingled with your blood or that of your ancestors. Most often, sorcerers with this origin trace their descent back to a mighty sorcerer of ancient times who made a bargain with a dragon or who might even have claimed a dragon parent. Some of these bloodlines are well established in the world, but most are obscure. Any given sorcerer could be the first of a new bloodline, as a result of a pact or some other exceptional circumstance.
 
@@ -973,48 +962,46 @@ Spells affected by this feature lose any secondary effects. For example, a cold 
 
 As a wizard, you gain the following class features.
 
-## Health
+_HEALTH_
 
 **MAX Wounds:** 3 + Constitution (CON)
 
-## Proficiencies
+_PROFICIENCIES_
+
+**Abilities:** Intelligence (INT), Wisdom (WIS)
 
 **Armor:** None
 
 **Weapons:** Daggers, darts, slings, quarterstaffs, light crossbows
 
-**Tools:** None
-
-**Abilities:** Intelligence (INT), Wisdom (WIS)
-
-## Equipment
+_EQUIPMENT_
 
 You start with the following equipment, in addition to the equipment granted by your background:
 - (a) a quarterstaff or (b) a dagger
 - (a) a scholar’s pack or (b) an explorer’s pack
 - A spellbook
 
-## Spellcasting
+### Spellcasting
 
 As a student of arcane magic, you have a spellbook containing spells that show the first glimmerings of your true power.
 
-## Cantrips
+_CANTRIPS_
 
 You know three cantrips of your choice from the wizard spell list.
 
-## Mana
+_MANA_
 
 You begin a game session with 2 mana. To cast one of your spells, you must spend an amount of mana equal to the spell’s level or higher.
 
 For example, if you know the 1st-level spell _magic missile_ and have 2 mana, you can spend 1 mana to cast _magic missile_ as a 1st-level spell or 2 mana to cast it as a 2nd-level spell.
 
-## Spells Known
+_SPELLS KNOWN_
 
-You know (INT + 2) 1st-level spells from the wizard spell list.
+You know INT + 2 1st-level spells from the wizard spell list.
 
-Whenever you purchase a Magic upgrade, you can add one spell of your choice from the wizard spell list that you can cast and add it to your spellbook for free. On your adventures, you might find other spells that you can add to your spellbook (see the “Your Spellbook” sidebar).
+Whenever you purchase a Magic upgrade, you can choose two spells of your choice from the wizard spell list that you can cast and add them to your spellbook for free. On your adventures, you might find other spells that you can add to your spellbook (see the “Your Spellbook” sidebar).
 
-## Spellcasting Ability
+_SPELLCASTING ABILITY_
 
 Intelligence (INT) is your spellcasting ability for your wizard spells. You learn your spells through dedicated study and memorization. You use your INT whenever a wizard spell refers to your spellcasting ability. In addition, you use INT when setting the DC for a wizard spell you cast and when making an attack roll with one.
 
@@ -1022,23 +1009,21 @@ Intelligence (INT) is your spellcasting ability for your wizard spells. You lear
 
 **Spell attack modifier** = 2 + INT
 
-## Ritual Casting
+_RITUAL CASTING_
 
 You can cast a wizard spell as a ritual if that spell has the ritual tag and you know the spell.
 
-## Spellbook
+_SPELLBOOK_
 
 You have a spellbook containing your known wizard spells. Your spellbook is the repository of the wizard spells you know, except your cantrips, which are fixed in your mind. Except for cantrips, your wizard spells require you to have your spellbook in your equipment or in hand.
 
-## Arcane Recovery
-
-_Cooldown_
+### Arcane Recovery (Cooldown)
 
 Studying your spellbook taught you how to replenish some of your magical energy. You gain LEVEL mana when you finish a rest.
 
 For example, if you’re a 2nd-­level wizard, you gain 2 mana.
 
-## Your Spellbook
+### Your Spellbook
 
 The spells you add to your spellbook reflect the arcane research you conduct on your own and the intellectual breakthroughs you have had about the nature of the multiverse. You might find other spells during your adventures. For example, you could discover a spell recorded on a scroll in an evil wizard’s chest or in a dusty tome in an ancient library.
  
