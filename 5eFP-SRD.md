@@ -903,7 +903,7 @@ You are in the service of an otherworldly being of your choice: the Fey, the Cel
 
 Your arcane research and the magic bestowed on you by your otherworldly patron have given you facility with spells.
 
-You can use this feature once to cast a spell with a spell level up to LEVEL without spending mana.
+You can use this feature once to cast a spell with a spell level up to LEVEL without spending any mana.
 
 For example, if you are a 2nd-level warlock and know the 1st-level spell _rebuke_, you can use this feature to cast _rebuke_ as a 1st-level or 2nd-level spell.
 
