@@ -356,13 +356,11 @@ _HEALTH_
 
 _PROFICIENCIES_
 
+**Abilities:** Dexterity (DEX), Charisma (CHA)
+
 **Armor:** Light armor
 
 **Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords
-
-**Tools:** None
-
-**Abilities:** Dexterity (DEX), Charisma (CHA)
 
 _EQUIPMENT_
 
