@@ -999,7 +999,7 @@ _SPELLS KNOWN_
 
 You know 2 + INT 1st-level spells from the wizard spell list.
 
-Whenever you purchase a Magic upgrade, you can choose two spells of your choice from the wizard spell list that you can cast and add them to your spellbook for free. On your adventures, you might find other spells that you can add to your spellbook (see the “Your Spellbook” sidebar).
+Whenever you purchase a Magic upgrade, you can choose one spell of your choice from the wizard spell list that you can cast and add it to your spellbook for free. On your adventures, you might find other spells that you can add to your spellbook (see the “Your Spellbook” sidebar).
 
 _SPELLCASTING ABILITY_
 
