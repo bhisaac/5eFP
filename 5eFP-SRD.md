@@ -997,7 +997,7 @@ For example, if you know the 1st-level spell _magic missile_ and have 2 mana, yo
 
 _SPELLS KNOWN_
 
-You know INT + 2 1st-level spells from the wizard spell list.
+You know 2 + INT 1st-level spells from the wizard spell list.
 
 Whenever you purchase a Magic upgrade, you can choose two spells of your choice from the wizard spell list that you can cast and add them to your spellbook for free. On your adventures, you might find other spells that you can add to your spellbook (see the “Your Spellbook” sidebar).
 
