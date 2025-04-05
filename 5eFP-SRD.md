@@ -408,7 +408,9 @@ You can cast any bard spell you know as a ritual if that spell has the ritual ta
 
 Your bardic magic lets you use your voice or any instrument you wield more effectively. You roll with advantage whenever you make CHA checks with your voice or an instrument you're welding.
 
-### Bardic Action Dice  _Cooldown CHA (minimum 1)_
+### Bardic Action Dice
+
+_Cooldown CHA (minimum 1)_
 
 During your turn, you can inspire others by stirring words or music. Choose one creature other than yourself within 10 squares of you who can hear you. That creature gains five of your action dice until the beginning of your next turn.
 
