@@ -54,10 +54,6 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Encounter, Campfire_.** Campfire encounters are special encounters that grant the benefits of a rest without counting against the number of allowed rests in a game session, don't need a map to resolve, don't award Coin when completed, may include social interaction between PCs, may or may not include an actual campfire, and do not advance the time marker, revealing obscuring map tiles up to 3 squares away when finished.
 
-**_Encounter Map_.** You set up a 14-square by 14-square encounter map near the exploration map when an encounter is revealed. Each square within the map is measured 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters. Unlike the exploration map, you do not cover this map with obscuring map tiles.
-
-**_Exploration Map_.** The players prepare an exploration map When PCs deploy onto an obscured world map tile. This map is a top-down illustration of a specific area on the world map divided into a 14-square by 14-square map. Each square within the map is measured 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters. The exploration map begins covered by obscuring map tiles.
-
 **_Fast Travel_.** 5eFP games use fast travel rules when deploying onto the world map, skipping past traveling and travel times.
 
 **_Foothold_.** A foothold is an encounter connected to the conflict outlined in your setting handbook. PCs must find and resolve three footholds to finish exploring an obscured world map tile.
@@ -75,6 +71,12 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 **_LEVEL_.** LEVEL equals the current level of play. LEVEL starts at 1 and increases over time to 7 as game objectives are completed.
 
 **_Mana_.** Mana is a reserve of energy used to fuel spells or other preternatural game features.
+
+**_Map, Encounter_.** You set up a 14-square by 14-square encounter map near the exploration map when an encounter is revealed. Each square within the map is measured 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters. Unlike the exploration map, you do not cover this map with obscuring map tiles.
+
+**_Map, Exploration_.** The players prepare an exploration map When PCs deploy onto an obscured world map tile. This map is a top-down illustration of a specific area on the world map divided into a 14-square by 14-square map. Each square within the map is measured 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters. The exploration map begins covered by obscuring map tiles.
+
+**_Map, World_.** The world map defines the game world and drives the game's story. It is a top-down illustration of the game world or region divided into a 14-square by 14-square grid. Each square within the grid is measured 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters.
 
 **_Obscuring Map Tiles_.** Obscuring map tiles are two-sided opaque map tiles that cover unexplored areas of a map or may represent areas of preternatural or magical darkness. 
 
@@ -97,8 +99,6 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 **_Turn_.** During a round, a creature takes its turn, during which it can spend a wide variety of actions. Usually, over the course of one turn, a creature can take an action, use an object, or take a reaction (see Actions).
 
 **_Upgrade_.** Once the PCs Recall, they may spend Coin unlocking character upgrades. Available upgrades include background, class, and species and are limited to only those upgrades equal to or less than LEVEL. Once all PCs stop spending Coin on upgrades, downtime begins.
-
-**_World Map_.** The world map defines the game world and drives the game's story. It is a top-down illustration of the game world or region divided into a 14-square by 14-square grid. Each square within the grid is measured 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters.
 
 **_World Map Tile_.** A square on the world map. A world map tile can either be explored or unexplored. An obscuring map tile covers unexplored world map tiles.
 
