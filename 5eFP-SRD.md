@@ -38,6 +38,8 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Cooldown_.** A game feature with the cooldown keyword can only be used once during a game session. If a number follows the cooldown keyword, the number represents how many times you can use the game feature during a game session (minimum 1). Once a game feature with a cooldown is used, you can't use the same game feature again until the beginning of your next turn.
 
+For example, Cooldown 2 means you can use this game feature twice per game session but no more than once per turn.
+
 **_Conflict_.** The conflict, detailed in your setting handbook, is an event with ongoing effects that changed the game world into an unbalanced and afflicted state (see Setting Handbook). A 5eFP game ends when the conflict is resolved.
 
 **_Creature, Monster_.** A creature can be a player character or a non-player character. It can also be a monster or a minion, elite, or boss in a monster encounter. Creatures and monsters can be good, neutral, or evil. They can be lawful or chaotic as well. The majority are neutral, meaning they are not good, evil, lawful, or chaotic. Sometimes, the label fits. Some creatures are frightening and terrible, and some monsters are, indeed, monsters.
@@ -77,6 +79,8 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 **_Map, Exploration_.** The players prepare an exploration map When PCs deploy onto an obscured world map tile. This map is a top-down illustration of a specific area on the world map divided into a 14-square by 14-square map. Each square within the map is measured 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters. The exploration map begins covered by obscuring map tiles.
 
 **_Map, World_.** The world map defines the game world and drives the game's story. It is a top-down illustration of the game world or region divided into a 14-square by 14-square grid. Each square within the grid is measured 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters.
+
+**_Minion, Elite, and Boss_.** All three refer to encounter difficulty, typically referring to monsters found in monster encounters. Minions are manageable encounters that take only one successful hit or ability check to resolve. Elites are advanced encounters with improved abilities that typically require two or more successful hits or ability checks to resolve. Bosses are the most advanced and challenging encounters that typically require multiple hits and ability checks to resolve, have special abilities that exploit minions, always include a minion encounter, and may have up to two elites.
 
 **_Obscuring Map Tiles_.** Obscuring map tiles are two-sided opaque map tiles that cover unexplored areas of a map or may represent areas of preternatural or magical darkness. 
 
