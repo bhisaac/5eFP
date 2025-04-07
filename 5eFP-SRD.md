@@ -34,6 +34,8 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Ability Score_.** Six ability scores ranging from -5 to +10 provide a quick description of every creature’s physical and mental characteristics, including strength (STR) measuring physical power, dexterity (DEX) measuring agility, constitution (CON) measuring endurance, intelligence (INT) measuring reasoning and memory, wisdom (WIS) measuring awareness, and charisma (CHA) measuring force of personality.
 
+**_Campfire Encounter_.** Campfire encounters are special encounters that may or may not include an actual campfire. When initiating a campfire encounter, choose one PC to lead. The lead PC describes the scene and starts a social interaction, like sharing a meal or storytelling. Others can contribute by following the lead PC's direction. The group has up to 10 minutes to explore the scene. Afterward, the party gains rest benefits without counting against their rest limit, reveals obscured map tiles up to 2 squares away, and the time marker does not advance.
+
 **_Coin_ (⛁).** A 5eFP game awards and uses Coin (⛁) as its currency, representing wealth, reputation, and experience.
 
 **_Cooldown_.** A game feature with the cooldown keyword can only be used once during a game session. If a number follows the cooldown keyword, the number represents how many times you can use the game feature during a game session (minimum 1). Once a game feature with a cooldown is used, you can't use the same game feature again until the beginning of your next turn.
@@ -82,13 +84,15 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Round_.** In combat and other fast-­paced situations, the game relies on rounds, a 6-­second span of time. A downtime round represents one or more days.
 
-**_Setting Handbook_.** All details about the 5eFP practice you are joining, including read-aloud text, GM contact information, game backstory, world map, HQ information, the game's central conflict, the game's story directions, how PC Recall, how PCs fast travel, and the setting handbook requirement can be found in your setting handbook.
+**_Setting Handbook_.** All details about the 5eFP practice you are joining, including read-aloud text, GM contact information, game backstory, world map, HQ information, how the practice refers to Coin, the game's central conflict, the game's story directions, how PC Recall, how PCs fast travel, and the setting handbook requirement can be found in your setting handbook.
 
 **_Setting Handbook Requirement_.** PCs must complete this special task each game session, which might involve but isn't limited to placing and using an item, locating and gathering an item, finding and rescuing bystanders, gathering intelligence, or gathering a resource. For example, PCs must find and gather an herb, a starflower, in the _Enchanted Forest_ setting.
 
 **_Story Directions_.** The world map has four cardinal directions: North (N), South (S), East (E), and West (W). Each cardinal direction is linked to a unique story corresponding to that direction. There are also four ordinal or hybrid directions: Northwest (NW), Southeast (SE), Southwest (SW), and Northwest (NW). Each hybrid direction is linked to the stories contained within adjacent directions.
 
 **_Story Elements_.** Story elements are pieces of the overall story relating to the game's conflict modified by the particular direction the PCs are exploring. Over time, these story elements automatically create stories of their own. GMs and PCs don't necessarily need to control how these elements emerge, though GMs may choose to adjust them with player consent so they fit together better.
+
+**_Time Marker_.** Keep track of how long PCs are deployed on an unexplored world map tile. The time marker begins at 0 and increases when an encounter is resolved. If three footholds are resolved and the PCs reveal additional footholds, each increases the time marker by +1. When the time marker reaches 8, all PCs automatically Recall. Campfire encounters do not advance the time marker.
 
 **_Turn_.** During a round, a creature takes its turn, during which it can spend a wide variety of actions. Usually, over the course of one turn, a creature can take an action, use an object, or take a reaction (see Actions).
 
@@ -1924,11 +1928,9 @@ DESC TBD.
 
 # Equipment
 
+## Coin
 
-
-## Coins
-
-5eFP games use coins (**⛁** equals 1 coin), a single denomination representing wealth, resources, experience, and reputation. The name of a coin may change in some games. For example, coins might be called "gold pieces" in a medieval fantasy setting, while coins might refer to "credits" in a futuristic sci-fi setting. A game's setting handbook details what coins are called. All coins use the following rules.
+5eFP games use Coin (**⛁** equals 1 Coin), a single denomination representing wealth, resources, experience, and reputation. The name of a coin may change in some games. For example, coins might be called "gold pieces" in a medieval fantasy setting, while coins might refer to "credits" in a futuristic sci-fi setting. A game's setting handbook details what coins are called. All coins use the following rules.
 
 ## Earning Coins
 
@@ -2030,21 +2032,17 @@ Proficiency with a weapon allows you to add your LEVEL to the attack roll for an
 
 Many weapons have special properties related to their use, as shown in the Weapons table.
 
-**_Ammunition._** You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon in your equipment. Ammunition is a special multi-use item. Each time you attack with the weapon that uses ammunition and roll a 1, your ammunition depletes, as indicated by turning the ammunition card sideways. If your ammunition is already depleted, you have only one piece of ammunition left, represented by turning the card upside down. After using the last piece of ammunition, discard the ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-­handed weapon).
+**_Ammunition._** You can use a weapon with the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon in your equipment. Ammunition is a special multi-use item. Each time you attack with the weapon that uses ammunition and roll a 1, your ammunition depletes, as indicated by either turning the ammunition card sideways or otherwise marking the ammunition somehow. If your ammunition is already depleted, you have only one piece of ammunition left, represented by turning the card upside down or marking a 1 next to the ammunition. After using the last piece of ammunition, discard the ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-­handed weapon).
 
-~~You may purchase ammunition during a downtime or preparation round before deploying onto the world map by spending ⛁ for each type of ammunition.~~
-
-Ammunition may be used to make melee attacks. If you are proficient with the weapon that uses the ammunition, you are proficient with melee attacks using that weapon's ammunition as well. Ammunition deals 1 point of damage. If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon (see “Improvised Weapons” later in the section). A sling must be loaded to deal any damage when used in this way.
+Ammunition may be used to make melee attacks. If you are proficient with the weapon that uses the ammunition, you are proficient with melee attacks using that weapon's ammunition as well. Ammunition deals 1 point of damage. If you use a weapon with the ammunition property to make a melee attack, you treat the weapon as an improvised weapon (see “Improvised Weapons” later in the section). A sling must be loaded to deal any damage when used in this way.
 
 **_Heavy._** Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon’s size and bulk make it too large for a Small creature to use effectively.
 
-**_Light._** A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons.
+**_Light._** A light weapon is small and easy to handle, making it ideal for fighting with two weapons.
 
 **_Loading._** Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an action or reaction to fire it, regardless of the number of attacks you can normally make.
 
-**_Multi-Use._** This weapon can be used multiple times, but each time it is used, there is a chance it will deplete, like ammunition. Each time you attack with a multi-use weapon and roll a 1, the multi-use weapon depletes, indicated by turning the weapon card sideways. If your multi-use weapon is already depleted, you have only one left, represented by turning the card upside down. After using the last multi-use weapon, discard the weapon card to the equipment deck discard pile. Drawing the multi-use item from a quiver, case, or other container is part of the attack.
-
-~~You may purchase more multi-use items during a downtime or preparation round before deploying onto the world map by spending ⛁. For each ⛁ spent on a chosen multi-use weapon, you roll one more action die when determining whether or not your multi-use weapon depletes. Ammunition may use a maximum of three action dice. Remove all depletion on all multi-use items, represented by returning the equipment card to its upright position, after spending ⛁ on Rest and Repairs.~~
+**_Multi-Use._** This weapon can be used multiple times, but each time it is used, there is a chance it will deplete, like ammunition. Each time you attack with a multi-use weapon and roll a 1, the multi-use weapon depletes, indicated by turning the weapon card sideways or otherwise marking it as depleted. If your multi-use weapon is already depleted, you have only one left, represented by turning the card upside down or marking a 1 next to the weapon. After using the last multi-use weapon, discard the weapon. Drawing the multi-use weapon from a quiver, case, or other container is part of the attack.
 
 **_Range._** A weapon that can be used to make a ranged attack has a range in parentheses after the ammunition or thrown property. The range lists the weapon’s normal range in squares. You may make a ranged attack beyond the weapon's normal range, but doing so imposes disadvantage on the attack roll.
 
@@ -2056,18 +2054,14 @@ Ammunition may be used to make melee attacks. If you are proficient with the wea
 
 **_Two-­Handed._** This weapon requires two hands when you attack with it.
 
-~~**_Versatile._** This weapon can be used with one or two hands. A versatile weapon wielded in both hands deals an extra +1 damage. When a versatile weapon is transformed into a magic weapon, the magic property overrides the weapon's versatile property.~~
-
 #### Improvised Weapons
-Sometimes characters don’t have their weapons and have to attack with whatever is at hand. An improvised weapon includes any object you can wield in one or two hands, such as broken glass, a table leg, a frying pan, a wagon wheel, or a dead goblin.
 
-~~Often, an improvised weapon is similar to an actual weapon and can be treated as such. For example, a table leg is akin to a club. At the GM’s option, characters proficient with a weapon can use a similar object as if it were that weapon and add their LEVEL to its attack bonus.~~
+Sometimes, characters don’t have their weapons and have to attack with whatever is at hand. An improvised weapon includes any object you can wield in one or two hands, such as broken glass, a table leg, a frying pan, a wagon wheel, or a dead goblin.
 
-~~An object that bears no resemblance to a weapon deals 1 damage (the GM assigns a damage type appropriate to the object). If a character uses a ranged weapon to make a melee attack, or throws a melee weapon that does not have the thrown property, it also deals 1 damage. An improvised thrown weapon has range 4.~~
-
-An improvised weapon deals 1 damage (the GM assigns a damage type appropriate to the object) with a range of 4 squares.
+An improvised weapon deals 1 damage (the GM assigns a damage type appropriate to the object) and can be thrown up to 4 squares.
 
 #### Silvered Weapons
+
 Some monsters that have immunity or resistance to nonmagical weapons are susceptible to silver weapons, so cautious adventurers invest a little extra to plate their weapons with silver. You can silver a single weapon or ammunition at a forge for 6⛁. You may spend trade goods silver (ore or bar) to reduce this cost to 3⛁. This cost represents not only the price of the silver, but the time and expertise needed to add silver to the weapon without making it less effective.
 
 #### Special Weapons
