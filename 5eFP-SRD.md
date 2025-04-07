@@ -52,7 +52,7 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Encounter_.** An encounter is a significant event within the game where the outcome of events is uncertain and is measured in rounds. PCs are awarded ⛁ when an encounter ends.
 
-**_Encounter, Campfire_.** Campfire encounters are special encounters that may or may not include an actual campfire. When initiating a campfire encounter, one PC may choose to lead the encounter. The lead PC describes the start of a social interaction scene, like sharing a meal or discussing what to do next. Others can contribute but must follow the lead PC's direction. The group has up to 10 minutes to explore the scene. Afterward, the party gains rest benefits without counting against their rest limit, reveals obscured map tiles up to 2 squares away, and the time marker does not advance. A party can play out a social interaction scene like this once per game session but still benefit from completing a rest without advancing the time marker for any additional campfire encounters.
+**_Encounter, Campfire_.** Campfire encounters are special encounters that do not need an encounter map to resolve, do not award Coin when completed, may include social interaction between PCs, may or may not include an actual campfire, and do not advance the time marker when finished.
 
 **_Encounter Map_.** You set up a 14-square by 14-square encounter map near the exploration map when an encounter is revealed. Each square within the map is measured 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters. Unlike the exploration map, you do not cover this map with obscuring map tiles.
 
