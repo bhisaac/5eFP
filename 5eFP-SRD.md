@@ -34,15 +34,13 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Ability Score_.** Six ability scores ranging from -5 to +10 provide a quick description of every creature’s physical and mental characteristics, including strength (STR) measuring physical power, dexterity (DEX) measuring agility, constitution (CON) measuring endurance, intelligence (INT) measuring reasoning and memory, wisdom (WIS) measuring awareness, and charisma (CHA) measuring force of personality.
 
-**_Campfire Encounter_.** Campfire encounters are special encounters that may or may not include an actual campfire. When initiating a campfire encounter, choose one PC to lead. The lead PC describes the scene and starts a social interaction, like sharing a meal or storytelling. Others can contribute by following the lead PC's direction. The group has up to 10 minutes to explore the scene. Afterward, the party gains rest benefits without counting against their rest limit, reveals obscured map tiles up to 2 squares away, and the time marker does not advance.
-
 **_Coin_ (⛁).** A 5eFP game awards and uses Coin (⛁) as its currency, representing wealth, reputation, and experience.
 
 **_Cooldown_.** A game feature with the cooldown keyword can only be used once during a game session. If a number follows the cooldown keyword, the number represents how many times you can use the game feature during a game session (minimum 1). Once a game feature with a cooldown is used, you can't use the same game feature again until the beginning of your next turn.
 
 **_Conflict_.** The conflict, detailed in your setting handbook, is an event with ongoing effects that changed the game world into an unbalanced and afflicted state (see Setting Handbook). A 5eFP game ends when the conflict is resolved.
 
-**_Creature, Monster_.** A creature can be a player character or a non-player character. It can also be a monster minion, elite, or boss in a monster encounter. Creatures and monsters can be good, neutral, or evil. They can be lawful or chaotic as well. The majority are neutral, meaning they are not good, evil, lawful, or chaotic. Sometimes, the label fits. Some creatures are frightening and terrible, and some monsters are monsters.
+**_Creature, Monster_.** A creature can be a player character or a non-player character. It can also be a monster or a minion, elite, or boss in a monster encounter. Creatures and monsters can be good, neutral, or evil. They can be lawful or chaotic as well. The majority are neutral, meaning they are not good, evil, lawful, or chaotic. Sometimes, the label fits. Some creatures are frightening and terrible, and some monsters are, indeed, monsters.
 
 **_Difficulty Class (DC)_.** Difficulty Class or DC represents a task's difficulty. The more difficult a task, the higher its DC.
 
@@ -53,6 +51,8 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 **_Downtime_.** Downtime consists of downtime actions measured in rounds, including rest and repairs, research, spending Coin on HQ upgrades, or taking other actions between game sessions.
 
 **_Encounter_.** An encounter is a significant event within the game where the outcome of events is uncertain and is measured in rounds. PCs are awarded ⛁ when an encounter ends.
+
+**_Encounter, Campfire_.** Campfire encounters are special encounters that may or may not include an actual campfire. When initiating a campfire encounter, choose one PC to lead. The lead PC describes the scene and starts a social interaction, like sharing a meal or storytelling. Others can contribute by following the lead PC's direction. The group has up to 10 minutes to explore the scene. Afterward, the party gains rest benefits without counting against their rest limit, reveals obscured map tiles up to 2 squares away, and the time marker does not advance.
 
 **_Encounter Map_.** You set up a 14-square by 14-square encounter map near the exploration map when an encounter is revealed. Each square within the map is measured 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters. Unlike the exploration map, you do not cover this map with obscuring map tiles.
 
