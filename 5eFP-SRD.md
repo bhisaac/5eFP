@@ -106,7 +106,7 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 # Round Down
 
-Certain features and effects in the game allow you to divide a number by half or more. Whenever you divide a number, round down if you end up with a fraction, even if the fraction is one-half or greater.
+Some game features ask you to divide a number by half or more. Whenever you divide a number, round down if you end up with a fraction, even if the fraction is one-half or greater.
 
 # Character Creation
 
