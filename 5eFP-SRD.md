@@ -616,7 +616,7 @@ While you are wearing armor, you gain a +1 bonus to Defense.
 
 Whenever you attack and miss with a melee weapon you are wielding with two hands, you may reroll the attack once and must use the new roll. The weapon must have the two-handed property for you to gain this benefit.
 
-### Protection
+### Protection (Reaction)
 
 When a creature you can see attacks a target other than you that is within 1 square of you, you can discard your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
 
