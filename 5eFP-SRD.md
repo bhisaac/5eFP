@@ -501,7 +501,7 @@ You gain proficiency with heavy armor.
 
 ### Performance Medicine
 
-Your healing spells are more effective. Whenever you use a spell of 1st level or higher to give a creature 1 or more points of healing, the creature receives one additional point of healing per spell level.
+Your healing spells are more effective. Whenever you use a spell of 1st level or higher to give a creature 1 or more healing points, the creature receives one additional healing point per spell level.
 
 ### Channel Divinity: Preserve Life (Action)
 
