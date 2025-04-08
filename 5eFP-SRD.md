@@ -86,7 +86,7 @@ For example, Cooldown 2 means you can use this game feature twice per game sessi
 
 **_Recall_. (Cooldown)** A PC is transported back to the HQ map room after finishing a special Recall ritual completed outside of an encounter. PCs automatically Recall when the time marker reaches 8. A PC may only Recall once per game session.
 
-**_Rest_. (Cooldown 2)** A rest is a brief period of downtime, at least 1 hour long, during which a creature does nothing more strenuous than eating, drinking, reading, and tending to wounds. At the end of a rest, a creature discards LEVEL wounds and regains all uses of game features with the rest keyword. Finishing a rest advances the time marker.
+**_Rest_. (Cooldown 2)** While deployed, a group can choose to take a rest. A rest is a brief period of downtime, at least 1 hour long, during which a creature does nothing more strenuous than eating, drinking, reading, and tending to wounds. At the end of a rest, a creature discards LEVEL wounds and regains all uses of game features with the rest keyword. Finishing a rest advances the time marker.
 
 **_Round_.** In combat and other fast-­paced situations, the game relies on rounds, a 6-­second span of time. A downtime round represents one or more days.
 
