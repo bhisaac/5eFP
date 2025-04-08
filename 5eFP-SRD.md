@@ -98,11 +98,11 @@ For example, Cooldown 2 means you can use this game feature twice per game sessi
 
 **_Story Elements_.** Story elements are pieces of the overall story relating to the game's conflict modified by the particular direction the PCs are exploring. Over time, these story elements automatically create stories of their own. GMs and PCs don't necessarily need to control how these elements emerge, though GMs may choose to adjust them with player consent so they fit together better.
 
-**_Time Marker_.** Keep track of how long PCs are deployed on an unexplored world map tile. The time marker begins at 0 and increases when an encounter is resolved. If three footholds are resolved and the PCs reveal additional footholds, each increases the time marker by +1. When the time marker reaches 8, all PCs automatically Recall. Campfire encounters do not advance the time marker.
+**_Time Marker_.** Keep track of how long PCs are deployed on an unexplored world map tile. The time marker begins at 0 and increases when an encounter is resolved. If three footholds are resolved and the PCs reveal additional footholds, each increases the time marker by +1. When the time marker reaches 8, all PCs instantaneously Recall.
 
 **_Turn_.** During a round, a creature takes its turn, during which it can spend a wide variety of actions. Usually, over the course of one turn, a creature can take an action, use an object, or take a reaction (see Actions).
 
-**_Upgrade_.** Once the PCs Recall, they may spend Coin unlocking character upgrades. Available upgrades include background, class, and species and are limited to only those upgrades equal to or less than LEVEL. Once all PCs stop spending Coin on upgrades, downtime begins.
+**_Upgrade_.** Once the PCs Recall, they may spend Coin unlocking character upgrades. Available upgrades include background, class, and species and are limited to only those upgrades equal to or less than LEVEL. Once all PCs stop spending Coin on character upgrades, downtime begins.
 
 **_World Map Tile_.** A square on the world map. A world map tile can either be explored or unexplored. An obscuring map tile covers unexplored world map tiles.
 
