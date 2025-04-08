@@ -802,11 +802,11 @@ In addition, you understand a set of secret signs and symbols used to convey sho
 
 As a sorcerer, you gain the following class features.
 
-***HEALTH***
+### Health
 
 **MAX Wounds:** 3 + Constitution (CON)
 
-***PROFICIENCIES***
+### Proficiencies
 
 **Abilities:** Constitution (CON), Charisma (CHA)
 
@@ -814,7 +814,7 @@ As a sorcerer, you gain the following class features.
 
 **Weapons:** Daggers, darts, slings, quarterstaffs, light crossbows
 
-***EQUIPMENT***
+### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
@@ -822,27 +822,27 @@ You start with the following equipment, in addition to the equipment granted by 
 - (a) a dungeoneer’s pack or (b) an explorer’s pack
 - Daggers
 
-### Spellcasting
+## Spellcasting
 
 An event in your past, or in the life of a parent or ancestor, left an indelible mark on you, infusing you with arcane magic. This font of magic, whatever its origin, fuels your spells.
 
-***CANTRIPS***
+### Cantrips
 
 You know four cantrips of your choice from the sorcerer spell list.
 
-***MANA***
+### Mana
 
 You begin a game session with 2 mana. To cast one of your spells, you must spend an amount of mana equal to the spell’s level or higher.
 
 For example, if you know the 1st-level spell _burning hands_ and have 2 mana, you can spend 1 mana to cast _burning hands_ as a 1st-level spell or 2 mana to cast it as a 2nd-level spell.
 
-***SPELLS KNOWN***
+### Spells Known
 
 You know CHA 1st-level spells from the sorcerer spell list.
 
 Whenever you purchase a Magic upgrade, you can choose one of the sorcerer spells you know and replace it with another spell from the sorcerer spell list that you can cast.
 
-***SPELLCASTING ABILITY***
+### Spellcasting Ability
 
 Charisma (CHA) is your spellcasting ability for your sorcerer spells, since the power of your magic relies on your ability to project your will into the world. You use your CHA whenever a spell refers to your spellcasting ability. In addition, you use your CHA when setting the DC for a sorcerer spell you cast and when making an attack roll with one.
 
@@ -850,11 +850,11 @@ Charisma (CHA) is your spellcasting ability for your sorcerer spells, since the 
 
 **Spell attack modifier** = 2 + CHA
 
-### Sorcerous Origin
+## Sorcerous Origin
 
 Choose a sorcerous origin, which describes the source of your innate magical power, such as Draconic Bloodline. Your choice grants you additional features.
 
-***DRACONIC BLOODLINE***
+### Draconic Bloodline
 
 Your innate magic comes from draconic magic that was mingled with your blood or that of your ancestors. Most often, sorcerers with this origin trace their descent back to a mighty sorcerer of ancient times who made a bargain with a dragon or who might even have claimed a dragon parent. Some of these bloodlines are well established in the world, but most are obscure. Any given sorcerer could be the first of a new bloodline, as a result of a pact or some other exceptional circumstance.
 
@@ -882,11 +882,11 @@ Your innate magic comes from draconic magic that was mingled with your blood or 
 
 As a warlock, you gain the following class features.
 
-***HEALTH***
+### Health
 
 **MAX Wounds:** 3 + Constitution (CON)
 
-***PROFICIENCIES***
+### Proficiencies
 
 **Abilities:** Wisdom (WIS), Charisma (CHA)
 
@@ -894,18 +894,18 @@ As a warlock, you gain the following class features.
 
 **Weapons:** Simple weapons
 
-***EQUIPMENT***
+### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 - (a) a light crossbow and bolts or (b) any simple weapon
 - (a) a scholar’s pack or (b) a dungeoneer’s pack
 - Leather armor, any simple weapon, and two daggers
 
-### Otherworldly Patron
+## Otherworldly Patron
 
 You are in the service of an otherworldly being of your choice: the Fey, the Celestial, or the Primordial, each detailed at the end of the class description. Your choice grants you additional game features.
 
-### Pact Magic (Rest)
+## Pact Magic (Rest)
 
 Your arcane research and the magic bestowed on you by your otherworldly patron have given you facility with spells.
 
@@ -913,17 +913,17 @@ You can use this feature once to cast a spell with a spell level up to LEVEL wit
 
 For example, if you are a 2nd-level warlock and know the 1st-level spell _rebuke_, you can use this feature to cast _rebuke_ as a 1st-level or 2nd-level spell.
 
-***CANTRIPS***
+### Cantrips
 
 You know two cantrips of your choice from the warlock spell list.
 
-***SPELLS KNOWN***
+### Spells Known
 
 You know CHA 1st-level spells of your choice from the warlock spell list.
 
 Whenever you purchase a Magic upgrade, you can choose one of the warlock spells you know and replace it with another spell from the warlock spell list that you can cast.
 
-***SPELLCASTING ABILITY***
+### Spellcasting Ability
 
 Charisma (CHA) is your spellcasting ability for your warlock spells, so you use your CHA whenever a spell refers to your spellcasting ability. In addition, you use your CHA when setting the DC for a warlock spell you cast and when making an attack roll with one.
 
@@ -931,19 +931,18 @@ Charisma (CHA) is your spellcasting ability for your warlock spells, so you use 
 
 **Spell attack modifier** = 2 + CHA
 
-### Otherworldly Patrons
+## Otherworldly Patrons
 
 The beings that serve as patrons for warlocks are mighty inhabitants of other planes of existence—not gods, but almost godlike in their power. Various patrons give their warlocks access to different powers and abilities and expect significant favors in return.
 
-Some patrons collect warlocks, doling out mystic knowledge relatively freely or boasting of their ability to bind mortals to their will. Other patrons bestow their power only grudgingly, and might make a pact with only one warlock. Warlocks who serve the same patron might view each other as allies, siblings, or rivals.
+Some patrons collect warlocks, doling out mystic knowledge relatively freely or boasting of their ability to bind mortals to their will. Other patrons bestow their power only grudgingly and might make a pact with only one warlock. Warlocks who serve the same patron might view each other as allies, siblings, or rivals.
 
-***THE PRIMORDIAL***
+### The Primordial
 
 You have made a pact with a powerful elemental from within the Primordial Chaos, the home plane of existence for all elementals. Your primordial patron is strictly neutral in outlook and temperament, swayed only by their attunement to a specific elemental quality. Earth tends to be steady, tenacious, and indomitable. Water tends to be flexible and aware. Fire tends to be activating, charged, and focused. Air tends to be expansive and mobile. Primordials rarely involve themselves in mortal affairs or circumstances unless the elemental balance is threatened somehow. Such beings desire the propagation of the elements and their elemental outlook upon the prime material plane through you, their chosen vessel. Primordials powerful enough to forge a pact and their preferred elemental outlook include Phoneix (fire), Leviathan (water), Zaratan (earth), and Elder Tempest (air).
 
 **_Expanded Spell List_.** The Primordial lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
 
-**EXPANDED SPELL LIST**
 |||
 |:-:|:-:|
 |Spell Level|Spells|
@@ -968,11 +967,11 @@ Spells affected by this feature lose any secondary effects. For example, a cold 
 
 As a wizard, you gain the following class features.
 
-***HEALTH***
+### Health
 
 **MAX Wounds:** 3 + Constitution (CON)
 
-***PROFICIENCIES***
+### Proficiencies
 
 **Abilities:** Intelligence (INT), Wisdom (WIS)
 
@@ -980,34 +979,34 @@ As a wizard, you gain the following class features.
 
 **Weapons:** Daggers, darts, slings, quarterstaffs, light crossbows
 
-***EQUIPMENT***
+### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 - (a) a quarterstaff or (b) a dagger
 - (a) a scholar’s pack or (b) an explorer’s pack
 - A spellbook
 
-### Spellcasting
+## Spellcasting
 
 As a student of arcane magic, you have a spellbook containing spells that show the first glimmerings of your true power.
 
-***CANTRIPS***
+### Cantrips
 
 You know three cantrips of your choice from the wizard spell list.
 
-***MANA***
+### Mana
 
 You begin a game session with 2 mana. To cast one of your spells, you must spend an amount of mana equal to the spell’s level or higher.
 
 For example, if you know the 1st-level spell _magic missile_ and have 2 mana, you can spend 1 mana to cast _magic missile_ as a 1st-level spell or 2 mana to cast it as a 2nd-level spell.
 
-***SPELLS KNOWN***
+### Spells Known
 
 You know 2 + INT 1st-level spells from the wizard spell list.
 
 Whenever you purchase a Magic upgrade, you can choose one spell of your choice from the wizard spell list that you can cast and add it to your spellbook for free. On your adventures, you might find other spells that you can add to your spellbook (see the “Your Spellbook” sidebar).
 
-***SPELLCASTING ABILITY***
+### Spellcasting Ability
 
 Intelligence (INT) is your spellcasting ability for your wizard spells. You learn your spells through dedicated study and memorization. You use your INT whenever a wizard spell refers to your spellcasting ability. In addition, you use INT when setting the DC for a wizard spell you cast and when making an attack roll with one.
 
@@ -1015,21 +1014,21 @@ Intelligence (INT) is your spellcasting ability for your wizard spells. You lear
 
 **Spell attack modifier** = 2 + INT
 
-***RITUAL CASTING***
+### Ritual Casting
 
 You can cast a wizard spell as a ritual if that spell has the ritual tag and you know the spell.
 
-***SPELLBOOK***
+### Spellbook
 
 You have a spellbook containing your known wizard spells. Your spellbook is the repository of the wizard spells you know, except your cantrips, which are fixed in your mind. Except for cantrips, your wizard spells require you to have your spellbook in your equipment or in hand.
 
-### Arcane Recovery (Cooldown)
+## Arcane Recovery (Cooldown)
 
 Studying your spellbook taught you how to replenish some of your magical energy. You gain LEVEL mana when you finish a rest.
 
 For example, if you’re a 2nd-­level wizard, you gain 2 mana.
 
-### Your Spellbook
+## Your Spellbook
 
 The spells you add to your spellbook reflect the arcane research you conduct on your own and the intellectual breakthroughs you have had about the nature of the multiverse. You might find other spells during your adventures. For example, you could discover a spell recorded on a scroll in an evil wizard’s chest or in a dusty tome in an ancient library.
  
