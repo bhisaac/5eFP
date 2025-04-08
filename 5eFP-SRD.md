@@ -1026,8 +1026,6 @@ You have a spellbook containing your known wizard spells. Your spellbook is the 
 
 Studying your spellbook taught you how to replenish some of your magical energy. You gain LEVEL mana when you finish a rest.
 
-For example, if you’re a 2nd-­level wizard, you gain 2 mana.
-
 ## Your Spellbook
 
 The spells you add to your spellbook reflect the arcane research you conduct on your own and the intellectual breakthroughs you have had about the nature of the multiverse. You might find other spells during your adventures. For example, you could discover a spell recorded on a scroll in an evil wizard’s chest or in a dusty tome in an ancient library.
