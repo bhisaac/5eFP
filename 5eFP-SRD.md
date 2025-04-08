@@ -1070,18 +1070,18 @@ The following upgrades provide an additional way to gain inspiration as a cooldo
 ||||
 |-:|:-|:-|
 |**Cost**|**Feature**|**Details**|
-|3⛁|Channel Divinity (1/rest)|...|
+|3⛁|Channel Divinity (Rest)|...|
 |3⛁|Magic|You start a game session with 4 Mana. You learn one spell from your class spell list.|
 
-## Channel Divinity (1/rest)
+## Channel Divinity (Rest)
 
 You gain the ability to channel divine energy directly from your deity, using that energy to fuel magical effects. You start with two such effects: Turn Undead and an effect determined by your domain. Some domains grant you additional effects as you upgrade them, as noted in the domain description.
 
-When you use your Channel Divinity, you choose which effect to create. You must then finish a rest to use your Channel Divinity again.
+When you use your Channel Divinity, you choose which effect to create.
 
 Some Channel Divinity effects require ability checks. When you use such an effect from this class, the DC equals your cleric spell DC.
- 
-### Turn Undead
+
+### Turn Undead (Encounter, Action)
 
 You discard your action and present your holy symbol, speaking a prayer that censures undead. Each undead that can see or hear you within 6 squares of you must make a WIS check. If the creature fails its check, it is turned for the rest of the encounter or until it takes any damage.
 
@@ -1153,10 +1153,11 @@ Each oath has associated spells. You begin knowing two oath spells, and they do 
 
 If you gain an oath spell that doesn’t appear on the paladin spell list, the spell is nonetheless a paladin spell for you.
 
-### Channel Divinity
+### Channel Divinity (Encounter, Rest)
 
 Your oath allows you to channel divine energy to fuel magical effects. Each Channel Divinity option provided by your oath explains how to use it.
-When you use your Channel Divinity, you choose which option to use. You must then finish a short or long rest to use your Channel Divinity again.
+When you use your Channel Divinity, you choose which option to use.
+
 Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your paladin spell save DC.
 
 # Sacred Oaths
@@ -1182,15 +1183,15 @@ Though the exact words and strictures of the Oath of Devotion vary, paladins of 
 - protection from evil and good
 - sanctuary
 
-### Channel Divinity (Encounter Action)
+### Channel Divinity (Encounter, Rest)
 
 When you take this oath, you gain the following two Channel Divinity Options.
 
-**_Sacred Weapon_.** You imbue one weapon that you are holding with positive energy, using your Channel Divinity. For the rest of the encounter, you add CHA to attack rolls made with that weapon (with a minimum bonus of +1). The weapon also emits bright light in a 4-square radius. If the weapon is not already magical, it becomes magical for the duration.
+**_Sacred Weapon_ (Action).** You imbue one weapon that you are holding with positive energy, using your Channel Divinity. For the rest of the encounter, you add CHA to attack rolls made with that weapon (with a minimum bonus of +1). The weapon also emits bright light in a 4-square radius. If the weapon is not already magical, it becomes magical for the duration.
 
 You can end this effect on your turn as part of any other action. If you are no longer holding or carrying this weapon, or if you fall unconscious, this effect ends.
 
-**_Turn the Unholy_.** You present your holy symbol and speak a prayer censuring fiends and undead, using your Channel Divinity. Each fiend or undead that can see or hear you within 6 squares of you must make a WIS check. If the creature fails its check, it is turned until the end of the encounter or until it takes damage.
+**_Turn the Unholy_ (Action).** You present your holy symbol and speak a prayer censuring fiends and undead, using your Channel Divinity. Each fiend or undead that can see or hear you within 6 squares of you must make a WIS check. If the creature fails its check, it is turned until the end of the encounter or until it takes damage.
 
 A turned creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 6 squares of you. It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.
 
