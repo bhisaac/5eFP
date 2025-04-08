@@ -36,9 +36,7 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Coin_ (⛁).** A 5eFP game awards and uses Coin (⛁) as its currency, representing wealth, reputation, and experience.
 
-**_Cooldown_.** A game feature with the cooldown keyword can only be used once during a game session. If a number follows the cooldown keyword, the number represents how many times you can use the game feature during a game session (minimum 1). Once a game feature with a cooldown is used, you can't use the same game feature again until the beginning of your next turn.
-
-For example, Cooldown 2 means you can use this game feature twice per game session but no more than once per turn.
+**_Cooldown_.** A game feature with the cooldown keyword can only be used once during a game session. If a number follows the cooldown keyword, the number represents how many times you can use the game feature during a game session (minimum 1). Once a game feature with a cooldown is used, you can't use it again until the beginning of your next turn. For example, Cooldown 2 means you can use this game feature twice per game session but no more than once per turn.
 
 **_Conflict_.** The conflict, detailed in your setting handbook, is an event with ongoing effects that changed the game world into an unbalanced and afflicted state (see Setting Handbook). A 5eFP game ends when the conflict is resolved.
 
