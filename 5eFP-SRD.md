@@ -334,7 +334,7 @@ You start with the following equipment, in addition to the equipment granted by 
 - (*a*) handaxes or (*b*) any simple weapon
 - An explorer's pack and javelins
 
-### Rage (Cooldown 2)
+## Rage (Cooldown 2)
 
 In battle, you fight with primal ferocity. When you take the Attack action on your turn, you can choose to first enter into a rage for the rest of the encounter.
 
@@ -346,7 +346,7 @@ If you are able to cast spells, you can’t cast them or concentrate on them whi
 
 Your rage ends early if you are knocked unconscious or if your turn ends and you haven’t attacked a hostile creature since your last turn or taken damage since then. You can end your rage early on your turn, starting on the turn after you activate rage.
 
-### Unarmored Defense
+## Unarmored Defense
 
 While not wearing armor, you add CON (minimum 0) to your Defense. You can use a shield and still gain this benefit.
 
@@ -422,11 +422,11 @@ During its turn, the creature can roll any of your action dice and add the resul
 
 As a cleric, you gain the following class features.
 
-***HEALTH***
+### Health
 
 **MAX Wounds:** 4 + Constitution (CON)
 
-***PROFICIENCIES***
+### Proficiencies
 
 **Abilities:** Wisdom (WIS), Charisma (CHA)
 
@@ -434,7 +434,7 @@ As a cleric, you gain the following class features.
 
 **Weapons:** Simple weapons
 
-***EQUIPMENT***
+### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
@@ -444,27 +444,27 @@ You start with the following equipment, in addition to the equipment granted by 
 - (*a*) a priest’s pack or (*b*) an explorer’s pack
 - A shield and a holy symbol
 
-### Spellcasting
+## Spellcasting
 
 As a conduit for divine power, you can cast cleric spells. 
 
-***CANTRIPS***
+### Cantrips
 
 You know three cantrips of your choice from the cleric spell list.
 
-***MANA***
+### Mana
 
 You begin a game session with 2 mana. To cast one of your spells, you must spend an amount of mana equal to the spell’s level or higher.
 
 For example, if you know the 1st-level spell _cure wounds_ and have 2 mana, you can spend 1 mana to cast _cure wounds_ as a 1st-level spell or 2 mana to cast it as a 2nd-level spell.
 
-***SPELLS KNOWN***
+### Spells Known
 
 You know WIS 1st-level spells from the cleric spell list.
 
 Whenever you purchase a Magic upgrade, you can choose one of the cleric spells you know and replace it with another spell from the cleric spell list that you can cast.
 
-***SPELLCASTING ABILITY***
+### Spellcasting Ability
 
 Wisdom (WIS) is your spellcasting ability for your cleric spells. The power of your spells comes from your devotion to your deity, a dedication, such as those listed in the dedication rules, or one elemental quality from earth, water, fire, air, and aether. You use your WIS whenever a cleric spell refers to your spellcasting ability. In addition, you use WIS when setting the DC for a cleric spell you cast and when making an attack roll with one.
 
@@ -472,42 +472,42 @@ Wisdom (WIS) is your spellcasting ability for your cleric spells. The power of y
 
 **Spell attack modifier** = 2 + WIS
 
-***RITUAL CASTING***
+### Rirtual Casting
 
 You can cast a cleric spell as a ritual if that spell has the ritual tag and you know the spell.
 
-### Divine Domain
+## Divine Domain
 
 Choose one domain related to your deity, such as Medicine. Each domain is detailed at the end of the class description, and each one provides examples of gods associated with it. Your choice grants you domain spells and other features.
 
-***DOMAIN SPELLS***
+### Domain Spells
 
 Each domain has a list of domain spells. You always know your domain spells, which don't count against the number of spells you know.
 
 If you gain a domain spell that isn't a cleric spell, the spell is nonetheless a cleric spell for you.
 
-### Medicine Domain
+## Medicine Domain
 
 The Medicine domain focuses on vibrant positive energy that sustains all life. The gods of life promote vitality and health through healing the sick and wounded, caring for those in need, and driving away the forces of death and undeath. Almost any non-evil deity can claim influence over this domain, particularly agricultural deities (such as Chauntea, Arawai, and Demeter), sun gods (such as Lathander, Pelor, and Re-Horakhty), gods of healing or endurance (such as Ilmater, Mishakal, Apollo, and Diancecht), and gods of home and community (such as Hestia, Hathor, and Boldrei).
 
-***MEDICINE DOMAIN SPELLS***
+### Medicine Domain Spells
 
 - bless
 - cure wounds
 
-***BONUS PROFICIENCY***
+### Bonus Proficiency
 
 You gain proficiency with heavy armor.
 
-***PERFORMANCE MEDICINE***
+### Performance Medicine
 
 Your healing spells are more effective. Whenever you use a spell of 1st level or higher to give a creature 1 or more points of healing, the creature receives one additional point of healing per spell level.
 
-***CHANNEL DIVINITY: Preserve Life***
+### Channel Divinity: Preserve Life (Action)
 
 _Purchase the Channel Divinity upgrade to unlock this feature._
 
-You discard your action and present your holy symbol, evoking healing energy that can provide up to 5 points of healing. Choose any creatures within 6 squares of you, and divide the healing among them. You can’t use this feature on an undead or a construct.
+You present your holy symbol, evoking healing energy that can provide up to 5 healing points. Choose any creatures within 6 squares of you, and divide the healing among them. You can’t use this feature on an undead or a construct.
 
 # Druid
 
@@ -515,11 +515,11 @@ You discard your action and present your holy symbol, evoking healing energy tha
 
 As a druid, you gain the following class features. 
   
-***HEALTH***
+### Health
 
 **MAX Wounds:** 3 + Constitution (CON)
 
-***PROFICIENCIES***
+### Proficiencies
 
 **Abilities:** Intelligence (INT), Wisdom (WIS)
 
@@ -529,7 +529,7 @@ As a druid, you gain the following class features.
 
 **Weapons:** Clubs, daggers, darts, javelins, maces, quarterstaffs, scimitars, sickles, slings, spears
 
-***EQUIPMENT***
+### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
@@ -537,31 +537,31 @@ You start with the following equipment, in addition to the equipment granted by 
 - (*a*) a scimitar or (*b*) any simple melee weapon
 - Leather armor, and an explorer's pack
 
-### Druidic
+## Druidic
 
 You know Druidic, the secret language of druids. You can speak the language and use it to leave hidden messages. You and others who know this language automatically spot such a message. Others spot the message’s presence with a successful (DC 15) WIS check but can’t decipher it without magic.
 
-### Spellcasting
+## Spellcasting
 
 Drawing on the divine essence of nature itself, you can cast spells to shape that essence to your will.
 
-***CANTRIPS***
+### Cantrips
 
 You know two cantrips of your choice from the druid spell list.
 
-***MANA***
+### Mana
 
 You begin a game session with 2 mana. To cast one of your spells, you must spend an amount of mana equal to the spell’s level or higher.
 
 For example, if you know the 1st-level spell _cure wounds_ and have 2 mana, you can spend 1 mana to cast _cure wounds_ as a 1st-level spell or 2 mana to cast it as a 2nd-level spell.
 
-***SPELLS KNOWN***
+### Spells Known
 
 You know WIS 1st-level spells from the druid spell list.
 
 Whenever you purchase a Magic upgrade, you can choose one of the druid spells you know and replace it with another spell from the druid spell list that you can cast.
 
-***SPELLCASTING ABILITY***
+### Spellcasting Ability
 
 Wisdom (WIS) is your spellcasting ability for your druid spells, since your magic draws upon your devotion and attunement to nature. You use your WIS whenever a druid spell refers to your spellcasting ability. In addition, you use WIS when setting the DC for a druid spell you cast and when making an attack roll with one.
 
@@ -569,7 +569,7 @@ Wisdom (WIS) is your spellcasting ability for your druid spells, since your magi
 
 **Spell attack modifier** = 2 + WIS
 
-***RITUAL CASTING***
+### Ritual Casting
 
 You can cast a druid spell as a ritual if that spell has the ritual tag and you know the spell.
 
@@ -579,11 +579,11 @@ You can cast a druid spell as a ritual if that spell has the ritual tag and you 
 
 As a fighter, you gain the following class features.
 
-***HEALTH***
+### Health
 
 **MAX Wounds:** 5 + Constitution (CON)
 
-***PROFICIENCIES***
+### Proficiencies
 
 **Abilities:** Strength (STR), Constitution (CON)
 
@@ -591,7 +591,7 @@ As a fighter, you gain the following class features.
 
 **Weapons:** Simple weapons, martial weapons
 
-***EQUIPMENT***
+### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
@@ -600,27 +600,27 @@ You start with the following equipment, in addition to the equipment granted by 
 - (*a*) a light crossbow and bolts or (*b*) handaxes
 - (*a*) a dungeoneer’s pack or (*b*) an explorer’s pack
 
-### Fighting Style
+## Fighting Style
 
 You adopt a particular style of fighting as your specialty. Choose one of the following options. You can’t take a Fighting Style option more than once, even if you later get to choose again.
 
-***ARCHERY***
+### Archery
 
 You gain a +1 bonus to attack rolls you make with ranged weapons.
 
-***ARMORED***
+### Armored
 
 While you are wearing armor, you gain a +1 bonus to Defense.
 
-***GREAT WEAPON FIGHTING***
+### Great Weapon Fighting
 
 Whenever you attack and miss with a melee weapon you are wielding with two hands, you may reroll the attack once and must use the new roll. The weapon must have the two-handed property for you to gain this benefit.
 
-***PROTECTION***
+### Protection
 
 When a creature you can see attacks a target other than you that is within 1 square of you, you can discard your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
 
-### Second Wind (Rest)
+## Second Wind (Rest)
 
 You have a limited well of stamina that you can draw on to protect yourself from harm. Once during your turn, you receive up to 2 points of healing.
 
@@ -630,11 +630,11 @@ You have a limited well of stamina that you can draw on to protect yourself from
 
 As a monk, you gain the following class features.
 
-***HEALTH***
+### Health
 
 **MAX Wounds:** 5 + Constitution (CON)
 
-***PROFICIENCIES***
+### Proficiencies
 
 **Abilities:** Strength (STR), Dexterity (DEX)
 
@@ -642,7 +642,7 @@ As a monk, you gain the following class features.
 
 **Weapons:** Simple weapons, shortswords
 
-***EQUIPMENT***
+### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
@@ -650,11 +650,11 @@ You start with the following equipment, in addition to the equipment granted by 
 - (*a*) a dungeoneer’s pack or (*b*) an explorer’s pack
 - darts
 
-### Unarmored Defense
+## Unarmored Defense
 
 While not wearing armor or wielding a shield, you add WIS (minimum 0) to your Defense.
 
-### Martial Arts
+## Martial Arts
 
 Your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are shortswords and any simple melee weapons that don't have the two-handed or heavy property.
 
@@ -669,11 +669,11 @@ Certain monasteries use specialized forms of monk weapons. For example, you migh
 
 As a paladin, you gain the following class features.
 
-***HEALTH***
+### Health
 
 **MAX Wounds:** 4 + Constitution (CON)
 
-***PROFICIENCIES***
+### Proficiencies
 
 **Abilities:** Wisdom (WIS), Charisma (CHA)
 
@@ -681,7 +681,7 @@ As a paladin, you gain the following class features.
 
 **Weapons:** Simple	weapons,	martial	weapons
 
-***EQUIPMENT***
+### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
@@ -690,11 +690,11 @@ You start with the following equipment, in addition to the equipment granted by 
 - (a) a priest’s pack or (b) an explorer’s pack
 - Chain mail and a holy symbol
 
-### Divine Sense (Cooldown CHA + 1)
+## Divine Sense (Cooldown CHA + 1)
 
 The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. You can discard your action to open your awareness and detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 12 squares of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the _hallow_ spell.
 
-### Lay on Hands
+## Lay on Hands
 
 Your blessed touch can heal wounds. You have a reserve of healing power. You can assign up to 5 points of healing with your reserve.
 
@@ -710,11 +710,11 @@ This feature has no effect on undead and constructs.
 
 As a ranger, you gain the following class features.
 
-***HEALTH***
+### Health
 
 **MAX Wounds:** 4 + Constitution (CON)
 
-***PROFICIENCIES***
+### Proficiencies
 
 **Abilities:** Strength (STR), Dexterity (DEX)
 
@@ -722,7 +722,7 @@ As a ranger, you gain the following class features.
 
 **Weapons:** Simple weapons, martial weapons
 
-***EQUIPMENT***
+### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
@@ -731,7 +731,7 @@ You start with the following equipment, in addition to the equipment granted by 
 - (a) a dungeoneer’s pack or (b) an explorer’s pack
 - A longbow and arrows
 
-### Favored Enemy
+## Favored Enemy
 
 You have significant experience studying, tracking, hunting, and even talking to a certain type of enemy. Choose a type of favored enemy: aberrations, beasts, celestials, constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead. Alternatively, you can select two species of humanoid (such as gnolls and orcs) as favored enemies.
 
@@ -739,11 +739,11 @@ You have advantage on WIS checks to track your favored enemies, as well as on IN
 
 When you gain this feature, you also learn one language of your choice that is spoken by your favored enemies, if they speak one at all.
 
-### Natural Explorer
+## Natural Explorer
 
 You are particularly familiar with one type of natural environment and are adept at traveling and surviving in such regions. Choose one type of favored terrain: arctic, coast, desert, forest, grassland, mountain, or swamp. While in your favored terrain, proficient ability checks related to your favored terrain gain expertise. (Expertise allows you to add your level to your bonus twice.)
 
-While traveling in your favored terrain, you gain the following benefits:
+While traveling in your favored terrain and while you are the group token controller, you gain the following benefits:
 - Difficult terrain doesn’t slow your group’s travel.
 - Your group can’t become lost except by magical means.
 - Your group always acts on the surprise round.
@@ -757,11 +757,11 @@ While traveling in your favored terrain, you gain the following benefits:
 
 As a rogue, you have the following class features.
 
-***HEALTH***
+### Health
 
 **MAX Wounds:** 4 + Constitution (CON)
 
-***PROFICIENCIES***
+### Proficiencies
 
 **Abilities:** Dexterity (DEX), Intelligence (INT)
 
@@ -771,7 +771,7 @@ As a rogue, you have the following class features.
 
 **Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords
 
-***EQUIPMENT***
+### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
@@ -780,17 +780,17 @@ You start with the following equipment, in addition to the equipment granted by 
 - (a) a burglar’s pack, (b) a dungeoneer’s pack, or (c) an explorer’s pack
 - (a) Leather armor, two daggers, and thieves’ tools
 
-### Expertise
+## Expertise
 
 Gain proficiency with a nonproficient ability of your choice. Then, choose two of your ability proficiencies or one of your ability proficiencies and your proficiency with thieves’ tools. As long as the chosen proficiencies or tools do not already have expertise, you gain expertise in the chosen abilities or tools. Expertise allows you to add your level to a check twice instead of once.
 
-### Sneak Attack
+## Sneak Attack
 
 You know how to strike subtly and exploit a foe’s distraction. Once per turn, you can deal an extra +1 damage to one creature you hit with an attack if you have advantage on the attack roll.
 
 You don’t need advantage on the attack roll if another enemy of the target is within 1 square of it, that enemy isn’t incapacitated, and you don’t have disadvantage on the attack roll.
 
-### Thieves’ Cant
+## Thieves’ Cant
 
 During your rogue training you learned thieves’ cant, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. Only another creature that knows thieves’ cant understands such messages. It takes four times longer to convey such a message than it does to speak the same idea plainly.
 
