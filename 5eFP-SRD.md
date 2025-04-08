@@ -46,7 +46,7 @@ For example, Cooldown 2 means you can use this game feature twice per game sessi
 
 **_Difficulty Class (DC)_.** Difficulty Class or DC represents a task's difficulty. The more difficult a task, the higher its DC.
 
-**_Deploy_.** After choosing an unexplored world map tile, the PCs deploy onto its exploration map by placing the group token in a random location. The obscuring map tile under the group token is revealed. Explored world map tiles sometimes provide additional locations for placing your character during a downtime round. These bonus areas are placed along the sides of the world map. PCs may deploy onto these special areas before resolving a downtime round.
+**_Deploy_. (Cooldown)** After choosing an unexplored world map tile, the PCs deploy onto its exploration map by placing the group token in a random location. The obscuring map tile under the group token is revealed. Explored world map tiles sometimes provide additional locations for placing your character during a downtime round. These bonus areas are placed along the sides of the world map. PCs may deploy onto these special areas before resolving a downtime round.
 
 **_Discover._** If a game feature instructs you to discover something, you determine two results, choose one, and discard the rest.
 
@@ -84,9 +84,9 @@ For example, Cooldown 2 means you can use this game feature twice per game sessi
 
 **_Obscuring Map Tiles_.** Obscuring map tiles are two-sided opaque map tiles that cover unexplored areas of a map or may represent areas of preternatural or magical darkness.
 
-**_Recall_.** A PC is transported back to the HQ map room after finishing a special Recall ritual completed outside of an encounter. PCs automatically Recall when the time marker reaches 0 (8 hours) after deploying onto the world map. A PC may only Recall once per game session.
+**_Recall_. (Cooldown)** A PC is transported back to the HQ map room after finishing a special Recall ritual completed outside of an encounter. PCs automatically Recall when the time marker reaches 8. A PC may only Recall once per game session.
 
-**_Rest_.** Twice per game session, PCs may choose to take a rest. Once completed, each PC receives a number of healing points equal to LEVEL, you regain all uses of game features with the rest keyword, and the time marker advances 1 hour.
+**_Rest_. (Cooldown 2)** A rest is a brief period of downtime, at least 1 hour long, during which a creature does nothing more strenuous than eating, drinking, reading, and tending to wounds. At the end of a rest, a creature discards LEVEL wounds and regains all uses of game features with the rest keyword. Finishing a rest advances the time marker.
 
 **_Round_.** In combat and other fast-­paced situations, the game relies on rounds, a 6-­second span of time. A downtime round represents one or more days.
 
