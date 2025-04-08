@@ -354,6 +354,8 @@ While not wearing armor, you add CON (minimum 0) to your Defense. You can use a 
 
 ## Class Features
 
+As a bard, you gain the following class features.
+
 ### Health
 
 **MAX Wounds:** 4 + Constitution (CON)
@@ -505,7 +507,7 @@ Your healing spells are more effective. Whenever you use a spell of 1st level or
 
 ### Channel Divinity: Preserve Life (Action)
 
-_Purchase the Channel Divinity upgrade to unlock this feature._
+_Purchase the **Channel Divinity (1/rest)** upgrade to unlock this feature._
 
 You present your holy symbol, evoking healing energy that can provide up to 5 healing points. Choose any creatures within 6 squares of you, and divide the healing among them. You can’t use this feature on an undead or a construct.
 
