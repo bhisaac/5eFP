@@ -1149,7 +1149,7 @@ You swear the oath that binds you as a paladin forever. Up to this time you have
 
 ### Oath Spells
 
-Each oath has an associated spell. You know oath spells, and they do not count against the number of spells you can know.
+Each oath has associated spells. You begin knowing two oath spells, and they do not count against the number of spells you know.
 
 If you gain an oath spell that doesn’t appear on the paladin spell list, the spell is nonetheless a paladin spell for you.
 
