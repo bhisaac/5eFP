@@ -84,7 +84,7 @@ For example, Cooldown 2 means you can use this game feature twice per game sessi
 
 **_Obscuring Map Tiles_.** Obscuring map tiles are two-sided opaque map tiles that cover unexplored areas of a map or may represent areas of preternatural or magical darkness.
 
-**_Recall_. (Cooldown)** A PC is transported back to the HQ map room after finishing a special Recall ritual completed outside of an encounter. PCs automatically Recall when the time marker reaches 8. A PC may only Recall once per game session.
+**_Recall_. (Cooldown)** A PC is transported back to the HQ map room after finishing a special Recall ritual completed outside of an encounter. PCs instantaneously Recall when the time marker reaches 8.
 
 **_Rest_. (Cooldown 2)** While deployed and not in an encounter, a group can choose to take a rest. A rest is a brief period of downtime, at least 1 hour long, during which a creature does nothing more strenuous than eating, drinking, reading, and tending to wounds. At the end of a rest, a creature discards LEVEL wounds and regains all uses of game features with the rest keyword. Finishing a rest advances the time marker.
 
