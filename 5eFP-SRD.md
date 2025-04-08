@@ -315,7 +315,7 @@ It’s hard to make generalizations about humans, but your human character has t
 
 As a barbarian, you gain the following class features.
 
-***HEALTH***
+### HEALTH
 
 **MAX Wounds:** 5 + Constitution (CON)
 
