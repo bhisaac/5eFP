@@ -315,11 +315,11 @@ It’s hard to make generalizations about humans, but your human character has t
 
 As a barbarian, you gain the following class features.
 
-### HEALTH
+### Health
 
 **MAX Wounds:** 5 + Constitution (CON)
 
-***PROFICIENCIES***
+### Proficiencies
 
 **Abilities:** Strength (STR), Constitution (CON)
 
@@ -327,7 +327,7 @@ As a barbarian, you gain the following class features.
 
 **Weapons:** Simple weapons, martial weapons
 
-***EQUIPMENT***
+### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 - (*a*) a battleaxe or (*b*) any martial melee weapon
