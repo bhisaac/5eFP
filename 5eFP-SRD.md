@@ -1094,8 +1094,10 @@ A turned creature must spend its turns trying to move as far away from you as it
 |**Cost**|**Feature**|**Details**|
 |2⛁|Fighting Style|...|
 |2⛁|Spellcasting|...|
-|3⛁|Divine Smite|...|
-|3⛁|Magic|You begin the game with 3 mana. You learn one spell from the paladin spell list.|
+|2⛁|Divine Smite|...|
+|3⛁|Divine Health|You are immune to disease.|
+|3⛁|Magic|You begin a game session with 3 mana. You learn one spell from the paladin spell list.|
+|3⛁|Sacred Oath|...|
 
 ## Fighting Style
 
@@ -1105,14 +1107,13 @@ You adopt a style of fighting as your specialty. Choose one of the following opt
 
 While you are wearing armor, you gain a +1 bonus to Defense.
 
-### Dueling
-
-When you are wielding a melee weapon in one hand and no other weapons, that weapon's damage increases by +1.
-
 ### Great Weapon Fighting
 
 Whenever you attack and miss with a melee weapon you are wielding with two hands, you may reroll the attack once and must use the new roll. The weapon must have the two-handed property for you to gain this benefit.
 
+### Protection (Reaction)
+
+When a creature you can see attacks a target other than you that is within 1 square of you, you can discard your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
 
 ## Spellcasting
 
@@ -1140,11 +1141,58 @@ Charisma (CHA) is your spellcasting ability for your paladin spells since their 
 
 ## Divine Smite
 
+When you hit a creature with a melee weapon attack, you can spend up to LEVEL mana to deal an equal amount of radiant damage to the target, in addition to the weapon’s damage.
 
+## Sacred Oath
 
-## Magic
+You swear the oath that binds you as a paladin forever. Up to this time you have been in a preparatory stage, committed to the path but not yet sworn to it. Now you choose an oath, such as the Oath of Devotion.
 
+### Oath Spells
 
+Each oath has an associated spell. You know oath spells, and they do not count against the number of spells you can know.
+
+If you gain an oath spell that doesn’t appear on the paladin spell list, the spell is nonetheless a paladin spell for you.
+
+### Channel Divinity
+
+Your oath allows you to channel divine energy to fuel magical effects. Each Channel Divinity option provided by your oath explains how to use it.
+When you use your Channel Divinity, you choose which option to use. You must then finish a short or long rest to use your Channel Divinity again.
+Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your paladin spell save DC.
+
+# Sacred Oaths
+
+Becoming a paladin involves taking vows that commit the paladin to the cause of righteousness, an active path of fighting wickedness. This final oath is taken at the culmination of all the paladin’s training. Some characters with this class don’t consider themselves true paladins until they have reached this step and made this oath. For others, the actual swearing of the oath is a formality, an official stamp on what has always been true in the paladin’s heart.
+
+## Oath of Devotion
+
+The Oath of Devotion binds a paladin to the loftiest ideals of justice, virtue, and order. Sometimes called cavaliers, white knights, or holy warriors, these paladins meet the ideal of the knight in shining armor, acting with honor in pursuit of justice and the greater good. They hold themselves to the highest standards of conduct, and some, for better or worse, hold the rest of the world to the same standards. Many who swear this oath are devoted to gods of law and good and use their gods’ tenets as the measure of their devotion. They hold angels—the perfect servants of good—as their ideals, and incorporate images of angelic wings into their helmets or coats of arms.
+
+### Tenets of Devotion
+
+Though the exact words and strictures of the Oath of Devotion vary, paladins of this oath share these tenets.
+
+- **Honesty.** Don't lie or cheat. Let your word be your promise.
+- **Courage.** Never fear to act, though caution is wise.
+- **Compassion.** Aid others, protect the weak, and punish those threatening them. Show mercy to your foes, but temper it with wisdom.
+- **Honor.** Treat others fairly, and let your honorable deeds be an example to them. Do as much good as possible while causing the least amount of harm.
+- **Duty.** Be responsible for your actions and their consequences, protect those entrusted to your care, and obey those who have just authority over you.
+
+### Oath Spells
+
+- protection from evil and good
+- sanctuary
+
+### Channel Divinity (Encounter Action)
+
+When you take this oath, you gain the following two Channel Divinity Options.
+
+**_Sacred Weapon_.** You imbue one weapon that you are holding with positive energy, using your Channel Divinity. For the rest of the encounter, you add CHA to attack rolls made with that weapon (with a minimum bonus of +1). The weapon also emits bright light in a 4-square radius. If the weapon is not already magical, it becomes magical for the duration.
+
+You can end this effect on your turn as part of any other action. If you are no longer holding or carrying this weapon, or if you fall unconscious, this effect ends.
+
+**_Turn the Unholy_.** You present your holy symbol and speak a prayer censuring fiends and undead, using your Channel Divinity. Each fiend or undead that can see or hear you within 6 squares of you must make a WIS check. If the creature fails its check, it is turned until the end of the encounter or until it takes damage.
+
+A turned creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 6 squares of you. It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.
 
 # Druid Upgrades
 
