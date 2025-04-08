@@ -50,7 +50,7 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Downtime_.** Downtime consists of downtime actions measured in rounds, including rest and repairs, research, spending Coin on HQ upgrades, or taking other actions between game sessions.
 
-**_Encounter_.** An encounter is a significant event within the game where the outcome of events is uncertain and is measured in rounds. PCs are awarded ⛁ when an encounter ends.
+**_Encounter_.** An encounter is a significant event within the game where the outcome of events is uncertain and is measured in rounds. PCs are awarded ⛁ when an encounter ends. Game features with the encounter keyword can only be used during an encounter.
 
 **_Encounter, Campfire_.** Campfire encounters are special encounters that grant the benefits of a rest without counting against the number of allowed rests in a game session, don't need a map to resolve, don't award Coin when completed, may include social interaction between PCs, may or may not include an actual campfire, and do not advance the time marker, revealing obscuring map tiles up to 3 squares away when finished.
 
