@@ -1281,7 +1281,7 @@ The Circle of the Land is made up of mystics and sages who safeguard ancient kno
 
 **_Bonus Cantrip._** When you choose this circle, you learn one additional druid cantrip of your choice.
  
-**_Natural Recovery_ (cooldown).** You can regain some of your magical energy by sitting in meditation and communing with nature. You gain LEVEL mana when you finish a rest.
+**_Natural Recovery_ (Cooldown).** You can regain some of your magical energy by sitting in meditation and communing with nature. You gain LEVEL mana when you finish a rest.
 
 **_Circle Spells._** Your mystical connection to the land infuses you with the ability to cast certain spells. You gain access to circle spells connected to the land where you became a druid. Choose that land—arctic, coast, desert, forest, grassland, mountain, or swamp—and consult the associated list of spells.
 
