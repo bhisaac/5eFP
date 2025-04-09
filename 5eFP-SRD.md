@@ -1385,11 +1385,17 @@ Some of your ki features require your target to make an ability check to resist 
 
 **Ki DC** = 10 +  WIS
 
-**Flurry of Blows.** Immediately after you take the Attack action on your turn, you can spend 1 ki point to make two unarmed strikes.
+### Flurry of Blows
 
-**Patient Defense.** You can spend 1 ki point to take the Dodge action on your turn without discarding your action.
+Immediately after you take the Attack action on your turn, you can spend 1 ki point to make two unarmed strikes.
 
-**Step of the Wind.** You can spend 1 ki point to take the Disengage or Dash action on your turn without discarding your action, and your jump distance is doubled for the turn.
+### Patient Defense
+
+You can spend 1 ki point to take the Dodge action on your turn without discarding your action.
+
+### Step of the Wind
+
+You can spend 1 ki point to take the Disengage or Dash action on your turn without discarding your action, and your jump distance is doubled for the turn.
 
 ## Unarmored Movement
 
@@ -1410,15 +1416,43 @@ Monks of the Way of the Open Hand are the ultimate masters of martial arts comba
 
 ## Deflect Missiles
 
-You can use your reaction to deflect or catch the piece of ammunition or missile when you are hit by a ranged weapon attack. When you do so, the damage you take from the attack is reduced by 1 + DEX + your level (minimum 0).
+You can use your reaction to deflect or catch the piece of ammunition or missile when you are hit by a ranged weapon attack. When you do so, the damage you take from the attack is reduced by 1 + DEX + LEVEL (minimum 0).
 
 If you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in one hand and you have at least one hand free. If you catch a missile in this way, you can spend 1 ki point to make a ranged attack with the weapon or piece of ammunition you just caught, as part of the same reaction. You make this attack with proficiency, regardless of your weapon proficiencies, and the missile counts as a monk weapon for the attack, which has a normal range of 4 squares and a long range of 12 squares.
 
-# Rogue Upgrades
+# Ranger Upgrades
+
+## Fighting Style
+
+### Archery
+
+### Blind Fighting
+
+You gain blindsight out to 2 squares whenever your vision is obscured.
+
+### Defense
+
+### Druidic Warrior
+
+You learn two druid cantrips of your choice.
+
+## Spellcasting
+
+### Mana
+
+### Spells Known
+
+### Spellcasting Ability
+
+## Ranger Archetype
+
+### Hunter
+
+## Primeval Awareness (Encounter, Action)
 
 TBA
 
-# Ranger Upgrades
+# Rogue Upgrades
 
 TBA
 
