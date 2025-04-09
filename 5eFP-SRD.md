@@ -1065,6 +1065,41 @@ The following upgrades provide an additional way to gain inspiration as a cooldo
 |3⛁|Inspired Failure|You gain inspiration after resolving a critical failure|
 |3⛁|Inspired Support|If a game feature or effect helps you succeed when you would have otherwise failed, you gain inspiration at the end of your turn|
 
+# Bard Upgrades
+
+||||
+|-:|:-|:-|
+|**Cost**|**Feature**|**Details**|
+|2⛁|Jack of All Trades|Add +1 to nonproficient abilities|
+|2⛁|Song of Rest|You and your allies receive 1 point of healing at the end of a short rest|
+|3⛁|Magic|You gain +2 Mana and add +1 known spell from your class spell list|
+|3⛁|Bard College|College of Lore|
+|3⛁|Expertise|...|
+
+## Bard College
+
+You delve into the advanced techniques of a bard college of your choice, such as the College of Lore.
+
+## College of Lore
+
+Bards of the College of Lore know something about most things, collecting bits of knowledge from sources as diverse as scholarly tomes and peasant tales. Whether singing folk ballads in taverns or elaborate compositions in royal courts, these bards use their gifts to hold audiences spellbound. When the applause dies down, the audience members might find themselves questioning everything they held to be true, from their faith in the priesthood of the local temple to their loyalty to the king.
+ 
+The loyalty of these bards lies in the pursuit of beauty and truth, not in fealty to a monarch or following the tenets of a deity. A noble who keeps such a bard as a herald or advisor knows that the bard would rather be honest than politic.
+
+The college’s members gather in libraries and sometimes in actual colleges, complete with classrooms and dormitories, to share their lore with one another. They also meet at festivals or affairs of state, where they can expose corruption, unravel lies, and poke fun at self-­important figures of authority.
+
+### Bonus Proficiencies
+
+You gain proficiency with one ability of your choice.
+
+### Cutting Words (Reaction)
+
+You learn how to use your wit to distract, confuse, and otherwise sap the confidence and competence of others. When a creature that you can see within 12 squares of you makes an attack roll, an ability check, or a damage roll, you can discard your reaction to expend one of your uses of bardic action dice, rolling five action dice and subtracting the number rolled from the creature’s roll. You can choose to use this feature after the creature makes its roll, but before the GM determines whether the attack roll or ability check succeeds or fails or before the creature deals its damage. The creature is immune if it can’t hear you or is immune to being charmed.
+
+## Expertise
+
+Gain proficiency with a nonproficient ability of your choice. Then choose two of your ability proficiencies or one of your ability proficiencies and your proficiency with a tool. As long as the chosen proficiencies or tools do not already have expertise, you gain expertise in the chosen abilities or tools. Expertise allows you to add your level to a check twice instead of once.
+
 # Cleric Upgrades
 
 ||||
@@ -1304,7 +1339,7 @@ You tap into a deep wellspring of magic within yourself. This wellspring is repr
 
 ### Sorcery Points.
 
-You have 2 sorcery points. At the beginning of a game session, you regain all spent sorcery points.
+You begin a game session with 2 sorcery points.
 
 ### Flexible Casting
 
@@ -1390,11 +1425,9 @@ You can cast _mage armor_ on yourself at will, without using your pact magic fea
 
 You can cast _speak with animals_ at will, without using your pact magic feature.
 
-### Beguiling Influence
+### Beguiling Influence (Cooldown)
 
-_Cooldown_
-
-You cast _charm person_ once without verbal or somatic components and without using your pact magic feature.
+You cast _charm person_ without verbal or somatic components and without using your pact magic feature.
 
 ### Book of Ancient Secrets
 
@@ -1418,9 +1451,9 @@ When you cast _eldritch blast_, its range becomes line of sight.
 
 At the beginning of an encounter, you gain bolster 1.
 
-### Gaze of Two Minds
+### Gaze of Two Minds (Action)
 
-You can discard your action to touch a willing humanoid and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can discard your action on subsequent turns to maintain this connection, extending the duration until the end of your next turn. While perceiving through the other creature’s senses, you benefit from any special senses possessed by that creature, and you are blinded and deafened to your own surroundings.
+You touch a willing humanoid and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can discard your action on subsequent turns to maintain this connection, extending the duration until the end of your next turn. While perceiving through the other creature’s senses, you benefit from any special senses possessed by that creature, and you are blinded and deafened to your own surroundings.
 
 ### Mask of Many Faces
 
@@ -1436,9 +1469,7 @@ _Prerequisite: eldritch blast cantrip_
 
 When you hit a creature with _eldritch blast_, you can push the creature up to 2 squares away from you in a straight line.
 
-### Thief of Five Fates
-
-_Cooldown_
+### Thief of Five Fates (Cooldown)
 
 You cast _bane_ using your pact magic feature.
 
@@ -1457,11 +1488,12 @@ Your otherworldly patron bestows a gift upon you for your loyal service. You gai
 You learn the _find familiar_ spell and can cast it as a ritual. The spell doesn’t count against your number of spells known.
 
 When you cast the spell, you can choose one of the normal forms for your familiar or one of the following special forms: homunculus, pseudodragon, quasit, or sprite.
+
 Additionally, when you take the Attack action, you can forgo one of your own attacks to allow your familiar to make one attack of its own with its reaction.
 
 ### Pact of the Blade
 
-Discard your action to create a melee pact weapon lacking the two-handed property in your empty hand. You can choose the form this weapon takes each time you create it. You are proficient with it while you wield it. The weapon deals 1 point of magic damage on a successful hit with a damage type that depends on the weapon's form: blades are piercing or slashing, and chains, hammers, and clubs are bludgeoning.
+Discard your action to create a melee pact weapon lacking the two-handed property in your empty hand. You can choose the form this weapon takes each time you create it. You are proficient with it while you wield it. The weapon's damage type depends on the weapon's form: blades are piercing or slashing, and chains, hammers, and clubs are bludgeoning. You may use CHA instead of DEX or STR to make attack rolls with a pact weapon.
 
 Your pact weapon disappears if it is more than 1 square away from you. It also disappears if you use this feature again, if you dismiss the weapon (no action required), or if you die.
 
@@ -1469,38 +1501,13 @@ You can transform one magic weapon into your pact weapon by performing a special
 
 ### Pact of the Tome
 
-Your patron gives you a grimoire called a Tome of Secrets. When you gain this feature, choose three cantrips from any class’s spell list (the three needn’t be from the same list). While the book is on your person, you can cast those cantrips at will. They don’t count against your number of cantrips known. If they don’t appear on the warlock spell list, they are warlock spells for you.
+Your patron gives you a Tome of Secrets containing eldritch mysteries and insights. When you gain this feature, choose three cantrips from any class’s spell list (the three needn’t be from the same list). While the book is on your person, you can cast those cantrips at will. They don’t count against your number of cantrips known. If they don’t appear on the warlock spell list, they are nevertheless warlock spells for you.
 
 If you lose your Tome of Secrets, you can perform a ceremony to receive a replacement from your patron. This ceremony can be performed during a rest, and it destroys the previous book. The book turns to ash when you die.
 
 # Wizard Upgrades
 
 TBA
-
-# Bard Upgrades
-
-||||
-|-:|:-|:-|
-|**Cost**|**Feature**|**Details**|
-|2⛁|Jack of All Trades|Add +1 to nonproficient abilities|
-|2⛁|Song of Rest|You and your allies receive 1 point of healing at the end of a short rest|
-|3⛁|Magic|You gain +2 Mana and add +1 known spell from your class spell list|
-|3⛁|Bard College|College of Lore|
-|3⛁|Expertise|...|
-
-> #### College of Lore
->> Bards of the College of Lore know something about most things, collecting bits of knowledge from sources as diverse as scholarly tomes and peasant tales. Whether singing folk ballads in taverns or elaborate compositions in royal courts, these bards use their gifts to hold audiences spellbound. When the applause dies down, the audience members might find themselves questioning everything they held to be true, from their faith in the priesthood of the local temple to their loyalty to the king.
->> 
->> The loyalty of these bards lies in the pursuit of beauty and truth, not in fealty to a monarch or following the tenets of a deity. A noble who keeps such a bard as a herald or advisor knows that the bard would rather be honest than politic.
->> 
->> The college’s members gather in libraries and sometimes in actual colleges, complete with classrooms and dormitories, to share their lore with one another. They also meet at festivals or affairs of state, where they can expose corruption, unravel lies, and poke fun at self-­important figures of authority.
->> 
->> **_Bonus Proficiencies._** You gain proficiency with one ability of your choice.
->> 
->> **_Cutting Words._** You learn how to use your wit to distract, confuse, and otherwise sap the confidence and competence of others. When a creature that you can see within 12 squares of you makes an attack roll, an ability check, or a damage roll, you can use your reaction to expend one of your uses of bardic action dice, rolling three action dice and subtracting the number rolled from the creature’s roll. You can choose to use this feature after the creature makes its roll, but before the GM determines whether the attack roll or ability check succeeds or fails, or before the creature deals its damage. The creature is immune if it can’t hear you or if it’s immune to being charmed.
->
-> #### Expertise
->> Gain proficiency with a nonproficient ability of your choice. Then choose two of your ability proficiencies or one of your ability proficiencies and your proficiency with a tool. As long as the chosen proficiencies or tools do not already have expertise, you gain expertise in the chosen abilities or tools. Expertise allows you to add your level to a check twice instead of once.
 
 # Rogue Upgrades
 
