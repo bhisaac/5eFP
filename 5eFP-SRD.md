@@ -1204,21 +1204,27 @@ A turned creature must spend its turns trying to move as far away from you as it
 |2⛁|Druid Circle|Circle of the Land, Circle of the Sun and Moon|
 |3⛁|Magic|You gain +2 mana and add +1 known spell from the druid spell list.|
 
-## Wild Shape
+## Wild Shape (Rest 2)
 
 As an action, you magically assume the shape of a beast that you have seen before. When you use this feature, save and set aside any wounds and choose a wild shape form. Use statistics for an elite creature except as detailed below. Your wild shape form cannot benefit from any swim or fly speeds it may have.
 
 You can use this feature twice. You regain expended uses when you finish a rest.
  
-### Wild Shape Forms
- 
-**_Tough._** You have 5 + LEVEL MAX wounds and Defense 11 while in tough form. Your size increases to large if it is not already, with a reach of 1 square. You can attack twice instead of once whenever you take the Attack action on your turn. You gain Bolster LEVEL when you assume this form.
+## Wild Shape Forms
 
-**_Stealthy._** You have 4 + LEVEL MAX wounds and Defense 13 while in stealthy form. While in this form, you roll DEX and WIS checks with advantage and gain a pounce attack (if you don't already have one).
+Wild shapes are divided into three primary forms: tough, stealthy, and travel.
 
-> **_Pounce._** Whenever you take the Attack action, move at least 3 squares in a line toward a creature, and hit it with a melee attack, it must succeed on a DC (14 + LEVEL) STR check or be knocked prone. If the creature is prone, you can make one melee attack against it.
+### Tough
+
+You have 5 + LEVEL MAX wounds and Defense 11 while in tough form. Your size increases to large if it is not already, with a reach of 1 square. You gain Bolster LEVEL when you assume this form.
+
+### Stealthy
+
+You have 4 + LEVEL MAX wounds and Defense 12 + LEVEL while in stealthy form. While in this form, you roll DEX checks with advantage.
  
-**_Travel._** You can activate travel form outside of an encounter. You have 1 MAX wounds while in travel form. When activated, you and any chosen creatures within 6 squares of you transform into travel forms and move together. If an encounter begins or if 1 or more points of damage are dealt to you or another affected creature, your wild shape and all travel forms end. Your speed doubles while in travel form. Once activated, the travel form can be reactivated on the exploration map anytime outside of an encounter until you Recall. When you reactivate travel form, set aside any wild-shape form you are currently in. When travel form ends due to entering an encounter or taking 1 or more points of damage, you shift back into the wild shape form you set aside.
+### Travel
+
+You can activate travel form outside of an encounter. You have 1 MAX wounds while in travel form. When activated, you and any chosen creatures within 6 squares of you transform into travel forms and move together. If an encounter begins or if 1 or more points of damage are dealt to you or another affected creature, your wild shape and all travel forms end. Your speed increases by +2 while in travel form.
 
 You can stay in a wild shape form until you Recall. You then revert to your normal form. You can discard your action to revert to your normal form earlier on your turn. If you fall unconscious, gain MAX wounds, or die, you automatically revert.
 
@@ -1240,9 +1246,7 @@ The Circle of the Land is made up of mystics and sages who safeguard ancient kno
 
 **_Bonus Cantrip._** When you choose this circle, you learn one additional druid cantrip of your choice.
  
-**_Natural Recovery._ (cooldown)** You can regain some of your magical energy by sitting in meditation and communing with nature. You gain LEVEL mana during a rest.
-
-For example, when you are a 2nd-­level druid, you can recover up to 2 mana.
+**_Natural Recovery_ (cooldown).** You can regain some of your magical energy by sitting in meditation and communing with nature. You gain LEVEL mana when you finish a rest.
 
 **_Circle Spells._** Your mystical connection to the land infuses you with the ability to cast certain spells. You gain access to circle spells connected to the land where you became a druid. Choose that land—arctic, coast, desert, forest, grassland, mountain, or swamp—and consult the associated list of spells.
 
@@ -1270,6 +1274,20 @@ The Circle of the Sun and Moon is made up of mystics who meditate and commune wi
 - **_Lunar Attunement._** Whenever you cast a spell that has no visible effect such as _cure wounds_, you discard solar attunement and gain lunar attunement. If you already have lunar attunement, discard it and activate _starfall_.
 - **_Solar Attunement._** Whenever you cast a spell that has a visible effect such as _entangle_, you discard lunar attunement and gain solar attunement. If you already have solar attunement, discard it and activate _starfall_.
 - **_Starfall._** A shooting star of radiance forms above your head and strikes a creature within 12 squares of you. If the creature is friendly, it receives 1 point of healing and may make an ability check to resist one ongoing negative effect. If the creature is not a friendly target, it must succeed on a DEX check using your spell DC or take 1 point of radiant damage. You then gain _lunar attunement_ or _solar attunement_.
+
+### Circle of the Manyshaped
+
+The Circle of the Manyshaped are fierce wilderness protectors and powerful shapeshifters who embody and cultivate wisdom within the shapes of animals. They are fierce wilderness protectors. Their order gathers under the full moon to share news across the land and trade observations and insights. Their preferred way of doing this is with a flock of crows or ravens. They can be found in the deepest parts of the wild, where they spend long stretches of time living in a wild shape form as animals. Living, hunting, thinking, and sleeping as an animal. They do this to deepen their understanding of both the animal and the animal within themselves.
+
+**_Improved Wild Shape_.** You can use wild shape without discarding your action. Your wild shape forms gain additional game features.
+
+**_Tough_.** You gain bolster LEVEL at the beginning of your turn. You can attack twice instead of once whenever you take the Attack action on your turn.
+
+**_Stealthy_.** You gain advantage on WIS checks. You gain a pounce attack (if you don't already have one).
+
+> **_Pounce._** Whenever you take the Attack action, move at least 3 squares in a line toward a creature, and hit it with a melee attack, it must succeed on a DC (14 + LEVEL) STR check or be knocked prone. If the creature is prone, you can make one melee attack against it.
+
+**_Travel_.** Your movement changes to double your speed. Once travel form is activated, the travel form can be reactivated on the exploration map anytime outside of an encounter until you Recall. When you reactivate travel form, set aside any wild-shape form you are currently in. When travel form ends due to entering an encounter or taking 1 or more points of damage, you shift back into the wild shape form you set aside.
 
 # Sorcerer Upgrades
 
