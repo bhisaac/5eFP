@@ -1072,7 +1072,7 @@ The following upgrades provide an additional way to gain inspiration as a cooldo
 |**Cost**|**Feature**|**Details**|
 |2⛁|Jack of All Trades|Add +1 to nonproficient abilities|
 |2⛁|Song of Rest|You and your allies receive 1 point of healing at the end of a short rest|
-|3⛁|Magic|You gain +2 Mana and add +1 known spell from your class spell list|
+|3⛁|Magic|You start a game session with 4 Mana. You learn one spell from your class spell list.|
 |3⛁|Bard College|College of Lore|
 |3⛁|Expertise|...|
 
