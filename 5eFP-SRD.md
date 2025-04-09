@@ -1277,7 +1277,7 @@ The Circle of the Sun and Moon is made up of mystics who meditate and commune wi
 
 ### Circle of the Manyshaped
 
-The Circle of the Manyshaped are fierce wilderness protectors and powerful shapeshifters who embody and cultivate wisdom within the shapes of animals. They are fierce wilderness protectors. Their order gathers under the full moon to share news across the land and trade observations and insights. Their preferred way of doing this is with a flock of crows or ravens. They can be found in the deepest parts of the wild, where they spend long stretches of time living in a wild shape form as animals. Living, hunting, thinking, and sleeping as an animal. They do this to deepen their understanding of both the animal and the animal within themselves.
+The Circle of the Manyshaped are fierce wilderness protectors and powerful shapeshifters who embody and cultivate wisdom within the shapes of animals. Their order gathers under the full moon to share news across the land and trade observations and insights. Their preferred way of doing this is with a flock of crows or ravens. They can be found in the deepest parts of the wild, where they spend long stretches of time living in a wild shape form as animals. Living, hunting, thinking, and sleeping as an animal. They do this to deepen their understanding of both the animal and the animal within themselves.
 
 **_Improved Wild Shape_.** You can use wild shape without discarding your action. Your wild shape forms gain additional game features.
 
