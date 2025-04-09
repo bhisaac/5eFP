@@ -1065,6 +1065,24 @@ The following upgrades provide an additional way to gain inspiration as a cooldo
 |3⛁|Inspired Failure|You gain inspiration after resolving a critical failure|
 |3⛁|Inspired Support|If a game feature or effect helps you succeed when you would have otherwise failed, you gain inspiration at the end of your turn|
 
+# Barbarian Upgrades
+
+||||
+|-:|:-|:-|
+|**Cost**|**Feature**|**Details**|
+|2⛁|Reckless Attack|...|
+|2⛁|Danger Sense|You gain advantage to DEX checks vs. effects you can see|
+|2⛁|Primal Path|Path of the Berserker|
+|3⛁|Rage I|+1 rage/day|
+
+## Recless Attack
+
+You can throw aside all concern for defense to attack with fierce determination. When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you advantage on weapon attack rolls using STR during this turn, but attack rolls against you have advantage until your next turn.
+
+## Path of the Berserker
+
+For some barbarians, rage is a means to an end. The Path of the Berserker is a path of unleashed fury. You can go into a frenzy when you rage. If you do so, for the duration of your rage, you can make a single melee weapon attack after you take the Attack action. When your rage ends, you suffer one level of exhaustion (as described in Appendix PH-­A).
+
 # Bard Upgrades
 
 ||||
@@ -1236,7 +1254,7 @@ A turned creature must spend its turns trying to move as far away from you as it
 |-:|:-|:-|
 |**Cost**|**Feature**|**Details**|
 |2⛁|Wild Shape|...|
-|2⛁|Druid Circle|Circle of the Land, Circle of the Sun and Moon|
+|2⛁|Druid Circle|...|
 |3⛁|Magic|You gain +2 mana and add +1 known spell from the druid spell list.|
 
 ## Wild Shape (Rest 2)
@@ -1323,6 +1341,86 @@ The Circle of the Manyshaped are fierce wilderness protectors and powerful shape
 > **_Pounce._** Whenever you take the Attack action, move at least 3 squares in a line toward a creature, and hit it with a melee attack, it must succeed on a DC (14 + LEVEL) STR check or be knocked prone. If the creature is prone, you can make one melee attack against it.
 
 **_Travel_.** Your movement changes to double your speed. Once travel form is activated, the travel form can be reactivated on the exploration map anytime outside of an encounter until you Recall. When you reactivate travel form, set aside any wild-shape form you are currently in. When travel form ends due to entering an encounter or taking 1 or more points of damage, you shift back into the wild shape form you set aside.
+
+# Fighter Upgrades
+
+||||
+|-:|:-|:-|
+|**Cost**|**Feature**|**Details**|
+|2⛁|Action Surge|...|
+|3⛁|Martial Archetype|...|
+
+## Action Surge (Rest)
+
+You can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action on top of your regular action.
+
+## Martial Archetype
+
+You choose an archetype that you strive to emulate in your combat styles and techniques, such as Champion.
+
+### Champion
+
+The archetypal Champion focuses on the development of raw physical power honed to deadly perfection. Those who model themselves on this archetype combine rigorous training with physical excellence to deal devastating blows. Your weapon attacks score a critical hit on a roll of 19 or 20.
+
+# Monk Upgrades
+
+||||
+|-:|:-|:-|
+|**Cost**|**Feature**|**Details**|
+|2⛁|Ki|...|
+|3⛁|Prerequisite: Ki|You gain +1 ki|
+|2⛁|Unormored Movement|...|
+|3⛁|Monastic Tradition|...|
+|3⛁|Deflect Missiles|...|
+
+## Ki
+
+Your training allows you to harness the mystic energy of ki. Your access to this energy is represented by a number of ki points. You have 1 + LEVEL ki points.
+
+You can spend these points to fuel various ki features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind.
+
+When you spend a ki point, it is unavailable until you finish a rest or until the end of the game session, at the end of which you draw all of your expended ki back into yourself. You must spend half the rest meditating to regain your ki points. Once you spend 1 or more ki points, you cannot spend any more until the beginning of your next turn.
+
+Some of your ki features require your target to make an ability check to resist the feature’s effects. The ki DC is calculated as follows:
+
+**Ki DC** = 10 +  WIS
+
+**Flurry of Blows.** Immediately after you take the Attack action on your turn, you can spend 1 ki point to make two unarmed strikes.
+
+**Patient Defense.** You can spend 1 ki point to take the Dodge action on your turn without discarding your action.
+
+**Step of the Wind.** You can spend 1 ki point to take the Disengage or Dash action on your turn without discarding your action, and your jump distance is doubled for the turn.
+
+## Unarmored Movement
+
+Your speed increases by 2 while you are not wearing armor or wielding a shield.
+
+## Monastic Tradition
+
+You commit yourself to a monastic tradition, such as the Way of the Open Hand. Your tradition grants you features.
+
+### Way of the Open Hand
+
+Monks of the Way of the Open Hand are the ultimate masters of martial arts combat, whether armed or unarmed. They learn techniques to push and trip their opponents, manipulate ki to heal damage to their bodies, and practice advanced meditation that can protect them from harm.
+
+**Open Hand Technique.** You can manipulate your enemy’s ki when you harness your own. Whenever you hit a creature with one of the attacks granted by your Flurry of Blows, you can impose one of the following effects on that target:
+- It must succeed on a DEX check or be knocked prone.
+- It must make a STR check. If it fails, you can push it up to 3 squares away from you.
+- It can’t take reactions until the end of your next turn.
+
+## Deflect Missiles
+
+You can use your reaction to deflect or catch the piece of ammunition or missile when you are hit by a ranged weapon attack. When you do so, the damage you take from the attack is reduced by 1 + DEX + your level (minimum 0).
+
+If you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in one hand and you have at least one hand free. If you catch a missile in this way, you can spend 1 ki point to make a ranged attack with the weapon or piece of ammunition you just caught, as part of the same reaction. You make this attack with proficiency, regardless of your weapon proficiencies, and the missile counts as a monk weapon for the attack, which has a normal range of 4 squares and a long range of 12 squares.
+
+# Rogue Upgrades
+
+TBA
+
+# Ranger Upgrades
+
+TBA
 
 # Sorcerer Upgrades
 
@@ -1508,98 +1606,6 @@ If you lose your Tome of Secrets, you can perform a ceremony to receive a replac
 # Wizard Upgrades
 
 TBA
-
-# Rogue Upgrades
-
-TBA
-
-# Ranger Upgrades
-
-TBA
-
-# Barbarian Upgrades
-
-||||
-|-:|:-|:-|
-|**Cost**|**Feature**|**Details**|
-|2⛁|Reckless Attack|...|
-|2⛁|Danger Sense|You gain advantage to DEX checks vs. effects you can see|
-|2⛁|Primal Path|Path of the Berserker|
-|3⛁|Rage I|+1 rage/day|
-
-**_Recless Attack_.** You can throw aside all concern for defense to attack with fierce determination. When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you advantage on weapon attack rolls using STR during this turn, but attack rolls against you have advantage until your next turn.
-
-**_Path of the Berserker_.** For some barbarians, rage is a means to an end. The Path of the Berserker is a path of unleashed fury. You can go into a frenzy when you rage. If you do so, for the duration of your rage, you can make a single melee weapon attack after you take the Attack action. When your rage ends, you suffer one level of exhaustion (as described in Appendix PH-­A).
-
-# Fighter Upgrades
-
-||||
-|-:|:-|:-|
-|**Cost**|**Feature**|**Details**|
-|2⛁|Action Surge|...|
-|3⛁|Martial Archetype|...|
-
-> #### Action Surge
->> You can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action on top of your regular action.
->>
->> Once you use this feature, you must finish a rest before you can use it again. Starting at 17th level, you can use it twice before a rest, but only once on the same turn.
->>  
-> #### Martial Archetype
->> You choose an archetype that you strive to emulate in your combat styles and techniques, such as Champion. The archetype you choose grants you additional features.
->>
->>> **_Champion._** The archetypal Champion focuses on the development of raw physical power honed to deadly perfection. Those who model themselves on this archetype combine rigorous training with physical excellence to deal devastating blows. Your weapon attacks score a critical hit on a roll of 19 or 20.
-
-# Monk Upgrades
-
-||||
-|-:|:-|:-|
-|**Cost**|**Feature**|**Details**|
-|2⛁|Ki|...|
-|3⛁|Prerequisite: Ki|You gain +1 ki|
-|2⛁|Unormored Movement|...|
-|3⛁|Monastic Tradition|...|
-|3⛁|Deflect Missiles|...|
-
-## Ki
-
-Your training allows you to harness the mystic energy of ki. Your access to this energy is represented by a number of ki points. You have 1 + LEVEL ki points.
-
-You can spend these points to fuel various ki features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind.
-
-When you spend a ki point, it is unavailable until you finish a rest or until the end of the game session, at the end of which you draw all of your expended ki back into yourself. You must spend half the rest meditating to regain your ki points. Once you spend 1 or more ki points, you cannot spend any more until the beginning of your next turn.
-
-Some of your ki features require your target to make an ability check to resist the feature’s effects. The ki DC is calculated as follows:
-
-**Ki DC** = 10 +  WIS
-
-**Flurry of Blows.** Immediately after you take the Attack action on your turn, you can spend 1 ki point to make two unarmed strikes.
-
-**Patient Defense.** You can spend 1 ki point to take the Dodge action on your turn without discarding your action.
-
-**Step of the Wind.** You can spend 1 ki point to take the Disengage or Dash action on your turn without discarding your action, and your jump distance is doubled for the turn.
-
-## Unarmored Movement
-
-Your speed increases by 2 while you are not wearing armor or wielding a shield.
-
-## Monastic Tradition
-
-You commit yourself to a monastic tradition, such as the Way of the Open Hand. Your tradition grants you features.
-
-### Way of the Open Hand
-
-Monks of the Way of the Open Hand are the ultimate masters of martial arts combat, whether armed or unarmed. They learn techniques to push and trip their opponents, manipulate ki to heal damage to their bodies, and practice advanced meditation that can protect them from harm.
-
-**Open Hand Technique.** You can manipulate your enemy’s ki when you harness your own. Whenever you hit a creature with one of the attacks granted by your Flurry of Blows, you can impose one of the following effects on that target:
-- It must succeed on a DEX check or be knocked prone.
-- It must make a STR check. If it fails, you can push it up to 3 squares away from you.
-- It can’t take reactions until the end of your next turn.
-
-## Deflect Missiles
-
-You can use your reaction to deflect or catch the piece of ammunition or missile when you are hit by a ranged weapon attack. When you do so, the damage you take from the attack is reduced by 1 + DEX + your level (minimum 0).
-
-If you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in one hand and you have at least one hand free. If you catch a missile in this way, you can spend 1 ki point to make a ranged attack with the weapon or piece of ammunition you just caught, as part of the same reaction. You make this attack with proficiency, regardless of your weapon proficiencies, and the missile counts as a monk weapon for the attack, which has a normal range of 4 squares and a long range of 12 squares.
 
 # Alignment
 
