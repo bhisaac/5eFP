@@ -614,6 +614,10 @@ You gain a +1 bonus to attack rolls you make with ranged weapons.
 
 While you are wearing armor, you gain a +1 bonus to Defense.
 
+### Blind Fighting
+
+You gain blindsight 2 whenever your vision is obscured.
+
 ### Great Weapon Fighting
 
 Whenever you attack and miss with a melee weapon you are wielding with two hands, you may reroll the attack once and must use the new roll. The weapon must have the two-handed property for you to gain this benefit.
@@ -1426,31 +1430,61 @@ If you reduce the damage to 0, you can catch the missile if it is small enough f
 
 ### Archery
 
+You gain a +1 bonus to attack rolls you make with ranged weapons.
+
 ### Blind Fighting
 
-You gain blindsight out to 2 squares whenever your vision is obscured.
+You gain blindsight 2 whenever your vision is obscured.
 
 ### Defense
 
-### Druidic Warrior
+While you are wearing armor, you gain a +1 bonus to Defense.
+
+### Warden
 
 You learn two druid cantrips of your choice.
 
 ## Spellcasting
 
+You have learned to use the magical essence of nature to cast spells, much as a druid does.
+
 ### Mana
+
+You begin a game session with 2 mana. To cast one of your spells, you must spend an amount of mana equal to the spell’s level or higher.
+
+For example, if you know the 1st-level spell _cure wounds_ and have 2 mana, you can spend 1 mana to cast _cure wounds_ as a 1st-level spell or 2 mana to cast it as a 2nd-level spell.
 
 ### Spells Known
 
+You know WIS spells of your choice from the ranger spell list.
+
+Whenever you purchase a Magic upgrade, you can choose one of the ranger spells you know and replace it with another spell from the ranger spell list that you can cast.
+
 ### Spellcasting Ability
+
+Wisdom (WIS) is your spellcasting ability for your ranger spells, since your magic draws on your attunement to nature. You use your WIS whenever a spell refers to your spellcasting ability. In addition, you use your WIS when setting the DC for a ranger spell you cast and when making an attack roll with one.
+
+**Spell DC** = 10 + WIS
+
+**Spell attack modifier** = 2 + WIS
 
 ## Ranger Archetype
 
+You choose an archetype that you strive to emulate, such as the Hunter.
+
 ### Hunter
+
+Emulating the Hunter archetype means accepting your place as a bulwark between civilization and the terrors of the wilderness. As you walk the Hunter’s path, you learn specialized techniques for fighting the threats you face, from rampaging ogres and hordes of orcs to towering giants and terrifying dragons.
+
+You gain one of the following features of your choice:
+
+- **_Colossus Slayer_.** Your tenacity can wear down the most potent foes. Once per turn, whenever you take the Attack action and hit a creature that is not at MAX Wounds with a weapon attack, the creature takes +1 damage.
+- **_Giant Killer_ (Reaction).** When a Large or larger creature within 1 square you hits or misses you with an attack, you can attack that creature immediately after its attack, provided that you can see the creature.
+- **_Horde Breaker_.** When you take the Attack action, you can make another attack with the same weapon against a different creature that is within 1 square of the original target and within range of your weapon.
 
 ## Primeval Awareness (Encounter, Action)
 
-TBA
+You spend 1 mana to focus your awareness on the region around you. For the rest of the encounter, you can sense whether the following types of creatures are present on the map: aberrations, celestials, dragons, elementals, fey, fiends, and undead. This feature doesn’t reveal the creatures’ location or number.
 
 # Rogue Upgrades
 
