@@ -860,11 +860,13 @@ Charisma (CHA) is your spellcasting ability for your sorcerer spells, since the 
 
 Choose a sorcerous origin, which describes the source of your innate magical power, such as Draconic Bloodline. Your choice grants you additional features.
 
-### Draconic Bloodline
+## Draconic Bloodline
 
 Your innate magic comes from draconic magic that was mingled with your blood or that of your ancestors. Most often, sorcerers with this origin trace their descent back to a mighty sorcerer of ancient times who made a bargain with a dragon or who might even have claimed a dragon parent. Some of these bloodlines are well established in the world, but most are obscure. Any given sorcerer could be the first of a new bloodline, as a result of a pact or some other exceptional circumstance.
 
-**_Dragon Ancestor_.** Choose one type of dragon as your ancestor. The damage type associated with each dragon is used by features you gain later. You can speak, read, and write Draconic. Additionally, you gain advantage on CHA checks while interacting with dragons.
+### Dragon Ancestor
+
+Choose one type of dragon as your ancestor. The damage type associated with each dragon is used by features you gain later. You can speak, read, and write Draconic. Additionally, you gain advantage on CHA checks while interacting with dragons.
 
 **Draconic	Ancestry**
 | Dragon | Damage	Type |
@@ -880,7 +882,9 @@ Your innate magic comes from draconic magic that was mingled with your blood or 
 | Silver | Cold |
 | White | Cold |
 
-**_Draconic Resilience_.** As magic flows through your body, it causes physical traits of your dragon ancestors to emerge. Your MAX wounds increases by +1. Additionally, parts of your skin are covered by a thin sheen of dragon-like scales. As long as you have no armor equipped, you gain the benefits of wearing light armor.
+### Draconic Resilience
+
+As magic flows through your body, it causes the physical traits of your dragon ancestors to emerge. Your MAX wounds increases by +1. Additionally, parts of your skin are covered by a thin sheen of dragon-like scales. As long as you have no armor equipped, you gain the benefits of wearing light armor.
 
 # Warlock
 
@@ -943,11 +947,13 @@ The beings that serve as patrons for warlocks are mighty inhabitants of other pl
 
 Some patrons collect warlocks, doling out mystic knowledge relatively freely or boasting of their ability to bind mortals to their will. Other patrons bestow their power only grudgingly and might make a pact with only one warlock. Warlocks who serve the same patron might view each other as allies, siblings, or rivals.
 
-### The Primordial
+## The Primordial
 
 You have made a pact with a powerful elemental from within the Primordial Chaos, the home plane of existence for all elementals. Your primordial patron is strictly neutral in outlook and temperament, swayed only by their attunement to a specific elemental quality. Earth tends to be steady, tenacious, and indomitable. Water tends to be flexible and aware. Fire tends to be activating, charged, and focused. Air tends to be expansive and mobile. Primordials rarely involve themselves in mortal affairs or circumstances unless the elemental balance is threatened somehow. Such beings desire the propagation of the elements and their elemental outlook upon the prime material plane through you, their chosen vessel. Primordials powerful enough to forge a pact and their preferred elemental outlook include Phoneix (fire), Leviathan (water), Zaratan (earth), and Elder Tempest (air).
 
-**_Expanded Spell List_.** The Primordial lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
+### Expanded Spell List
+
+The Primordial lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
 
 |||
 |:-:|:-:|
@@ -963,7 +969,9 @@ You have made a pact with a powerful elemental from within the Primordial Chaos,
 |Paragon|Control Weather, Incendiary Cloud|
 |Epic|Gate, Prismatic Wall|
 
-**_Elemental Attunement_.** Your patron bestows you the ability to adapt elemental energies within the spells you cast from the Primordial expanded spell list. Whenever you cast a spell from the Primordial expanded spell list that deals energy damage, you may choose to replace the energy type with the type preferred by your patron (Phoenix: fire, Laviathon: cold, Zaraton: acid, and Elder Tempest: lightning).
+### Elemental Attunement
+
+Your patron bestows you the ability to adapt elemental energies within the spells you cast from the Primordial expanded spell list. Whenever you cast a spell from the Primordial expanded spell list that deals energy damage, you may choose to replace the energy type with the type preferred by your patron (Phoenix: fire, Laviathon: cold, Zaraton: acid, and Elder Tempest: lightning).
 
 Spells affected by this feature lose any secondary effects. For example, a cold _fireball_ no longer ignites combustibles within the spell's area of effect. Similarly, an acid _thunderwave_ does not push creatures or unsecured objects and no longer generates a thunderous boom.
 
@@ -1054,7 +1062,7 @@ As you go on adventures and overcome challenges, you gain experience, represente
 
 Once you reach level 4, the game state changes. You gain a level once all areas in the current level of play are explored and resolved. Level 4 areas are located one floor above or below level 1 footholds and in the unresolved footholds found in level 1 world map tiles. Similarly, level 5 areas are located one floor above or below level 2 footholds and in the unresolved footholds found in level 2 world map tiles. Level 6 areas are located one floor above or below level 3 footholds and in the unresolved footholds found in level 3 world map tiles. Level 7 areas are located two floors above or below level 1 footholds.
 
-While at HQ, you can spend ⛁ to purchase background, species, class, or other upgrades for your character. The upgrade descriptions below detail these additional game features. You can only purchase an upgrade once unless otherwise indicated in its description.
+While at HQ, you can spend ⛁ to purchase background, species, class, or other upgrades for your character. The upgrade descriptions below detail these additional game features. You can only purchase an upgrade once unless otherwise indicated in its description. An upgrade detail with three dots means its details are provided in the feature's description. If an upgrade grants a game feature your character already has, the upgraded version replaces it.
 
 Whenever your level increases, you also increase your MAX wounds by +1.
 
@@ -1095,9 +1103,9 @@ For some barbarians, rage is a means to an end. The Path of the Berserker is a p
 |-:|:-|:-|
 |**Cost**|**Feature**|**Details**|
 |2⛁|Jack of All Trades|Add +1 to nonproficient abilities|
-|2⛁|Song of Rest|You and your allies receive 1 point of healing at the end of a short rest|
+|2⛁|Song of Rest|You and your allies discard up to 1 wound when completing a rest|
 |3⛁|Magic|You start a game session with 4 Mana. You learn one spell from your class spell list.|
-|3⛁|Bard College|College of Lore|
+|3⛁|Bard College|...|
 |3⛁|Expertise|...|
 
 ## Bard College
@@ -1142,7 +1150,7 @@ Some Channel Divinity effects require ability checks. When you use such an effec
 
 ### Turn Undead (Encounter, Action)
 
-You discard your action and present your holy symbol, speaking a prayer that censures undead. Each undead that can see or hear you within 6 squares of you must make a WIS check. If the creature fails its check, it is turned for the rest of the encounter or until it takes any damage.
+You present your holy symbol, speaking a prayer that censures undead. Each undead that can see or hear you within 6 squares of you must make a WIS check. If the creature fails its check, it is turned for the rest of the encounter or until it takes any damage.
 
 A turned creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 6 squares of you. It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.
 
