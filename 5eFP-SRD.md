@@ -1052,6 +1052,8 @@ If you lose your spellbook, you can use the same procedure to transcribe the spe
 
 As you go on adventures and overcome challenges, you gain experience, represented by ⛁. When all world map tiles in the current level of play are explored, the next level of play on the world map unlocks, and you advance to the next level. This is called gaining a level.
 
+Once you reach level 4, the game state changes. You gain a level once all areas in the current level of play are explored and resolved. Level 4 areas are located one floor above or below level 1 footholds and in the unresolved footholds found in level 1 world map tiles. Similarly, level 5 areas are located one floor above or below level 2 footholds and in the unresolved footholds found in level 2 world map tiles. Level 6 areas are located one floor above or below level 3 footholds and in the unresolved footholds found in level 3 world map tiles. Level 7 areas are located two floors above or below level 1 footholds.
+
 While at HQ, you can spend ⛁ to purchase background, species, class, or other upgrades for your character. The upgrade descriptions below detail these additional game features. You can only purchase an upgrade once unless otherwise indicated in its description.
 
 Whenever your level increases, you also increase your MAX wounds by +1.
