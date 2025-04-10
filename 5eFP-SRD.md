@@ -1519,7 +1519,7 @@ TBA
 |-:|:-|:-|
 |**Cost**|**Feature**|**Details**|
 |2⛁|Font of Magic|...|
-|3⛁|Magic|You gain +2 Mana and add +1 known spell from your class spell list.|
+|3⛁|Magic|You begin a game session with 4 mana. You learn one spell from the sorcerer spell list.|
 |3⛁|Metamagic|...|
 
 ## Font of Magic
@@ -1587,7 +1587,7 @@ To be eligible, a spell must be incapable of targeting more than one creature at
 |-:|:-|:-|
 |**Cost**|**Feature**|**Details**|
 |2⛁|Eldritch Invocations|...|
-|3⛁|Magic|You gain one additional use of your Pact Magic feature between rests and add +1 known spell from the warlock spell list.|
+|3⛁|Magic|You gain Pact Magic (Rest 2). Add +1 known spell from the warlock spell list.|
 |3⛁|Pact Boon|...|
 
 ## Eldritch Invocations
