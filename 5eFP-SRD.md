@@ -392,7 +392,7 @@ For example, if you know the 1st-level spell _cure wounds_ and have 2 mana, you 
 
 ### Spells Known
 
-You know CHA 1st-level spells from the bard spell list.
+You know CHA (minimum 1) 1st-level spells from the bard spell list.
 
 Whenever you purchase a Magic upgrade, you can choose one of the bard spells you know and replace it with another spell from the bard spell list that you can cast.
 
@@ -462,7 +462,7 @@ For example, if you know the 1st-level spell _cure wounds_ and have 2 mana, you 
 
 ### Spells Known
 
-You know WIS 1st-level spells from the cleric spell list.
+You know WIS (minimum 1) 1st-level spells from the cleric spell list.
 
 Whenever you purchase a Magic upgrade, you can choose one of the cleric spells you know and replace it with another spell from the cleric spell list that you can cast.
 
@@ -559,7 +559,7 @@ For example, if you know the 1st-level spell _cure wounds_ and have 2 mana, you 
 
 ### Spells Known
 
-You know WIS 1st-level spells from the druid spell list.
+You know WIS (minimum 1) 1st-level spells from the druid spell list.
 
 Whenever you purchase a Magic upgrade, you can choose one of the druid spells you know and replace it with another spell from the druid spell list that you can cast.
 
@@ -844,7 +844,7 @@ For example, if you know the 1st-level spell _burning hands_ and have 2 mana, yo
 
 ### Spells Known
 
-You know CHA 1st-level spells from the sorcerer spell list.
+You know CHA (minimum 1) 1st-level spells from the sorcerer spell list.
 
 Whenever you purchase a Magic upgrade, you can choose one of the sorcerer spells you know and replace it with another spell from the sorcerer spell list that you can cast.
 
@@ -925,7 +925,7 @@ You know two cantrips of your choice from the warlock spell list.
 
 ### Spells Known
 
-You know CHA 1st-level spells of your choice from the warlock spell list.
+You know CHA (minimum 1) 1st-level spells of your choice from the warlock spell list.
 
 Whenever you purchase a Magic upgrade, you can choose one of the warlock spells you know and replace it with another spell from the warlock spell list that you can cast.
 
@@ -1008,7 +1008,7 @@ For example, if you know the 1st-level spell _magic missile_ and have 2 mana, yo
 
 ### Spells Known
 
-You know 2 + INT 1st-level spells from the wizard spell list.
+You know 2 + INT (minimum 1) 1st-level spells from the wizard spell list.
 
 Whenever you purchase a Magic upgrade, you can choose one spell of your choice from the wizard spell list that you can cast and add it to your spellbook for free. On your adventures, you might find other spells that you can add to your spellbook (see the “Your Spellbook” sidebar).
 
@@ -1184,7 +1184,7 @@ For example, if you know the 1st-level spell _cure wounds_ and have 2 mana, you 
 
 ### Spells Known
 
-You know CHA 1st-level spells from the paladin spell list.
+You know CHA (minimum 1) 1st-level spells from the paladin spell list.
 
 Whenever you purchase a Magic upgrade, you can choose one of the paladin spells you know and replace it with another spell from the paladin spell list that you can cast.
 
@@ -1259,7 +1259,7 @@ A turned creature must spend its turns trying to move as far away from you as it
 |**Cost**|**Feature**|**Details**|
 |2⛁|Wild Shape|...|
 |2⛁|Druid Circle|...|
-|3⛁|Magic|You gain +2 mana and add +1 known spell from the druid spell list.|
+|3⛁|Magic|You begin a game session with 4 mana. You learn one spell from the druid spell list.|
 
 ## Wild Shape (Rest 2)
 
@@ -1426,7 +1426,18 @@ If you reduce the damage to 0, you can catch the missile if it is small enough f
 
 # Ranger Upgrades
 
+||||
+|-:|:-|:-|
+|**Cost**|**Feature**|**Details**|
+|2⛁|Fighting Style|...|
+|2⛁|Spellcasting|...|
+|3⛁|Ranger Archetype|...|
+|3⛁|Primeval Awareness|...|
+|3⛁|Magic|You begin a game session with 3 mana. You learn one spell from the ranger spell list.|
+
 ## Fighting Style
+
+You adopt a particular style of fighting as your specialty. Choose one of the following options. You can’t take a Fighting Style option more than once, even if you later get to choose again.
 
 ### Archery
 
@@ -1456,7 +1467,7 @@ For example, if you know the 1st-level spell _cure wounds_ and have 2 mana, you 
 
 ### Spells Known
 
-You know WIS spells of your choice from the ranger spell list.
+You know WIS (minimum 1) 1st-level spells from the ranger spell list.
 
 Whenever you purchase a Magic upgrade, you can choose one of the ranger spells you know and replace it with another spell from the ranger spell list that you can cast.
 
@@ -1479,12 +1490,14 @@ Emulating the Hunter archetype means accepting your place as a bulwark between c
 You gain one of the following features of your choice:
 
 - **_Colossus Slayer_.** Your tenacity can wear down the most potent foes. Once per turn, whenever you take the Attack action and hit a creature that is not at MAX Wounds with a weapon attack, the creature takes +1 damage.
-- **_Giant Killer_ (Reaction).** When a Large or larger creature within 1 square you hits or misses you with an attack, you can attack that creature immediately after its attack, provided that you can see the creature.
+- **_Giant Killer_ (Reaction).** When a Large or larger creature within 1 square of you hits or misses you with an attack, you can attack that creature immediately after its attack, provided that you can see the creature.
 - **_Horde Breaker_.** When you take the Attack action, you can make another attack with the same weapon against a different creature that is within 1 square of the original target and within range of your weapon.
 
 ## Primeval Awareness (Encounter, Action)
 
-You spend 1 mana to focus your awareness on the region around you. For the rest of the encounter, you can sense whether the following types of creatures are present on the map: aberrations, celestials, dragons, elementals, fey, fiends, and undead. This feature doesn’t reveal the creatures’ location or number.
+Being a ranger means you are mystically connected to the land and to those who dwell upon it. You have an innate ability to communicate with beasts, and they recognize you as a kindred spirit. Through sounds and gestures, you can communicate simple ideas to a beast and can read its basic mood and intent. You learn its emotional state, whether it is affected by magic of any sort, its short-term needs (such as food or safety), and actions you can take (if any) to persuade it not to attack. You cannot use this ability against a creature you attacked during the encounter.
+
+~~You spend 1 mana to focus your awareness on the region around you. For the rest of the encounter, you can sense whether the following types of creatures are present on the map: aberrations, celestials, dragons, elementals, fey, fiends, and undead. This feature doesn’t reveal the creatures’ location or number.~~
 
 # Rogue Upgrades
 
