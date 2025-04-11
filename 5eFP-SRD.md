@@ -334,7 +334,7 @@ You start with the following equipment, in addition to the equipment granted by 
 - (*a*) handaxes or (*b*) any simple weapon
 - An explorer's pack and javelins
 
-## Rage (Cooldown 2)
+## Rage (Encounter, Cooldown 2)
 
 In battle, you fight with primal ferocity. When you take the Attack action on your turn, you can choose to first enter into a rage for the rest of the encounter.
 
@@ -1087,7 +1087,7 @@ The following upgrades provide an additional way to gain inspiration as a cooldo
 |2⛁|Reckless Attack|...|
 |2⛁|Danger Sense|You gain advantage to DEX checks vs. effects you can see|
 |2⛁|Primal Path|Path of the Berserker|
-|3⛁|Rage|You gain Rage (Cooldown 3)|
+|3⛁|Rage|You gain Rage (Encounter, Cooldown 3)|
 
 ## Recless Attack
 
@@ -4323,7 +4323,7 @@ Elite creatures within an encounter can be further customized with healer, mage,
 ### Healer Template
 - MAX Wounds +1
 - Defense +1
-- Action: target a creature within 6 squares. For the rest of the encounter, if the target is assigned 1 or more points of damage, reduce that damage by 1. If another friendly creature is within 6 squares of the target, move this beneficial effect onto it at the end of the turn, favoring the target with more wounds. The elite can use this feature once per encounter.
+- Action, Cooldown: target a creature within 6 squares. For the rest of the encounter, if the target is assigned 1 or more points of damage, reduce that damage by 1. If another friendly creature is within 6 squares of the target, move this beneficial effect onto it at the end of the turn, favoring the target with more wounds.
 
 ### Scoundrel Template
 - MAX Wounds +1
