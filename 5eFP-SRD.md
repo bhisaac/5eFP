@@ -3891,19 +3891,13 @@ This awareness lasts until the beginning of your next turn and can penetrate mos
 
 ### Acid Arrow
 
-_2nd-level evocation_
-
-**Casting Time:** 1 action
-
-**Range:** LOS
-
-**Components:** V, S
-
-**Duration:** Instantaneous
+- _2nd-level evocation_
+- **Range:** LOS
+- **Components:** V, S
 
 A shimmering green arrow streaks toward a target within range and bursts in a spray of acid. Make a ranged spell attack against the target. On a hit, the target takes 1 acid damage immediately and 1 acid damage at the end of its next turn.
 
-**At Higher Levels.** When you cast this at a higher level, the damage (both initial and later) increases by +1 for each level above 2nd.
+**At Higher Levels.** When you cast this at a higher level, the initial damage (both initial and later) increases by +1 for each level above 2nd.
 
 #### Acid Splash
 |_Conjuration cantrip_|
