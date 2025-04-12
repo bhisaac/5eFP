@@ -4168,12 +4168,13 @@ To discern that you are disguised, a creature can discard its action to inspect 
 |**At Higher Levels.** When you cast this spell at 2nd level or higher, your bolster increases by +1 for each spell level above 1st.|
 
 #### Find Familiar (Cooldown)
-|_1st-level conjuration (ritual)_|
+||
 |:-|
+|_1st-level conjuration (ritual)_|
 |**Casting Time:** 1 action|
-|**Range:** Self|
+|**Range:** 2 squares|
 |**Components:** V,S|
-|**Duration:** Encounter|
+|**Duration:** Instantaneous|
 ||
 |You gain the service of a familiar, a spirit that takes the form of a critter with preternatural traits. Appearing in an unoccupied space within range, the familiar has the statistics of a minion unless otherwise indicated in its description in addition to the chosen form, though it is a celestial, fey, or elemental (your choice) instead of a beast. Your familiar's DEX checks for stealth and WIS checks related to perception gain advantage. Choose the familiar's form:|
 |**_Amphibian_.** Your familiar takes the form of a frog or salamander. Your familiar breathes water and gains a swim speed of 6 squares.|
