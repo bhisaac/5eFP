@@ -4175,8 +4175,8 @@ To discern that you are disguised, a creature can discard its action to inspect 
 |**Range:** 2 squares|
 |**Components:** V,S|
 |**Duration:** Instantaneous|
-
-You gain the service of a familiar, a spirit that takes the form of a critter with preternatural traits. Appearing in an unoccupied space within range, the familiar has the statistics of a minion unless otherwise indicated in its description in addition to the chosen form, though it is a celestial, fey, or elemental (your choice) instead of a beast. Your familiar's DEX checks for stealth and WIS checks related to perception gain advantage. Choose the familiar's form:
+||
+|You gain the service of a familiar, a spirit that takes the form of a critter with preternatural traits. Appearing in an unoccupied space within range, the familiar has the statistics of a minion unless otherwise indicated in its description in addition to the chosen form, though it is a celestial, fey, or elemental (your choice) instead of a beast. Your familiar's DEX checks for stealth and WIS checks related to perception gain advantage. Choose the familiar's form:
 
 - **_Amphibian_.** Your familiar takes the form of a frog or salamander. Your familiar breathes water and gains a swim speed of 6 squares.
 - **_Aquatic_.** Your familiar either takes the form of a fish or octopus. Your familiar disappears if it spends more than 1 round outside of a body of water. It breathes water and gains a swim speed of 12 squares.
@@ -4196,7 +4196,7 @@ While your familiar is on the same map, you can communicate with it telepathical
 
 You can't have more than one familiar at a time. If you cast this spell while you already have a familiar, you instead cause it to adopt a new form. Choose one of the forms from the above list. Your familiar transforms into the chosen critter.
 
-Finally, when you cast a spell with a range of touch, your familiar can deliver the spell as if it had cast the spell. Your familiar must be within 100 feet of you, and it must use its reaction to deliver the spell when you cast it. If the spell requires an attack roll, you use your attack modifier for the roll.
+Finally, when you cast a spell with a range of touch, your familiar can deliver the spell as if it had cast the spell. Your familiar must be within 100 feet of you, and it must use its reaction to deliver the spell when you cast it. If the spell requires an attack roll, you use your attack modifier for the roll.|
 
 ### Spells (G)
 
