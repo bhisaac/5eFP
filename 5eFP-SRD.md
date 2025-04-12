@@ -128,7 +128,11 @@ The description of each species includes species traits that are common to membe
 
 ### Ability Score Increase
 
-Every species increases one character’s ability score by +1. Most species also grant another improved ability score that gains an additional +1 if you assign a +1 or greater score during character creation.
+Every species increases one character’s ability score by +1.
+
+### Favored Ability
+
+Most species also grant another favored ability score that gains an additional +1 if you assign a +1 or greater score during character creation.
 
 ### Age
 
@@ -184,7 +188,7 @@ Your dwarf character has an assortment of inborn abilities, part and parcel of d
 
 As a hill dwarf, you have keen senses, deep intuition, and remarkable resilience.
 
-**Ability Score Increase.** If you assign a +1 or greater to your Wisdom score (WIS) during character creation, increase your WIS by an additional +1.
+**Favored Ability Score.** Wisdom (WIS)
 
 **Dwarven Toughness**. Your MAX wounds increase by +1.
 
@@ -222,7 +226,7 @@ Your elf character has a variety of natural abilities, a result of thousands of 
 
 As a high elf, you have strong ties to nature and magic. In many fantasy gaming worlds, there are two kinds of high elves. One type is haughty and reclusive, believing themselves to be superior to non-elves and even other elves. The other type is more common and more friendly, and often encountered among humans and other species.
 
-**Ability Score Increase.** If you assign a +1 or greater to your Intelligence score (INT) during character creation, increase your INT by an additional +1.
+**Favored Ability Score.** Intelligence (INT)
 
 **Elf Weapon Training.** You have proficiency with the longsword, shortsword, shortbow, and longbow.
 
@@ -235,7 +239,7 @@ As a high elf, you have strong ties to nature and magic. In many fantasy gaming 
 
 As a wood elf, you have deep awareness and intuition, and your attunement to nature carries you quickly and stealthily through natural terrain. Wood elves tend to be reclusive and distrustful of non-elves.
 
-**Ability Score Increase.** If you assign a +1 or greater to your Wisdom score (WIS) during character creation, increase your WIS by an additional +1.
+**Favored Ability Score.** Wisdom (WIS)
 
 **Elf Weapon Training.** You have proficiency with the longsword, shortsword, shortbow, and longbow.
 
@@ -273,7 +277,7 @@ As a lightfoot halfling, you can easily hide from notice, even using other peopl
 
 Lightfoots are more prone to wanderlust than other halflings, and often dwell alongside other species or take up a nomadic life.
 
-**Ability Score Increase.** If you assign a +1 or greater to your Charisma score (CHA) during character creation, increase your CHA by an additional +1.
+**Favored Ability Score.** Charisma (CHA)
 
 **Naturally Stealthy.** You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you.
 
