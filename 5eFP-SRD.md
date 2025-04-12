@@ -130,7 +130,7 @@ The description of each species includes species traits that are common to membe
 
 Every species increases one character’s ability score by +1.
 
-### Favored Ability
+### Favored Ability Score
 
 Most species also grant another favored ability score that gains an additional +1 if you assign a +1 or greater score during character creation.
 
