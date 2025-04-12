@@ -4188,7 +4188,6 @@ To discern that you are disguised, a creature can discard its action to inspect 
 When the familiar reaches MAX Wounds, it disappears, leaving behind no physical form. It reappears in an unoccupied space within 1 square of you after you cast this spell again.
 
 While your familiar is on the same map, you can communicate with it telepathically and you gain the following game features:
-
 - **_Familiar Sight (Action)_.** You see through your familiar's eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses that the familiar has. During this time, you are deaf and blind with regard to your own senses. You can continue to discard your action at the start of each of your turns to extend this duration an additional turn.
 - **_Dismiss Familiar (Action)_.** You temporarily dismiss your familiar. It disappears into a pocket dimension where it awaits your summons. Alternatively, you can dismiss it forever. While dismissed, you may discard your action to cause it to reappear in any unoccupied space within 6 squares of you.
 
