@@ -3886,17 +3886,20 @@ This awareness lasts until the beginning of your next turn and can penetrate mos
 |astral projection, foresight, gate, imprisonment, meteor swarm, power word kill, prismatic wall, shapechange, time stop, true polymorph, weird, wish|
 
 ## Spell Descriptions
-### Spells (A)
-#### Acid Arrow
+
+## Spells (A)
+
+### Acid Arrow
 |_2nd-level evocation_|
 |:-|
 |**Casting Time:** 1 action|
 |**Range:** 18|
 |**Components:** V, S, M (powdered rhubarb leaf and an adder's stomach)|
 |**Duration:** Instantaneous|
-||
-|A shimmering green arrow streaks toward a target within range and bursts in a spray of acid. Make a ranged spell attack against the target. On a hit, the target takes 1 acid damage immediately and 1 acid damage at the end of its next turn.|
-|**At Higher Levels.** When you cast this at a higher level, the damage (both initial and later) increases by +1 for each level above 2nd.|
+
+A shimmering green arrow streaks toward a target within range and bursts in a spray of acid. Make a ranged spell attack against the target. On a hit, the target takes 1 acid damage immediately and 1 acid damage at the end of its next turn.
+
+**At Higher Levels.** When you cast this at a higher level, the damage (both initial and later) increases by +1 for each level above 2nd.
 
 #### Acid Splash
 |_Conjuration cantrip_|
