@@ -3533,11 +3533,11 @@ Each spell description begins with a block of information, including the spell�
 
 ### Casting Time
 
-Most spells have a casting time of 1 action or 1 reaction, which requires you to discard your action or reaction to cast respectively. Some spells have an instantaneous casting time and do not require you to discard your action or reaction to cast the spell.
+Some spells use the Cast a Spell action differently. When this happens, the spell will include a casting time. For example, the _healing word_ spell has a casting time of instant. This means you do not discard your action to take the Cast a Spell action to cast the spell. If a spell's casting time is listed as 1 reaction, you discard your reaction instead of your action when taking the Cast a Spell action.
 
 #### Casting Multiple Spells During Your Turn
 
-During your turn, if you take the Cast a Spell action to cast a spell that doesn't discard your action, you can take the Cast a Spell action again, but you can only cast a cantrip with a casting time of 1 action.
+If you take the Cast a Spell action on your turn without discarding your action, you can take the Cast a Spell action one additional time during the same turn, but you can only cast a cantrip, and you discard your action, even if the spell uses a different casting time.
 
 #### Reactions
 
@@ -3545,7 +3545,7 @@ Some spells can be cast as reactions. These spells take a fraction of a second t
 
 #### Longer Casting Times
 
-Certain spells (including spells cast as rituals) require more time to cast. Ritual spells can only be cast outside of an encounter. More powerful spells or spells with long casting times can only be cast once per game session and may require you to be at HQ to cast. Other spells can only be cast when completing a downtime round. These spells may take hours or even a day to cast. If the location where you spend a downtime round loses HQ protection, you lose the spell without expending mana. You must use another downtime round at a location with HQ protection to cast it again.
+Certain spells (including spells cast as rituals) require more time to cast. Ritual spells can only be cast outside of an encounter. Spells with a casting time of Rest can only be cast during a rest. Some spells can only be cast at HQ or when completing a downtime round, listed as HQ or Downtime, respectively. These spells may take hours or even a day to cast. If the location where you spend a downtime round loses HQ protection, you lose the spell without expending mana. You must use another downtime round at a location with HQ protection to cast it again.
 
 ### Cooldown
 
@@ -3575,30 +3575,28 @@ Spellcasting gestures might include a forceful gesticulation or an intricate set
 
 ### Duration
 
-A spell’s duration is the length of time the spell persists. A duration can be the length of an encounter, instantaneous, or until the PCs recall back to HQ. Some spells specify that their effects last until the spells are dispelled or destroyed.
+A spell’s duration is the length of time the spell persists. Most spells have an instantaneous duration. Spells with longer durations have a duration section. Longer durations include encounter and Recall. Some spells specify that their effects last until they are dispelled or destroyed. These spells also end when the game session ends.
 
 #### Encounter
 
-A number of spells have durations longer than an instant but shorter than a game session. These spells persist for the length of an encounter. Whenever you cast these spells while on the overland map, their effects remain as long as you do not change maps. If you change maps due to an encounter or by entering a foothold, the spell's duration ends when the encounter or foothold completes either in success or failure.
+A number of spells have durations longer than an instant but shorter than a game session. These spells persist for the length of an encounter.
 
 #### Instantaneous
 
-Many spell durations are instantaneous. The spell harms, heals, creates, or alters a creature or an object in a way that can’t be dispelled, because its magic exists only for an instant.
+Most spell durations are instantaneous. The spell harms, heals, creates, or alters a creature or an object in a way that can’t be dispelled because its magic exists only for an instant. A spell without a listed duration has an instantaneous duration.
 
 #### Recall
 
-Some spells have lingering effects. A spell with a duration of recall lasts until Recall.
-
-> A recall is a special ritual any PC can complete that can only be performed outside of an encounter. Once one or more PCs complete the recall ritual, all players Recall, returning to the map room at HQ. PCs automatically recall after 8 hours have elapsed since deploying.
+Some spells have lingering effects that last well beyond an encounter but less than a day. Such a spell lasts until Recall.
 
 ### Concentration
 
-Spells with durations longer than instantaneous require you to maintain concentration in order to keep their magic active. If you lose concentration, such a spell ends.
+Most spells with durations longer than instantaneous require you to maintain concentration to keep their magic active, as indicated with the concentration keyword. If you lose concentration on a spell, it ends.
 
 You can end concentration at any time (no action required).
 
 Normal activity, such as moving and attacking, doesn’t interfere with concentration. The following factors can break concentration:
-- **Casting another spell with a duration longer than instantaneous.** You lose concentration on a spell if you cast another spell that requires concentration. You can’t concentrate on two spells at once.
+- **Casting another spell with the concentration keyword.** You lose concentration on a spell if you cast another spell with the concentration keyword. You can’t concentrate on two spells at once.
 - **Being incapacitated or killed.** You lose concentration on a spell if you are incapacitated or if you die.
 
 ### Targets
@@ -3895,19 +3893,17 @@ This awareness lasts until the beginning of your next turn and can penetrate mos
 - **Range:** LOS
 - **Components:** V, S
 
-A shimmering green arrow streaks toward a target within range and bursts in a spray of acid. Make a ranged spell attack against the target. On a hit, the target takes 1 acid damage immediately and 1 acid damage at the end of its next turn.
+A shimmering green arrow streaks toward a target within range and bursts in a spray of acid. Make a ranged spell attack against the target. On a hit, the target takes 1 acid damage immediately and 1 acid damage at the end of its next turn. On a miss, the arrow splashes the target with acid for half as much of the initial damage and no damage at the end of its next turn.
 
 **At Higher Levels.** When you cast this at a higher level, the initial damage (both initial and later) increases by +1 for each level above 2nd.
 
 #### Acid Splash
-|_Conjuration cantrip_|
-|:-|
-|**Casting Time:** 1 action|
-|**Range:** 12|
-|**Components:** V, S|
-|**Duration:** Instantaneous|
-||
-|You hurl a bubble of acid. Choose one creature within range, or choose two creatures within range that are within 1 square of each other. A target must succeed on a DEX check or take 1 acid damage.|
+
+- _Conjuration cantrip_
+- **Range:** 12
+- **Components:** V, S
+
+You hurl a bubble of acid. Choose one creature within range, or choose two creatures within range that are within 1 square of each other. A target must succeed on a DEX check or take 1 acid damage.
 
 #### Aid
 |_2nd-level abjuration_|
@@ -3923,7 +3919,7 @@ A shimmering green arrow streaks toward a target within range and bursts in a sp
 #### Alarm
 |_1st-­level abjuration (ritual)_|
 |:-|
-|**Casting Time:** 1 minute|
+|**Casting Time:** Rest|
 |**Range:** 6|
 |**Components:** V, S, M (a tiny bell and a piece of fine silver wire)|
 |**Duration:** Recall|
