@@ -4184,9 +4184,8 @@ To discern that you are disguised, a creature can discard its action to inspect 
 |**_Quadruped_.** Your familiar takes the form of a furry mammal with four limbs. Whenever you reveal an obscuring map tile, your familiar may also reveal an additional obscuring map tile up to 2 squares away from you.|
 |**_Serpentes_.** Your familiar takes the form of a snake. Whenever your familiar successfully attacks a creature, it must make a CON check or gain the poisoned condition.|
 ||
-|Your familiar acts independently of you, but it always obeys your commands. In combat, it rolls its own initiative and acts on its own turn. A familiar can't attack, but it can take other actions as normal.
-
-When the familiar reaches MAX Wounds, it disappears, leaving behind no physical form. It reappears in an unoccupied space within range after you cast this spell again.
+|Your familiar acts independently of you, but it always obeys your commands. In combat, it rolls its own initiative and acts on its own turn. A familiar can't attack, but it can take other actions as normal.|
+|When the familiar reaches MAX Wounds, it disappears, leaving behind no physical form. It reappears in an unoccupied space within range after you cast this spell again.
 
 While your familiar is on the same map, you can communicate with it telepathically, and you gain the following game features.|
 |**_Familiar Sight (Action)_.** You see through your familiar's eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses that the familiar has. During this time, you are deaf and blind with regard to your own senses. You can continue to discard your action at the start of each of your turns to extend this duration an additional turn.|
