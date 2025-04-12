@@ -234,8 +234,8 @@ As a high elf, you have strong ties to nature and magic. In many fantasy gaming 
 
 **Magic Attunement.** Choose and gain one species trait:
 - **Arcane.** You know one cantrip of your choice from the wizard spell list. INT is your spellcasting ability for it. You can also speak, read, and write one extra language of your choice.
-- **Feywild. (Rest)** You can cast the *misty step* spell once without spending any mana using this trait.
-- **Shadowfell. (Rest)** You can cast the *faerie fire* spell once without spending any mana using this trait.
+- **Feywild. (Rest)** You can cast the *misty step* spell once using this trait.
+- **Shadowfell. (Rest)** You can cast the *faerie fire* spell once using this trait.
 
 ### Wood Elf
 
@@ -1656,11 +1656,11 @@ You touch a willing humanoid and perceive through its senses until the end of yo
 
 ### Mask of Many Faces
 
-You can cast _disguise self_ at will, without using your pact magic feature.
+You can cast _disguise self_ at will.
 
 ### Misty Visions
 
-You can cast _silent image_ at will, without using your pact magic feature.
+You can cast _silent image_ at will.
 
 ### Repelling Blast
 
@@ -4166,6 +4166,34 @@ To discern that you are disguised, a creature can discard its action to inspect 
 ||
 |Drawing upon a necromantic facsimile of life, you gain bolster 1.|
 |**At Higher Levels.** When you cast this spell at 2nd level or higher, your bolster increases by +1 for each spell level above 1st.|
+
+#### Find Familiar (Cooldown)
+|_1st-level conjuration (ritual)_|
+|:-|
+|**Casting Time:** 1 action|
+|**Range:** Self|
+|**Components:** V,S|
+|**Duration:** Encounter|
+||
+|You gain the service of a familiar, a spirit that takes the form of a critter with preternatural traits. Use the statistics of a minion unless otherwise indicated in their description. Your familiar's DEX checks for stealth and WIS checks related to perception gain advantage. Additionally, you choose the familiar's form:|
+|**_Amphibian_.** Your familiar takes the form of a frog or salamander. Your familiar breathes water and gains a swim speed of 6 squares.|
+|**_Aquatic_.** Your familiar either takes the form of a fish or octopus. Your familiar disappears if it spends more than 1 round outside of a body of water. It breathes water and gains a swim speed of 12 squares.|
+|**_Aracnid_.** Your familiar takes the form of an eight-legged animal with a chittenous shell and fangs. Your arachnid familiar gains a climb speed of 6 squares. Whenever your familiar successfully attacks a creature, it must make a CON check or gain the poisoned condition.|
+|**_Avian_.** Your familiar takes the form of a bird of prey and gains a fly speed of 12 squares.|
+|**_Quadruped_.** Your familiar takes the form of a furry mammal with four limbs. Whenever you reveal an obscuring map tile, your familiar may also reveal an additional obscuring map tile up to 2 squares away from you.|
+|**_Serpentes_.** Your familiar takes the form of a snake. Whenever your familiar successfully attacks a creature, it must make a CON check or gain the poisoned condition.|
+|Your familiar acts independently of you, but it always obeys your commands. In combat, it rolls its own initiative and acts on its own turn. A familiar can't attack, but it can take other actions as normal.
+
+When the familiar reaches MAX Wounds, it disappears, leaving behind no physical form. It reappears in an unoccupied space within 1 square of you after you cast this spell again.
+
+While your familiar is on the same map, you can communicate with it telepathically and you gain the following game features:
+
+- **_Familiar Sight (Action)_.** You see through your familiar's eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses that the familiar has. During this time, you are deaf and blind with regard to your own senses. You can continue to discard your action at the start of each of your turns to extend this duration an additional turn.
+- **_Dismiss Familiar (Action)_.** You temporarily dismiss your familiar. It disappears into a pocket dimension where it awaits your summons. Alternatively, you can dismiss it forever. While dismissed, you may discard your action to cause it to reappear in any unoccupied space within 6 squares of you.
+
+You can't have more than one familiar at a time. If you cast this spell while you already have a familiar, you instead cause it to adopt a new form. Choose one of the forms from the above list. Your familiar transforms into the chosen critter.
+
+Finally, when you cast a spell with a range of touch, your familiar can deliver the spell as if it had cast the spell. Your familiar must be within 100 feet of you, and it must use its reaction to deliver the spell when you cast it. If the spell requires an attack roll, you use your attack modifier for the roll.|
 
 ### Spells (G)
 
