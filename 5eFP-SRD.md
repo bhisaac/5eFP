@@ -4191,7 +4191,7 @@ To discern that you are disguised, a creature can discard its action to inspect 
 |**_Dismiss Familiar (Action)_.** You temporarily dismiss your familiar. It disappears into a pocket dimension where it awaits your summons. Alternatively, you can dismiss it forever. While dismissed, you may discard your action to cause it to reappear in any unoccupied space within 6 squares of you.|
 ||
 |You can't have more than one familiar at a time. If you cast this spell while you already have a familiar, you instead cause it to adopt a new form. Choose one of the forms from the above list. Your familiar transforms into the chosen critter.|
-|Finally, when you cast a spell with a range of touch, your familiar can deliver the spell as if it had cast the spell. Your familiar must be within 100 feet of you, and it must use its reaction to deliver the spell when you cast it. If the spell requires an attack roll, you use your attack modifier for the roll.|
+|Finally, when you cast a spell with a range of touch, your familiar can deliver the spell as if it had cast the spell. Your familiar must be on the same map, and it must discard its reaction to deliver the spell when you cast it. If the spell requires an attack roll, you use your attack modifier for the roll.|
 
 ### Spells (G)
 
