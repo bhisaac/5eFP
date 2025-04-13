@@ -196,7 +196,7 @@ As a hill dwarf, you have keen senses, deep intuition, and remarkable resilience
 
 As a highlander dwarf, you are accustomed to rugged living at high altitudes and within mountain dwellings.
 
-**Ability Score Increase.** If you assign a +1 greater to your Strength score (STR) during character creation, increase your STR by an additional +1.
+**Favored Ability Score.** Strength (STR)
 
 **Dwarven Armor Training.** You gain light and medium armor proficiency.
 
