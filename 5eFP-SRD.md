@@ -287,7 +287,7 @@ Lightfoots are more prone to wanderlust than other halflings, and often dwell al
 
 Hardy halflings are tougher than average, sharing similar characteristics with dwarves. Their tribes can be found in remote areas or near dwarven clans, though some do make their way to civilized lands.
 
-**Ability Score Increase.** If you assign a +1 or greater to your Constitution score (CON) during character creation, increase your CON by an additional +1.
+**Favored Ability Score.** Constitution (CON)
 
 **Resilience.** Choose and gain one species trait:
 - Your MAX wounds increases by +1.
