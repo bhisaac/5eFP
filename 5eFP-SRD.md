@@ -2639,7 +2639,7 @@ The GM might call for a STR check when you try to accomplish tasks like the foll
 
 #### Attack Rolls
 
-You add your STR to your attack roll when attacking with a melee weapon such as a mace, a battleaxe, or a javelin. You use melee weapons to make melee attacks in hand-to-­hand combat, and some of them can be thrown to make a ranged attack.
+If you chose STR for your attack rolls at character creation, you add your STR to your attack roll when attacking with a weapon.
 
 #### Lifting and Carrying
 
@@ -2677,7 +2677,7 @@ The GM might call for a DEX check when you try to accomplish tasks like the foll
 
 #### Attack Rolls
 
-You add DEX to your attack roll when attacking with a ranged weapon, such as a sling or a longbow. You can also add DEX to your attack roll when attacking with a melee weapon that has the finesse property, such as a dagger or a rapier.
+If you chose DEX for your attack rolls at character creation, you add your DEX to your attack roll when attacking with a weapon.
 
 #### Defense
 
