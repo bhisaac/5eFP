@@ -5171,7 +5171,7 @@ The following definitions specify what happens to a creature while it is subject
 
 # Appendix SH-A: Setting Handbook
 
-All details about the 5eFP practice you are joining, including read-aloud text, GM contact information, game backstory, world map, HQ information, the game's central conflict, the game's story directions, how PC Recall, how PCs fast travel, and the setting handbook requirement can be found in your setting handbook.
+All details about the 5eFP practice you are joining, including read-aloud text, GM contact information, game backstory, world map, HQ information, how the game refers to Coin, the game's central conflict, the game's story directions, how PC Recall, how PCs fast travel, and the setting handbook requirement can be found in your setting handbook.
 
 > Life rarely gives you a manual with instructions. So, create one for yourself.
 
