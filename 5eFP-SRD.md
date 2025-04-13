@@ -3798,7 +3798,7 @@ This awareness lasts until the beginning of your next turn and can penetrate mos
 |  |
 |:-|
 |**Level 1**|
-|alarm, animal friendship, cure wounds, detect poison and disease, fog cloud, goodberry, hunter's mark, jump, longstrider, speak with animals|
+|animal friendship, cure wounds, detect poison and disease, fog cloud, goodberry, hunter's mark, jump, longstrider, speak with animals|
 |**Level 2**|
 |animal messenger, barkskin, find traps, lesser restoration, locate animals or plants, locate object, pass without trace, protection from poison, silence, spike growth|
 |**Level 3**|
@@ -3864,7 +3864,7 @@ This awareness lasts until the beginning of your next turn and can penetrate mos
 |**Cantrips (Level 0)**|
 |acid splash, chill touch, fire bolt, mage hand, mending, message, minor illusion, poison spray, prestidigitation, ray of frost, shocking grasp, true strike|
 |**Level 1**|
-|alarm, burning hands, charm person, color spray, comprehend languages, disguise self, expeditious retreat, false life, feather fall, find familiar, floating disk, fog cloud, grease, hideous laughter, identify, illusory script, jump, longstrider, mage armor, magic missile, protection from evil and good, shield, silent image, sleep, thunderwave, unseen servant|
+|burning hands, charm person, color spray, comprehend languages, disguise self, expeditious retreat, false life, feather fall, find familiar, floating disk, fog cloud, grease, hideous laughter, identify, illusory script, jump, longstrider, mage armor, magic missile, protection from evil and good, shield, silent image, sleep, thunderwave, unseen servant|
 |**Level 2**|
 |acid arrow, alter self, arcane lock, arcanist’s magic aura, blindness/deafness, blur, continual flame, darkness, detect thoughts, enlarge/reduce, flaming sphere, gentle repose, gust of wind, hold person, invisibility, knock, levitate, locate object, magic mouth, magic weapon, mirror image, misty step, ray of enfeeblement, rope trick, scorching ray, see invisibility, shatter, spider climb, suggestion, web|
 |**Level 3**|
@@ -3915,18 +3915,6 @@ You hurl a bubble of acid. Choose one creature within range, or choose two creat
 ||
 |Your spell bolsters your allies with toughness and resolve. Choose up to three creatures within range. Each target gains bolster 2.|
 |**At Higher Levels.** When you cast this spell at a higher level, increase the bolster value by +1 for each level above 2nd.|
-
-#### Alarm
-|_1st-­level abjuration (ritual)_|
-|:-|
-|**Casting Time:** Rest|
-|**Range:** 6|
-|**Components:** V, S, M (a tiny bell and a piece of fine silver wire)|
-|**Duration:** Recall|
-||
-|You set an alarm against unwanted intrusion. Choose a door, a window, or an area within range that is no larger than a 20-­‐‑foot cube. Until the spell ends, an alarm alerts you whenever a Tiny or larger creature touches or enters the warded area. When you cast the spell, you can designate creatures that won’t set off the alarm. You also choose whether the alarm is mental or audible.|
-|A mental alarm alerts you with a ping in your mind if you are within 1 mile of the warded area. This ping awakens you if you are sleeping.|
-|An audible alarm produces the sound of a hand bell for 10 seconds within 12 feet.|
 
 #### Alter Self
 |_2nd-­level transmutation_|
