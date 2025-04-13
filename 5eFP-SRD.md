@@ -84,7 +84,7 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Recall (Cooldown)_.** A PC is transported back to the HQ map room after finishing a special Recall ritual completed outside of an encounter. PCs instantaneously Recall when the time marker reaches 8.
 
-**_Rest (Cooldown 2)_.** While deployed and not in an encounter, a group can choose to take a rest. A rest is a brief period of downtime, at least 1 hour long, during which a creature does nothing more strenuous than eating, drinking, reading, and tending to wounds. At the end of a rest, a creature discards LEVEL wounds and regains all uses of game features with the rest keyword. If a number follows the rest keyword, it represents the number of times the game feature can be used between rests. Finishing a rest advances the time marker.
+**_Rest (Cooldown 2)_.** While deployed and not in an encounter, a group can choose to take a rest. A rest is a brief period of downtime, at least 1 hour long, during which a creature does nothing more strenuous than eating, drinking, reading, and tending to wounds. At the end of a rest, a creature discards up to LEVEL wounds and regains all uses of game features with the rest keyword. If a number follows the rest keyword, it represents the number of times the game feature can be used between rests. Finishing a rest advances the time marker.
 
 **_Round_.** In combat and other fast-­paced situations, the game relies on rounds, a 6-­second span of time. A downtime round represents one or more days.
 
