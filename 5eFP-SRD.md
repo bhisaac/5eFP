@@ -28,7 +28,7 @@ Read the complete policy in Appendix PO-A.
 
 The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenting the rules of the game. The following are among the most common.
 
-**_Action_.** An action is a discrete measurement of time usually accessible during your turn and typically resolves before the end of your turn. You discard your action when you use certain game features, cast spells, and make attacks. You regain your action at the beginning of your next turn (see Actions).
+**_Action_.** An action is a discrete measurement of time accessible during your turn and typically resolves before the end of your turn. You discard your action when you use certain game features, cast spells, and make attacks. You regain your action at the beginning of your next turn (see Actions).
 
 **_Action Dice_.** Action dice are special six-sided dice with four blank faces, one side with one lightning bolt symbol, and one side with two lightning bolt symbols. The symbols can represent +1 (one symbol) or +2 (two symbols) or additional options depending on the action using them. Alternatively, you can use regular six-sided dice and assign these results to 1 and 2, respectively, with the remaining values representing blank faces.
 
