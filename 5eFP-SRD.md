@@ -5203,6 +5203,10 @@ Each world map has an HQ, usually located at the center of the map, representing
 
 > Your real-life headquarters (HQ) could be your body, home, work, or department.
 
+## Coin
+
+> This is the money you use to pay your bills and taxes. It can also include what you consider valuable. Coin can also represent works of art, jewels and gems, a business, a thriving community, or anything of great value to you.
+
 ## The Conflict
 
 The Conflict is an event with ongoing effects that changed the game world into an unbalanced and afflicted state. A 5eFP game ends when the conflict is resolved.
