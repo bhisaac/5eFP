@@ -3517,13 +3517,13 @@ Some spells, such as _magic missile_ and _cure wounds_, have more powerful effec
 
 ### Cantrips
 
-A cantrip is a spell that can be cast at will, without spending any mana and without being prepared in advance. Repeated practice has fixed the spell in the caster’s mind and infused the caster with the magic needed to produce the effect repeatedly. A cantrip’s spell level is 0.
+A cantrip is a spell that can be cast at will. Repeated practice has fixed the spell in the caster’s mind and infused the caster with the magic needed to produce the effect repeatedly. A cantrip’s spell level is 0.
 
 ### Rituals
 
-Certain spells have a special tag: ritual. Such a spell can be cast following the normal rules for spellcasting, or the spell can be cast as a ritual. The ritual version of a spell can only be cast outside of a combat encounter and generally takes longer to cast than normal. It also doesn’t require using mana to cast. The ritual version of a spell can’t be cast at a higher level.
+Certain spells have a special tag: ritual. Such a spell can be cast following the normal rules for spellcasting, or the spell can be cast as a ritual. The ritual version of a spell can only be cast outside of a combat encounter and generally takes longer to cast than normal. It also doesn’t require using mana to cast or other resources needed to cast the spell, such as the pact magic feature. The ritual version of a spell can’t be cast at a higher level.
 
-To cast a spell as a ritual, a spellcaster must have a feature that grants the ability to do so. The cleric and the druid, for example, have such a feature. The caster must also have the spell prepared or on his or her list of spells known, unless the character’s ritual feature specifies otherwise, as the wizard’s does.
+To cast a spell as a ritual, a spellcaster must have a feature that grants the ability to do so. The cleric and the druid, for example, have such a feature. The caster must also have the spell prepared or on his or her list of spells known.
 
 ## Casting a Spell
 
@@ -3603,11 +3603,11 @@ Normal activity, such as moving and attacking, doesn’t interfere with concentr
 
 A typical spell requires you to pick one or more targets to be affected by the spell’s magic. A spell’s description tells you whether the spell targets creatures, objects, or a point of origin for an area of effect (described below).
 
-Unless a spell has a perceptible effect, a creature might not know it was targeted by a spell at all. An effect like crackling lightning is obvious, but a more subtle effect, such as an attempt to read a creature’s thoughts, typically goes unnoticed, unless a spell says otherwise.
+Unless a spell has a perceptible effect, a creature might not know it was targeted by a spell at all. An effect like crackling lightning is obvious, but a more subtle effect, such as an attempt to read a creature’s thoughts, typically goes unnoticed unless a spell says otherwise.
 
 #### A Clear Path to the Target
 
-To target something, you must have a clear path to it, so it can’t be behind total cover.
+You must have a clear path to target something so it can’t be behind total cover.
 
 If you place an area of effect at a point that you can’t see and an obstruction, such as a wall, is between you and that point, the point of origin comes into being on the near side of that obstruction.
 
@@ -3657,11 +3657,11 @@ A sphere’s point of origin is included in the sphere’s area of effect.
 
 Many spells specify that a target can make an ability check to avoid some or all of a spell’s effects. The spell specifies the ability that the target uses for the check and what happens on a success or failure.
 
-The DC to resist one of your spells equals 10 + your spellcasting ability + any special modifiers.
+The DC to resist one of your spells equals 10 + your spellcasting ability. Class upgrades may further modify your DC.
 
 ### Attack Rolls
 
-Some spells require the caster to make an attack roll to determine whether the spell effect hits the intended target. Your attack bonus with a spell attack equals your spellcasting ability modifier + LEVEL.
+Some spells require the caster to make an attack roll to determine whether the spell effect hits the intended target. Your attack bonus with a spell attack equals 2 + your spellcasting ability. Class upgrades may further modify your spell attack bonus.
 
 Most spells that require attack rolls involve ranged attacks. Remember that you have disadvantage on a ranged attack roll if you are within 1 square of a hostile creature that can see you and that isn’t incapacitated.
 
@@ -3692,7 +3692,7 @@ Most spells that require attack rolls involve ranged attacks. Remember that you 
 
 The effects of different spells add together while the durations of those spells overlap. The effects of the same spell cast multiple times don’t combine, however. Instead, the most potent effect—such as the highest bonus—from those castings applies while their durations overlap.
 
-For example, if two clerics cast _bless_ on the same target, that character gains the spell’s benefit only once; he or she doesn’t get to roll two bonus dice.
+For example, if two clerics cast _bless_ on the same target, that character gains the spell’s benefit only once and does not get to roll four action dice.
 
 ### Detect Magic
 
@@ -4009,16 +4009,16 @@ Your unarmed strikes deal 1 bludgeoning, piercing, or slashing damage, as approp
 
 ### Spells (B)
 
-#### Bane
-|_1st-­level enchantment_|
-|:-|
-|**Casting Time:** 1 action|
-|**Range:** 6|
-|**Components:** V, S|
-|**Duration:** Concentration (encounter)|
-||
-|Up to three creatures of your choice that you can see within range must make CHA checks. Whenever a target that fails this check makes an attack roll or an ability check before the spell ends, the target must roll with disadvantage. This spell removes the effects of *bless.*|
-|**At Higher Levels.** When you cast this spell at a higher level, you can target one additional creature for each level above 1st.|
+### Bane
+
+- _1st-­level enchantment_
+- **Range:** 6 squares
+- **Components:** V, S
+- **Duration:** Encounter (Concentration)
+
+Up to three creatures of your choice that you can see within range must make CHA checks. Whenever a target that fails this check makes an attack roll or an ability check before the spell ends, the target rolls two action dice and subtracts the number from the result. This spell removes the effects of *bless.*
+
+**At Higher Levels.** When you cast this spell at a higher level, you can target one additional creature for each level above 1st.
 
 #### Barkskin
 |_2nd-­level transmutation_|
@@ -4030,16 +4030,16 @@ Your unarmed strikes deal 1 bludgeoning, piercing, or slashing damage, as approp
 ||
 |You touch a willing creature. Until the spell ends, the target’s skin has a rough, bark-­like appearance, and the target is considered to be wearing medium armor with medium armor proficiency.|
 
-#### Bless
-|_1st-­level enchantment_|
-|:-|
-|**Casting Time:** 1 action|
-|**Range:** 6|
-|**Components:** V, S|
-|**Duration:** Concentration (Encounter)|
-||
-|You bless up to three creatures of your choice within range. Whenever a target makes an attack roll or an ability check before the spell ends, the target makes these rolls with advantage. This spell removes the effects of *bane.*|
-|**At Higher Levels.** When you cast this spell at a higher level, you can target one additional creature for each level above 1st.|
+### Bless
+
+- _1st-­level enchantment_
+- **Range:** 6 squares
+- **Components:** V, S
+- **Duration:** Encounter (Concentration)
+
+You bless up to three creatures of your choice within range. Creatures affected by this spell gain two action dice. Whenever a target makes an attack roll or an ability check before the spell ends, the target may also roll any number of action dice and add them to the result. This spell removes the effects of *bane.*
+
+**At Higher Levels.** When you cast this spell at a higher level, you can target one additional creature for each level above 1st.
 
 #### Blindness/Deafness
 |_2nd-­level necromancy_|
