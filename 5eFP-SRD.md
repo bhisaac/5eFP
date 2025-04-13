@@ -3897,49 +3897,54 @@ A shimmering green arrow streaks toward a target within range and bursts in a sp
 
 **At Higher Levels.** When you cast this at a higher level, the initial damage (both initial and later) increases by +1 for each level above 2nd.
 
-#### Acid Splash
+### Acid Splash
 
 - _Conjuration cantrip_
 - **Range:** 12
 - **Components:** V, S
 
-You hurl a bubble of acid. Choose one creature within range, or choose two creatures within range that are within 1 square of each other. A target must succeed on a DEX check or take 1 acid damage.
+You hurl a bubble of acid at a creature within range or two creatures within range within 1 square of each other. A target must succeed on a DEX check or take 1 acid damage.
 
-#### Aid
-|_2nd-level abjuration_|
-|:-|
-|**Casting Time:** 1 action|
-|**Range:** 6|
-|**Components:** V, S, M (a tiny strip of white cloth)|
-|**Duration:** Recall|
-||
-|Your spell bolsters your allies with toughness and resolve. Choose up to three creatures within range. Each target gains bolster 2.|
-|**At Higher Levels.** When you cast this spell at a higher level, increase the bolster value by +1 for each level above 2nd.|
+### Aid
 
-#### Alter Self
-|_2nd-­level transmutation_|
-|:-|
-|**Casting Time:** 1 action|
-|**Range:** Self|
-|**Components:** V, S|
-|**Duration:** Concentration, up to 1 hour|
-||
-|You assume a different form. When you cast the spell, choose one of the following options, the effects of which last for the duration of the spell. While the spell lasts, you can end one option as an action to gain the benefits of a different one.|
-|**Aquatic Adaptation.** You adapt your body to an aquatic environment, sprouting gills and growing webbing between your fingers. You can breathe underwater and gain a swimming speed equal to your walking speed.|
-|**Change Appearance.** You transform your appearance. You decide what you look like, including your height, weight, facial features, sound of your voice, hair length, coloration, and distinguishing characteristics, if any. You can make yourself appear as a member of another species, though none of your statistics change. You also can’t appear as a creature of a different size than you, and your basic shape stays the same; if you’re bipedal, you can’t use this spell to become quadrupedal, for instance. At any time for the duration of the spell, you can use your action to change your appearance in this way again.|
-|**Natural Weapons.** You grow claws, fangs, spines, horns, or a different natural weapon of your choice.
-Your unarmed strikes deal 1 bludgeoning, piercing, or slashing damage, as appropriate to the natural weapon you chose, and you are proficient with your unarmed strikes. Finally, the natural weapon is magic and you have a +1 bonus to the attack and damage rolls you make using it.|
+- _2nd-level abjuration_
+- **Range:** 6
+- **Components:** V, S
+- **Duration:** Recall
 
-#### Animal Friendship
-|_1st-­level enchantment_|
-|:-|
-|**Casting Time:** 1 action|
-|**Range:** 6|
-|**Components:** V, S, M (a morsel of food)|
-|**Duration:** Recall|
-||
-|This spell lets you convince a beast that you mean it no harm. Choose a beast that you can see within range. It must see and hear you. If the beast's Intelligence is 4 or higher, the spell fails. Otherwise, the beast must succeed on a WIS check or be charmed by you for the spell's duration. If you or one of your companions harms the target, the spells ends.|
-|**At Higher Levels.** When you cast this spell at a higher level, you can affect one additional beast for each level above 1st.|
+Your spell protects your allies with toughness and resolve. Choose up to three creatures within range. Each target gains bolster 2.
+
+**At Higher Levels.** When you cast this spell at a higher level, increase the bolster value by +1 for each level above 2nd.
+
+### Alter Self
+
+- _2nd-­level transmutation_
+- **Range:** Self
+- **Components:** V, S
+- **Duration:** Encounter (Concentration)
+
+You assume a different form. When you cast the spell, choose one of the following options, the effects of which last for the duration of the spell.
+
+**_Aquatic Adaptation_.** You adapt your body to an aquatic environment, sprouting gills and growing webbing between your fingers. You can breathe underwater and gain a swimming speed equal to your walking speed.
+
+**_Change Appearance_.** You transform your appearance. You decide what you look like, including your height, weight, facial features, sound of your voice, hair length, coloration, and distinguishing characteristics, if any. You can make yourself appear as a member of another species, though none of your statistics change. You also can’t appear as a creature of a different size than you, and your basic shape stays the same; if you’re bipedal, you can’t use this spell to become quadrupedal, for instance.
+
+**_Natural Weapons_.** You grow claws, fangs, spines, horns, or a different natural weapon of your choice. Your unarmed strikes deal 1 bludgeoning, piercing, or slashing damage, as appropriate to the natural weapon you chose, and you are proficient with your unarmed strikes. Finally, the natural weapon is magic and you have a +1 bonus to the attack and damage rolls you make using it.
+
+While the spell lasts, you gain the following game feature.
+
+**_Alter Self (Action)_.** End your current alter self option and then choose and gain an alter self option.
+
+### Animal Friendship
+
+- _1st-­level enchantment_
+- **Range:** 6
+- **Components:** V, S
+- **Duration:** Recall
+
+This spell lets you convince a beast that you mean it no harm. Choose a beast that you can see within range. It must see and hear you. If the beast is awakened as with the _awaken_ spell, the spell fails. Otherwise, the beast must succeed on a WIS check or be charmed by you for the spell's duration. If you or one of your companions harms the target, the spells ends.
+
+**At Higher Levels.** When you cast this spell at a higher level, you can affect one additional beast for each level above 1st.
 
 #### Animal Messenger
 |_2nd-­level enchantment (ritual)_|
