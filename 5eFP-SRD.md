@@ -632,7 +632,7 @@ Whenever you attack and miss with a melee weapon you are wielding with two hands
 
 ### Protection (Reaction)
 
-When a creature you can see attacks a target other than you that is within 1 square of you, you can discard your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
+When a creature you can see attacks a target other than you that is within 1 square of you, you impose disadvantage on the attack roll. You must be wielding a shield.
 
 ## Second Wind (Rest)
 
