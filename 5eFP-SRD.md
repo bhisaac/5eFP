@@ -704,15 +704,15 @@ You start with the following equipment, in addition to the equipment granted by 
 - (a) a priest’s pack or (b) an explorer’s pack
 - Chain mail and a holy symbol
 
-## Divine Sense (Cooldown CHA + 1)
+## Divine Sense (Action, Cooldown CHA + 1)
 
-The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. You can discard your action to open your awareness and detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 12 squares of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the _hallow_ spell.
+The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. You open your awareness and detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 12 squares of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the _hallow_ spell.
 
-## Lay on Hands
+## Lay on Hands (Action)
 
 Your blessed touch can heal wounds. You have a reserve of healing power. You can assign up to 5 points of healing with your reserve.
 
-You can discard your action to touch a wounded creature, spending 1 or more healing points up to the maximum remaining in your reserve. The creature receives the healing.
+You touch a wounded creature, spending 1 or more healing points up to the maximum remaining in your reserve. The creature receives the healing.
 
 Alternatively, you can expend 5 points from your reserve to cure the target of one disease or neutralize one poison affecting it. You can cure multiple diseases and neutralize multiple poisons with a single use of Lay on Hands, expending points separately for each one.
 
