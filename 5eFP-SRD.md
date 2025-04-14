@@ -42,6 +42,8 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Creature and Monster_.** A creature can be a player character or a non-player character. It can also be a monster or a minion, elite, or boss in a monster encounter. Creatures and monsters can be good, neutral, or evil. They can be lawful or chaotic as well. The majority are neutral, meaning they are not good, evil, lawful, or chaotic. Sometimes, the label fits. Some creatures are frightening and terrible, and some monsters are, indeed, monsters.
 
+**_Defense_.** Your Defense can prevent attacks from hitting you and is modified by DEX.
+
 **_Difficulty Class (DC)_.** Difficulty Class or DC represents a task's difficulty. The more difficult a task, the higher its DC.
 
 **_Deploy (Cooldown)_.** After choosing an unexplored world map tile, the PCs deploy onto its exploration map by placing the group token in a random location. The obscuring map tile under the group token is revealed. Explored world map tiles sometimes provide additional locations for placing your character during a downtime round. These bonus areas are placed along the sides of the world map. PCs may deploy onto these special areas before resolving a downtime round.
