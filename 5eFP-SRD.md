@@ -636,7 +636,7 @@ When a creature you can see attacks a target other than you that is within 1 squ
 
 ## Second Wind (Rest)
 
-You have a limited well of stamina that you can draw on to protect yourself from harm. Once during your turn, you receive up to 2 points of healing.
+You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you discard up to 2 wounds.
 
 # Monk
 
