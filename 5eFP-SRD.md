@@ -2148,10 +2148,6 @@ The Armor table shows the cost, weight, and other properties of the common types
 
 ***Armor Proficiency.*** Anyone can put on a suit of armor or strap a shield to an arm. Only those proficient in the armor’s use know how to wear it effectively, however. Your class gives you proficiency with certain types of armor. Medium and heavy armor proficiency also grants proficiency with shields. If you wear armor that you lack proficiency with, you have disadvantage on any ability check or attack roll that involves STR or DEX, and you can’t cast spells.
 
-**_Defense._** Your Defense can prevent attacks from hitting you and is calculated as follows:
-
-**Defense**: 10 + DEX
-
 ***Shields.*** A shield is made from wood or metal and requires a free hand to equip. Wielding a shield allows you to deal 1 point of bludgeoning damage on a successful shove. Once per encounter, when damage is dealt to you while you have a shield equipped, you may spend your reaction to use your shield to reduce that damage by 1.
 
 ### Light Armor
