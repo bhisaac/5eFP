@@ -3376,7 +3376,7 @@ Certain features, such as the Extra Attack feature of the fighter, allow you to 
 
 ## Cast a Spell
 
-**_Discard your action or your reaction to Cast a Spell_.** Mages and many monsters have access to spells and can use them to great effect. Each spell has a casting time, which specifies whether the caster must discard an action or a reaction to cast the spell.
+**_Discard your action to Cast a Spell_.** Spellcasters and many monsters have access to spells and can use them to great effect. Spells typically discard your action to cast. If the spell has a different casting time, such as 1 reaction, it will be listed in the spell's description.
 
 ## Dash
 
