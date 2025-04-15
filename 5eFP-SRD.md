@@ -4373,19 +4373,19 @@ Encounter type describes the kind of encounter you discover.
 
 ## Treasure
 
-A treasure encounter may include
+A treasure encounter may include minion, elite, and boss treasure.
 
-> MINION TREASURE
->
->> Treasure of type minion awards ⛁ once discovered. A treasure might be hidden, in plain sight, trapped, or untrapped.
->>
-> ELITE TREASURE
->
->> Treasure of type elite rewards ⛁ once discovered. Elite treasures are often protected by an elite trap or one minion monster encounter.
->>
-> BOSS TREASURE
->
->> Boss treasures award the greatest amount of coin, but are the most difficult to finish. These encounters are awarded ⛁ upon discovery but potentially contain more bonus coins. It is difficult, if not impossible, to unlock all boss treasure bonus coins. Boss treasure encounters require (MAX Wounds) successful WIS checks to find ⛁, and may include a boss trap or a boss monster encounter before resolving.
+### Minion Treasure
+
+A treasure might be hidden, in plain sight, trapped, or untrapped.
+
+### Elite Treasure
+
+Treasure of type elite rewards an additional ⛁ once discovered. Elite treasures are often protected by an elite trap or one minion monster encounter.
+
+### Boss Treasure
+
+Boss treasures award the greatest amount of bonus Coin, but are the most difficult to finish. These encounters award an additional ⛁ upon discovery and potentially contain one or more bonus Coin. It is difficult, if not impossible, to unlock all boss treasure bonus coins. A creature can discard its action on its turn to make a WIS check. Boss treasures require (MAX Wounds) successful WIS checks to find ⛁, and may require overcoming a boss trap or two elite monsters before resolving.
 
 ## Monster
 
