@@ -1097,9 +1097,9 @@ The following upgrades provide an additional way to gain inspiration as a cooldo
 |2⛁|Primal Path|Path of the Berserker|
 |3⛁|Rage|You gain Rage (Encounter, Cooldown 3)|
 
-## Recless Attack
+## Reckless Attack
 
-You can throw aside all concern for defense to attack with fierce determination. When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you advantage on weapon attack rolls using STR during this turn, but attack rolls against you have advantage until your next turn.
+You can throw aside all concern for protection to attack with fierce determination. When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you advantage on weapon attack rolls using STR during this turn, but attack rolls against you have advantage until your next turn.
 
 ## Path of the Berserker
 
