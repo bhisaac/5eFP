@@ -1171,9 +1171,9 @@ A turned creature must spend its turns trying to move as far away from you as it
 |2⛁|Druid Circle|...|
 |3⛁|Magic|You begin a game session with 4 mana. You learn one spell from the druid spell list.|
 
-## Wild Shape (Rest 2)
+## Wild Shape (Action, Rest 2)
 
-As an action, you magically assume the shape of a beast that you have seen before. When you use this feature, save and set aside any wounds and choose a wild shape form. Use statistics for an elite creature except as detailed below. Your wild shape form cannot benefit from any swim or fly speeds it may have.
+You magically assume the shape of a beast that you have seen before. When you use this feature, save and set aside any wounds and choose a wild shape form. Use statistics for an elite creature except as detailed below. Your wild shape form cannot benefit from any swim or fly speeds it may have.
 
 You can use this feature twice. You regain expended uses when you finish a rest.
  
@@ -4728,15 +4728,13 @@ A settlement uses the encounter stats provided to determine the checks needed to
 >>
 >> While a boss settlement encounter is unresolved, it gains bolster (LEVEL) after all PCs have finished taking their turn.
 
-## Campfire (Rest)
+## Campfire
 
 A campfire encounter usually doesn't need encounter stats to resolve, but you can use the provided stats if necessary.
 
 Campfire encounters are initiated during a rest and resolve at the end of the rest. Campfire encounters should take up at most 10 minutes of game-session time. When a campfire scene resolves, the group token controller reveals obscuring map tiles up to 3 squares away from the group token.
 
 Campfire encounters do not require the presence of a campfire to be considered campfire encounters.
-
-~~During a campfire encounter, players are encouraged to interact and roleplay with one another. One PC takes the focus as far as setting the scene and driving the scene. The other PCs work themselves into the scene in some way. It doesn't need to be elaborate. PCs can have focused and directed conversations with the group this way. After describing the initial scene, the focus is released. They may choose to use the campfire encounter to plan their next course of action, speak with the locals, gather and analyze clues, perform a complicated ritual, share a meal together, play games, etc.~~
 
 During a campfire encounter, one PC volunteers to set the scene and drives the initial interaction while the others join in and play with the focus created in the story. Typically, the volunteer desires to initiate a specific kind of roleplaying scenario. PCs can have conversations, plan their next move, talk to locals, gather clues, share a meal, play games, and more.
 
