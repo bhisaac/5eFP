@@ -42,7 +42,7 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Creature and Monster_.** A creature can be a player character or a non-player character. It can also be a monster or a minion, elite, or boss in a monster encounter. Creatures and monsters can be good, neutral, or evil. They can be lawful or chaotic as well. The majority are neutral, meaning they are not good, evil, lawful, or chaotic. Sometimes, the label fits. Some creatures are frightening and terrible, and some monsters are, indeed, monsters.
 
-**_Defense_.** Your Defense can prevent attacks from hitting you and is modified by DEX.
+**_Defense_.** Your Defense equals 10 + DEX and can prevent attacks from hitting you.
 
 **_Difficulty Class (DC)_.** Difficulty Class or DC represents a task's difficulty. The more difficult a task, the higher its DC.
 
@@ -2616,11 +2616,11 @@ Group checks don’t come up very often, and they’re most useful when all the 
 
 Every task that a character or monster might attempt in the game is covered by one of the six abilities. This section explains in more detail what those abilities mean and the ways they are used in the game. (A character’s starting proficiencies are determined by class and background at character creation, and a monster’s ability proficiencies appear in the monster’s stat block.)
 
-### Strength (STR)
+## Strength (STR)
 
 STR measures bodily power, athletic training, and the extent to which you can exert raw physical force.
 
-#### STR Checks
+### STR Checks
 
 A STR check can model any attempt to lift, push, pull, or break something, to force your body through a space, or to otherwise apply brute force to a situation.
 
@@ -2639,11 +2639,11 @@ The GM might call for a STR check when you try to accomplish tasks like the foll
 - Tip over a statue
 - Keep a boulder from rolling
 
-#### Attack Rolls
+### Attack Rolls
 
 If you chose STR for your attack rolls at character creation, you add your STR to your attack roll when attacking with a weapon.
 
-#### Lifting and Carrying
+### Lifting and Carrying
 
 Your STR score determines the amount of weight you can bear. The following terms define what you can lift or carry.
 
@@ -2653,11 +2653,11 @@ _**Push, Drag, or Lift.**_ You can push, drag, or lift a weight in pounds equal 
 
 _**Size and Strength.**_ Larger creatures can bear more weight, whereas Tiny creatures can carry less. For each size category above Medium, double the creature’s carrying capacity and the amount it can push, drag, or lift. For a Tiny creature, halve these values.
 
-### Dexterity (DEX)
+## Dexterity (DEX)
 
 DEX measures agility, reflexes, and balance.
 
-#### DEX Checks
+### DEX Checks
 
 A DEX check can model any attempt to move nimbly, quickly, or quietly, or to keep from falling on tricky footing.
 
@@ -2677,13 +2677,13 @@ The GM might call for a DEX check when you try to accomplish tasks like the foll
 - Play a stringed instrument
 - Craft a small or detailed object
 
-#### Attack Rolls
+### Attack Rolls
 
 If you chose DEX for your attack rolls at character creation, you add your DEX to your attack roll when attacking with a weapon.
 
-#### Defense
+### Defense
 
-Defense protects a character from attacks. Your DEX determines your base Defense.
+Defense can prevent attacks from hitting you and equals 10 + DEX. Upgrades may further modify this number.
 
 > Hiding
 >
