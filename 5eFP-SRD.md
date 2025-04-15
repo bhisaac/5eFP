@@ -132,7 +132,7 @@ The description of each species includes species traits that are common to membe
 
 Every species increases one character’s ability score by +1.
 
-### Favored Ability Score
+### Favored Ability
 
 Most species also grant another favored ability score that gains an additional +1 if you assign a +1 or greater score during character creation.
 
@@ -190,7 +190,7 @@ Your dwarf character has an assortment of inborn abilities, part and parcel of d
 
 As a hill dwarf, you have keen senses, deep intuition, and remarkable resilience.
 
-**Favored Ability Score.** Wisdom (WIS)
+**Favored Ability.** Wisdom (WIS)
 
 **Dwarven Toughness**. Your MAX wounds increase by +1.
 
@@ -198,7 +198,7 @@ As a hill dwarf, you have keen senses, deep intuition, and remarkable resilience
 
 As a highlander dwarf, you are accustomed to rugged living at high altitudes and within mountain dwellings.
 
-**Favored Ability Score.** Strength (STR)
+**Favored Ability.** Strength (STR)
 
 **Dwarven Armor Training.** You gain light and medium armor proficiency.
 
@@ -230,7 +230,7 @@ Whenever you spend ⛁ on rest and repairs, you may spend any number of Coin on 
 
 As a high elf, you have strong ties to nature and magic. In many fantasy gaming worlds, there are two kinds of high elves. One type is haughty and reclusive, believing themselves to be superior to non-elves and even other elves. The other type is more common and more friendly, and often encountered among humans and other species.
 
-**Favored Ability Score.** Intelligence (INT)
+**Favored Ability.** Intelligence (INT)
 
 **Elf Weapon Training.** You have proficiency with the longsword, shortsword, shortbow, and longbow.
 
@@ -243,7 +243,7 @@ As a high elf, you have strong ties to nature and magic. In many fantasy gaming 
 
 As a wood elf, you have deep awareness and intuition, and your attunement to nature carries you quickly and stealthily through natural terrain. Wood elves tend to be reclusive and distrustful of non-elves.
 
-**Favored Ability Score.** Wisdom (WIS)
+**Favored Ability.** Wisdom (WIS)
 
 **Elf Weapon Training.** You have proficiency with the longsword, shortsword, shortbow, and longbow.
 
@@ -281,7 +281,7 @@ As a lightfoot halfling, you can easily hide from notice, even using other peopl
 
 Lightfoots are more prone to wanderlust than other halflings, and often dwell alongside other species or take up a nomadic life.
 
-**Favored Ability Score.** Charisma (CHA)
+**Favored Ability.** Charisma (CHA)
 
 **Naturally Stealthy.** You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you.
 
@@ -289,7 +289,7 @@ Lightfoots are more prone to wanderlust than other halflings, and often dwell al
 
 Hardy halflings are tougher than average, sharing similar characteristics with dwarves. Their tribes can be found in remote areas or near dwarven clans, though some do make their way to civilized lands.
 
-**Favored Ability Score.** Constitution (CON)
+**Favored Ability.** Constitution (CON)
 
 **Resilience.** Choose and gain one species trait:
 - Your MAX wounds increases by +1.
