@@ -1094,7 +1094,7 @@ The following upgrades provide an additional way to gain inspiration as a cooldo
 |**Cost**|**Feature**|**Details**|
 |2⛁|Reckless Attack|...|
 |2⛁|Danger Sense|You gain advantage to DEX checks vs. effects you can see|
-|2⛁|Primal Path|Path of the Berserker|
+|2⛁|Primal Path|...|
 |3⛁|Rage|You gain Rage (Encounter, Cooldown 3)|
 
 ## Reckless Attack
