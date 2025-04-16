@@ -1098,18 +1098,6 @@ The following upgrades provide an additional way to gain inspiration as a cooldo
 |2⛁|Primal Path|...|
 |3⛁|Rage|You gain Rage (Encounter, Cooldown 3)|
 
-## Level 2 (TBA)
-
-## Level 3 (TBA)
-
-## Level 4 (TBA)
-
-## Level 5 (TBA)
-
-## Level 6 (TBA)
-
-## Level 7 (TBA)
-
 ## Reckless Attack
 
 You can throw aside all concern for protection to attack with fierce determination. When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you advantage on weapon attack rolls using STR during this turn, but attack rolls against you have advantage until your next turn.
@@ -1144,7 +1132,19 @@ Your totem animal might be related to those listed here but more appropriate to 
 
 **_Eagle_.** While you're raging and aren't wearing heavy armor, other creatures have disadvantage on opportunity attack rolls against you. Once per turn, you can use the Dash action without discarding your action. The spirit of the eagle makes you into a predator who can weave through the fray with ease.
 
-**_Wolf_.** While you're raging, friendly creatures have advantage on melee attack rolls against any creature within your reach that is hostile to you. The spirit of the wolf makes you a leader of hunters.
+**_Wolf_.** While you're raging, friendly creatures have advantage on melee attack rolls against any creature within 1 square of you that is hostile to you. The spirit of the wolf makes you a leader of hunters.
+
+## Level 2 (TBA)
+
+## Level 3 (TBA)
+
+## Level 4 (TBA)
+
+## Level 5 (TBA)
+
+## Level 6 (TBA)
+
+## Level 7 (TBA)
 
 # Bard Upgrades
 
