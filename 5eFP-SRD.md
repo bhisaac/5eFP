@@ -1078,7 +1078,7 @@ Whenever your CON changes, recalculate your MAX wounds with the new CON score.
 
 # Inspiration Upgrades
 
-The following upgrades provide an additional way to gain inspiration.
+The following upgrades provide additional ways to gain inspiration.
 
 |Cost|Feature|
 |-:|:-|
