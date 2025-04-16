@@ -1114,7 +1114,7 @@ For some barbarians, rage is a means to an end. The Path of the Berserker is a p
 
 You can go into a frenzy when you rage. If you do so, for the duration of your rage, you can make a single melee weapon attack after you take the Attack action. When your rage ends, you suffer one level of exhaustion (as described in Appendix PH-­A).
 
-### \[6⛁] Mindless Rage
+### Mindless Rage \[6⛁]
 - Prerequisites: Frenzy
 
 You can’t be charmed or frightened while raging. If you are charmed or frightened when you enter your rage, the effect is suspended for the duration of the rage.
