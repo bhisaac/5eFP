@@ -1078,7 +1078,9 @@ Whenever your CON changes, recalculate your MAX wounds with the new CON score.
 
 # Inspiration Upgrades
 
-The following upgrades provide an additional way to gain inspiration as a cooldown.
+The following upgrades provide an additional way to gain inspiration.
+
+3⛁ **_Inspired Success (Cooldown)_.** You gain inspiration after resolving a critical success.
 
 ||||
 |-:|:-|:-|
