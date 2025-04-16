@@ -1092,6 +1092,7 @@ The following upgrades provide an additional way to gain inspiration as a cooldo
 ||||
 |-:|:-|:-|
 |**Cost**|**Feature**|**Details**|
+|Level 1 Upgrades|||
 |2⛁|Reckless Attack|...|
 |2⛁|Danger Sense|You gain advantage to DEX checks vs. effects you can see|
 |2⛁|Primal Path|...|
