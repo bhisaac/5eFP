@@ -2679,7 +2679,7 @@ If you chose DEX for your attack rolls at character creation, you add your DEX t
 
 ### Defense
 
-Defense can prevent attacks from hitting you and equals 10 + DEX. Upgrades may further modify this number.
+Defense can prevent attacks from hitting you and equals 10 + DEX. Upgrades and class features may further modify this number.
 
 > Hiding
 >
