@@ -1101,9 +1101,37 @@ The following upgrades provide an additional way to gain inspiration as a cooldo
 
 You can throw aside all concern for protection to attack with fierce determination. When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you advantage on weapon attack rolls using STR during this turn, but attack rolls against you have advantage until your next turn.
 
+## Primal Path
+
+You choose a path that shapes the nature of your rage. Choose the Path of the Berserker or the Path of the Totem Warrior.
+
 ## Path of the Berserker
 
-For some barbarians, rage is a means to an end. The Path of the Berserker is a path of unleashed fury. You can go into a frenzy when you rage. If you do so, for the duration of your rage, you can make a single melee weapon attack after you take the Attack action. When your rage ends, you suffer one level of exhaustion (as described in Appendix PH-­A).
+For some barbarians, rage is a means to an end. The Path of the Berserker is a path of unleashed fury.
+
+### Frenzy
+
+You can go into a frenzy when you rage. If you do so, for the duration of your rage, you can make a single melee weapon attack after you take the Attack action. When your rage ends, you suffer one level of exhaustion (as described in Appendix PH-­A).
+
+## Path of the Totem Warrior
+
+You forge a spiritual and inspired connection to an animal spirit who functions as a friend, guide, and protector. In battle, your totem spirit elevates your abilities, adding magical fuel to your barbarian rage.
+
+### Spirit Seeker
+
+Yours is a path that seeks attunement with the natural world, giving you a kinship with beasts. You gain the ability to cast the _beast sense_ and _speak with animals_ spells, but only as rituals (see _Spellcasting_).
+
+### Totem Spirit
+
+When you adopt this path, you choose a totem spirit and gain its game feature. Your totem spirit either provides you with a physical totem object—an amulet or similar adornment—that incorporates fur or feathers, claws, teeth, or bones of the totem animal, or you gain subtle and minor physical characteristics that are reminiscent of your totem spirit. For example, if you have a bear totem spirit, you might be unusually hairy and tough, or if your totem is the eagle, your eyes gain a piercing quality or turn bright yellow.
+
+Your totem animal might be related to those listed here but more appropriate to your homeland. For example, you could choose a hawk or vulture instead of an eagle.
+
+**_Bear_.** While raging, you have resistance to all damage except psychic damage. The spirit of the bear makes you tough enough to stand up to any punishment.
+
+**_Eagle_.** While you're raging and aren't wearing heavy armor, other creatures have disadvantage on opportunity attack rolls against you. Once per turn, you can use the Dash action without discarding your action. The spirit of the eagle makes you into a predator who can weave through the fray with ease.
+
+**_Wolf_.** While you're raging, friendly creatures have advantage on melee attack rolls against any creature within your reach that is hostile to you. The spirit of the wolf makes you a leader of hunters.
 
 # Bard Upgrades
 
