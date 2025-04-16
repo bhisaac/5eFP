@@ -1089,14 +1089,26 @@ The following upgrades provide an additional way to gain inspiration as a cooldo
 
 # Barbarian Upgrades
 
-||||
-|-:|:-|:-|
+## Level 1
+
 |**Cost**|**Feature**|**Details**|
-|Level 1 Upgrades|||
+|-:|:-|:-|
 |2⛁|Reckless Attack|...|
 |2⛁|Danger Sense|You gain advantage to DEX checks vs. effects you can see|
 |2⛁|Primal Path|...|
 |3⛁|Rage|You gain Rage (Encounter, Cooldown 3)|
+
+## Level 2 (TBA)
+
+## Level 3 (TBA)
+
+## Level 4 (TBA)
+
+## Level 5 (TBA)
+
+## Level 6 (TBA)
+
+## Level 7 (TBA)
 
 ## Reckless Attack
 
