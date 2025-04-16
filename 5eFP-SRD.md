@@ -1070,7 +1070,7 @@ As you go on adventures and overcome challenges, you gain experience, represente
 
 Once you reach level 4, the game state changes. You gain a level once all areas in the current level of play are explored and resolved. Level 4 areas are located one floor above or below level 1 footholds and in the unresolved footholds found in level 1 world map tiles. Similarly, level 5 areas are located one floor above or below level 2 footholds and in the unresolved footholds found in level 2 world map tiles. Level 6 areas are located one floor above or below level 3 footholds and in the unresolved footholds found in level 3 world map tiles. Level 7 areas are located two floors above or below level 1 footholds.
 
-While at HQ, you can spend ⛁ to purchase background, species, class, or other upgrades for your character. The upgrade descriptions below detail these additional game features. You can only purchase an upgrade once unless otherwise indicated in its description. An upgrade detail with three dots means its details are provided in the feature's description. If an upgrade grants a game feature your character already has, the upgraded version replaces it.
+While at HQ, you can spend Coin to purchase background, species, class, or other upgrades for your character. The upgrade descriptions below detail these additional game features. You can only purchase an upgrade once unless otherwise indicated in its description. An upgrade detail with three dots means its details are provided in the feature's description. If an upgrade grants a game feature your character already has, the upgraded version replaces it.
 
 Whenever your level increases, you also increase your MAX wounds by +1.
 
