@@ -224,7 +224,7 @@ Your elf character has a variety of natural abilities, a result of thousands of 
 
 **Trance.** Elves don’t need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is “trance.”) While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
 
-Whenever you spend ⛁ on rest and repairs, you may spend any number of Coin on a bonus downtime activity of your choice. You must still satisfy any prerequisites the bonus downtime activity may have before spending the extra Coin.
+Whenever you spend ⛁ on rest and repairs, you may spend any number of Coin on one bonus downtime activity of your choice. You must still satisfy any prerequisites the bonus downtime activity may have before spending the extra Coin.
 
 ### High Elf
 
@@ -2142,31 +2142,32 @@ DESC TBD.
 
 ## Coin
 
-5eFP games use Coin (**⛁** equals 1 Coin), a single denomination representing wealth, resources, experience, and reputation. The name of a coin may change in some games. For example, coins might be called "gold pieces" in a medieval fantasy setting, while coins might refer to "credits" in a futuristic sci-fi setting. A game's setting handbook details what coins are called. All coins use the following rules.
+5eFP games use Coin (⛁ equals 1 Coin), a single denomination representing wealth, resources, experience, and reputation. The name of a Coin may change in some games. For example, Coin might be called "gold pieces" in a medieval fantasy setting, while Coin might refer to "credits" in a futuristic sci-fi setting. A game's setting handbook describes the name used for Coin. Use the following rules for all Coin.
 
-## Earning Coins
+## Earning Coin
 
-GMs award **⛁** whenever PCs complete an encounter. Award an additional +⛁ if the PCs found one or more treasures during the encounter. Award an additional +⛁ if the PCs increased one or more reputations during the encounter.
+GMs award ⛁ whenever PCs complete an encounter. Award an additional ⛁ if the PCs found one or more treasures during the encounter. Award an additional ⛁ if the PCs increased one or more reputations during the encounter.
 
-The number of coins GMs award when encounters are completed increases to 2**⛁** starting at 3rd level and 3**⛁** beginning at 6th level.
+The number of Coin GMs award when encounters are completed increases to 2⛁ starting at 3rd level and 3⛁ beginning at 6th level.
 
-### Spending Coins
-PCs may spend coins during downtime (see Between Adventures) or during preparation (see Preparation) before deploying to a world map tile. PCs may spend any number of coins. Once a coin is spent, it is lost.
+### Spending Coin
 
-A game feature may temporarily grant PCs the ability to spend one or more coins. The feature explains when this happens and provides guidelines for how many coins a PC can choose to spend.
+PCs may spend Coin after Recall, during downtime (see Downtime), or during preparation (see Preparation) before deploying to a world map tile. Once Coin is spent, it is lost.
+
+A game feature may temporarily grant PCs the ability to spend Coin. The feature explains when this happens and provides guidelines for how many Coin a PC can choose to spend.
 
 ## Selling Treasure
-Opportunities abound to find treasure, equipment, weapons, armor, and more in the dungeons you explore. Normally, you can sell your treasures and trinkets when you return to HQ ~, provided that you can find buyers and merchants interested in your loot~.
+Opportunities abound to find treasure, equipment, weapons, armor, and more in the areas you explore. Normally, you can sell your treasures and trinkets when you return to HQ.
 
-**Arms, Armor, and Other Equipment.** As a general rule, undamaged weapons, armor, and other equipment fetch half their cost when sold in a market. This means you must sell two pieces of the same equipment in order to receive any coins.  Weapons and armor used by monsters are rarely in good enough condition to sell.
+**Arms, Armor, and Other Equipment.** As a general rule, undamaged weapons, armor, and other equipment fetch half their cost when sold in a market. This means you must sell two pieces of the same equipment in order to receive any Coin.  Weapons and armor used by monsters are rarely in good enough condition to sell.
 
-**Magic Items.** Selling magic items is problematic. Finding someone to buy a potion or a scroll isn’t too hard, but other items are out of the realm of most but the wealthiest nobles. Likewise, aside from a few common magic items, you won’t normally come across magic items or spells to purchase. The value of magic is far beyond what simple coins represent and should always be treated as such. 
+**Magic Items.** Selling magic items is problematic. Finding someone to buy a potion or a scroll isn’t too hard, but other items are out of the realm of most but the wealthiest nobles. Likewise, aside from a few common magic items, you won’t normally come across magic items or spells to purchase. The value of magic is far beyond what simple Coin represent and should always be treated as such.
 
 PCs may choose to create a magic item marketplace by unlocking this building through downtime research.
 
-**Gems, Jewelry, and Art Objects.** These items are included in the description of coins. Coins do not differentiate between coins, gems, jewelry, and art for ease of use and simplicity.
+**Gems, Jewelry, and Art Objects.** These items are included in the description of Coin. Coin does not differentiate between coinage, gems, jewelry, and art for ease of use and simplicity.
 
-**Trade Goods.** On the borderlands (the world map tiles furthest from HQ), many people conduct transactions through barter. Trade goods—bars of iron, bags of salt, livestock, and so on—retain their full value in the market and can be used as currency. You may spend 1 or more trade goods as if they were an equivalent amount of ⛁ within the level 3 and level 6 areas. Spent trade goods are sent to the equipment discard pile.
+**Trade Goods.** On the borderlands (the world map tiles furthest from HQ), many people conduct transactions through barter. Trade goods—bars of iron, bags of salt, livestock, and so on—retain their full value in the market and can be used as currency. You may spend 1 or more trade goods as if they were an equivalent amount of ⛁ within the level 3 and level 6 areas. Spent trade goods are discarded.
 
 ## Armor
 
@@ -2176,7 +2177,10 @@ The Armor table shows the cost, weight, and other properties of the common types
 
 ***Armor Proficiency.*** Anyone can put on a suit of armor or strap a shield to an arm. Only those proficient in the armor’s use know how to wear it effectively, however. Your class gives you proficiency with certain types of armor. Medium and heavy armor proficiency also grants proficiency with shields. If you wear armor that you lack proficiency with, you have disadvantage on any ability check or attack roll that involves STR or DEX, and you can’t cast spells.
 
-***Shields.*** A shield is made from wood or metal and requires a free hand to equip. Wielding a shield allows you to deal 1 point of bludgeoning damage on a successful shove. Once per encounter, when damage is dealt to you while you have a shield equipped, you may spend your reaction to use your shield to reduce that damage by 1.
+***Shields.*** A shield is made from wood or metal and requires a free hand to equip. While you have a shield equiped, you have the following game features.
+
+- **_Shield Bash_.** Whenever you take the Attack action and use one of your attacks to shove a creature, if you succeed, you may deal 1 point of bludgeoning damage to the creature.
+- **_Shield (Reaction, Rest)_.** When damage is dealt to you while you have a shield equipped, you may reduce that damage by 1.
 
 ### Light Armor
 
@@ -2690,7 +2694,7 @@ The GM might call for a DEX check when you try to accomplish tasks like the foll
 - Stay on your feet in a tricky situation
 - Acrobatic stunts, including dives, rolls, somersaults, and flips
 - Legerdemain or manual trickery, such as planting something on someone else or concealing an object on your person
-- Lift a coin purse off another person or slip something out of another person’s pocket
+- Lift a coin purse off another person or slip something into or out of another person’s pocket
 - Conceal yourself from others
 - Control a heavily laden cart on a steep descent
 - Steer a chariot around a tight turn
@@ -2874,7 +2878,7 @@ Furthermore, the creature can see into the Ethereal Plane.
 
 ## Food and Water
 
-Obtaining food and water is included when PCs spend coin on rest and repairs. Characters who do not spend coin on rest and repairs suffer the effects of exhaustion (see appendix [...]) during the next game session. Exhaustion caused by not resting and repairing can’t be removed until the character spends coin on rest and repairs.
+Obtaining food and water is included when PCs spend Coin on rest and repairs. Characters who do not spend Coin on rest and repairs suffer the effects of exhaustion (see appendix [...]) during the next game session. Exhaustion caused by not resting and repairing can’t be removed until the character spends Coin on rest and repairs.
 
 > (This section needs to be moved to Rest and Repairs section.)
 
@@ -2950,7 +2954,7 @@ The following locations offer expanded downtime options but must first be unlock
 - Spend (1) herbs to get (1) healing potion.
 - Spend ⛁ to cast *lesser restoration*.
 - Spend 5⛁ to cast *greater restoration*.
-- Spend 25⛁ coins to cast *raise dead* on a fallen ally.
+- Spend 25⛁ to cast *raise dead* on a fallen ally.
 
 **Manor.** TBA.
 
@@ -4280,7 +4284,7 @@ To discern that you are disguised, a creature can discard its action to inspect 
 |You shape an illusory duplicate of one beast or humanoid that is within range for the entire casting time of the spell. The duplicate is a creature, partially real and formed from ice or snow, and it can take actions and otherwise be affected as a normal creature. It appears to be the same as the original, but its MAX Wounds is half the creature’s MAX Wounds and it is formed without any equipment. Otherwise, the illusion uses all the statistics of the creature it duplicates, except that it is a construct.|
 |The simulacrum is friendly to you and creatures you designate. It obeys your spoken commands, moving and acting in accordance with your wishes and acting on your turn in combat. The simulacrum lacks the ability to learn or become more powerful, so it never increases its level or other abilities, nor can it regain expended spell slots. Simulacrums cannot cast _simulacrum_ or _wish_.|
 |Once you cast _simulacrum_, you cannot cast it again until you gain a level of experience.|
-|If the simulacrum is damaged, you can repair it in an alchemical laboratory, spending 1 or more coins to heal an equal number of wounds. The simulacrum lasts until it reaches MAX Wounds, at which point it reverts to snow and melts instantly.|
+|If the simulacrum is damaged, you can repair it in an alchemical laboratory, spending 1 or more Coin to heal an equal number of wounds. The simulacrum lasts until it reaches MAX Wounds, at which point it reverts to snow and melts instantly.|
 |If you cast this spell again, any currently active duplicates you created with this spell are instantly destroyed.|
 
 #### Stoneskin
@@ -4413,7 +4417,7 @@ Treasure of type elite rewards an additional ⛁ once discovered. Elite treasure
 
 ### Boss Treasure
 
-Boss treasures award the greatest amount of bonus Coin, but are the most difficult to finish. These encounters award an additional ⛁ upon discovery and potentially contain one or more bonus Coin. It is difficult, if not impossible, to unlock all boss treasure bonus coins. A creature can discard its action on its turn to make a WIS check. Boss treasures require (MAX Wounds) successful WIS checks to find ⛁, and may require overcoming a boss trap or two elite monsters before resolving.
+Boss treasures award the greatest amount of bonus Coin, but are the most difficult to finish. These encounters award an additional ⛁ upon discovery and potentially contain one or more bonus Coin. It is difficult, if not impossible, to unlock all boss treasure bonus Coin. A creature can discard its action on its turn to make a WIS check. Boss treasures require (MAX Wounds) successful WIS checks to find ⛁, and may require overcoming a boss trap or two elite monsters before resolving.
 
 ## Monster
 
@@ -5229,7 +5233,7 @@ Each world map has an HQ, usually located at the center of the map, representing
 
 ## Coin
 
-> This is the money you use to pay your bills and taxes. It can also include what you consider valuable. Coin can also represent works of art, jewels and gems, a business, a thriving community, or anything of great value to you.
+> This is the money you use to pay your bills and taxes. It can also include what you consider valuable. Coin can also represent works of art, jewels and gems, a business, a thriving community, a loving partner, a beloved friend, or anything of great value to you.
 
 ## The Conflict
 
