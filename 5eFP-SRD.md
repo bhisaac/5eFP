@@ -1114,11 +1114,6 @@ For some barbarians, rage is a means to an end. The Path of the Berserker is a p
 
 You can go into a frenzy when you rage. If you do so, for the duration of your rage, you can make a single melee weapon attack after you take the Attack action. When your rage ends, you suffer one level of exhaustion (as described in Appendix PH-­A).
 
-### Mindless Rage \[6⛁]
-- Prerequisites: Frenzy
-
-You can’t be charmed or frightened while raging. If you are charmed or frightened when you enter your rage, the effect is suspended for the duration of the rage.
-
 ## Path of the Totem Warrior
 
 You forge a spiritual and inspired connection to an animal spirit who functions as a friend, guide, and protector. In battle, your totem spirit elevates your abilities, adding magical fuel to your barbarian rage.
@@ -1138,18 +1133,6 @@ Your totem animal might be related to those listed here but more appropriate to 
 **_Eagle_.** While you're raging and aren't wearing heavy armor, other creatures have disadvantage on opportunity attack rolls against you. Once per turn, you can use the Dash action without discarding your action. The spirit of the eagle makes you into a predator who can weave through the fray with ease.
 
 **_Wolf_.** While you're raging, friendly creatures have advantage on melee attack rolls against any creature within 1 square of you that is hostile to you. The spirit of the wolf makes you a leader of hunters.
-
-## Level 2 (TBA)
-
-## Level 3 (TBA)
-
-## Level 4 (TBA)
-
-## Level 5 (TBA)
-
-## Level 6 (TBA)
-
-## Level 7 (TBA)
 
 # Bard Upgrades
 
