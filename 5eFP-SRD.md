@@ -2979,7 +2979,7 @@ The following locations offer expanded downtime options but must first be unlock
 During a round of downtime, a PC can perform the following actions:
 
 - **1 Action.** Choose and gain the benefit of one downtime activity.
-- **1 Reaction.** You have one reaction during a round of downtime. Once you use your reaction, you cannot do so again until the beginning of the next round of downtime.
+- **1 Reaction.** You have one reaction during a round of downtime. Once you use your reaction, you cannot do so again until the beginning of the next downtime round.
 - **1 Object Interaction.** You may equip or unequip one item.
 
 ### Crafting
@@ -3152,7 +3152,7 @@ Sometimes, circumstances can be favorable or unfavorable to a combatant, causing
 
 If the d20 roll for an attack is a 20, the attack hits regardless of any modifiers or the target’s DC. This is called a critical hit.
 
-If the d20 roll for an attack is a 1, the attack misses regardless of any modifiers or the target’s DC.
+If the d20 roll for an attack is a 1, the attack misses regardless of any modifiers or the target’s DC. This is called a critical failure.
 
 ### Unseen Attackers and Targets
 
