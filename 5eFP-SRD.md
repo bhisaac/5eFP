@@ -72,6 +72,8 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_LEVEL_.** LEVEL equals the current level of play. LEVEL starts at 1 and increases over time to 7 as game objectives are completed.
 
+**_Line of Sight (LOS)_.** A target is within your line of sight if it is visible and not behind total cover. Certain game features, weapons, and spells target with a range of line of sight.
+
 **_Mana_.** Mana is a reserve of energy used to fuel spells or other preternatural game features.
 
 **_Map, Encounter_.** You set up a 14-square by 14-square encounter map near the exploration map when an encounter is revealed. Each square within the map is measured 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters. Unlike the exploration map, you do not cover this map with obscuring map tiles.
@@ -1674,7 +1676,7 @@ You see normally in magical darkness, and you can read all writing.
 
 _Prerequisite: eldritch blast cantrip_
 
-When you cast _eldritch blast_, its range becomes line of sight.
+When you cast _eldritch blast_, its range becomes LOS.
 
 ### Eldritch Vigor
 
@@ -2210,35 +2212,33 @@ You gain the following game features while wearing heavy armor.
 
 ...
 
-||||
-|:-|:-|:-|
 |**Light Armor**|**Modifiers**|**Cost**|
-||||
+|:-|:-|:-|
 |Padded|Disadvantage|⛁|
 |Leather||⛁|
-||||
+
 |**Medium Armor**|**Modifiers**|**Cost**|
-||||
+|:-|:-|:-|
 |Breastplate||6⛁|
 |Chain Mail|Disadvantage|3⛁|
-||||
+
 |**Heavy Armor**|**Modifiers**|**Cost**|
-||||
+|:-|:-|:-|
 |Full Plate|Disadvantage|12⛁|
 
 ### Getting Into and Out of Armor
 
-You may don or doff armor as part of completing a Rest (Short Rest).
+You may don or doff armor as part of completing a rest.
 
 ## Weapons
 
 Your class grants proficiency in certain weapons, reflecting both the class’s focus and the tools you are most likely to use. Whether you favor a longsword or a longbow, your weapon and your ability to wield it effectively can mean the difference between life and death while adventuring.
 
-The Weapons table shows the most common weapons used in the fantasy gaming worlds, their price and weight, the damage they deal when they hit, and any special properties they possess. Every weapon is classified as either melee or ranged. A **melee weapon** is used to attack a target within 5 feet of you, whereas a **ranged weapon** is used to attack a target at a distance.
+The Weapons table shows the most common weapons used in the fantasy gaming worlds, their price and weight, the damage they deal when they hit, and any special properties they possess. Every weapon is classified as either melee or ranged. A **melee weapon** is used to attack a target within your reach, whereas a **ranged weapon** is used to attack a target at a distance.
 
 ### Weapon Proficiency
 
-Your species, class, and feats can grant you proficiency with certain weapons or categories of weapons. The two categories are simple and martial. Most people can use simple weapons with proficiency. These weapons include clubs, maces, and other weapons often found in the hands of commoners. Martial weapons, including swords, axes, and polearms, require more specialized training to use effectively. Most warriors use martial weapons because these weapons put their fighting style and training to best use.
+Your species, class, and feats can grant you proficiency with certain weapons or categories of weapons. The two categories are simple and martial. Most people can use simple weapons with proficiency. These weapons include clubs, maces, and other weapons often found in the hands of commoners. Martial weapons, including swords, axes, and polearms, require more specialized training to use effectively. Most warriors use martial weapons because these weapons put their fighting style and training to the best use.
 
 Proficiency with a weapon allows you to add your LEVEL to the attack roll for any attack you make with that weapon. If you make an attack roll using a weapon with which you lack proficiency, you do not add your LEVEL to the attack roll.
 
@@ -2246,7 +2246,7 @@ Proficiency with a weapon allows you to add your LEVEL to the attack roll for an
 
 Many weapons have special properties related to their use, as shown in the Weapons table.
 
-**_Ammunition._** You can use a weapon with the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon in your equipment. Ammunition is a special multi-use item. Each time you attack with the weapon that uses ammunition and roll a 1, your ammunition depletes, as indicated by either turning the ammunition card sideways or otherwise marking the ammunition somehow. If your ammunition is already depleted, you have only one piece of ammunition left, represented by turning the card upside down or marking a 1 next to the ammunition. After using the last piece of ammunition, discard the ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-­handed weapon).
+**_Ammunition._** You can use a weapon with the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon in your equipment. Ammunition is a special multi-use item. Each time you attack with the weapon that uses ammunition and roll a critical failure, your ammunition depletes, as indicated by either turning the ammunition card sideways or otherwise marking the ammunition somehow. If your ammunition is already depleted, you have only one piece of ammunition left, represented by turning the card upside down or marking a 1 next to the ammunition. After using the last piece of ammunition, discard the ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-­handed weapon).
 
 Ammunition may be used to make melee attacks. If you are proficient with the weapon that uses the ammunition, you are proficient with melee attacks using that weapon's ammunition as well. Ammunition deals 1 point of damage. If you use a weapon with the ammunition property to make a melee attack, you treat the weapon as an improvised weapon (see “Improvised Weapons” later in the section). A sling must be loaded to deal any damage when used in this way.
 
@@ -2288,11 +2288,10 @@ Weapons with special rules are described here.
 When you use an action or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.
 
 **SIMPLE MELEE WEAPONS**
-||||||
-|:-|:-:|:-|:-:|:-|
 |**Name**|**Cost**|**Damage**|**Slots**|**Properties**|
+|:-|:-:|:-|:-:|:-|
 |Club|1⛁|1 bludgeoning|1|Light|
-|Dagger|1⛁|1 piercing|1|Finess, light, multi-use, thrown (range 4)|
+|Dagger|1⛁|1 piercing|1|Light, multi-use, thrown (range 4)|
 |Greatclub|1⛁|1 bludgeoning|2|Two-handed|
 |Handaxe|1⛁|1 slashing|1|Light, multi-use, thrown (range 4)|
 |Javelin|1⛁|1 piercing|1|Multi-use, thrown (range 6)|
@@ -2306,10 +2305,10 @@ When you use an action or reaction to attack with a net, you can make only one a
 ||||||
 |:-|:-:|:-|:-:|:-|
 |**Name**|**Cost**|**Damage**|**Slots**|**Properties**|
-|Crossbow, light|2⛁|1 piercing|1|Ammunition (range line of sight), loading, two-handed|
+|Crossbow, light|2⛁|1 piercing|1|Ammunition (range LOS), loading, two-handed|
 |Dart|1⛁|1 piercing|1|Multi-use, thrown (range 4)|
-|Shortbow|2⛁|1 percing|1|Ammunition (range line of sight), two-handed|
-|Sling|1⛁|1 bludgeoning|1|Ammunition (range line of sight)|
+|Shortbow|2⛁|1 percing|1|Ammunition (range LOS), two-handed|
+|Sling|1⛁|1 bludgeoning|1|Ammunition (range LOS)|
 
 **MARTIAL MELEE WEAPONS**
 ||||||
@@ -2337,8 +2336,8 @@ When you use an action or reaction to attack with a net, you can make only one a
 |**Name**|**Cost**|**Damage**|**Slots**|**Properties**|
 |Blowgun|2⛁|1 piercing|1|Ammunition (range 5), loading|
 |Crossbow, hand|6⛁|1 piercing|1|Ammunition (range 6), light, loading|
-|Crossbow, heavy|4⛁|2 piercing|3|Ammunition (range line of sight), heavy, loading, two-handed|
-|Longbow|4⛁|1 piercing|2|Ammunition (range line of sight), heavy, two-handed|
+|Crossbow, heavy|4⛁|2 piercing|3|Ammunition (range LOS), heavy, loading, two-handed|
+|Longbow|4⛁|1 piercing|2|Ammunition (range LOS), heavy, two-handed|
 |Net|1⛁|--|1|Special, thrown (range 1)|
 
 ### Adventuring Gear
@@ -3099,7 +3098,7 @@ When PCs form a group, they choose one of three beneficial status effects that a
 Players with the defender role typically strive to draw the focus of adversaries while safeguarding the more vulnerable player characters in the group from harm. The following features take effect during an encounter before initiative order is determined.
 
 - You gain _Bolster 1_. You may combine this bolster with another bolster effect.
-- At the end of each of your turns, all minions, elites, and bosses that can see you gain the taunted condition if you are not unconscious or incapacitated and are the closest adversary within their line of sight.
+- At the end of each of your turns, all minions, elites, and bosses that can see you gain the taunted condition if you are not unconscious or incapacitated and are the closest adversary within their LOS.
 - You take your turn immediately. You pass your turn on round 1.
 
 ### Healer
@@ -4664,7 +4663,7 @@ All bosses automatically have the following legendary actions.
 
 - **Attack.** The boss may move up to its speed and make one attack against a creature within range.
 - **Combat Reflexes.** The boss regains its reaction.
-- **Bolster LEVEL.** The boss gains a bolster pool equal to LEVEL. A boss can only activate this legendary action if a minion is within its line of sight.
+- **Bolster LEVEL.** The boss gains a bolster pool equal to LEVEL. A boss can only activate this legendary action if a minion is within its LOS.
 
 ### A Boss' Lair
 
@@ -4905,7 +4904,7 @@ An awakened shrub is an ordinary plant given sentience and mobility by the *awak
 
 #### Legendary Actions
 
-**Revive (1 Action/minion).** Restore one defeated plant minion within line of sight to full health for each point spent. Plant minions defeated with fire cannot be revived in this way.
+**Revive (1 Action/minion).** Restore one defeated plant minion within LOS to full health for each point spent. Plant minions defeated with fire cannot be revived in this way.
 
 **Thrash (1 Action).** The awakened shrub boss deals slashing damage to adjacent foes. A successful DEX check reduces the damage by half.
 
@@ -5128,7 +5127,7 @@ The following definitions specify what happens to a creature while it is subject
 
 ## Frightened
 
-- A frightened creature has disadvantage on ability checks and attack rolls while the source of its fear is within line of sight.
+- A frightened creature has disadvantage on ability checks and attack rolls while the source of its fear is within LOS.
 - The creature can’t willingly move closer to the source of its fear.
 
 ## Grappled
