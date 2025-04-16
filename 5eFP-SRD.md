@@ -2188,9 +2188,7 @@ Made from supple and thin materials, light armor favors agile adventurers since 
 
 ***Padded.*** Padded armor consists of quilted layers of cloth and batting.
 
-***Leather.*** The breastplate and shoulder protectors of this armor are made of leather that has been stiffened by being boiled in oil. The rest of the armor is made of softer and more flexible materials.
-
-***Studded Leather.*** Made from tough but flexible leather, studded leather is reinforced with close-­set rivets or spikes.
+***Leather.*** The breastplate and shoulder protectors of this armor are made of leather that has been stiffened by being boiled in oil. The rest of the armor is made of softer and more flexible materials. Some leather may also be studded or reinforced with close-set rivets or spikes.
 
 ### Medium Armor
 
@@ -2202,9 +2200,13 @@ Medium armor offers more protection than light armor but also impairs movement m
 
 ### Heavy Armor
 
-Heavy armor decreases damage taken by LEVEL, but hinders movement, reducing your speed by 2 squares unless your STR is +2 or higher. Additionally, the wearer has disadvantage on DEX checks related to moving silently. Once per encounter, when an attack critically hits you while wearing heavy armor, you can treat it as a regular hit.
+Heavy armor decreases damage taken by LEVEL, but hinders movement, reducing your speed by 2 squares unless your STR is +2 or higher. Additionally, the wearer has disadvantage on DEX checks related to moving silently.
 
 ***Plate.*** Plate consists of shaped, interlocking metal plates to cover the entire body. A suit of plate includes gauntlets, heavy leather boots, a visored helmet, and thick layers of padding underneath the armor. Buckles and straps distribute the weight over the body.
+
+You gain the following game features while wearing heavy armor.
+
+- **_Heavy Armor (Encounter, Rest)_.** When an attack critically hits you while wearing heavy armor, you can treat it as a regular hit.
 
 ...
 
