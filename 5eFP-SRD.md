@@ -80,6 +80,8 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Map, World_.** The world map defines the game world and drives the game's story. It is a top-down illustration of the game world or region divided into a 14-square by 14-square grid. Each square within the grid is measured 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters.
 
+**_MAX Wounds_.** If the number of wounds you have equals your MAX Wounds score, you fall unconscious and make death saves at the beginning of each turn.
+
 **_Minion, Elite, and Boss_.** All three refer to encounter difficulty, typically referring to monsters found in monster encounters. Minions are manageable encounters that take only one successful hit or ability check to resolve. Elites are advanced encounters with improved abilities that typically require two or more successful hits or ability checks to resolve. Bosses are the most advanced and challenging encounters that typically require multiple hits and ability checks to resolve, have special abilities that exploit minions, always include a minion encounter, and may have up to two elites.
 
 **_Non-Player Character (NPC)_.** A character created and played by the gamemaster.
@@ -109,6 +111,8 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 **_Turn_.** During a round, a creature takes its turn, during which it can spend a wide variety of actions. Usually, over the course of one turn, a creature can take an action, use an object, or take a reaction (see Actions).
 
 **_Upgrade_.** Once the PCs Recall, they may spend Coin unlocking character upgrades. Available upgrades include background, class, and species and are limited to only those upgrades equal to or less than LEVEL. Once all PCs stop spending Coin on character upgrades, downtime begins.
+
+**_Wounds_.** Any damage assigned to you that you cannot reduce or prevent is converted to an equal number of wounds.
 
 **_World Map Tile_.** A square on the world map. A world map tile can either be explored or unexplored. An obscuring map tile covers unexplored world map tiles.
 
