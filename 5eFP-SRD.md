@@ -1088,7 +1088,7 @@ The following upgrades provide additional ways to gain inspiration.
 |-:|:-|
 |3⛁|**_Inspired Success (Cooldown)_.** You gain inspiration after resolving a critical success.|
 |3⛁|**_Inspired Failure (Cooldown)_.** You gain inspiration after resolving a critical failure.|
-|3⛁|**_Inspired Support (Cooldown)_.** If a game feature or effect helps you succeed when you would have otherwise failed, you gain inspiration at the end of your turn.|
+|3⛁|**_Inspired Support (Cooldown)_.** If a game feature helps you succeed when you would have otherwise failed, you gain inspiration at the end of your turn.|
 
 # Barbarian Upgrades
 
@@ -1139,9 +1139,10 @@ Your totem animal might be related to those listed here but more appropriate to 
 
 # Bard Upgrades
 
-||||
-|-:|:-|:-|
+## Level 1
+
 |**Cost**|**Feature**|**Details**|
+|-:|:-|:-|
 |2⛁|Jack of All Trades|Add +1 to nonproficient abilities|
 |2⛁|Song of Rest|You and your allies discard up to 1 wound when completing a rest|
 |3⛁|Magic|You start a game session with 4 Mana. You learn one spell from your class spell list.|
@@ -1174,9 +1175,10 @@ Gain proficiency with a nonproficient ability of your choice. Then choose two of
 
 # Cleric Upgrades
 
-||||
-|-:|:-|:-|
+## Level 1
+
 |**Cost**|**Feature**|**Details**|
+|-:|:-|:-|
 |3⛁|Channel Divinity (Rest)|...|
 |3⛁|Magic|You start a game session with 4 Mana. You learn one spell from your class spell list.|
 
@@ -1196,9 +1198,10 @@ A turned creature must spend its turns trying to move as far away from you as it
 
 # Druid Upgrades
 
-||||
-|-:|:-|:-|
+## Level 1
+
 |**Cost**|**Feature**|**Details**|
+|-:|:-|:-|
 |2⛁|Wild Shape|...|
 |2⛁|Druid Circle|...|
 |3⛁|Magic|You begin a game session with 4 mana. You learn one spell from the druid spell list.|
@@ -1251,9 +1254,8 @@ The Circle of the Land is made up of mystics and sages who safeguard ancient kno
 
 Once you gain access to a circle spell, you always have it prepared, and it doesn’t count against the number of spells you can prepare each day. If you gain access to a spell that doesn’t appear on the druid spell list, the spell is nonetheless a druid spell for you.
 
-|||
-|:-|:-|
 |**Land**|**Circle Spells**|
+|:-|:-|
 |Arctic|_hold person_, _spike growth_|
 |Coast|_mirror image_, _misty step_|
 |Desert|_blur_, _silence_|
@@ -1290,15 +1292,16 @@ The Circle of the Manyshaped are fierce wilderness protectors and powerful shape
 
 # Fighter Upgrades
 
-||||
-|-:|:-|:-|
+## Level 1
+
 |**Cost**|**Feature**|**Details**|
+|-:|:-|:-|
 |2⛁|Action Surge|...|
 |3⛁|Martial Archetype|...|
 
 ## Action Surge (Rest)
 
-You can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action on top of your regular action.
+You can push yourself beyond your normal limits for a moment. The next action you take on your turn does not require you to discard your action.
 
 ## Martial Archetype
 
@@ -1310,9 +1313,10 @@ The archetypal Champion focuses on the development of raw physical power honed t
 
 # Paladin Upgrades
 
-||||
-|-:|:-|:-|
+## Level 1
+
 |**Cost**|**Feature**|**Details**|
+|-:|:-|:-|
 |2⛁|Fighting Style|...|
 |2⛁|Spellcasting|...|
 |2⛁|Divine Smite|...|
@@ -1422,9 +1426,10 @@ A turned creature must spend its turns trying to move as far away from you as it
 
 # Monk Upgrades
 
-||||
-|-:|:-|:-|
+## Level 1
+
 |**Cost**|**Feature**|**Details**|
+|-:|:-|:-|
 |2⛁|Ki|...|
 |3⛁|Prerequisite: Ki|You gain +1 ki|
 |2⛁|Unormored Movement|...|
@@ -1480,9 +1485,10 @@ If you reduce the damage to 0, you can catch the missile if it is small enough f
 
 # Ranger Upgrades
 
-||||
-|-:|:-|:-|
+## Level 1
+
 |**Cost**|**Feature**|**Details**|
+|-:|:-|:-|
 |2⛁|Fighting Style|...|
 |2⛁|Spellcasting|...|
 |3⛁|Ranger Archetype|...|
@@ -1551,17 +1557,16 @@ You gain one of the following features of your choice:
 
 Being a ranger means you are mystically connected to the land and to those who dwell upon it. You have an innate ability to communicate with beasts, and they recognize you as a kindred spirit. Through sounds and gestures, you can communicate simple ideas to a beast and can read its basic mood and intent. You learn its emotional state, whether it is affected by magic of any sort, its short-term needs (such as food or safety), and actions you can take (if any) to persuade it not to attack. You cannot use this ability against a creature you attacked during the encounter.
 
-~~You spend 1 mana to focus your awareness on the region around you. For the rest of the encounter, you can sense whether the following types of creatures are present on the map: aberrations, celestials, dragons, elementals, fey, fiends, and undead. This feature doesn’t reveal the creatures’ location or number.~~
-
 # Rogue Upgrades
 
 TBA
 
 # Sorcerer Upgrades
 
-||||
-|-:|:-|:-|
+## Level 1
+
 |**Cost**|**Feature**|**Details**|
+|-:|:-|:-|
 |2⛁|Font of Magic|...|
 |3⛁|Magic|You begin a game session with 4 mana. You learn one spell from the sorcerer spell list.|
 |3⛁|Metamagic|...|
@@ -1627,9 +1632,10 @@ To be eligible, a spell must be incapable of targeting more than one creature at
 
 # Warlock Upgrades
 
-||||
-|-:|:-|:-|
+## Level 1
+
 |**Cost**|**Feature**|**Details**|
+|-:|:-|:-|
 |2⛁|Eldritch Invocations|...|
 |3⛁|Magic|You gain Pact Magic (Rest 2). Add +1 known spell from the warlock spell list.|
 |3⛁|Pact Boon|...|
@@ -1740,7 +1746,28 @@ If you lose your Tome of Secrets, you can perform a ceremony to receive a replac
 
 # Wizard Upgrades
 
-TBA
+## Level 1
+
+|**Cost**|**Feature**|**Details**|
+|-:|:-|:-|
+|2⛁|Arcane Tradition|...|
+|3⛁|Magic|You begin a game session with 4 mana. You learn one spell from the wizard spell list.|
+
+## Arcane Tradition
+
+You choose an arcane tradition, shaping your practice of magic through one of eight schools, such as Evocation.
+
+The study of wizardry is ancient, stretching back to the earliest mortal discoveries of magic. It is firmly established in fantasy gaming worlds, with various traditions dedicated to its complex study.
+
+The most common arcane traditions in the multiverse revolve around the schools of magic. Wizards through the ages have cataloged thousands of spells, grouping them into eight categories called schools. In some places, these traditions are literally schools. In other institutions, the schools are more like academic departments, with rival faculties competing for students and funding. Even wizards who train apprentices in the solitude of their own towers use the division of magic into schools as a learning device, since the spells of each school require mastery of different techniques.
+
+### Evocation
+
+You focus your study on magic that creates powerful elemental effects such as bitter cold, searing flame, rolling thunder, crackling lightning, and burning acid. Some evokers find employment in military forces, serving as artillery to blast enemy armies from afar. Others use their spectacular power to protect the weak, while some seek their own gain as bandits, adventurers, or aspiring tyrants. You gain the following game features.
+
+**_Evocation Savant_.** The Coin required to add evocation spells to your spellbook is halved.
+
+**_Sculpt Spells_.** You can create pockets of relative safety within the effects of your evocation spells. When you cast an evocation spell that affects other creatures that you can see, you can choose a number of them equal to 1 + the spell’s level. The chosen creatures automatically succeed on their ability checks against the spell, and they take no damage if they would normally take half damage on a successful check.
 
 # Alignment
 
@@ -3387,7 +3414,7 @@ You can forgo moving, taking an action, taking a reaction, or doing anything at 
 
 # Actions
 
-An action is a discrete measurement of time and effort. Using game features, casting spells, and making attacks require you to discard your action. Once discarded, an action remains discarded until the beginning of your next turn.
+An action is a discrete measurement of time and effort. Using certain game features, casting spells, and making attacks require you to discard your action. Once discarded, an action remains discarded until the beginning of your next turn.
 
 When you discard your action, you can take one of the actions presented here, take an action you gained from a game feature, or take an action you improvise. Many monsters have action options of their own in their stat blocks.
 
