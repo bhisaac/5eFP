@@ -1145,7 +1145,7 @@ Your totem animal might be related to those listed here but more appropriate to 
 |-:|:-|:-|
 |2⛁|Jack of All Trades|Add +1 to nonproficient abilities|
 |2⛁|Song of Rest|You and your allies discard up to 1 wound when completing a rest|
-|3⛁|Magic|You start a game session with 4 Mana. You learn one spell from your class spell list.|
+|3⛁|Magic|You start a game session with 4 Mana. You learn one spell from the bard spell list.|
 |3⛁|Bard College|...|
 |3⛁|Expertise|...|
 
