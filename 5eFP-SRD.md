@@ -68,6 +68,8 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Player Character (PC)_.** A character created and played by a player.
 
+**_Proficiencies_.** If you are proficient with a game feature, you can use it without penalty and add LEVEL to any attack or ability check you make using it. You can only add LEVEL to a proficiency once.
+
 **_Non-Player Character (NPC)_.** A character created and played by the gamemaster.
 
 **_LEVEL_.** LEVEL equals the current level of play. LEVEL starts at 1 and increases over time to 7 as game objectives are completed.
