@@ -1925,7 +1925,7 @@ If the result of your chosen action further affects you on subsequent rounds dur
 >>> 
 >>> _(GM)_ "OK, great. Tell us about what action your character wants to take. And then, when you're ready, tell us what happens."
 >>> 
->>> _(Player 2)_ "Lita jumps out of the shadows where she's hiding and attacks the goblin, catching it off guard and unaware. She strikes with a critical hit, dealing maximum damage to the creature, adding her sneak attack damage."
+>>> _(Player 2)_ "Dunsmuir jumps out of the shadows where he's hiding and attacks the goblin, catching it off guard and unaware. He strikes with a critical hit, dealing maximum damage to the creature, adding his sneak attack damage."
 >>> 
 >> In example 2, _Player 2_'s action resolves a successful attack action from a hidden position and then finishes. The action does not continue on subsequent rounds.
 
@@ -1935,9 +1935,9 @@ Your survival awards expanded capacities, allowing you to identify and acquire n
 
 When you use your dedication to activate Survival, choose one of the following:
 
-- Reveal a game objective. Place a foothold or setting handbook requirement on a revealed square of your choice up to 2 squares away from you.
-- Gain an advantage (playtesting). Choose any game feature in the playing field and gain temporary access until the beginning of your next turn. Game features include spells, items, or class features. You control the item, which is treated as if it were in your hands. If the item is multi-use, you gain one free use even if no uses remain. You control and cast the spell, ignoring prerequisites. You can only choose a spell with a duration of encounter or instantaneous, and you cannot choose to control a spell already in effect. If the chosen class feature has rules that take effect when an encounter or game session begins, they take effect as if it were the beginning of the encounter or the start of the game session.
-- Gain a skill (playtesting). Choose an incomplete background, class, or species upgrade available to you and gain temporary access to its game features until the beginning of your next turn. You must still satisfy any prerequisites before choosing the upgrade.
+- **_Reveal a game objective_.** Place a foothold or setting handbook requirement on a revealed square of your choice up to 2 squares away from you.
+- **_Gain an advantage (playtesting)_.** Choose any game feature in the playing field and gain temporary access until the beginning of your next turn. Game features include spells, items, or class features. You control the item, which is treated as if it were in your hands. If the item is multi-use, you gain one free use even if no uses remain. You control and cast the spell, ignoring prerequisites. You can only choose a spell with a duration of encounter or instantaneous, and you cannot choose to control a spell already in effect. If the chosen class feature has rules that take effect when an encounter or game session begins, they take effect as if it were the beginning of the encounter or the start of the game session.
+- **_Gain a skill (playtesting)_.** Choose an incomplete background, class, or species upgrade available to you and gain temporary access to its game features until the beginning of your next turn. You must still satisfy any prerequisites before choosing the upgrade.
 
 > **Other Game Systems**
 >
@@ -1949,7 +1949,7 @@ Every story has a beginning. Your character’s background reveals where you cam
 
 Choosing a background provides you with traits and important story cues about your character’s identity. Backgrounds describe all events leading up to joining a life of adventure. Your starting gear represents the implements and reagents typical of your chosen background. How did you learn the skills of your class? Refer to your setting handbook for potential answers to these questions.
 
-~~The most important question to ask about your background is what changed? Why did you stop doing whatever your background describes and start adventuring? Where did you get the money to purchase your starting gear, or, if you come from a wealthy background, why don’t you have more money? How did you learn the skills of your class? What sets you apart from ordinary people who share your background?~~
+The most important question to ask about your background is what changed? Why did you stop doing whatever your background describes and start adventuring? Where did you get the money to purchase your starting gear, or, if you come from a wealthy background, why don’t you have more money? How did you learn the proficiencies of your class? What sets you apart from ordinary people who share your background? Your setting handbook helps you answer these questions.
 
 The sample backgrounds presented here provide both concrete benefits (features, proficiencies, and languages) and roleplaying suggestions.
 
@@ -1960,7 +1960,7 @@ Most backgrounds give a character proficiency with one or more tools (detailed i
 If your character would gain the same proficiency from two different sources, choose a different tool proficiency instead.
 
 ### Languages
-Some backgrounds also allow characters to learn additional languages beyond those given by species. See “Languages.”
+Some backgrounds also allow characters to learn additional languages beyond those given by their species. See “Languages.”
 
 ### Equipment
 Each background provides a package of starting equipment.
@@ -1992,7 +1992,7 @@ You have a remarkable ability to connect with people. You understand their motiv
 
 ### Feature: False Identity
 
-As part of completing a short rest, you may switch to a secondary identity that includes documentation, established acquaintances, and disguises that allow you to assume that persona. While disguised, any ability checks made while keeping up your ruse gain advantage.
+As part of completing a rest, you may switch to a secondary identity that includes documentation, established acquaintances, and disguises that allow you to assume that persona. While disguised, any ability checks made while keeping up your ruse gain advantage.
 
 ## Entertainer
 
@@ -2034,9 +2034,7 @@ Whenever you spend a downtime round crafting an item, you benefit from completin
 
 ## Hermit
 
-~~You lived in seclusion--either in a sheltered community such as a monastery, or entirely alone--for a formative part of your life. In your time apart from the clamor of society, you found quiet, solitude, and perhaps some of the answers you were looking for.~~
-
-During a significant period of your life, you resided in isolation, either within a protected community like a monastery or completely by yourself. While being away from the busyness of society, you discovered peace, seclusion, and potentially some of the guidance you were looking for.
+During a significant period of your life, you resided in isolation, either within a protected community like a monastery or completely by yourself. While away from society's busyness, you discovered peace, seclusion, and potentially some of the guidance you were looking for.
 
 **Tool Proficiencies:** Herbalism kit
 
@@ -2049,8 +2047,6 @@ During a significant period of your life, you resided in isolation, either withi
 Whenever you discover anything, add an additional choice before making a decision.
 
 ## Outlaw
-
-~~You are an experienced criminal with a history of breaking the law. You have spent much time among other outlaws and still have contacts within the criminal underworld. You're far closer than most people to the seedy underbelly of civilization, and you have survived up to this point by flouting the rules and regulations of society.~~
 
 You have a long history of violating the law. You have spent a considerable amount of time with other criminals and still have connections with the criminal underworld. You are much more intimately acquainted with the darker side of life than most people, and you have managed to survive thus far by disregarding the rules and regulations of civilized society.
 
@@ -2066,8 +2062,6 @@ In addition, you understand a set of secret signs and symbols used to convey sho
 
 ## Outlander
 
-~~You grew up in the wilds, far from civilization and the comforts of town and technology. You've witnessed the migration of herds larger than forests, survived weather more extreme than any city-dweller could comprehend, and enjoyed the solitude of being the only thinking creature for m;iles in any direction. The wilds are in your blood, whether you were a nomad, an explorer, a recluse, a hunter-gatherer, or even a marauder. Even in places where you don't know the specific features of the terrain, you know the ways of the wild.~~
-
 You have grown up in an environment far away from civilization and the conveniences of technology. You have observed the migration of herds larger than forests and survived weather conditions that city-dwellers would find hard to fathom. You have also enjoyed the peace and quiet of being the only sentient being for miles in any direction. The wilderness runs in your veins, whether you were a nomad, an adventurer, a hermit, a hunter-gatherer, or even a raider. Even in places where you are unfamiliar with the specific features of the landscape, you understand the ways of the wild.
 
 **Tool Proficiencies:** One type of musical instrument
@@ -2078,11 +2072,11 @@ You have grown up in an environment far away from civilization and the convenien
 
 ### Feature: Wanderer
 
-While you are the group token controller, you reveal obscuring tiles up to 2 squares away provided you start your turn on natural terrain. You automatically detect and disarm any natural traps while moving the group token through natural terrain. You may set a natural trap during your round. You can only have 1 trap set this way per world map. When you use this feature to set a new trap, any previously set traps are removed. You may use this feature to place a foothold or an objective outlined within your setting handbook on an explored world map tile within 2 squares. Once you have used this feature in this way, you cannot do so again until the next game session.
+While you are the group token controller, you reveal obscuring tiles up to 2 squares away, provided you start your turn on natural terrain. You automatically detect and disarm any natural traps while moving the group token through natural terrain. You may set a natural trap during your round. You can only have 1 trap set this way per world map. When you use this feature to set a new trap, any previously set traps are removed.
+
+**_Wanderer (Cooldown)_.** During your turn, you place a campfire, resource, or treasure encounter on an explored world map tile within 2 squares.
 
 ## Scholar
-
-~~You spent years learning the lore of the multiverse. You scoured manuscripts, studied scrolls, and listened to the greatest experts on the subjects that interest you. Your efforts have made you a master in your fields of study.~~
 
 You devoted numerous years of your life to gaining knowledge about the multiverse. You meticulously scoured through manuscripts, delved into scrolls, and paid rapt attention to the leading authorities on subjects that fascinated you. As a result of your hard work, you have become an expert in your chosen areas of study.
 
@@ -2092,11 +2086,9 @@ You devoted numerous years of your life to gaining knowledge about the multivers
 
 ### Feature: Researcher
 
-Once during the downtime phase, before spending any ⛁, you gain ⛁ this round for research only. You may spend this ⛁ on any available research at any location. If there are no available research tracks, add one to any location and spend the bonus ⛁ on the added research.
+Once during downtime, before spending any ⛁, you gain ⛁ this round for research only. You may spend this ⛁ on any available research at any location. If there are no available research tracks, add one to any location and spend the bonus ⛁ on the added research.
 
 ## Seafarer
-
-~~You sailed on a seagoing vessel for years. In that time, you faced down mighty storms, monsters of the deep, and those who wanted to sink your craft to the bottomless depths. Your first love is the distant line of the horizon, but the time has come to try your hand at something new.~~
 
 For years, you spent your time on a seafaring vessel, braving powerful storms, sea monsters, and enemies who sought to sink your ship to the bottom of the ocean. Although your passion has always been for the far-off horizon, you now feel the urge to venture out and try something different.
 
