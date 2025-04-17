@@ -66,12 +66,6 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Headquarters (HQ)_.** Each world map has an HQ, usually located at the center of the map, representing the central organization or organizing force responsible for maintaining the health and security of the game world or region. All PCs are peers and colleagues within this organization. You are objectively safe from the conflict at HQ, provided HQ receives the setting handbook requirement. Unless stated otherwise, PCs always begin and end a game session at HQ.
 
-**_Player Character (PC)_.** A character created and played by a player.
-
-**_Proficiencies_.** If you are proficient with a game feature, you can use it without penalty and add LEVEL to any attack or ability check you make using it. You can only add LEVEL to a proficiency once.
-
-**_Non-Player Character (NPC)_.** A character created and played by the gamemaster.
-
 **_LEVEL_.** LEVEL equals the current level of play. LEVEL starts at 1 and increases over time to 7 as game objectives are completed.
 
 **_Line of Sight (LOS)_.** A target is within your line of sight if it is visible and not behind total cover. Certain game features, weapons, and spells target with a range of line of sight.
@@ -86,7 +80,13 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Minion, Elite, and Boss_.** All three refer to encounter difficulty, typically referring to monsters found in monster encounters. Minions are manageable encounters that take only one successful hit or ability check to resolve. Elites are advanced encounters with improved abilities that typically require two or more successful hits or ability checks to resolve. Bosses are the most advanced and challenging encounters that typically require multiple hits and ability checks to resolve, have special abilities that exploit minions, always include a minion encounter, and may have up to two elites.
 
+**_Non-Player Character (NPC)_.** A character created and played by the gamemaster.
+
 **_Obscuring Map Tiles_.** Obscuring map tiles are two-sided opaque map tiles that cover unexplored areas of a map or may represent areas of preternatural or magical darkness.
+
+**_Player Character (PC)_.** A character created and played by a player.
+
+**_Proficiencies_.** If you are proficient with a game feature, you can use it without penalty and add LEVEL to any attack or ability check you make using it. You can only add LEVEL to a proficiency once.
 
 **_Recall (Cooldown)_.** A PC is transported back to the HQ map room after finishing a special Recall ritual completed outside of an encounter. PCs instantaneously Recall when the time marker reaches 8.
 
