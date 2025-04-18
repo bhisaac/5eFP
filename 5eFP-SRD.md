@@ -1713,13 +1713,13 @@ _Innate Spellcasting_
 
 You can innately cast _mage armor_ on yourself at will.
 
-### Beast Speech
+### Beast Speech (Action)
 
 _Innate Spellcasting_
 
 You can innately cast _speak with animals_ at will.
 
-### Beguiling Influence (Cooldown)
+### Beguiling Influence (Action, Cooldown)
 
 _Innate Spellcasting_
 
