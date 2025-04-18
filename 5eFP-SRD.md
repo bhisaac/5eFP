@@ -1129,7 +1129,7 @@ You forge a spiritual and inspired connection to an animal spirit who functions 
 
 ### Spirit Seeker
 
-Yours is a path that seeks attunement with the natural world, giving you a kinship with beasts. You gain the ability to cast the _beast sense_ and _speak with animals_ spells, but only as rituals (see _Spellcasting_).
+Yours is a path that seeks attunement with the natural world, giving you a kinship with beasts. You gain the ability to cast the _beast link_ and _speak with animals_ spells, but only as rituals (see _Spellcasting_).
 
 ### Totem Spirit
 
@@ -1244,7 +1244,7 @@ While you are transformed, the following rules apply:
 
 ## Druid Circle
 
-You choose to identify with a circle of druids, such as the Circle of the Land or the Circle of the Sun and Moon.
+You choose to identify with a circle of druids, such as the Circle of the Land, the Circle of the Sun and Moon, or the Circle of the Manyshaped.
  
 ### Circle of the Land
 
@@ -1292,7 +1292,7 @@ The Circle of the Manyshaped are fierce wilderness protectors and powerful shape
 
 > **_Pounce._** Whenever you take the Attack action, move at least 3 squares in a line toward a creature, and hit it with a melee attack, it must succeed on a DC (14 + LEVEL) STR check or be knocked prone. If the creature is prone, you can make one melee attack against it.
 
-**_Travel_.** Your movement changes to double your speed. Once travel form is activated, the travel form can be reactivated on the exploration map anytime outside of an encounter until you Recall. When you reactivate travel form, set aside any wild-shape form you are currently in. When travel form ends due to entering an encounter or taking 1 or more points of damage, you shift back into the wild shape form you set aside.
+**_Travel_.** Your movement changes to double your base speed. Once travel form is activated, the travel form can be reactivated on the exploration map anytime outside of an encounter until you Recall. When you reactivate travel form, set aside any wild shape form you are currently in. When travel form ends due to entering an encounter or taking 1 or more points of damage, you shift back into the wild shape form you set aside.
 
 # Fighter Upgrades
 
@@ -4056,9 +4056,18 @@ This spell lets you convince a beast that you mean it no harm. Choose a beast th
 |The spell doesn’t take into account any possible circumstances that might change the outcome, such as the casting of additional spells or the loss or gain of a companion.|
 |The GM makes any necessary adjustments to the narrative to incorporate these readings into the story.|
 
-### Spells (B)
+## Spells (B)
 
-### Bane
+### Beast Link (Encounter)
+
+- 2nd-level divination
+- Range: Touch
+- Components: S
+- Duration: Encounter (Concentration)
+
+You touch a willing beast and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can discard your action on subsequent turns to maintain this connection, extending the duration until the end of your next turn. While perceiving through the other creature’s senses, you benefit from any special senses possessed by that creature, and you are blinded and deafened to your own surroundings.
+
+### Bane (Encounter)
 
 - _1st-­level enchantment_
 - **Range:** 6 squares
