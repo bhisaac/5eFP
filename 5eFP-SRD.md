@@ -973,9 +973,8 @@ You have made a pact with a powerful elemental from within the Primordial Chaos,
 
 The Primordial lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
 
-|||
-|:-:|:-:|
 |Spell Level|Spells|
+|:-:|:-:|
 |1st|Burning Hands, Thunderwave|
 |2nd|Acid Arrow, Flaming Sphere|
 |3rd|Fireball, Lightning Bolt|
@@ -989,9 +988,9 @@ The Primordial lets you choose from an expanded list of spells when you learn a 
 
 ### Elemental Attunement
 
-Your patron bestows you the ability to adapt elemental energies within the spells you cast from the Primordial expanded spell list. Whenever you cast a spell from the Primordial expanded spell list that deals energy damage, you may choose to replace the energy type with the type preferred by your patron (Phoenix: fire, Laviathon: cold, Zaraton: acid, and Elder Tempest: lightning).
+Your patron bestows you the ability to adapt elemental energies within the spells you cast from the Primordial expanded spell list. Whenever you cast a spell from the Primordial expanded spell list that deals elemental damage (fire, cold, acid, or lighting) damage, you may choose to replace the damage type with the type preferred by your patron (Phoenix: fire, Laviathon: cold, Zaraton: acid, and Elder Tempest: lightning). Spells you cast ignore damage resistance to your patron's preferred damage type.
 
-Spells affected by this feature lose any secondary effects. For example, a cold _fireball_ no longer ignites combustibles within the spell's area of effect. Similarly, an acid _thunderwave_ does not push creatures or unsecured objects and no longer generates a thunderous boom.
+Spells modified by this feature lose secondary effects unrelated to elemental damage. For example, a cold _fireball_ no longer ignites combustibles within the spell's area of effect. Similarly, an acid _thunderwave_ does not push creatures or unsecured objects and no longer generates a thunderous boom. A lightning _acid arrow_, however, still deals additional lightning damage at the end of the creature's next turn.
 
 # Wizard
 
@@ -4010,7 +4009,7 @@ This awareness lasts until the beginning of your next turn and can penetrate mos
 
 A shimmering green arrow streaks toward a target within range and bursts in a spray of acid. Make a ranged spell attack against the target. On a hit, the target takes 1 acid damage immediately and 1 acid damage at the end of its next turn. On a miss, the arrow splashes the target with acid for half as much of the initial damage and no damage at the end of its next turn.
 
-**At Higher Levels.** When you cast this at a higher level, the initial damage (both initial and later) increases by +1 for each level above 2nd.
+**At Higher Levels.** When you cast this at a higher level, the damage (both initial and later) increases by +1 for each level above 2nd.
 
 ### Acid Splash
 
