@@ -1707,17 +1707,23 @@ _Prerequisite: eldritch blast cantrip_
 
 Your _eldritch blast_ spells deal +1 damage.
 
-### Eldritch Armor
+### Eldritch Armor (Action)
 
-You can cast _mage armor_ on yourself at will, without using your pact magic feature.
+_Innate Spellcasting_
+
+You can innately cast _mage armor_ on yourself at will.
 
 ### Beast Speech
 
-You can cast _speak with animals_ at will, without using your pact magic feature.
+_Innate Spellcasting_
+
+You can innately cast _speak with animals_ at will.
 
 ### Beguiling Influence (Cooldown)
 
-You cast _charm person_ without verbal or somatic components and without using your pact magic feature.
+_Innate Spellcasting_
+
+You can innately cast _charm person_ without verbal or somatic components.
 
 ### Book of Ancient Secrets
 
@@ -1747,11 +1753,15 @@ You touch a willing humanoid and perceive through its senses until the end of yo
 
 ### Mask of Many Faces
 
-You can cast _disguise self_ at will.
+_Innate Spellcasting_
+
+You can inately cast _disguise self_ at will.
 
 ### Misty Visions
 
-You can cast _silent image_ at will.
+_Innate Spellcasting_
+
+You can inately cast _silent image_ at will.
 
 ### Repelling Blast
 
