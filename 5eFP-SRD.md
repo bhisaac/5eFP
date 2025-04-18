@@ -1229,7 +1229,7 @@ You have 4 + LEVEL MAX wounds and Defense 12 + LEVEL while in stealthy form. Whi
  
 ### Travel
 
-You can activate travel form outside of an encounter. You have 1 MAX wounds while in travel form. When activated, you and any chosen creatures within 6 squares of you transform into travel forms and move together. If an encounter begins or if 1 or more points of damage are dealt to you or another affected creature, your wild shape and all travel forms end. Your speed increases by +2 while in travel form.
+You can activate travel form outside of an encounter. You have 1 MAX wounds while in travel form. When activated, you and any chosen friendly and willing creatures within 6 squares of you transform into travel forms and move together. If an encounter begins or if 1 or more points of damage are dealt to you or another affected creature, your wild shape and all travel forms end. Your speed increases by +2 while in travel form.
 
 You can stay in a wild shape form until you Recall. You then revert to your normal form. You can discard your action to revert to your normal form earlier on your turn. If you fall unconscious, gain MAX wounds, or die, you automatically revert.
 
