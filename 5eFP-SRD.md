@@ -1351,12 +1351,14 @@ Intelligence (INT) is your spellcasting ability for your wizard spells. You lear
 
 You can cast a wizard spell as a ritual if that spell has the ritual tag and you know the spell.
 
-## Weapon Bond
+## Eldritch Weapon
 
 You learn a ritual that creates a magical bond between yourself and one weapon. You complete the ritual during a rest. The weapon must be within 1 square of you throughout the ritual, after which you touch the weapon and forge the bond. Your bonded weapon gains the following features.
 
 - Your bonded weapon cannot be disarmed while you have it equipped unless you are incapacitated.
-- **_Summon Bonded Weapon_.** If it is on the same plane of existence, you can summon a bonded weapon on your turn before or after discarding your action, causing it to teleport instantly to your hand. A bonded melee weapon with the thrown property does not deplete.
+- Your bonded weapon does not deplete.
+- This game feature considers shields a melee weapon with the thrown keyword and a range of up to 4 squares.
+- **_Summon Eldritch Weapon_.** If it is on the same plane of existence, you can summon a bonded weapon on your turn before or after discarding your action, causing it to teleport instantly to your hand.
 
 With this game feature, you can have up to two bonded weapons, but you can summon only one at a time. If you attempt to bond with a third weapon, you must break the bond with one of the other two.
 
