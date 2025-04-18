@@ -2276,7 +2276,7 @@ Made from supple and thin materials, light armor favors agile adventurers since 
 
 ### Medium Armor
 
-Medium armor offers more protection than light armor but also impairs movement more. Medium armor reduces any damage dealt to you by 1 and grants Bolster 1 at the start of an encounter, but the wearer has disadvantage on DEX checks related to moving silently.
+Medium armor offers more protection than light armor but also impairs movement more. Medium armor reduces any damage dealt to you by 1 and grants Bolster 1 at the start of an encounter, but the wearer has disadvantage on DEX checks related to moving silently. Your Defense while wearing medium armor equals 10 + DEX (maximum +2).
 
 ***Breastplate.*** This armor consists of a fitted metal chest piece worn with supple leather. Although it leaves the legs and arms relatively unprotected, this armor provides good protection for the wearer’s vital organs while leaving the wearer relatively unencumbered.
 
@@ -2598,13 +2598,15 @@ _Prerequisite: Proficiency with medium armor_
 
 You gain proficiency with heavy armor and shields. At the beginning of each of your turns, if you are wearing heavy armor, you gain **bolster 1**. Unlike other sources of bolster, you may combine this bolster with another bolster once.
 
-- 3⛁: Permanently increase your bolster score granted through this feature by +1. You may choose this option up to three times and only once per level.
+- 3⛁: Permanently increase your bolster score granted through this feature by +1. You may choose this upgrade up to three times, but only once per level.
 
 ## Armor Training (Medium)
 
 _Prerequisite: Proficiency with light armor_
 
-You gain proficiency with medium armor and shields. Increase your maximum DEX score allowed while wearing medium armor by +1. Medium armor no longer imposes disadvantage on DEX checks.
+You gain proficiency with medium armor and shields. Increase your maximum DEX score allowed while wearing medium armor by +1. Medium armor no longer imposes disadvantage on DEX checks. Your Defense while wearing medium armor equals 10 + DEX (maximum +3).
+
+- 3⛁: Your Defense while wearing medium armor equals 10 + DEX (maximum +4).
 
 ## Armor Training (Light)
 
