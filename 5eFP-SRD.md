@@ -1309,11 +1309,56 @@ You can push yourself beyond your normal limits for a moment. The next action yo
 
 ## Martial Archetype
 
-You choose an archetype that you strive to emulate in your combat styles and techniques, such as Champion.
+You choose an archetype that you strive to emulate in your combat styles and techniques, such as Champion or Eldritch Knight.
 
-### Champion
+# Champion
 
 The archetypal Champion focuses on the development of raw physical power honed to deadly perfection. Those who model themselves on this archetype combine rigorous training with physical excellence to deal devastating blows. Your weapon attacks score a critical hit on a roll of 19 or 20.
+
+# Eldritch Knight
+
+The archetypal Eldritch Knight combines spellcasting with martial mastery common to all fighters. Eldritch Knights learn spells like wizards. Their attunement to martial mastery limits their magic studies to two of the eight schools of magic: abjuration and evocation. Abjuration spells protect, while evocation spells bring elemental energy to bear in combat, extending the fighter’s reach. These knights are dedicated to a few select spells, committing them to memory instead of keeping them in a spellbook.
+
+## Spellcasting
+
+You blend spells with melee and ranged weapons. You can cast 1st-level spells.
+
+### Cantrips
+
+You know two cantrips of your choice from the wizard spell list.
+
+### Mana
+
+You begin a game session with 2 mana. To cast one of your spells, you must spend an amount of mana equal to the spell’s level or higher.
+
+For example, if you know the 1st-level spell _magic missile_ and have 2 mana, you can spend 1 mana to cast _magic missile_ as a 1st-level spell or 2 mana to cast it as a 2nd-level spell.
+
+### Spells Known
+
+You know three 1st-level spells from the wizard spell list, two of which must be abjuration or evocation spells.
+
+Whenever you purchase a Magic upgrade, you can choose one of the abjuration or evocation wizard spells you know and replace it with another abjuration or evocation spell from the wizard spell list that you can cast.
+
+### Spellcasting Ability
+
+Intelligence (INT) is your spellcasting ability for your wizard spells. You learn your spells through dedicated study and memorization. You use your INT whenever a wizard spell refers to your spellcasting ability. In addition, you use INT when setting the DC for a wizard spell you cast and when making an attack roll with one.
+
+**Spell DC** = 10 + INT
+
+**Spell attack modifier** = 2 + INT
+
+### Ritual Casting
+
+You can cast a wizard spell as a ritual if that spell has the ritual tag and you know the spell.
+
+## Weapon Bond
+
+You learn a ritual that creates a magical bond between yourself and one weapon. You complete the ritual during a rest. The weapon must be within 1 square of you throughout the ritual, after which you touch the weapon and forge the bond. Your bonded weapon gains the following features.
+
+- Your bonded weapon cannot be disarmed while you have it equipped unless you are incapacitated.
+- Summon Bonded Weapon (Action or Reaction). If it is on the same plane of existence, you can summon a bonded weapon on your turn before or after taking an action or a reaction, causing it to teleport instantly to your hand.
+
+You can have up to two bonded weapons, but you can summon only one at a time with this game feature. If you attempt to bond with a third weapon, you must break the bond with one of the other two.
 
 # Paladin Upgrades
 
