@@ -34,7 +34,7 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Ability Score_.** Six ability scores ranging from -5 to +10 provide a quick description of every creature’s physical and mental characteristics, including strength (STR) measuring physical power, dexterity (DEX) measuring agility, constitution (CON) measuring endurance, intelligence (INT) measuring reasoning and memory, wisdom (WIS) measuring awareness, and charisma (CHA) measuring force of personality.
 
-**_Bolster_.** Bolster points help protect you from wounds. The number next to Bolster indicates how many points you have. If you take wounds, you use your Bolster points first to reduce them. Remaining wounds are then assigned as normal.
+**_Bolster_.** Bolster points help protect you from wounds. The number next to the bolster keyword indicates how many points you have. If you take wounds, you spend your bolster points first to reduce them. Each bolster point you spend reduces the number of wounds assigned to you by 1. Remaining wounds are then assigned as normal.
 
 **_Coin_ (⛁).** A 5eFP game awards and uses Coin (⛁) as its currency, representing wealth, reputation, and experience.
 
