@@ -4247,22 +4247,20 @@ Alternatively, you can make a target indifferent about creatures of your choice 
 |The summoned creature is friendly to you and your companions. Roll initiative for the summoned creature, which has its own turns. It obeys any verbal commands that you issue (no action required by you). If you don’t issue any commands, the animal defends itself from hostile creatures but otherwise takes no actions.|
 |The GM has the creatures’ statistics.|
 
-### Spells (D)
+## Spells (D)
 
-#### Disguise Self
-|_1st-level illusion_|
-|:-|
-|**Casting Time:** 1 action|
-|**Range:** Self|
-|**Components:** V,S|
-|**Duration:** Encounter|
-||
-|You make yourself—including your clothing, armor, weapons, and other belongings on your person—look different until the spell ends or until you discard your action to dismiss it. You can seem shorter or taller and can appear thin, fat, or in between, but your actual size remains the same. You can’t change your body type, so you must adopt a form that has the same basic arrangement of limbs. Otherwise, the extent of the illusion is up to you.
+### Disguise Self
+
+- _1st-level illusion_
+- **Range:** Self
+- **Components:** V, S
+- **Duration:** Encounter
+
+You make yourself, including your clothing, armor, weapons, and other belongings on your person, look different until the spell ends or until you discard your action to dismiss it. You can seem shorter or taller and can appear thin, fat, or in between, but your actual size remains the same. You can’t change your body type, so you must adopt a form that has the same basic arrangement of limbs. Otherwise, the extent of the illusion is up to you.
 
 The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to your outfit, objects pass through the hat, and anyone who touches it would feel nothing or would feel your head and hair. If you use this spell to appear thinner than you are, the hand of someone who reaches out to touch you will bump into you while it is seemingly still in midair.
 
 To discern that you are disguised, a creature can discard its action to inspect your appearance and must succeed on an INT check.
-|
 
 ### Spells (E)
 
