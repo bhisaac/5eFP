@@ -1256,7 +1256,7 @@ The Circle of the Land is made up of mystics and sages who safeguard ancient kno
 
 **_Circle Spells._** Your mystical connection to the land infuses you with the ability to cast certain spells. You gain access to circle spells connected to the land where you became a druid. Choose that land—arctic, coast, desert, forest, grassland, mountain, or swamp—and consult the associated list of spells.
 
-Once you gain access to a circle spell, you always have it prepared, and it doesn’t count against the number of spells you can prepare each day. If you gain access to a spell that doesn’t appear on the druid spell list, the spell is nonetheless a druid spell for you.
+Once you gain access to a circle spell, it becomes known. If you gain access to a spell that doesn’t appear on the druid spell list, the spell is nonetheless a druid spell for you.
 
 |**Land**|**Circle Spells**|
 |:-|:-|
