@@ -1386,6 +1386,10 @@ While you are wearing armor, you gain a +1 bonus to Defense.
 
 You learn two cantrips from the cleric spell list.
 
+- [Level 2] 2⛁ **_Potent Cantrips_.** Your cleric cantrips deal +1 damage.
+- [Level 4] 2⛁ **_Potent Cantrips_.** Your cleric cantrips deal +2 damage.
+- [Level 6] 2⛁ **_Potent Cantrips_.** Your cleric cantrips deal +3 damage.
+
 ### Great Weapon Fighting
 
 Whenever you attack and miss with a melee weapon you are wielding with two hands, you may reroll the attack once and must use the new roll. The weapon must have the two-handed property for you to gain this benefit.
@@ -1564,6 +1568,10 @@ While you are wearing armor, you gain a +1 bonus to Defense.
 ### Warden
 
 You learn two druid cantrips of your choice.
+
+- [Level 2] 2⛁ **_Potent Cantrips_.** Your druid cantrips deal +1 damage.
+- [Level 4] 2⛁ **_Potent Cantrips_.** Your druid cantrips deal +2 damage.
+- [Level 6] 2⛁ **_Potent Cantrips_.** Your druid cantrips deal +3 damage.
 
 ## Spellcasting
 
@@ -4263,7 +4271,18 @@ The changes wrought by this spell fail to hold up to physical inspection. For ex
 
 To discern that you are disguised, a creature can discard its action to inspect your appearance and must succeed on an INT check.
 
-### Spells (E)
+## Spells (E)
+
+### Eldritch Blast
+
+- _Evocation cantrip_
+- **Range:** LOS
+- **Components:** V, S
+- **Duration:** Instantaneous
+
+A beam of crackling energy streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1 force damage.
+
+The spell creates more than one beam when you reach higher levels: two beams at 2nd level, three beams at 4th level, and four beams at 6th level. You can direct the beams at the same target or at different ones. Make a separate attack roll for each beam.
 
 ### Spells (F)
 
