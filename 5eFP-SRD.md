@@ -1374,17 +1374,6 @@ With this game feature, you can have up to two bonded weapons, but you can summo
 |3⛁|Magic|You begin a game session with 3 mana. You learn one spell from the paladin spell list.|
 |3⛁|Sacred Oath|...|
 
-## Level 2
-
-|**Cost**|**Feature**|**Details**|
-|-:|:-|:-|
-|2⛁|Extra Attack|...|
-|2⛁|Magic|...|
-
-**_Extra Attack_.** You can attack twice instead of once whenever you take the Attack action on your turn.
-
-**_Magic_.** You begin a game session with 6 mana, and you can cast level 2 spells. You learn one spell from the paladin spell list.
-
 ## Fighting Style
 
 You adopt a style of fighting as your specialty. Choose one of the following options. You can’t take a Fighting Style option more than once, even if you later get to choose again.
@@ -1488,6 +1477,17 @@ You can end this effect on your turn as part of any other action. If you are no 
 **_Turn the Unholy_ (Action).** You present your holy symbol and speak a prayer censuring fiends and undead, using your Channel Divinity. Each fiend or undead that can see or hear you within 6 squares of you must make a WIS check. If the creature fails its check, it is turned until the end of the encounter or until it takes damage.
 
 A turned creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 6 squares of you. It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.
+
+## Level 2
+
+|**Cost**|**Feature**|**Details**|
+|-:|:-|:-|
+|2⛁|Extra Attack|...|
+|2⛁|Magic|...|
+
+**_Extra Attack_.** You can attack twice instead of once whenever you take the Attack action on your turn.
+
+**_Magic_.** You begin a game session with 6 mana, and you can cast level 2 spells. You learn one spell from the paladin spell list.
 
 # Monk Upgrades
 
