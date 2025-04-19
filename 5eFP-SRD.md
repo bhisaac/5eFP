@@ -763,6 +763,8 @@ You have advantage on WIS checks to track your favored enemies, as well as on IN
 
 When you gain this feature, you also learn one language of your choice that is spoken by your favored enemies, if they speak one at all.
 
+### Upgrades
+
 - +3⛁ \[level 2] Choose one additional favored enemy and an associated language.
 - +3⛁ \[level 5] Choose one additional favored enemy and an associated language.
 
@@ -771,6 +773,7 @@ When you gain this feature, you also learn one language of your choice that is s
 You are particularly familiar with one type of natural environment and are adept at traveling and surviving in such regions. Choose one type of favored terrain: arctic, coast, desert, forest, grassland, mountain, or swamp. While in your favored terrain, proficient ability checks related to your favored terrain gain expertise. (Expertise allows you to add your level to your bonus twice.)
 
 While traveling in your favored terrain and while you are the group token controller, you gain the following benefits:
+
 - Difficult terrain doesn’t slow your group’s travel.
 - Your group can’t become lost except by magical means.
 - Your group always acts on the surprise round.
@@ -778,9 +781,11 @@ While traveling in your favored terrain and while you are the group token contro
 - You find one additional resource when you gather resources.
 - While tracking other creatures, you also learn their exact number and sizes and how long ago they passed through the area.
 
+### Upgrades
+
 - +3⛁ \[level 2] Choose one additional favored terrain type.
 - +⛁ \[level 4] Choose one additional favored terrain type.
-- 
+
 # Rogue
 
 ## Class Features
