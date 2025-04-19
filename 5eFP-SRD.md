@@ -1625,6 +1625,14 @@ You gain one of the following features of your choice:
 
 Being a ranger means you are mystically connected to the land and to those who dwell upon it. You have an innate ability to communicate with beasts, and they recognize you as a kindred spirit. Through sounds and gestures, you can communicate simple ideas to a beast and can read its basic mood and intent. You learn its emotional state, whether it is affected by magic of any sort, its short-term needs (such as food or safety), and actions you can take (if any) to persuade it not to attack. You cannot use this ability against a creature you attacked during the encounter.
 
+## Level 2
+
+|**Cost**|**Feature**|**Details**|
+|-:|:-|:-|
+|2⛁|Magic|...|
+
+**_Magic_.** You begin a game session with 6 mana, and you can cast level 2 spells. You learn one spell from the ranger spell list.
+
 # Rogue Upgrades
 
 TBA
