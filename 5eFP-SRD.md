@@ -1374,6 +1374,17 @@ With this game feature, you can have up to two bonded weapons, but you can summo
 |3⛁|Magic|You begin a game session with 3 mana. You learn one spell from the paladin spell list.|
 |3⛁|Sacred Oath|...|
 
+## Level 2
+
+|**Cost**|**Feature**|**Details**|
+|-:|:-|:-|
+|2⛁|Extra Attack|...|
+|2⛁|Magic|...|
+
+**_Extra Attack_.** You can attack twice instead of once whenever you take the Attack action on your turn.
+
+**_Magic_.** You begin a game session with 6 mana, and you can cast level 2 spells. You learn one spell from the paladin spell list.
+
 ## Fighting Style
 
 You adopt a style of fighting as your specialty. Choose one of the following options. You can’t take a Fighting Style option more than once, even if you later get to choose again.
@@ -1400,7 +1411,7 @@ When a creature you can see attacks a target other than you that is within 1 squ
 
 ## Spellcasting
 
-You have learned to draw on divine magic through meditation and prayer to cast spells as a cleric does.
+You have learned to draw on divine magic through meditation and prayer to cast spells as a cleric does. You can cast 1st-level spells.
 
 ### Mana
 
