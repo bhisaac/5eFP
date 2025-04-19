@@ -1500,34 +1500,31 @@ A turned creature must spend its turns trying to move as far away from you as it
 |**Cost**|**Feature**|**Details**|
 |-:|:-|:-|
 |2⛁|Ki|...|
-|3⛁|Prerequisite: Ki|You gain +1 ki|
 |2⛁|Unormored Movement|...|
 |3⛁|Monastic Tradition|...|
 |3⛁|Deflect Missiles|...|
 
-## Ki
+## Ki (Rest 3)
 
-Your training allows you to harness the mystic energy of ki. Your access to this energy is represented by a number of ki points. You have 1 + LEVEL ki points.
+Your training allows you to harness the mystic energy of ki. You use this game feature to fuel various ki features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind.
 
-You can spend these points to fuel various ki features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind.
-
-When you spend a ki point, it is unavailable until you finish a rest or until the end of the game session, at the end of which you draw all of your expended ki back into yourself. You must spend half the rest meditating to regain your ki points. Once you spend 1 or more ki points, you cannot spend any more until the beginning of your next turn.
+You draw all of your ki back into yourself when you complete a rest in meditation.
 
 Some of your ki features require your target to make an ability check to resist the feature’s effects. The ki DC is calculated as follows:
 
 **Ki DC** = 10 +  WIS
 
-### Flurry of Blows
+### Flurry of Blows (Ki)
 
-Immediately after you take the Attack action on your turn, you can spend 1 ki point to make two unarmed strikes.
+Immediately after you take the Attack action on your turn, you make two unarmed strikes.
 
-### Patient Defense
+### Patient Defense (Ki)
 
-You can spend 1 ki point to take the Dodge action on your turn without discarding your action.
+You can take the Dodge action on your turn without discarding your action.
 
-### Step of the Wind
+### Step of the Wind (Ki)
 
-You can spend 1 ki point to take the Disengage or Dash action on your turn without discarding your action, and your jump distance is doubled for the turn.
+You can take the Disengage or Dash action on your turn without discarding your action, and your jump distance is doubled for the turn.
 
 ## Unarmored Movement
 
@@ -1546,11 +1543,11 @@ Monks of the Way of the Open Hand are the ultimate masters of martial arts comba
 - It must make a STR check. If it fails, you can push it up to 3 squares away from you.
 - It can’t take reactions until the end of your next turn.
 
-## Deflect Missiles
+## Deflect Missiles (Ki, Reaction)
 
-You can use your reaction to deflect or catch the piece of ammunition or missile when you are hit by a ranged weapon attack. When you do so, the damage you take from the attack is reduced by 1 + DEX + LEVEL (minimum 0).
+You use your ki to deflect or catch the piece of ammunition or missile when a ranged weapon attack hits you. When you do so, the damage you take from the attack is reduced by LEVEL + 1.
 
-If you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in one hand and you have at least one hand free. If you catch a missile in this way, you can spend 1 ki point to make a ranged attack with the weapon or piece of ammunition you just caught, as part of the same reaction. You make this attack with proficiency, regardless of your weapon proficiencies, and the missile counts as a monk weapon for the attack, which has a normal range of 4 squares and a long range of 12 squares.
+If you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in one hand and you have at least one hand free. If you catch a missile in this way, you can make a ranged attack with the weapon or piece of ammunition you just caught, as part of the same reaction. You make this attack with proficiency, regardless of your weapon proficiencies, and the missile counts as a monk weapon for the attack, which has a normal range of 4 squares and a long range of 12 squares.
 
 # Ranger Upgrades
 
