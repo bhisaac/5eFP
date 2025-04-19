@@ -1543,9 +1543,9 @@ Monks of the Way of the Open Hand are the ultimate masters of martial arts comba
 - It must make a STR check. If it fails, you can push it up to 3 squares away from you.
 - It can’t take reactions until the end of your next turn.
 
-## Deflect Missiles (Ki, Reaction)
+## Deflect Missiles (Reaction)
 
-You use your ki to deflect or catch the piece of ammunition or missile when a ranged weapon attack hits you. When you do so, the damage you take from the attack is reduced to 0. You catch the missile if it is small enough for you to hold in one hand and you have at least one hand free. If you catch a missile in this way, you can make a ranged attack with the weapon or piece of ammunition you just caught, as part of the same reaction. You make this attack with proficiency, regardless of your weapon proficiencies, and the missile counts as a monk weapon for the attack, which has a normal range of 4 squares and a long range of 12 squares.
+You deflect or catch the piece of ammunition or missile when a ranged weapon attack hits you, and the damage you take from the attack is reduced by LEVEL + 1. If the damage is reduced to 0, you catch the missile if it is small enough to hold in one hand and if you have at least one hand free. If you catch a missile in this way, you can spend one use of your Ki feature to make a ranged attack with the weapon or piece of ammunition you just caught, as part of the same reaction. You make this attack with proficiency, regardless of your weapon proficiencies, and the missile counts as a monk weapon for the attack, which has a normal range of 4 squares and a long range of 12 squares.
 
 # Ranger Upgrades
 
