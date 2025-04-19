@@ -1482,10 +1482,16 @@ A turned creature must spend its turns trying to move as far away from you as it
 
 |**Cost**|**Feature**|**Details**|
 |-:|:-|:-|
+|⛁|Ability Score Improvement|Choose and increase one ability score by +1 or gain one feat.|
 |2⛁|Extra Attack|You can attack twice instead of once whenever you take the Attack action on your turn.|
 |2⛁|Magic|...|
+|3⛁|Aura of Protection|...|
 
 **_Magic_.** You begin a game session with 6 mana, and you can cast level 2 spells. You learn one spell from the paladin spell list.
+
+**_Aura of Protection_.** Whenever you or a friendly creature within 2 squares of you must make an ability check to resist a game feature, the creature gains a bonus to the check equal to your CHA (minimum +1). You must be conscious to grant this bonus.
+
+- +⛁ \[Level 7] The range of this aura increases to 6 squares.
 
 # Monk Upgrades
 
