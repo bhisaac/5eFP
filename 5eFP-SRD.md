@@ -1386,9 +1386,9 @@ While you are wearing armor, you gain a +1 bonus to Defense.
 
 You learn two cantrips from the cleric spell list.
 
-- [Level 2] 2⛁ **_Potent Cantrips_.** Your cleric cantrips deal +1 damage.
-- [Level 4] 2⛁ **_Potent Cantrips_.** Your cleric cantrips deal +2 damage.
-- [Level 6] 2⛁ **_Potent Cantrips_.** Your cleric cantrips deal +3 damage.
+- +2⛁ [Level 2] **_Potent Cantrips_.** Your cleric cantrips deal +1 damage.
+- +2⛁ [Level 4] **_Potent Cantrips_.** Your cleric cantrips deal +2 damage.
+- +2⛁ [Level 6] **_Potent Cantrips_.** Your cleric cantrips deal +3 damage.
 
 ### Great Weapon Fighting
 
@@ -1569,9 +1569,9 @@ While you are wearing armor, you gain a +1 bonus to Defense.
 
 You learn two druid cantrips of your choice.
 
-- [Level 2] 2⛁ **_Potent Cantrips_.** Your druid cantrips deal +1 damage.
-- [Level 4] 2⛁ **_Potent Cantrips_.** Your druid cantrips deal +2 damage.
-- [Level 6] 2⛁ **_Potent Cantrips_.** Your druid cantrips deal +3 damage.
+- +2⛁ [Level 2] **_Potent Cantrips_.** Your druid cantrips deal +1 damage.
+- +2⛁ [Level 4] **_Potent Cantrips_.** Your druid cantrips deal +2 damage.
+- +2⛁ [Level 6] **_Potent Cantrips_.** Your druid cantrips deal +3 damage.
 
 ## Spellcasting
 
