@@ -1482,8 +1482,8 @@ A turned creature must spend its turns trying to move as far away from you as it
 
 |**Cost**|**Feature**|**Details**|
 |-:|:-|:-|
-|2⛁|Extra Attack|...|
-|2⛁|Magic|...|
+|2⛁|Extra Attack|You can attack twice instead of once whenever you take the Attack action on your turn.|
+|2⛁|Magic|You begin a game session with 6 mana, and you can cast level 2 spells. You learn one spell from the paladin spell list.|
 
 **_Extra Attack_.** You can attack twice instead of once whenever you take the Attack action on your turn.
 
