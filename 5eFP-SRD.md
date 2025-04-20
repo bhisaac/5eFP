@@ -763,8 +763,6 @@ You have advantage on WIS checks to track your favored enemies, as well as on IN
 
 When you gain this feature, you also learn one language of your choice that is spoken by your favored enemies, if they speak one at all.
 
-UPGRADES
-
 |Cost|Prerequisites|Details|
 |-:|:-|:-|
 |3⛁|Level 2|Choose one additional favored enemy and an associated language.|
@@ -782,8 +780,6 @@ While traveling in your favored terrain and while you are the group token contro
 - Your group may move stealthily at a normal pace.
 - You find one additional resource when you gather resources.
 - While tracking other creatures, you also learn their exact number and sizes and how long ago they passed through the area.
-
-UPGRADES
 
 |Cost|Prerequisites|Details|
 |-:|:-|:-|
