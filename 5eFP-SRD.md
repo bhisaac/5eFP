@@ -1206,7 +1206,7 @@ When you use your Channel Divinity, you choose which effect to create.
 
 Some Channel Divinity effects require ability checks. When you use such an effect from this class, the DC equals your cleric spell DC.
 
-### Turn Undead (Encounter, Action)
+### Turn Undead (Action, Encounter)
 
 You present your holy symbol, speaking a prayer that censures undead. Each undead that can see or hear you within 6 squares of you must make a WIS check. If the creature fails its check, it is turned for the rest of the encounter or until it takes any damage.
 
