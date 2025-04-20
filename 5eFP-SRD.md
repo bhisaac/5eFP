@@ -765,10 +765,10 @@ When you gain this feature, you also learn one language of your choice that is s
 
 ### Upgrades
 
-|**Cost**|**Prerequisites**|**Details**|
+|Cost|Prerequisites|Details|
 |-:|:-|:-|
-|3⛁|level 2|Choose one additional favored enemy and an associated language.|
-|3⛁|level 5|Choose one additional favored enemy and an associated language.|
+|3⛁|Level 2|Choose one additional favored enemy and an associated language.|
+|3⛁|Level 5|Choose one additional favored enemy and an associated language.|
 
 ## Natural Explorer
 
@@ -785,10 +785,10 @@ While traveling in your favored terrain and while you are the group token contro
 
 ### Upgrades
 
-|**Cost**|**Prerequisites**|**Details**|
+|Cost|Prerequisites|Details|
 |-:|:-|:-|
-|3⛁|level 2|Choose one additional favored terrain type.|
-|⛁|level 5|Choose one additional favored terrain type.|
+|3⛁|Level 2|Choose one additional favored terrain type.|
+|⛁|Level 4|Choose one additional favored terrain type.|
 
 # Rogue
 
