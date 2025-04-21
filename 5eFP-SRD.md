@@ -1785,12 +1785,6 @@ You can add other ritual spells to your Tome of Secrets on your adventures. When
 
 You see normally in magical darkness, and you can read all writing.
 
-### Eldritch Spear
-
-_Prerequisite: eldritch blast cantrip_
-
-When you cast _eldritch blast_, its range becomes LOS.
-
 ### Eldritch Vigor
 
 At the beginning of an encounter, you gain bolster 1.
