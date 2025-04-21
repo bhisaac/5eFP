@@ -1644,7 +1644,7 @@ You gain one of the following features of your choice:
 
 |Cost|Prerequisites|Feature|Details|
 |-:|:-|:-|:-|
-|2⛁|Level 3|Defensive Tactics|...|
+|⛁|Level 3|Defensive Tactics|...|
 
 **_Defensive Tactics_.** You gain one of the following features of your choice.
 
