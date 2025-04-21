@@ -1642,6 +1642,16 @@ You gain one of the following features of your choice:
 - **_Giant Killer_ (Reaction).** When a Large or larger creature within 1 square of you hits or misses you with an attack, you can attack that creature immediately after its attack, provided that you can see the creature.
 - **_Horde Breaker_.** When you take the Attack action, you can make another attack with the same weapon against a different creature that is within 1 square of the original target and within range of your weapon.
 
+|Cost|Prerequisites|Feature|Details|
+|-:|:-|:-|:-|
+|2⛁|Level 3|Defensive Tactics|...|
+
+**_Defensive Tactics_.** You gain one of the following features of your choice.
+
+- **_Escape the Horde_.** Opportunity attacks against you are made with disadvantage.
+- **_Multiattack Defense_.** When a creature hits you with an attack, you gain a +4 bonus to Defense against all subsequent attacks made by that creature for the rest of the turn.
+- **_Steel Will_.** You have advantage on saving throws against being frightened.
+
 ## Primeval Awareness (Encounter, Action)
 
 Being a ranger means you are mystically connected to the land and to those who dwell upon it. You have an innate ability to communicate with beasts, and they recognize you as a kindred spirit. Through sounds and gestures, you can communicate simple ideas to a beast and can read its basic mood and intent. You learn its emotional state, whether it is affected by magic of any sort, its short-term needs (such as food or safety), and actions you can take (if any) to persuade it not to attack. You cannot use this ability against a creature you attacked during the encounter.
@@ -1655,6 +1665,17 @@ Being a ranger means you are mystically connected to the land and to those who d
 |2⛁|Magic|...|
 
 **_Magic_.** You begin a game session with 6 mana, and you can cast level 2 spells. You learn one spell from the ranger spell list.
+
+## Level 3
+
+|**Cost**|**Feature**|**Details**|
+|-:|:-|:-|
+|2⛁|Ability Score Improvement|Choose and increase one ability score by +1 or gain one feat.|
+|2⛁|Land's Stride|...|
+
+**_Land's Stride_.** Moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
+
+In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such as those created by the _entangle_ spell.
 
 # Rogue Upgrades
 
