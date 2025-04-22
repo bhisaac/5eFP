@@ -1205,16 +1205,13 @@ You learn how to use your wit to distract, confuse, and otherwise sap the confid
 |3⛁|Level 2|Additional Magic Secrets|...|
 |2⛁|Level 5|Peerless Skill|...|
 
-### Additional Magic Secrets
-
-- _Prerequisites: Level 2_
-- _Cost: 3⛁_ 
-
-You learn two spells of your choice from any class. A spell you choose must be of a level you can cast or a cantrip. The chosen spells count as bard spells for you.
-
-### \[Level 5] 2⛁ Peerless Skill
-
-When you make an ability check, you can expend one use of Bardic Action Dice to roll your action dice and add the number rolled to your ability check. You can do so after you roll the die for the ability check, but before the GM tells you whether you succeed or fail.
+> ### Additional Magic Secrets
+>
+> You learn two spells of your choice from any class. A spell you choose must be of a level you can cast or a cantrip. The chosen spells count as bard spells for you.
+>
+> ### Peerless Skill
+>
+> When you make an ability check, you can expend one use of Bardic Action Dice to roll your action dice and add the number rolled to your ability check. You can do so after you roll the die for the ability check, but before the GM tells you whether you succeed or fail.
 
 ## Expertise
 
