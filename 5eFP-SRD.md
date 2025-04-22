@@ -1161,7 +1161,9 @@ Your totem animal might be related to those listed here but more appropriate to 
 
 **_Eagle_.** While you're raging and aren't wearing heavy armor, other creatures have disadvantage on opportunity attack rolls against you. Once per turn, you can use the Dash action without discarding your action. The spirit of the eagle makes you into a predator who can weave through the fray with ease.
 
-**_Wolf_.** While you're raging, friendly creatures have advantage on melee attack rolls against any creature within 1 square of you that is hostile to you. The spirit of the wolf makes you a leader of hunters.
+**_Wolf_.** While you're raging, allies within 1 square of you gain pact tactics. The spirit of the wolf makes you a leader of hunters.
+
+> Pack Tactics. You gain advantage on an attack roll against a creature if at least one of your allies is within 1 square of the creature and the ally isn’t incapacitated.
 
 # Bard Upgrades
 
