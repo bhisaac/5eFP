@@ -1200,6 +1200,19 @@ You gain proficiency with one ability of your choice.
 
 You learn how to use your wit to distract, confuse, and otherwise sap the confidence and competence of others. When a creature you can see within 12 squares of you makes an attack roll or an ability check, you can expend one use of bardic action dice, rolling five action dice and subtracting the number from the creature’s roll. You can use this feature after the creature makes its roll, but before the GM determines whether the attack roll or ability check succeeds or fails, or before the creature deals its damage. The creature is immune if it can’t hear you or is immune to being charmed.
 
+|Cost|Prerequisites|Feature|Details|
+|-:|:-|:-|:-|
+|3⛁|Level 2|Additional Magic Secrets|...|
+|2⛁|Level 5|Peerless Skill|...|
+
+### 3⛁ \[Level 2] | Additional Magic Secrets
+
+You learn two spells of your choice from any class. A spell you choose must be of a level you can cast or a cantrip. The chosen spells count as bard spells for you.
+
+### 2⛁ \[Level 5] | Peerless Skill
+
+When you make an ability check, you can expend one use of Bardic Action Dice to roll your action dice and add the number rolled to your ability check. You can do so after you roll the die for the ability check, but before the GM tells you whether you succeed or fail.
+
 ## Expertise
 
 Gain proficiency with a non-proficient ability of your choice. Then choose two of your ability proficiencies or one of your ability proficiencies and your proficiency with a tool. As long as the chosen proficiencies or tools do not already have expertise, you gain expertise in the chosen abilities or tools. Expertise allows you to add your level to a check twice instead of once.
@@ -1605,9 +1618,11 @@ While you are wearing armor, you gain a +1 bonus to Defense.
 
 You learn two druid cantrips of your choice.
 
-- +2⛁ [Level 2] **_Potent Cantrips_.** Your druid cantrips deal +1 damage.
-- +2⛁ [Level 4] **_Potent Cantrips_.** Your druid cantrips deal +2 damage.
-- +2⛁ [Level 6] **_Potent Cantrips_.** Your druid cantrips deal +3 damage.
+|Cost|Prerequisites|Feature|Details|
+|-:|:-|:-|:-|
+|2⛁|Level 2|Potent Cantrips|Your druid cantrips deal +1 damage.|
+|2⛁|Level 4|Potent Cantrips|Your druid cantrips deal +2 damage.|
+|2⛁|Level 6|Potent Cantrips|Your druid cantrips deal +3 damage.|
 
 ## Spellcasting
 
