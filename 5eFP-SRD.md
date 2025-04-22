@@ -1159,10 +1159,10 @@ Your totem animal might be related to those listed here but more appropriate to 
 
 **_Bear_.** While raging, you have resistance to all damage except psychic damage. The spirit of the bear makes you tough enough to stand up to any punishment.
 
-**_Eagle_.** The spirit of the eagle makes you into a predator who can weave through the fray with ease. While you're raging and aren't wearing heavy armor, you gain the following features.
+**_Eagle_.** The spirit of the eagle makes you into a predator who can weave through the fray with ease. You gain the following features while you're raging and aren't wearing heavy armor.
 
 - Other creatures have disadvantage on opportunity attack rolls against you.
-- Once per turn, whenever you declare an Attack action, you may take the Dash action without discarding your action before or after making your attack.
+- When you declare an Attack action on your turn, you may take the Dash action without discarding your action before or after making your attack.
 
 **_Wolf_.** While you're raging, allies within 1 square of you gain pact tactics. The spirit of the wolf makes you a leader of hunters.
 
