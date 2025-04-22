@@ -1205,7 +1205,9 @@ You learn how to use your wit to distract, confuse, and otherwise sap the confid
 |3⛁|Level 2|Additional Magic Secrets|...|
 |2⛁|Level 5|Peerless Skill|...|
 
-### \[Level 2] 3⛁ Additional Magic Secrets
+### Additional Magic Secrets
+
+_Level 2, 3⛁_ 
 
 You learn two spells of your choice from any class. A spell you choose must be of a level you can cast or a cantrip. The chosen spells count as bard spells for you.
 
