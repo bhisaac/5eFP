@@ -1163,7 +1163,7 @@ Your totem animal might be related to those listed here but more appropriate to 
 
 **_Wolf_.** While you're raging, allies within 1 square of you gain pact tactics. The spirit of the wolf makes you a leader of hunters.
 
-> Pack Tactics. You gain advantage on an attack roll against a creature if at least one of your allies is within 1 square of the creature and the ally isn’t incapacitated.
+> **_Pack Tactics_.** You gain advantage on an attack roll against a creature if at least one of your allies is within 1 square of the creature and the ally isn’t incapacitated.
 
 # Bard Upgrades
 
