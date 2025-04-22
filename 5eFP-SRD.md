@@ -1207,7 +1207,8 @@ You learn how to use your wit to distract, confuse, and otherwise sap the confid
 
 ### Additional Magic Secrets
 
-_Level 2, 3⛁_ 
+- _Prerequisites: Level 2_
+- _Cost: 3⛁_ 
 
 You learn two spells of your choice from any class. A spell you choose must be of a level you can cast or a cantrip. The chosen spells count as bard spells for you.
 
