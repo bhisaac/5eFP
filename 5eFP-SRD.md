@@ -1082,7 +1082,7 @@ Studying your spellbook taught you how to replenish some of your magical energy.
 
 The spells you add to your spellbook reflect the arcane research you conduct on your own and the intellectual breakthroughs you have had about the nature of the multiverse. You might find other spells during your adventures. For example, you could discover a spell recorded on a scroll in an evil wizard’s chest or in a dusty tome in an ancient library.
  
-***Copying a Spell into the Book.*** When you find a wizard spell of 1st level or higher, you can add it to your spellbook during a downtime round by spending ⛁ for each level of the spell beyond 1st, but only if it is a spell you can learn. For example, you can add the 3rd-level spell _stoneskin_ to your spellbook by spending 2⛁.
+***Copying a Spell into the Book.*** When you find a wizard spell of 1st level or higher, you can add it to your spellbook during a downtime round by spending ⛁ for each level of the spell beyond 1st, but only if it is a spell you can learn. For example, you can add the 3rd-level spell _stoneskin_ to your spellbook by spending 2⛁. During another downtime round, you could add the 1st-level spell _magic missile_ to your spellbook without spending additional Coin.
  
 Copying that spell into your spellbook involves reproducing the basic form of the spell and then deciphering the unique system of notation used by the wizard who wrote it. You must practice the spell until you understand the sounds or gestures required, then transcribe it into your spellbook using your notation.
 
