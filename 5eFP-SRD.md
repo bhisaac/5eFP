@@ -923,7 +923,7 @@ Choose one type of dragon as your ancestor. The damage type associated with each
 
 ### Draconic Resilience
 
-As magic flows through your body, it causes the physical traits of your dragon ancestors to emerge. Your MAX wounds increases by +1. Additionally, parts of your skin are covered by a thin sheen of dragon-like scales. As long as you have no armor equipped, you gain the benefits of wearing light armor.
+As magic flows through your body, it causes the physical traits of your dragon ancestors to emerge. Your MAX wounds increases by +1. Additionally, parts of your skin are covered by a thin sheen of dragon-like scales. As long as you have no armor equipped, you reduce damage assigned to you by minions by 1.
 
 # Warlock
 
