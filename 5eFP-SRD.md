@@ -5566,6 +5566,10 @@ The 5eFP community will continue listening, learning, and reflecting, individual
     - Dropped spell slots in favor of mana. To cast a spell, you must spend its level in mana first. Cantrips do not require mana to cast.
     - Some game features, such as the Warlock Pact Magic feature and innate spellcasting, allow you to cast spells without spending any mana.
 - Currency, gaining experience, and leveling up have changed dramatically. All three are linked to the Coin (⛁), a symbol that represents wealth, experience, and reputation. You spend Coin on available upgrades, allowing your character to level up what they want _à la carte_. The level 1 game area should allow most players two to three game sessions before completion. Once the level 1 area is cleared, the level 2 area unlocks and the PCs level up to level 2.
+- Defender, Damage, and Healing party buffs are used when forming a group.
+    - Defender: You get extra defenses, act first before initiative is rolled, and impose the taunt condition on adversaries, requiring them to include the Defender as a target as long as they are taunted.
+    - Damage: Once on each of your turns, after completing an Attack action or a Cast a Spell action that deals 1 or more points of damage or otherwise imposes unfavorable circumstances to a creature, you may assign 1 damage with the same damage type as the attack or spell to a creature within 1 square of the original target.
+    - Healing: Once on each of your turns, after completing a Cast a Spell action or taking any action that discards 1 or more wounds from a target creature, you may discard 1 additional wound from a creature within 1 square of the original target.
 - More TBA
 
 ---
