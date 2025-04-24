@@ -1594,8 +1594,7 @@ Monks of the Way of the Open Hand are the ultimate masters of martial arts comba
 
 You may also produce one bonus healing effect whenever you use your Ki feature.
 
-- Your touch heals. You or an ally within reach discards up to LEVEL wounds.
-- You spend 3 uses of your Ki feature and touch a creature, curing it of one disease or neutralizing one poison affecting it. You can cure multiple diseases and neutralize multiple poisons with a single use of this game feature, expending points separately for each one.
+**Healing Hands (Ki).** You or an ally within reach discards up to LEVEL wounds. Alternatively, you can activate this game feature an additional two times to cure a touched creature, discarding one disease or discarding one poison affecting it. You can discard multiple diseases and poisons using this game feature, expending uses of your Ki feature separately for each one.
 
 **Path of Tranquility (Rest).** You innately cast _sanctuary_ on yourself. Its saving	throw DC equals 10 + WIS. A creature that succeeds on its WIS check is immune to this effect for the rest of the encounter.
 
@@ -4474,18 +4473,29 @@ The spell creates more than one beam when you reach higher levels: two beams at 
 
 **At Higher Levels.** When you cast this spell at 2nd level or higher, the damage increases by +1 for each level above 1st.|
 
-### Spells (S)
+## Spells (S)
+
+### Sanctuary
+
+- _1st-level abjuration_
+- **Range:** 6 squares
+- **Components:** V, S
+- **Duration:** Encounter
+
+You ward a creature within range against attack. Until the spell ends, any creature that targets the warded creature with an attack or a harmful spell must first make a WIS check. The creature must choose a new target or lose the attack or spell on a failed check. This spell doesn’t protect the warded creature from area effects, such as a _fireball_ explosion.
+
+If the warded creature makes an attack or casts a spell that affects an enemy creature, this spell ends.
 
 #### Simulacrum
 |7th-level illusion|
 |:-|
 |**Casting Time:** 1 downtime round|
 |**Range:** Touch|
-|**Components:** V, S, M (snow or ice in quantities sufficient to make a life-size copy of the duplicated creature; some hair, fingernail clippings, or other piece of that creature's body placed inside the snow or ice)|
+|**Components:** V, S|
 |**Duration:** Until dispelled|
 ||
-|You shape an illusory duplicate of one beast or humanoid that is within range for the entire casting time of the spell. The duplicate is a creature, partially real and formed from ice or snow, and it can take actions and otherwise be affected as a normal creature. It appears to be the same as the original, but its MAX Wounds is half the creature’s MAX Wounds and it is formed without any equipment. Otherwise, the illusion uses all the statistics of the creature it duplicates, except that it is a construct.|
-|The simulacrum is friendly to you and creatures you designate. It obeys your spoken commands, moving and acting in accordance with your wishes and acting on your turn in combat. The simulacrum lacks the ability to learn or become more powerful, so it never increases its level or other abilities, nor can it regain expended spell slots. Simulacrums cannot cast _simulacrum_ or _wish_.|
+|You shape an illusory duplicate of one beast or humanoid that is within range for the entire casting time of the spell. The duplicate is a creature, partially real and formed from ice or snow, and it can take actions and otherwise be affected as a normal creature. It appears to be the same as the original, but its MAX Wounds is half the creature’s MAX Wounds, and it is formed without any equipment. Otherwise, the illusion uses all the statistics of the creature it duplicates, except that it is a construct.|
+|The simulacrum is friendly to you and the creatures you designate. It obeys your spoken commands, moving and acting in accordance with your wishes, and acting on your turn in combat. The simulacrum lacks the ability to learn or become more powerful, so it never increases its level or other abilities, nor can it regain mana once spent. Simulacrums cannot cast _simulacrum_ or _wish_.|
 |Once you cast _simulacrum_, you cannot cast it again until you gain a level of experience.|
 |If the simulacrum is damaged, you can repair it in an alchemical laboratory, spending 1 or more Coin to heal an equal number of wounds. The simulacrum lasts until it reaches MAX Wounds, at which point it reverts to snow and melts instantly.|
 |If you cast this spell again, any currently active duplicates you created with this spell are instantly destroyed.|
