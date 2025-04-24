@@ -8,6 +8,16 @@ You may include a statement on your work that it is “compatible with 5eFP” o
 
 Section 5 of CC-BY-ND-4.0 includes a Disclaimer of Warranties and Limitation of Liability that limits Benjamin Heath Isaac's liability to you.
 
+This work includes material taken from the System Reference Document 5.1 (“SRD 5.1”) by Wizards of the Coast LLC and available at [https://dnd.wizards.com/resources/systems-reference-document](https://dnd.wizards.com/resources/systems-reference-document). The SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International License available at [https://creativecommons.org/licenses/by/4.0/legalcode](https://creativecommons.org/licenses/by/4.0/legalcode).
+
+Many structural changes from 5e to 5eFP. Primary changes include the following.
+
+- Removed the bonus action.
+  - Quality of life improvement for both PCs and GMs. The game doesn't need one more type of action to run smoothly. Reducing complexity and improving playability for new players in particular. Bonus actions are revised and included within existing actions. For example, a bonus action spell like _healing word_ is now a 1st-level spell you can cast without discarding your action.
+- Ability scores are now just bonuses (or penalties). When calculating a bonus, you typically drop the "+" with positive numbers and include a "-" prefix on negative numbers. So, WIS (+0) + INT (-1) = -1. Similarly, CON (+3) + DEX (-1) = 2.
+- AC changes to Defense (10 + DEX) and the protection offered through armor or armor-like game features.
+
+
 # Introduction
 
 The Five Energies Focus Practice (5eFP) is a tabletop role-playing game (TRPG) that combines fun and immersive gameplay with deepening levels of self-exploration. 5eFP can be played for fun, self-reflection, mindfulness, or all three. [5eFP's dedication and inspiration rules are system-agnostic and can be used with any TRPG.](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#inspiration)
