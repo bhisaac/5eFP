@@ -23,7 +23,7 @@ Many structural changes from 5e to 5eFP. Primary changes include the following.
 - Armor and game features that mimic armor reduce assigned damge and sometimes provide a bolster pool.
 - Rest only. No long or short rests. A rest is equivalent to a short rest. Long rests are covered during downtime and downtime actions.
 - Game features have acquired a number of keywords:
-  - **Cooldown.** This feature can only be cast once per game session. If a number follows the cooldown keyword, it represents the number of times the feature can be used before it's unavailable for the rest of the game session.
+  - **Cooldown.** This feature can only be used once per game session. If a number follows the cooldown keyword, it represents the number of times the feature can be used before it's unavailable for the rest of the game session.
   - **Rest.** A feature with the rest keyword is reset and replenished when completing a rest.
 - There are 7 levels of play. Each level roughly corresponds to three levels of play from traditional games with 20 levels. Level 1 is traditionally levels 1 through 3, level 2 is traditionally levels 4 through 6, etc.
 - Spells are simplified into 7 levels which correspond to character level. Level 2 characters can cast level 2 spells.
