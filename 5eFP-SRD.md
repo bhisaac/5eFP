@@ -18,6 +18,14 @@ This work includes material taken from the System Reference Document 5.1 (“SRD
 
 [Read the complete policy in Appendix PO-A.](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#appendix-po-a-safe-space-and-code-of-conduct)
 
+---
+
+## Playtest Material
+
+_The content and game mechanics detailed within the 5eFP System Reference Document (5eFP-SRD) are presented for playtesting, feedback, and development purposes. These game mechanics are in draft form, and their inspiration and dedication rules can be used in any game, but they have not been refined through final game development. These game mechanics are subject to change as needed based on feedback provided by 5eFP contributors, Game Masters (GMs), and Player Characters (PCs)._
+
+---
+
 # Introduction
 
 The Five Energies Focus Practice (5eFP) is a tabletop role-playing game (TRPG) that combines fun and immersive gameplay with deepening levels of self-exploration. 5eFP can be played for fun, self-reflection, mindfulness, or all three. [5eFP's dedication and inspiration rules are system-agnostic and can be used with any TRPG.](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#inspiration)
