@@ -12,6 +12,12 @@ This work includes material taken from the System Reference Document 5.1 (“SRD
 
 [Read the complete changes from the SRD 5.1 to 5eFP-SRD in Appendix CH-A: SRD 5.1 Changes](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#appendix-ch-a-srd-51-changes).
 
+## Safe Space and Code Of Conduct
+
+5eFP contributors, facilitators, and participants strive to create physical and virtual spaces where people have fun and feel safe. 5eFP game masters (GMs) take it very seriously if any player feels threatened or uncomfortable by another person in their space. When a GM is made aware of situations related to this, they will make sure that your concerns are heard and will take the necessary steps with you to respond to the problem. A 5eFP GM expects all participants to respect one another and to address unacceptable behaviors, including those instigated or perpetuated by the GM.
+
+[Read the complete policy in Appendix PO-A.](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#appendix-po-a-safe-space-and-code-of-conduct)
+
 # Introduction
 
 The Five Energies Focus Practice (5eFP) is a tabletop role-playing game (TRPG) that combines fun and immersive gameplay with deepening levels of self-exploration. 5eFP can be played for fun, self-reflection, mindfulness, or all three. [5eFP's dedication and inspiration rules are system-agnostic and can be used with any TRPG.](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#inspiration)
@@ -31,12 +37,6 @@ Dedication to the qualities of Insight, Medicine, Perception, Performance, and S
 > "The wound is the place where the Light enters you." — Rumi
 >
 > "Whatever we resist persists." — Carl Jung
-
-# Safe Space and Code Of Conduct
-
-5eFP contributors, facilitators, and participants strive to create physical and virtual spaces where people have fun and feel safe. 5eFP game masters (GMs) take it very seriously if any player feels threatened or uncomfortable by another person in their space. When a GM is made aware of situations related to this, they will make sure that your concerns are heard and will take the necessary steps with you to respond to the problem. A 5eFP GM expects all participants to respect one another and to address unacceptable behaviors, including those instigated or perpetuated by the GM.
-
-[Read the complete policy in Appendix PO-A.](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#appendix-po-a-safe-space-and-code-of-conduct)
 
 ## Common Terms
 
