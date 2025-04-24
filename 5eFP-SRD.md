@@ -1596,9 +1596,13 @@ Monks of the Way of Tranquility eschew and abstain from violence. They use diplo
 
 **Healing Hands (Ki).** You or an ally within reach discards up to LEVEL wounds. Alternatively, you can activate this game feature an additional two times to cure a touched creature, discarding one disease or discarding one poison affecting it. You can discard multiple diseases and poisons using this game feature, expending uses of your Ki feature separately for each one.
 
-**Path of Tranquility (Encounter, Rest).** You innately cast _sanctuary_ on yourself. Its saving	throw DC equals 10 + WIS. A creature that succeeds on its WIS check is immune to this effect for the rest of the encounter.
+When you use your Flurry of Blows, you can replace one of the unarmed strikes with a use of this feature. 
 
-## Deflect Missiles (Reaction)
+This feature has no effect on undead and constructs.
+
+**Path of Tranquility (Encounter, Rest 2).** You innately cast _sanctuary_ on yourself. Its ability check DC equals 10 + WIS. A creature that succeeds on its WIS check is immune to this effect for the rest of the encounter.
+
+## Deflect Missiles (Encounter, Reaction)
 
 You deflect or catch the piece of ammunition or missile when a ranged weapon attack hits you, and the damage you take from the attack is reduced by LEVEL + 1. If the damage is reduced to 0, you catch the missile if it is small enough to hold in one hand and if you have at least one hand free. If you catch a missile in this way, you can spend one use of your Ki feature to make a ranged attack with the weapon or piece of ammunition you just caught, as part of the same reaction. You make this attack with proficiency, regardless of your weapon proficiencies, and the missile counts as a monk weapon for the attack, which has a normal range of 4 squares and a long range of 12 squares.
 
