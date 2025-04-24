@@ -1579,7 +1579,7 @@ You commit yourself to a monastic tradition, such as the Way of the Elements, th
 
 ### Way of the Elements
 
-
+TBA
 
 ### Way of the Open Hand
 
@@ -1592,7 +1592,7 @@ Monks of the Way of the Open Hand are the ultimate masters of martial arts comba
 
 ### Way of Tranquility
 
-You may also produce one bonus healing effect whenever you use your Ki feature.
+Monks of the Way of Tranquility eschew and abstain from violence. They use diplomacy, mercy, and understanding to resolve conflicts. If pushed, though, they are capable warriors who can bring an end to the unjust or cruel folk who refuse to listen to reason. When adventuring, these monks make excellent diplomats. They are also skilled in the healing arts and can preserve their allies during challenging encounters.
 
 **Healing Hands (Ki).** You or an ally within reach discards up to LEVEL wounds. Alternatively, you can activate this game feature an additional two times to cure a touched creature, discarding one disease or discarding one poison affecting it. You can discard multiple diseases and poisons using this game feature, expending uses of your Ki feature separately for each one.
 
@@ -4478,6 +4478,7 @@ The spell creates more than one beam when you reach higher levels: two beams at 
 ### Sanctuary
 
 - _1st-level abjuration_
+- **Casting Time:** Instant
 - **Range:** 6 squares
 - **Components:** V, S
 - **Duration:** Encounter
