@@ -12,10 +12,21 @@ This work includes material taken from the System Reference Document 5.1 (“SRD
 
 Many structural changes from 5e to 5eFP. Primary changes include the following.
 
+- The action economy includes three options: the action, reaction, and object interaction. All three are discarded to fuel certain game features. Once discarded, they can no longer be used to fuel game features until they are regained. You regain a discarded action, reaction, and object interaction at the start of your turn or when an encounter ends.
 - Removed the bonus action.
-  - Quality of life improvement for both PCs and GMs. The game doesn't need one more type of action to run smoothly. Reducing complexity and improving playability for new players in particular. Bonus actions are revised and included within existing actions. For example, a bonus action spell like _healing word_ is now a 1st-level spell you can cast without discarding your action.
-- Ability scores are now just bonuses (or penalties). When calculating a bonus, you typically drop the "+" with positive numbers and include a "-" prefix on negative numbers. So, WIS (+0) + INT (-1) = -1. Similarly, CON (+3) + DEX (-1) = 2.
-- AC changes to Defense (10 + DEX) and the protection offered through armor or armor-like game features.
+  - Quality of life improvement for both PCs and GMs. The game doesn't need one more type of action to run smoothly. Reducing complexity and improving playability for new players in particular. Bonus actions are revised and included within existing actions.
+  - For example, you activate the Rage game feature as part of taking the Attack action. When casting a spell like _healing word_, you take the Cast a Spell action without discarding your action.
+- Ability scores are now just bonuses (or penalties). So, WIS (+0) + INT (-1) = -1. Similarly, CON (+3) + DEX (-1) = 2.
+- AC changes to Defense (10 + DEX).
+- Hitpoints are dropped in favor of wounds and the MAX Wounds score. Wounds start at 0 and accumulate until reaching MAX Wounds.
+- Dropped temporary hitpoints and other related game features for the Bolster pool and keyword. If one or more wounds are assigned to you and you have a bolster pool, you first spend your bolster pool to negate the number of wounds assigned 1 for 1.
+- Rest only. No long or short rests. A rest is equivalent to a short rest. Long rests are covered during downtime and downtime actions.
+- Game features have acquired a number of keywords:
+  - **Cooldown.** This feature can only be cast once per game session. If a number follows the cooldown keyword, it represents the number of times the feature can be used before it's unavailable for the rest of the game session.
+  - **Rest.** A feature with the rest keyword is reset and replenished when completing a rest.
+- There are 7 levels of play. Each level roughly corresponds to three levels of play from traditional games with 20 levels. Level 1 is traditionally levels 1 through 3, level 2 is traditionally levels 4 through 6, etc.
+- Spells are simplified into 7 levels which correspond to character level. Level 2 characters can cast level 2 spells.
+  - 8th level spells are now called Paragon spells. They are cooldown spells.
 
 
 # Introduction
