@@ -1,6 +1,6 @@
 # Legal Information
 
-The Five Energies Focus Practice System Reference Document (5eFP-SRD) is provided to you free of charge under the terms of the Creative Commons Attribution-NoDerivatives 4.0 International License ("CC-BY-ND-4.0"). You are free to use this content in any manner permitted by that license as long as you include the following attribution statement in your own work:
+The Five Energies Focus Practice System Reference Document ("5eFP-SRD") is provided to you free of charge under the terms of the Creative Commons Attribution-NoDerivatives 4.0 International License ("CC-BY-ND-4.0"). You are free to use this content in any manner permitted by that license as long as you include the following attribution statement in your own work:
 
 > This work includes material taken from the Five Energies Focus Practice System Reference Document ("5eFP-SRD") by Benjamin Heath Isaac, available at [https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md). The 5eFP-SRD is licensed under the Creative Commons Attribution-NoDerivatives 4.0 International License, available at [https://creativecommons.org/licenses/by-nd/4.0/legalcode.en](https://creativecommons.org/licenses/by-nd/4.0/legalcode.en).
 
