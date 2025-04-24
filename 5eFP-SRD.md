@@ -5550,20 +5550,21 @@ The 5eFP community will continue listening, learning, and reflecting, individual
 - Ability scores are now just bonuses (or penalties). So, WIS (+0) + INT (-1) = -1. Similarly, CON (+3) + DEX (-1) = 2.
 - Hitpoints are dropped in favor of wounds and the MAX Wounds score. Wounds start at 0 and accumulate until reaching MAX Wounds.
 - Dropped temporary hitpoints and other related game features for the bolster keyword and pool of points. If one or more wounds are assigned to you and you have bolster, you first spend your bolster points to negate the number of wounds assigned 1 for 1.
-- AC changes to Defense (10 + DEX).
-    - This score represents how well you evade attacks. Whereas armor reduces assigned damage and wounds. Taken together, they form the essence of what AC represents in 5e.
+- AC changes to Defense (10 + DEX) and the protection provided through shields and light, medium, and heavy armor.
+    - This score represents how well you evade attacks, whereas armor and shields reduce assigned damage and wounds. Taken together, they form the essence of what AC represents in 5e.
 - Armor and game features that mimic armor reduce assigned damage and sometimes provide bolster.
-- No long rest. The term "short rest" is now "rest." PCs can take up to two rests per game session. A rest is largely equivalent to a short rest, with additional game features making use of this mechanic. Specifically, those game features that reset and replenish upon completing a rest. Long rests are covered during downtime and downtime actions.
+- No long rest. The term short rest is now called rest. PCs can take up to two rests per game session. A rest is largely equivalent to a short rest, with additional game features making use of this mechanic. Specifically, those game features that reset and replenish upon completing a rest. Long rests are covered during downtime and downtime actions.
 - Game features have acquired a number of keywords:
-    - **Cooldown.** This feature can only be used once per game session. If a number follows the cooldown keyword, it represents the number of times the feature can be used before it's unavailable for the rest of the game session.
+    - **Cooldown.** This feature can only be used once per game session. If a number follows the cooldown keyword, it represents the number of times the feature can be used before it's unavailable for the rest of the game session, but you are limited to using a game feature with the cooldown keyword only once during your turn.
     - **Rest.** A feature with the rest keyword is reset and replenished when completing a rest.
     - **Encounter.** A feature with the encounter keyword can only be used within an encounter.
-    - **Ki.** A game feature fuled by the Ki game feature.
+    - **Ki.** A game feature fueled by the use of the Ki game feature. Ki points are now represented by the Rest 3 keyword.
 - There are 7 levels of play. Each level roughly corresponds to three levels of play from traditional games with 20 levels. Level 1 is traditionally levels 1 through 3, level 2 is traditionally levels 4 through 6, etc.
-- Spells are simplified into 7 levels which correspond to character level. Level 2 characters can cast level 2 spells.
+    - For the longest time, all the games I joined ended at or just after level 7! As frustrating as that was, it got me thinking that maybe there are only seven levels. Twenty levels are a bit much for a new player to understand. And, as humans, we can generally hold no more than seven things/concepts/ideas/plans/etc. in our heads at any given time. Any more than seven and you risk losing critical details, harmony, and timing.
+- Spells are simplified into seven levels, directly corresponding to character level. So, Level 3 characters can cast 1st-level, 2nd-level, and 3rd-level spells.
     - 8th-level and 9th-level spells are now called Paragon and Epic spells, respectively. The ability to use the Cast a Spell action to cast a paragon or epic spell gains the cooldown keyword the moment you cast a paragon or epic spell.
     - Dropped spell slots in favor of mana. To cast a spell, you must spend its level in mana first. Cantrips do not require mana to cast.
-    - Some game features, such as the Warlock Pact Magic feature, allow you to cast spells without spending any mana.
+    - Some game features, such as the Warlock Pact Magic feature and innate spellcasting, allow you to cast spells without spending any mana.
 - More TBA
 
 ---
