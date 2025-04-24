@@ -10,26 +10,7 @@ Section 5 of CC-BY-ND-4.0 includes a Disclaimer of Warranties and Limitation of 
 
 This work includes material taken from the System Reference Document 5.1 (“SRD 5.1”) by Wizards of the Coast LLC and available at [https://dnd.wizards.com/resources/systems-reference-document](https://dnd.wizards.com/resources/systems-reference-document). The SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International License available at [https://creativecommons.org/licenses/by/4.0/legalcode](https://creativecommons.org/licenses/by/4.0/legalcode).
 
-Many structural changes from 5e to 5eFP. Primary changes include the following.
-
-- The action economy includes three options: the action, reaction, and object interaction. All three are discarded to fuel certain game features. Once discarded, they can no longer be used to fuel game features until they are regained. You regain a discarded action, reaction, and object interaction at the start of your turn or when an encounter ends.
-- Removed the bonus action.
-  - Quality of life improvement for both PCs and GMs. The game doesn't need one more type of action to run smoothly. Reducing complexity and improving playability for new players in particular. Bonus actions are revised and included within existing actions.
-  - For example, you activate the Rage game feature as part of taking the Attack action. When casting a spell like _healing word_, you take the Cast a Spell action without discarding your action.
-- Ability scores are now just bonuses (or penalties). So, WIS (+0) + INT (-1) = -1. Similarly, CON (+3) + DEX (-1) = 2.
-- Hitpoints are dropped in favor of wounds and the MAX Wounds score. Wounds start at 0 and accumulate until reaching MAX Wounds.
-- Dropped temporary hitpoints and other related game features for the Bolster pool and keyword. If one or more wounds are assigned to you and you have a bolster pool, you first spend your bolster pool to negate the number of wounds assigned 1 for 1.
-- AC changes to Defense (10 + DEX).
-- Armor and game features that mimic armor reduce assigned damge and sometimes provide a bolster pool.
-- Rest only. No long or short rests. A rest is equivalent to a short rest. Long rests are covered during downtime and downtime actions.
-- Game features have acquired a number of keywords:
-  - **Cooldown.** This feature can only be used once per game session. If a number follows the cooldown keyword, it represents the number of times the feature can be used before it's unavailable for the rest of the game session.
-  - **Rest.** A feature with the rest keyword is reset and replenished when completing a rest.
-- There are 7 levels of play. Each level roughly corresponds to three levels of play from traditional games with 20 levels. Level 1 is traditionally levels 1 through 3, level 2 is traditionally levels 4 through 6, etc.
-- Spells are simplified into 7 levels which correspond to character level. Level 2 characters can cast level 2 spells.
-  - 8th-level and 9th-level spells are now called Paragon and Epic spells, respectively. The ability to use the Cast a Spell action to cast a paragon or epic spell gains the cooldown keyword the moment you cast a paragon or epic spell.
-- Dropped spell slots in favor of mana. To cast a spell, you must spend its level in mana first. Cantrips do not require mana to cast.
-  - Some game features, such as the Warlock Pact Magic feature, allow you to cast spells without spending any mana.
+Read the complete changes from the SRD 5.1 to 5eFP-SRD in Appendix CH-A: SRD 5.1 Changes.
 
 # Introduction
 
@@ -5273,7 +5254,9 @@ Ice Trolls share the following characteristics besides those belonging to the tr
 ## Monsters (Y)
 
 ## Monsters (Z)
+
 ### Zombie
+
 *Medium undead, neutral evil*
 
 Zombies share the following statistics.
@@ -5523,6 +5506,29 @@ The following is not exhaustive but is the minimum we expect from all 5eFP parti
 The 5eFP community will continue listening, learning, and reflecting, individually and with others. This policy will be regularly reviewed and updated. If you have any comments or suggestions about this policy, please contact your 5eFP GM using the details in your setting handbook.
 
 *This code does not supersede an individual’s right to file a police report and/or investigation or seek legal counsel. To the extent that there is an inconsistency between the law and this policy, the law prevails.
+
+# Appendix CH-A: SRD 5.1 Changes
+
+- The action economy includes three options: the action, reaction, and object interaction. All three are discarded to fuel certain game features. Once discarded, they can no longer be used to fuel game features until they are regained. You regain a discarded action, reaction, and object interaction at the start of your turn or when an encounter ends.
+- Removed the bonus action.
+  - Quality of life improvement for both PCs and GMs. The game doesn't need one more type of action to run smoothly. Reducing complexity and improving playability for new players in particular. Bonus actions are revised and included within existing actions.
+  - For example, you activate the Rage game feature as part of taking the Attack action. When casting a spell like _healing word_, you take the Cast a Spell action without discarding your action.
+- Ability scores are now just bonuses (or penalties). So, WIS (+0) + INT (-1) = -1. Similarly, CON (+3) + DEX (-1) = 2.
+- Hitpoints are dropped in favor of wounds and the MAX Wounds score. Wounds start at 0 and accumulate until reaching MAX Wounds.
+- Dropped temporary hitpoints and other related game features for the Bolster pool and keyword. If one or more wounds are assigned to you and you have a bolster pool, you first spend your bolster pool to negate the number of wounds assigned 1 for 1.
+- AC changes to Defense (10 + DEX).
+- Armor and game features that mimic armor reduce assigned damge and sometimes provide a bolster pool.
+- Rest only. No long or short rests. A rest is equivalent to a short rest. Long rests are covered during downtime and downtime actions.
+- Game features have acquired a number of keywords:
+  - **Cooldown.** This feature can only be used once per game session. If a number follows the cooldown keyword, it represents the number of times the feature can be used before it's unavailable for the rest of the game session.
+  - **Rest.** A feature with the rest keyword is reset and replenished when completing a rest.
+- There are 7 levels of play. Each level roughly corresponds to three levels of play from traditional games with 20 levels. Level 1 is traditionally levels 1 through 3, level 2 is traditionally levels 4 through 6, etc.
+- Spells are simplified into 7 levels which correspond to character level. Level 2 characters can cast level 2 spells.
+  - 8th-level and 9th-level spells are now called Paragon and Epic spells, respectively. The ability to use the Cast a Spell action to cast a paragon or epic spell gains the cooldown keyword the moment you cast a paragon or epic spell.
+- Dropped spell slots in favor of mana. To cast a spell, you must spend its level in mana first. Cantrips do not require mana to cast.
+  - Some game features, such as the Warlock Pact Magic feature, allow you to cast spells without spending any mana.
+
+---
 
 ### RECOMMENDED READING
 
