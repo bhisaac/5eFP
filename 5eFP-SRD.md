@@ -4422,7 +4422,7 @@ The spell creates more than one beam when you reach higher levels: two beams at 
 #### Healing Word
 |_1st-level evocation_|
 |:-|
-|**Casting Time:** Instantaneous|
+|**Casting Time:** Instant|
 |**Range:** 12|
 |**Components:** V|
 |**Duration:** Instantaneous|
