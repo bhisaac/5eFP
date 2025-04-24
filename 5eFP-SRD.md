@@ -17,9 +17,10 @@ Many structural changes from 5e to 5eFP. Primary changes include the following.
   - Quality of life improvement for both PCs and GMs. The game doesn't need one more type of action to run smoothly. Reducing complexity and improving playability for new players in particular. Bonus actions are revised and included within existing actions.
   - For example, you activate the Rage game feature as part of taking the Attack action. When casting a spell like _healing word_, you take the Cast a Spell action without discarding your action.
 - Ability scores are now just bonuses (or penalties). So, WIS (+0) + INT (-1) = -1. Similarly, CON (+3) + DEX (-1) = 2.
-- AC changes to Defense (10 + DEX).
 - Hitpoints are dropped in favor of wounds and the MAX Wounds score. Wounds start at 0 and accumulate until reaching MAX Wounds.
 - Dropped temporary hitpoints and other related game features for the Bolster pool and keyword. If one or more wounds are assigned to you and you have a bolster pool, you first spend your bolster pool to negate the number of wounds assigned 1 for 1.
+- AC changes to Defense (10 + DEX).
+- Armor and game features that mimic armor reduce assigned damge and sometimes provide a bolster pool.
 - Rest only. No long or short rests. A rest is equivalent to a short rest. Long rests are covered during downtime and downtime actions.
 - Game features have acquired a number of keywords:
   - **Cooldown.** This feature can only be cast once per game session. If a number follows the cooldown keyword, it represents the number of times the feature can be used before it's unavailable for the rest of the game session.
