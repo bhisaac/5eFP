@@ -27,8 +27,9 @@ Many structural changes from 5e to 5eFP. Primary changes include the following.
   - **Rest.** A feature with the rest keyword is reset and replenished when completing a rest.
 - There are 7 levels of play. Each level roughly corresponds to three levels of play from traditional games with 20 levels. Level 1 is traditionally levels 1 through 3, level 2 is traditionally levels 4 through 6, etc.
 - Spells are simplified into 7 levels which correspond to character level. Level 2 characters can cast level 2 spells.
-  - 8th level spells are now called Paragon spells. They are cooldown spells.
-
+  - 8th-level and 9th-level spells are now called Paragon and Epic spells, respectively. The ability to use the Cast a Spell action to cast a paragon or epic spell gains the cooldown keyword the moment you cast a paragon or epic spell.
+- Dropped spell slots in favor of mana. To cast a spell, you must spend its level in mana first. Cantrips do not require mana to cast.
+  - Some game features, such as the Warlock Pact Magic feature, allow you to cast spells without spending any mana.
 
 # Introduction
 
