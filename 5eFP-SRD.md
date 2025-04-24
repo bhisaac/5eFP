@@ -1596,7 +1596,7 @@ You may also produce one bonus healing effect whenever you use your Ki feature.
 
 **Healing Hands (Ki).** You or an ally within reach discards up to LEVEL wounds. Alternatively, you can activate this game feature an additional two times to cure a touched creature, discarding one disease or discarding one poison affecting it. You can discard multiple diseases and poisons using this game feature, expending uses of your Ki feature separately for each one.
 
-**Path of Tranquility (Rest).** You innately cast _sanctuary_ on yourself. Its saving	throw DC equals 10 + WIS. A creature that succeeds on its WIS check is immune to this effect for the rest of the encounter.
+**Path of Tranquility (Encounter, Rest).** You innately cast _sanctuary_ on yourself. Its saving	throw DC equals 10 + WIS. A creature that succeeds on its WIS check is immune to this effect for the rest of the encounter.
 
 ## Deflect Missiles (Reaction)
 
