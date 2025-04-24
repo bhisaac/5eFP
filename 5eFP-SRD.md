@@ -5527,6 +5527,7 @@ The 5eFP community will continue listening, learning, and reflecting, individual
   - 8th-level and 9th-level spells are now called Paragon and Epic spells, respectively. The ability to use the Cast a Spell action to cast a paragon or epic spell gains the cooldown keyword the moment you cast a paragon or epic spell.
 - Dropped spell slots in favor of mana. To cast a spell, you must spend its level in mana first. Cantrips do not require mana to cast.
   - Some game features, such as the Warlock Pact Magic feature, allow you to cast spells without spending any mana.
+- More TBA
 
 ---
 
