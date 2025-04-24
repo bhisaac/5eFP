@@ -1596,11 +1596,11 @@ Monks of the Way of Tranquility eschew and abstain from violence. They use diplo
 
 **Healing Hands (Ki).** You or an ally within reach discards up to LEVEL wounds. Alternatively, you can activate your Ki feature an additional two times to cure a touched creature, discarding one disease or discarding one poison affecting it. You can discard multiple diseases and poisons using this game feature, expending uses of your Ki feature separately for each one.
 
-When you use your Flurry of Blows, you can replace one of the unarmed strikes with a use of this feature. 
+When you use your Flurry of Blows, you can replace one of the unarmed strikes with a use of this feature.
 
 This feature has no effect on undead and constructs.
 
-**Path of Tranquility (Encounter, Rest 2).** You innately cast _sanctuary_ on yourself. Its ability check DC equals 10 + WIS. A creature that succeeds on its WIS check is immune to this effect for the rest of the encounter.
+**Path of Tranquility (Encounter, Rest 2).** You innately cast _sanctuary_ on yourself with a duration of Recall. A creature that succeeds on its WIS check is temporarily immune to this effect for the rest of the encounter.
 
 ## Deflect Missiles (Encounter, Reaction)
 
