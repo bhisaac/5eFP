@@ -1557,15 +1557,15 @@ Some of your ki features require your target to make an ability check to resist 
 
 **Ki DC** = 10 +  WIS
 
-### Flurry of Blows (Ki)
+### Flurry of Blows (Encounter, Ki)
 
 Immediately after you take the Attack action on your turn, you make two unarmed strikes.
 
-### Patient Defense (Ki)
+### Patient Defense (Encounter, Ki)
 
 You can take the Dodge action on your turn without discarding your action.
 
-### Step of the Wind (Ki)
+### Step of the Wind (Encounter, Ki)
 
 You can take the Disengage or Dash action on your turn without discarding your action, and your jump distance is doubled for the turn.
 
@@ -1596,9 +1596,9 @@ Monks of the Way of Tranquility eschew and abstain from violence. They use diplo
 
 **Healing Hands (Ki).** You or an ally within reach discards up to LEVEL wounds. Alternatively, you can activate your Ki feature an additional two times to cure a touched creature, discarding one disease or discarding one poison affecting it. You can discard multiple diseases and poisons using this game feature, expending uses of your Ki feature separately for each one.
 
-When you use your Flurry of Blows, you can replace one of the unarmed strikes with a use of this feature.
+When you use your Flurry of Blows, you can replace one of the unarmed strikes with a use of this game feature.
 
-This feature has no effect on undead and constructs.
+This game feature has no effect on undead and constructs.
 
 **Path of Tranquility (Encounter, Rest 2).** You innately cast _sanctuary_ on yourself with a duration of Recall. A creature that succeeds on its WIS check is temporarily immune to this effect for the rest of the encounter.
 
