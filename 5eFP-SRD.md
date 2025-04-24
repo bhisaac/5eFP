@@ -5565,6 +5565,7 @@ The 5eFP community will continue listening, learning, and reflecting, individual
     - 8th-level and 9th-level spells are now called Paragon and Epic spells, respectively. The ability to use the Cast a Spell action to cast a paragon or epic spell gains the cooldown keyword the moment you cast a paragon or epic spell.
     - Dropped spell slots in favor of mana. To cast a spell, you must spend its level in mana first. Cantrips do not require mana to cast.
     - Some game features, such as the Warlock Pact Magic feature and innate spellcasting, allow you to cast spells without spending any mana.
+- Currency, gaining experience, and leveling up have changed dramatically. All three are linked to the Coin (⛁), a symbol that represents wealth, experience, and reputation. You spend Coin on available upgrades, allowing your character to level up what they want _à la carte_. The level 1 game area should allow most players two to three game sessions before completion. Once the level 1 area is cleared, the level 2 area unlocks and the PCs level up to level 2.
 - More TBA
 
 ---
