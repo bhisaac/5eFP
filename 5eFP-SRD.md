@@ -5544,25 +5544,32 @@ The 5eFP community will continue listening, learning, and reflecting, individual
 (Complete list TBD)
 
 - The action economy includes three options: the action, reaction, and object interaction. All three are discarded to fuel certain game features. Once discarded, they can no longer be used to fuel game features until they are regained. You regain a discarded action, reaction, and object interaction at the start of your turn or when an encounter ends.
+
 - Removed the bonus action.
   - Quality of life improvement for both PCs and GMs. The game doesn't need one more type of action to run smoothly. Reducing complexity and improving playability for new players in particular. Bonus actions are revised and included within existing actions.
     - For example, you activate the Rage game feature as part of taking the Attack action. When casting a spell like _healing word_, you take the Cast a Spell action without discarding your action.
+
 - Ability scores are now just bonuses (or penalties). So, WIS (+0) + INT (-1) = -1. Similarly, CON (+3) + DEX (-1) = 2.
 - Hitpoints are dropped in favor of wounds and the MAX Wounds score. Wounds start at 0 and accumulate until reaching MAX Wounds.
 - Dropped temporary hitpoints and other related game features for the bolster keyword and pool of points. If one or more wounds are assigned to you and you have bolster, you first spend your bolster points to negate the number of wounds assigned 1 for 1.
+
 - AC changes to Defense (10 + DEX).
   - This score represents how well you evade attacks. Whereas armor reduces assigned damage and wounds. Taken together, they form the essence of what AC represents in 5e.
+
 - Armor and game features that mimic armor reduce assigned damage and sometimes provide bolster.
 - No long rest. The term "short rest" is now "rest." PCs can take up to two rests per game session. A rest is largely equivalent to a short rest, with additional game features making use of this mechanic. Specifically, those game features that reset and replenish upon completing a rest. Long rests are covered during downtime and downtime actions.
+
 - Game features have acquired a number of keywords:
   - **Cooldown.** This feature can only be used once per game session. If a number follows the cooldown keyword, it represents the number of times the feature can be used before it's unavailable for the rest of the game session.
   - **Rest.** A feature with the rest keyword is reset and replenished when completing a rest.
+
 - There are 7 levels of play. Each level roughly corresponds to three levels of play from traditional games with 20 levels. Level 1 is traditionally levels 1 through 3, level 2 is traditionally levels 4 through 6, etc.
+
 - Spells are simplified into 7 levels which correspond to character level. Level 2 characters can cast level 2 spells.
   - 8th-level and 9th-level spells are now called Paragon and Epic spells, respectively. The ability to use the Cast a Spell action to cast a paragon or epic spell gains the cooldown keyword the moment you cast a paragon or epic spell.
+
 - Dropped spell slots in favor of mana. To cast a spell, you must spend its level in mana first. Cantrips do not require mana to cast.
-  - Some game features, such as the Warlock Pact Magic feature, allow you to cast spells without spending any mana.
-- 
+  - Some game features, such as the Warlock Pact Magic feature, allow you to cast spells without spending any mana. 
 - More TBA
 
 ---
