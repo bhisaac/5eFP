@@ -1575,7 +1575,11 @@ Your speed increases by 2 while you are not wearing armor or wielding a shield.
 
 ## Monastic Tradition
 
-You commit yourself to a monastic tradition, such as the Way of the Open Hand. Your tradition grants you features.
+You commit yourself to a monastic tradition, such as the Way of the Elements, the Way of the Open Hand, and the Way of Tranquility. Your tradition grants you game features.
+
+### Way of the Elements
+
+
 
 ### Way of the Open Hand
 
@@ -1585,6 +1589,15 @@ Monks of the Way of the Open Hand are the ultimate masters of martial arts comba
 - It must succeed on a DEX check or be knocked prone.
 - It must make a STR check. If it fails, you can push it up to 3 squares away from you.
 - It can’t take reactions until the end of your next turn.
+
+### Way of Tranquility
+
+You may also produce one bonus healing effect whenever you use your Ki feature.
+
+- Your touch heals. You or an ally within reach discards up to LEVEL wounds.
+- You spend 3 uses of your Ki feature and touch a creature, curing it of one disease or neutralizing one poison affecting it. You can cure multiple diseases and neutralize multiple poisons with a single use of this game feature, expending points separately for each one.
+
+**Path of Tranquility (Rest).** You innately cast _sanctuary_ on yourself. Its saving	throw DC equals 10 + WIS. A creature that succeeds on its WIS check is immune to this effect for the rest of the encounter.
 
 ## Deflect Missiles (Reaction)
 
