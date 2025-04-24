@@ -1594,7 +1594,7 @@ Monks of the Way of the Open Hand are the ultimate masters of martial arts comba
 
 Monks of the Way of Tranquility eschew and abstain from violence. They use diplomacy, mercy, and understanding to resolve conflicts. If pushed, though, they are capable warriors who can bring an end to the unjust or cruel folk who refuse to listen to reason. When adventuring, these monks make excellent diplomats. They are also skilled in the healing arts and can preserve their allies during challenging encounters.
 
-**Healing Hands (Ki).** You or an ally within reach discards up to LEVEL wounds. Alternatively, you can activate this game feature an additional two times to cure a touched creature, discarding one disease or discarding one poison affecting it. You can discard multiple diseases and poisons using this game feature, expending uses of your Ki feature separately for each one.
+**Healing Hands (Ki).** You or an ally within reach discards up to LEVEL wounds. Alternatively, you can activate your Ki feature an additional two times to cure a touched creature, discarding one disease or discarding one poison affecting it. You can discard multiple diseases and poisons using this game feature, expending uses of your Ki feature separately for each one.
 
 When you use your Flurry of Blows, you can replace one of the unarmed strikes with a use of this feature. 
 
