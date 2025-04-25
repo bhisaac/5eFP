@@ -1609,7 +1609,7 @@ Whenever you learn a new elemental discipline, you can also replace one elementa
 
 ### Elemental Disciplines
 
-The elemental disciplines are presented in alphabetical order.
+The elemental disciplines are magical effects and are presented in alphabetical order.
 
 ### Elemental Attunement (Action, Encounter)
 
