@@ -1563,6 +1563,8 @@ Some of your ki features require your target to make an ability check to resist 
 
 **Ki DC** = 10 +  WIS
 
+Ki and ki features are considered magic and magical effects.
+
 ### Flurry of Blows (Encounter, Ki)
 
 Immediately after you take the Attack action on your turn, you make two unarmed strikes.
