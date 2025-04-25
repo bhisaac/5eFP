@@ -1607,6 +1607,8 @@ Whenever you learn a new elemental discipline, you can also replace one elementa
 
 ### Elemental Disciplines
 
+The elemental disciplines are presented in alphabetical order.
+
 ### Elemental Attunement (Action, Encounter, Ki)
 
 You briefly control elemental forces nearby, causing one of the following effects of your choice:
