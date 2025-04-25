@@ -5555,10 +5555,12 @@ The 5eFP community will continue listening, learning, and reflecting, individual
 - Armor and game features that mimic armor reduce assigned damage and sometimes provide bolster.
 - No long rest. The term short rest is now called rest. PCs can take up to two rests per game session. A rest is largely equivalent to a short rest, with additional game features making use of this mechanic. Specifically, those game features that reset and replenish upon completing a rest. Long rests are covered during downtime and downtime actions.
 - Game features have acquired a number of keywords:
+    - **Action.** A game feature with the action keyword requires you to discard your action to activate.
     - **Cooldown.** This feature can only be used once per game session. If a number follows the cooldown keyword, it represents the number of times the feature can be used before it's unavailable for the rest of the game session, but you are limited to using a game feature with the cooldown keyword only once during your turn.
-    - **Rest.** A feature with the rest keyword is reset and replenished when completing a rest.
     - **Encounter.** A feature with the encounter keyword can only be used within an encounter.
     - **Ki.** A game feature fueled by the use of the Ki game feature. Ki points are now represented by the Rest 3 keyword.
+    - **Rest.** A feature with the rest keyword is reset and replenished when completing a rest.
+    - **Reaction.** Features with the reaction keyword require you to discard your reaction to use them.
 - There are 7 levels of play. Each level roughly corresponds to three levels of play from traditional games with 20 levels. Level 1 is traditionally levels 1 through 3, level 2 is traditionally levels 4 through 6, etc.
     - For the longest time, all the games I joined ended at or just after level 7! As frustrating as that was, it got me thinking that maybe there are only seven levels. Twenty levels are a bit much for a new player to understand. And, as humans, we can generally hold no more than seven things/concepts/ideas/plans/etc. in our heads at any given time. Any more than seven and you risk losing critical details, harmony, and timing.
 - Spells are simplified into seven levels, directly corresponding to character level. So, Level 3 characters can cast 1st-level, 2nd-level, and 3rd-level spells.
