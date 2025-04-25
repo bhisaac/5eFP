@@ -1604,7 +1604,7 @@ When you use your Flurry of Blows, you can replace one of the unarmed strikes wi
 
 This game feature has no effect on undead and constructs.
 
-**Path of Tranquility (Encounter, Rest 2).** You innately cast _sanctuary_ on yourself with a duration of Recall. A creature that succeeds on its WIS check is temporarily immune to this effect for the rest of the encounter.
+**Path of Tranquility (Encounter, Rest).** You innately cast _sanctuary_ on yourself with a duration of Recall. A creature that succeeds on its WIS check is temporarily immune to this effect for the rest of the encounter.
 
 ## Deflect Missiles (Encounter, Reaction)
 
