@@ -1429,13 +1429,15 @@ You adopt a style of fighting as your specialty. Choose one of the following opt
 
 While you are wearing armor, you gain a +1 bonus to Defense.
 
-### Divine Warrior
+### Invoker
 
 You learn two cantrips from the cleric spell list.
 
-- +2⛁ [Level 2] **_Potent Cantrips_.** Your cleric cantrips deal +1 damage.
-- +2⛁ [Level 4] **_Potent Cantrips_.** Your cleric cantrips deal +2 damage.
-- +2⛁ [Level 6] **_Potent Cantrips_.** Your cleric cantrips deal +3 damage.
+|Cost|Prerequisites|Feature|Details|
+|-:|:-|:-|:-|
+|2⛁|Level 2|Potent Cantrips|Your cleric cantrips deal +1 damage.|
+|2⛁|Level 4|Potent Cantrips|Your cleric cantrips deal +2 damage.|
+|2⛁|Level 6|Potent Cantrips|Your cleric cantrips deal +3 damage.|
 
 ### Great Weapon Fighting
 
@@ -1581,30 +1583,66 @@ Your speed increases by 2 while you are not wearing armor or wielding a shield.
 
 You commit yourself to a monastic tradition, such as the Way of the Elements, the Way of the Open Hand, and the Way of Tranquility. Your tradition grants you game features.
 
-### Way of the Elements
+## Way of the Elements
 
-TBA
+You follow a monastic tradition that teaches you to harness the elements. When you focus your ki, you can align yourself with the forces of creation and bend the four elements to your will, using them as an extension of your body. Some members of this tradition dedicate themselves to a single element, but others weave them together.
 
-### Way of the Open Hand
+Many monks of this tradition tattoo their bodies with representations of their ki powers, commonly imagined as coiling dragons, but also as phoenixes, fish, plants, mountains, and cresting waves.
+
+### Disciple of the Elements
+
+You learn magical disciplines that harness the power of the four elements.
+
+You know the Elemental Attunement and another elemental discipline of your choice, which are detailed in the “Elemental Disciplines” section below. 
+
+Whenever you learn a new elemental discipline, you can also replace one elemental discipline that you already know with a different discipline.
+
+**_Casting Elemental Spells_.** Some elemental disciplines allow you to cast spells (see Spellcasting). Wisdom (WIS) is your spellcasting ability for your elemental discipline spells. Use your ki DC for spells that include an ability check and use 2 + WIS for your spell attack modifier. You can cast an elemental discipline spell with a spell level up to LEVEL.
+
+|Cost|Prerequisites|Feature|Details|
+|-:|:-|:-|:-|
+|3⛁|Level 2|Discipline|You learn an elemental discipline.|
+|2⛁|Level 4|Discipline|You learn an elemental discipline.|
+|2⛁|Level 6|Discipline|You learn an elemental discipline.|
+
+### Elemental Disciplines
+
+### Elemental Attunement (Action, Encounter, Ki)
+
+You briefly control elemental forces nearby, causing one of the following effects of your choice:
+
+- Create a harmless, instantaneous sensory effect related to air, earth, fire, or water, such as a shower of sparks, a puff of wind, a spray of light mist, or a gentle rumbling of stone.
+- Instantaneously light or snuff out a candle, a torch, or a small campfire.
+- Chill or warm up to 1 pound of nonliving material until the end of the encounter.
+- Cause earth, fire, water, or mist that can fit within a 1-square cube to shape itself into a crude form you desig­nate until the end of the encounter.
+
+## Way of the Open Hand
 
 Monks of the Way of the Open Hand are the ultimate masters of martial arts combat, whether armed or unarmed. They learn techniques to push and trip their opponents, manipulate ki to heal damage to their bodies, and practice advanced meditation that can protect them from harm.
 
-**Open Hand Technique.** You can manipulate your enemy’s ki when you harness your own. Whenever you hit a creature with one of the attacks granted by your Flurry of Blows, you can impose one of the following effects on that target:
+### Open Hand Technique
+
+You can manipulate your enemy’s ki when you harness your own. Whenever you hit a creature with one of the attacks granted by your Flurry of Blows, you can impose one of the following effects on that target:
+
 - It must succeed on a DEX check or be knocked prone.
 - It must make a STR check. If it fails, you can push it up to 3 squares away from you.
 - It can’t take reactions until the end of your next turn.
 
-### Way of Tranquility
+## Way of Tranquility
 
 Monks of the Way of Tranquility eschew and abstain from violence. They use diplomacy, mercy, and understanding to resolve conflicts. If pushed, though, they are capable warriors who can bring an end to the unjust or cruel folk who refuse to listen to reason. When adventuring, these monks make excellent diplomats. They are also skilled in the healing arts and can preserve their allies during challenging encounters.
 
-**Healing Hands (Ki).** You or an ally within reach discards up to LEVEL wounds. Alternatively, you can activate your Ki feature an additional two times to cure a touched creature, discarding one disease or discarding one poison affecting it. You can discard multiple diseases and poisons using this game feature, expending uses of your Ki feature separately for each one.
+### Healing Hands (Ki)
+
+You or an ally within reach discards up to LEVEL wounds. Alternatively, you can activate your Ki feature an additional two times to cure a touched creature, discarding one disease or discarding one poison affecting it. You can discard multiple diseases and poisons using this game feature, expending uses of your Ki feature separately for each one.
 
 When you use your Flurry of Blows, you can replace one of the unarmed strikes with a use of this game feature.
 
 This game feature has no effect on undead and constructs.
 
-**Path of Tranquility (Encounter, Rest).** You innately cast _sanctuary_ on yourself with a duration of Recall. A creature that succeeds on its WIS check is temporarily immune to this effect for the rest of the encounter.
+### Path of Tranquility (Encounter, Rest)
+
+You innately cast _sanctuary_ on yourself with a duration of Recall. A creature that succeeds on its WIS check is temporarily immune to this effect for the rest of the encounter.
 
 ## Deflect Missiles (Encounter, Reaction)
 
