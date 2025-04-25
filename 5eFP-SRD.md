@@ -1609,7 +1609,7 @@ Whenever you learn a new elemental discipline, you can also replace one elementa
 
 The elemental disciplines are presented in alphabetical order.
 
-### Elemental Attunement (Action, Encounter, Ki)
+### Elemental Attunement (Action, Encounter)
 
 You briefly control elemental forces nearby, causing one of the following effects of your choice:
 
@@ -1617,6 +1617,8 @@ You briefly control elemental forces nearby, causing one of the following effect
 - Instantaneously light or snuff out a candle, a torch, or a small campfire.
 - Chill or warm up to 1 pound of nonliving material until the end of the encounter.
 - Cause earth, fire, water, or mist that can fit within a 1-square cube to shape itself into a crude form you desig­nate until the end of the encounter.
+
+If you use this game feature multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can discard your action to dismiss such an effect.
 
 ## Way of the Open Hand
 
