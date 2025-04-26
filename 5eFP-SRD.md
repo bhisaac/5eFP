@@ -1775,13 +1775,19 @@ TBA
 
 |**Cost**|**Feature**|**Details**|
 |-:|:-|:-|
-|2⛁|Sorcery|...|
+|3⛁|Sorcery|...|
 |3⛁|Magic|You begin a game session with 4 mana. You learn one spell from the sorcerer spell list.|
 |3⛁|Metamagic|...|
 
-## Sorcery (Cooldown 2)
+## Sorcery (Cooldown 3)
 
 You tap into a deep wellspring of magic within yourself allowing you to create a variety of magical effects.
+
+|Cost|Prerequisites|Feature|Details|
+|-:|:-|:-|:-|
+|3⛁|Level 2|Sorcery|You gain Sorcery (Cooldown 4)|
+|3⛁|Level 4|Sorcery|You gain Sorcery (Cooldown 5)|
+|3⛁|Level 6|Sorcery|You gain Sorcery (Cooldown 6)|
 
 ### Flexible Casting
 
