@@ -1816,7 +1816,7 @@ When you cast a spell that has a range of touch, you can spend one use of your s
 
 When a spell deals damage, you can spend two uses of your sorcery feature to increase the spell damage by +1.
 
-You can use Empowered Spell even if you have already used your sorcery feature on a different Metamagic option during the casting of the spell.
+You can use Empowered Spell even if you have already used your sorcery feature this turn.
 
 ### Extended Spell
 
