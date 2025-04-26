@@ -26,6 +26,8 @@ This project needs open-minded, reliable, and dedicated PCs, GMs, and contributo
 
 - **Markdown Formatting.** The 5eFP SRD (source reference document) is formatted with Markdown, an easy-to-use markup language that is also easy to learn.
 - **Emotional Intelligence.** The capacity to be aware of, control, and express one's emotions and to handle interpersonal relationships judiciously and empathetically.
+- **Social Intelligence.** The ability to understand one's own and others' actions. Social intelligence is learned and develops from experience with people and learning from successes and failures in social settings. We won't learn anything if we are unwilling to risk failure.
+- **Curiosity.** Curiosity is a high ideal worth striving toward and involves being open to understanding ourselves and others. Being curious means asking questions before making conclusions, checking in with someone when we don't know what's going on for them, seeking mutual and cooperative clarity when something is unclear, and exploring miscommunications and misunderstandings with open-mindedness and with as much non-attachment to outcomes as possible.
 - **Beginner Mind.** Having an openness, eagerness, and lack of preconceptions when studying, even at an advanced level, just as a beginner would.
 - **5eFP Apps.** Proficiency or familiarity with **Arrangr**, **Discord**, **Roll20**, and **Zoom**.
 - **Legal experience with open-source projects.** Help ensure we are doing everything correctly for the health and wellness of the 5eFP project moving forward.
