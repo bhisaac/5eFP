@@ -1775,23 +1775,19 @@ TBA
 
 |**Cost**|**Feature**|**Details**|
 |-:|:-|:-|
-|2⛁|Font of Magic|...|
+|2⛁|Sorcery|...|
 |3⛁|Magic|You begin a game session with 4 mana. You learn one spell from the sorcerer spell list.|
 |3⛁|Metamagic|...|
 
-## Font of Magic
+## Sorcery (Cooldown 2)
 
-You tap into a deep wellspring of magic within yourself. This wellspring is represented by sorcery points, which allow you to create a variety of magical effects.
-
-### Sorcery Points.
-
-You begin a game session with 2 sorcery points.
+You tap into a deep wellspring of magic within yourself allowing you to create a variety of magical effects.
 
 ### Flexible Casting
 
-You can use your sorcery points to gain additional mana, or sacrifice mana to gain additional sorcery points.
+You can spend a use of your sorcery feature to gain additional mana, or sacrifice mana to replenish an expended use of your sorcery feature.
 
-Once per turn, you can either transform 2 unexpended sorcery points into 2 mana or expend 2 mana and gain 1 sorcery point.
+Once per turn, you can either spend two uses of your sorcery feature to gain 2 mana or expend 2 mana to refresh one use of your sorcery feature.
 
 Any mana you create with this feature vanishes at the end of the game session.
 
@@ -1803,38 +1799,38 @@ Unless otherwise noted, you can use only one Metamagic option on a spell when yo
 
 ### Careful Spell
 
-When you cast a spell that forces other creatures to make an ability check, you can protect some of those creatures from the spell’s full force. To do so, you spend 1 sorcery point and choose a number of those creatures up to your CHA (minimum of one creature). A chosen creature automatically succeeds on its ability check against the spell.
+When you cast a spell that forces other creatures to make an ability check, you can protect some of those creatures from the spell’s full force. To do so, you spend one use of your sorcery feature and choose a number of those creatures up to your CHA (minimum of one creature). A chosen creature automatically succeeds on its ability check against the spell.
 
 ### Distant Spell
 
-When you cast a spell that has a range of 1 square or greater, you can spend 1 sorcery point to double the range of the spell.
-When you cast a spell that has a range of touch, you can spend 1 sorcery point to make the range of the spell 6 squares.
+When you cast a spell that has a range of 1 square or greater, you can spend one use of your sorcery feature to double the range of the spell.
+When you cast a spell that has a range of touch, you can spend one use of your sorcery feature to make the range of the spell 6 squares.
 
 ### Empowered Spell
 
-When a spell deals damage, you can spend 2 sorcery points to increase the spell damage by +1.
+When a spell deals damage, you can spend two uses of your sorcery feature to increase the spell damage by +1.
 
-You can use Empowered Spell even if you have already used a different Metamagic option during the casting of the spell.
+You can use Empowered Spell even if you have already used your sorcery feature on a different Metamagic option during the casting of the spell.
 
 ### Extended Spell
 
-When you cast a spell that has a duration of encounter, you can spend 1 sorcery point to extend its duration to Recall.
+When you cast a spell that has a duration of encounter, you can spend one use of your sorcery feature to extend its duration to Recall.
 
 ### Heightened Spell
 
-When you cast a spell that forces a creature to make an ability check to resist its effects, you can spend 3 sorcery points to give one target of the spell disadvantage on its first ability check made against the spell.
+When you cast a spell that forces a creature to make an ability check to resist its effects, you can spend three uses of your sorcery feature to give one target of the spell disadvantage on its first ability check made against the spell.
 
 ### Quickened Spell
 
-Once per turn, when you take the Cast a Spell action with a spell with a casting time of 1 action, you can spend 2 sorcery points instead of discarding your action. If you use the Cast a Spell action again during the same turn, the spell must be a cantrip.
+Once per turn, when you take the Cast a Spell action with a spell with a casting time of 1 action, you can spend two uses of your sorcery feature instead of discarding your action. If you use the Cast a Spell action again during the same turn, the spell must be a cantrip.
 
 ### Subtle Spell
 
-When you cast a spell, you can spend 1 sorcery point to cast it without any somatic or verbal components.
+When you cast a spell, you can spend one use of your sorcery feature to cast it without any somatic or verbal components.
 
 ### Twinned Spell
 
-When you cast a spell that targets only one creature and doesn’t have a range of self, you can spend a number of sorcery points equal to the spell’s level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip).
+When you cast a spell that targets only one creature and doesn’t have a range of self, you can spend a number of uses of your sorcery feature equal to the spell’s level to target a second creature in range with the same spell (spend one use of your sorcery feature if the spell is a cantrip).
 
 To be eligible, a spell must be incapable of targeting more than one creature at the spell’s current level. For example, _magic missile_ and _scorching ray_ aren’t eligible, but _ray of frost_ is.
 
