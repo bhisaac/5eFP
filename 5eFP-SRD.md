@@ -20,7 +20,7 @@ This work includes material taken from the System Reference Document 5.1 (“SRD
 
 ### Playtest Material
 
-_The content and game mechanics detailed within the 5eFP-SRD are presented for playtesting, [feedback](https://github.com/bhisaac/5eFP/discussions), and development purposes. These game mechanics are in draft form, and their inspiration and dedication rules can be used in any game, but they have not been refined through final game development. These game mechanics are subject to change as needed based on feedback provided by 5eFP contributors, Game Masters (GMs), and Player Characters (PCs)._
+_The content and game mechanics detailed within the 5eFP-SRD are presented for playtesting, [feedback](https://github.com/bhisaac/5eFP/discussions), and development purposes. These game mechanics are in draft form, and their inspiration and dedication rules can be used in any game, but they have not been refined through final game development. These game mechanics are subject to change as needed based on [feedback](https://github.com/bhisaac/5eFP/discussions) provided by 5eFP contributors, Game Masters (GMs), and Player Characters (PCs)._
 
 # Introduction
 
