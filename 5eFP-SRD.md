@@ -5125,7 +5125,7 @@ Insight always begins with us, the individual parts of our society or assembly w
 
 ## Medicine in Real Life
 
-Finding balance in your work, life, health, and wellness is crucial, but the world's distractions can throw you off your center. So, we must continually dedicate time to healing. Some wounds are easier to dress than others. You may need to deal with deeper wounds before healing a wound closer to the surface. Putting in consistent effort over months or even years helps you understand your wounds and what you need for stabilization. The healing process requires courage and curiosity; it's often not a straightforward path and may involve unexpected support. Having a guide can make healing faster. Additionally, your healing depends on your willingness to explore parts of yourself that you may have ignored or overlooked.
+Finding balance in your work, life, health, and wellness is crucial, but the world's distractions can throw you off your center. So, we must continually dedicate time to healing. Some wounds are easier to dress than others. You may need to deal with deeper wounds before healing a wound closer to the surface. Putting in consistent effort over months or even years helps you understand your wounds and what you need for stabilization. The healing process requires courage and curiosity; it's often not a straightforward path and may involve unexpected support. Having a guide can make healing faster. Additionally, your healing depends on your willingness to explore parts of yourself that you may have ignored, overlooked, or rejected.
 
 ## Perception in Real Life
 
