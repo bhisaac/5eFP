@@ -32,6 +32,8 @@ _**Focus.**_ Learning and gaining proficiency requires focus, time, and attentio
 
 _**Practice.**_ Focus alone isn't enough. Results require real doing through regular and consistent gameplay. We transform TRPGs into mindful practices. Practices are activities we return to because they feed us in some way. Successful practices provide a nutrient missing in other activities. Our practice is regularly playing 5eFP games from beginning to end, fully conscious and aware at least once per month.
 
+[Read more about the focus practice in Appendix PR-A: Running the Focus Practice](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#running-the-focus-practice).
+
 POSIT
 
 Dedication to the qualities of Insight, Medicine, Perception, Performance, and Survival within 5eFP games supports and promotes their growth in your real life.
@@ -5048,7 +5050,7 @@ TBA.
 
 ...
 
-# Running the Focus Practice
+# Appendix PR-A: Running the Focus Practice
 
 _This section is devoted to all Focus Practice details, including RL versions and RL nuances/symbolism of 5eFP mechanics and rules._
 
