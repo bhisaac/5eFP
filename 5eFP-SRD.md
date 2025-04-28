@@ -4595,7 +4595,7 @@ If the warded creature makes an attack or casts a spell that affects an enemy cr
 
 # Encounters
 
-5eFP uses encounters to describe the adversity PCs find while exploring maps. Traps, unfavorable environmental conditions, creatures, and challenging story situations are all considered encounters. Use the following table to determine the base statistics for all encounters. Except for forced movement, minion damage, and minion MAX wounds, add LEVEL to the base values.
+5eFP uses encounters to describe the adversity PCs find while exploring maps. Traps, unfavorable environmental conditions, creatures, and challenging story situations with uncertain oucomes are all considered encounters. Use the following table to determine the base statistics for all encounters. Add LEVEL to the base values except for forced movement, minion damage, and minion MAX wounds.
 
 |   |**Minion**|**Elite**|**Boss**|
 |--:|:--------:|:-------:|:------:|
@@ -4607,12 +4607,11 @@ If the warded creature makes an attack or casts a spell that affects an enemy cr
 
 **Minion.** Minions represent simple encounters. Monster encounters treat minions as creatures with minimal stats that can only sustain one point of damage with MAX wounds of 1. Non-monster encounters represent situations where PCs must meet a single challenge to overcome the encounter. Examples: a trap that does not reset or picking a lock. While minion monster encounters are resolved in rounds, non-monster encounters may take minutes to resolve.
 
-Some creature minions have the critter tag. Critters are typically tiny or small creatures. They deal 0 damage, have a +1 bonus and a DC of 10. Critters can be upgraded. An upgraded critter shares the same base statistics as minions, but they do not add LEVEL to their base values. A critter can be further upgraded to add LEVEL to base values.
+Some creature minions have the critter tag. Critters are typically tiny or small creatures. They deal 0 damage, have a +1 bonus and a DC of 10. Critters can be upgraded. An upgraded critter shares the same base statistics as minions, but they do not add LEVEL to their base values. A critter can be further upgraded to add LEVEL to its base statistics, ignoring movement, damage, and MAX wounds as normal.
 
 **Elite.** Elites represent advanced encounters which may include a number of minion encounters. Monster encounters treat elites as creatures with advanced stats and features. Non-monster encounters represent situations where PCs must overcome adversity several times before achieving completion. Examples: convince a skeptical creature of something or gather clues. While elite monster encounters are resolved in rounds, non-monster elite encounters may take an hour to resolve.
 
-**Boss.** Boss encounters are difficult and include minion and elite encounters. Monster encounters treat bosses as creatures with advanced stats, features, and special tactics benefiting from the presence of one or more minions. Non-monster encounters represent difficult situations where PCs must overcome challenging conditions several times while also dealing with some simultaneous minion 
- and elite encounters. Non-monster boss encounters resolve after all non-monster minion encounters are resolved. Examples: attempt to sway the opinion of an adversary and associated followers or put out a fire spreading through a village while rescuing trapped villagers. While boss monster encounters are resolved in rounds, non-monster boss encounters may take several hours to resolve.
+**Boss.** Boss encounters are difficult and include minion and elite encounters. Monster encounters treat bosses as creatures with advanced stats, features, and special tactics benefiting from the presence of one or more minions. Non-monster encounters represent difficult situations where PCs must overcome challenging conditions several times while also dealing with some simultaneous minion and elite encounters. Non-monster boss encounters resolve after all non-monster minion encounters are resolved. Examples: attempt to sway the opinion of an adversary and associated followers or put out a fire spreading through a village while rescuing trapped villagers. While boss monster encounters are resolved in rounds, non-monster boss encounters may take several hours to resolve.
 
 **LEVEL.** The current level of play.
 
@@ -4644,12 +4643,12 @@ Encounter statistics cannot be reduced below the following values:
 
 ### Elite Monster Encounter Templates (in progress ...)
 
-Elite creatures within an encounter can be further customized with healer, mage, scoundrel, and warrior templates. Add the template features to the designated creature or creatures in an encounter.
+Elite creatures within an encounter can be further customized with healer, mage, scoundrel, and warrior templates. Add the template's game features to the designated creature or creatures in an encounter.
 
 ### Healer Template
 - MAX Wounds +1
 - Defense +1
-- Action, Cooldown: target a creature within 6 squares. For the rest of the encounter, if the target is assigned 1 or more points of damage, reduce that damage by 1. If another friendly creature is within 6 squares of the target, move this beneficial effect onto it at the end of the turn, favoring the target with more wounds.
+- (Action, Cooldown): target a creature within 6 squares. For the rest of the encounter, if the target is assigned 1 or more points of damage, reduce that damage by 1. If another friendly creature is within 6 squares of the target, move this beneficial effect onto it at the end of the turn, favoring the target with more wounds.
 
 ### Scoundrel Template
 - MAX Wounds +1
@@ -4843,7 +4842,7 @@ Special traits (which appear before any actions or reactions) are characteristic
 
 #### Innate Spellcasting
 
-A monster with the innate ability to cast spells has the Innate Spellcasting special trait. Unless noted otherwise, an innate spell of 1st level or higher is always cast at its lowest possible level and can’t be cast at a higher level.
+A monster with the innate ability to cast spells has the Innate Spellcasting special trait. Unless noted otherwise, an innate spell of 1st level or higher does not require mana to cast, is always cast at its lowest possible level, and can’t be cast at a higher level.
 
 An innate spell can have special rules or restrictions. For example, a mage might be able to innately cast the *levitate* spell, but the spell has a “self only” restriction, which means that the spell affects only the mage.
 
@@ -4851,11 +4850,11 @@ A monster’s innate spells can’t be swapped out with other spells.
 
 #### Spellcasting
 
-A monster with the Spellcasting special trait has a spellcaster level and spell slots, which it uses to cast its spells of 1st level and higher. The spellcaster level is also used for any cantrips included in the feature.
+A monster with the Spellcasting special trait has a spellcaster level and mana, which it uses to cast its spells of 1st level and higher. The spellcaster level is also used for any cantrips included in the feature.
 
-The monster has a list of spells known or prepared from a specific class. The list might also include spells from a feature in that class, such as the Divine Domain feature of the cleric or the Druid Circle feature of the druid. The monster is considered a member of that class when attuning to or using a magic item that requires membership in the class or access to its spell list.
+The monster has a list of spells known from a specific class. The list might also include spells from a feature in that class, such as the Divine Domain feature of the cleric or the Druid Circle feature of the druid. The monster is considered a member of that class when attuning to or using a magic item that requires membership in the class or access to its spell list.
 
-A monster can cast a spell from its list at a higher level if it has the spell slot to do so. For example, a drow mage with the 3rd-­level lightning bolt spell can cast it as a 5th-­level spell by using one of its 5th-­level spell slots.
+A monster can cast a spell from its list at a higher level if it has the mana to do so. For example, a drow mage with the 2rd-­level _lightning bolt_ spell can cast it as a 3rd-level spell by spending an additional +1 mana.
 
 You can change the spells that a monster knows or has prepared, replacing any spell on its spell list with a spell of the same level and from the same class list. If you do so, you might cause the monster to be a greater or lesser threat than suggested by its description.
 
