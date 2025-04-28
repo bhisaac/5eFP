@@ -5172,7 +5172,7 @@ An awakened shrub is an ordinary plant given sentience and mobility by the *awak
 
 #### Legendary Actions
 
-**Revive (1 Action/minion).** Restore one defeated plant minion within LOS to full health for each point spent. Plant minions defeated with fire cannot be revived in this way.
+**Revive (Minion).** Restore one defeated minion to full health within LOS. Or, if there are no minions on the playing field, conjure two awakened shrub minions in an unoccupied space within 1 square. Minions defeated with fire cannot be revived in this way.
 
 **Thrash (1 Action).** The awakened shrub boss deals slashing damage to adjacent foes. A successful DEX check reduces the damage by half.
 
