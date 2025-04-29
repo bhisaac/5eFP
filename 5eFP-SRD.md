@@ -5538,7 +5538,7 @@ The Enchanted Forest's beloved Enchantress Queen (Queen) falls gravely ill as wa
 
 You joined the Queen's Heralds and now, just before your graduation, you are called to participate in one important, final test: you must travel to the Crypt of the Continual Flame on foot deep into the Megalithic Highlands. You and your friends must make the journey alone unaided by your fellow students, peers, and instructors. You must make your way to the Crypt using a simple map. There, you will light your torch within the Hall of the Continual Flame and return it as proof of completion. Only then do you officially become a Herald.
 
-# Appendix PR-A: Running the Focus Practice
+# Appendix FP-A: Running the Focus Practice
 
 _This section is devoted to all Focus Practice details, including RL versions and RL nuances/symbolism of 5eFP mechanics and rules._
 
