@@ -5049,97 +5049,6 @@ TBA.
 
 ...
 
-# Appendix PR-A: Running the Focus Practice
-
-_This section is devoted to all Focus Practice details, including RL versions and RL nuances/symbolism of 5eFP mechanics and rules._
-
-## The Rule of 1 and 20
-
-The probability of rolling any number on a d20 (twenty-sided dice) is 1 in 20 or 5%. The probability of rolling any single number twice in a row on a d20 is 1 in 400 or 0.0025%. If you roll a 1 and then pass your turn or pause between die rolls, your chance of rolling a 1 on your next d20 roll returns to 5%. A d20 result of 20 is an automatic success, while 1 is an automatic failure. There is no free agency associated with automatic success or failure. So, 10% of all d20 die rolls produce results beyond your control. Let's take this to the next level and explore the rule of 20 and 1 in your real life.
-
-## Swing (RNG)
-
-Positive and negative circumstances are in constant flux within games that rely on random results and probability, but changing circumstances also play out in your real life. It's known as a swing when circumstances trend in a particular direction over time. Gamers also refer to this as RNG or random number generation, one metric gamers use to describe a game with random elements that significantly factor into their success or failure.
-
-### Rule of 1: HOW DID I FAIL?
-
-_No matter how advantaged or experienced you are, sometimes negative circumstances randomly arise, leading to automatic failure._
-
-Sometimes, you are dealt a poor hand of cards and must strive to make them work together to serve your purposes. Accomplished gamers and those who achieve more of their life's goals push through the experience anyway and learn what they can from the experience they gain. Dwelling on unfavorable circumstances or failures doesn't improve your chance of meeting life goals. Rolling a 1 does not mean your next die roll will also be a 1. There is a near-zero chance that you will consecutively roll the same number twice. The chance is close enough to zero to treat it as such. Less than half of a percent is an outlier. Rolling the dice again will likely produce a _different_ number.
-
-So, roll with the punches. Play that poor hand and draw new cards. Roll the dice again. If fear of rolling an automatic failure is all that slows you down, take comfort in knowing it happens only 5% of the time.
-
-Part of reaching the next level of experience is understanding why a failure occurred, standing up, brushing oneself off, and trying again.
-
-**_Negative Swing_.** When negative circumstances start trending, you are experiencing negative swing or the tendency for results to bottom out, flatten out, and fail instead of building up, coming together, and succeeding. If you learn to identify the signs of negative swing, you can adjust to it and plan your next steps accordingly.
-
-- Plan a more conservative approach to whatever you do during a negative swing.
-- It may be tempting to hold what you're going through with pessimism, resentment, or disappointment. It's natural to be disappointed with outcomes that do not end up matching what we want. Adopting a pessimistic attitude may make the negative swing last longer or cause the negative results to strengthen. The best approach is to remain as neutral as possible. It's OK and natural to be disappointed. Let this disappointment fuel your next efforts and actions after the swing ends.
-- Failures that arise can be definitive endings, but perhaps they are not that defined. There is a tendency to read too much into negative swing. The universe isn't really out to get you; it just feels that way sometimes. You aren't cursed or destined to fail.
-- Strive to see these failures as "not now" or "not like this" experiences and, ultimately, opportunities to educate and inform yourself for when (not if!) you try again.
-
-### Rule of 20: HOW DID I WIN?
-
-_No matter how disadvantaged or inexperienced we are, sometimes positive circumstances randomly arise, leading to automatic success._
-
-We were dealt a poor hand of cards to work with, but somehow, the cards worked. We got exactly what we needed when we needed it. This success may be temporary, however. Rolling 20 doesn't guarantee the next roll will also be a 20. You roll a 20 twice in a row less than half of a percent of the time. It's a near-zero occurrence and should not be relied upon in achieving life goals.
-
-Natural 20s occur once in a while automatically. This is why using an energy or skill we aren't proficient with is an acceptable strategy. While our results might be mediocre or average, not all skill tests must be spectacular. Often, we only need basic success to move the story (and our lives) forward.
-
-Learn from automatic successes. If you can identify those factors that are out of your control, you can more easily see those that are. Did controllable circumstances and skill factor into your success? If the answer is yes, you know you are on the right track. If the answer is no, then jumping tracks and increasing or acquiring proficiencies may be necessary to achieve consistent, long-term results.
-
-**_Positive Swing_.** When positive circumstances start trending, you are experiencing a positive swing or the tendency for results to build upward, come together, and succeed instead of bottoming out, flattening out, and failing. If you learn to identify the signs of positive swing, you can adjust to it and plan your next steps accordingly.
-
-- Plan a more conservative approach to whatever you do during a positive swing.
-- Successes that arise can be definitive beginnings, but perhaps they are not that defined. There is also a tendency to read too much into positive swing. The universe isn't really deciding to choose you as the "chosen one." Everyone experiences a positive swing once in a while. You aren't necessarily destined or fated to win or succeed.
-- You can be less risk-averse during a positive swing.
-- Set aside and preserve any gains or advances acquired through positive swing and avoid over-committing your efforts or overinvesting your time and energy. Use the resrouces you set aside during a postive swing for when a negative swing takes effect.
-- Positive swing can end with little or no advanced warning.
-
-### FINAL THOUGHTS
-
-Outcomes can be capricious. Growing attached to specific outcomes can end in frustration and result in the negation of your efforts. Some failures lead to pleasing or helpful outcomes, while some successes create undesired results or consequences.
-
-This is the "yes" and "no" of existence playing out within a d20 die roll. It is a microcosm that shows us a similar universal actor in our daily lives. We don't know why, but sometimes the result of something is NO. Sometimes, the result is YES. The "yes" and "no" are also constantly changing. As a human bound by linear awareness, you typically lack the long-term or consistent non-linear awareness of geologic or cosmic time needed to see why the probability curve bends the way it does. This realization can either be upsetting or comforting. 5eFP encourages you to see this as comforting.
-
-A flood of non-linear awareness sunders your equilibrium with a barrage of perplexing and confusing information that can interfere with and overly complicate daily life's already complicated and challenging experience. Awareness like this can do little to support a life harmonized within human society and the world's linear existence. An effect may precede its cause in our non-linear existence, but this realization does little to achieve goals, win arguments ethically, and push through adversity and the resistance of others to see the other side of a conflict.
-
-## Character Creation
-
-You created your character since birth, and you continue to create your character when you wake up to each new day. Your character in RL is a part of you and, despite appearances, isn't rigidly defined. Your character is a mutable quality. Are there parts of your character that you need to work on? Are there parts of your character that no longer serve your life? Are there qualities that you long for and wish to include within your life?
-
-When you create a new character, pick one aspect of yourself facing the challenge of unfavorable circumstances and assign it to the new character. The PC holds the post and wears the mantle of this challenge for you during that character's experience in the game. You may be overwhelmed by the number of aspects that challenge you. Return your focus to choosing the most central aspect that may even have more aspects revolving or orbiting around it. It isn't difficult to find those aspects that produce pain, aversion, aggression, fear, or worry. Our world rarely allows us to simply feel into them and become more aware of what they bring to the table. You will have plenty of time to explore additional challenging aspects as you wade into the depths of this practice.
-
-You aren't just the challenging aspects that confront you. You also identify at least two talents within your life, two aptitudes, and one average ability. Try to be as honest with yourself as you can be when assigning ability scores. Your character can be an idealized version of yourself with more capacity than you feel. This is OK and encouraged while playing your character and the game. It can be challenging to see our positive qualities through the cloud of unfavorable circumstances. Even if you don't readily identify with these talents and aptitudes, allow your PC to have them while being curious about where those qualities are in your RL body. You may journal your sense of what your real ability scores are without censoring or revising your answers and revisit this inner awareness while you level your PC within the practice. Notice when the aspects are aligned and when the aspects are not attuned to you.
-
-## Obscuring Map Tiles
-
-These opaque tiles represent your conflict on a personal and embodied level. You reach out, take the opaqueness in your hand as a beloved friend, turn it over to determine whether or not it hid an encounter on its underside, and then return it to the supply of obscuring map tiles. Often, you must confront and address your conflict or crisis, facing what arises within yourself and your life as you do so. You don't know what you will find once you have decided to face your conflict or crisis, but the healing process will never be complete unless you do so.
-
-The map begins completely obscured. The conflict or crisis feels overwhelming and overpowering at first, both in life and when you begin the game. Over time, this lessens, replaced by a growing sense of free agency, playfulness, lightness of being, and gratitude as more and more of the conflict is cleared, making known to you what the conflict obscured and eclipsed all along.
-
-## Insight in Real Life
-
-Insight always begins with us, the individual parts of our society or assembly which collectively form the whole of humanity. There are endless opportunities for deepening your Insight within yourself. Any _surplus_ Insight pours forth from you once you have received your fill. Insights have more to do with ourselves than the other person, movement, event, or interaction being witnessed. You can spend a lifetime dedicated to Insight and still have something left to learn about yourself. Turn the eyes of the heart inward. Become curious about what is arising within you.
-
-## Medicine in Real Life
-
-Finding balance in your work, life, health, and wellness is crucial, but the world's distractions can throw you off your center. So, we must continually dedicate time to healing. Some wounds are easier to dress than others. You may need to deal with deeper wounds before healing a wound closer to the surface. Putting in consistent effort over months or even years helps you understand your wounds and what you need for stabilization. The healing process requires courage and curiosity; it's often not a straightforward path and may involve unexpected support. Having a guide can make healing faster. Additionally, your healing depends on your willingness to explore parts of yourself that you may have ignored, overlooked, or rejected.
-
-## Perception in Real Life
-
-Perception begins with perceiving your physical, earthly body and immediate surroundings. This awareness helps you interrelate with others and navigate life's changes. Witnessing your feelings, thoughts, and instincts as information lets you learn about your reactions. The more you know about yourself, the less you identify with the reactions of others.
-
-## Performance in Real Life
-
-Developing healthy growth and skills takes time. Some are easy to acquire, while others take longer. Dedication to Performance enhances efficiency as it focuses your efforts. This dedication also encourages you to let go of the old and familiar narratives that identify you with what no longer serves your life. Changing the narrative and deciding to be successful improves your chances of reaching your goals. Recognize your limits in pursuing growth and goals since your body has needs, physical limitations, and capacities that cannot be ignored. Cultivating growth involves recognizing and healing wounds, releasing old patterns, practicing gratitude, and nurturing self-acceptance. Individuals dedicated to Performance progress better due to their commitment to improvement and allocating time for necessary tasks, followed by taking essential steps toward success.
-
-## Survival in Real Life
-
-Survival starts with recognizing that you don’t have all the answers and that achieving goals requires embracing the unknown and the courage to get lost once in a while. While plans and routes are important, adaptability is needed to navigate unexpected events. Dedicating Survival can help lead you to undiscovered paths and solutions. Focus on your goals but remain receptive to what life brings, as it may hold the necessary answers. Arriving (somewhere) or receiving (something) might require you to first surrender to not knowing exactly how you will arrive or how you will receive. You don't need to know how it will happen to receive the benefits it provides.
-
-More: TBA.
-
 # Appendix PHS
 
 ---
@@ -5628,3 +5537,94 @@ The 5eFP community will continue listening, learning, and reflecting, individual
 The Enchanted Forest's beloved Enchantress Queen (Queen) falls gravely ill as waves of weary and injured refugees enter through all four charmed gates of Castle Somnam (HQ), bringing harrowed tales of encroaching darkness. The Nightmare, a darkly magical reality overlaying the world and the realm known as the Plane of Shadow (Shadowfell), breached the Enchanted Forest's borders, spreading its long shadows across the land and transforming all it touched into strange and twisted reflections. The realm is no longer as it once was. Castle Somnam remains the only location unaffected by the Nightmare, thanks to the monarch's mystical protections imbued within the city castle's walls. An elite assembly of champions, known as the Queen's Heralds (Heralds), are charged with keeping the realm and its people healthy, thriving, and safe from harm.
 
 You joined the Queen's Heralds and now, just before your graduation, you are called to participate in one important, final test: you must travel to the Crypt of the Continual Flame on foot deep into the Megalithic Highlands. You and your friends must make the journey alone unaided by your fellow students, peers, and instructors. You must make your way to the Crypt using a simple map. There, you will light your torch within the Hall of the Continual Flame and return it as proof of completion. Only then do you officially become a Herald.
+
+# Appendix PR-A: Running the Focus Practice
+
+_This section is devoted to all Focus Practice details, including RL versions and RL nuances/symbolism of 5eFP mechanics and rules._
+
+## The Rule of 1 and 20
+
+The probability of rolling any number on a d20 (twenty-sided dice) is 1 in 20 or 5%. The probability of rolling any single number twice in a row on a d20 is 1 in 400 or 0.0025%. If you roll a 1 and then pass your turn or pause between die rolls, your chance of rolling a 1 on your next d20 roll returns to 5%. A d20 result of 20 is an automatic success, while 1 is an automatic failure. There is no free agency associated with automatic success or failure. So, 10% of all d20 die rolls produce results beyond your control. Let's take this to the next level and explore the rule of 20 and 1 in your real life.
+
+## Swing (RNG)
+
+Positive and negative circumstances are in constant flux within games that rely on random results and probability, but changing circumstances also play out in your real life. It's known as a swing when circumstances trend in a particular direction over time. Gamers also refer to this as RNG or random number generation, one metric gamers use to describe a game with random elements that significantly factor into their success or failure.
+
+### Rule of 1: HOW DID I FAIL?
+
+_No matter how advantaged or experienced you are, sometimes negative circumstances randomly arise, leading to automatic failure._
+
+Sometimes, you are dealt a poor hand of cards and must strive to make them work together to serve your purposes. Accomplished gamers and those who achieve more of their life's goals push through the experience anyway and learn what they can from the experience they gain. Dwelling on unfavorable circumstances or failures doesn't improve your chance of meeting life goals. Rolling a 1 does not mean your next die roll will also be a 1. There is a near-zero chance that you will consecutively roll the same number twice. The chance is close enough to zero to treat it as such. Less than half of a percent is an outlier. Rolling the dice again will likely produce a _different_ number.
+
+So, roll with the punches. Play that poor hand and draw new cards. Roll the dice again. If fear of rolling an automatic failure is all that slows you down, take comfort in knowing it happens only 5% of the time.
+
+Part of reaching the next level of experience is understanding why a failure occurred, standing up, brushing oneself off, and trying again.
+
+**_Negative Swing_.** When negative circumstances start trending, you are experiencing negative swing or the tendency for results to bottom out, flatten out, and fail instead of building up, coming together, and succeeding. If you learn to identify the signs of negative swing, you can adjust to it and plan your next steps accordingly.
+
+- Plan a more conservative approach to whatever you do during a negative swing.
+- It may be tempting to hold what you're going through with pessimism, resentment, or disappointment. It's natural to be disappointed with outcomes that do not end up matching what we want. Adopting a pessimistic attitude may make the negative swing last longer or cause the negative results to strengthen. The best approach is to remain as neutral as possible. It's OK and natural to be disappointed. Let this disappointment fuel your next efforts and actions after the swing ends.
+- Failures that arise can be definitive endings, but perhaps they are not that defined. There is a tendency to read too much into negative swing. The universe isn't really out to get you; it just feels that way sometimes. You aren't cursed or destined to fail.
+- Strive to see these failures as "not now" or "not like this" experiences and, ultimately, opportunities to educate and inform yourself for when (not if!) you try again.
+
+### Rule of 20: HOW DID I WIN?
+
+_No matter how disadvantaged or inexperienced we are, sometimes positive circumstances randomly arise, leading to automatic success._
+
+We were dealt a poor hand of cards to work with, but somehow, the cards worked. We got exactly what we needed when we needed it. This success may be temporary, however. Rolling 20 doesn't guarantee the next roll will also be a 20. You roll a 20 twice in a row less than half of a percent of the time. It's a near-zero occurrence and should not be relied upon in achieving life goals.
+
+Natural 20s occur once in a while automatically. This is why using an energy or skill we aren't proficient with is an acceptable strategy. While our results might be mediocre or average, not all skill tests must be spectacular. Often, we only need basic success to move the story (and our lives) forward.
+
+Learn from automatic successes. If you can identify those factors that are out of your control, you can more easily see those that are. Did controllable circumstances and skill factor into your success? If the answer is yes, you know you are on the right track. If the answer is no, then jumping tracks and increasing or acquiring proficiencies may be necessary to achieve consistent, long-term results.
+
+**_Positive Swing_.** When positive circumstances start trending, you are experiencing a positive swing or the tendency for results to build upward, come together, and succeed instead of bottoming out, flattening out, and failing. If you learn to identify the signs of positive swing, you can adjust to it and plan your next steps accordingly.
+
+- Plan a more conservative approach to whatever you do during a positive swing.
+- Successes that arise can be definitive beginnings, but perhaps they are not that defined. There is also a tendency to read too much into positive swing. The universe isn't really deciding to choose you as the "chosen one." Everyone experiences a positive swing once in a while. You aren't necessarily destined or fated to win or succeed.
+- You can be less risk-averse during a positive swing.
+- Set aside and preserve any gains or advances acquired through positive swing and avoid over-committing your efforts or overinvesting your time and energy. Use the resrouces you set aside during a postive swing for when a negative swing takes effect.
+- Positive swing can end with little or no advanced warning.
+
+### FINAL THOUGHTS
+
+Outcomes can be capricious. Growing attached to specific outcomes can end in frustration and result in the negation of your efforts. Some failures lead to pleasing or helpful outcomes, while some successes create undesired results or consequences.
+
+This is the "yes" and "no" of existence playing out within a d20 die roll. It is a microcosm that shows us a similar universal actor in our daily lives. We don't know why, but sometimes the result of something is NO. Sometimes, the result is YES. The "yes" and "no" are also constantly changing. As a human bound by linear awareness, you typically lack the long-term or consistent non-linear awareness of geologic or cosmic time needed to see why the probability curve bends the way it does. This realization can either be upsetting or comforting. 5eFP encourages you to see this as comforting.
+
+A flood of non-linear awareness sunders your equilibrium with a barrage of perplexing and confusing information that can interfere with and overly complicate daily life's already complicated and challenging experience. Awareness like this can do little to support a life harmonized within human society and the world's linear existence. An effect may precede its cause in our non-linear existence, but this realization does little to achieve goals, win arguments ethically, and push through adversity and the resistance of others to see the other side of a conflict.
+
+## Character Creation
+
+You created your character since birth, and you continue to create your character when you wake up to each new day. Your character in RL is a part of you and, despite appearances, isn't rigidly defined. Your character is a mutable quality. Are there parts of your character that you need to work on? Are there parts of your character that no longer serve your life? Are there qualities that you long for and wish to include within your life?
+
+When you create a new character, pick one aspect of yourself facing the challenge of unfavorable circumstances and assign it to the new character. The PC holds the post and wears the mantle of this challenge for you during that character's experience in the game. You may be overwhelmed by the number of aspects that challenge you. Return your focus to choosing the most central aspect that may even have more aspects revolving or orbiting around it. It isn't difficult to find those aspects that produce pain, aversion, aggression, fear, or worry. Our world rarely allows us to simply feel into them and become more aware of what they bring to the table. You will have plenty of time to explore additional challenging aspects as you wade into the depths of this practice.
+
+You aren't just the challenging aspects that confront you. You also identify at least two talents within your life, two aptitudes, and one average ability. Try to be as honest with yourself as you can be when assigning ability scores. Your character can be an idealized version of yourself with more capacity than you feel. This is OK and encouraged while playing your character and the game. It can be challenging to see our positive qualities through the cloud of unfavorable circumstances. Even if you don't readily identify with these talents and aptitudes, allow your PC to have them while being curious about where those qualities are in your RL body. You may journal your sense of what your real ability scores are without censoring or revising your answers and revisit this inner awareness while you level your PC within the practice. Notice when the aspects are aligned and when the aspects are not attuned to you.
+
+## Obscuring Map Tiles
+
+These opaque tiles represent your conflict on a personal and embodied level. You reach out, take the opaqueness in your hand as a beloved friend, turn it over to determine whether or not it hid an encounter on its underside, and then return it to the supply of obscuring map tiles. Often, you must confront and address your conflict or crisis, facing what arises within yourself and your life as you do so. You don't know what you will find once you have decided to face your conflict or crisis, but the healing process will never be complete unless you do so.
+
+The map begins completely obscured. The conflict or crisis feels overwhelming and overpowering at first, both in life and when you begin the game. Over time, this lessens, replaced by a growing sense of free agency, playfulness, lightness of being, and gratitude as more and more of the conflict is cleared, making known to you what the conflict obscured and eclipsed all along.
+
+## Insight in Real Life
+
+Insight always begins with us, the individual parts of our society or assembly which collectively form the whole of humanity. There are endless opportunities for deepening your Insight within yourself. Any _surplus_ Insight pours forth from you once you have received your fill. Insights have more to do with ourselves than the other person, movement, event, or interaction being witnessed. You can spend a lifetime dedicated to Insight and still have something left to learn about yourself. Turn the eyes of the heart inward. Become curious about what is arising within you.
+
+## Medicine in Real Life
+
+Finding balance in your work, life, health, and wellness is crucial, but the world's distractions can throw you off your center. So, we must continually dedicate time to healing. Some wounds are easier to dress than others. You may need to deal with deeper wounds before healing a wound closer to the surface. Putting in consistent effort over months or even years helps you understand your wounds and what you need for stabilization. The healing process requires courage and curiosity; it's often not a straightforward path and may involve unexpected support. Having a guide can make healing faster. Additionally, your healing depends on your willingness to explore parts of yourself that you may have ignored, overlooked, or rejected.
+
+## Perception in Real Life
+
+Perception begins with perceiving your physical, earthly body and immediate surroundings. This awareness helps you interrelate with others and navigate life's changes. Witnessing your feelings, thoughts, and instincts as information lets you learn about your reactions. The more you know about yourself, the less you identify with the reactions of others.
+
+## Performance in Real Life
+
+Developing healthy growth and skills takes time. Some are easy to acquire, while others take longer. Dedication to Performance enhances efficiency as it focuses your efforts. This dedication also encourages you to let go of the old and familiar narratives that identify you with what no longer serves your life. Changing the narrative and deciding to be successful improves your chances of reaching your goals. Recognize your limits in pursuing growth and goals since your body has needs, physical limitations, and capacities that cannot be ignored. Cultivating growth involves recognizing and healing wounds, releasing old patterns, practicing gratitude, and nurturing self-acceptance. Individuals dedicated to Performance progress better due to their commitment to improvement and allocating time for necessary tasks, followed by taking essential steps toward success.
+
+## Survival in Real Life
+
+Survival starts with recognizing that you don’t have all the answers and that achieving goals requires embracing the unknown and the courage to get lost once in a while. While plans and routes are important, adaptability is needed to navigate unexpected events. Dedicating Survival can help lead you to undiscovered paths and solutions. Focus on your goals but remain receptive to what life brings, as it may hold the necessary answers. Arriving (somewhere) or receiving (something) might require you to first surrender to not knowing exactly how you will arrive or how you will receive. You don't need to know how it will happen to receive the benefits it provides.
+
+More: TBA.
