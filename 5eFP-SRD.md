@@ -5621,25 +5621,6 @@ The 5eFP community will continue listening, learning, and reflecting, individual
     - Healer: Once per turn, whenever you complete an action that targets a creature, you can choose a creature within 1 square of the target. The chosen creature discards up to 1 wound and can make an additional ability check to resist an ongoing negative effect.
 - More TBA
 
----
-
-### RECOMMENDED READING
-
-Schwartz, Richard C. *Internal Family Systems Model*. Trailheads Publications. ISBN 0972148000
-
-### LINKS
-
-TDB
-
----
-
-### EXPERIMENTAL (in development)
-
-5eFP MONK
-— (1 KI point): stand upright from prone or jump up or down one ledge as a free action.
-
----
-
 # Sample Setting Handbook
 
 ## Enchanted Forest
