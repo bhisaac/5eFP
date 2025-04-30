@@ -3304,6 +3304,8 @@ Movement through dangerous dungeons or wilderness areas often involves more than
 
 While climbing or swimming, each square of movement costs 1 extra square (2 extra squares in difficult terrain), unless a creature has a climbing or swimming speed. At the GM’s option, climbing a slippery vertical surface or one with few handholds requires a successful STR check. Similarly, gaining any distance in rough water might require a successful STR check.
 
+When swimming, you only provoke opportunity attacks from creatures with a reach score of 2 or more squares if you have swim speed.
+
 #### Flying
 
 While flying, you only trigger opportunity attacks from creatures with a reach score of 2 or more squares and fall prone when unconscious. Flight can be granted without also granting a fly speed, such as with the _fly_ spell or with certain game rules, features, or equipment. A fly speed grants the hover special ability. If you can hover, you do not fall prone when unconscious.
