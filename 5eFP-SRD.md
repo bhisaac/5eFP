@@ -4447,31 +4447,37 @@ The spell creates more than one beam when you reach higher levels: two beams at 
 |Drawing upon a necromantic facsimile of life, you gain bolster 1.|
 |**At Higher Levels.** When you cast this spell at 2nd level or higher, your bolster increases by +1 for each spell level above 1st.|
 
-#### Find Familiar (Cooldown)
-||
-|:-|
-|_1st-level conjuration (ritual)_|
-|**Casting Time:** 1 action|
-|**Range:** 2 squares|
-|**Components:** V,S|
-|**Duration:** Instantaneous|
-||
-|You gain the service of a familiar, a spirit that takes the form of a critter with preternatural traits. Appearing in an unoccupied space within range, the familiar has the statistics of a minion critter unless otherwise indicated in its description in addition to the chosen form, though it is a celestial, fey, or elemental (your choice) instead of a beast. Your familiar's DEX checks for stealth and WIS checks related to perception gain advantage. Choose the familiar's form.|
-|**_Amphibian_.** Your familiar takes the form of a frog or salamander. Your familiar breathes water and gains a swim speed of 6 squares.|
-|**_Aquatic_.** Your familiar takes the form of a fish or octopus. Your familiar disappears if it spends more than 1 round outside of a body of water. It breathes water and gains a swim speed of 12 squares.|
-|**_Aracnid_.** Your familiar takes the form of an eight-legged animal with a chittenous shell and fangs. Your arachnid familiar gains a climb speed of 6 squares.|
-|**_Avian_.** Your familiar takes the form of a bird of prey and gains a fly speed of 12 squares.|
-|**_Quadruped_.** Your familiar takes the form of a furry mammal with four limbs. Whenever you reveal an obscuring map tile, your familiar may also reveal an additional obscuring map tile up to 2 squares away from you.|
-|**_Serpentes_.** Your familiar takes the form of a snake. Whenever your familiar successfully attacks a creature, it must make a CON check or gain the poisoned condition.|
-||
-|Your familiar acts independently of you, but it always obeys your commands. In combat, it rolls its own initiative and acts on its own turn. A familiar can take actions as normal except your familiar's help action gains **_Rest 2_**.|
-|When the familiar reaches MAX Wounds, it disappears, leaving behind no physical form. It reappears in an unoccupied space within range after you cast this spell again.
-|While your familiar is on the same map, you can communicate with it telepathically, and you gain the following game features.|
-|**_Familiar Sight (Action)_.** You see through your familiar's eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses that the familiar has. During this time, you are deaf and blind with regard to your own senses. You can continue to discard your action at the start of each of your turns to extend this duration an additional turn.|
-|**_Dismiss Familiar (Action)_.** You temporarily dismiss your familiar. It disappears into a pocket dimension where it awaits your summons. Alternatively, you can dismiss it forever. While dismissed, you may discard your action to cause it to reappear in any unoccupied space within 6 squares of you.|
-||
-|You can't have more than one familiar at a time. If you cast this spell while you already have a familiar, you instead cause it to adopt a new form. Choose one of the forms from the above list. Your familiar transforms into the chosen critter.|
-|Finally, when you cast a spell with a range of touch, your familiar can deliver the spell as if it had cast the spell. Your familiar must be on the same map, and it must discard its reaction to deliver the spell when you cast it. If the spell requires an attack roll, you use your attack modifier for the roll.|
+### Find Familiar (Cooldown)
+
+- _1st-level conjuration (ritual)_
+- **Range:** 2 squares
+- **Components:** V, S
+- **Duration:** Instantaneous
+
+You gain the service of a familiar, a spirit that takes the form of a critter with magic traits. Appearing in an unoccupied space within range, the familiar has the statistics of a minion unless otherwise indicated in its description in addition to the chosen form, though it is a celestial, fey, or elemental (your choice) instead of a beast. Your familiar's DEX checks for stealth and WIS checks related to perception gain advantage. Choose the familiar's form.
+
+- **_Amphibian_.** Your familiar takes the form of a frog or salamander. Your familiar breathes water and gains a swim speed of 6 squares.
+- **_Aquatic_.** Your familiar takes the form of a fish or octopus. Your familiar disappears if it spends more than 1 round outside of a body of water. It breathes water and gains a swim speed of 12 squares.
+- **_Aracnid_.** Your familiar takes the form of an eight-legged animal with a chitinous shell. Your arachnid familiar gains a climb speed of 6 squares.
+- **_Avian_.** Your familiar takes the form of a bird of prey and gains a fly speed of 12 squares.
+- **_Quadruped_.** Your familiar takes the form of a furry mammal with four limbs. Whenever you reveal an obscuring map tile while you are the group token controller, your familiar may also reveal an additional obscuring map tile up to 2 squares away.
+- **_Serpentes_.** Your familiar takes the form of a snake. Whenever your familiar successfully attacks a creature, it must make a CON check or gain the poisoned condition.
+
+Your familiar acts independently of you, but it always obeys your commands. In combat, it gains the same initiative and acts on your turn. A familiar can't attack unless you first discard your action. Similarly, a familiar can't take an opportunity attack unless you first discard your reaction. Your familiar can take other actions as normal, except your familiar's help action gains **_Rest 2_**.
+
+When the familiar reaches MAX Wounds, it disappears, leaving behind no physical form. It reappears in an unoccupied space within range after you cast this spell again.
+
+While your familiar is on the same map, you can communicate with it telepathically, and you gain the following game features.
+
+**_Familiar Link (Action)_.** You see through your familiar's eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses that the familiar has. During this time, you are deaf and blind with regard to your own senses. You can continue to discard your action at the start of each of your turns to extend this duration an additional turn.
+
+**_Dismiss Familiar (Action)_.** You temporarily dismiss your familiar. It disappears into a pocket dimension where it awaits your summons. Alternatively, you can dismiss it forever.
+
+**_Call Familiar (Action)_.** You summon a temporarily dismissed familiar, causing it to reappear in any unoccupied space within 6 squares of you.
+
+You can't have more than one familiar at a time. If you cast this spell while you already have a familiar, you instead cause it to adopt a new form. Choose one of the forms from the above list. Your familiar transforms into the chosen critter.
+
+Finally, when you cast a spell with a range of touch, your familiar can deliver the spell as if it had cast the spell. Your familiar must be on the same map, and it must discard its reaction to deliver the spell when you cast it. If the spell requires an attack roll, you use your attack modifier for the roll.
 
 ### Spells (G)
 
