@@ -1435,12 +1435,6 @@ While you are wearing armor, you gain a +1 bonus to Defense.
 
 You learn two cantrips from the cleric spell list.
 
-|Cost|Prerequisites|Feature|Details|
-|-:|:-|:-|:-|
-|2⛁|Level 2|Potent Cantrips|Your cleric cantrips deal +1 damage.|
-|2⛁|Level 4|Potent Cantrips|Your cleric cantrips deal +2 damage.|
-|2⛁|Level 6|Potent Cantrips|Your cleric cantrips deal +3 damage.|
-
 ### Great Weapon Fighting
 
 Whenever you attack and miss with a melee weapon you are wielding with two hands, you may reroll the attack once and must use the new roll. The weapon must have the two-handed property for you to gain this benefit.
@@ -1528,21 +1522,6 @@ You can end this effect on your turn as part of any other action. If you are no 
 **_Turn the Unholy_ (Action).** You present your holy symbol and speak a prayer censuring fiends and undead, using your Channel Divinity. Each fiend or undead that can see or hear you within 6 squares of you must make a WIS check. If the creature fails its check, it is turned until the end of the encounter or until it takes damage.
 
 A turned creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 6 squares of you. It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.
-
-## Level 2
-
-|**Cost**|**Feature**|**Details**|
-|-:|:-|:-|
-|⛁|Ability Score Improvement|Choose and increase one ability score by +1 or gain one feat.|
-|2⛁|Extra Attack|You can attack twice instead of once whenever you take the Attack action on your turn.|
-|2⛁|Magic|...|
-|3⛁|Aura of Protection|...|
-
-**_Magic_.** You begin a game session with 6 mana, and you can cast level 2 spells. You learn one spell from the paladin spell list.
-
-**_Aura of Protection_.** Whenever you or a friendly creature within 2 squares of you must make an ability check to resist a game feature, the creature gains a bonus to the check equal to your CHA (minimum +1). You must be conscious to grant this bonus.
-
-- +⛁ \[Level 7] The range of this aura increases to 6 squares.
 
 # Monk Upgrades
 
@@ -1688,12 +1667,6 @@ While you are wearing armor, you gain a +1 bonus to Defense.
 
 You learn two druid cantrips of your choice.
 
-|Cost|Prerequisites|Feature|Details|
-|-:|:-|:-|:-|
-|2⛁|Level 2|Potent Cantrips|Your druid cantrips deal +1 damage.|
-|2⛁|Level 4|Potent Cantrips|Your druid cantrips deal +2 damage.|
-|2⛁|Level 6|Potent Cantrips|Your druid cantrips deal +3 damage.|
-
 ## Spellcasting
 
 You have learned to use the magical essence of nature to cast spells, much as a druid does.
@@ -1732,40 +1705,9 @@ You gain one of the following features of your choice:
 - **_Giant Killer_ (Reaction).** When a Large or larger creature within 1 square of you hits or misses you with an attack, you can attack that creature immediately after its attack, provided that you can see the creature.
 - **_Horde Breaker_.** When you take the Attack action, you can make another attack with the same weapon against a different creature that is within 1 square of the original target and within range of your weapon.
 
-|Cost|Prerequisites|Feature|Details|
-|-:|:-|:-|:-|
-|⛁|Level 3|Defensive Tactics|...|
-
-**_Defensive Tactics_.** You gain one of the following features of your choice.
-
-- **_Escape the Horde_.** Opportunity attacks against you are made with disadvantage.
-- **_Multiattack Defense_.** When a creature hits you with an attack, you gain a +4 bonus to Defense against all subsequent attacks made by that creature for the rest of the turn.
-- **_Steel Will_.** You have advantage on saving throws against being frightened.
-
 ## Primeval Awareness (Encounter, Action)
 
 Being a ranger means you are mystically connected to the land and to those who dwell upon it. You have an innate ability to communicate with beasts, and they recognize you as a kindred spirit. Through sounds and gestures, you can communicate simple ideas to a beast and can read its basic mood and intent. You learn its emotional state, whether it is affected by magic of any sort, its short-term needs (such as food or safety), and actions you can take (if any) to persuade it not to attack. You cannot use this ability against a creature you attacked during the encounter.
-
-## Level 2
-
-|**Cost**|**Feature**|**Details**|
-|-:|:-|:-|
-|⛁|Ability Score Improvement|Choose and increase one ability score by +1 or gain one feat.|
-|2⛁|Extra Attack|You can attack twice instead of once whenever you take the Attack action on your turn.|
-|2⛁|Magic|...|
-
-**_Magic_.** You begin a game session with 6 mana, and you can cast level 2 spells. You learn one spell from the ranger spell list.
-
-## Level 3
-
-|**Cost**|**Feature**|**Details**|
-|-:|:-|:-|
-|2⛁|Ability Score Improvement|Choose and increase one ability score by +1 or gain one feat.|
-|2⛁|Land's Stride|...|
-
-**_Land's Stride_.** Moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
-
-In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such as those created by the _entangle_ spell.
 
 # Rogue Upgrades
 
