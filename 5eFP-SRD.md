@@ -1102,7 +1102,7 @@ Once you reach level 4, the game state changes. You gain a level once all areas 
 
 While at HQ, you can spend Coin to purchase background, species, class, or other upgrades for your character. The upgrade descriptions below detail these additional game features. You can only purchase an upgrade once unless otherwise indicated in its description. An upgrade detail with three dots means its details are provided in the feature's description. If an upgrade grants a game feature your character already has, the upgraded version replaces it.
 
-See Appendix UP-B for a complete list of background upgrades (TBA), [Appendix UP-C for class upgrades](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#appendix-up-c-class-upgrades), and Appendix UP-I for inspiration upgrades.
+See Appendix UP-B for a complete list of background upgrades (TBA), [Appendix UP-C for class upgrades](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#appendix-up-c-class-upgrades), and [Appendix UP-I for inspiration upgrades](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#appendix-up-i-inspiration-upgrades).
 
 Whenever your level increases, you also increase your MAX wounds by +1.
 
