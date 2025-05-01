@@ -783,11 +783,6 @@ You have advantage on WIS checks to track your favored enemies, as well as on IN
 
 When you gain this feature, you also learn one language of your choice that is spoken by your favored enemies, if they speak one at all.
 
-|Cost|Prerequisites|Details|
-|-:|:-|:-|
-|3⛁|Level 2|Choose one additional favored enemy and an associated language.|
-|3⛁|Level 5|Choose one additional favored enemy and an associated language.|
-
 ## Natural Explorer
 
 You are particularly familiar with one type of natural environment and are adept at traveling and surviving in such regions. Choose one type of favored terrain: arctic, coast, desert, forest, grassland, mountain, or swamp. While in your favored terrain, proficient ability checks related to your favored terrain gain expertise. (Expertise allows you to add your level to your bonus twice.)
@@ -800,11 +795,6 @@ While traveling in your favored terrain and while you are the group token contro
 - Your group may move stealthily at a normal pace.
 - You find one additional resource when you gather resources.
 - While tracking other creatures, you also learn their exact number and sizes and how long ago they passed through the area.
-
-|Cost|Prerequisites|Details|
-|-:|:-|:-|
-|3⛁|Level 2|Choose one additional favored terrain type.|
-|⛁|Level 4|Choose one additional favored terrain type.|
 
 # Rogue
 
@@ -1112,818 +1102,11 @@ Once you reach level 4, the game state changes. You gain a level once all areas 
 
 While at HQ, you can spend Coin to purchase background, species, class, or other upgrades for your character. The upgrade descriptions below detail these additional game features. You can only purchase an upgrade once unless otherwise indicated in its description. An upgrade detail with three dots means its details are provided in the feature's description. If an upgrade grants a game feature your character already has, the upgraded version replaces it.
 
+See Appendix UP-B for a complete list of background upgrades (TBA), Appendix UP-C for class upgrades, and Appendix UP-I for inspiration upgrades.
+
 Whenever your level increases, you also increase your MAX wounds by +1.
 
 Whenever your CON changes, recalculate your MAX wounds with the new CON score.
-
-# Inspiration Upgrades
-
-The following upgrades provide additional ways to gain inspiration.
-
-|Cost|Feature|
-|-:|:-|
-|3⛁|**_Inspired Success (Cooldown)_.** You gain inspiration after resolving a critical success.|
-|3⛁|**_Inspired Failure (Cooldown)_.** You gain inspiration after resolving a critical failure.|
-|3⛁|**_Inspired Support (Cooldown)_.** If a game feature helps you succeed when you would have otherwise failed, you gain inspiration at the end of your turn.|
-
-# Barbarian Upgrades
-
-## Level 1
-
-|**Cost**|**Feature**|**Details**|
-|-:|:-|:-|
-|2⛁|Reckless Attack|...|
-|2⛁|Danger Sense|You gain advantage to DEX checks vs. effects you can see|
-|2⛁|Primal Path|...|
-|3⛁|Rage|You gain Rage (Encounter, Cooldown 3)|
-
-## Reckless Attack
-
-You can throw aside all concern for protection to attack with fierce determination. When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you advantage on weapon attack rolls using STR during this turn, but attack rolls against you have advantage until your next turn.
-
-## Primal Path
-
-You choose a path that shapes the nature of your rage. Choose the Path of the Berserker or the Path of the Totem Warrior.
-
-## Path of the Berserker
-
-For some barbarians, rage is a means to an end. The Path of the Berserker is a path of unleashed fury.
-
-### Frenzy
-
-You can go into a frenzy when you rage. If you do so, for the duration of your rage, you can make a single melee weapon attack after you take the Attack action. When your rage ends, you suffer one level of exhaustion (as described in Appendix PH-­A).
-
-## Path of the Totem Warrior
-
-You forge a spiritual and inspired connection to an animal spirit who functions as a friend, guide, and protector. In battle, your totem spirit elevates your abilities, adding magical fuel to your barbarian rage.
-
-### Spirit Seeker
-
-Yours is a path that seeks attunement with the natural world, giving you a kinship with beasts. You gain the ability to cast the _beast link_ and _speak with animals_ spells, but only as rituals (see _Spellcasting_).
-
-### Totem Spirit
-
-When you adopt this path, you choose a totem spirit and gain its game feature. Your totem spirit either provides you with a physical totem object—an amulet or similar adornment—that incorporates fur or feathers, claws, teeth, or bones of the totem animal, or you gain subtle and minor physical characteristics that are reminiscent of your totem spirit. For example, if you have a bear totem spirit, you might be unusually hairy and tough, or if your totem is the eagle, your eyes gain a piercing quality or turn bright yellow.
-
-Your totem animal might be related to those listed here but more appropriate to your homeland. For example, you could choose a hawk or vulture instead of an eagle.
-
-**_Bear_.** While raging, you have resistance to all damage except psychic damage. The spirit of the bear makes you tough enough to stand up to any punishment.
-
-**_Eagle_.** The spirit of the eagle makes you into a predator who can weave through the fray with ease. You gain the following features while you're raging and aren't wearing heavy armor.
-
-- Other creatures have disadvantage on opportunity attack rolls against you.
-- When you declare an Attack action on your turn, you may take the Dash action without discarding your action before or after making your attack.
-
-**_Wolf_.** While you're raging, allies within 1 square of you gain pact tactics. The spirit of the wolf makes you a leader of hunters.
-
-> **_Pack Tactics_.** You gain advantage on an attack roll against a creature if at least one of your allies is within 1 square of the creature and the ally isn’t incapacitated.
-
-# Bard Upgrades
-
-## Level 1
-
-|**Cost**|**Feature**|**Details**|
-|-:|:-|:-|
-|2⛁|Jack of All Trades|Add +1 to nonproficient abilities|
-|2⛁|Song of Rest|You and your allies discard up to 1 wound when completing a rest|
-|3⛁|Magic|You start a game session with 4 Mana. You learn one spell from the bard spell list.|
-|3⛁|Bard College|...|
-|3⛁|Expertise|...|
-
-## Bard College
-
-You delve into the advanced techniques of a bard college of your choice, such as the College of Lore.
-
-## College of Lore
-
-Bards of the College of Lore know something about most things, collecting bits of knowledge from sources as diverse as scholarly tomes and peasant tales. Whether singing folk ballads in taverns or elaborate compositions in royal courts, these bards use their gifts to hold audiences spellbound. When the applause dies down, the audience members might find themselves questioning everything they held to be true, from their faith in the priesthood of the local temple to their loyalty to the king.
- 
-The loyalty of these bards lies in the pursuit of beauty and truth, not in fealty to a monarch or following the tenets of a deity. A noble who keeps such a bard as a herald or advisor knows that the bard would rather be honest than politic.
-
-The college’s members gather in libraries and sometimes in actual colleges, complete with classrooms and dormitories, to share their lore with one another. They also meet at festivals or affairs of state, where they can expose corruption, unravel lies, and poke fun at self-­important figures of authority.
-
-### Bonus Proficiencies
-
-You gain proficiency with one ability of your choice.
-
-### Cutting Words (Reaction)
-
-You learn how to use your wit to distract, confuse, and otherwise sap the confidence and competence of others. When a creature you can see within 12 squares of you makes an attack roll or an ability check, you can expend one use of bardic action dice, rolling five action dice and subtracting the number from the creature’s roll. You can use this feature after the creature makes its roll, but before the GM determines whether the attack roll or ability check succeeds or fails, or before the creature deals its damage. The creature is immune if it can’t hear you or is immune to being charmed.
-
-> |Cost|Prerequisites|Feature|Details|
-> |-:|:-|:-|:-|
-> |3⛁|Level 2|Additional Magic Secrets|...|
-> |2⛁|Level 5|Peerless Skill|...|
-> 
-> ### Additional Magic Secrets
->
-> You learn two spells of your choice from any class. A spell you choose must be of a level you can cast or a cantrip. The chosen spells count as bard spells for you.
->
-> ### Peerless Skill
->
-> When you make an ability check, you can expend one use of Bardic Action Dice to roll your action dice and add the number rolled to your ability check. You can do so after you roll the die for the ability check, but before the GM tells you whether you succeed or fail.
-
-## Expertise
-
-Gain proficiency with a non-proficient ability of your choice. Then choose two of your ability proficiencies or one of your ability proficiencies and your proficiency with a tool. As long as the chosen proficiencies or tools do not already have expertise, you gain expertise in the chosen abilities or tools. Expertise allows you to add your level to a check twice instead of once.
-
-# Cleric Upgrades
-
-## Level 1
-
-|**Cost**|**Feature**|**Details**|
-|-:|:-|:-|
-|3⛁|Channel Divinity (Rest)|...|
-|3⛁|Magic|You start a game session with 4 Mana. You learn one spell from your class spell list.|
-
-## Channel Divinity (Rest)
-
-You gain the ability to channel divine energy directly from your deity, using that energy to fuel magical effects. You start with two such effects: Turn Undead and an effect determined by your domain. Some domains grant you additional effects as you upgrade them, as noted in the domain description.
-
-When you use your Channel Divinity, you choose which effect to create.
-
-Some Channel Divinity effects require ability checks. When you use such an effect from this class, the DC equals your cleric spell DC.
-
-### Turn Undead (Action, Encounter)
-
-You present your holy symbol, speaking a prayer that censures undead. Each undead that can see or hear you within 6 squares of you must make a WIS check. If the creature fails its check, it is turned for the rest of the encounter or until it takes any damage.
-
-A turned creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 6 squares of you. It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.
-
-# Druid Upgrades
-
-## Level 1
-
-|**Cost**|**Feature**|**Details**|
-|-:|:-|:-|
-|2⛁|Wild Shape|...|
-|2⛁|Druid Circle|...|
-|3⛁|Magic|You begin a game session with 4 mana. You learn one spell from the druid spell list.|
-
-## Wild Shape (Action, Rest 2)
-
-You magically assume the shape of a beast that you have seen before. When you use this feature, save and set aside any wounds and choose a wild shape form. Use statistics for an elite creature except as detailed below. Your wild shape form cannot benefit from any swim or fly speeds it may have.
- 
-## Wild Shape Forms
-
-Wild shapes are divided into three primary forms: tough, stealthy, and travel.
-
-### Tough
-
-You have 5 + LEVEL MAX wounds and Defense 11 while in tough form. Your size increases to large if it is not already, with a reach of 1 square. You gain Bolster LEVEL when you assume this form.
-
-### Stealthy
-
-You have 4 + LEVEL MAX wounds and Defense 12 + LEVEL while in stealthy form. While in this form, you roll DEX checks with advantage.
- 
-### Travel
-
-You can activate travel form outside of an encounter when you are the group token controller. You have 1 MAX wounds while in travel form. When activated, you and any chosen friendly and willing creatures within 6 squares of you transform into travel forms and move together. If an encounter begins or if 1 or more points of damage are dealt to you or another affected creature, your wild shape and all travel forms end. Your speed increases by +2 while in travel form.
-
-You can stay in a wild shape form until you Recall. You then revert to your normal form. You can discard your action to revert to your normal form earlier on your turn. If you fall unconscious, gain MAX wounds, or die, you automatically revert.
-
-While you are transformed, the following rules apply:
-
-- Your game statistics are replaced by the statistics of the wild shape form, but you retain your alignment, personality, and INT, WIS, and CHA. You also retain all of your proficiencies, in addition to gaining those of the creature. If the creature has the same proficiency as you and the bonus in its stat block is higher than yours, use the creature’s bonus instead of yours. If the creature has any legendary or lair actions, you can’t use them.
-- When you transform, you assume the wild shape form's MAX wounds. When you revert to your normal form, you return all wounds you set aside before you transformed. However, if you revert because your wild shape form gained MAX Wounds, any excess wounds carry over to your normal form. For example, if you take 2 damage in a wild shape form and have room for only 1 wound, you revert and take 1 damage. As long as the excess damage doesn’t cause you to reach your maximum wounds, you aren’t knocked unconscious.
-- You can’t cast spells, and your ability to speak or take any action that requires hands is limited to the capabilities of your wild shape form. Transforming doesn’t break your concentration on a spell you’ve already cast, however, or prevent you from taking actions that are part of a spell, such as _call lightning_, that you’ve already cast.
-- You retain the benefit of any features from your class, species, or other source and can use them if the new form is physically capable of doing so. However, you can’t use any of your special senses, such as truesight, unless your new form also has that sense.
-- Your equipment merges into your new form and has no effect until you leave the form.
-
-## Druid Circle
-
-You choose to identify with a circle of druids, such as the Circle of the Land, the Circle of the Sun and Moon, or the Circle of the Manyshaped.
- 
-### Circle of the Land
-
-The Circle of the Land is made up of mystics and sages who safeguard ancient knowledge and rites through a vast oral tradition. These druids meet within sacred circles of trees or standing stones to whisper primal secrets in Druidic. The circle’s wisest members preside as the chief priests of communities that hold to the Old Faith and serve as advisors to the rulers of those folk. As a member of this circle, your magic is influenced by the land where you were initiated into the circle’s mysterious rites.
-
-**_Bonus Cantrip._** When you choose this circle, you learn one additional druid cantrip of your choice.
- 
-**_Natural Recovery_ (Cooldown).** You can regain some of your magical energy by sitting in meditation and communing with nature. You gain LEVEL mana when you finish a rest.
-
-**_Circle Spells._** Your mystical connection to the land infuses you with the ability to cast certain spells. You gain access to circle spells connected to the land where you became a druid. Choose that land—arctic, coast, desert, forest, grassland, mountain, or swamp—and consult the associated list of spells.
-
-Once you gain access to a circle spell, it becomes known. If you gain access to a spell that doesn’t appear on the druid spell list, the spell is nonetheless a druid spell for you.
-
-|**Land**|**Circle Spells**|
-|:-|:-|
-|Arctic|_hold person_, _spike growth_|
-|Coast|_mirror image_, _misty step_|
-|Desert|_blur_, _silence_|
-|Forest|_barkskin_, _spider climb_|
-|Grassland|_invisibility_, _pass without trace_|
-|Mountain|_spider climb_, _spike growth_|
-|Swamp|_acid arrow_, _darkness_|
- 
-### Circle of the Sun and Moon
-
-The Circle of the Sun and Moon is made up of mystics who meditate and commune with the cosmic astral plane, using radiance and starlight to strengthen allies while hindering foes. These druids meet within sacred standing stones to observe and reflect upon the position and motion of celestial bodies in the sky. The wisest members of the circle advise rulers of communities that follow the Old Faith, and are sometimes consulted by those of different faiths. As a member of this circle, your magic is influenced by the heavens and the astral plane.
-
-**_Astral Form._ (Wild Shape Form)** You have 2 + LEVEL MAX wounds while in astral form. You may use Wild Shape without discarding your action when shapeshifting into astral form. When you choose this form, you do not assume the shape of a beast. You and your equipment become translucent, taking on an indigo tint filled with points of moving lights. You gain the following features while in astral form.
-
-- Your equipment does not merge into your astral form and functions normally.
-- You may cast spells, speak, and take normal actions while in astral form.
-- **_Lunar Attunement._** Whenever you cast a spell that has no visible effect such as _cure wounds_, you discard solar attunement and gain lunar attunement. If you already have lunar attunement, discard it and activate _starfall_.
-- **_Solar Attunement._** Whenever you cast a spell that has a visible effect such as _entangle_, you discard lunar attunement and gain solar attunement. If you already have solar attunement, discard it and activate _starfall_.
-- **_Starfall._** A shooting star of radiance forms above your head and strikes a creature within 12 squares of you. If the creature is friendly, it receives 1 point of healing and may make an ability check to resist one ongoing negative effect. If the creature is not a friendly target, it must succeed on a DEX check using your spell DC or take 1 point of radiant damage. You then gain _lunar attunement_ or _solar attunement_.
-
-### Circle of the Manyshaped
-
-The Circle of the Manyshaped are fierce wilderness protectors and powerful shapeshifters who embody and cultivate wisdom within the shapes of animals. Their order gathers under the full moon to share news across the land and trade observations and insights. Their preferred way of doing this is with an assemply of crows or ravens. They can be found in the deepest parts of the wild, where they spend long periods living in a wild shape form as animals, hunting, thinking, and sleeping as animals. They do this to deepen their understanding of the animal and its relation to the animal within themselves.
-
-**_Improved Wild Shape_.** You can use wild shape without discarding your action. Once per turn while in a wild shape form, you can spend up to LEVEL mana to discard an equal number of your wild shape form wounds. Your wild shape forms gain additional game features.
-
-**_Tough_.** You gain bolster LEVEL at the beginning of your turn. You can attack twice instead of once whenever you take the Attack action on your turn.
-
-**_Stealthy_.** You gain advantage on WIS checks. You gain a pounce attack (if you don't already have one).
-
-> **_Pounce._** Whenever you take the Attack action, move at least 3 squares in a line toward a creature, and hit it with a melee attack, it must succeed on a DC (14 + LEVEL) STR check or be knocked prone. If the creature is prone, you can make one melee attack against it.
-
-**_Travel_.** Your movement changes to double your base speed. Once travel form is activated, the travel form can be reactivated on the exploration map anytime outside of an encounter until you Recall. When you reactivate travel form, set aside any wild shape form you are currently in. When travel form ends due to entering an encounter or taking 1 or more points of damage, you shift back into the wild shape form you set aside.
-
-# Fighter Upgrades
-
-## Level 1
-
-|**Cost**|**Feature**|**Details**|
-|-:|:-|:-|
-|2⛁|Action Surge|...|
-|3⛁|Martial Archetype|...|
-
-## Action Surge (Rest)
-
-You can push yourself beyond your normal limits for a moment. The next action you take on your turn does not require you to discard your action.
-
-## Martial Archetype
-
-You choose an archetype that you strive to emulate in your combat styles and techniques, such as Champion or Eldritch Knight.
-
-# Champion
-
-The archetypal Champion focuses on the development of raw physical power honed to deadly perfection. Those who model themselves on this archetype combine rigorous training with physical excellence to deal devastating blows. Your weapon attacks score a critical hit on a roll of 19 or 20.
-
-# Eldritch Knight
-
-The archetypal Eldritch Knight combines spellcasting with martial mastery common to all fighters. Eldritch Knights learn spells like wizards. Their attunement to martial mastery limits their magic studies to two of the eight schools of magic: abjuration and evocation. Abjuration spells protect, while evocation spells bring elemental energy to bear in combat, extending the fighter’s reach. These knights are dedicated to a few select spells, committing them to memory instead of keeping them in a spellbook.
-
-## Spellcasting
-
-You blend spells with melee and ranged weapons. You can cast 1st-level spells.
-
-### Cantrips
-
-You know two cantrips of your choice from the wizard spell list.
-
-### Mana
-
-You begin a game session with 2 mana. To cast one of your spells, you must spend an amount of mana equal to the spell’s level or higher.
-
-For example, if you know the 1st-level spell _magic missile_ and have 2 mana, you can spend 1 mana to cast _magic missile_ as a 1st-level spell or 2 mana to cast it as a 2nd-level spell.
-
-### Spells Known
-
-You know three 1st-level spells from the wizard spell list, two of which must be abjuration or evocation spells.
-
-Whenever you purchase a Magic upgrade, you can choose one of the abjuration or evocation wizard spells you know and replace it with another abjuration or evocation spell from the wizard spell list that you can cast.
-
-### Spellcasting Ability
-
-Intelligence (INT) is your spellcasting ability for your wizard spells. You learn your spells through dedicated study and memorization. You use your INT whenever a wizard spell refers to your spellcasting ability. In addition, you use INT when setting the DC for a wizard spell you cast and when making an attack roll with one.
-
-**Spell DC** = 10 + INT
-
-**Spell attack modifier** = 2 + INT
-
-### Ritual Casting
-
-You can cast a wizard spell as a ritual if that spell has the ritual tag and you know the spell.
-
-## Eldritch Weapon
-
-You learn a ritual that creates a magical bond between yourself and one weapon. You complete the ritual during a rest. The weapon must be within 1 square of you throughout the ritual, after which you touch the weapon and forge the bond. Your bonded weapon gains the following features.
-
-- Your bonded weapon cannot be disarmed while you have it equipped unless you are incapacitated.
-- Your bonded weapon does not deplete.
-- This game feature considers shields a melee weapon with the thrown keyword and a range of up to 4 squares.
-- **_Summon Eldritch Weapon_.** If it is on the same plane of existence, you can summon a bonded weapon on your turn before or after discarding your action, causing it to teleport instantly to your hand.
-
-With this game feature, you can have up to two bonded weapons, but you can summon only one at a time. If you attempt to bond with a third weapon, you must break the bond with one of the other two.
-
-# Paladin Upgrades
-
-## Level 1
-
-|**Cost**|**Feature**|**Details**|
-|-:|:-|:-|
-|2⛁|Fighting Style|...|
-|2⛁|Spellcasting|...|
-|2⛁|Divine Smite|...|
-|3⛁|Divine Health|You are immune to disease.|
-|3⛁|Magic|You begin a game session with 3 mana. You learn one spell from the paladin spell list.|
-|3⛁|Sacred Oath|...|
-
-## Fighting Style
-
-You adopt a style of fighting as your specialty. Choose one of the following options. You can’t take a Fighting Style option more than once, even if you later get to choose again.
-
-### Armored
-
-While you are wearing armor, you gain a +1 bonus to Defense.
-
-### Invoker
-
-You learn two cantrips from the cleric spell list.
-
-### Great Weapon Fighting
-
-Whenever you attack and miss with a melee weapon you are wielding with two hands, you may reroll the attack once and must use the new roll. The weapon must have the two-handed property for you to gain this benefit.
-
-### Protection (Reaction)
-
-When a creature you can see attacks a target other than you that is within 1 square of you, you can discard your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
-
-## Spellcasting
-
-You have learned to draw on divine magic through meditation and prayer to cast spells as a cleric does. You can cast 1st-level spells.
-
-### Mana
-
-You begin a game session with 2 mana. To cast one of your spells, you must spend an amount of mana equal to the spell’s level or higher.
-
-For example, if you know the 1st-level spell _cure wounds_ and have 2 mana, you can spend 1 mana to cast _cure wounds_ as a 1st-level spell or 2 mana to cast it as a 2nd-level spell.
-
-### Spells Known
-
-You know CHA (minimum 1) 1st-level spells from the paladin spell list.
-
-Whenever you purchase a Magic upgrade, you can choose one of the paladin spells you know and replace it with another spell from the paladin spell list that you can cast.
-
-### Spellcasting Ability
-
-Charisma (CHA) is your spellcasting ability for your paladin spells since their power derives from the strength of your convictions. You use your CHA whenever a paladin spell refers to your spellcasting ability. In addition, you use CHA when setting the DC for a paladin spell you cast and when making an attack roll with one.
-
-**Spell DC** = 10 + CHA
-
-**Spell attack modifier** = 2 + CHA
-
-## Divine Smite
-
-When you hit a creature with a melee weapon attack, you can spend up to LEVEL mana to deal an equal amount of radiant damage to the target, in addition to the weapon’s damage.
-
-## Sacred Oath
-
-You swear the oath that binds you as a paladin forever. Up to this time you have been in a preparatory stage, committed to the path but not yet sworn to it. Now you choose an oath, such as the Oath of Devotion.
-
-### Oath Spells
-
-Each oath has associated spells. You begin knowing two oath spells, and they do not count against the number of spells you know.
-
-If you gain an oath spell that doesn’t appear on the paladin spell list, the spell is nonetheless a paladin spell for you.
-
-### Channel Divinity (Encounter, Rest)
-
-Your oath allows you to channel divine energy to fuel magical effects. Each Channel Divinity option provided by your oath explains how to use it.
-When you use your Channel Divinity, you choose which option to use.
-
-Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your paladin spell save DC.
-
-# Sacred Oaths
-
-Becoming a paladin involves taking vows that commit the paladin to the cause of righteousness, an active path of fighting wickedness. This final oath is taken at the culmination of all the paladin’s training. Some characters with this class don’t consider themselves true paladins until they have reached this step and made this oath. For others, the actual swearing of the oath is a formality, an official stamp on what has always been true in the paladin’s heart.
-
-## Oath of Devotion
-
-The Oath of Devotion binds a paladin to the loftiest ideals of justice, virtue, and order. Sometimes called cavaliers, white knights, or holy warriors, these paladins meet the ideal of the knight in shining armor, acting with honor in pursuit of justice and the greater good. They hold themselves to the highest standards of conduct, and some, for better or worse, hold the rest of the world to the same standards. Many who swear this oath are devoted to gods of law and good and use their gods’ tenets as the measure of their devotion. They hold angels—the perfect servants of good—as their ideals, and incorporate images of angelic wings into their helmets or coats of arms.
-
-### Tenets of Devotion
-
-Though the exact words and strictures of the Oath of Devotion vary, paladins of this oath share these tenets.
-
-- **Honesty.** Don't lie or cheat. Let your word be your promise.
-- **Courage.** Never fear to act, though caution is wise.
-- **Compassion.** Aid others, protect the weak, and punish those threatening them. Show mercy to your foes, but temper it with wisdom.
-- **Honor.** Treat others fairly, and let your honorable deeds be an example to them. Do as much good as possible while causing the least amount of harm.
-- **Duty.** Be responsible for your actions and their consequences, protect those entrusted to your care, and obey those who have just authority over you.
-
-### Oath Spells
-
-- protection from evil and good
-- sanctuary
-
-### Channel Divinity (Encounter, Rest)
-
-When you take this oath, you gain the following two Channel Divinity Options.
-
-**_Sacred Weapon_ (Action).** You imbue one weapon that you are holding with positive energy, using your Channel Divinity. For the rest of the encounter, you add CHA to attack rolls made with that weapon (with a minimum bonus of +1). The weapon also emits bright light in a 4-square radius. If the weapon is not already magical, it becomes magical for the duration.
-
-You can end this effect on your turn as part of any other action. If you are no longer holding or carrying this weapon, or if you fall unconscious, this effect ends.
-
-**_Turn the Unholy_ (Action).** You present your holy symbol and speak a prayer censuring fiends and undead, using your Channel Divinity. Each fiend or undead that can see or hear you within 6 squares of you must make a WIS check. If the creature fails its check, it is turned until the end of the encounter or until it takes damage.
-
-A turned creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 6 squares of you. It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.
-
-# Monk Upgrades
-
-## Level 1
-
-|**Cost**|**Feature**|**Details**|
-|-:|:-|:-|
-|2⛁|Ki|...|
-|2⛁|Unormored Movement|...|
-|3⛁|Monastic Tradition|...|
-|3⛁|Deflect Missiles|...|
-
-## Ki (Rest 3)
-
-Your training allows you to harness the mystic energy of ki. You use this game feature to fuel various ki features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind.
-
-You draw all of your ki back into yourself when you complete a rest in meditation.
-
-Some of your ki features require your target to make an ability check to resist the feature’s effects. The ki DC is calculated as follows:
-
-**Ki DC** = 10 +  WIS
-
-Ki and ki features are considered magic and magical effects.
-
-### Flurry of Blows (Encounter, Ki)
-
-Immediately after you take the Attack action on your turn, you make two unarmed strikes.
-
-### Patient Defense (Encounter, Ki)
-
-You can take the Dodge action on your turn without discarding your action.
-
-### Step of the Wind (Encounter, Ki)
-
-You can take the Disengage or Dash action on your turn without discarding your action, and your jump distance is doubled for the turn.
-
-## Unarmored Movement
-
-Your speed increases by 2 while you are not wearing armor or wielding a shield.
-
-## Monastic Tradition
-
-You commit yourself to a monastic tradition, such as the Way of the Elements, the Way of the Open Hand, and the Way of Tranquility. Your tradition grants you game features.
-
-## Way of the Elements
-
-You follow a monastic tradition that teaches you to harness the elements. When you focus your ki, you can align yourself with the forces of creation and bend the four elements to your will, using them as an extension of your body. Some members of this tradition dedicate themselves to a single element, but others weave them together.
-
-Many monks of this tradition tattoo their bodies with representations of their ki powers, commonly imagined as coiling dragons, but also as phoenixes, fish, plants, mountains, and cresting waves.
-
-### Disciple of the Elements
-
-You learn magical disciplines that harness the power of the four elements.
-
-You know the Elemental Attunement and another elemental discipline of your choice, which are detailed in the “Elemental Disciplines” section below. 
-
-Whenever you learn a new elemental discipline, you can also replace one elemental discipline that you already know with a different discipline.
-
-**_Casting Elemental Spells_.** Some elemental disciplines allow you to cast spells (see Spellcasting). Wisdom (WIS) is your spellcasting ability for your elemental discipline spells. Use your ki DC for spells that include an ability check and use 2 + WIS for your spell attack modifier. You can cast an elemental discipline spell with a spell level up to LEVEL.
-
-|Cost|Prerequisites|Feature|Details|
-|-:|:-|:-|:-|
-|3⛁|Level 2|Discipline|You learn an elemental discipline.|
-|2⛁|Level 4|Discipline|You learn an elemental discipline.|
-|2⛁|Level 6|Discipline|You learn an elemental discipline.|
-
-### Elemental Disciplines
-
-The elemental disciplines use your ki to produce magical effects and are presented in alphabetical order.
-
-### Elemental Attunement (Action, Encounter)
-
-You briefly control elemental forces nearby, causing one of the following effects of your choice:
-
-- Create a harmless, instantaneous sensory effect related to air, earth, fire, or water, such as a shower of sparks, a puff of wind, a spray of light mist, or a gentle rumbling of stone.
-- Instantaneously light or snuff out a candle, a torch, or a small campfire.
-- Chill or warm up to 1 pound of nonliving material until the end of the encounter.
-- Cause earth, fire, water, or mist that can fit within a 1-square cube to shape itself into a crude form you desig­nate until the end of the encounter.
-
-If you use this game feature multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can discard your action to dismiss such an effect.
-
-## Way of the Open Hand
-
-Monks of the Way of the Open Hand are the ultimate masters of martial arts combat, whether armed or unarmed. They learn techniques to push and trip their opponents, manipulate ki to heal damage to their bodies, and practice advanced meditation that can protect them from harm.
-
-### Open Hand Technique
-
-You can manipulate your enemy’s ki when you harness your own. Whenever you hit a creature with one of the attacks granted by your Flurry of Blows, you can impose one of the following effects on that target:
-
-- It must succeed on a DEX check or be knocked prone.
-- It must make a STR check. If it fails, you can push it up to 3 squares away from you.
-- It can’t take reactions until the end of your next turn.
-
-## Way of Tranquility
-
-Monks of the Way of Tranquility eschew and abstain from violence. They use diplomacy, mercy, and understanding to resolve conflicts. If pushed, though, they are capable warriors who can bring an end to the unjust or cruel folk who refuse to listen to reason. When adventuring, these monks make excellent diplomats. They are also skilled in the healing arts and can preserve their allies during challenging encounters.
-
-### Healing Hands (Ki)
-
-You or an ally within reach discards up to LEVEL wounds. Alternatively, you can activate your Ki feature an additional two times to cure a touched creature, discarding one disease or discarding one poison affecting it. You can discard multiple diseases and poisons using this game feature, expending uses of your Ki feature separately for each one.
-
-When you use your Flurry of Blows, you can replace one of the unarmed strikes with a use of this game feature.
-
-This game feature has no effect on undead and constructs.
-
-### Path of Tranquility (Encounter, Rest)
-
-You innately cast _sanctuary_ on yourself with a duration of Recall. A creature that succeeds on its WIS check is temporarily immune to this effect for the rest of the encounter.
-
-## Deflect Missiles (Encounter, Reaction)
-
-You deflect or catch the piece of ammunition or missile when a ranged weapon attack hits you, and the damage you take from the attack is reduced by LEVEL + 1. If the damage is reduced to 0, you catch the missile if it is small enough to hold in one hand and if you have at least one hand free. If you catch a missile in this way, you can spend one use of your Ki feature to make a ranged attack with the weapon or piece of ammunition you just caught, as part of the same reaction. You make this attack with proficiency, regardless of your weapon proficiencies, and the missile counts as a monk weapon for the attack, which has a normal range of 4 squares and a long range of 12 squares.
-
-# Ranger Upgrades
-
-## Level 1
-
-|**Cost**|**Feature**|**Details**|
-|-:|:-|:-|
-|2⛁|Fighting Style|...|
-|2⛁|Spellcasting|...|
-|3⛁|Ranger Archetype|...|
-|3⛁|Primeval Awareness|...|
-|3⛁|Magic|You begin a game session with 3 mana. You learn one spell from the ranger spell list.|
-
-## Fighting Style
-
-You adopt a particular style of fighting as your specialty. Choose one of the following options. You can’t take a Fighting Style option more than once, even if you later get to choose again.
-
-### Archery
-
-You gain a +1 bonus to attack rolls you make with ranged weapons.
-
-### Blind Fighting
-
-You gain blindsight 2 whenever your vision is obscured.
-
-### Defense
-
-While you are wearing armor, you gain a +1 bonus to Defense.
-
-### Warden
-
-You learn two druid cantrips of your choice.
-
-## Spellcasting
-
-You have learned to use the magical essence of nature to cast spells, much as a druid does.
-
-### Mana
-
-You begin a game session with 2 mana. To cast one of your spells, you must spend an amount of mana equal to the spell’s level or higher.
-
-For example, if you know the 1st-level spell _cure wounds_ and have 2 mana, you can spend 1 mana to cast _cure wounds_ as a 1st-level spell or 2 mana to cast it as a 2nd-level spell.
-
-### Spells Known
-
-You know WIS (minimum 1) 1st-level spells from the ranger spell list.
-
-Whenever you purchase a Magic upgrade, you can choose one of the ranger spells you know and replace it with another spell from the ranger spell list that you can cast.
-
-### Spellcasting Ability
-
-Wisdom (WIS) is your spellcasting ability for your ranger spells, since your magic draws on your attunement to nature. You use your WIS whenever a spell refers to your spellcasting ability. In addition, you use your WIS when setting the DC for a ranger spell you cast and when making an attack roll with one.
-
-**Spell DC** = 10 + WIS
-
-**Spell attack modifier** = 2 + WIS
-
-## Ranger Archetype
-
-You choose an archetype that you strive to emulate, such as the Hunter.
-
-### Hunter
-
-Emulating the Hunter archetype means accepting your place as a bulwark between civilization and the terrors of the wilderness. As you walk the Hunter’s path, you learn specialized techniques for fighting the threats you face, from rampaging ogres and hordes of orcs to towering giants and terrifying dragons.
-
-You gain one of the following features of your choice:
-
-- **_Colossus Slayer_.** Your tenacity can wear down the most potent foes. Once per turn, whenever you take the Attack action and hit a creature that is not at MAX Wounds with a weapon attack, the creature takes +1 damage.
-- **_Giant Killer_ (Reaction).** When a Large or larger creature within 1 square of you hits or misses you with an attack, you can attack that creature immediately after its attack, provided that you can see the creature.
-- **_Horde Breaker_.** When you take the Attack action, you can make another attack with the same weapon against a different creature that is within 1 square of the original target and within range of your weapon.
-
-## Primeval Awareness (Encounter, Action)
-
-Being a ranger means you are mystically connected to the land and to those who dwell upon it. You have an innate ability to communicate with beasts, and they recognize you as a kindred spirit. Through sounds and gestures, you can communicate simple ideas to a beast and can read its basic mood and intent. You learn its emotional state, whether it is affected by magic of any sort, its short-term needs (such as food or safety), and actions you can take (if any) to persuade it not to attack. You cannot use this ability against a creature you attacked during the encounter.
-
-# Rogue Upgrades
-
-TBA
-
-# Sorcerer Upgrades
-
-## Level 1
-
-|**Cost**|**Feature**|**Details**|
-|-:|:-|:-|
-|3⛁|Sorcery|...|
-|3⛁|Magic|You begin a game session with 4 mana. You learn one spell from the sorcerer spell list.|
-|3⛁|Metamagic|...|
-
-## Sorcery (Cooldown 3)
-
-You tap into a deep wellspring of magic within yourself allowing you to create a variety of magical effects.
-
-|Cost|Prerequisites|Feature|Details|
-|-:|:-|:-|:-|
-|3⛁|Level 2|Sorcery|You gain Sorcery (Cooldown 4)|
-|3⛁|Level 4|Sorcery|You gain Sorcery (Cooldown 5)|
-|3⛁|Level 6|Sorcery|You gain Sorcery (Cooldown 6)|
-
-### Flexible Casting
-
-You can spend a use of your sorcery feature to gain additional mana, or sacrifice mana to replenish an expended use of your sorcery feature.
-
-Once per turn, you can either spend two uses of your sorcery feature to gain 2 mana or expend 2 mana to refresh one use of your sorcery feature.
-
-Any mana you create with this feature vanishes at the end of the game session.
-
-## Metamagic
-
-You gain the ability to change your spells to suit your needs. You gain two of the following Metamagic options of your choice.
-
-Unless otherwise noted, you can use only one Metamagic option on a spell when you cast it.
-
-### Careful Spell
-
-When you cast a spell that forces other creatures to make an ability check, you can protect some of those creatures from the spell’s full force. To do so, you spend one use of your sorcery feature and choose a number of those creatures up to your CHA (minimum of one creature). A chosen creature automatically succeeds on its ability check against the spell.
-
-### Distant Spell
-
-When you cast a spell that has a range of 1 square or greater, you can spend one use of your sorcery feature to double the range of the spell.
-When you cast a spell that has a range of touch, you can spend one use of your sorcery feature to make the range of the spell 6 squares.
-
-### Empowered Spell
-
-When a spell deals damage, you can spend two uses of your sorcery feature to increase the spell damage by +1.
-
-You can use Empowered Spell even if you have already used your sorcery feature this turn.
-
-### Extended Spell
-
-When you cast a spell that has a duration of encounter, you can spend one use of your sorcery feature to extend its duration to Recall.
-
-### Heightened Spell
-
-When you cast a spell that forces a creature to make an ability check to resist its effects, you can spend three uses of your sorcery feature to give one target of the spell disadvantage on its first ability check made against the spell.
-
-### Quickened Spell
-
-Once per turn, when you take the Cast a Spell action with a spell with a casting time of 1 action, you can spend two uses of your sorcery feature instead of discarding your action. If you use the Cast a Spell action again during the same turn, the spell must be a cantrip.
-
-### Subtle Spell
-
-When you cast a spell, you can spend one use of your sorcery feature to cast it without any somatic or verbal components.
-
-### Twinned Spell
-
-When you cast a spell that targets only one creature and doesn’t have a range of self, you can spend a number of uses of your sorcery feature equal to the spell’s level to target a second creature in range with the same spell (spend one use of your sorcery feature if the spell is a cantrip).
-
-To be eligible, a spell must be incapable of targeting more than one creature at the spell’s current level. For example, _magic missile_ and _scorching ray_ aren’t eligible, but _ray of frost_ is.
-
-# Warlock Upgrades
-
-## Level 1
-
-|**Cost**|**Feature**|**Details**|
-|-:|:-|:-|
-|2⛁|Eldritch Invocations|...|
-|3⛁|Magic|You gain Pact Magic (Rest 2). Add +1 known spell from the warlock spell list.|
-|3⛁|Pact Boon|...|
-
-## Eldritch Invocations
-
-In your study of esoteric lore, you have unearthed eldritch invocations, fragments of arcane knowledge that imbue you with an abiding magical ability.
-
-You gain two eldritch invocations of your choice. Your invocation options are detailed below.
-
-Additionally, when you gain a warlock level, you can choose one of the invocations you know and replace it with another invocation that you could learn at that level.
-
-If an eldritch invocation has prerequisites, you must meet them to learn it. You can learn the invocation at the same time that you meet its prerequisites.
-
-### Performance Blast
-
-_Prerequisite: eldritch blast cantrip_
-
-Your _eldritch blast_ spells deal +1 damage.
-
-### Eldritch Armor (Action)
-
-_Innate Spellcasting_
-
-You can innately cast _mage armor_ on yourself at will.
-
-### Beast Speech (Action)
-
-_Innate Spellcasting_
-
-You can innately cast _speak with animals_ at will.
-
-### Beguiling Influence (Action, Cooldown)
-
-_Innate Spellcasting_
-
-You can innately cast _charm person_ without verbal or somatic components.
-
-### Book of Ancient Secrets
-
-_Prerequisite: Pact of the Tome feature_
-
-You can now inscribe magical rituals in your Tome of Secrets. Choose two 1st-­level spells that have the ritual tag from any class’s spell list (the two needn’t be from the same list). The spells appear in the book and don’t count against the number of spells you know. With your Tome of Secrets in hand, you can cast the chosen spells as rituals. You can’t cast the spells except as rituals, unless you’ve learned them by some other means. You can also cast a warlock spell you know as a ritual if it has the ritual tag.
-
-You can add other ritual spells to your Tome of Secrets on your adventures. When you find such a spell, you can add it to the book if the spell’s level is equal to or less than half your level and if you can spare the time to transcribe the spell. The transcription process takes one downtime round and costs ⛁ for the rare inks needed to inscribe it.
-
-### Eldritch Sight
-
-You see normally in magical darkness, and you can read all writing.
-
-### Eldritch Vigor
-
-At the beginning of an encounter, you gain bolster 1.
-
-### Gaze of Two Minds (Action)
-
-You touch a willing humanoid and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can discard your action on subsequent turns to maintain this connection, extending the duration until the end of your next turn. While perceiving through the other creature’s senses, you benefit from any special senses possessed by that creature, and you are blinded and deafened to your own surroundings.
-
-### Mask of Many Faces
-
-_Innate Spellcasting_
-
-You can inately cast _disguise self_ at will.
-
-### Misty Visions
-
-_Innate Spellcasting_
-
-You can inately cast _silent image_ at will.
-
-### Repelling Blast
-
-_Prerequisite: eldritch blast cantrip_
-
-When you hit a creature with _eldritch blast_, you can push the creature up to 2 squares away from you in a straight line.
-
-### Thief of Five Fates (Cooldown)
-
-You cast _bane_ using your pact magic feature.
-
-### Voice of the Chain Master
-
-_Prerequisite: Pact of the Chain feature_
-
-You can communicate telepathically with your familiar and perceive through your familiar’s senses as long as you are on the same plane of existence. Additionally, while perceiving through your familiar’s senses, you can also speak through your familiar in your own voice, even if your familiar is normally incapable of speech.
-
-## Pact Boon
-
-Your otherworldly patron bestows a gift upon you for your loyal service. You gain one of the following features of your choice.
-
-### Pact of the Chain
-
-You learn the _find familiar_ spell and can cast it as a ritual. The spell doesn’t count against your number of spells known.
-
-When you cast the spell, you can choose one of the normal forms for your familiar or one of the following special forms: homunculus, pseudodragon, quasit, or sprite.
-
-### Pact of the Blade
-
-Discard your action to create a melee pact weapon lacking the two-handed property in your empty hand. You can choose the form this weapon takes each time you create it. You are proficient with it while you wield it. The weapon's damage type depends on the weapon's form: blades are piercing or slashing, and chains, hammers, and clubs are bludgeoning. You may use CHA instead of DEX or STR to make attack rolls with a pact weapon.
-
-Your pact weapon disappears if it is more than 1 square away from you. It also disappears if you use this feature again, if you dismiss the weapon (no action required), or if you die.
-
-You can transform one magic weapon into your pact weapon by performing a special ritual while you hold the weapon. You perform the ritual over the course of a rest. You can then dismiss the weapon, shunting it into an extradimensional space, and it appears whenever you create your pact weapon thereafter. You can’t affect an artifact or a sentient weapon in this way. The weapon ceases being your pact weapon if you die, if you perform the pact of the blade ritual on a different weapon, or if you use the ritual to break your bond to it. The weapon appears at your feet if it is in the extradimensional space when the bond breaks.
-
-### Pact of the Tome
-
-Your patron gives you a Tome of Secrets containing eldritch mysteries and insights. When you gain this feature, choose three cantrips from any class’s spell list (the three needn’t be from the same list). While the book is on your person, you can cast those cantrips at will. They don’t count against your number of cantrips known. If they don’t appear on the warlock spell list, they are nevertheless warlock spells for you.
-
-If you lose your Tome of Secrets, you can perform a ceremony to receive a replacement from your patron. This ceremony can be performed during a rest, and it destroys the previous book. The book turns to ash when you die.
-
-# Wizard Upgrades
-
-## Level 1
-
-|**Cost**|**Feature**|**Details**|
-|-:|:-|:-|
-|2⛁|Arcane Tradition|...|
-|3⛁|Magic|You begin a game session with 4 mana. You learn one spell from the wizard spell list.|
-
-## Arcane Tradition
-
-You choose an arcane tradition, shaping your practice of magic through one of eight schools, such as Evocation.
-
-The study of wizardry is ancient, stretching back to the earliest mortal discoveries of magic. It is firmly established in fantasy gaming worlds, with various traditions dedicated to its complex study.
-
-The most common arcane traditions in the multiverse revolve around the schools of magic. Wizards through the ages have cataloged thousands of spells, grouping them into eight categories called schools. In some places, these traditions are literally schools. In other institutions, the schools are more like academic departments, with rival faculties competing for students and funding. Even wizards who train apprentices in the solitude of their own towers use the division of magic into schools as a learning device, since the spells of each school require mastery of different techniques.
-
-### Evocation
-
-You focus your study on magic that creates powerful elemental effects such as bitter cold, searing flame, rolling thunder, crackling lightning, and burning acid. Some evokers find employment in military forces, serving as artillery to blast enemy armies from afar. Others use their spectacular power to protect the weak, while some seek their own gain as bandits, adventurers, or aspiring tyrants. You gain the following game features.
-
-**_Evocation Savant_.** The Coin required to add evocation spells to your spellbook is halved.
-
-**_Sculpt Spells_.** You can create pockets of relative safety within the effects of your evocation spells. When you cast an evocation spell that affects other creatures that you can see, you can choose a number of them equal to 1 + the spell’s level. The chosen creatures automatically succeed on their ability checks against the spell, and they take no damage if they would normally take half damage on a successful check.
 
 # Alignment
 
@@ -5386,6 +4569,14 @@ PCs must complete this special task each game session, which might involve but i
 
 > Your setting handbook requirement in RL relates to your monthly expenses, property tax and taxes in general, work tasks, and self-care routine. These parts of life are required for life on Earth.
 
+# Sample Setting Handbook
+
+## Enchanted Forest
+
+The Enchanted Forest's beloved Enchantress Queen (Queen) falls gravely ill as waves of weary and injured refugees enter through all four charmed gates of Castle Somnam (HQ), bringing harrowed tales of encroaching darkness. The Nightmare, a darkly magical reality overlaying the world and the realm known as the Plane of Shadow (Shadowfell), breached the Enchanted Forest's borders, spreading its long shadows across the land and transforming all it touched into strange and twisted reflections. The realm is no longer as it once was. Castle Somnam remains the only location unaffected by the Nightmare, thanks to the monarch's mystical protections imbued within the city castle's walls. An elite assembly of champions, known as the Queen's Heralds (Heralds), are charged with keeping the realm and its people healthy, thriving, and safe from harm.
+
+You joined the Queen's Heralds and now, just before your graduation, you are called to participate in one important, final test: you must travel to the Crypt of the Continual Flame on foot deep into the Megalithic Highlands. You and your friends must make the journey alone unaided by your fellow students, peers, and instructors. You must make your way to the Crypt using a simple map. There, you will light your torch within the Hall of the Continual Flame and return it as proof of completion. Only then do you officially become a Herald.
+
 # Appendix PO-A: Safe Space and Code Of Conduct
 
 5eFP contributors, facilitators, and participants strive to create physical and virtual spaces where people have fun and feel safe. 5eFP game masters (GMs) take it very seriously if any player feels threatened or uncomfortable by another person in their space. When a GM is made aware of situations related to this, they will make sure that your concerns are heard and will take the necessary steps with you to respond to the problem. A 5eFP GM expects all participants to respect one another and to address unacceptable behaviors, including those instigated or perpetuated by the GM.
@@ -5483,14 +4674,6 @@ The 5eFP community will continue listening, learning, and reflecting, individual
     - Healer: Once per turn, whenever you complete an action that targets a creature, you can choose a creature within 1 square of the target. The chosen creature discards up to 1 wound and can make an additional ability check to resist an ongoing negative effect.
 - More TBA
 
-# Sample Setting Handbook
-
-## Enchanted Forest
-
-The Enchanted Forest's beloved Enchantress Queen (Queen) falls gravely ill as waves of weary and injured refugees enter through all four charmed gates of Castle Somnam (HQ), bringing harrowed tales of encroaching darkness. The Nightmare, a darkly magical reality overlaying the world and the realm known as the Plane of Shadow (Shadowfell), breached the Enchanted Forest's borders, spreading its long shadows across the land and transforming all it touched into strange and twisted reflections. The realm is no longer as it once was. Castle Somnam remains the only location unaffected by the Nightmare, thanks to the monarch's mystical protections imbued within the city castle's walls. An elite assembly of champions, known as the Queen's Heralds (Heralds), are charged with keeping the realm and its people healthy, thriving, and safe from harm.
-
-You joined the Queen's Heralds and now, just before your graduation, you are called to participate in one important, final test: you must travel to the Crypt of the Continual Flame on foot deep into the Megalithic Highlands. You and your friends must make the journey alone unaided by your fellow students, peers, and instructors. You must make your way to the Crypt using a simple map. There, you will light your torch within the Hall of the Continual Flame and return it as proof of completion. Only then do you officially become a Herald.
-
 # Appendix FP-A: Running the Focus Practice
 
 _This section is devoted to all Focus Practice details, including RL versions and RL nuances/symbolism of 5eFP mechanics and rules._
@@ -5581,3 +4764,818 @@ Developing healthy growth and skills takes time. Some are easy to acquire, while
 Survival starts with recognizing that you don’t have all the answers and that achieving goals requires embracing the unknown and the courage to get lost once in a while. While plans and routes are important, adaptability is needed to navigate unexpected events. Dedicating Survival can help lead you to undiscovered paths and solutions. Focus on your goals but remain receptive to what life brings, as it may hold the necessary answers. Arriving (somewhere) or receiving (something) might require you to first surrender to not knowing exactly how you will arrive or how you will receive. You don't need to know how it will happen to receive the benefits it provides.
 
 More: TBA.
+
+# Appendix UP-I: Inspiration Upgrades
+
+The following upgrades provide additional ways to gain inspiration. Your setting handbook may give you additional upgrades.
+
+|Cost|Feature|
+|-:|:-|
+|3⛁|**_Inspired Success (Cooldown)_.** You gain inspiration after resolving a critical success.|
+|3⛁|**_Inspired Failure (Cooldown)_.** You gain inspiration after resolving a critical failure.|
+|3⛁|**_Inspired Support (Cooldown)_.** If a game feature helps you succeed when you would have otherwise failed, you gain inspiration at the end of your turn.|
+
+# Appendix UP-B: Background Upgrades
+
+TBA
+
+# Appendix UP-C: Class Upgrades
+
+# Barbarian Upgrades
+
+## Level 1
+
+|**Cost**|**Feature**|**Details**|
+|-:|:-|:-|
+|2⛁|Reckless Attack|...|
+|2⛁|Danger Sense|You gain advantage to DEX checks vs. effects you can see|
+|2⛁|Primal Path|...|
+|3⛁|Rage|You gain Rage (Encounter, Cooldown 3)|
+
+## Reckless Attack
+
+You can throw aside all concern for protection to attack with fierce determination. When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you advantage on weapon attack rolls using STR during this turn, but attack rolls against you have advantage until your next turn.
+
+## Primal Path
+
+You choose a path that shapes the nature of your rage. Choose the Path of the Berserker or the Path of the Totem Warrior.
+
+## Path of the Berserker
+
+For some barbarians, rage is a means to an end. The Path of the Berserker is a path of unleashed fury.
+
+### Frenzy
+
+You can go into a frenzy when you rage. If you do so, for the duration of your rage, you can make a single melee weapon attack after you take the Attack action. When your rage ends, you suffer one level of exhaustion (as described in Appendix PH-­A).
+
+## Path of the Totem Warrior
+
+You forge a spiritual and inspired connection to an animal spirit who functions as a friend, guide, and protector. In battle, your totem spirit elevates your abilities, adding magical fuel to your barbarian rage.
+
+### Spirit Seeker
+
+Yours is a path that seeks attunement with the natural world, giving you a kinship with beasts. You gain the ability to cast the _beast link_ and _speak with animals_ spells, but only as rituals (see _Spellcasting_).
+
+### Totem Spirit
+
+When you adopt this path, you choose a totem spirit and gain its game feature. Your totem spirit either provides you with a physical totem object—an amulet or similar adornment—that incorporates fur or feathers, claws, teeth, or bones of the totem animal, or you gain subtle and minor physical characteristics that are reminiscent of your totem spirit. For example, if you have a bear totem spirit, you might be unusually hairy and tough, or if your totem is the eagle, your eyes gain a piercing quality or turn bright yellow.
+
+Your totem animal might be related to those listed here but more appropriate to your homeland. For example, you could choose a hawk or vulture instead of an eagle.
+
+**_Bear_.** While raging, you have resistance to all damage except psychic damage. The spirit of the bear makes you tough enough to stand up to any punishment.
+
+**_Eagle_.** The spirit of the eagle makes you into a predator who can weave through the fray with ease. You gain the following features while you're raging and aren't wearing heavy armor.
+
+- Other creatures have disadvantage on opportunity attack rolls against you.
+- When you declare an Attack action on your turn, you may take the Dash action without discarding your action before or after making your attack.
+
+**_Wolf_.** While you're raging, allies within 1 square of you gain pact tactics. The spirit of the wolf makes you a leader of hunters.
+
+> **_Pack Tactics_.** You gain advantage on an attack roll against a creature if at least one of your allies is within 1 square of the creature and the ally isn’t incapacitated.
+
+# Bard Upgrades
+
+## Level 1
+
+|**Cost**|**Feature**|**Details**|
+|-:|:-|:-|
+|2⛁|Jack of All Trades|Add +1 to nonproficient abilities|
+|2⛁|Song of Rest|You and your allies discard up to 1 wound when completing a rest|
+|3⛁|Magic|You start a game session with 4 Mana. You learn one spell from the bard spell list.|
+|3⛁|Bard College|...|
+|3⛁|Expertise|...|
+
+## Bard College
+
+You delve into the advanced techniques of a bard college of your choice, such as the College of Lore.
+
+## College of Lore
+
+Bards of the College of Lore know something about most things, collecting bits of knowledge from sources as diverse as scholarly tomes and peasant tales. Whether singing folk ballads in taverns or elaborate compositions in royal courts, these bards use their gifts to hold audiences spellbound. When the applause dies down, the audience members might find themselves questioning everything they held to be true, from their faith in the priesthood of the local temple to their loyalty to the king.
+ 
+The loyalty of these bards lies in the pursuit of beauty and truth, not in fealty to a monarch or following the tenets of a deity. A noble who keeps such a bard as a herald or advisor knows that the bard would rather be honest than politic.
+
+The college’s members gather in libraries and sometimes in actual colleges, complete with classrooms and dormitories, to share their lore with one another. They also meet at festivals or affairs of state, where they can expose corruption, unravel lies, and poke fun at self-­important figures of authority.
+
+### Bonus Proficiencies
+
+You gain proficiency with one ability of your choice.
+
+### Cutting Words (Reaction)
+
+You learn how to use your wit to distract, confuse, and otherwise sap the confidence and competence of others. When a creature you can see within 12 squares of you makes an attack roll or an ability check, you can expend one use of bardic action dice, rolling five action dice and subtracting the number from the creature’s roll. You can use this feature after the creature makes its roll, but before the GM determines whether the attack roll or ability check succeeds or fails, or before the creature deals its damage. The creature is immune if it can’t hear you or is immune to being charmed.
+
+> |Cost|Prerequisites|Feature|Details|
+> |-:|:-|:-|:-|
+> |3⛁|Level 2|Additional Magic Secrets|...|
+> |2⛁|Level 5|Peerless Skill|...|
+> 
+> ### Additional Magic Secrets
+>
+> You learn two spells of your choice from any class. A spell you choose must be of a level you can cast or a cantrip. The chosen spells count as bard spells for you.
+>
+> ### Peerless Skill
+>
+> When you make an ability check, you can expend one use of Bardic Action Dice to roll your action dice and add the number rolled to your ability check. You can do so after you roll the die for the ability check, but before the GM tells you whether you succeed or fail.
+
+## Expertise
+
+Gain proficiency with a non-proficient ability of your choice. Then choose two of your ability proficiencies or one of your ability proficiencies and your proficiency with a tool. As long as the chosen proficiencies or tools do not already have expertise, you gain expertise in the chosen abilities or tools. Expertise allows you to add your level to a check twice instead of once.
+
+# Cleric Upgrades
+
+## Level 1
+
+|**Cost**|**Feature**|**Details**|
+|-:|:-|:-|
+|3⛁|Channel Divinity (Rest)|...|
+|3⛁|Magic|You start a game session with 4 Mana. You learn one spell from your class spell list.|
+
+## Channel Divinity (Rest)
+
+You gain the ability to channel divine energy directly from your deity, using that energy to fuel magical effects. You start with two such effects: Turn Undead and an effect determined by your domain. Some domains grant you additional effects as you upgrade them, as noted in the domain description.
+
+When you use your Channel Divinity, you choose which effect to create.
+
+Some Channel Divinity effects require ability checks. When you use such an effect from this class, the DC equals your cleric spell DC.
+
+### Turn Undead (Action, Encounter)
+
+You present your holy symbol, speaking a prayer that censures undead. Each undead that can see or hear you within 6 squares of you must make a WIS check. If the creature fails its check, it is turned for the rest of the encounter or until it takes any damage.
+
+A turned creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 6 squares of you. It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.
+
+# Druid Upgrades
+
+## Level 1
+
+|**Cost**|**Feature**|**Details**|
+|-:|:-|:-|
+|2⛁|Wild Shape|...|
+|2⛁|Druid Circle|...|
+|3⛁|Magic|You begin a game session with 4 mana. You learn one spell from the druid spell list.|
+
+## Wild Shape (Action, Rest 2)
+
+You magically assume the shape of a beast that you have seen before. When you use this feature, save and set aside any wounds and choose a wild shape form. Use statistics for an elite creature except as detailed below. Your wild shape form cannot benefit from any swim or fly speeds it may have.
+ 
+## Wild Shape Forms
+
+Wild shapes are divided into three primary forms: tough, stealthy, and travel.
+
+### Tough
+
+You have 5 + LEVEL MAX wounds and Defense 11 while in tough form. Your size increases to large if it is not already, with a reach of 1 square. You gain Bolster LEVEL when you assume this form.
+
+### Stealthy
+
+You have 4 + LEVEL MAX wounds and Defense 12 + LEVEL while in stealthy form. While in this form, you roll DEX checks with advantage.
+ 
+### Travel
+
+You can activate travel form outside of an encounter when you are the group token controller. You have 1 MAX wounds while in travel form. When activated, you and any chosen friendly and willing creatures within 6 squares of you transform into travel forms and move together. If an encounter begins or if 1 or more points of damage are dealt to you or another affected creature, your wild shape and all travel forms end. Your speed increases by +2 while in travel form.
+
+You can stay in a wild shape form until you Recall. You then revert to your normal form. You can discard your action to revert to your normal form earlier on your turn. If you fall unconscious, gain MAX wounds, or die, you automatically revert.
+
+While you are transformed, the following rules apply:
+
+- Your game statistics are replaced by the statistics of the wild shape form, but you retain your alignment, personality, and INT, WIS, and CHA. You also retain all of your proficiencies, in addition to gaining those of the creature. If the creature has the same proficiency as you and the bonus in its stat block is higher than yours, use the creature’s bonus instead of yours. If the creature has any legendary or lair actions, you can’t use them.
+- When you transform, you assume the wild shape form's MAX wounds. When you revert to your normal form, you return all wounds you set aside before you transformed. However, if you revert because your wild shape form gained MAX Wounds, any excess wounds carry over to your normal form. For example, if you take 2 damage in a wild shape form and have room for only 1 wound, you revert and take 1 damage. As long as the excess damage doesn’t cause you to reach your maximum wounds, you aren’t knocked unconscious.
+- You can’t cast spells, and your ability to speak or take any action that requires hands is limited to the capabilities of your wild shape form. Transforming doesn’t break your concentration on a spell you’ve already cast, however, or prevent you from taking actions that are part of a spell, such as _call lightning_, that you’ve already cast.
+- You retain the benefit of any features from your class, species, or other source and can use them if the new form is physically capable of doing so. However, you can’t use any of your special senses, such as truesight, unless your new form also has that sense.
+- Your equipment merges into your new form and has no effect until you leave the form.
+
+## Druid Circle
+
+You choose to identify with a circle of druids, such as the Circle of the Land, the Circle of the Sun and Moon, or the Circle of the Manyshaped.
+ 
+### Circle of the Land
+
+The Circle of the Land is made up of mystics and sages who safeguard ancient knowledge and rites through a vast oral tradition. These druids meet within sacred circles of trees or standing stones to whisper primal secrets in Druidic. The circle’s wisest members preside as the chief priests of communities that hold to the Old Faith and serve as advisors to the rulers of those folk. As a member of this circle, your magic is influenced by the land where you were initiated into the circle’s mysterious rites.
+
+**_Bonus Cantrip._** When you choose this circle, you learn one additional druid cantrip of your choice.
+ 
+**_Natural Recovery_ (Cooldown).** You can regain some of your magical energy by sitting in meditation and communing with nature. You gain LEVEL mana when you finish a rest.
+
+**_Circle Spells._** Your mystical connection to the land infuses you with the ability to cast certain spells. You gain access to circle spells connected to the land where you became a druid. Choose that land—arctic, coast, desert, forest, grassland, mountain, or swamp—and consult the associated list of spells.
+
+Once you gain access to a circle spell, it becomes known. If you gain access to a spell that doesn’t appear on the druid spell list, the spell is nonetheless a druid spell for you.
+
+|**Land**|**Circle Spells**|
+|:-|:-|
+|Arctic|_hold person_, _spike growth_|
+|Coast|_mirror image_, _misty step_|
+|Desert|_blur_, _silence_|
+|Forest|_barkskin_, _spider climb_|
+|Grassland|_invisibility_, _pass without trace_|
+|Mountain|_spider climb_, _spike growth_|
+|Swamp|_acid arrow_, _darkness_|
+ 
+### Circle of the Sun and Moon
+
+The Circle of the Sun and Moon is made up of mystics who meditate and commune with the cosmic astral plane, using radiance and starlight to strengthen allies while hindering foes. These druids meet within sacred standing stones to observe and reflect upon the position and motion of celestial bodies in the sky. The wisest members of the circle advise rulers of communities that follow the Old Faith, and are sometimes consulted by those of different faiths. As a member of this circle, your magic is influenced by the heavens and the astral plane.
+
+**_Astral Form._ (Wild Shape Form)** You have 2 + LEVEL MAX wounds while in astral form. You may use Wild Shape without discarding your action when shapeshifting into astral form. When you choose this form, you do not assume the shape of a beast. You and your equipment become translucent, taking on an indigo tint filled with points of moving lights. You gain the following features while in astral form.
+
+- Your equipment does not merge into your astral form and functions normally.
+- You may cast spells, speak, and take normal actions while in astral form.
+- **_Lunar Attunement._** Whenever you cast a spell that has no visible effect such as _cure wounds_, you discard solar attunement and gain lunar attunement. If you already have lunar attunement, discard it and activate _starfall_.
+- **_Solar Attunement._** Whenever you cast a spell that has a visible effect such as _entangle_, you discard lunar attunement and gain solar attunement. If you already have solar attunement, discard it and activate _starfall_.
+- **_Starfall._** A shooting star of radiance forms above your head and strikes a creature within 12 squares of you. If the creature is friendly, it receives 1 point of healing and may make an ability check to resist one ongoing negative effect. If the creature is not a friendly target, it must succeed on a DEX check using your spell DC or take 1 point of radiant damage. You then gain _lunar attunement_ or _solar attunement_.
+
+### Circle of the Manyshaped
+
+The Circle of the Manyshaped are fierce wilderness protectors and powerful shapeshifters who embody and cultivate wisdom within the shapes of animals. Their order gathers under the full moon to share news across the land and trade observations and insights. Their preferred way of doing this is with an assemply of crows or ravens. They can be found in the deepest parts of the wild, where they spend long periods living in a wild shape form as animals, hunting, thinking, and sleeping as animals. They do this to deepen their understanding of the animal and its relation to the animal within themselves.
+
+**_Improved Wild Shape_.** You can use wild shape without discarding your action. Once per turn while in a wild shape form, you can spend up to LEVEL mana to discard an equal number of your wild shape form wounds. Your wild shape forms gain additional game features.
+
+**_Tough_.** You gain bolster LEVEL at the beginning of your turn. You can attack twice instead of once whenever you take the Attack action on your turn.
+
+**_Stealthy_.** You gain advantage on WIS checks. You gain a pounce attack (if you don't already have one).
+
+> **_Pounce._** Whenever you take the Attack action, move at least 3 squares in a line toward a creature, and hit it with a melee attack, it must succeed on a DC (14 + LEVEL) STR check or be knocked prone. If the creature is prone, you can make one melee attack against it.
+
+**_Travel_.** Your movement changes to double your base speed. Once travel form is activated, the travel form can be reactivated on the exploration map anytime outside of an encounter until you Recall. When you reactivate travel form, set aside any wild shape form you are currently in. When travel form ends due to entering an encounter or taking 1 or more points of damage, you shift back into the wild shape form you set aside.
+
+# Fighter Upgrades
+
+## Level 1
+
+|**Cost**|**Feature**|**Details**|
+|-:|:-|:-|
+|2⛁|Action Surge|...|
+|3⛁|Martial Archetype|...|
+
+## Action Surge (Rest)
+
+You can push yourself beyond your normal limits for a moment. The next action you take on your turn does not require you to discard your action.
+
+## Martial Archetype
+
+You choose an archetype that you strive to emulate in your combat styles and techniques, such as Champion or Eldritch Knight.
+
+# Champion
+
+The archetypal Champion focuses on the development of raw physical power honed to deadly perfection. Those who model themselves on this archetype combine rigorous training with physical excellence to deal devastating blows. Your weapon attacks score a critical hit on a roll of 19 or 20.
+
+# Eldritch Knight
+
+The archetypal Eldritch Knight combines spellcasting with martial mastery common to all fighters. Eldritch Knights learn spells like wizards. Their attunement to martial mastery limits their magic studies to two of the eight schools of magic: abjuration and evocation. Abjuration spells protect, while evocation spells bring elemental energy to bear in combat, extending the fighter’s reach. These knights are dedicated to a few select spells, committing them to memory instead of keeping them in a spellbook.
+
+## Spellcasting
+
+You blend spells with melee and ranged weapons. You can cast 1st-level spells.
+
+### Cantrips
+
+You know two cantrips of your choice from the wizard spell list.
+
+### Mana
+
+You begin a game session with 2 mana. To cast one of your spells, you must spend an amount of mana equal to the spell’s level or higher.
+
+For example, if you know the 1st-level spell _magic missile_ and have 2 mana, you can spend 1 mana to cast _magic missile_ as a 1st-level spell or 2 mana to cast it as a 2nd-level spell.
+
+### Spells Known
+
+You know three 1st-level spells from the wizard spell list, two of which must be abjuration or evocation spells.
+
+Whenever you purchase a Magic upgrade, you can choose one of the abjuration or evocation wizard spells you know and replace it with another abjuration or evocation spell from the wizard spell list that you can cast.
+
+### Spellcasting Ability
+
+Intelligence (INT) is your spellcasting ability for your wizard spells. You learn your spells through dedicated study and memorization. You use your INT whenever a wizard spell refers to your spellcasting ability. In addition, you use INT when setting the DC for a wizard spell you cast and when making an attack roll with one.
+
+**Spell DC** = 10 + INT
+
+**Spell attack modifier** = 2 + INT
+
+### Ritual Casting
+
+You can cast a wizard spell as a ritual if that spell has the ritual tag and you know the spell.
+
+## Eldritch Weapon
+
+You learn a ritual that creates a magical bond between yourself and one weapon. You complete the ritual during a rest. The weapon must be within 1 square of you throughout the ritual, after which you touch the weapon and forge the bond. Your bonded weapon gains the following features.
+
+- Your bonded weapon cannot be disarmed while you have it equipped unless you are incapacitated.
+- Your bonded weapon does not deplete.
+- This game feature considers shields a melee weapon with the thrown keyword and a range of up to 4 squares.
+- **_Summon Eldritch Weapon_.** If it is on the same plane of existence, you can summon a bonded weapon on your turn before or after discarding your action, causing it to teleport instantly to your hand.
+
+With this game feature, you can have up to two bonded weapons, but you can summon only one at a time. If you attempt to bond with a third weapon, you must break the bond with one of the other two.
+
+# Paladin Upgrades
+
+## Level 1
+
+|**Cost**|**Feature**|**Details**|
+|-:|:-|:-|
+|2⛁|Fighting Style|...|
+|2⛁|Spellcasting|...|
+|2⛁|Divine Smite|...|
+|3⛁|Divine Health|You are immune to disease.|
+|3⛁|Magic|You begin a game session with 3 mana. You learn one spell from the paladin spell list.|
+|3⛁|Sacred Oath|...|
+
+## Fighting Style
+
+You adopt a style of fighting as your specialty. Choose one of the following options. You can’t take a Fighting Style option more than once, even if you later get to choose again.
+
+### Armored
+
+While you are wearing armor, you gain a +1 bonus to Defense.
+
+### Invoker
+
+You learn two cantrips from the cleric spell list.
+
+### Great Weapon Fighting
+
+Whenever you attack and miss with a melee weapon you are wielding with two hands, you may reroll the attack once and must use the new roll. The weapon must have the two-handed property for you to gain this benefit.
+
+### Protection (Reaction)
+
+When a creature you can see attacks a target other than you that is within 1 square of you, you can discard your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
+
+## Spellcasting
+
+You have learned to draw on divine magic through meditation and prayer to cast spells as a cleric does. You can cast 1st-level spells.
+
+### Mana
+
+You begin a game session with 2 mana. To cast one of your spells, you must spend an amount of mana equal to the spell’s level or higher.
+
+For example, if you know the 1st-level spell _cure wounds_ and have 2 mana, you can spend 1 mana to cast _cure wounds_ as a 1st-level spell or 2 mana to cast it as a 2nd-level spell.
+
+### Spells Known
+
+You know CHA (minimum 1) 1st-level spells from the paladin spell list.
+
+Whenever you purchase a Magic upgrade, you can choose one of the paladin spells you know and replace it with another spell from the paladin spell list that you can cast.
+
+### Spellcasting Ability
+
+Charisma (CHA) is your spellcasting ability for your paladin spells since their power derives from the strength of your convictions. You use your CHA whenever a paladin spell refers to your spellcasting ability. In addition, you use CHA when setting the DC for a paladin spell you cast and when making an attack roll with one.
+
+**Spell DC** = 10 + CHA
+
+**Spell attack modifier** = 2 + CHA
+
+## Divine Smite
+
+When you hit a creature with a melee weapon attack, you can spend up to LEVEL mana to deal an equal amount of radiant damage to the target, in addition to the weapon’s damage.
+
+## Sacred Oath
+
+You swear the oath that binds you as a paladin forever. Up to this time you have been in a preparatory stage, committed to the path but not yet sworn to it. Now you choose an oath, such as the Oath of Devotion.
+
+### Oath Spells
+
+Each oath has associated spells. You begin knowing two oath spells, and they do not count against the number of spells you know.
+
+If you gain an oath spell that doesn’t appear on the paladin spell list, the spell is nonetheless a paladin spell for you.
+
+### Channel Divinity (Encounter, Rest)
+
+Your oath allows you to channel divine energy to fuel magical effects. Each Channel Divinity option provided by your oath explains how to use it.
+When you use your Channel Divinity, you choose which option to use.
+
+Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your paladin spell save DC.
+
+# Sacred Oaths
+
+Becoming a paladin involves taking vows that commit the paladin to the cause of righteousness, an active path of fighting wickedness. This final oath is taken at the culmination of all the paladin’s training. Some characters with this class don’t consider themselves true paladins until they have reached this step and made this oath. For others, the actual swearing of the oath is a formality, an official stamp on what has always been true in the paladin’s heart.
+
+## Oath of Devotion
+
+The Oath of Devotion binds a paladin to the loftiest ideals of justice, virtue, and order. Sometimes called cavaliers, white knights, or holy warriors, these paladins meet the ideal of the knight in shining armor, acting with honor in pursuit of justice and the greater good. They hold themselves to the highest standards of conduct, and some, for better or worse, hold the rest of the world to the same standards. Many who swear this oath are devoted to gods of law and good and use their gods’ tenets as the measure of their devotion. They hold angels—the perfect servants of good—as their ideals, and incorporate images of angelic wings into their helmets or coats of arms.
+
+### Tenets of Devotion
+
+Though the exact words and strictures of the Oath of Devotion vary, paladins of this oath share these tenets.
+
+- **Honesty.** Don't lie or cheat. Let your word be your promise.
+- **Courage.** Never fear to act, though caution is wise.
+- **Compassion.** Aid others, protect the weak, and punish those threatening them. Show mercy to your foes, but temper it with wisdom.
+- **Honor.** Treat others fairly, and let your honorable deeds be an example to them. Do as much good as possible while causing the least amount of harm.
+- **Duty.** Be responsible for your actions and their consequences, protect those entrusted to your care, and obey those who have just authority over you.
+
+### Oath Spells
+
+- protection from evil and good
+- sanctuary
+
+### Channel Divinity (Encounter, Rest)
+
+When you take this oath, you gain the following two Channel Divinity Options.
+
+**_Sacred Weapon_ (Action).** You imbue one weapon that you are holding with positive energy, using your Channel Divinity. For the rest of the encounter, you add CHA to attack rolls made with that weapon (with a minimum bonus of +1). The weapon also emits bright light in a 4-square radius. If the weapon is not already magical, it becomes magical for the duration.
+
+You can end this effect on your turn as part of any other action. If you are no longer holding or carrying this weapon, or if you fall unconscious, this effect ends.
+
+**_Turn the Unholy_ (Action).** You present your holy symbol and speak a prayer censuring fiends and undead, using your Channel Divinity. Each fiend or undead that can see or hear you within 6 squares of you must make a WIS check. If the creature fails its check, it is turned until the end of the encounter or until it takes damage.
+
+A turned creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 6 squares of you. It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.
+
+# Monk Upgrades
+
+## Level 1
+
+|**Cost**|**Feature**|**Details**|
+|-:|:-|:-|
+|2⛁|Ki|...|
+|2⛁|Unormored Movement|...|
+|3⛁|Monastic Tradition|...|
+|3⛁|Deflect Missiles|...|
+
+## Ki (Rest 3)
+
+Your training allows you to harness the mystic energy of ki. You use this game feature to fuel various ki features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind.
+
+You draw all of your ki back into yourself when you complete a rest in meditation.
+
+Some of your ki features require your target to make an ability check to resist the feature’s effects. The ki DC is calculated as follows:
+
+**Ki DC** = 10 +  WIS
+
+Ki and ki features are considered magic and magical effects.
+
+### Flurry of Blows (Encounter, Ki)
+
+Immediately after you take the Attack action on your turn, you make two unarmed strikes.
+
+### Patient Defense (Encounter, Ki)
+
+You can take the Dodge action on your turn without discarding your action.
+
+### Step of the Wind (Encounter, Ki)
+
+You can take the Disengage or Dash action on your turn without discarding your action, and your jump distance is doubled for the turn.
+
+## Unarmored Movement
+
+Your speed increases by 2 while you are not wearing armor or wielding a shield.
+
+## Monastic Tradition
+
+You commit yourself to a monastic tradition, such as the Way of the Elements, the Way of the Open Hand, and the Way of Tranquility. Your tradition grants you game features.
+
+## Way of the Elements
+
+You follow a monastic tradition that teaches you to harness the elements. When you focus your ki, you can align yourself with the forces of creation and bend the four elements to your will, using them as an extension of your body. Some members of this tradition dedicate themselves to a single element, but others weave them together.
+
+Many monks of this tradition tattoo their bodies with representations of their ki powers, commonly imagined as coiling dragons, but also as phoenixes, fish, plants, mountains, and cresting waves.
+
+### Disciple of the Elements
+
+You learn magical disciplines that harness the power of the four elements.
+
+You know the Elemental Attunement and another elemental discipline of your choice, which are detailed in the “Elemental Disciplines” section below. 
+
+Whenever you learn a new elemental discipline, you can also replace one elemental discipline that you already know with a different discipline.
+
+**_Casting Elemental Spells_.** Some elemental disciplines allow you to cast spells (see Spellcasting). Wisdom (WIS) is your spellcasting ability for your elemental discipline spells. Use your ki DC for spells that include an ability check and use 2 + WIS for your spell attack modifier. You can cast an elemental discipline spell with a spell level up to LEVEL.
+
+|Cost|Prerequisites|Feature|Details|
+|-:|:-|:-|:-|
+|3⛁|Level 2|Discipline|You learn an elemental discipline.|
+|2⛁|Level 4|Discipline|You learn an elemental discipline.|
+|2⛁|Level 6|Discipline|You learn an elemental discipline.|
+
+### Elemental Disciplines
+
+The elemental disciplines use your ki to produce magical effects and are presented in alphabetical order.
+
+### Elemental Attunement (Action, Encounter)
+
+You briefly control elemental forces nearby, causing one of the following effects of your choice:
+
+- Create a harmless, instantaneous sensory effect related to air, earth, fire, or water, such as a shower of sparks, a puff of wind, a spray of light mist, or a gentle rumbling of stone.
+- Instantaneously light or snuff out a candle, a torch, or a small campfire.
+- Chill or warm up to 1 pound of nonliving material until the end of the encounter.
+- Cause earth, fire, water, or mist that can fit within a 1-square cube to shape itself into a crude form you desig­nate until the end of the encounter.
+
+If you use this game feature multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can discard your action to dismiss such an effect.
+
+## Way of the Open Hand
+
+Monks of the Way of the Open Hand are the ultimate masters of martial arts combat, whether armed or unarmed. They learn techniques to push and trip their opponents, manipulate ki to heal damage to their bodies, and practice advanced meditation that can protect them from harm.
+
+### Open Hand Technique
+
+You can manipulate your enemy’s ki when you harness your own. Whenever you hit a creature with one of the attacks granted by your Flurry of Blows, you can impose one of the following effects on that target:
+
+- It must succeed on a DEX check or be knocked prone.
+- It must make a STR check. If it fails, you can push it up to 3 squares away from you.
+- It can’t take reactions until the end of your next turn.
+
+## Way of Tranquility
+
+Monks of the Way of Tranquility eschew and abstain from violence. They use diplomacy, mercy, and understanding to resolve conflicts. If pushed, though, they are capable warriors who can bring an end to the unjust or cruel folk who refuse to listen to reason. When adventuring, these monks make excellent diplomats. They are also skilled in the healing arts and can preserve their allies during challenging encounters.
+
+### Healing Hands (Ki)
+
+You or an ally within reach discards up to LEVEL wounds. Alternatively, you can activate your Ki feature an additional two times to cure a touched creature, discarding one disease or discarding one poison affecting it. You can discard multiple diseases and poisons using this game feature, expending uses of your Ki feature separately for each one.
+
+When you use your Flurry of Blows, you can replace one of the unarmed strikes with a use of this game feature.
+
+This game feature has no effect on undead and constructs.
+
+### Path of Tranquility (Encounter, Rest)
+
+You innately cast _sanctuary_ on yourself with a duration of Recall. A creature that succeeds on its WIS check is temporarily immune to this effect for the rest of the encounter.
+
+## Deflect Missiles (Encounter, Reaction)
+
+You deflect or catch the piece of ammunition or missile when a ranged weapon attack hits you, and the damage you take from the attack is reduced by LEVEL + 1. If the damage is reduced to 0, you catch the missile if it is small enough to hold in one hand and if you have at least one hand free. If you catch a missile in this way, you can spend one use of your Ki feature to make a ranged attack with the weapon or piece of ammunition you just caught, as part of the same reaction. You make this attack with proficiency, regardless of your weapon proficiencies, and the missile counts as a monk weapon for the attack, which has a normal range of 4 squares and a long range of 12 squares.
+
+# Ranger Upgrades
+
+## Level 1
+
+|**Cost**|**Feature**|**Details**|
+|-:|:-|:-|
+|2⛁|Fighting Style|...|
+|2⛁|Spellcasting|...|
+|3⛁|Ranger Archetype|...|
+|3⛁|Primeval Awareness|...|
+|3⛁|Magic|You begin a game session with 3 mana. You learn one spell from the ranger spell list.|
+
+## Fighting Style
+
+You adopt a particular style of fighting as your specialty. Choose one of the following options. You can’t take a Fighting Style option more than once, even if you later get to choose again.
+
+### Archery
+
+You gain a +1 bonus to attack rolls you make with ranged weapons.
+
+### Blind Fighting
+
+You gain blindsight 2 whenever your vision is obscured.
+
+### Defense
+
+While you are wearing armor, you gain a +1 bonus to Defense.
+
+### Warden
+
+You learn two druid cantrips of your choice.
+
+## Spellcasting
+
+You have learned to use the magical essence of nature to cast spells, much as a druid does.
+
+### Mana
+
+You begin a game session with 2 mana. To cast one of your spells, you must spend an amount of mana equal to the spell’s level or higher.
+
+For example, if you know the 1st-level spell _cure wounds_ and have 2 mana, you can spend 1 mana to cast _cure wounds_ as a 1st-level spell or 2 mana to cast it as a 2nd-level spell.
+
+### Spells Known
+
+You know WIS (minimum 1) 1st-level spells from the ranger spell list.
+
+Whenever you purchase a Magic upgrade, you can choose one of the ranger spells you know and replace it with another spell from the ranger spell list that you can cast.
+
+### Spellcasting Ability
+
+Wisdom (WIS) is your spellcasting ability for your ranger spells, since your magic draws on your attunement to nature. You use your WIS whenever a spell refers to your spellcasting ability. In addition, you use your WIS when setting the DC for a ranger spell you cast and when making an attack roll with one.
+
+**Spell DC** = 10 + WIS
+
+**Spell attack modifier** = 2 + WIS
+
+## Ranger Archetype
+
+You choose an archetype that you strive to emulate, such as the Hunter.
+
+### Hunter
+
+Emulating the Hunter archetype means accepting your place as a bulwark between civilization and the terrors of the wilderness. As you walk the Hunter’s path, you learn specialized techniques for fighting the threats you face, from rampaging ogres and hordes of orcs to towering giants and terrifying dragons.
+
+You gain one of the following features of your choice:
+
+- **_Colossus Slayer_.** Your tenacity can wear down the most potent foes. Once per turn, whenever you take the Attack action and hit a creature that is not at MAX Wounds with a weapon attack, the creature takes +1 damage.
+- **_Giant Killer_ (Reaction).** When a Large or larger creature within 1 square of you hits or misses you with an attack, you can attack that creature immediately after its attack, provided that you can see the creature.
+- **_Horde Breaker_.** When you take the Attack action, you can make another attack with the same weapon against a different creature that is within 1 square of the original target and within range of your weapon.
+
+## Primeval Awareness (Encounter, Action)
+
+Being a ranger means you are mystically connected to the land and to those who dwell upon it. You have an innate ability to communicate with beasts, and they recognize you as a kindred spirit. Through sounds and gestures, you can communicate simple ideas to a beast and can read its basic mood and intent. You learn its emotional state, whether it is affected by magic of any sort, its short-term needs (such as food or safety), and actions you can take (if any) to persuade it not to attack. You cannot use this ability against a creature you attacked during the encounter.
+
+# Rogue Upgrades
+
+TBA
+
+# Sorcerer Upgrades
+
+## Level 1
+
+|**Cost**|**Feature**|**Details**|
+|-:|:-|:-|
+|3⛁|Sorcery|...|
+|3⛁|Magic|You begin a game session with 4 mana. You learn one spell from the sorcerer spell list.|
+|3⛁|Metamagic|...|
+
+## Sorcery (Cooldown 3)
+
+You tap into a deep wellspring of magic within yourself allowing you to create a variety of magical effects.
+
+|Cost|Prerequisites|Feature|Details|
+|-:|:-|:-|:-|
+|3⛁|Level 2|Sorcery|You gain Sorcery (Cooldown 4)|
+|3⛁|Level 4|Sorcery|You gain Sorcery (Cooldown 5)|
+|3⛁|Level 6|Sorcery|You gain Sorcery (Cooldown 6)|
+
+### Flexible Casting
+
+You can spend a use of your sorcery feature to gain additional mana, or sacrifice mana to replenish an expended use of your sorcery feature.
+
+Once per turn, you can either spend two uses of your sorcery feature to gain 2 mana or expend 2 mana to refresh one use of your sorcery feature.
+
+Any mana you create with this feature vanishes at the end of the game session.
+
+## Metamagic
+
+You gain the ability to change your spells to suit your needs. You gain two of the following Metamagic options of your choice.
+
+Unless otherwise noted, you can use only one Metamagic option on a spell when you cast it.
+
+### Careful Spell
+
+When you cast a spell that forces other creatures to make an ability check, you can protect some of those creatures from the spell’s full force. To do so, you spend one use of your sorcery feature and choose a number of those creatures up to your CHA (minimum of one creature). A chosen creature automatically succeeds on its ability check against the spell.
+
+### Distant Spell
+
+When you cast a spell that has a range of 1 square or greater, you can spend one use of your sorcery feature to double the range of the spell.
+When you cast a spell that has a range of touch, you can spend one use of your sorcery feature to make the range of the spell 6 squares.
+
+### Empowered Spell
+
+When a spell deals damage, you can spend two uses of your sorcery feature to increase the spell damage by +1.
+
+You can use Empowered Spell even if you have already used your sorcery feature this turn.
+
+### Extended Spell
+
+When you cast a spell that has a duration of encounter, you can spend one use of your sorcery feature to extend its duration to Recall.
+
+### Heightened Spell
+
+When you cast a spell that forces a creature to make an ability check to resist its effects, you can spend three uses of your sorcery feature to give one target of the spell disadvantage on its first ability check made against the spell.
+
+### Quickened Spell
+
+Once per turn, when you take the Cast a Spell action with a spell with a casting time of 1 action, you can spend two uses of your sorcery feature instead of discarding your action. If you use the Cast a Spell action again during the same turn, the spell must be a cantrip.
+
+### Subtle Spell
+
+When you cast a spell, you can spend one use of your sorcery feature to cast it without any somatic or verbal components.
+
+### Twinned Spell
+
+When you cast a spell that targets only one creature and doesn’t have a range of self, you can spend a number of uses of your sorcery feature equal to the spell’s level to target a second creature in range with the same spell (spend one use of your sorcery feature if the spell is a cantrip).
+
+To be eligible, a spell must be incapable of targeting more than one creature at the spell’s current level. For example, _magic missile_ and _scorching ray_ aren’t eligible, but _ray of frost_ is.
+
+# Warlock Upgrades
+
+## Level 1
+
+|**Cost**|**Feature**|**Details**|
+|-:|:-|:-|
+|2⛁|Eldritch Invocations|...|
+|3⛁|Magic|You gain Pact Magic (Rest 2). Add +1 known spell from the warlock spell list.|
+|3⛁|Pact Boon|...|
+
+## Eldritch Invocations
+
+In your study of esoteric lore, you have unearthed eldritch invocations, fragments of arcane knowledge that imbue you with an abiding magical ability.
+
+You gain two eldritch invocations of your choice. Your invocation options are detailed below.
+
+Additionally, when you gain a warlock level, you can choose one of the invocations you know and replace it with another invocation that you could learn at that level.
+
+If an eldritch invocation has prerequisites, you must meet them to learn it. You can learn the invocation at the same time that you meet its prerequisites.
+
+### Performance Blast
+
+_Prerequisite: eldritch blast cantrip_
+
+Your _eldritch blast_ spells deal +1 damage.
+
+### Eldritch Armor (Action)
+
+_Innate Spellcasting_
+
+You can innately cast _mage armor_ on yourself at will.
+
+### Beast Speech (Action)
+
+_Innate Spellcasting_
+
+You can innately cast _speak with animals_ at will.
+
+### Beguiling Influence (Action, Cooldown)
+
+_Innate Spellcasting_
+
+You can innately cast _charm person_ without verbal or somatic components.
+
+### Book of Ancient Secrets
+
+_Prerequisite: Pact of the Tome feature_
+
+You can now inscribe magical rituals in your Tome of Secrets. Choose two 1st-­level spells that have the ritual tag from any class’s spell list (the two needn’t be from the same list). The spells appear in the book and don’t count against the number of spells you know. With your Tome of Secrets in hand, you can cast the chosen spells as rituals. You can’t cast the spells except as rituals, unless you’ve learned them by some other means. You can also cast a warlock spell you know as a ritual if it has the ritual tag.
+
+You can add other ritual spells to your Tome of Secrets on your adventures. When you find such a spell, you can add it to the book if the spell’s level is equal to or less than half your level and if you can spare the time to transcribe the spell. The transcription process takes one downtime round and costs ⛁ for the rare inks needed to inscribe it.
+
+### Eldritch Sight
+
+You see normally in magical darkness, and you can read all writing.
+
+### Eldritch Vigor
+
+At the beginning of an encounter, you gain bolster 1.
+
+### Gaze of Two Minds (Action)
+
+You touch a willing humanoid and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can discard your action on subsequent turns to maintain this connection, extending the duration until the end of your next turn. While perceiving through the other creature’s senses, you benefit from any special senses possessed by that creature, and you are blinded and deafened to your own surroundings.
+
+### Mask of Many Faces
+
+_Innate Spellcasting_
+
+You can inately cast _disguise self_ at will.
+
+### Misty Visions
+
+_Innate Spellcasting_
+
+You can inately cast _silent image_ at will.
+
+### Repelling Blast
+
+_Prerequisite: eldritch blast cantrip_
+
+When you hit a creature with _eldritch blast_, you can push the creature up to 2 squares away from you in a straight line.
+
+### Thief of Five Fates (Cooldown)
+
+You cast _bane_ using your pact magic feature.
+
+### Voice of the Chain Master
+
+_Prerequisite: Pact of the Chain feature_
+
+You can communicate telepathically with your familiar and perceive through your familiar’s senses as long as you are on the same plane of existence. Additionally, while perceiving through your familiar’s senses, you can also speak through your familiar in your own voice, even if your familiar is normally incapable of speech.
+
+## Pact Boon
+
+Your otherworldly patron bestows a gift upon you for your loyal service. You gain one of the following features of your choice.
+
+### Pact of the Chain
+
+You learn the _find familiar_ spell and can cast it as a ritual. The spell doesn’t count against your number of spells known.
+
+When you cast the spell, you can choose one of the normal forms for your familiar or one of the following special forms: homunculus, pseudodragon, quasit, or sprite.
+
+### Pact of the Blade
+
+Discard your action to create a melee pact weapon lacking the two-handed property in your empty hand. You can choose the form this weapon takes each time you create it. You are proficient with it while you wield it. The weapon's damage type depends on the weapon's form: blades are piercing or slashing, and chains, hammers, and clubs are bludgeoning. You may use CHA instead of DEX or STR to make attack rolls with a pact weapon.
+
+Your pact weapon disappears if it is more than 1 square away from you. It also disappears if you use this feature again, if you dismiss the weapon (no action required), or if you die.
+
+You can transform one magic weapon into your pact weapon by performing a special ritual while you hold the weapon. You perform the ritual over the course of a rest. You can then dismiss the weapon, shunting it into an extradimensional space, and it appears whenever you create your pact weapon thereafter. You can’t affect an artifact or a sentient weapon in this way. The weapon ceases being your pact weapon if you die, if you perform the pact of the blade ritual on a different weapon, or if you use the ritual to break your bond to it. The weapon appears at your feet if it is in the extradimensional space when the bond breaks.
+
+### Pact of the Tome
+
+Your patron gives you a Tome of Secrets containing eldritch mysteries and insights. When you gain this feature, choose three cantrips from any class’s spell list (the three needn’t be from the same list). While the book is on your person, you can cast those cantrips at will. They don’t count against your number of cantrips known. If they don’t appear on the warlock spell list, they are nevertheless warlock spells for you.
+
+If you lose your Tome of Secrets, you can perform a ceremony to receive a replacement from your patron. This ceremony can be performed during a rest, and it destroys the previous book. The book turns to ash when you die.
+
+# Wizard Upgrades
+
+## Level 1
+
+|**Cost**|**Feature**|**Details**|
+|-:|:-|:-|
+|2⛁|Arcane Tradition|...|
+|3⛁|Magic|You begin a game session with 4 mana. You learn one spell from the wizard spell list.|
+
+## Arcane Tradition
+
+You choose an arcane tradition, shaping your practice of magic through one of eight schools, such as Evocation.
+
+The study of wizardry is ancient, stretching back to the earliest mortal discoveries of magic. It is firmly established in fantasy gaming worlds, with various traditions dedicated to its complex study.
+
+The most common arcane traditions in the multiverse revolve around the schools of magic. Wizards through the ages have cataloged thousands of spells, grouping them into eight categories called schools. In some places, these traditions are literally schools. In other institutions, the schools are more like academic departments, with rival faculties competing for students and funding. Even wizards who train apprentices in the solitude of their own towers use the division of magic into schools as a learning device, since the spells of each school require mastery of different techniques.
+
+### Evocation
+
+You focus your study on magic that creates powerful elemental effects such as bitter cold, searing flame, rolling thunder, crackling lightning, and burning acid. Some evokers find employment in military forces, serving as artillery to blast enemy armies from afar. Others use their spectacular power to protect the weak, while some seek their own gain as bandits, adventurers, or aspiring tyrants. You gain the following game features.
+
+**_Evocation Savant_.** The Coin required to add evocation spells to your spellbook is halved.
+
+**_Sculpt Spells_.** You can create pockets of relative safety within the effects of your evocation spells. When you cast an evocation spell that affects other creatures that you can see, you can choose a number of them equal to 1 + the spell’s level. The chosen creatures automatically succeed on their ability checks against the spell, and they take no damage if they would normally take half damage on a successful check.
