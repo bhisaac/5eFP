@@ -4456,12 +4456,17 @@ The spell creates more than one beam when you reach higher levels: two beams at 
 
 You gain the service of a familiar, a spirit that takes the form of a critter with magic traits. Appearing in an unoccupied space within range, the familiar has the statistics of a minion unless otherwise indicated in its description in addition to the chosen form, though it is a celestial, fey, or elemental (your choice) instead of a beast. Your familiar's DEX checks for stealth and WIS checks related to perception gain advantage. Choose the familiar's form.
 
-- **_Amphibian_.** Your familiar takes the form of a frog or salamander. Your familiar breathes water and gains a swim speed of 6 squares.
-- **_Aquatic_.** Your familiar takes the form of a fish or octopus. Your familiar disappears if it spends more than 1 round outside of a body of water. It breathes water and gains a swim speed of 12 squares.
-- **_Aracnid_.** Your familiar takes the form of an eight-legged animal with a chitinous shell. Your arachnid familiar gains a climb speed of 6 squares.
-- **_Avian_.** Your familiar takes the form of a bird of prey and gains a fly speed of 12 squares.
-- **_Quadruped_.** Your familiar takes the form of a furry mammal with four limbs. Whenever you reveal an obscuring map tile while you are the group token controller, your familiar may also reveal an additional obscuring map tile up to 2 squares away.
-- **_Serpentes_.** Your familiar takes the form of a snake. Whenever your familiar successfully attacks a creature, it must make a CON check or gain the poisoned condition.
+**_Amphibian_.** Your familiar takes the form of a frog or salamander. Your familiar breathes water and gains a swim speed of 6 squares.
+
+**_Aquatic_.** Your familiar takes the form of a fish or octopus. Your familiar disappears if it spends more than 1 round outside of a body of water. It breathes water and gains a swim speed of 12 squares.
+
+**_Aracnid_.** Your familiar takes the form of an eight-legged animal with a chitinous shell. Your arachnid familiar gains a climb speed of 6 squares.
+
+**_Avian_.** Your familiar takes the form of a bird of prey and gains a fly speed of 12 squares.
+
+**_Quadruped_.** Your familiar takes the form of a furry mammal with four limbs. Whenever you reveal an obscuring map tile while you are the group token controller, your familiar may also reveal an additional obscuring map tile up to 2 squares away.
+
+**_Serpentes_.** Your familiar takes the form of a snake. Whenever your familiar successfully attacks a creature, it must make a CON check or gain the poisoned condition.
 
 Your familiar acts independently of you, but it always obeys your commands. In combat, it gains the same initiative and acts on your turn. A familiar can't attack unless you first discard your action. Similarly, a familiar can't take an opportunity attack unless you first discard your reaction. Your familiar can take other actions as normal, except your familiar's help action gains **_Rest 2_**.
 
