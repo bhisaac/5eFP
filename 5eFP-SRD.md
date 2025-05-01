@@ -1886,8 +1886,6 @@ You learn the _find familiar_ spell and can cast it as a ritual. The spell doesn
 
 When you cast the spell, you can choose one of the normal forms for your familiar or one of the following special forms: homunculus, pseudodragon, quasit, or sprite.
 
-Additionally, when you take the Attack action, you can forgo one of your own attacks to allow your familiar to make one attack of its own with its reaction.
-
 ### Pact of the Blade
 
 Discard your action to create a melee pact weapon lacking the two-handed property in your empty hand. You can choose the form this weapon takes each time you create it. You are proficient with it while you wield it. The weapon's damage type depends on the weapon's form: blades are piercing or slashing, and chains, hammers, and clubs are bludgeoning. You may use CHA instead of DEX or STR to make attack rolls with a pact weapon.
