@@ -5615,4 +5615,7 @@ The following upgrades provide additional ways to gain inspiration. Your setting
 |-:|:-|:-|
 |3⛁|Adaptable|...|
 
-**_Adaptable_.** If this feature does not modify one of your ability scores, choose an ability score unmodified by your ability score increase trait. The chosen ability score increases by +1. If you did not gain a feat when you gained this feature, you gain one feat.
+**_Adaptable_.** You gain the benefits of both human species' traits, though you do not gain a trait more than once:
+
+- Choose an ability score unmodified by your ability score increase trait. The chosen ability score increases by +1.
+- You gain one feat.
