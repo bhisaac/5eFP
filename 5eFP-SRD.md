@@ -1120,7 +1120,7 @@ See [Appendix UP-I](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#append
 
 ### Species Upgrades
 
-See [Appendix UP-S](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#appendix-up-s-species-upgrades) for default inspiration upgrades. Your setting handbook may provide additional inspiration and upgrades.
+See [Appendix UP-S](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#appendix-up-s-species-upgrades) for default species upgrades. Your setting handbook may provide additional species upgrades.
 
 # Alignment
 
