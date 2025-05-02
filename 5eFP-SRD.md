@@ -5613,7 +5613,7 @@ The following upgrades provide additional ways to gain inspiration. Your setting
 
 |**Cost**|**Feature**|**Details**|
 |-:|:-|:-|
-|3⛁|Adaptable|...|
+|4⛁|Adaptable|...|
 
 **_Adaptable_.** You gain the benefits of both human species' traits, though you do not gain a trait more than once:
 
