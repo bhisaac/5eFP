@@ -1106,15 +1106,15 @@ Once you reach level 4, the game state changes. You gain a level once all areas 
 
 While at HQ, you can spend Coin to purchase background, species, class, or other upgrades for your character. You can only purchase an upgrade once unless otherwise indicated in its description. An upgrade detail with three dots means its details are provided in the feature's description. If an upgrade grants a game feature your character already has, the upgraded version replaces it.
 
-## Background Upgrades
+### Background Upgrades
 
-See Appendix UP-B for default background upgrades. Your setting handbook may provide additional background upgrades.
+See [Appendix UP-B](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#appendix-up-b-background-upgrades) for default background upgrades. Your setting handbook may provide additional background upgrades.
 
-## Class Upgrades
+### Class Upgrades
 
 See [Appendix UP-C](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#appendix-up-c-class-upgrades) for default class upgrades. Your setting handbook may provide additional class upgrades.
 
-## Inspiration Upgrades
+### Inspiration Upgrades
 
 See [Appendix UP-I](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#appendix-up-i-inspiration-upgrades) for default inspiration upgrades. Your setting handbook may provide additional inspiration upgrades.
 
