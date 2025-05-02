@@ -1155,7 +1155,7 @@ These brief summaries of the nine alignments describe the typical behavior of a 
 
 **Neutral evil** (NE) is the alignment of those who do whatever they can get away with, without compassion or qualms. Many drow, some cloud giants, and goblins are neutral evil.
 
-**Chaotic evil** (CE) creatures act with arbitrary violence, spurred by their greed, hatred, or bloodlust. Demons, red dragons, and orcs are chaotic evil.
+**Chaotic evil** (CE) creatures act with arbitrary violence, spurred by their greed, hatred, or bloodlust. Gargoyles, red dragons, and orcs are chaotic evil.
 
 ### Alignment in the Multiverse
 For many thinking creatures, alignment is a moral choice. Humans, dwarves, elves, and other humanoid species can choose whether to follow the paths of good or evil, law or chaos. According to myth, the good-­aligned gods who created these races gave them free will to choose their moral paths, knowing that good without free will is slavery.
@@ -2650,7 +2650,7 @@ The damage types follow, with examples to help a GM assign a damage type to a ne
 
 **Bludgeoning.** Blunt force attacks—hammers, falling, constriction, and the like—deal bludgeoning damage.
 
-**Cold.** The infernal chill radiating from an ice devil’s spear and the frigid blast of a white dragon’s breath deal cold damage.
+**Cold.** The elemental chill radiating from an ice mephit’s claws and the frigid blast of a white dragon’s breath deal cold damage.
 
 **Fire.** Red dragons breathe fire, and many spells conjure flames to deal fire damage.
 
@@ -3877,8 +3877,6 @@ The game includes the following monster types, which have no rules of their own.
 
 **Fey** are magical creatures closely tied to the forces of nature. They dwell in twilight groves and misty forests. In some worlds, they are closely tied to the Feywild, also called the Plane of Faerie. Some are also found in the Outer Planes, particularly the planes of Arborea and the Beastlands. Fey include dryads, pixies, and satyrs.
 
-**Fiends** are creatures of wickedness that are native to the Lower Planes. A few are the servants of deities, but many more labor under the leadership of archdevils and demon princes. Evil priests and mages sometimes summon fiends to the material world to do their bidding. If an evil celestial is a rarity, a good fiend is almost inconceivable. Fiends include demons, devils, hell hounds, rakshasas, and yugoloths.
-
 **Giants** tower over humans and their kind. They are humanlike in shape, though some have multiple heads (ettins) or deformities (fomorians). The six varieties of true giant are hill giants, stone giants, frost giants, fire giants, cloud giants, and storm giants. Besides these, creatures such as ogres and trolls are giants.
 
 **Humanoids** are the main peoples of a fantasy gaming world, both civilized and savage, including humans and a tremendous variety of other species. They have language and culture, few if any innate magical abilities (though most humanoids can learn spellcasting), and a bipedal form. The most common humanoid species are the ones most suitable as player characters: humans, dwarves, elves, and halflings. Almost as numerous but far more savage and brutal, and almost uniformly evil, are the goblinoids (goblins, hobgoblins, and bugbears), orcs, gnolls, lizardfolk, and kobolds.
@@ -3893,7 +3891,7 @@ The game includes the following monster types, which have no rules of their own.
 
 #### Tags
 
-A monster might have one or more tags appended to its type, in parentheses. For example, an orc has the *humanoid (orc)* type. The parenthetical tags provide additional categorization for certain creatures. The tags have no rules of their own, but something in the game, such as a magic item, might refer to them. For instance, a spear that is especially effective at fighting demons would work against any monster that has the demon tag.
+A monster might have one or more tags appended to its type, in parentheses. For example, an orc has the *humanoid (orc)* type. The parenthetical tags provide additional categorization for certain creatures. The tags have no rules of their own, but something in the game, such as a magic item, might refer to them. For instance, a spear that is especially effective at fighting undead would work against any monster that has the undead tag.
 
 ### Alignment
 
