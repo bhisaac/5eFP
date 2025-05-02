@@ -736,7 +736,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
 ## Divine Sense (Action, Cooldown CHA + 1)
 
-The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. You open your awareness and detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 12 squares of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the _hallow_ spell.
+The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. You open your awareness and detect such forces. Until the end of your next turn, you know the location of any aberration or undead within 12 squares of you that is not behind total cover, but you do not know its identity (the vampire Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the _hallow_ spell.
 
 ## Lay on Hands (Action)
 
@@ -777,7 +777,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
 ## Favored Enemy
 
-You have significant experience studying, tracking, hunting, and even talking to a certain type of enemy. Choose a type of favored enemy: aberrations, beasts, celestials, constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead. Alternatively, you can select two species of humanoid (such as gnolls and orcs) as favored enemies.
+You have significant experience studying, tracking, hunting, and even talking to a certain type of enemy. Choose a type of favored enemy: aberrations, beasts, constructs, dragons, elementals, fey, giants, monstrosities, oozes, plants, or undead. Alternatively, you can select two species of humanoid (such as gnolls and orcs) as favored enemies.
 
 You have advantage on WIS checks to track your favored enemies, as well as on INT checks to recall information about them.
 
@@ -952,7 +952,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
 ## Otherworldly Patron
 
-You are in the service of an otherworldly being of your choice: the Fey, the Celestial, or the Primordial, each detailed at the end of the class description. Your choice grants you additional game features.
+You are in the service of an otherworldly being of your choice: the Fey, the Exile, or the Primordial, each detailed at the end of the class description. Your choice grants you additional game features.
 
 ## Pact Magic (Rest)
 
@@ -1141,7 +1141,7 @@ These brief summaries of the nine alignments describe the typical behavior of a 
 
 **Lawful good** (LG) creatures can be counted on to do the right thing as expected by society. Gold dragons, paladins, and most dwarves are lawful good.
 
-**Neutral good** (NG) folk do the best they can to help others according to their needs. Many celestials, some cloud giants, and most gnomes are neutral good.
+**Neutral good** (NG) folk do the best they can to help others according to their needs. Pseudodragons, some cloud giants, and most gnomes are neutral good.
 
 **Chaotic good** (CG) creatures act as their conscience directs, with little regard for what others expect. Copper dragons, many elves, and unicorns are chaotic good.
 
@@ -3590,7 +3590,7 @@ The spell creates more than one beam when you reach higher levels: two beams at 
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-You gain the service of a familiar, a spirit that takes the form of a critter with magic traits. Appearing in an unoccupied space within range, the familiar has the statistics of a minion unless otherwise indicated in its description in addition to the chosen form, though it is a celestial, fey, or elemental (your choice) instead of a beast. Your familiar's DEX checks for stealth and WIS checks related to perception gain advantage. Choose the familiar's form.
+You gain the service of a familiar, a spirit that takes the form of a critter with magic traits. Appearing in an unoccupied space within range, the familiar has the statistics of a minion unless otherwise indicated in its description in addition to the chosen form, though it is a fey or elemental (your choice) instead of a beast. Your familiar's DEX checks for stealth and WIS checks related to perception gain advantage. Choose the familiar's form.
 
 **_Amphibian_.** Your familiar takes the form of a frog or salamander. Your familiar breathes water and gains a swim speed of 6 squares.
 
@@ -3866,8 +3866,6 @@ The game includes the following monster types, which have no rules of their own.
 **Aberrations** are utterly alien beings. Many of them have innate magical abilities drawn from the creature’s alien mind rather than the mystical forces of the world. The quintessential aberrations are aboleths, beholders, mind flayers, and slaadi.
 
 **Beasts** are nonhumanoid creatures that are a natural part of the fantasy ecology. Some of them have magical powers, but most are unintelligent and lack any society or language. Beasts include all varieties of ordinary animals, dinosaurs, and giant versions of animals.
-
-**Celestials** are creatures native to the Upper Planes. Many of them are the servants of deities, employed as messengers or agents in the mortal realm and throughout the planes. Celestials are good by nature, so the exceptional celestial who strays from a good alignment is a horrifying rarity. Celestials include angels, couatls, and pegasi.
 
 **Constructs** are made, not born. Some are programmed by their creators to follow a simple set of instructions, while others are imbued with sentience and capable of independent thought. Golems are the iconic constructs. Many creatures native to the outer plane of Mechanus, such as modrons, are constructs shaped from the raw material of the plane by the will of more powerful creatures.
 
