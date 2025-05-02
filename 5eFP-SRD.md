@@ -1190,11 +1190,8 @@ Some of these languages are actually families of languages with many dialects. F
 |Language|Typical Speakers|Script|
 |:-|:-|:-|
 ||||
-|Abyssal|Demons|Infernal|
-|Celestial|Celestials|Celestial|
-|Draconic|Dragons, dragonborn|Draconic|
+|Draconic|Dragons, kobolds|Draconic|
 |Deep Speech|Aboleths, cloakers|--|
-|Infernal|Devils|Infernal|
 |Primordial|Elementals|Dwarvish|
 |Sylvan|Fey creatures|Elvish|
 |Undercommon|Underworld traders|Elvish|
