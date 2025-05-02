@@ -1098,15 +1098,25 @@ If you lose your spellbook, you can use the same procedure to transcribe the spe
 
 As you go on adventures and overcome challenges, you gain experience, represented by Coin. When all world map tiles in the current level of play are explored, the next level of play on the world map unlocks, and you advance to the next level. This is called gaining a level.
 
+> Whenever your level increases, you also increase your MAX wounds by +1.
+> 
+> Whenever your CON changes, recalculate your MAX wounds with the new CON score.
+
 Once you reach level 4, the game state changes. You gain a level once all areas in the current level of play are explored and resolved. Level 4 areas are located one floor above or below level 1 footholds and in the unresolved footholds found in level 1 world map tiles. Similarly, level 5 areas are located one floor above or below level 2 footholds and in the unresolved footholds found in level 2 world map tiles. Level 6 areas are located one floor above or below level 3 footholds and in the unresolved footholds found in level 3 world map tiles. Level 7 areas are located two floors above or below level 1 footholds.
 
-While at HQ, you can spend Coin to purchase background, species, class, or other upgrades for your character. The upgrade descriptions below detail these additional game features. You can only purchase an upgrade once unless otherwise indicated in its description. An upgrade detail with three dots means its details are provided in the feature's description. If an upgrade grants a game feature your character already has, the upgraded version replaces it.
+While at HQ, you can spend Coin to purchase background, species, class, or other upgrades for your character. You can only purchase an upgrade once unless otherwise indicated in its description. An upgrade detail with three dots means its details are provided in the feature's description. If an upgrade grants a game feature your character already has, the upgraded version replaces it.
 
-See Appendix UP-B for a complete list of background upgrades (TBA), [Appendix UP-C for class upgrades](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#appendix-up-c-class-upgrades), and [Appendix UP-I for inspiration upgrades](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#appendix-up-i-inspiration-upgrades).
+## Background Upgrades
 
-Whenever your level increases, you also increase your MAX wounds by +1.
+See Appendix UP-B for default background upgrades. Your setting handbook may provide additional background upgrades.
 
-Whenever your CON changes, recalculate your MAX wounds with the new CON score.
+## Class Upgrades
+
+See [Appendix UP-C](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#appendix-up-c-class-upgrades) for default class upgrades. Your setting handbook may provide additional class upgrades.
+
+## Inspiration Upgrades
+
+See [Appendix UP-I](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#appendix-up-i-inspiration-upgrades) for default inspiration upgrades. Your setting handbook may provide additional inspiration upgrades.
 
 # Alignment
 
