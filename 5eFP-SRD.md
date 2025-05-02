@@ -4787,7 +4787,20 @@ The following upgrades provide additional ways to gain inspiration. Your setting
 
 # Appendix UP-B: Background Upgrades
 
-TBA
+## Acolyte Upgrades
+
+Most acolytes never gain divine spellcasting. A rare few are rewarded for their devotion and service to their faith and receive a divine investiture of power, granting them the ability to cast cleric spells.
+
+|Cost|Feature|Details|
+|-:|:-|:-|
+|3⛁|Orison|...|
+|3⛁|Investment|...|
+
+**_Orison_.** You learn one cantrip from the cleric spell list.
+
+**_Investment (Cooldown)_.** When you purchase this game feature, you learn one 1st-level spell from the cleric spell list. You can use this feature to innately cast spells learned through this feature. WIS is your spellcasting stat for these spells. You use your WIS whenever these spells refer to your spellcasting ability. In addition, you use WIS when setting the DC for these spells (10 + WIS) and when making an attack roll (2 + WIS) with them.
+
+You can purchase this upgrade up to three times. Each additional time you purchase this upgrade, you increase this feature's cooldown by +1.
 
 # Appendix UP-C: Class Upgrades
 
