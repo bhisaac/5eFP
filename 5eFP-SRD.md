@@ -1151,7 +1151,7 @@ These brief summaries of the nine alignments describe the typical behavior of a 
 
 **Chaotic neutral** (CN) creatures follow their whims, holding their personal freedom above all else. Many barbarians and rogues, and some bards, are chaotic neutral.
 
-**Lawful evil** (LE) creatures methodically take what they want, within the limits of a code of tradition, loyalty, or order. Devils, blue dragons, and hobgoblins are lawful evil.
+**Lawful evil** (LE) creatures methodically take what they want, within the limits of a code of tradition, loyalty, or order. Efreeti, blue dragons, and hobgoblins are lawful evil.
 
 **Neutral evil** (NE) is the alignment of those who do whatever they can get away with, without compassion or qualms. Many drow, some cloud giants, and goblins are neutral evil.
 
@@ -1160,9 +1160,9 @@ These brief summaries of the nine alignments describe the typical behavior of a 
 ### Alignment in the Multiverse
 For many thinking creatures, alignment is a moral choice. Humans, dwarves, elves, and other humanoid species can choose whether to follow the paths of good or evil, law or chaos. According to myth, the good-­aligned gods who created these races gave them free will to choose their moral paths, knowing that good without free will is slavery.
 
-The evil deities who created other species, though, made those species to serve them. Those species have strong inborn tendencies that match the nature of their gods. Most orcs share the violent, savage nature of the orc gods, and are thus inclined toward evil. Even if an orc chooses a good alignment, it struggles against its innate tendencies for its entire life. (Even half-­orcs feel the lingering pull of the orc god’s influence.)
+The evil deities who created other species, though, made those species to serve them. Those species have strong inborn tendencies that match the nature of their gods. Most orcs share the violent, savage nature of the orc gods, and are thus inclined toward evil. Even if an orc chooses a good alignment, it struggles against its innate tendencies for its entire life. (Even those with a distant orc ancestor feel the lingering pull of the orc god’s influence.)
 
-Alignment is an essential part of the nature of celestials and fiends. A devil does not choose to be lawful evil, and it doesn’t tend toward lawful evil, but rather it is lawful evil in its essence. If it somehow ceased to be lawful evil, it would cease to be a devil.
+Alignment is sometimes an essential part of the nature of some creatures. An efreeti does not choose to be lawful evil, and it doesn’t tend toward lawful evil, but rather it is lawful evil in its essence. If it somehow ceased to be lawful evil, it would cease to be an efreeti.
 
 Most creatures that lack the capacity for rational thought do not have alignments—they are unaligned. Such a creature is incapable of making a moral or ethical choice and acts according to its bestial nature. Sharks are savage predators, for example, but they are not evil; they have no alignment.
 
