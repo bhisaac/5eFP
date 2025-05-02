@@ -1118,6 +1118,10 @@ See [Appendix UP-C](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#append
 
 See [Appendix UP-I](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#appendix-up-i-inspiration-upgrades) for default inspiration upgrades. Your setting handbook may provide additional inspiration upgrades.
 
+### Species Upgrades
+
+See Appendix UP-S for default inspiration upgrades. Your setting handbook may provide additional inspiration and upgrades.
+
 # Alignment
 
 A typical creature in the game world has an alignment, which broadly describes its moral and personal attitudes. Alignment is a combination of two factors: one identifies morality (good, evil, or neutral), and the other describes attitudes toward society and order (lawful, chaotic, or neutral). Thus, nine distinct alignments define the possible combinations.
@@ -4775,16 +4779,6 @@ Survival starts with recognizing that you don’t have all the answers and that 
 
 More: TBA.
 
-# Appendix UP-I: Inspiration Upgrades
-
-The following upgrades provide additional ways to gain inspiration. Your setting handbook may give you additional upgrades.
-
-|Cost|Feature|
-|-:|:-|
-|3⛁|**_Inspired Success (Cooldown)_.** You gain inspiration after resolving a critical success.|
-|3⛁|**_Inspired Failure (Cooldown)_.** You gain inspiration after resolving a critical failure.|
-|3⛁|**_Inspired Support (Cooldown)_.** If a game feature helps you succeed when you would have otherwise failed, you gain inspiration at the end of your turn.|
-
 # Appendix UP-B: Background Upgrades
 
 ## Acolyte Upgrades
@@ -5600,3 +5594,23 @@ You focus your study on magic that creates powerful elemental effects such as bi
 **_Evocation Savant_.** The Coin required to add evocation spells to your spellbook is halved.
 
 **_Sculpt Spells_.** You can create pockets of relative safety within the effects of your evocation spells. When you cast an evocation spell that affects other creatures that you can see, you can choose a number of them equal to 1 + the spell’s level. The chosen creatures automatically succeed on their ability checks against the spell, and they take no damage if they would normally take half damage on a successful check.
+
+# Appendix UP-I: Inspiration Upgrades
+
+The following upgrades provide additional ways to gain inspiration. Your setting handbook may give you additional upgrades.
+
+|Cost|Feature|
+|-:|:-|
+|3⛁|**_Inspired Success (Cooldown)_.** You gain inspiration after resolving a critical success.|
+|3⛁|**_Inspired Failure (Cooldown)_.** You gain inspiration after resolving a critical failure.|
+|3⛁|**_Inspired Support (Cooldown)_.** If a game feature helps you succeed when you would have otherwise failed, you gain inspiration at the end of your turn.|
+
+# Appendix UP-S: Species Upgrades
+
+## Human Upgrades
+
+|**Cost**|**Feature**|**Details**|
+|-:|:-|:-|
+|3⛁|Adaptable|...|
+
+**_Adaptable_.** Choose an ability score unmodified by your ability score increase trait and this game feature. The chosen ability score increases by +1 and you gain one feat.
