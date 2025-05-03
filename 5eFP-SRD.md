@@ -1567,7 +1567,7 @@ Made from supple and thin materials, light armor favors agile adventurers since 
 
 ### Medium Armor
 
-Medium armor offers more protection than light armor but also impairs movement more. Medium armor reduces any damage dealt to you by 1 and grants Bolster 1 at the start of an encounter, but the wearer has disadvantage on DEX checks related to moving silently. Your Defense while wearing medium armor equals 10 + DEX (maximum +2).
+Medium armor offers more protection than light armor but also impairs movement more. Medium armor reduces any damage dealt to you by 1 and grants bolster 1 at the start of an encounter, but the wearer has disadvantage on DEX checks related to moving silently. Your Defense while wearing medium armor equals 10 + DEX (maximum +2).
 
 ***Breastplate.*** This armor consists of a fitted metal chest piece worn with supple leather. Although it leaves the legs and arms relatively unprotected, this armor provides good protection for the wearer’s vital organs while leaving the wearer relatively unencumbered.
 
@@ -1883,23 +1883,25 @@ At certain levels, your class upgrades give you the Ability Score Improvement fe
 
 You must meet any prerequisite specified in a feat to take that feat. If you ever lose a feat’s prerequisite, you can’t use that feat until you regain the prerequisite. For example, the Grappler feat requires you to have a STR of +1 or higher. If your STR is reduced below +1 somehow—perhaps by a withering curse—you can’t benefit from the Grappler feat until your STR is restored.
 
-## Armor Training (Heavy)
+Some feats can be upgraded. If the option to upgrade is available, the upgrades are listed at the end of the feat's description.
+
+## Armor Training, Heavy (Encounter)
 
 _Prerequisite: Proficiency with medium armor_
 
-You gain proficiency with heavy armor and shields. At the beginning of each of your turns, if you are wearing heavy armor, you gain **bolster 1**. Unlike other sources of bolster, you may combine this bolster with another bolster once.
+You gain proficiency with heavy armor and shields. Starting on round 2, at the beginning of each of your turns, if you are wearing heavy armor, you gain **bolster 1**. Unlike other sources of bolster, you may combine the bolster from this feature with another bolster.
 
-- 3⛁: Permanently increase your bolster score granted through this feature by +1. You may choose this upgrade up to three times, but only once per level.
+- +3⛁: Permanently increase your bolster score granted through this feature by +1.
 
-## Armor Training (Medium)
+## Armor Training, Medium
 
 _Prerequisite: Proficiency with light armor_
 
-You gain proficiency with medium armor and shields. Increase your maximum DEX score allowed while wearing medium armor by +1. Medium armor no longer imposes disadvantage on DEX checks. Your Defense while wearing medium armor equals 10 + DEX (maximum +3).
+You gain proficiency with medium armor and shields. Medium armor no longer imposes disadvantage on DEX checks for moving silently. Your Defense while wearing medium armor equals 10 + DEX (maximum +3).
 
-- 3⛁: Your Defense while wearing medium armor equals 10 + DEX (maximum +4).
+- +3⛁: Your Defense while wearing medium armor equals 10 + DEX (maximum +4).
 
-## Armor Training (Light)
+## Armor Training, Light
 
 You gain proficiency with light armor and shields.
 
@@ -1911,11 +1913,17 @@ You’ve developed the skills necessary to hold your own in close-­quarters gra
 - You have advantage on attack rolls against a creature you are grappling.
 - You can use your action to try to pin a creature grappled by you. To do so, make another grapple check. If you succeed, you and the creature are both restrained until the grapple ends.
 
-## Touch of Magic
+## Touch of Magic (Cooldown)
 
-Choose a class with the spellcasting or pact magic game feature. You gain the ability to cast two cantrips from the chosen class. Choose a 1st level spell from the chosen class' spell list. You gain the ability to cast the chosen spell as a cooldown without spending any mana. If the chosen 1st-level spell appears on your 1st-level class spell list, you also add the spell as a known spell.
+Choose a class: bard, cleric, druid, sorcerer, warlock, or wizard. You gain the ability to cast two cantrips from the chosen class. Choose a 1st-level spell from the chosen class's spell list. You gain the ability to cast the chosen spell innately. If the chosen 1st-level spell also appears on your 1st-level class spell list, you also add the spell as a known spell.
 
-Your spellcasting ability score for these spells depends on the chosen class. INT for wizards, WIS for clerics and druids, and CHA for sorcerers and warlocks.
+Your spellcasting ability score for these spells depends on the chosen class. INT for wizards, WIS for clerics and druids, and CHA for sorcerers and warlocks. You use your spellcasting ability score when setting the DC for this cantrip (10 + spellcasting ability) and when making an attack roll (2 + spellcasting ability) with it.
+
+- +3⛁: You gain the ability to cast one additional cantrip from the chosen class's spell list.
+- +3⛁: You learn an additional 1st-level spell from the chosen class's spell list. Increase this feature's cooldown by +1. You can choose this upgrade up to two times.
+- +4⛁ \[prerequisite: level 2]: The cantrips provided through this feature deal +1 damage.
+- +10⛁ \[prerequisite: level 4]: The cantrips provided through this feature deal +2 damage.
+- +16⛁ \[prerequisite: level 6]: The cantrips provided through this feature deal +3 damage.
 
 # Using Ability Scores
 
