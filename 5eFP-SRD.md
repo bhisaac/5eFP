@@ -1891,7 +1891,7 @@ _Prerequisite: Proficiency with medium armor_
 
 You gain proficiency with heavy armor and shields. Starting on round 2, at the beginning of each of your turns, if you are wearing heavy armor, you gain **bolster 1**. Unlike other sources of bolster, you may combine the bolster from this feature with another bolster.
 
-- +3⛁: Permanently increase your bolster score granted through this feature by +1.
+- +3⛁: Increase the bolster score granted through this feature by +1.
 
 ## Armor Training, Medium
 
