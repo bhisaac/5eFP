@@ -4778,7 +4778,7 @@ More: TBA.
 
 ## Acolyte Upgrades
 
-Most acolytes never gain divine spellcasting. A rare few are rewarded for their devotion and service to their faith and receive a divine investiture of power, granting them the ability to cast cleric spells.
+Most acolytes never gain divine spellcasting. A rare few are rewarded for their devotion and service to their faith and receive a divine investiture of power, granting them the ability to innately cast cleric spells.
 
 |Cost|Feature|Details|
 |-:|:-|:-|
