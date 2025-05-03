@@ -1893,6 +1893,7 @@ You gain proficiency with heavy armor. Starting on round 2, at the beginning of 
 
 - +3⛁: Increase the bolster score granted through this feature by +1.
 - +3⛁: You gain the Shield (Reaction, Rest 2) feature while a shield is equipped.
+- +7⛁ \[prerequisite: level 3]: You gain the Shield (Reaction, Rest LEVEL) feature while a shield is equipped.
 
 ## Armor Training, Medium
 
