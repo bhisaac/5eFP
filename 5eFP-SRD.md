@@ -1892,18 +1892,23 @@ _Prerequisite: Proficiency with medium armor_
 You gain proficiency with heavy armor and shields. Starting on round 2, at the beginning of each of your turns, if you are wearing heavy armor, you gain **bolster 1**. Unlike other sources of bolster, you may combine the bolster from this feature with another bolster.
 
 - +3⛁: Increase the bolster score granted through this feature by +1.
+- +3⛁: You gain the Shield (Reaction, Rest 2) feature while a shield is equipped.
 
 ## Armor Training, Medium
 
 _Prerequisite: Proficiency with light armor_
 
-You gain proficiency with medium armor and shields. Medium armor no longer imposes disadvantage on DEX checks for moving silently. Your Defense while wearing medium armor equals 10 + DEX (maximum +3).
+You gain proficiency with medium armor and shields. Medium armor no longer imposes disadvantage on DEX checks for moving silently. Your base Defense while wearing medium armor becomes 10 + DEX (maximum +3).
 
-- +3⛁: Your Defense while wearing medium armor equals 10 + DEX (maximum +4).
+- +3⛁: Your base Defense while wearing medium armor becomes 10 + DEX (maximum +4).
+- +3⛁: You gain the Shield (Reaction, Rest 2) feature while a shield is equipped.
 
 ## Armor Training, Light
 
 You gain proficiency with light armor and shields.
+
+- +3⛁: You gain the Shield (Reaction, Rest 2) feature while a shield is equipped.
+- +3⛁: Your base Defense becomes 10 + DEX + LEVEL.
 
 ## Grappler
 
