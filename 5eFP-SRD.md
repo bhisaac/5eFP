@@ -1885,11 +1885,11 @@ You must meet any prerequisite specified in a feat to take that feat. If you eve
 
 Some feats can be upgraded. If the option to upgrade is available, the upgrades are listed at the end of the feat's description.
 
-## Armor Training, Heavy (Encounter)
+## Armor Training, Heavy
 
 _Prerequisite: Proficiency with medium armor_
 
-You gain proficiency with heavy armor and shields. Starting on round 2, at the beginning of each of your turns, if you are wearing heavy armor, you gain **bolster 1**. Unlike other sources of bolster, you may combine the bolster from this feature with another bolster.
+You gain proficiency with heavy armor. Starting on round 2, at the beginning of each of your turns, if you are wearing heavy armor, you gain **bolster 1**. Unlike other sources of bolster, you may combine the bolster from this feature with another bolster.
 
 - +3⛁: Increase the bolster score granted through this feature by +1.
 - +3⛁: You gain the Shield (Reaction, Rest 2) feature while a shield is equipped.
