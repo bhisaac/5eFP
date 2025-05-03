@@ -1893,7 +1893,7 @@ You gain proficiency with heavy armor. Starting on round 2, at the beginning of 
 
 - +3⛁: Increase the bolster score granted through this feature by +1.
 - +3⛁: You gain the Shield (Reaction, Rest 2) feature while a shield is equipped.
-- +7⛁ \[prerequisite: level 3]: You gain the Shield (Reaction, Rest LEVEL) feature while a shield is equipped.
+- +7⛁ \[level 3]: You gain the Shield (Reaction, Rest LEVEL) feature while a shield is equipped.
 
 ## Armor Training, Medium
 
@@ -1927,9 +1927,9 @@ Your spellcasting ability score for these spells depends on the chosen class. IN
 
 - +3⛁: You gain the ability to cast one additional cantrip from the chosen class's spell list.
 - +3⛁: You learn an additional 1st-level spell from the chosen class's spell list. Increase this feature's cooldown by +1. You can choose this upgrade up to two times.
-- +4⛁ \[prerequisite: level 2]: The cantrips provided through this feature deal +1 damage.
-- +10⛁ \[prerequisite: level 4]: The cantrips provided through this feature deal +2 damage.
-- +16⛁ \[prerequisite: level 6]: The cantrips provided through this feature deal +3 damage.
+- +4⛁ \[level 2]: The cantrips provided through this feature deal +1 damage.
+- +10⛁ \[level 4]: The cantrips provided through this feature deal +2 damage.
+- +16⛁ \[level 6]: The cantrips provided through this feature deal +3 damage.
 
 # Using Ability Scores
 
