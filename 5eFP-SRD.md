@@ -1889,7 +1889,7 @@ Some feats can be upgraded. If the option to upgrade is available, the upgrades 
 
 _Prerequisite: Proficiency with medium armor_
 
-You gain proficiency with heavy armor. Starting on round 2, at the beginning of each of your turns, if you are wearing heavy armor, you gain **bolster 1**. Unlike other sources of bolster, you may combine the bolster from this feature with another bolster.
+You gain proficiency with heavy armor. At the beginning of each of your turns, if you are wearing heavy armor, you gain **bolster 1**.
 
 - +3⛁: Increase the bolster score granted through this feature by +1.
 - +3⛁: You gain the Shield (Reaction, Rest 2) feature while a shield is equipped.
@@ -5039,6 +5039,20 @@ The archetypal Champion focuses on the development of raw physical power honed t
 
 # Eldritch Knight
 
+|Cost|Feature|Details|
+|-:|:-|:-|
+|2⛁|Magic|You begin a game session with 3 mana. You learn one abjuration or evocation spell from the wizard spell list.|
+|(Level 2) 4⛁|Magic|You begin a game session with 3 mana. You learn one abjuration or evocation spell from the wizard spell list.|
+|(Level 3) 8⛁|Magic|You begin a game session with 3 mana. You learn one abjuration or evocation spell from the wizard spell list.|
+|(Level 3) 8⛁|Magic|You begin a game session with 8 mana. You can cast 2nd-level spells. You learn one spell from the wizard spell list.|
+|(Level 4) 10⛁|Magic|You begin a game session with 10 mana. You learn one cantrip and one abjuration or evocation spell from the wizard spell list.|
+|(Level 4) 11⛁|Magic|You begin a game session with 10 mana. You learn one spell from the wizard spell list.|
+|(Level 5) 13⛁|Magic|You begin a game session with 10 mana. You can cast 3rd-level spells. You learn one abjuration or evocation spell from the wizard spell list.|
+|(Level 5) 14⛁|Magic|You begin a game session with 10 mana. You learn one abjuration or evocation spell from the wizard spell list.|
+|(Level 6) 16⛁|Magic|You begin a game session with 19 mana. You learn one abjuration or evocation spell from the wizard spell list.|
+|(Level 7) 19⛁|Magic|You begin a game session with 23 mana. You can cast 4th-level spells. You learn one abjuration or evocation spell from the wizard spell list.|
+|(Level 7) 20⛁|Magic|You begin a game session with 23 mana. You can cast 4th-level spells. You learn one spell from the wizard spell list.|
+
 The archetypal Eldritch Knight combines spellcasting with martial mastery common to all fighters. Eldritch Knights learn spells like wizards. Their attunement to martial mastery limits their magic studies to two of the eight schools of magic: abjuration and evocation. Abjuration spells protect, while evocation spells bring elemental energy to bear in combat, extending the fighter’s reach. These knights are dedicated to a few select spells, committing them to memory instead of keeping them in a spellbook.
 
 ## Spellcasting
@@ -5079,10 +5093,14 @@ You learn a ritual that creates a magical bond between yourself and one weapon. 
 
 - Your bonded weapon cannot be disarmed while you have it equipped unless you are incapacitated.
 - Your bonded weapon does not deplete.
-- This game feature considers shields a melee weapon with the thrown keyword and a range of up to 4 squares.
+- You can form a bond with up to one shield. This game feature considers a bonded shield a melee weapon with the thrown keyword and a range of up to 4 squares.
 - **_Summon Eldritch Weapon_.** If it is on the same plane of existence, you can summon a bonded weapon on your turn before or after discarding your action, causing it to teleport instantly to your hand.
 
 With this game feature, you can have up to two bonded weapons, but you can summon only one at a time. If you attempt to bond with a third weapon, you must break the bond with one of the other two.
+
+|Cost|Prerequisites|Details|
+|-:|:-|:-|:-|
+|5⛁|Level 2|Your non-magical eldritch weapons become magical with a +1 bonus to attack and damage while you have them equipped.|
 
 # Paladin Upgrades
 
