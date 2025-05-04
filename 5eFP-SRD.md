@@ -5084,6 +5084,8 @@ You learn a ritual that creates a magical bond between yourself and one weapon. 
 
 With this game feature, you can have up to two bonded weapons, but you can summon only one at a time. If you attempt to bond with a third weapon, you must break the bond with one of the other two.
 
+## Eldritch Knight Upgrades
+
 |Cost|Prerequisites|Feature|Details|
 |-:|:-:|:-|:-|
 |2⛁|-|Magic|You begin a game session with 3 mana. You learn one abjuration or evocation spell from the wizard spell list.|
