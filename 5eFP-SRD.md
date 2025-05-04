@@ -5039,20 +5039,6 @@ The archetypal Champion focuses on the development of raw physical power honed t
 
 # Eldritch Knight
 
-|Cost|Prerequisites|Feature|Details|
-|-:|:-|:-|:-|
-|2⛁|-|Magic|You begin a game session with 3 mana. You learn one abjuration or evocation spell from the wizard spell list.|
-|4⛁|Level 2|Magic|You begin a game session with 3 mana. You learn one abjuration or evocation spell from the wizard spell list.|
-|8⛁|Level 3|Magic|You begin a game session with 3 mana. You learn one abjuration or evocation spell from the wizard spell list.|
-|8⛁|Level 3|Magic|You begin a game session with 8 mana. You can cast 2nd-level spells. You learn one spell from the wizard spell list.|
-|10⛁|Level 4|Magic|You begin a game session with 10 mana. You learn one cantrip and one abjuration or evocation spell from the wizard spell list.|
-|11⛁|Level 4|Magic|You begin a game session with 10 mana. You learn one spell from the wizard spell list.|
-|13⛁|Level 5|Magic|You begin a game session with 10 mana. You can cast 3rd-level spells. You learn one abjuration or evocation spell from the wizard spell list.|
-|14⛁|Level 5|Magic|You begin a game session with 10 mana. You learn one abjuration or evocation spell from the wizard spell list.|
-|16⛁|Level 6|Magic|You begin a game session with 19 mana. You learn one abjuration or evocation spell from the wizard spell list.|
-|19⛁|Level 7|Magic|You begin a game session with 23 mana. You can cast 4th-level spells. You learn one abjuration or evocation spell from the wizard spell list.|
-|20⛁|Level 7|Magic|You begin a game session with 23 mana. You can cast 4th-level spells. You learn one spell from the wizard spell list.|
-
 The archetypal Eldritch Knight combines spellcasting with martial mastery common to all fighters. Eldritch Knights learn spells like wizards. Their attunement to martial mastery limits their magic studies to two of the eight schools of magic: abjuration and evocation. Abjuration spells protect, while evocation spells bring elemental energy to bear in combat, extending the fighter’s reach. These knights are dedicated to a few select spells, committing them to memory instead of keeping them in a spellbook.
 
 ## Spellcasting
@@ -5098,9 +5084,20 @@ You learn a ritual that creates a magical bond between yourself and one weapon. 
 
 With this game feature, you can have up to two bonded weapons, but you can summon only one at a time. If you attempt to bond with a third weapon, you must break the bond with one of the other two.
 
-|Cost|Prerequisites|Details|
-|-:|:-|:-|:-|
-|5⛁|Level 2|Your non-magical eldritch weapons become magical with a +1 bonus to attack and damage while you have them equipped.|
+|Cost|Prerequisites|Feature|Details|
+|-:|:-:|:-|:-|
+|2⛁|-|Magic|You begin a game session with 3 mana. You learn one abjuration or evocation spell from the wizard spell list.|
+|4⛁|Level 2|Magic|You begin a game session with 3 mana. You learn one abjuration or evocation spell from the wizard spell list.|
+|5⛁|Level 2||Your non-magical eldritch weapons become magical with a +1 bonus to attack and damage while you have them equipped.|
+|8⛁|Level 3|Magic|You begin a game session with 3 mana. You learn one abjuration or evocation spell from the wizard spell list.|
+|8⛁|Level 3|Magic|You begin a game session with 8 mana. You can cast 2nd-level spells. You learn one spell from the wizard spell list.|
+|10⛁|Level 4|Magic|You begin a game session with 10 mana. You learn one cantrip and one abjuration or evocation spell from the wizard spell list.|
+|11⛁|Level 4|Magic|You begin a game session with 10 mana. You learn one spell from the wizard spell list.|
+|13⛁|Level 5|Magic|You begin a game session with 10 mana. You can cast 3rd-level spells. You learn one abjuration or evocation spell from the wizard spell list.|
+|14⛁|Level 5|Magic|You begin a game session with 10 mana. You learn one abjuration or evocation spell from the wizard spell list.|
+|16⛁|Level 6|Magic|You begin a game session with 19 mana. You learn one abjuration or evocation spell from the wizard spell list.|
+|19⛁|Level 7|Magic|You begin a game session with 23 mana. You can cast 4th-level spells. You learn one abjuration or evocation spell from the wizard spell list.|
+|20⛁|Level 7|Magic|You begin a game session with 23 mana. You can cast 4th-level spells. You learn one spell from the wizard spell list.|
 
 # Paladin Upgrades
 
