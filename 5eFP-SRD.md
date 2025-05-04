@@ -4794,14 +4794,9 @@ More: TBA.
 
 Most acolytes never gain divine spellcasting. A rare few are rewarded for their devotion and service to their faith and receive a divine investiture of power, granting them the ability to innately cast cleric spells.
 
-|Cost|Feature|Details|
-|-:|:-|:-|
-|3⛁|Orison|...|
-|3⛁|Investment|...|
-
-**_Orison_.** When you purchase this game feature, you learn one cantrip from the cleric spell list. You use your WIS whenever this cantrip refers to your spellcasting ability. In addition, you use WIS when setting the DC for this cantrip (10 + WIS) and when making an attack roll (2 + WIS) with it.
-
-**_Investment (Cooldown)_.** When you purchase this game feature, you learn one 1st-level spell from the cleric spell list. You can use this feature to innately cast spells learned through this feature. WIS is your spellcasting stat for these spells. You use your WIS whenever these spells refer to your spellcasting ability. In addition, you use WIS when setting the DC for these spells (10 + WIS) and when making an attack roll (2 + WIS) with them. You can purchase this upgrade up to three times. Each additional time you purchase this upgrade, you increase this feature's cooldown by +1.
+|Cost|Details|
+|-:|:-|
+|4⛁|You gain the Touch of Magic feat, choosing the cleric class.|
 
 # Appendix UP-C: Class Upgrades
 
