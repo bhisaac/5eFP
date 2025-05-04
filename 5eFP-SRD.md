@@ -5039,19 +5039,19 @@ The archetypal Champion focuses on the development of raw physical power honed t
 
 # Eldritch Knight
 
-|Cost|Feature|Details|
-|-:|:-|:-|
-|2⛁|Magic|You begin a game session with 3 mana. You learn one abjuration or evocation spell from the wizard spell list.|
-|(Level 2) 4⛁|Magic|You begin a game session with 3 mana. You learn one abjuration or evocation spell from the wizard spell list.|
-|(Level 3) 8⛁|Magic|You begin a game session with 3 mana. You learn one abjuration or evocation spell from the wizard spell list.|
-|(Level 3) 8⛁|Magic|You begin a game session with 8 mana. You can cast 2nd-level spells. You learn one spell from the wizard spell list.|
-|(Level 4) 10⛁|Magic|You begin a game session with 10 mana. You learn one cantrip and one abjuration or evocation spell from the wizard spell list.|
-|(Level 4) 11⛁|Magic|You begin a game session with 10 mana. You learn one spell from the wizard spell list.|
-|(Level 5) 13⛁|Magic|You begin a game session with 10 mana. You can cast 3rd-level spells. You learn one abjuration or evocation spell from the wizard spell list.|
-|(Level 5) 14⛁|Magic|You begin a game session with 10 mana. You learn one abjuration or evocation spell from the wizard spell list.|
-|(Level 6) 16⛁|Magic|You begin a game session with 19 mana. You learn one abjuration or evocation spell from the wizard spell list.|
-|(Level 7) 19⛁|Magic|You begin a game session with 23 mana. You can cast 4th-level spells. You learn one abjuration or evocation spell from the wizard spell list.|
-|(Level 7) 20⛁|Magic|You begin a game session with 23 mana. You can cast 4th-level spells. You learn one spell from the wizard spell list.|
+|Cost|Prerequisites|Feature|Details|
+|-:|:-|:-|:-|
+|2⛁|-|Magic|You begin a game session with 3 mana. You learn one abjuration or evocation spell from the wizard spell list.|
+|4⛁|Level 2|Magic|You begin a game session with 3 mana. You learn one abjuration or evocation spell from the wizard spell list.|
+|8⛁|Level 3|Magic|You begin a game session with 3 mana. You learn one abjuration or evocation spell from the wizard spell list.|
+|8⛁|Level 3|Magic|You begin a game session with 8 mana. You can cast 2nd-level spells. You learn one spell from the wizard spell list.|
+|10⛁|Level 4|Magic|You begin a game session with 10 mana. You learn one cantrip and one abjuration or evocation spell from the wizard spell list.|
+|11⛁|Level 4|Magic|You begin a game session with 10 mana. You learn one spell from the wizard spell list.|
+|13⛁|Level 5|Magic|You begin a game session with 10 mana. You can cast 3rd-level spells. You learn one abjuration or evocation spell from the wizard spell list.|
+|14⛁|Level 5|Magic|You begin a game session with 10 mana. You learn one abjuration or evocation spell from the wizard spell list.|
+|16⛁|Level 6|Magic|You begin a game session with 19 mana. You learn one abjuration or evocation spell from the wizard spell list.|
+|19⛁|Level 7|Magic|You begin a game session with 23 mana. You can cast 4th-level spells. You learn one abjuration or evocation spell from the wizard spell list.|
+|20⛁|Level 7|Magic|You begin a game session with 23 mana. You can cast 4th-level spells. You learn one spell from the wizard spell list.|
 
 The archetypal Eldritch Knight combines spellcasting with martial mastery common to all fighters. Eldritch Knights learn spells like wizards. Their attunement to martial mastery limits their magic studies to two of the eight schools of magic: abjuration and evocation. Abjuration spells protect, while evocation spells bring elemental energy to bear in combat, extending the fighter’s reach. These knights are dedicated to a few select spells, committing them to memory instead of keeping them in a spellbook.
 
