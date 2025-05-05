@@ -5033,7 +5033,7 @@ You can push yourself beyond your normal limits for a moment. The next action yo
 
 ## Martial Archetype
 
-You choose an archetype that you strive to emulate in your combat styles and techniques, such as Champion or Eldritch Knight.
+You choose an archetype that you strive to emulate in your combat styles and techniques, such as Champion or Eldritch Knight. The archetypes are described at the end of this section.
 
 # Champion
 
