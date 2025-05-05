@@ -1106,23 +1106,7 @@ Once you reach level 4, the game state changes. You gain a level once all areas 
 
 While at HQ, you can spend Coin to purchase background, species, class, or other upgrades for your character. You can only purchase an upgrade once unless otherwise indicated in its description. An upgrade detail with three dots means its details are provided in the feature's description. If an upgrade grants a game feature your character already has, the upgraded version replaces it.
 
-The following are default upgrades. Your setting handbook may provide additional options.
-
-### Background Upgrades
-
-See [Appendix UP-B](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#appendix-up-b-background-upgrades) for background upgrades.
-
-### Class Upgrades
-
-See [Appendix UP-C](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#appendix-up-c-class-upgrades) for class upgrades.
-
-### Inspiration Upgrades
-
-See [Appendix UP-I](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#appendix-up-i-inspiration-upgrades) for inspiration upgrades.
-
-### Species Upgrades
-
-See [Appendix UP-S](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#appendix-up-s-species-upgrades) for species upgrades.
+See Appendix UP-A for 5eFP-SRD default upgrades. Your setting handbook may provide additional options.
 
 # Alignment
 
@@ -4788,28 +4772,54 @@ Survival starts with recognizing that you don’t have all the answers and that 
 
 More: TBA.
 
-# Appendix UP-B: Background Upgrades
+# Appendix UP-A: Upgrades
 
-## Acolyte Upgrades
+The following properties govern most upgrades.
+
+### Cost
+
+The number of Coin you spend to purchase an upgrade.
+
+### Prerequisites
+
+You must satisfy this upgrade prerequisite before purchasing it. You can satisfy a prerequisite at the same time that you purchase an upgrade.
+
+### Feature
+
+The name of the game feature. If you already have the game feature, replace it with the upgraded version.
+
+### Mana
+
+If an upgrade includes a Mana score, replace your Mana score with this number.
+
+### Details
+
+Some upgrades provide a simple description. More complicated upgrades have a "..." listing. This means the upgrade details are explained in its description.
+
+# Background Upgrades
+
+Background upgrades improve upon or provide new game features related to the upbringing and training you received before becoming an adventurer.
+
+# Acolyte
 
 Most acolytes never gain divine spellcasting. A rare few are rewarded for their devotion and service to their faith and receive a divine investiture of power, granting them the ability to innately cast cleric spells.
 
-|Cost|Details|
-|-:|:-|
-|4⛁|You gain the Touch of Magic feat, choosing the cleric class.|
+|Cost|Prerequisites|Feature|Details|
+|-:|:-:|:-|:-|
+|4⛁|||You gain the Touch of Magic feat, choosing the cleric class.|
 
-# Appendix UP-C: Class Upgrades
+# Class Upgrades
 
-# Barbarian Upgrades
+Class upgrades improve upon or unlock game features for your class.
 
-## Level 1
+# Barbarian
 
-|**Cost**|**Feature**|**Details**|
-|-:|:-|:-|
-|2⛁|Reckless Attack|...|
-|2⛁|Danger Sense|You gain advantage to DEX checks vs. effects you can see|
-|2⛁|Primal Path|...|
-|3⛁|Rage|You gain Rage (Encounter, Cooldown 3)|
+|Cost|Prerequisites|Feature|Details|
+|-:|:-:|:-|:-|
+|2⛁||Reckless Attack|...|
+|2⛁||Danger Sense|You gain advantage to DEX checks vs. effects you can see|
+|2⛁||Primal Path|...|
+|3⛁||Rage|You gain Rage (Encounter, Cooldown 3)|
 
 ## Reckless Attack
 
@@ -4854,15 +4864,13 @@ Your totem animal might be related to those listed here but more appropriate to 
 
 # Bard Upgrades
 
-## Level 1
-
-|**Cost**|**Feature**|**Details**|
-|-:|:-|:-|
-|2⛁|Jack of All Trades|Add +1 to nonproficient abilities|
-|2⛁|Song of Rest|You and your allies discard up to 1 wound when completing a rest|
-|3⛁|Magic|You start a game session with 4 Mana. You learn one spell from the bard spell list.|
-|3⛁|Bard College|...|
-|3⛁|Expertise|...|
+|Cost|Prerequisites|Mana|Feature|Details|
+|-:|:-:|:-:|:-|:-|
+|2⛁|||Jack of All Trades|Add +1 to nonproficient abilities|
+|2⛁|||Song of Rest|You and your allies discard up to 1 wound when completing a rest|
+|3⛁||4|Magic|You learn one spell from the bard spell list.|
+|3⛁|||Bard College|...|
+|3⛁|||Expertise|...|
 
 ## Bard College
 
@@ -4885,7 +4893,7 @@ You gain proficiency with one ability of your choice.
 You learn how to use your wit to distract, confuse, and otherwise sap the confidence and competence of others. When a creature you can see within 12 squares of you makes an attack roll or an ability check, you can expend one use of bardic action dice, rolling five action dice and subtracting the number from the creature’s roll. You can use this feature after the creature makes its roll, but before the GM determines whether the attack roll or ability check succeeds or fails, or before the creature deals its damage. The creature is immune if it can’t hear you or is immune to being charmed.
 
 > |Cost|Prerequisites|Feature|Details|
-> |-:|:-|:-|:-|
+> |-:|:-:|:-|:-|
 > |3⛁|Level 2|Additional Magic Secrets|...|
 > |2⛁|Level 5|Peerless Skill|...|
 > 
@@ -4903,12 +4911,10 @@ Gain proficiency with a non-proficient ability of your choice. Then choose two o
 
 # Cleric Upgrades
 
-## Level 1
-
-|**Cost**|**Feature**|**Details**|
-|-:|:-|:-|
-|3⛁|Channel Divinity (Rest)|...|
-|3⛁|Magic|You start a game session with 4 Mana. You learn one spell from your class spell list.|
+|Cost|Prerequisites|Mana|Feature|Details|
+|-:|:-:|:-:|:-|:-|
+|3⛁|||Channel Divinity (Rest)|...|
+|3⛁||4|Magic|You learn one spell from your class spell list.|
 
 ## Channel Divinity (Rest)
 
@@ -4926,13 +4932,11 @@ A turned creature must spend its turns trying to move as far away from you as it
 
 # Druid Upgrades
 
-## Level 1
-
-|**Cost**|**Feature**|**Details**|
-|-:|:-|:-|
-|2⛁|Wild Shape|...|
-|2⛁|Druid Circle|...|
-|3⛁|Magic|You begin a game session with 4 mana. You learn one spell from the druid spell list.|
+|Cost|Prerequisites|Mana|Feature|Details|
+|-:|:-:|:-:|:-|:-|
+|2⛁|||Wild Shape|...|
+|2⛁|||Druid Circle|...|
+|3⛁||4|Magic|You learn one spell from the druid spell list.|
 
 ## Wild Shape (Action, Rest 2)
 
@@ -4980,7 +4984,7 @@ The Circle of the Land is made up of mystics and sages who safeguard ancient kno
 
 Once you gain access to a circle spell, it becomes known. If you gain access to a spell that doesn’t appear on the druid spell list, the spell is nonetheless a druid spell for you.
 
-|**Land**|**Circle Spells**|
+|Land|Circle Spells|
 |:-|:-|
 |Arctic|_hold person_, _spike growth_|
 |Coast|_mirror image_, _misty step_|
@@ -5018,12 +5022,10 @@ The Circle of the Manyshaped are fierce wilderness protectors and powerful shape
 
 # Fighter Upgrades
 
-## Level 1
-
-|**Cost**|**Feature**|**Details**|
-|-:|:-|:-|
-|2⛁|Action Surge|...|
-|3⛁|Martial Archetype|...|
+|Cost|Prerequisites|Feature|Details|
+|-:|:-:|:-|:-|
+|2⛁||Action Surge|...|
+|3⛁||Martial Archetype|...|
 
 ## Action Surge (Rest)
 
@@ -5086,33 +5088,31 @@ With this game feature, you can have up to two bonded weapons, but you can summo
 
 ## Eldritch Knight Upgrades
 
-|Cost|Prerequisites|Feature|Mana|Details|
-|-:|:-:|:-:|:-:|:-|
-|2⛁|-|Magic|3|You learn one abjuration or evocation spell from the wizard spell list.|
-|4⛁|Level 2|Magic|3|You learn one abjuration or evocation spell from the wizard spell list.|
-|5⛁|Level 2|-|3|Your non-magical eldritch weapons become magical with a +1 bonus to attack and damage while you have them equipped.|
-|8⛁|Level 3|Magic|3|You learn one abjuration or evocation spell from the wizard spell list.|
-|8⛁|Level 3|Magic|8|You can cast 2nd-level spells. You learn one spell from the wizard spell list.|
-|10⛁|Level 4|Magic|10|You learn one cantrip and one abjuration or evocation spell from the wizard spell list.|
-|11⛁|Level 4|Magic|10|You learn one spell from the wizard spell list.|
-|13⛁|Level 5|Magic|10|You can cast 3rd-level spells. You learn one abjuration or evocation spell from the wizard spell list.|
-|14⛁|Level 5|Magic|10|You learn one abjuration or evocation spell from the wizard spell list.|
-|16⛁|Level 6|Magic|19|You learn one abjuration or evocation spell from the wizard spell list.|
-|19⛁|Level 7|Magic|23|You can cast 4th-level spells. You learn one abjuration or evocation spell from the wizard spell list.|
-|20⛁|Level 7|Magic|23|You learn one spell from the wizard spell list.|
+|Cost|Prerequisites|Mana|Feature|Details|
+|-:|:-:|:-:|:-|:-|
+|2⛁||3|Magic|You learn one abjuration or evocation spell from the wizard spell list.|
+|4⛁|Level 2|3|Magic|You learn one abjuration or evocation spell from the wizard spell list.|
+|5⛁|Level 2|3||Your non-magical eldritch weapons become magical with a +1 bonus to attack and damage while you have them equipped.|
+|8⛁|Level 3|3|Magic|You learn one abjuration or evocation spell from the wizard spell list.|
+|8⛁|Level 3|8|Magic|You can cast 2nd-level spells. You learn one spell from the wizard spell list.|
+|10⛁|Level 4|10|Magic|You learn one cantrip and one abjuration or evocation spell from the wizard spell list.|
+|11⛁|Level 4|10|Magic|You learn one spell from the wizard spell list.|
+|13⛁|Level 5|10|Magic|You can cast 3rd-level spells. You learn one abjuration or evocation spell from the wizard spell list.|
+|14⛁|Level 5|10|Magic|You learn one abjuration or evocation spell from the wizard spell list.|
+|16⛁|Level 6|19|Magic|You learn one abjuration or evocation spell from the wizard spell list.|
+|19⛁|Level 7|23|Magic|You can cast 4th-level spells. You learn one abjuration or evocation spell from the wizard spell list.|
+|20⛁|Level 7|23|Magic|You learn one spell from the wizard spell list.|
 
 # Paladin Upgrades
 
-## Level 1
-
-|**Cost**|**Feature**|**Details**|
-|-:|:-|:-|
-|2⛁|Fighting Style|...|
-|2⛁|Spellcasting|...|
-|2⛁|Divine Smite|...|
-|3⛁|Divine Health|You are immune to disease.|
-|3⛁|Magic|You begin a game session with 3 mana. You learn one spell from the paladin spell list.|
-|3⛁|Sacred Oath|...|
+|Cost|Prerequisites|Mana|Feature|Details|
+|-:|:-:|:-:|:-|:-|
+|2⛁|||Fighting Style|...|
+|2⛁|||Spellcasting|...|
+|2⛁|||Divine Smite|...|
+|3⛁|||Divine Health|You are immune to disease.|
+|3⛁||3|Magic|You learn one spell from the paladin spell list.|
+|3⛁|||Sacred Oath|...|
 
 ## Fighting Style
 
@@ -5210,7 +5210,7 @@ When you take this oath, you gain the following two Channel Divinity Options.
 
 You can end this effect on your turn as part of any other action. If you are no longer holding or carrying this weapon, or if you fall unconscious, this effect ends.
 
-**_Turn the Unholy_ (Action).** You present your holy symbol and speak a prayer censuring fiends and undead, using your Channel Divinity. Each fiend or undead that can see or hear you within 6 squares of you must make a WIS check. If the creature fails its check, it is turned until the end of the encounter or until it takes damage.
+**_Turn the Abhorrent_ (Action).** You present your holy symbol and speak a prayer censuring aberrations and undead, using your Channel Divinity. Each aberration or undead that can see or hear you within 6 squares of you must make a WIS check. If the creature fails its check, it is turned until the end of the encounter or until it takes damage.
 
 A turned creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 6 squares of you. It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.
 
@@ -5218,12 +5218,12 @@ A turned creature must spend its turns trying to move as far away from you as it
 
 ## Level 1
 
-|**Cost**|**Feature**|**Details**|
-|-:|:-|:-|
-|2⛁|Ki|...|
-|2⛁|Unormored Movement|...|
-|3⛁|Monastic Tradition|...|
-|3⛁|Deflect Missiles|...|
+|Cost|Prerequisites|Feature|Details|
+|-:|:-:|:-|:-|
+|2⛁||Ki|...|
+|2⛁||Unormored Movement|...|
+|3⛁||Monastic Tradition|...|
+|3⛁||Deflect Missiles|...|
 
 ## Ki (Rest 3)
 
@@ -5274,10 +5274,10 @@ Whenever you learn a new elemental discipline, you can also replace one elementa
 **_Casting Elemental Spells_.** Some elemental disciplines allow you to cast spells (see Spellcasting). Wisdom (WIS) is your spellcasting ability for your elemental discipline spells. Use your ki DC for spells that include an ability check and use 2 + WIS for your spell attack modifier. You can cast an elemental discipline spell with a spell level up to LEVEL.
 
 |Cost|Prerequisites|Feature|Details|
-|-:|:-|:-|:-|
-|3⛁|Level 2|Discipline|You learn an elemental discipline.|
-|2⛁|Level 4|Discipline|You learn an elemental discipline.|
-|2⛁|Level 6|Discipline|You learn an elemental discipline.|
+|-:|:-:|:-|:-|
+|3⛁|Level 2||You learn an additional elemental discipline.|
+|2⛁|Level 4||You learn an additional elemental discipline.|
+|2⛁|Level 6||You learn an additional elemental discipline.|
 
 ### Elemental Disciplines
 
@@ -5328,15 +5328,13 @@ You deflect or catch the piece of ammunition or missile when a ranged weapon att
 
 # Ranger Upgrades
 
-## Level 1
-
-|**Cost**|**Feature**|**Details**|
-|-:|:-|:-|
-|2⛁|Fighting Style|...|
-|2⛁|Spellcasting|...|
-|3⛁|Ranger Archetype|...|
-|3⛁|Primeval Awareness|...|
-|3⛁|Magic|You begin a game session with 3 mana. You learn one spell from the ranger spell list.|
+|Cost|Prerequisites|Mana|Feature|Details|
+|-:|:-:|:-:|:-|:-|
+|2⛁|||Fighting Style|...|
+|2⛁|||Spellcasting|...|
+|3⛁|||Ranger Archetype|...|
+|3⛁|||Primeval Awareness|...|
+|3⛁||3|Magic|You learn one spell from the ranger spell list.|
 
 ## Fighting Style
 
@@ -5406,31 +5404,21 @@ TBA
 
 # Sorcerer Upgrades
 
-## Level 1
+|Cost|Prerequisites|Mana|Feature|Details|
+|-:|:-:|:-:|:-|:-|
+|3⛁|||Sorcery|...|
+|3⛁||4|Magic|You learn one spell from the sorcerer spell list.|
+|3⛁|||Metamagic|...|
 
-|**Cost**|**Feature**|**Details**|
-|-:|:-|:-|
-|3⛁|Sorcery|...|
-|3⛁|Magic|You begin a game session with 4 mana. You learn one spell from the sorcerer spell list.|
-|3⛁|Metamagic|...|
-
-## Sorcery (Cooldown 3)
+## Sorcery (Cooldown 2 + LEVEL)
 
 You tap into a deep wellspring of magic within yourself allowing you to create a variety of magical effects.
-
-|Cost|Prerequisites|Feature|Details|
-|-:|:-|:-|:-|
-|3⛁|Level 2|Sorcery|You gain Sorcery (Cooldown 4)|
-|3⛁|Level 4|Sorcery|You gain Sorcery (Cooldown 5)|
-|3⛁|Level 6|Sorcery|You gain Sorcery (Cooldown 6)|
 
 ### Flexible Casting
 
 You can spend a use of your sorcery feature to gain additional mana, or sacrifice mana to replenish an expended use of your sorcery feature.
 
 Once per turn, you can either spend two uses of your sorcery feature to gain 2 mana or expend 2 mana to refresh one use of your sorcery feature.
-
-Any mana you create with this feature vanishes at the end of the game session.
 
 ## Metamagic
 
@@ -5477,13 +5465,11 @@ To be eligible, a spell must be incapable of targeting more than one creature at
 
 # Warlock Upgrades
 
-## Level 1
-
-|**Cost**|**Feature**|**Details**|
-|-:|:-|:-|
-|2⛁|Eldritch Invocations|...|
-|3⛁|Magic|You gain Pact Magic (Rest 2). Add +1 known spell from the warlock spell list.|
-|3⛁|Pact Boon|...|
+|Cost|Prerequisites|Feature|Details|
+|-:|:-:|:-|:-|
+|2⛁||Eldritch Invocations|...|
+|3⛁||Magic|You gain Pact Magic (Rest 2). Add +1 known spell from the warlock spell list.|
+|3⛁||Pact Boon|...|
 
 ## Eldritch Invocations
 
@@ -5593,12 +5579,10 @@ If you lose your Tome of Secrets, you can perform a ceremony to receive a replac
 
 # Wizard Upgrades
 
-## Level 1
-
-|**Cost**|**Feature**|**Details**|
-|-:|:-|:-|
-|2⛁|Arcane Tradition|...|
-|3⛁|Magic|You begin a game session with 4 mana. You learn one spell from the wizard spell list.|
+|Cost|Prerequisites|Mana|Feature|Details|
+|-:|:-:|:-:|:-|:-|
+|2⛁|||Arcane Tradition|...|
+|3⛁||4|Magic|You learn one spell from the wizard spell list.|
 
 ## Arcane Tradition
 
@@ -5616,7 +5600,7 @@ You focus your study on magic that creates powerful elemental effects such as bi
 
 **_Sculpt Spells_.** You can create pockets of relative safety within the effects of your evocation spells. When you cast an evocation spell that affects other creatures that you can see, you can choose a number of them equal to 1 + the spell’s level. The chosen creatures automatically succeed on their ability checks against the spell, and they take no damage if they would normally take half damage on a successful check.
 
-# Appendix UP-I: Inspiration Upgrades
+# Inspiration Upgrades
 
 The following upgrades provide additional ways to gain inspiration. Your setting handbook may give you additional upgrades.
 
@@ -5626,15 +5610,12 @@ The following upgrades provide additional ways to gain inspiration. Your setting
 |3⛁|**_Inspired Failure (Cooldown)_.** You gain inspiration after resolving a critical failure.|
 |3⛁|**_Inspired Support (Cooldown)_.** If a game feature helps you succeed when you would have otherwise failed, you gain inspiration at the end of your turn.|
 
-# Appendix UP-S: Species Upgrades
+# Species Upgrades
 
-## Human Upgrades
+Species upgrades improve or grant new game features through your innate and inborn qualities.
 
-|**Cost**|**Feature**|**Details**|
-|-:|:-|:-|
-|4⛁|Adaptable|...|
+# Human
 
-**_Adaptable_.** You gain the benefits of both human species' traits, though you do not gain a trait more than once:
-
-- Choose an ability score unmodified by your ability score increase trait. The chosen ability score increases by +1.
-- You gain one feat.
+|Cost|Prerequisites|Feature|Details|
+|-:|:-:|:-|:-|
+|4⛁||Adaptable|You gain the benefits of both human species' traits, though you do not gain a trait more than once|
