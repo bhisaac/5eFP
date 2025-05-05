@@ -4806,7 +4806,7 @@ Most acolytes never gain divine spellcasting. A rare few are rewarded for their 
 
 |Cost|Prerequisites|Feature|Details|
 |-:|:-:|:-|:-|
-|4⛁|||You gain the Touch of Magic feat, choosing the cleric class.|
+|4⛁|-|-|You gain the Touch of Magic feat, choosing the cleric class.|
 
 # Class Upgrades
 
@@ -4816,10 +4816,10 @@ Class upgrades improve upon or unlock game features for your class.
 
 |Cost|Prerequisites|Feature|Details|
 |-:|:-:|:-|:-|
-|2⛁||Reckless Attack|...|
-|2⛁||Danger Sense|You gain advantage to DEX checks vs. effects you can see|
-|2⛁||Primal Path|...|
-|3⛁||Rage|You gain Rage (Encounter, Cooldown 3)|
+|2⛁|-|Reckless Attack|...|
+|2⛁|-|Danger Sense|You gain advantage to DEX checks vs. effects you can see|
+|2⛁|-|Primal Path|...|
+|3⛁|-|Rage|You gain Rage (Encounter, Cooldown 3)|
 
 ## Reckless Attack
 
@@ -4866,11 +4866,11 @@ Your totem animal might be related to those listed here but more appropriate to 
 
 |Cost|Prerequisites|Mana|Feature|Details|
 |-:|:-:|:-:|:-|:-|
-|2⛁|||Jack of All Trades|Add +1 to nonproficient abilities|
-|2⛁|||Song of Rest|You and your allies discard up to 1 wound when completing a rest|
-|3⛁||4|Magic|You learn one spell from the bard spell list.|
-|3⛁|||Bard College|...|
-|3⛁|||Expertise|...|
+|2⛁|-|-|Jack of All Trades|Add +1 to nonproficient abilities|
+|2⛁|-|-|Song of Rest|You and your allies discard up to 1 wound when completing a rest|
+|3⛁|-|4|Magic|You learn one spell from the bard spell list.|
+|3⛁|-|-|Bard College|...|
+|3⛁|-|-|Expertise|...|
 
 ## Bard College
 
@@ -4913,8 +4913,8 @@ Gain proficiency with a non-proficient ability of your choice. Then choose two o
 
 |Cost|Prerequisites|Mana|Feature|Details|
 |-:|:-:|:-:|:-|:-|
-|3⛁|||Channel Divinity (Rest)|...|
-|3⛁||4|Magic|You learn one spell from your class spell list.|
+|3⛁|-|-|Channel Divinity (Rest)|...|
+|3⛁|-|4|Magic|You learn one spell from your class spell list.|
 
 ## Channel Divinity (Rest)
 
@@ -4934,9 +4934,9 @@ A turned creature must spend its turns trying to move as far away from you as it
 
 |Cost|Prerequisites|Mana|Feature|Details|
 |-:|:-:|:-:|:-|:-|
-|2⛁|||Wild Shape|...|
-|2⛁|||Druid Circle|...|
-|3⛁||4|Magic|You learn one spell from the druid spell list.|
+|2⛁|-|-|Wild Shape|...|
+|2⛁|-|-|Druid Circle|...|
+|3⛁|-|4|Magic|You learn one spell from the druid spell list.|
 
 ## Wild Shape (Action, Rest 2)
 
@@ -5024,8 +5024,8 @@ The Circle of the Manyshaped are fierce wilderness protectors and powerful shape
 
 |Cost|Prerequisites|Feature|Details|
 |-:|:-:|:-|:-|
-|2⛁||Action Surge|...|
-|3⛁||Martial Archetype|...|
+|2⛁|-|Action Surge|...|
+|3⛁|-|Martial Archetype|...|
 
 ## Action Surge (Rest)
 
@@ -5090,7 +5090,7 @@ With this game feature, you can have up to two bonded weapons, but you can summo
 
 |Cost|Prerequisites|Mana|Feature|Details|
 |-:|:-:|:-:|:-|:-|
-|2⛁||3|Magic|You learn one abjuration or evocation spell from the wizard spell list.|
+|2⛁|-|3|Magic|You learn one abjuration or evocation spell from the wizard spell list.|
 |4⛁|Level 2|3|Magic|You learn one abjuration or evocation spell from the wizard spell list.|
 |5⛁|Level 2|3||Your non-magical eldritch weapons become magical with a +1 bonus to attack and damage while you have them equipped.|
 |8⛁|Level 3|3|Magic|You learn one abjuration or evocation spell from the wizard spell list.|
@@ -5107,12 +5107,12 @@ With this game feature, you can have up to two bonded weapons, but you can summo
 
 |Cost|Prerequisites|Mana|Feature|Details|
 |-:|:-:|:-:|:-|:-|
-|2⛁|||Fighting Style|...|
-|2⛁|||Spellcasting|...|
-|2⛁|||Divine Smite|...|
-|3⛁|||Divine Health|You are immune to disease.|
-|3⛁||3|Magic|You learn one spell from the paladin spell list.|
-|3⛁|||Sacred Oath|...|
+|2⛁|-|-|Fighting Style|...|
+|2⛁|-|-|Spellcasting|...|
+|2⛁|-|-|Divine Smite|...|
+|3⛁|-|-|Divine Health|You are immune to disease.|
+|3⛁|-|3|Magic|You learn one spell from the paladin spell list.|
+|3⛁|-|-|Sacred Oath|...|
 
 ## Fighting Style
 
@@ -5220,10 +5220,10 @@ A turned creature must spend its turns trying to move as far away from you as it
 
 |Cost|Prerequisites|Feature|Details|
 |-:|:-:|:-|:-|
-|2⛁||Ki|...|
-|2⛁||Unormored Movement|...|
-|3⛁||Monastic Tradition|...|
-|3⛁||Deflect Missiles|...|
+|2⛁|-|Ki|...|
+|2⛁|-|Unormored Movement|...|
+|3⛁|-|Monastic Tradition|...|
+|3⛁|-|Deflect Missiles|...|
 
 ## Ki (Rest 3)
 
@@ -5275,9 +5275,9 @@ Whenever you learn a new elemental discipline, you can also replace one elementa
 
 |Cost|Prerequisites|Feature|Details|
 |-:|:-:|:-|:-|
-|3⛁|Level 2||You learn an additional elemental discipline.|
-|2⛁|Level 4||You learn an additional elemental discipline.|
-|2⛁|Level 6||You learn an additional elemental discipline.|
+|3⛁|Level 2|-|You learn an additional elemental discipline.|
+|2⛁|Level 4|-|You learn an additional elemental discipline.|
+|2⛁|Level 6|-|You learn an additional elemental discipline.|
 
 ### Elemental Disciplines
 
@@ -5330,11 +5330,11 @@ You deflect or catch the piece of ammunition or missile when a ranged weapon att
 
 |Cost|Prerequisites|Mana|Feature|Details|
 |-:|:-:|:-:|:-|:-|
-|2⛁|||Fighting Style|...|
-|2⛁|||Spellcasting|...|
-|3⛁|||Ranger Archetype|...|
-|3⛁|||Primeval Awareness|...|
-|3⛁||3|Magic|You learn one spell from the ranger spell list.|
+|2⛁|-|-|Fighting Style|...|
+|2⛁|-|-|Spellcasting|...|
+|3⛁|-|-|Ranger Archetype|...|
+|3⛁|-|-|Primeval Awareness|...|
+|3⛁|-|3|Magic|You learn one spell from the ranger spell list.|
 
 ## Fighting Style
 
@@ -5406,9 +5406,9 @@ TBA
 
 |Cost|Prerequisites|Mana|Feature|Details|
 |-:|:-:|:-:|:-|:-|
-|3⛁|||Sorcery|...|
-|3⛁||4|Magic|You learn one spell from the sorcerer spell list.|
-|3⛁|||Metamagic|...|
+|3⛁|-|-|Sorcery|...|
+|3⛁|-|4|Magic|You learn one spell from the sorcerer spell list.|
+|3⛁|-|-|Metamagic|...|
 
 ## Sorcery (Cooldown 2 + LEVEL)
 
@@ -5467,9 +5467,9 @@ To be eligible, a spell must be incapable of targeting more than one creature at
 
 |Cost|Prerequisites|Feature|Details|
 |-:|:-:|:-|:-|
-|2⛁||Eldritch Invocations|...|
-|3⛁||Magic|You gain Pact Magic (Rest 2). Add +1 known spell from the warlock spell list.|
-|3⛁||Pact Boon|...|
+|2⛁|-|Eldritch Invocations|...|
+|3⛁|-|Magic|You gain Pact Magic (Rest 2). Add +1 known spell from the warlock spell list.|
+|3⛁|-|Pact Boon|...|
 
 ## Eldritch Invocations
 
@@ -5581,8 +5581,8 @@ If you lose your Tome of Secrets, you can perform a ceremony to receive a replac
 
 |Cost|Prerequisites|Mana|Feature|Details|
 |-:|:-:|:-:|:-|:-|
-|2⛁|||Arcane Tradition|...|
-|3⛁||4|Magic|You learn one spell from the wizard spell list.|
+|2⛁|-|-|Arcane Tradition|...|
+|3⛁|-|4|Magic|You learn one spell from the wizard spell list.|
 
 ## Arcane Tradition
 
@@ -5618,4 +5618,4 @@ Species upgrades improve or grant new game features through your innate and inbo
 
 |Cost|Prerequisites|Feature|Details|
 |-:|:-:|:-|:-|
-|4⛁||Adaptable|You gain the benefits of both human species' traits, though you do not gain a trait more than once|
+|4⛁|-|Adaptable|You gain the benefits of both human species' traits, though you do not gain a trait more than once|
