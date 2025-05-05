@@ -1106,7 +1106,7 @@ Once you reach level 4, the game state changes. You gain a level once all areas 
 
 While at HQ, you can spend Coin to purchase background, species, class, or other upgrades for your character. You can only purchase an upgrade once unless otherwise indicated in its description. An upgrade detail with three dots means its details are provided in the feature's description. If an upgrade grants a game feature your character already has, the upgraded version replaces it.
 
-See Appendix UP-A for 5eFP-SRD default upgrades. Your setting handbook may provide additional options.
+See [Appendix UP-A](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#appendix-up-a-upgrades) for 5eFP-SRD default upgrades. Your setting handbook may provide additional options.
 
 # Alignment
 
