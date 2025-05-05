@@ -5080,7 +5080,7 @@ You learn a ritual that creates a magical bond between yourself and one weapon. 
 - Your bonded weapon cannot be disarmed while you have it equipped unless you are incapacitated.
 - Your bonded weapon does not deplete.
 - You can form a bond with up to one shield. This game feature considers a bonded shield a melee weapon with the thrown keyword and a range of up to 4 squares.
-- **_Summon Eldritch Weapon_.** If it is on the same plane of existence, you can summon a bonded weapon on your turn before or after discarding your action, causing it to teleport instantly to your hand.
+- **_Summon Eldritch Weapon (Encounter)_.** Once during your turn, if your bonded weapon is on the same plane of existence, you can summon it before or after discarding your action, causing it to teleport instantly to your hand.
 
 With this game feature, you can have up to two bonded weapons, but you can summon only one at a time. If you attempt to bond with a third weapon, you must break the bond with one of the other two.
 
