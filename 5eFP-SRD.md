@@ -5092,7 +5092,7 @@ With this game feature, you can have up to two bonded weapons, but you can summo
 |-:|:-:|:-:|:-|:-|
 |2⛁|-|3|Magic|You learn one abjuration or evocation spell from the wizard spell list.|
 |4⛁|Level 2|3|Magic|You learn one abjuration or evocation spell from the wizard spell list.|
-|5⛁|Level 2|3||Your non-magical eldritch weapons become magical with a +1 bonus to attack and damage while you have them equipped.|
+|5⛁|Level 2|3|-|Your non-magical eldritch weapons become magical with a +1 bonus to attack and damage while you have them equipped.|
 |8⛁|Level 3|3|Magic|You learn one abjuration or evocation spell from the wizard spell list.|
 |8⛁|Level 3|8|Magic|You can cast 2nd-level spells. You learn one spell from the wizard spell list.|
 |10⛁|Level 4|10|Magic|You learn one cantrip and one abjuration or evocation spell from the wizard spell list.|
