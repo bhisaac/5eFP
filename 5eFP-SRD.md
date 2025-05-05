@@ -4774,7 +4774,7 @@ More: TBA.
 
 # Appendix UP-A: Upgrades
 
-The following properties govern most upgrades.
+The following properties describe most upgrades.
 
 ### Cost
 
