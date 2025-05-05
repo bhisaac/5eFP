@@ -422,9 +422,9 @@ You have learned to untangle and reshape the fabric of reality in harmony with y
 
 You know two cantrips of your choice from the bard spell list.
 
-### Mana
+### Mana 2
 
-You begin a game session with 2 mana. To cast one of your spells, you must spend an amount of mana equal to the spell’s level or higher.
+To cast one of your spells, you must spend an amount of mana equal to the spell’s level or higher.
 
 For example, if you know the 1st-level spell _cure wounds_ and have 2 mana, you can spend 1 mana to cast _cure wounds_ as a 1st-level spell or 2 mana to cast it as a 2nd-level spell.
 
@@ -492,9 +492,9 @@ As a conduit for divine power, you can cast cleric spells.
 
 You know three cantrips of your choice from the cleric spell list.
 
-### Mana
+### Mana 2
 
-You begin a game session with 2 mana. To cast one of your spells, you must spend an amount of mana equal to the spell’s level or higher.
+To cast one of your spells, you must spend an amount of mana equal to the spell’s level or higher.
 
 For example, if you know the 1st-level spell _cure wounds_ and have 2 mana, you can spend 1 mana to cast _cure wounds_ as a 1st-level spell or 2 mana to cast it as a 2nd-level spell.
 
@@ -589,9 +589,9 @@ Drawing on the divine essence of nature itself, you can cast spells to shape tha
 
 You know two cantrips of your choice from the druid spell list.
 
-### Mana
+### Mana 2
 
-You begin a game session with 2 mana. To cast one of your spells, you must spend an amount of mana equal to the spell’s level or higher.
+To cast one of your spells, you must spend an amount of mana equal to the spell’s level or higher.
 
 For example, if you know the 1st-level spell _cure wounds_ and have 2 mana, you can spend 1 mana to cast _cure wounds_ as a 1st-level spell or 2 mana to cast it as a 2nd-level spell.
 
@@ -875,9 +875,9 @@ An event in your past, or in the life of a parent or ancestor, left an indelible
 
 You know four cantrips of your choice from the sorcerer spell list.
 
-### Mana
+### Mana 2
 
-You begin a game session with 2 mana. To cast one of your spells, you must spend an amount of mana equal to the spell’s level or higher.
+To cast one of your spells, you must spend an amount of mana equal to the spell’s level or higher.
 
 For example, if you know the 1st-level spell _burning hands_ and have 2 mana, you can spend 1 mana to cast _burning hands_ as a 1st-level spell or 2 mana to cast it as a 2nd-level spell.
 
@@ -1046,9 +1046,9 @@ As a student of arcane magic, you have a spellbook containing spells that show t
 
 You know three cantrips of your choice from the wizard spell list.
 
-### Mana
+### Mana 2
 
-You begin a game session with 2 mana. To cast one of your spells, you must spend an amount of mana equal to the spell’s level or higher.
+To cast one of your spells, you must spend an amount of mana equal to the spell’s level or higher.
 
 For example, if you know the 1st-level spell _magic missile_ and have 2 mana, you can spend 1 mana to cast _magic missile_ as a 1st-level spell or 2 mana to cast it as a 2nd-level spell.
 
@@ -5086,20 +5086,20 @@ With this game feature, you can have up to two bonded weapons, but you can summo
 
 ## Eldritch Knight Upgrades
 
-|Cost|Prerequisites|Feature|Details|
-|-:|:-:|:-|:-|
-|2⛁|-|Magic|You begin a game session with 3 mana. You learn one abjuration or evocation spell from the wizard spell list.|
-|4⛁|Level 2|Magic|You begin a game session with 3 mana. You learn one abjuration or evocation spell from the wizard spell list.|
-|5⛁|Level 2||Your non-magical eldritch weapons become magical with a +1 bonus to attack and damage while you have them equipped.|
-|8⛁|Level 3|Magic|You begin a game session with 3 mana. You learn one abjuration or evocation spell from the wizard spell list.|
-|8⛁|Level 3|Magic|You begin a game session with 8 mana. You can cast 2nd-level spells. You learn one spell from the wizard spell list.|
-|10⛁|Level 4|Magic|You begin a game session with 10 mana. You learn one cantrip and one abjuration or evocation spell from the wizard spell list.|
-|11⛁|Level 4|Magic|You begin a game session with 10 mana. You learn one spell from the wizard spell list.|
-|13⛁|Level 5|Magic|You begin a game session with 10 mana. You can cast 3rd-level spells. You learn one abjuration or evocation spell from the wizard spell list.|
-|14⛁|Level 5|Magic|You begin a game session with 10 mana. You learn one abjuration or evocation spell from the wizard spell list.|
-|16⛁|Level 6|Magic|You begin a game session with 19 mana. You learn one abjuration or evocation spell from the wizard spell list.|
-|19⛁|Level 7|Magic|You begin a game session with 23 mana. You can cast 4th-level spells. You learn one abjuration or evocation spell from the wizard spell list.|
-|20⛁|Level 7|Magic|You begin a game session with 23 mana. You can cast 4th-level spells. You learn one spell from the wizard spell list.|
+|Cost|Prerequisites|Feature|Mana|Details|
+|-:|:-:|:-:|:-:|:-|
+|2⛁|-|Magic|3|You learn one abjuration or evocation spell from the wizard spell list.|
+|4⛁|Level 2|Magic|3|You learn one abjuration or evocation spell from the wizard spell list.|
+|5⛁|Level 2|-|3|Your non-magical eldritch weapons become magical with a +1 bonus to attack and damage while you have them equipped.|
+|8⛁|Level 3|Magic|3|You learn one abjuration or evocation spell from the wizard spell list.|
+|8⛁|Level 3|Magic|8|You can cast 2nd-level spells. You learn one spell from the wizard spell list.|
+|10⛁|Level 4|Magic|10|You learn one cantrip and one abjuration or evocation spell from the wizard spell list.|
+|11⛁|Level 4|Magic|10|You learn one spell from the wizard spell list.|
+|13⛁|Level 5|Magic|10|You can cast 3rd-level spells. You learn one abjuration or evocation spell from the wizard spell list.|
+|14⛁|Level 5|Magic|10|You learn one abjuration or evocation spell from the wizard spell list.|
+|16⛁|Level 6|Magic|19|You learn one abjuration or evocation spell from the wizard spell list.|
+|19⛁|Level 7|Magic|23|You can cast 4th-level spells. You learn one abjuration or evocation spell from the wizard spell list.|
+|20⛁|Level 7|Magic|23|You learn one spell from the wizard spell list.|
 
 # Paladin Upgrades
 
