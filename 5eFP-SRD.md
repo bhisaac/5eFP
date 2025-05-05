@@ -4914,7 +4914,7 @@ Gain proficiency with a non-proficient ability of your choice. Then choose two o
 |Cost|Prerequisites|Mana|Feature|Details|
 |-:|:-:|:-:|:-|:-|
 |3⛁|-|-|Channel Divinity (Rest)|...|
-|3⛁|-|4|Magic|You learn one spell from your class spell list.|
+|3⛁|-|4|Magic|You learn one spell from the cleric spell list.|
 
 ## Channel Divinity (Rest)
 
