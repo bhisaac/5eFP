@@ -351,7 +351,7 @@ It’s hard to make generalizations about humans, but your human character has t
 
 |Cost|Prerequisites|Feature|Details|
 |-:|:-:|:-|:-|
-|4⛁|-|Adaptable|You gain the benefits of both human species' traits.|
+|4⛁|-|-|Your adaptable feature grants both species' traits.|
 
 # Barbarian
 
