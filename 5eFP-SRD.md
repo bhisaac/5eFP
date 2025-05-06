@@ -1686,7 +1686,7 @@ Additionally, when you gain a warlock level, you can choose one of the invocatio
 
 If an eldritch invocation has prerequisites, you must meet them to learn it. You can learn the invocation at the same time that you meet its prerequisites.
 
-If an eldritch invocation grants innate spellcasting, the spell uses your pact magic spell DC and spell attack modifier.
+If an eldritch invocation grants innate spellcasting, the spell uses your spell DC and spell attack modifier.
 
 ### Performance Blast
 
@@ -2691,7 +2691,7 @@ A feat represents a talent or an area of expertise that gives a character specia
 
 At certain levels, your class upgrades give you the Ability Score Improvement feature. You can forgo taking that feature to take a feat of your choice instead. You can take each feat only once, unless the feat’s description says otherwise and you can only gain one feat per level.
 
-You must meet any prerequisite specified in a feat to take that feat. If you ever lose a feat’s prerequisite, you can’t use that feat until you regain the prerequisite. For example, the Grappler feat requires you to have a STR of +1 or higher. If your STR is reduced below +1 somehow—perhaps by a withering curse—you can’t benefit from the Grappler feat until your STR is restored.
+You must meet any prerequisite specified in a feat to take that feat. If you ever lose a feat’s prerequisite, you can’t use that feat until you regain the prerequisite. For example, the Otherworldly Invocation feat requires you to have the spellcasting or pact magic feature. If your spellcasting or pact magic feature is suppressed or removed—perhaps by a dead magic zone—you can’t benefit from the Otherworldly Invocation feat until your the prerequisite is restored.
 
 Some feats can be upgraded. If the option to upgrade is available, the upgrades are listed at the end of the feat's description.
 
@@ -2727,13 +2727,13 @@ You gain proficiency with light armor and shields.
 |3⛁|-|-|Your base Defense while wearing light armor becomes 10 + DEX + LEVEL.|
 |3⛁|-|-|You gain the Shield (Reaction, Rest 2) feature while a shield is equipped.|
 
-## Grappler
+## Otherworldly Invocation
 
-_Prerequisite: STR +1 or higher_
+_Spellcasting or Pact Magic feature_
 
-You’ve developed the skills necessary to hold your own in close-­quarters grappling. You gain the following benefits:
-- You have advantage on attack rolls against a creature you are grappling.
-- You can use your action to try to pin a creature grappled by you. To do so, make another grapple check. If you succeed, you and the creature are both restrained until the grapple ends.
+You learn one Eldritch Invocation option from the warlock class through your study of arcane lore or an encounter with an otherworldly patron that invests a degree of power within you. If the invocation has a prerequisite of any kind, you can choose that invocation only if you're a warlock who meets the prerequisite.
+
+You can replace the invocation with another one from the warlock class whenever you gain a level.
 
 ## Touch of Magic (Cooldown)
 
@@ -3413,22 +3413,6 @@ You can avoid provoking an opportunity attack by taking the Disengage action. Yo
 When you take the Attack action and attack with a light weapon you're holding in one hand, you can make an additional attack with a different light weapon you're holding in the other hand.
 
 If either weapon can be used to make a ranged attack, you can throw it instead of making a melee attack.
-
-#### Grappling
-
-When you want to grab a creature or wrestle with it, you can use the Attack action to make a special melee attack, a grapple. If you’re able to make multiple attacks with the Attack action, this attack replaces one of them.
-
-The target of your grapple must be no more than one size larger than you and must be within your reach. Using at least one free hand, you try to seize the target by making a grapple check instead of an attack roll: a STR check contested by the target’s STR or DEX check (the target chooses the ability to use). If you succeed, you subject the target to the grappled condition (see appendix PH-­A). The condition specifies the things that end it, and you can release the target whenever you like (no action required).
-
-**Maintaining a Grapple.** You can maintain a grapple without taking an action, but doing so requires the continued use of your free hand.
-
-**Escaping a Grapple.** A grappled creature can use its action to escape. To do so, it must succeed on a STR or DEX check (the creature chooses the ability to use) contested by your STR check.
-
-**Moving a Grappled Creature.** When you move, you can drag or carry the grappled creature with you, but your speed is halved, unless the creature is two or more sizes smaller than you.
-
-> ### Contests in Combat
->>
->> Battle often involves pitting your prowess against that of your foe. Such a challenge is represented by a contest. This section includes the most common contests that require an action in combat: grappling and shoving a creature. The GM can use these contests as models for improvising others.
 
 #### Shoving a Creature
 
@@ -4871,20 +4855,15 @@ Some special abilities have restrictions on the number of times they can be used
 
 **Bolster X.** The notation "bolster X" means a monster gains a bolster pool equal to X.
 
-**X/encounter.** The notation "X/encounter" means a special ability or game feature can only be used X number of times during an encounter.
+**Encounter X.** The notation "Encounter X" means a special ability or game feature can be used X number of times during an encounter (minimum once).
 
-**X/session.** The notation “X/session” means a special ability or feature can only be used X number of times during one game session.
+**Cooldown X.** The notation “Cooldown X” means a special ability or feature can only be used X number of times during a game session (minimum once).
 
 **Recharge X–Y.** The notation “Recharge X–Y” means a monster can use a special ability once and that the ability then has a random chance of recharging during each subsequent round of combat. At the start of each of the monster’s turns, roll three action dice. If the number of actions equals one of the numbers in the recharge notation, the monster regains the use of the special ability. The ability also recharges when the monster finishes a Rest.
 
 For example, “Recharge 3–4” means a monster can use the special ability once. Then, at the start of the monster’s turn, it regains the use of that ability if it rolls 3 or 4 actions after rolling three action dice.
 
-**Recharge after a Rest.** This notation means that a monster can use a special ability once and then must finish a short rest to use it again.
-
->#### Grapple Rules for Monsters
->Many monsters have special attacks that allow them to quickly grapple prey. When a monster hits with such an attack, it doesn’t need to make an additional ability check to determine whether the grapple succeeds, unless the attack says otherwise.
->
->A creature grappled by the monster can use its action to try to escape. To do so, it must succeed on a contested STR check.
+**Rest X.** This notation means that a monster can use a special ability X number of times and then must finish a rest to use it again (minimum once).
 
 ### Equipment
 
@@ -5286,12 +5265,6 @@ The following definitions specify what happens to a creature while it is subject
 - A frightened creature has disadvantage on ability checks and attack rolls while the source of its fear is within LOS.
 - The creature can’t willingly move closer to the source of its fear.
 
-## Grappled
-
-- A grappled creature’s speed becomes 0, and it can’t benefit from any bonus to its speed.
-- The condition ends if the grappler is incapacitated (see the condition).
-- The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the _thunderwave_ spell.
-
 ## Incapacitated
 
 - An incapacitated creature can’t take actions or reactions.
@@ -5484,6 +5457,8 @@ The 5eFP community will continue listening, learning, and reflecting, individual
 
 (Complete list TBD)
  
+- No grapple rules. The rules are too crunchy and cumbersome, and players often end up simply grappling every round, which is no longer an interesting option for gameplay. And we don't need 5eFP to be hyper realistic with regard to combat. Combat needs to go smoothly and efficiently. Creatures can have a grab feature that mimic the grapple rules. PCs will have options to reduce creature movement without needing to use grapple rules.
+- Simple concentration rules. No need to roll concentration when you take damage. Spellcasters are trained and experienced with handling these situations by the spellcasting, pact magic, or another game feature that allows them to cast spells.
 - The action economy includes three options: the action, reaction, and object interaction. All three are discarded to fuel certain game features. Once discarded, they can no longer be used to fuel game features until they are regained. You regain a discarded action, reaction, and object interaction at the start of your turn or when an encounter ends.
 - Removed the bonus action.
     - Quality of life improvement for both PCs and GMs. The game doesn't need one more type of action to run smoothly. Reducing complexity and improving playability for new players, in particular. Bonus actions are revised and included within existing actions.
