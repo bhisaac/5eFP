@@ -1686,6 +1686,8 @@ Additionally, when you gain a warlock level, you can choose one of the invocatio
 
 If an eldritch invocation has prerequisites, you must meet them to learn it. You can learn the invocation at the same time that you meet its prerequisites.
 
+If an eldritch invocation grants innate spellcasting, the spell uses your pact magic spell DC and spell attack modifier.
+
 ### Performance Blast
 
 _Prerequisite: eldritch blast cantrip_
@@ -1694,19 +1696,13 @@ Your _eldritch blast_ spells deal +1 damage.
 
 ### Eldritch Armor (Action)
 
-_Innate Spellcasting_
-
 You can innately cast _mage armor_ on yourself at will.
 
 ### Beast Speech (Action)
 
-_Innate Spellcasting_
-
 You can innately cast _speak with animals_ at will.
 
 ### Beguiling Influence (Action, Cooldown)
-
-_Innate Spellcasting_
 
 You can innately cast _charm person_ without verbal or somatic components.
 
@@ -1722,7 +1718,7 @@ You can add other ritual spells to your Tome of Secrets on your adventures. When
 
 You see normally in magical darkness, and you can read all writing.
 
-### Eldritch Vigor
+### Eldritch Vigor (Encounter)
 
 At the beginning of an encounter, you gain bolster 1.
 
@@ -1732,13 +1728,9 @@ You touch a willing humanoid and perceive through its senses until the end of yo
 
 ### Mask of Many Faces
 
-_Innate Spellcasting_
-
 You can inately cast _disguise self_ at will.
 
 ### Misty Visions
-
-_Innate Spellcasting_
 
 You can inately cast _silent image_ at will.
 
@@ -1768,13 +1760,13 @@ You learn the _find familiar_ spell and can cast it as a ritual. The spell doesn
 
 When you cast the spell, you can choose one of the normal forms for your familiar or one of the following special forms: homunculus, pseudodragon, quasit, or sprite.
 
-### Pact of the Blade
+### Pact of the Blade (Action)
 
-Discard your action to create a melee pact weapon lacking the two-handed property in your empty hand. You can choose the form this weapon takes each time you create it. You are proficient with it while you wield it. The weapon's damage type depends on the weapon's form: blades are piercing or slashing, and chains, hammers, and clubs are bludgeoning. You may use CHA instead of DEX or STR to make attack rolls with a pact weapon.
+You create a melee pact weapon lacking the two-handed property in your empty hand. You can choose the form this weapon takes each time you create it. You are proficient with it while you wield it. The weapon's damage type depends on the weapon's form: blades are piercing or slashing, and chains, hammers, and clubs are bludgeoning. You may use CHA instead of DEX or STR to make attack rolls with a pact weapon.
 
-Your pact weapon disappears if it is more than 1 square away from you. It also disappears if you use this feature again, if you dismiss the weapon (no action required), or if you die.
+Your pact weapon disappears at the end of your turn if it is more than 1 square away from you. It also disappears if you use this feature again, if you dismiss the weapon (no action required), or if you die.
 
-You can transform one magic weapon into your pact weapon by performing a special ritual while you hold the weapon. You perform the ritual over the course of a rest. You can then dismiss the weapon, shunting it into an extradimensional space, and it appears whenever you create your pact weapon thereafter. You can’t affect an artifact or a sentient weapon in this way. The weapon ceases being your pact weapon if you die, if you perform the pact of the blade ritual on a different weapon, or if you use the ritual to break your bond to it. The weapon appears at your feet if it is in the extradimensional space when the bond breaks.
+You can transform one magic weapon into your pact weapon by performing a special ritual while you hold the weapon. You perform the ritual over the course of a rest. You can then dismiss the weapon, shunting it into an extradimensional space, and it appears whenever you create your pact weapon thereafter. You can’t affect an artifact or a sentient weapon in this way. The weapon ceases to be your pact weapon if you die, if you perform the pact of the blade ritual on a different weapon, or if you use the ritual to break your bond to it. The weapon appears at your feet if it is in the extradimensional space when the bond breaks.
 
 ### Pact of the Tome
 
