@@ -825,7 +825,7 @@ The Circle of the Manyshaped are fierce wilderness protectors and powerful shape
 
 > **_Pounce._** Whenever you take the Attack action, move at least 3 squares in a line toward a creature, and hit it with a melee attack, it must succeed on a DC (14 + LEVEL) STR check or be knocked prone. If the creature is prone, you can make one melee attack against it.
 
-**_Travel_.** Your movement changes to double your base speed. Once travel form is activated, the travel form can be reactivated on the exploration map anytime outside of an encounter until you Recall. When you reactivate travel form, set aside any wild shape form you are currently in. When travel form ends due to entering an encounter or taking 1 or more points of damage, you shift back into the wild shape form you set aside.
+**_Travel_.** Your movement changes to double your base speed. Once travel form is activated, the travel form can be reactivated on the exploration map anytime outside of an encounter until you Recall. When you reactivate travel form, set aside any wild shape form you are currently in and any wild shape wounds you may have. When travel form ends due to entering an encounter or taking 1 or more points of damage, you shift back into the wild shape form and regain your wild shape wounds you set aside earlier.
 
 # Fighter
 
