@@ -1930,7 +1930,9 @@ The following upgrades provide additional ways to gain inspiration. Your setting
 |3⛁|Inspired Failure (Cooldown)|You gain inspiration after resolving a critical failure.|
 |3⛁|Inspired Support (Cooldown)|...|
 
-**_Inspired Support (Cooldown)_.** If a game feature helps you succeed when you would have otherwise failed, you gain inspiration at the end of your turn.
+### Inspired Support (Cooldown)
+
+If a game feature helps you succeed when you would have otherwise failed, you gain inspiration at the end of your turn.
 
 # Alignment
 
