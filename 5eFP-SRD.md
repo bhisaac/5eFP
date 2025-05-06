@@ -351,7 +351,7 @@ It’s hard to make generalizations about humans, but your human character has t
 
 |Cost|Prerequisites|Feature|Details|
 |-:|:-:|:-|:-|
-|4⛁|-|Adaptable|You gain the benefits of both human species' traits, though you do not gain a trait more than once|
+|4⛁|-|Adaptable|You gain the benefits of both human species' traits.|
 
 # Barbarian
 
