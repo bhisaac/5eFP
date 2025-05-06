@@ -2701,9 +2701,11 @@ _Prerequisite: Proficiency with medium armor_
 
 You gain proficiency with heavy armor. At the beginning of each of your turns, if you are wearing heavy armor, you gain **bolster 1**.
 
-- +3⛁: Increase the bolster score granted through this feature by +1.
-- +3⛁: You gain the Shield (Reaction, Rest 2) feature while a shield is equipped.
-- +7⛁ \[level 3]: You gain the Shield (Reaction, Rest LEVEL) feature while a shield is equipped.
+|Cost|Prerequisites|Feature|Details|
+|-:|:-:|:-|:-|
+|3⛁|-|-|Increase the bolster score granted through this feature by +1.|
+|3⛁|-|-|You gain the Shield (Reaction, Rest 2) feature while a shield is equipped.|
+|3⛁|Level 3|-|You gain the Shield (Reaction, Rest LEVEL) feature while a shield is equipped.|
 
 ## Armor Training, Medium
 
@@ -2711,15 +2713,19 @@ _Prerequisite: Proficiency with light armor_
 
 You gain proficiency with medium armor and shields. Medium armor no longer imposes disadvantage on DEX checks for moving silently. Your base Defense while wearing medium armor becomes 10 + DEX (maximum +3).
 
-- +3⛁: Your base Defense while wearing medium armor becomes 10 + DEX (maximum +4).
-- +3⛁: You gain the Shield (Reaction, Rest 2) feature while a shield is equipped.
+|Cost|Prerequisites|Feature|Details|
+|-:|:-:|:-|:-|
+|3⛁|-|-|Your base Defense while wearing medium armor becomes 10 + DEX (maximum +4).|
+|3⛁|-|-|You gain the Shield (Reaction, Rest 2) feature while a shield is equipped.|
 
 ## Armor Training, Light
 
 You gain proficiency with light armor and shields.
 
-- +3⛁: You gain the Shield (Reaction, Rest 2) feature while a shield is equipped.
-- +3⛁: Your base Defense becomes 10 + DEX + LEVEL.
+|Cost|Prerequisites|Feature|Details|
+|-:|:-:|:-|:-|
+|3⛁|-|-|Your base Defense while wearing light armor becomes 10 + DEX + LEVEL.|
+|3⛁|-|-|You gain the Shield (Reaction, Rest 2) feature while a shield is equipped.|
 
 ## Grappler
 
@@ -2735,11 +2741,13 @@ Choose a class: bard, cleric, druid, sorcerer, warlock, or wizard. You gain the 
 
 Your spellcasting ability score for these spells depends on the chosen class. INT for wizards, WIS for clerics and druids, and CHA for sorcerers and warlocks. You use your spellcasting ability score when setting the DC for this cantrip (10 + spellcasting ability) and when making an attack roll (2 + spellcasting ability) with it.
 
-- +3⛁: You gain the ability to cast one additional cantrip from the chosen class's spell list.
-- +3⛁: You learn an additional 1st-level spell from the chosen class's spell list. Increase this feature's cooldown by +1. You can choose this upgrade up to two times.
-- +4⛁ \[level 2]: The cantrips provided through this feature deal +1 damage.
-- +10⛁ \[level 4]: The cantrips provided through this feature deal +2 damage.
-- +16⛁ \[level 6]: The cantrips provided through this feature deal +3 damage.
+|Cost|Prerequisites|Feature|Details|
+|-:|:-:|:-|:-|
+|3⛁|-|-|You gain the ability to cast one additional cantrip from the chosen class's spell list.|
+|3⛁|-|-|You learn an additional 1st-level spell from the chosen class's spell list. Increase this feature's cooldown by +1. You can choose this upgrade up to two times.|
+|4⛁|Level 2|-|The cantrips provided through this feature deal +1 damage.|
+|4⛁|Level 4|-|The cantrips provided through this feature deal +2 damage.|
+|4⛁|Level 6|-|The cantrips provided through this feature deal +3 damage.|
 
 # Using Ability Scores
 
