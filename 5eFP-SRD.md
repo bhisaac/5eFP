@@ -2741,7 +2741,7 @@ Whenever another creature hits you with a melee attack while you wield a weapon 
 
 ## Otherworldly Invocation
 
-_Prerequisite: spellcasting or Pact Magic feature_
+_Prerequisite: Spellcasting or Pact Magic feature_
 
 You learn one Eldritch Invocation option from the warlock class through your study of arcane lore or an encounter with an otherworldly patron who invests a degree of power within you. If the invocation has a prerequisite of any kind, you can choose that invocation only if you're a warlock who meets the prerequisite.
 
