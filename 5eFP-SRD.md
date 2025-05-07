@@ -409,7 +409,7 @@ You can throw aside all concern for protection to attack with fierce determinati
 
 ## Primal Path
 
-You choose a path that shapes the nature of your rage. Choose the Path of the Berserker or the Path of the Totem Warrior.
+You choose a path that shapes the nature of your rage. Choose the Path of the Berserker or the Path of the Spirit-Animal Warrior.
 
 ## Path of the Berserker
 
@@ -419,30 +419,32 @@ For some barbarians, rage is a means to an end. The Path of the Berserker is a p
 
 You can go into a frenzy when you rage. If you do so, for the duration of your rage, you can make a single melee weapon attack after you take the Attack action. When your rage ends, you suffer one level of exhaustion (as described in Appendix PH-­A).
 
-## Path of the Totem Warrior
+## Path of the Warden
 
-You forge a spiritual and inspired connection to an animal spirit who functions as a friend, guide, and protector. In battle, your totem spirit elevates your abilities, adding magical fuel to your barbarian rage.
+You forge a spiritual and inspired connection to an elemental spirit that takes the form of an animal, functioning as a friend, guide, and protector. In battle, your spirit guide enhances your abilities, adding a touch of magic to your barbarian rage.
 
 ### Spirit Seeker
 
-Yours is a path that seeks attunement with the natural world, giving you a kinship with beasts. You gain the ability to cast the _beast link_ and _speak with animals_ spells, but only as rituals (see _Spellcasting_).
+Yours is a path that seeks attunement with the natural world, giving you a kinship with beasts, and you learn primordial. You gain the ability to cast the _beast link_ and _speak with animals_ spells, but only as rituals (see _Spellcasting_).
 
-### Totem Spirit
+### Elemental Spirit
 
-When you adopt this path, you choose a totem spirit and gain its game feature. Your totem spirit either provides you with a physical totem object—an amulet or similar adornment—that incorporates fur or feathers, claws, teeth, or bones of the totem animal, or you gain subtle and minor physical characteristics that are reminiscent of your totem spirit. For example, if you have a bear totem spirit, you might be unusually hairy and tough, or if your totem is the eagle, your eyes gain a piercing quality or turn bright yellow.
+When you adopt this path, you choose an elemental spirit and gain its game feature. Your elemental spirit either provides you with a physical object that symbolically and mystically represents your bond—an amulet or similar adornment—that incorporates treasures of the natural world like crystals, stones, herbs, cuttings, fur, feathers, or other natural trinkets remenicant of your chosen elemental spirit.
 
-Your totem animal might be related to those listed here but more appropriate to your homeland. For example, you could choose a hawk or vulture instead of an eagle.
+Your elemental spirit might be related to those listed here, but more appropriate to your homeland. For example, you could choose an earth elemental, a sand elemental, or a mud elemental instead of an earth elemental.
 
-**_Bear_.** While raging, you have resistance to all damage except psychic damage. The spirit of the bear makes you tough enough to stand up to any punishment.
+**_Earth_.** While raging, you have resistance to all damage except psychic damage. The earth spirit makes you tough enough to stand up to any punishment.
 
-**_Eagle_.** The spirit of the eagle makes you into a predator who can weave through the fray with ease. You gain the following features while you're raging and aren't wearing heavy armor.
+**_Air_.** The air spirit makes you into a predator who can weave through the fray with ease. You gain the following features while you're raging and aren't wearing heavy armor.
 
 - Other creatures have disadvantage on opportunity attack rolls against you.
 - When you declare an Attack action on your turn, you may take the Dash action without discarding your action before or after making your attack.
 
-**_Wolf_.** While you're raging, allies within 1 square of you gain pact tactics. The spirit of the wolf makes you a leader of hunters.
+**_Water_.** While you're raging, allies within 1 square of you gain pact tactics. The water spirit makes you a leader of hunters.
 
 > **_Pack Tactics_.** You gain advantage on an attack roll against a creature if at least one of your allies is within 1 square of the creature and the ally isn’t incapacitated.
+
+**_Fire_.** TBA.
 
 # Bard
 
