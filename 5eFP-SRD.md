@@ -518,8 +518,8 @@ During its turn, the creature can roll any of your action dice and add the resul
 
 |Cost|Prerequisites|Mana|Feature|Details|
 |-:|:-:|:-:|:-|:-|
-|2⛁|-|-|Jack of All Trades|Add +1 to nonproficient abilities|
-|2⛁|-|-|Song of Rest|You and your allies discard up to 1 wound when completing a rest|
+|2⛁|-|-|Jack of All Trades|Add +1 to nonproficient abilities.|
+|2⛁|-|-|Song of Rest|You and your allies discard up to 1 wound when completing a rest.|
 |3⛁|-|4|Magic|You learn one spell from the bard spell list.|
 |3⛁|-|-|Bard College|...|
 |3⛁|-|-|Expertise|...|
@@ -2733,7 +2733,7 @@ You gain proficiency with light armor and shields.
 
 _Prerequisite: DEX +1 or higher_
 
-Whenever another creature hits you with a melee attack while you wield a weapon without the two-handed property with which you are proficient, you add LEVEL to your base Defense for that attack, potentially causing the attack to miss you.
+Whenever another creature hits you with a melee attack while you wield a weapon without the two-handed property with which you are proficient, you add LEVEL to your Defense for that attack, potentially causing the attack to miss you.
 
 |Cost|Prerequisites|Feature|Details|
 |-:|:-:|:-|:-|
