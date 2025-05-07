@@ -1435,8 +1435,8 @@ In addition, you understand a set of secret signs and symbols used to convey sho
 
 |Cost|Prerequisites|Feature|Details|
 |-:|:-:|:-|:-|
-|2⛁|-|-|Cunning Action|...|
-|3⛁|-|-|Roguish Archetype|...|
+|2⛁|-|Cunning Action|...|
+|3⛁|-|Roguish Archetype|...|
 
 ## Cunning Action
 
