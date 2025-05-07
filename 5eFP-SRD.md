@@ -2737,7 +2737,7 @@ Whenever another creature hits you with a melee attack while you wield a weapon 
 
 |Cost|Prerequisites|Feature|Details|
 |-:|:-:|:-|:-|
-|4⛁|-|Counter Strike|If the creature misses, you can make one melee attack against it.|
+|4⛁|-|-|If the creature misses, you can make one melee attack against it.|
 
 ## Otherworldly Invocation
 
