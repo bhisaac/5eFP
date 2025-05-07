@@ -1440,7 +1440,7 @@ In addition, you understand a set of secret signs and symbols used to convey sho
 
 ## Cunning Action
 
-Your quick thinking and agility allow you to move and act quickly. Once per turn, when you take an action requiring you to discard your action, you can take the Dash, Disengage, or Hide action before or after taking your action.
+Your quick thinking and agility allow you to move and act quickly. Once per turn, when you take an action requiring you to discard your action, you can take the Dash, Disengage, or Hide action before or after taking your action without needing to discard your action.
 
 ## Roguish Archetype
 
