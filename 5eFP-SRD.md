@@ -2729,11 +2729,17 @@ You gain proficiency with light armor and shields.
 |3⛁|-|-|Your base Defense while wearing light armor becomes 10 + DEX + LEVEL.|
 |3⛁|-|-|You gain the Shield (Reaction, Rest 2) feature while a shield is equipped.|
 
+## Defensive Duelist (Encounter, Reaction)
+
+_Prerequisite: DEX +1 or higher_
+
+Whenever another creature hits you with a melee attack while you wield a weapon without the two-handed property with which you are proficient, you add LEVEL to your Defense for that attack, potentially causing the attack to miss you.
+
 ## Otherworldly Invocation
 
-_Spellcasting or Pact Magic feature_
+_Prerequisite: spellcasting or Pact Magic feature_
 
-You learn one Eldritch Invocation option from the warlock class through your study of arcane lore or an encounter with an otherworldly patron that invests a degree of power within you. If the invocation has a prerequisite of any kind, you can choose that invocation only if you're a warlock who meets the prerequisite.
+You learn one Eldritch Invocation option from the warlock class through your study of arcane lore or an encounter with an otherworldly patron who invests a degree of power within you. If the invocation has a prerequisite of any kind, you can choose that invocation only if you're a warlock who meets the prerequisite.
 
 You can replace the invocation with another one from the warlock class whenever you gain a level.
 
