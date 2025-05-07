@@ -1433,7 +1433,30 @@ In addition, you understand a set of secret signs and symbols used to convey sho
 
 # Rogue Upgrades
 
-TBA
+|Cost|Prerequisites|Feature|Details|
+|-:|:-:|:-|:-|
+|2⛁|-|-|Cunning Action|...|
+|3⛁|-|-|Roguish Archetype|...|
+
+## Cunning Action
+
+Your quick thinking and agility allow you to move and act quickly. Once per turn, when you take an action requiring you to discard your action, you can take the Dash, Disengage, or Hide action before or after taking your action.
+
+## Roguish Archetype
+
+You choose an archetype that you emulate in the exercise of your rogue abilities, such as Thief.
+
+# Thief
+
+You hone your skills in the larcenous arts. Burglars, bandits, cutpurses, and other criminals typically follow this archetype, but so do rogues who prefer to think of themselves as professional treasure seekers, explorers, delvers, and investigators. In addition to improving your agility and stealth, you learn skills useful for delving into ancient ruins, reading unfamiliar languages, and using magic items you normally couldn’t employ.
+
+## Fast Hands
+
+You can use your Cunning Action to make a DEX check related to sleight of hand, use your thieves’ tools to disarm a trap or open a lock, or take the Use an Object action without needing to discard your action.
+
+## Second-Story Work
+
+You gain the ability to climb faster than normal; climbing no longer costs you extra movement. In addition, when you make a running jump, the distance you cover increases by +1 square.
 
 # Sorcerer
 
