@@ -2735,6 +2735,10 @@ _Prerequisite: DEX +1 or higher_
 
 Whenever another creature hits you with a melee attack while you wield a weapon without the two-handed property with which you are proficient, you add LEVEL to your Defense for that attack, potentially causing the attack to miss you.
 
+|Cost|Prerequisites|Feature|Details|
+|-:|:-:|:-|:-|
+|4⛁|-|Counter Strike|If this feature causes the creature to miss you, you can make one melee attack against that creature.|
+
 ## Otherworldly Invocation
 
 _Prerequisite: spellcasting or Pact Magic feature_
