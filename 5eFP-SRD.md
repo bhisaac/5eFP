@@ -2733,7 +2733,7 @@ You gain proficiency with light armor and shields.
 
 _Prerequisite: DEX +1 or higher_
 
-Whenever another creature hits you with a melee attack while you wield a weapon without the two-handed property with which you are proficient, you add LEVEL to your Defense for that attack, potentially causing the attack to miss you.
+Whenever another creature hits you with a melee attack while you wield a weapon without the two-handed property with which you are proficient, you add LEVEL to your base Defense for that attack, potentially causing the attack to miss you.
 
 |Cost|Prerequisites|Feature|Details|
 |-:|:-:|:-|:-|
