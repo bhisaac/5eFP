@@ -995,12 +995,13 @@ You start with the following equipment, in addition to the equipment granted by 
 
 While not wearing armor or wielding a shield, you add WIS (minimum 0) to your Defense.
 
-## Martial Arts
+## Martial Arts (Action)
+
+_Prerequisites: Unarmed or monk weapons only, no armor, no shield_
 
 Your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are shortswords and any simple melee weapons that don't have the two-handed or heavy property.
 
-You gain the following benefits while you are unarmed or wielding only monk weapons and you aren’t wearing armor or wielding a shield:
-- When you use the Attack action with an unarmed strike or a monk weapon on your turn, you can make one additional Attack with an unarmed strike. For example, if you take the Attack action and attack with a quarterstaff, you can also make an unarmed strike.
+You use your discarded action to take the Attack action with an unarmed strike or monk weapon. Immediately after making your attack, you can make one additional attack with an unarmed strike. For example, if you take the Attack action and attack with a quarterstaff, you can also make an unarmed strike.
 
 Certain monasteries use specialized forms of monk weapons. For example, you might use a club that is two lengths of wood connected by a short chain (called a nunchaku) or a sickle with a shorter, straighter blade (called a kama). Whatever name you use for a monk weapon, you can use the game statistics provided for the weapon.
 
@@ -1009,11 +1010,12 @@ Certain monasteries use specialized forms of monk weapons. For example, you migh
 |Cost|Prerequisites|Feature|Details|
 |-:|:-:|:-|:-|
 |2⛁|-|Ki|...|
+|2⛁|Ki feature|Ki|You gain the Ki (Rest 2) feature.|
 |2⛁|-|Unormored Movement|...|
 |3⛁|-|Monastic Tradition|...|
 |3⛁|-|Deflect Missiles|...|
 
-## Ki (Rest 3)
+## Ki (Rest)
 
 Your training allows you to harness the mystic energy of ki. You use this game feature to fuel various ki features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind.
 
@@ -1025,17 +1027,17 @@ Some of your ki features require your target to make an ability check to resist 
 
 Ki and ki features are considered magic and magical effects.
 
-### Flurry of Blows (Encounter, Ki)
+### Flurry of Blows (Action, Encounter, Ki)
 
-Immediately after you take the Attack action on your turn, you make two unarmed strikes.
+You use your discarded action to take the Attack action on your turn. Immediately after, you can make up to two unarmed strikes.
 
-### Patient Defense (Encounter, Ki)
+### Patient Defense (Encounter, Ki, Rest)
 
-You can take the Dodge action on your turn without discarding your action.
+You can take the Dodge action on your turn without discarding your action for the rest of the encounter.
 
-### Step of the Wind (Encounter, Ki)
+### Step of the Wind (Encounter, Ki, Rest)
 
-You can take the Disengage or Dash action on your turn without discarding your action, and your jump distance is doubled for the turn.
+You can take the Disengage or Dash action on your turn without discarding your action, and your jump distance is doubled for the rest of the encounter.
 
 ## Unarmored Movement
 
@@ -1082,33 +1084,33 @@ You briefly control elemental forces nearby, causing one of the following effect
 
 If you use this game feature multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can discard your action to dismiss such an effect.
 
-### Bending Fire
+### Bending Fire (Ki)
 
-When you use the Attack action on your turn, you can spend one use of your ki feature to infuse your fists and feet with elemental fire. Your reach with your unarmed strikes increases by 2 squares for that action, as well as the rest of the turn. A hit with such an attack deals fire damage instead of bludgeoning damage and an extra +1 fire damage.
+You can infuse your unarmed strikes with elemental fire, extending your reach by 2 squares for the rest of the encounter. A hit with such an attack deals fire damage instead of bludgeoning damage.
 
-### Bending Thunder (Action)
+### Bending Thunder (Action, Ki)
 
-You spend 2 uses of your ki feature to cast _thunderwave_.
+You cast _thunderwave_.
 
-### Air Blast (Action)
+### Air Blast (Action, Ki)
 
-You spend 2 uses of your ki feature, creating a blast of compressed air that strikes like a mighty fist. Choose a creature within 6 squares of you. That creature must make a STR check. On a failed save, the creature takes 3 bludgeoning damage, plus an extra 1 bludgeoning damage for each additional use of your ki feature you spend, and you can push the creature up to 4 squares away from you and knock it prone. On a successful check, the creature takes half as much damage, and you don’t push it or knock it prone.
+You create a blast of compressed air that strikes like a mighty fist. Choose a creature within 6 squares of you. That creature must make a STR check. On a failed save, the creature takes 2 bludgeoning damage, and you can push the creature up to 4 squares away from you and knock it prone. On a successful check, the creature takes half as much damage, and you don’t push it or knock it prone.
 
-### Bending Air (Action)
+### Bending Air (Action, Ki)
 
-You can spend 2 uses of your ki feature to cast _gust of wind_.
+You cast _gust of wind_.
 
-### Bending Water (Action)
+### Bending Water (Action, Ki)
 
-You spend 1 use of your ki feature to choose an area of ice or water no larger than 6 squares on a side within LOS of you. You can change water to ice within the area and vice versa, and you can reshape ice in the area in any manner you choose. You can raise or lower the ice’s elevation, create or fill in a trench, erect or flatten a wall, or form a pillar. The extent of any such changes can’t exceed 1 square. For example, you can create a pillar 1 square high, raise or lower the square’s elevation by 1 square, dig a 1 square deep trench, and so on. You can’t shape the ice to trap or injure a creature in the area.
+You choose an area of ice or water no larger than 6 squares on a side within LOS of you. You can change water to ice within the area and vice versa, and you can reshape ice in the area in any manner you choose. You can raise or lower the ice’s elevation, create or fill in a trench, erect or flatten a wall, or form a pillar. The extent of any such changes can’t exceed 1 square. For example, you can create a pillar 1 square high, raise or lower the square’s elevation by 1 square, dig a 1 square deep trench, and so on. You can’t shape the ice to trap or injure a creature in the area.
 
-### Sweeping Fire Strike (Action)
+### Sweeping Fire Strike (Action, Ki)
 
-You spend 2 uses of your ki feature to cast _burning hands_.
+You cast _burning hands_.
 
-### Water Whip
+### Water Whip (Action, Ki)
 
-When you take the Attack action, you may spend 2 uses of your ki feature to create a whip of water that shoves and pulls a creature to unbalance it. You can use this feature before or after making an attack. A creature you can see within 6 squares of you must make a DEX check. On a failed check, the creature takes 3 bludgeoning damage, plus an extra 1 bludgeoning damage for each additional use of your ki feature you spend, and you can either knock it prone or pull it up to 5 squares closer to you. On a successful check, the creature takes half as much damage, and you don’t pull it or knock it prone.
+You spend your discarded action to take the Attack action, creating a whip of water that shoves and pulls a creature to unbalance it. You can use this feature before or after making an attack. A creature you can see within 6 squares of you must make a DEX check. On a failed check, the creature takes 2 bludgeoning damage, and you can either knock it prone or pull it up to 5 squares closer to you. On a successful check, the creature takes half as much damage, and you don’t pull it or knock it prone.
 
 ## Way of the Open Hand
 
