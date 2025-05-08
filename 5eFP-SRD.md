@@ -1071,7 +1071,7 @@ Whenever you learn a new elemental discipline, you can also replace one elementa
 
 The elemental disciplines use your ki to produce magical effects and are presented in alphabetical order.
 
-### Elemental Attunement (Action, Encounter)
+### Elemental Attunement (Action)
 
 You briefly control elemental forces nearby, causing one of the following effects of your choice:
 
@@ -1100,7 +1100,15 @@ You can spend 2 uses of your ki feature to cast _gust of wind_.
 
 ### Bending Water (Action)
 
-You spend 1 use of your ki feature to choose an area of ice or water no larger than 6 squares on a side within LOS of you. You can change water to ice within the area and vice versa, and you can reshape ice in the area in any manner you choose. You can raise or lower the ice’s elevation, create or fill in a trench, erect or flatten a wall, or form a pillar. The extent of any such changes can’t exceed 1 square. For example, you can create a pillar 1 square high, raise or lower the square’s elevation by 1 quare, dig a 1 square deep trench, and so on. You can’t shape the ice to trap or injure a creature in the area.
+You spend 1 use of your ki feature to choose an area of ice or water no larger than 6 squares on a side within LOS of you. You can change water to ice within the area and vice versa, and you can reshape ice in the area in any manner you choose. You can raise or lower the ice’s elevation, create or fill in a trench, erect or flatten a wall, or form a pillar. The extent of any such changes can’t exceed 1 square. For example, you can create a pillar 1 square high, raise or lower the square’s elevation by 1 square, dig a 1 square deep trench, and so on. You can’t shape the ice to trap or injure a creature in the area.
+
+### Sweeping Fire Strike (Action)
+
+You spend 2 uses of your ki feature to cast _burning hands_.
+
+### Water Whip
+
+When you take the Attack action, you may spend 2 uses of your ki feature to create a whip of water that shoves and pulls a creature to unbalance it. You can use this feature before or after making an attack. A creature you can see within 6 squares of you must make a DEX check. On a failed check, the creature takes 3 bludgeoning damage, plus an extra 1 bludgeoning damage for each additional use of your ki feature you spend, and you can either knock it prone or pull it up to 5 squares closer to you. On a successful check, the creature takes half as much damage, and you don’t pull it or knock it prone.
 
 ## Way of the Open Hand
 
