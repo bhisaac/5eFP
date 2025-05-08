@@ -1010,12 +1010,12 @@ Certain monasteries use specialized forms of monk weapons. For example, you migh
 |Cost|Prerequisites|Feature|Details|
 |-:|:-:|:-|:-|
 |2⛁|-|Ki|...|
-|2⛁|Ki feature|Ki|You gain the Ki (Rest 2) feature.|
+|2⛁|Ki feature|Ki|You gain the Ki (Rest 3) feature.|
 |2⛁|-|Unormored Movement|...|
 |3⛁|-|Monastic Tradition|...|
 |3⛁|-|Deflect Missiles|...|
 
-## Ki (Rest)
+## Ki (Rest 2)
 
 Your training allows you to harness the mystic energy of ki. You use this game feature to fuel various ki features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind.
 
