@@ -1082,6 +1082,26 @@ You briefly control elemental forces nearby, causing one of the following effect
 
 If you use this game feature multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can discard your action to dismiss such an effect.
 
+### Bending Fire
+
+When you use the Attack action on your turn, you can spend one use of your ki feature to infuse your fists and feet with elemental fire. Your reach with your unarmed strikes increases by 2 squares for that action, as well as the rest of the turn. A hit with such an attack deals fire damage instead of bludgeoning damage and an extra +1 fire damage.
+
+### Bending Thunder (Action)
+
+You spend 2 uses of your ki feature to cast _thunderwave_.
+
+### Air Blast (Action)
+
+You spend 2 uses of your ki feature, creating a blast of compressed air that strikes like a mighty fist. Choose a creature within 6 squares of you. That creature must make a STR check. On a failed save, the creature takes 3 bludgeoning damage, plus an extra 1 bludgeoning damage for each additional use of your ki feature you spend, and you can push the creature up to 4 squares away from you and knock it prone. On a successful check, the creature takes half as much damage, and you don’t push it or knock it prone.
+
+### Bending Air (Action)
+
+You can spend 2 uses of your ki feature to cast _gust of wind_.
+
+### Bending Water (Action)
+
+You spend 1 use of your ki feature to choose an area of ice or water no larger than 6 squares on a side within LOS of you. You can change water to ice within the area and vice versa, and you can reshape ice in the area in any manner you choose. You can raise or lower the ice’s elevation, create or fill in a trench, erect or flatten a wall, or form a pillar. The extent of any such changes can’t exceed 1 square. For example, you can create a pillar 1 square high, raise or lower the square’s elevation by 1 quare, dig a 1 square deep trench, and so on. You can’t shape the ice to trap or injure a creature in the area.
+
 ## Way of the Open Hand
 
 Monks of the Way of the Open Hand are the ultimate masters of martial arts combat, whether armed or unarmed. They learn techniques to push and trip their opponents, manipulate ki to heal damage to their bodies, and practice advanced meditation that can protect them from harm.
