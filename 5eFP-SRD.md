@@ -1084,31 +1084,31 @@ You briefly control elemental forces nearby, causing one of the following effect
 
 If you use this game feature multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can discard your action to dismiss such an effect.
 
-### Bending Fire (Ki)
+### Bending Fire
 
 You can infuse your unarmed strikes with elemental fire, extending your reach by 2 squares for the rest of the encounter. A hit with such an attack deals fire damage instead of bludgeoning damage.
 
-### Bending Thunder (Action, Ki)
+### Bending Thunder (Action)
 
 You cast _thunderwave_.
 
-### Air Blast (Action, Ki)
+### Air Blast (Action)
 
 You create a blast of compressed air that strikes like a mighty fist. Choose a creature within 6 squares of you. That creature must make a STR check. On a failed save, the creature takes 2 bludgeoning damage, and you can push the creature up to 4 squares away from you and knock it prone. On a successful check, the creature takes half as much damage, and you don’t push it or knock it prone.
 
-### Bending Air (Action, Ki)
+### Bending Air (Action)
 
 You cast _gust of wind_.
 
-### Bending Water (Action, Ki)
+### Bending Water (Action)
 
 You choose an area of ice or water no larger than 6 squares on a side within LOS of you. You can change water to ice within the area and vice versa, and you can reshape ice in the area in any manner you choose. You can raise or lower the ice’s elevation, create or fill in a trench, erect or flatten a wall, or form a pillar. The extent of any such changes can’t exceed 1 square. For example, you can create a pillar 1 square high, raise or lower the square’s elevation by 1 square, dig a 1 square deep trench, and so on. You can’t shape the ice to trap or injure a creature in the area.
 
-### Sweeping Fire Strike (Action, Ki)
+### Sweeping Fire Strike (Action)
 
 You cast _burning hands_.
 
-### Water Whip (Action, Ki)
+### Water Whip (Action)
 
 You spend your discarded action to take the Attack action, creating a whip of water that shoves and pulls a creature to unbalance it. You can use this feature before or after making an attack. A creature you can see within 6 squares of you must make a DEX check. On a failed check, the creature takes 2 bludgeoning damage, and you can either knock it prone or pull it up to 5 squares closer to you. On a successful check, the creature takes half as much damage, and you don’t pull it or knock it prone.
 
@@ -1128,9 +1128,9 @@ You can manipulate your enemy’s ki when you harness your own. Whenever you hit
 
 Monks of the Way of Tranquility eschew and abstain from violence. They use diplomacy, mercy, and understanding to resolve conflicts. If pushed, though, they are capable warriors who can bring an end to the unjust or cruel folk who refuse to listen to reason. When adventuring, these monks make excellent diplomats. They are also skilled in the healing arts and can preserve their allies during challenging encounters.
 
-### Healing Hands (Ki)
+### Healing Hands (Action, Ki)
 
-You or an ally within reach discards up to LEVEL wounds. Alternatively, you can activate your Ki feature an additional two times to cure a touched creature, discarding one disease or discarding one poison affecting it. You can discard multiple diseases and poisons using this game feature, expending uses of your Ki feature separately for each one.
+You or an ally within reach discards up to LEVEL wounds. Alternatively, you can cure a touched creature, discarding one disease or one poison affecting it. You can discard additional wounds, multiple diseases, and poisons using this game feature, expending uses of your Ki feature separately for each one.
 
 When you use your Flurry of Blows, you can replace one of the unarmed strikes with a use of this game feature.
 
