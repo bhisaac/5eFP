@@ -1029,7 +1029,7 @@ Ki and ki features are considered magic and magical effects.
 
 ### Flurry of Blows (Action, Encounter, Ki)
 
-You use your discarded action to take the Attack action on your turn. Immediately after, you can make up to two unarmed strikes.
+You take the Attack action. Immediately after, you can make up to two unarmed strikes.
 
 ### Patient Defense (Encounter, Ki, Rest)
 
@@ -1037,7 +1037,7 @@ You can take the Dodge action on your turn without discarding your action for th
 
 ### Step of the Wind (Encounter, Ki, Rest)
 
-You can take the Disengage or Dash action on your turn without discarding your action, and your jump distance is doubled for the rest of the encounter.
+Once during your turn, you can take the Disengage or Dash action without discarding your action, and your jump distance is doubled for the rest of the encounter.
 
 ## Unarmored Movement
 
@@ -1110,7 +1110,7 @@ You cast _burning hands_.
 
 ### Water Whip (Action)
 
-You spend your discarded action to take the Attack action, creating a whip of water that shoves and pulls a creature to unbalance it. You can use this feature before or after making an attack. A creature you can see within 6 squares of you must make a DEX check. On a failed check, the creature takes 2 bludgeoning damage, and you can either knock it prone or pull it up to 5 squares closer to you. On a successful check, the creature takes half as much damage, and you don’t pull it or knock it prone.
+You take the Attack action, creating a whip of water that shoves and pulls a creature to unbalance it. You can use this feature before or after making an attack. A creature you can see within 6 squares of you must make a DEX check. On a failed check, the creature takes 2 bludgeoning damage, and you can either knock it prone or pull it up to 5 squares closer to you. On a successful check, the creature takes half as much damage, and you don’t pull it or knock it prone.
 
 ## Way of the Open Hand
 
