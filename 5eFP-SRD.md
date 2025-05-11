@@ -504,7 +504,7 @@ You can cast any bard spell you know as a ritual if that spell has the ritual ta
 
 ## Magic Performance
 
-Your bardic magic lets you use your voice or any instrument you wield more effectively. You roll with advantage whenever you make CHA checks with your voice or an instrument you're welding.
+Your bardic magic lets you use your voice or any instrument you wield more effectively. You roll with advantage whenever you make CHA checks with your voice or an instrument you're wielding.
 
 ## Bardic Action Dice (Cooldown CHA)
 
