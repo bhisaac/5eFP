@@ -5522,6 +5522,8 @@ The 5eFP community will continue listening, learning, and reflecting, individual
 
 (Complete list TBD)
  
+- Dropped all saving throws except death saves. Death saves will eventually morph into a different and similar mechanic, but we are keeping it for now.
+    - Use ability checks instead of saving throws. This makes it so much easier to teach new players and simplifies the character sheet!
 - No grapple rules. The rules are too crunchy and cumbersome, and players often end up simply grappling every round, which is no longer an interesting option for gameplay. And we don't need 5eFP to be hyper realistic with regard to combat. Combat needs to go smoothly and efficiently. Creatures can have a grab feature that mimic the grapple rules. PCs will have options to reduce creature movement without needing to use grapple rules.
 - Simple concentration rules. No need to roll concentration when you take damage. Spellcasters are trained and experienced with handling these situations by the spellcasting, pact magic, or another game feature that allows them to cast spells.
 - The action economy includes three options: the action, reaction, and object interaction. All three are discarded to fuel certain game features. Once discarded, they can no longer be used to fuel game features until they are regained. You regain a discarded action, reaction, and object interaction at the start of your turn or when an encounter ends.
