@@ -755,7 +755,7 @@ Wild shapes are divided into three primary forms: tough, stealthy, and travel.
 
 ### Tough
 
-You have 5 + LEVEL MAX wounds and Defense 11 while in tough form. Your size increases to large if it is not already, with a reach of 1 square. You gain Bolster LEVEL when you assume this form.
+You have 5 + LEVEL MAX wounds and Defense 11 while in tough form. Your size changes to large if it is not already, with a reach of 1 square. You gain Bolster LEVEL when you assume this form.
 
 ### Stealthy
 
