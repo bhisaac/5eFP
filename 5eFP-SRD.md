@@ -819,7 +819,7 @@ The Circle of the Manyshaped are fierce wilderness protectors and powerful shape
 
 **_Improved Wild Shape_.** You gain the Wild Shape (Rest 2) game feature. Your wild shape forms gain additional game features.
 
-> **_Regenerate_.** Once during your turn, when you take an action that discards your action, you may spend up to LEVEL mana to discard an equal number of wild shape form wounds before or after discarding your action.
+> **_Regenerate_.** Once during your turn, when you take an action, you may spend up to LEVEL mana to discard an equal number of wild shape form wounds before or after taking the action.
 
 **_Tough_.** You gain bolster LEVEL at the beginning of your turn. You can attack twice instead of once whenever you take the Attack action on your turn.
 
