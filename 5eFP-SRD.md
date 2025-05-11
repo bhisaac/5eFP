@@ -516,7 +516,7 @@ During its turn, the creature can roll any of your action dice and add the resul
 
 |Cost|Prerequisites|Mana|Feature|Details|
 |-:|:-:|:-:|:-|:-|
-|2⛁|-|-|Jack of All Trades|Add +1 to nonproficient abilities.|
+|2⛁|-|-|Jack of All Trades|Add +1 to nonproficient ability checks.|
 |2⛁|-|-|Song of Rest|You and your allies discard up to 1 wound when completing a rest.|
 |3⛁|-|4|Magic|You learn one spell from the bard spell list.|
 |3⛁|-|-|Bard College|...|
