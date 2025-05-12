@@ -5558,6 +5558,7 @@ The 5eFP community will continue listening, learning, and reflecting, individual
     - Healer: Once per turn, whenever you complete an action that targets a creature, you can choose a creature within 1 square of the target. The chosen creature discards up to 1 wound and can make an additional ability check to resist an ongoing negative effect.
 - Warlock changes
     - Changed class features, rephrasing them into neutral versions. The warlock is typically cast in a dark, occult frame. 5eFP departs from this and recreates the warlock as a neutral class that is neither inherently good nor evil.
+        - Pact of the Chain: Imp --> Humunculous, Quasit --> Tiny Elemental
         - The Fiendish Vigor --> Eldritch Vigor
         - Agonizing Blast --> Performance Blast
         - Book of Shadows --> Tome of Secrets
