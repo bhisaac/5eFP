@@ -5522,7 +5522,7 @@ The 5eFP community will continue listening, learning, and reflecting, individual
 
 (Complete list TBD)
  
-- Removed devils, demons, and celestials from the core game rules.
+- Celestials, demons, and devils were removed from the core game rules. They can be added back in a specific campaign setting handbook.
 - Dropped all saving throws except death saves. Death saves will eventually morph into a different and similar mechanic, but we are keeping it for now.
     - Use ability checks instead of saving throws. This makes it so much easier to teach new players and simplifies the character sheet!
 - No grapple rules. The rules are too crunchy and cumbersome, and players often end up simply grappling every round, which is no longer an interesting option for gameplay. And we don't need 5eFP to be hyper realistic with regard to combat. Combat needs to go smoothly and efficiently. Creatures can have a grab feature that mimic the grapple rules. PCs will have options to reduce creature movement without needing to use grapple rules.
