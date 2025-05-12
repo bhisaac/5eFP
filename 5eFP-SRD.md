@@ -5569,7 +5569,7 @@ The 5eFP community will continue listening, learning, and reflecting, individual
     - Patient Defense is more like a fighting stance, and has an encounter duration.
     - Step of the Wind is similarly stance-like and has an encounter duration.
     - Archetypes
-        - Added a 5eFP version of Way of the Elements
+        - Added a 5eFP version of Way of the Four Elements, simplified to "Way of the Elements"
         - Added a 5eFP version of Way of Tranquility
 - More TBA
 
