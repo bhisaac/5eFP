@@ -5522,6 +5522,7 @@ The 5eFP community will continue listening, learning, and reflecting, individual
 
 (Complete list TBD)
  
+- Removed devils, demons, and celestials from the core game rules.
 - Dropped all saving throws except death saves. Death saves will eventually morph into a different and similar mechanic, but we are keeping it for now.
     - Use ability checks instead of saving throws. This makes it so much easier to teach new players and simplifies the character sheet!
 - No grapple rules. The rules are too crunchy and cumbersome, and players often end up simply grappling every round, which is no longer an interesting option for gameplay. And we don't need 5eFP to be hyper realistic with regard to combat. Combat needs to go smoothly and efficiently. Creatures can have a grab feature that mimic the grapple rules. PCs will have options to reduce creature movement without needing to use grapple rules.
@@ -5555,6 +5556,20 @@ The 5eFP community will continue listening, learning, and reflecting, individual
     - Defender: You get extra defenses, act first before initiative is rolled, and impose the new taunt condition on adversaries, requiring them to include the Defender as a target as long as they are taunted.
     - Damage: Once per turn, whenever you complete an action that targets a creature, you can deal 1 damage to a creature within 1 square of the target.
     - Healer: Once per turn, whenever you complete an action that targets a creature, you can choose a creature within 1 square of the target. The chosen creature discards up to 1 wound and can make an additional ability check to resist an ongoing negative effect.
+- Warlock changes
+    - Changed class features, rephrasing them into neutral versions. The warlock is typically cast in a dark, occult frame. 5eFP departs from this and recreates the warlock as a neutral class that is neither inherently good nor evil.
+        - The Fiendish Vigor --> Eldritch Vigor
+        - Agonizing Blast --> Performance Blast
+        - Book of Shadows --> Tome of Secrets
+        - Occult --> Arcane
+        - The Fiend --> The Primordial
+- Monk changes
+    - Ki functions similarly to the warlock pact magic feature. Ki abilities are being augmented to be more worth activating and last longer.
+    - Patient Defense is more like a fighting stance, and has an encounter duration.
+    - Step of the Wind is similarly stance-like and has an encounter duration.
+    - Archetypes
+        - Added a 5eFP version of Way of the Elements
+        - Added a 5eFP version of Way of Tranquility
 - More TBA
 
 # Appendix FP-A: Running the Focus Practice
