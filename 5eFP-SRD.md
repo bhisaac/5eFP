@@ -1813,7 +1813,7 @@ Your otherworldly patron bestows a gift upon you for your loyal service. You gai
 
 You learn the _find familiar_ spell and can cast it as a ritual. The spell doesn’t count against your number of spells known.
 
-When you cast the spell, you can choose one of the normal forms for your familiar or one of the following special forms: homunculus, pseudodragon, or sprite.
+When you cast the spell, you can choose one of the normal forms for your familiar or one of the following special forms: homunculus, pseudodragon, tiny elemental, or sprite.
 
 ### Pact of the Blade (Action)
 
