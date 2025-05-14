@@ -74,7 +74,7 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Downtime_.** Downtime consists of downtime actions measured in rounds, including rest and repairs, research, spending Coin on HQ upgrades, or taking other actions between game sessions.
 
-**_Encounter_.** An encounter is a significant event within the game where the outcome of events is uncertain and is measured in rounds. PCs are awarded ⛁ when an encounter ends. Game features with the encounter keyword can only be used during an encounter.
+**_Encounter_.** An encounter is a significant event within the game where the outcome of events is uncertain and is measured in rounds. PCs are awarded ⛁ when an encounter ends. Game features with the encounter keyword can only be used during an encounter and persist until the end of the encounter.
 
 **_Encounter, Campfire_.** Campfire encounters are special encounters that grant the benefits of a rest without counting against the number of allowed rests in a game session, don't need a map to resolve, don't award Coin when completed, may include social interaction between PCs, may or may not include an actual campfire, and do not advance the time marker, revealing obscuring map tiles up to 3 squares away when finished.
 
@@ -112,7 +112,7 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Proficiencies_.** If you are proficient with a game feature, you can use it without penalty and add LEVEL to any attack or ability check you make using it. You can only add LEVEL to a proficiency once.
 
-**_Recall (Cooldown)_.** A PC is transported back to the HQ map room after finishing a special Recall ritual completed outside of an encounter. PCs instantaneously Recall when the time marker reaches 8.
+**_Recall (Cooldown)_.** A PC is transported back to the HQ map room after finishing a special Recall ritual completed outside of an encounter. All PCs instantly Recall when completing this ritual or whenever the time marker reaches 8. A game feature with the Recall keyword means the feature's effects persist until you Recall.
 
 **_Rest (Cooldown 2)_.** While deployed and not in an encounter, a group can choose to take a rest. A rest is a brief period of downtime, at least 1 hour long, during which a creature does nothing more strenuous than eating, drinking, reading, and tending to wounds. At the end of a rest, a creature discards up to LEVEL wounds and regains all uses of game features with the rest keyword. If a number follows the rest keyword, it represents the number of times the game feature can be used between rests, but no more than once per turn. Finishing a rest advances the time marker.
 
@@ -380,7 +380,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
 ## Rage (Encounter, Cooldown 2)
 
-In battle, you fight with primal ferocity. When you take the Attack action on your turn, you can choose to first enter into a rage for the rest of the encounter.
+In battle, you fight with primal ferocity. When you take the Attack action on your turn, you can choose to first enter into a rage.
 
 While raging, you gain the following benefits if you aren’t wearing armor:
 - You have advantage on STR checks.
@@ -669,7 +669,7 @@ Some Channel Divinity effects require ability checks. When you use such an effec
 
 ### Turn Undead (Action, Encounter)
 
-You present your holy symbol, speaking a prayer that censures undead. Each undead that can see or hear you within 6 squares of you must make a WIS check. If the creature fails its check, it is turned for the rest of the encounter or until it takes any damage.
+You present your holy symbol, speaking a prayer that censures undead. Each undead that can see or hear you within 6 squares of you must make a WIS check. If the creature fails its check, it is turned until it takes any damage.
 
 A turned creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 6 squares of you. It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.
 
@@ -1029,17 +1029,17 @@ Some of your ki features require your target to make an ability check to resist 
 
 Ki and ki features are considered magic and magical effects.
 
-### Flurry of Blows (Action, Encounter, Ki)
+### Flurry of Blows (Ki)
 
-You take the Attack action. Immediately after, you can make up to two unarmed strikes.
+Immediately after taking the Attack action, you can make up to two unarmed strikes.
 
 ### Patient Defense (Encounter, Ki, Rest)
 
-You can take the Dodge action on your turn without discarding your action for the rest of the encounter.
+Once during your turn, you can take the Dodge action without discarding your action.
 
 ### Step of the Wind (Encounter, Ki, Rest)
 
-Once during your turn, you can take the Disengage or Dash action without discarding your action, and your jump distance is doubled for the rest of the encounter.
+Once during your turn, you can take the Disengage or Dash action without discarding your action, and your jump distance is doubled.
 
 ## Unarmored Movement
 
@@ -1075,36 +1075,40 @@ Whenever you learn a new elemental discipline, you can also replace one elementa
 
 The elemental disciplines use your ki to produce magical effects and are presented in alphabetical order.
 
-### Elemental Attunement (Action)
+### Air Blast (Action, Ki)
+
+You create a blast of compressed air that strikes like a mighty fist. Choose a creature within 6 squares of you. That creature must make a STR check. On a failed save, the creature takes 2 bludgeoning damage, and you can push the creature up to 4 squares away from you and knock it prone. On a successful check, the creature takes half as much damage, and you don’t push it or knock it prone.
+
+### Bending Air (Encounter, Ki)
+
+Once during your turn, you can discard your action to take the Cast a Spell action, innately casting _gust of wind_.
+
+### Bending Earth (Encounter, Ki)
+
+Once during your turn, you can discard your action to choose an area of earth or stone no larger than 6 squares on a side within LOS of you. You can change earth into stone within the area and vice versa, and you can reshape earth and stone in the area in any manner you choose. You can raise or lower its elevation, move it, create or fill in a trench, erect or flatten a wall, or form a pillar. The extent of any such changes can’t exceed 1 square. For example, you can create a pillar 1 square high, move it by up to 1 square, dig a 1 square deep trench, and so on. You can’t shape the stone to trap or injure a creature in the area.
+
+### Bending Fire (Encounter, Ki)
+
+You can infuse your unarmed strikes with elemental fire, extending your reach by 2 squares for the rest of the encounter. A hit with such an attack deals fire damage instead of bludgeoning damage.
+
+### Bending Thunder (Ki)
+
+Once during your turn, you can discard your action to take the Cast a Spell action, innately casting _thunderwave_.
+
+### Bending Water (Encounter, Ki)
+
+You choose an area of ice or water no larger than 6 squares on a side within LOS of you. You can change water to ice within the area and vice versa, and you can reshape ice in the area in any manner you choose. You can raise or lower the ice’s elevation, create or fill in a trench, erect or flatten a wall, or form a pillar. The extent of any such changes can’t exceed 1 square. For example, you can create a pillar 1 square high, raise or lower the square’s elevation by 1 square, dig a 1 square deep trench, and so on. You can’t shape the ice to trap or injure a creature in the area.
+
+### Elemental Attunement (Action, Ki)
 
 You briefly control elemental forces nearby, causing one of the following effects of your choice:
 
 - Create a harmless, instantaneous sensory effect related to air, earth, fire, or water, such as a shower of sparks, a puff of wind, a spray of light mist, or a gentle rumbling of stone.
 - Instantaneously light or snuff out a candle, a torch, or a small campfire.
-- Chill or warm up to 1 pound of nonliving material until the end of the encounter.
-- Cause earth, fire, water, or mist that can fit within a 1-square cube to shape itself into a crude form you desig­nate until the end of the encounter.
+- Chill or warm up to 1 pound of nonliving material until you Recall.
+- Cause earth, stone, fire, water, or mist that can fit within a 1-square cube to shape itself into a crude form you desig­nate until you Recall.
 
 If you use this game feature multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can discard your action to dismiss such an effect.
-
-### Bending Fire
-
-You can infuse your unarmed strikes with elemental fire, extending your reach by 2 squares for the rest of the encounter. A hit with such an attack deals fire damage instead of bludgeoning damage.
-
-### Bending Thunder (Action)
-
-You cast _thunderwave_.
-
-### Air Blast (Action)
-
-You create a blast of compressed air that strikes like a mighty fist. Choose a creature within 6 squares of you. That creature must make a STR check. On a failed save, the creature takes 2 bludgeoning damage, and you can push the creature up to 4 squares away from you and knock it prone. On a successful check, the creature takes half as much damage, and you don’t push it or knock it prone.
-
-### Bending Air (Action)
-
-You cast _gust of wind_.
-
-### Bending Water (Action)
-
-You choose an area of ice or water no larger than 6 squares on a side within LOS of you. You can change water to ice within the area and vice versa, and you can reshape ice in the area in any manner you choose. You can raise or lower the ice’s elevation, create or fill in a trench, erect or flatten a wall, or form a pillar. The extent of any such changes can’t exceed 1 square. For example, you can create a pillar 1 square high, raise or lower the square’s elevation by 1 square, dig a 1 square deep trench, and so on. You can’t shape the ice to trap or injure a creature in the area.
 
 ### Sweeping Fire Strike (Action)
 
@@ -1138,9 +1142,9 @@ When you use your Flurry of Blows, you can replace one of the unarmed strikes wi
 
 This game feature has no effect on undead and constructs.
 
-### Path of Tranquility (Encounter, Rest)
+### Path of Tranquility (Recall, Rest, Ki)
 
-You innately cast _sanctuary_ on yourself with a duration of Recall. A creature that succeeds on its WIS check is temporarily immune to this effect for the rest of the encounter.
+You discard your action to take the Cast a Spell action, innately casting _sanctuary_ on yourself with a duration of Recall. During an encounter, if a creature succeeds on its WIS check, it is temporarily immune to this effect for the rest of the encounter.
 
 ## Deflect Missiles (Encounter, Reaction)
 
@@ -1414,7 +1418,7 @@ You gain one of the following features of your choice:
 - **_Giant Killer_ (Reaction).** When a Large or larger creature within 1 square of you hits or misses you with an attack, you can attack that creature immediately after its attack, provided that you can see the creature.
 - **_Horde Breaker_.** When you take the Attack action, you can make another attack with the same weapon against a different creature that is within 1 square of the original target and within range of your weapon.
 
-## Primeval Awareness (Encounter, Action)
+## Primeval Awareness (Action, Encounter)
 
 Being a ranger means you are mystically connected to the land and to those who dwell upon it. You have an innate ability to communicate with beasts, and they recognize you as a kindred spirit. Through sounds and gestures, you can communicate simple ideas to a beast and can read its basic mood and intent. You learn its emotional state, whether it is affected by magic of any sort, its short-term needs (such as food or safety), and actions you can take (if any) to persuade it not to attack. You cannot use this ability against a creature you attacked during the encounter.
 
@@ -2446,7 +2450,7 @@ Heavy armor decreases damage taken by LEVEL, but hinders movement, reducing your
 
 You gain the following game features while wearing heavy armor.
 
-- **_Heavy Armor (Encounter, Rest)_.** When an attack critically hits you while wearing heavy armor, you can treat it as a regular hit.
+- **_Heavy Armor (Encounter, Rest)_.** The next time an attack critically hits you while wearing heavy armor, you can treat it as a regular hit.
 
 ...
 
