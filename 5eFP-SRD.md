@@ -508,11 +508,11 @@ You can cast any bard spell you know as a ritual if that spell has the ritual ta
 
 Your bardic magic lets you use your voice or any instrument you wield more effectively. You roll with advantage whenever you make CHA checks with your voice or an instrument you're wielding.
 
-## Bardic Action Dice (Cooldown CHA)
+## Bardic Action Dice (Action, Cooldown CHA)
 
-During your turn, you can inspire others by stirring words or music. Choose one creature other than yourself within 10 squares of you who can hear you. That creature gains five of your action dice until the beginning of your next turn.
+You can inspire others by stirring words or music. Choose one creature other than yourself within 10 squares of you who can hear you. That creature gains five of your action dice until the beginning of your next turn. You may then take one additional action.
 
-During its turn, the creature can roll any of your action dice and add the result to one ability check or attack roll it makes. The creature can wait until after it rolls the d20 before deciding to use any of your action dice but must decide before the GM says whether the roll succeeds or fails. Once your action dice are rolled, they are returned to you. If the creature has one or more of your action dice and gains more, it decides whether to keep the ones it has or gain the new ones. Any discarded action dice are returned to you.
+During the affected creature's turn, it can roll any of your action dice and add the result to one ability check or attack roll it makes. The creature can wait until after it rolls the d20 before deciding to use any of your action dice, but must decide before the GM says whether the roll succeeds or fails. Once your action dice are rolled, they are returned to you. If the creature has one or more of your action dice and gains more, it decides whether to keep the ones it has or gain the new ones. Any discarded action dice are returned to you.
 
 # Bard Upgrades
 
@@ -542,7 +542,7 @@ You gain proficiency with one ability of your choice.
 
 ### Cutting Words (Reaction)
 
-You learn how to use your wit to distract, confuse, and otherwise sap the confidence and competence of others. When a creature you can see within 12 squares of you makes an attack roll or an ability check, you can expend one use of bardic action dice, rolling five action dice and subtracting the number from the creature’s roll. You can use this feature after the creature makes its roll, but before the GM determines whether the attack roll or ability check succeeds or fails, or before the creature deals its damage. The creature is immune if it can’t hear you or is immune to being charmed.
+You learn how to use your wit to distract, confuse, and otherwise sap the confidence and competence of others. When a creature you can see within 12 squares of you makes an attack roll or an ability check, you can expend one use of bardic action dice, rolling five action dice and subtracting the number from the creature’s roll. You can use this feature after the creature makes its roll, but before the GM determines whether the attack roll or ability check succeeds or fails, or before the creature deals its damage. The creature is immune if it can’t hear you or is immune to being charmed. When used this way, you do not gain an additional action from your bardic action dice feature.
 
 |Cost|Prerequisites|Feature|Details|
 |-:|:-:|:-|:-|
@@ -882,9 +882,9 @@ Whenever you attack and miss with a melee weapon you are wielding with two hands
 
 When a creature you can see attacks a target other than you that is within 1 square of you, you impose disadvantage on the attack roll. You must be wielding a shield.
 
-## Second Wind (Rest)
+## Second Wind (Action, Rest)
 
-You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you discard up to 2 wounds.
+You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you discard up to 2 wounds and may take one additional action.
 
 # Fighter Upgrades
 
@@ -893,9 +893,9 @@ You have a limited well of stamina that you can draw on to protect yourself from
 |2⛁|-|Action Surge|...|
 |3⛁|-|Martial Archetype|...|
 
-## Action Surge (Rest)
+## Action Surge (Action, Rest)
 
-You can push yourself beyond your normal limits for a moment. The next action you take on your turn does not require you to discard your action.
+You can push yourself beyond your normal limits for a moment. You take one action. After completing the action, you may take one additional action.
 
 ## Martial Archetype
 
@@ -948,7 +948,7 @@ You learn a ritual that creates a magical bond between yourself and one weapon. 
 - Your bonded weapon cannot be disarmed while you have it equipped unless you are incapacitated.
 - Your bonded weapon does not deplete.
 - You can form a bond with up to one shield. This game feature considers a bonded shield a melee weapon with the thrown keyword and a range of up to 4 squares.
-- **_Summon Eldritch Weapon (Encounter)_.** Once during your turn, if your bonded weapon is on the same plane of existence, you can summon it before or after discarding your action, causing it to teleport instantly to your hand.
+- **_Summon Eldritch Weapon (Action, Encounter)_.** You take one action. If your bonded weapon is on the same plane of existence, you can summon it before or after taking your action, causing it to teleport instantly to your hand.
 
 With this game feature, you can have up to two bonded weapons, but you can summon only one at a time. If you attempt to bond with a third weapon, you must break the bond with one of the other two.
 
