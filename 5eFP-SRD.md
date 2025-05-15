@@ -431,7 +431,7 @@ Yours is a path that seeks attunement with the natural world, giving you a kinsh
 
 When you adopt this path, you choose an elemental spirit and gain its game feature. Your elemental spirit provides you with a physical object that symbolically and mystically represents your bond—an amulet or similar adornment—that incorporates treasures of the natural world like crystals, stones, herbs, cuttings, fur, feathers, or other natural trinkets reminiscent of your chosen elemental spirit.
 
-Your elemental spirit might be related to those listed here, but more appropriate to your homeland. For example, you could choose an earth elemental, a sand elemental, or a mud elemental instead of an earth elemental.
+Your elemental spirit might be related to those listed here, but more appropriate to your homeland. For example, you could choose a sand elemental, or a mud elemental instead of an earth elemental.
 
 **_Earth_.** While raging, you have resistance to all damage except psychic damage. The earth spirit makes you tough enough to stand up to any punishment.
 
