@@ -48,7 +48,7 @@ Dedication to the qualities of Insight, Medicine, Perception, Performance, and S
 
 The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenting the rules of the game. The following are among the most common.
 
-**_Action_.** An action is a discrete measurement of time accessible during your turn and typically resolves before the end of your turn. You discard your action when you use certain game features, cast spells, and make attacks. You regain your action at the beginning of your next turn (see Actions). If a game feature has the action keyword, you must discard your action to use it, and you may take an additional action detailed in its description without needing to discard your action.
+**_Action_.** An action is a discrete measurement of time accessible during your turn and typically resolves before the end of your turn. You discard your action when you use certain game features, cast spells, and make attacks. You regain your action at the beginning of your next turn (see Actions). If a game feature has the action keyword, you must discard your action to use it, and you may take additional actions detailed in its description without needing to discard your action.
 
 **_Action Dice_.** Action dice are special six-sided dice with four blank faces, one side with one lightning bolt symbol, and one side with two lightning bolt symbols. The symbols can represent +1 (one symbol) or +2 (two symbols) or additional options depending on the action using them. Alternatively, you can use regular six-sided dice and assign these results to 1 and 2, respectively, with the remaining values representing blank faces.
 
@@ -1476,9 +1476,9 @@ In addition, you understand a set of secret signs and symbols used to convey sho
 |2⛁|-|Cunning Action|...|
 |3⛁|-|Roguish Archetype|...|
 
-## Cunning Action
+## Cunning Action (Action)
 
-Your quick thinking and agility allow you to move and act quickly. Once per turn, when you take an action requiring you to discard your action, you can take the Dash, Disengage, or Hide action before or after taking your action without needing to discard your action.
+Your quick thinking and agility allow you to move and act quickly. You may take one action. You can take the Dash, Disengage, or Hide action before or after taking your action.
 
 ## Roguish Archetype
 
@@ -1490,7 +1490,7 @@ You hone your skills in the larcenous arts. Burglars, bandits, cutpurses, and ot
 
 ## Fast Hands
 
-You can use your Cunning Action to make a DEX check related to sleight of hand, use your thieves’ tools to disarm a trap or open a lock, or take the Use an Object action without needing to discard your action.
+You can use your Cunning Action to make a DEX check related to sleight of hand, use your thieves’ tools to disarm a trap or open a lock, or take the Use an Object action.
 
 ## Second-Story Work
 
