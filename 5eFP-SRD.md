@@ -542,18 +542,18 @@ You gain proficiency with one ability of your choice.
 
 You learn how to use your wit to distract, confuse, and otherwise sap the confidence and competence of others. When a creature you can see within 12 squares of you makes an attack roll or an ability check, you can expend one use of bardic action dice, rolling five action dice and subtracting the number from the creature’s roll. You can use this feature after the creature makes its roll, but before the GM determines whether the attack roll or ability check succeeds or fails, or before the creature deals its damage. The creature is immune if it can’t hear you or is immune to being charmed.
 
-> |Cost|Prerequisites|Feature|Details|
-> |-:|:-:|:-|:-|
-> |3⛁|Level 2|Additional Magic Secrets|...|
-> |2⛁|Level 5|Peerless Skill|...|
-> 
-> ### Additional Magic Secrets
->
-> You learn two spells of your choice from any class. A spell you choose must be of a level you can cast or a cantrip. The chosen spells count as bard spells for you.
->
-> ### Peerless Skill
->
-> When you make an ability check, you can expend one use of Bardic Action Dice to roll your action dice and add the number rolled to your ability check. You can do so after you roll the die for the ability check, but before the GM tells you whether you succeed or fail.
+|Cost|Prerequisites|Feature|Details|
+|-:|:-:|:-|:-|
+|3⛁|Level 2|Additional Magic Secrets|...|
+|2⛁|Level 5|Peerless Skill|...|
+ 
+### Additional Magic Secrets
+
+You learn two spells of your choice from any class. A spell you choose must be of a level you can cast or a cantrip. The chosen spells count as bard spells for you.
+
+### Peerless Skill
+
+When you make an ability check, you can expend one use of Bardic Action Dice to roll your action dice and add the number rolled to your ability check. You can do so after you roll the die for the ability check, but before the GM tells you whether you succeed or fail.
 
 ## Expertise
 
