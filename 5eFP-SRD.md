@@ -390,7 +390,7 @@ If you are able to cast spells, you can’t cast them or concentrate on them whi
 
 Your rage ends early if you are knocked unconscious or if your turn ends and you haven’t attacked a hostile creature since your last turn or taken damage since then. You can end your rage early on your turn, starting on the turn after you activate rage.
 
-You must be raging to use a game feature with the rage keyword.
+You must be raging to gain the benefits of a game feature with the rage keyword.
 
 ## Unarmored Defense
 
@@ -403,7 +403,7 @@ While not wearing armor, you add CON (minimum 0) to your Defense. You can use a 
 |2⛁|-|Reckless Attack|...|
 |2⛁|-|Danger Sense|You gain advantage to DEX checks vs. effects you can see|
 |2⛁|-|Primal Path|...|
-|3⛁|-|Rage|You gain Rage (Encounter, Cooldown 3)|
+|3⛁|-|Rage|You gain Rage (Action, Cooldown 3, Encounter)|
 
 ## Reckless Attack
 
@@ -417,9 +417,9 @@ You choose a path that shapes the nature of your rage. Choose the Path of the Be
 
 For some barbarians, rage is a means to an end. The Path of the Berserker is a path of unleashed fury.
 
-### Frenzy
+### Frenzy (Action, Encounter)
 
-You can go into a frenzy when you rage. If you do so, for the duration of your rage, you can make a single melee weapon attack after you take the Attack action. When your rage ends, you suffer one level of exhaustion (as described in Appendix PH-­A).
+You expend one use of your rage feature and go into a frenzy. For the duration of your rage, you can make a single melee weapon attack after you take the Attack action. When your rage ends, you suffer one level of exhaustion (as described in Appendix PH-­A).
 
 ## Path of the Spirit Warrior
 
