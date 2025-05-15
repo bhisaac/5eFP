@@ -409,7 +409,7 @@ You can throw aside all concern for protection to attack with fierce determinati
 
 ## Primal Path
 
-You choose a path that shapes the nature of your rage. Choose the Path of the Berserker or the Path of the Spirit-Animal Warrior.
+You choose a path that shapes the nature of your rage. Choose the Path of the Berserker or the Path of the Spirit Warrior.
 
 ## Path of the Berserker
 
@@ -419,7 +419,7 @@ For some barbarians, rage is a means to an end. The Path of the Berserker is a p
 
 You can go into a frenzy when you rage. If you do so, for the duration of your rage, you can make a single melee weapon attack after you take the Attack action. When your rage ends, you suffer one level of exhaustion (as described in Appendix PH-­A).
 
-## Path of the Warden
+## Path of the Spirit Warrior
 
 You forge a spiritual and inspired connection to an elemental spirit that takes on the appearance of an animal in your dreams and visions, functioning as a friend, guide, and protector. In battle, your spirit guide enhances your abilities, adding a touch of magic to your barbarian rage.
 
@@ -1376,7 +1376,7 @@ You gain blindsight 2 whenever your vision is obscured.
 
 While you are wearing armor, you gain a +1 bonus to Defense.
 
-### Warden
+### Nature Warden
 
 You learn two druid cantrips of your choice.
 
