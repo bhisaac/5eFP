@@ -378,9 +378,9 @@ You start with the following equipment, in addition to the equipment granted by 
 - (*a*) handaxes or (*b*) any simple weapon
 - An explorer's pack and javelins
 
-## Rage (Encounter, Cooldown 2)
+## Rage (Action, Cooldown 2, Encounter)
 
-In battle, you fight with primal ferocity. When you take the Attack action on your turn, you can choose to first enter into a rage.
+In battle, you fight with primal ferocity. You enter into a rage and then take the Attack action.
 
 While raging, you gain the following benefits if you aren’t wearing armor:
 - You have advantage on STR checks.
@@ -389,6 +389,8 @@ While raging, you gain the following benefits if you aren’t wearing armor:
 If you are able to cast spells, you can’t cast them or concentrate on them while raging.
 
 Your rage ends early if you are knocked unconscious or if your turn ends and you haven’t attacked a hostile creature since your last turn or taken damage since then. You can end your rage early on your turn, starting on the turn after you activate rage.
+
+You must be raging to use a game feature with the rage keyword.
 
 ## Unarmored Defense
 
@@ -433,16 +435,16 @@ When you adopt this path, you choose an elemental spirit and gain its game featu
 
 Your elemental spirit might be related to those listed here, but more appropriate to your homeland. For example, you could choose a sand elemental or a mud elemental instead of an earth elemental.
 
-**_Earth_.** While raging, you have resistance to all damage except psychic damage. The earth spirit makes you tough enough to stand up to any punishment.
+**_Earth_ (Rage).** You have resistance to all damage except psychic damage. The earth spirit makes you tough enough to stand up to any punishment.
 
-**_Air_.** The air spirit lets you weave through the fray with ease. You gain the following features while you're raging and aren't wearing heavy armor.
+**_Air_ (Rage).** The air spirit lets you weave through the fray with ease. You gain the following features while you aren't wearing heavy armor.
 
 - Other creatures have disadvantage on opportunity attack rolls against you.
 - When you declare an Attack action on your turn, you may take the Dash action without needing to discard your action before or after making your attack.
 
-**_Water_.** While raging, allies within 1 square of you gain advantage on melee attack rolls while you aren't incapacitated. The water spirit makes you a leader of hunters.
+**_Water_ (Rage).** Allies within 1 square of you gain advantage on melee attack rolls while you aren't incapacitated. The water spirit makes you a leader of hunters.
 
-**_Fire_ (Rest 2).** The fire spirit grants you a fire attack with reach. While raging, you increase your range to up to 2 squares when taking the Attack action. The damage of your attack changes to fire.
+**_Fire_ (Action, Rage, Rest 2).** The fire spirit grants you a fire attack with reach. You increase your range to up to 2 squares and then take the Attack action. The damage of your attack changes to fire.
 
 # Bard
 
