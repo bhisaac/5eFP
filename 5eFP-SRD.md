@@ -48,7 +48,7 @@ Dedication to the qualities of Insight, Medicine, Perception, Performance, and S
 
 The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenting the rules of the game. The following are among the most common.
 
-**_Action_.** An action is a discrete measurement of time accessible during your turn and typically resolves before the end of your turn. You discard your action when you use certain game features, cast spells, and make attacks. You regain your action at the beginning of your next turn (see Actions).
+**_Action_.** An action is a discrete measurement of time accessible during your turn and typically resolves before the end of your turn. You discard your action when you use certain game features, cast spells, and make attacks. You regain your action at the beginning of your next turn (see Actions). If a game feature has the action keyword, you must discard your action to use it, and you may take an additional action detailed in its description without needing to discard your action.
 
 **_Action Dice_.** Action dice are special six-sided dice with four blank faces, one side with one lightning bolt symbol, and one side with two lightning bolt symbols. The symbols can represent +1 (one symbol) or +2 (two symbols) or additional options depending on the action using them. Alternatively, you can use regular six-sided dice and assign these results to 1 and 2, respectively, with the remaining values representing blank faces.
 
@@ -1003,7 +1003,7 @@ _Prerequisites: Unarmed or monk weapons only, no armor, no shield_
 
 Your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are shortswords and any simple melee weapons that don't have the two-handed or heavy property.
 
-You use your discarded action to take the Attack action with an unarmed strike or monk weapon. Immediately after making your attack, you can make one additional attack with an unarmed strike. For example, if you take the Attack action and attack with a quarterstaff, you can also make an unarmed strike.
+You take the Attack action and attack with an unarmed strike or monk weapon. Immediately after making your attack, you can make one additional attack with an unarmed strike. For example, if you take the Attack action and attack with a quarterstaff, you can also make an unarmed strike.
 
 Certain monasteries use specialized forms of monk weapons. For example, you might use a club that is two lengths of wood connected by a short chain (called a nunchaku) or a sickle with a shorter, straighter blade (called a kama). Whatever name you use for a monk weapon, you can use the game statistics provided for the weapon.
 
@@ -1029,9 +1029,9 @@ Some of your ki features require your target to make an ability check to resist 
 
 Ki and ki features are considered magic and magical effects.
 
-### Flurry of Blows (Ki)
+### Flurry of Blows (Action, Ki)
 
-Immediately after taking the Attack action, you can make up to two unarmed strikes.
+You take the Attack action. Immediately after taking the Attack action, you can make up to two unarmed strikes.
 
 ### Patient Defense (Encounter, Ki, Rest)
 
@@ -1079,23 +1079,23 @@ The elemental disciplines use your ki to produce magical effects and are present
 
 You create a blast of compressed air that strikes like a mighty fist. Choose a creature within 6 squares of you. That creature must make a STR check. On a failed save, the creature takes 2 bludgeoning damage, and you can push the creature up to 4 squares away from you and knock it prone. On a successful check, the creature takes half as much damage, and you don’t push it or knock it prone.
 
-### Bending Air (Encounter, Ki)
+### Bending Air (Action, Encounter, Ki)
 
-Once during your turn, you can discard your action to take the Cast a Spell action, innately casting _gust of wind_.
+You take the Cast a Spell action, innately casting _gust of wind_.
 
-### Bending Earth (Encounter, Ki)
+### Bending Earth (Action, Encounter, Ki)
 
-Once during your turn, you can discard your action to choose an area of earth or stone no larger than 6 squares on a side within LOS of you. You can change earth into stone within the area and vice versa, and you can reshape earth and stone in the area in any manner you choose. You can raise or lower its elevation, move it, create or fill in a trench, erect or flatten a wall, or form a pillar. The extent of any such changes can’t exceed 1 square. For example, you can create a pillar 1 square high, move it by up to 1 square, dig a 1 square deep trench, and so on. You can’t shape the stone to trap or injure a creature in the area.
+You choose an area of earth or stone no larger than 6 squares on a side within LOS of you. You can change earth into stone within the area and vice versa, and you can reshape earth and stone in the area in any manner you choose. You can raise or lower its elevation, move it, create or fill in a trench, erect or flatten a wall, or form a pillar. The extent of any such changes can’t exceed 1 square. For example, you can create a pillar 1 square high, move it by up to 1 square, dig a 1 square deep trench, and so on. You can’t shape the stone to trap or injure a creature in the area.
 
 ### Bending Fire (Encounter, Ki)
 
 You can infuse your unarmed strikes with elemental fire, extending your reach by 2 squares for the rest of the encounter. A hit with such an attack deals fire damage instead of bludgeoning damage.
 
-### Bending Thunder (Ki)
+### Bending Thunder (Action, Encounter, Ki)
 
-Once during your turn, you can discard your action to take the Cast a Spell action, innately casting _thunderwave_.
+You take the Cast a Spell action, innately casting _thunderwave_.
 
-### Bending Water (Encounter, Ki)
+### Bending Water (Action, Encounter, Ki)
 
 You choose an area of ice or water no larger than 6 squares on a side within LOS of you. You can change water to ice within the area and vice versa, and you can reshape ice in the area in any manner you choose. You can raise or lower the ice’s elevation, create or fill in a trench, erect or flatten a wall, or form a pillar. The extent of any such changes can’t exceed 1 square. For example, you can create a pillar 1 square high, raise or lower the square’s elevation by 1 square, dig a 1 square deep trench, and so on. You can’t shape the ice to trap or injure a creature in the area.
 
@@ -1110,9 +1110,9 @@ You briefly control elemental forces nearby, causing one of the following effect
 
 If you use this game feature multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can discard your action to dismiss such an effect.
 
-### Sweeping Fire Strike (Action)
+### Sweeping Fire Strike (Action, Ki)
 
-You cast _burning hands_.
+You take the Cast a Spell action, innately casting _burning hands_.
 
 ### Water Whip (Action)
 
@@ -1138,13 +1138,13 @@ Monks of the Way of Tranquility eschew and abstain from violence. They use diplo
 
 You or an ally within reach discards up to LEVEL wounds. Alternatively, you can cure a touched creature, discarding one disease or one poison affecting it. You can discard additional wounds, multiple diseases, and poisons using this game feature, expending uses of your Ki feature separately for each one.
 
-When you use your Flurry of Blows, you can replace one of the unarmed strikes with a use of this game feature.
+When you use your Flurry of Blows, you can replace one of the unarmed strikes with this feature without expending a use of your ki feature.
 
-This game feature has no effect on undead and constructs.
+This feature has no effect on undead and constructs.
 
-### Path of Tranquility (Recall, Rest, Ki)
+### Path of Tranquility (Action, Recall, Rest, Ki)
 
-You discard your action to take the Cast a Spell action, innately casting _sanctuary_ on yourself with a duration of Recall. During an encounter, if a creature succeeds on its WIS check, it is temporarily immune to this effect for the rest of the encounter.
+You take the Cast a Spell action, innately casting _sanctuary_ on yourself with a duration of Recall. During an encounter, if a creature succeeds on its WIS check, it is temporarily immune to this effect for the rest of the encounter.
 
 ## Deflect Missiles (Encounter, Reaction)
 
@@ -2415,15 +2415,19 @@ PCs may choose to create a magic item marketplace by unlocking this building thr
 
 ## Armor
 
-Fantasy gaming worlds are a vast tapestry made up of many different cultures, each with its own technology level. For this reason, adventurers have access to a variety of armor types, ranging from leather armor to chain mail to costly plate armor, with several other kinds of armor in between. The Armor table collects the most commonly available types of armor found in the game and separates them into three categories: light armor, medium armor, and heavy armor. Many warriors with medium or heavy armor proficiency supplement their armor with a shield.
+Fantasy gaming worlds are a vast tapestry made up of many different cultures, each with its own technology level. For this reason, adventurers have access to a variety of armor types, ranging from leather armor to chain mail to costly plate armor, with several other kinds of armor in between. The Armor table collects the most commonly available types of armor found in the game and separates them into three categories: light armor, medium armor, and heavy armor. Many warriors supplement their armor with a shield.
 
 The Armor table shows the cost, weight, and other properties of the common types of armor worn in fantasy gaming worlds.
 
-***Armor Proficiency.*** Anyone can put on a suit of armor or strap a shield to an arm. Only those proficient in the armor’s use know how to wear it effectively, however. Your class gives you proficiency with certain types of armor. Medium and heavy armor proficiency also grants proficiency with shields. If you wear armor that you lack proficiency with, you have disadvantage on any ability check or attack roll that involves STR or DEX, and you can’t cast spells.
+***Armor Proficiency.*** Anyone can put on a suit of armor or strap a shield to an arm. Only those proficient in the armor’s use know how to wear it effectively, however. Your class gives you proficiency with certain types of armor. If you wear armor that you lack proficiency with, you have disadvantage on any ability check or attack roll that involves STR or DEX, and you can’t cast spells.
 
-***Shields.*** A shield is made from wood or metal and requires a free hand to equip. While you have a shield equiped, you have the following game features.
+**_Damage Reduction_.** Armor reduces damage dealt to its wearer from attacks. Medium and heavy armor also reduces the number of wounds assigned to the wearer. The armor (and shield) you wear determines how much damage reduction you get or if you can reduce the number of wounds assigned to you.
 
-- **_Shield Bash_.** Whenever you take the Attack action and use one of your attacks to shove a creature, if you succeed, you may deal 1 point of bludgeoning damage to the creature.
+### Shield
+
+A shield is made from wood or metal and requires a free hand to equip. While you have a shield equipped, you have the following game features.
+
+- **_Shield Bash_.** Whenever you take the Attack action and use one of your attacks to shove a creature, if you succeed, you can deal 1 point of bludgeoning damage to the creature.
 - **_Shield (Reaction, Rest)_.** When damage is dealt to you while you have a shield equipped, you may reduce that damage by 1.
 
 ### Light Armor
@@ -2436,7 +2440,7 @@ Made from supple and thin materials, light armor favors agile adventurers since 
 
 ### Medium Armor
 
-Medium armor offers more protection than light armor but also impairs movement more. Medium armor reduces any damage dealt to you by 1 and grants bolster 1 at the start of an encounter, but the wearer has disadvantage on DEX checks related to moving silently. Your Defense while wearing medium armor equals 10 + DEX (maximum +2).
+Medium armor offers more protection than light armor, but impairs movement more. Medium armor reduces any damage dealt to you by 1 and grants bolster 1 at the start of an encounter, but the wearer has disadvantage on DEX checks related to moving silently. Your Defense while wearing medium armor equals 10 + DEX (maximum +2).
 
 ***Breastplate.*** This armor consists of a fitted metal chest piece worn with supple leather. Although it leaves the legs and arms relatively unprotected, this armor provides good protection for the wearer’s vital organs while leaving the wearer relatively unencumbered.
 
@@ -2450,9 +2454,13 @@ Heavy armor decreases damage taken by LEVEL, but hinders movement, reducing your
 
 You gain the following game features while wearing heavy armor.
 
-- **_Heavy Armor (Encounter, Rest)_.** The next time an attack critically hits you while wearing heavy armor, you can treat it as a regular hit.
+- **_Heavy Armor (Encounter, Rest)_.** Whenever an attack critically hits you while wearing heavy armor, you can use this feature to treat it as a regular hit.
 
 ...
+
+|**Shield**|**Modifiers**|**Cost**|
+|:-|:-|:-|
+|Shield|-|⛁|
 
 |**Light Armor**|**Modifiers**|**Cost**|
 |:-|:-|:-|
@@ -2758,7 +2766,7 @@ Some feats can be upgraded. If the option to upgrade is available, the upgrades 
 
 _Prerequisite: Proficiency with medium armor_
 
-You gain proficiency with heavy armor. At the beginning of each of your turns, if you are wearing heavy armor, you gain **bolster 1**.
+You gain proficiency with heavy armor and shields. At the beginning of each of your turns, if you are wearing heavy armor, you gain **bolster 1**.
 
 |Cost|Prerequisites|Feature|Details|
 |-:|:-:|:-|:-|
@@ -3657,7 +3665,7 @@ Return your discarded actions at the start of a game session and at the beginnin
 
 ## Action
 
-**_Discard your action to take one action_.** You discard your action during your turn to use most game features, spells, and attacks.
+**_Discard your action to take one action_.** You discard your action during your turn to use most game features, spells, and attacks. If a game feature has the Action keyword, you use your discarded action to take another action detailed in its description.
 
 > Life requires some effort to maintain. You must physically attend to your life and take action to promote your health and wellness. Your body, mind, and essence or spirit need loving kindness, loving guidance, and self-care for optimal health. There is no away-from-keyboard (AFK) in RL. There is no auto-follow or AFK leveling. You must take action if you are to meet your goals in life. If you don't take action in your life, who will?
 
