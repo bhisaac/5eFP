@@ -819,17 +819,17 @@ The Circle of the Sun and Moon is made up of mystics who meditate and commune wi
 
 The Circle of the Manyshaped are fierce wilderness protectors and powerful shapeshifters who embody and cultivate wisdom within the shapes of animals. Their order gathers under the full moon to share news across the land and trade observations and insights. Their preferred way of doing this is with an assembly of crows or ravens. They can be found in the deepest parts of the wild, where they spend long periods living in a wild shape form as animals, hunting, thinking, and sleeping as animals. They do this to deepen their understanding of the animal and its relation to the animal within themselves.
 
-**_Improved Wild Shape_.** You gain the Wild Shape (Rest 2) game feature. Your wild shape forms gain additional game features.
+**_Improved Wild Shape_.** Your Wild Shape feature drops the action keyword and changes to Wild Shape (Rest 2). Your wild shape forms gain additional game features.
 
-> **_Regenerate_.** Once during your turn, when you take an action, you may spend up to LEVEL mana to discard an equal number of wild shape form wounds before or after taking the action.
+> **_Renew_ (Action).** You take one action. You may spend up to LEVEL mana to discard an equal number of wild shape form wounds before or after taking the action.
 
 **_Tough_.** You gain bolster LEVEL at the beginning of your turn. You can attack twice instead of once whenever you take the Attack action on your turn.
 
 **_Stealthy_.** You gain advantage on WIS checks. You gain a pounce attack (if you don't already have one).
 
-> **_Pounce._** Whenever you take the Attack action, move at least 3 squares in a line toward a creature, and hit it with a melee attack, it must succeed on a DC (14 + LEVEL) STR check or be knocked prone. If the creature is prone, you can make one melee attack against it.
+> **_Pounce_.** Whenever you take the Attack action, move at least 3 squares in a line toward a creature, and hit it with a melee attack, it must succeed on a DC (14 + LEVEL) STR check or be knocked prone. If the creature is prone, you can make one melee attack against it.
 
-**_Travel_.** Your movement changes to double your base speed. Once travel form is activated, the travel form can be reactivated on the exploration map anytime outside of an encounter until you Recall. When you reactivate travel form, set aside any wild shape form you are currently in and any wild shape wounds you may have. When travel form ends due to entering an encounter or taking 1 or more points of damage, you shift back into the wild shape form and regain your wild shape wounds you set aside earlier.
+**_Travel_.** Your movement changes to double your base speed. Once travel form is activated, it can be reactivated on the exploration map anytime outside of an encounter until you Recall. When you reactivate travel form, set aside any wild shape form you are currently in and any wild shape wounds you may have. When travel form ends due to entering an encounter or taking 1 or more points of damage, you shift back into the wild shape form and regain your wild shape wounds you set aside earlier.
 
 # Fighter
 
