@@ -5134,7 +5134,7 @@ An awakened shrub is an ordinary plant given sentience and mobility by the *awak
 
 ### Gremlin
 
-*Medium fey, chaotic evil*
+*Small fey, chaotic evil*
 
 In the depths of a shadowy forest, a clever gremlin with shimmering emerald skin and sparkling red eyes lurks. Its sharp teeth glint menacingly as it delights in the mischief it causes for unsuspecting travelers.
 
