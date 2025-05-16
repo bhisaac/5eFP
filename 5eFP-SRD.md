@@ -5132,6 +5132,18 @@ An awakened shrub is an ordinary plant given sentience and mobility by the *awak
 
 ## Monsters (G)
 
+### Gremlin
+
+*Medium fey, chaotic evil*
+
+In the depths of a shadowy forest, a clever gremlin with shimmering emerald skin and sparkling red eyes lurks. Its sharp teeth glint menacingly as it delights in the mischief it causes for unsuspecting travelers.
+
+Gremlins share the following statistics.
+- **Languages** Common. A lich knows up to 4 additional languages.
+- **Speed** 4, Climb 4
+
+More TBA
+
 ## Monsters (H)
 
 ## Monsters (I)
