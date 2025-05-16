@@ -429,22 +429,22 @@ You forge a spiritual and inspired connection to an elemental spirit that takes 
 
 Yours is a path that seeks attunement with the natural world, giving you a kinship with beasts, and you learn the primordial language. You gain the ability to cast the _beast link_ and _speak with animals_ spells, but only as rituals (see _Spellcasting_).
 
-### Elemental Spirit
+### Elemental Spirit (Rage)
 
 When you adopt this path, you choose an elemental spirit and gain its game feature. Your elemental spirit provides you with a physical object that symbolically and mystically represents your bond—an amulet or similar adornment—that incorporates treasures of the natural world like crystals, stones, herbs, cuttings, fur, feathers, or other natural trinkets reminiscent of your chosen elemental spirit.
 
 Your elemental spirit might be related to those listed here, but more appropriate to your homeland. For example, you could choose a sand elemental or a mud elemental instead of an earth elemental.
 
-**_Earth_ (Rage).** You have resistance to all damage except psychic damage. The earth spirit makes you tough enough to stand up to any punishment.
+**_Earth_.** You have resistance to all damage except psychic damage. The earth spirit makes you tough enough to stand up to any punishment.
 
-**_Air_ (Rage).** The air spirit lets you weave through the fray with ease. You gain the following features while you aren't wearing heavy armor.
+**_Air_.** The air spirit lets you weave through the fray with ease. You gain the following features while you aren't wearing heavy armor.
 
 - Other creatures have disadvantage on opportunity attack rolls against you.
 - When you declare an Attack action on your turn, you may take the Dash action without needing to discard your action before or after making your attack.
 
-**_Water_ (Rage).** Allies within 1 square of you gain advantage on melee attack rolls while you aren't incapacitated. The water spirit makes you a leader of hunters.
+**_Water_.** Allies within 1 square of you gain advantage on melee attack rolls while you aren't incapacitated. The water spirit makes you a leader of hunters.
 
-**_Fire_ (Action, Rage, Rest 2).** The fire spirit grants you a fire attack with reach. You increase your range to up to 2 squares and then take the Attack action. The damage of your attack changes to fire.
+**_Fire_ (Action, Rest 2).** The fire spirit grants you a fire attack with reach. You increase your range to up to 2 squares and then take the Attack action. The damage of your attack changes to fire.
 
 # Bard
 
