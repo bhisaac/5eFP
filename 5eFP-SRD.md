@@ -5139,7 +5139,7 @@ An awakened shrub is an ordinary plant given sentience and mobility by the *awak
 In the depths of a shadowy forest, a clever gremlin with shimmering emerald skin and sparkling red eyes lurks. Its sharp teeth glint menacingly as it delights in the mischief it causes for unsuspecting travelers.
 
 Gremlins share the following statistics.
-- **Languages** Common. A lich knows up to 4 additional languages.
+- **Languages** Common. A gremlin knows common, goblin, and sylvan languages.
 - **Speed** 4, Climb 4
 
 More TBA
