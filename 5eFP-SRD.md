@@ -5536,7 +5536,7 @@ The 5eFP community will continue listening, learning, and reflecting, individual
 
 (Complete list TBD)
  
-- Celestials, demons, and devils were removed from the core game rules. They can be added back in a specific campaign setting handbook.
+- Celestials, demons, and devils were removed from the core game rules. They can be added back in through a campaign setting handbook. Iconic fantasy creatures like the unicorn, pegasus, and couatl are intelligent and magical beasts.
     - Two reasons for this change.
         - Removed to maintain a neutral stance on religious content. GMs and players may choose to reintroduce religious content detailed within the faith section of their setting handbook. 5eFP facilitates inner work without being strictly religious or non-religious.
         - Reduces system bloat (fewer monster types) and prevents 5eFP from getting consumed by the fires of good and evil, law and chaos. These can be found in the setting handbook if they are present in the game world.
