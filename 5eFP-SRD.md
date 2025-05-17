@@ -128,9 +128,9 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Time Marker_.** Keep track of how long PCs are deployed on an unexplored world map tile. The time marker begins at 0 and increases when an encounter is resolved. If three footholds are resolved and the PCs reveal additional footholds, each increases the time marker by +1. When the time marker reaches 8, all PCs instantaneously Recall.
 
-**_Turn_.** During a round, a creature takes its turn, during which it can spend a wide variety of actions. Usually, over the course of one turn, a creature can take an action, use an object, or take a reaction (see Actions).
+**_Turn_.** During a round, a creature takes its turn, during which it can spend a wide variety of actions. Usually, over the course of one turn, a creature can take an action, use an object, or take a reaction (see Actions). A game feature with the turn keyword can only be used once during your turn.
 
-**_Upgrade_.** Once the PCs Recall, they may spend Coin unlocking character upgrades. Available upgrades include background, class, and species and are limited to only those upgrades equal to or less than LEVEL. Once all PCs stop spending Coin on character upgrades, downtime begins.
+**_Upgrade_.** Once the PCs Recall, they may spend Coin unlocking character upgrades. Available upgrades include background, class, and species, and are limited to only those upgrades equal to or less than LEVEL. Once all PCs stop spending Coin on character upgrades, downtime begins.
 
 **_Wounds_.** Any damage assigned to you that you cannot reduce or prevent is converted to an equal number of wounds.
 
@@ -1424,7 +1424,7 @@ Emulating the Hunter archetype means accepting your place as a bulwark between c
 
 You gain one of the following features of your choice:
 
-- **_Colossus Slayer_.** Your tenacity can wear down the most potent foes. Once per turn, whenever you take the Attack action and hit a creature that is not at MAX Wounds with a weapon attack, the creature takes +1 damage.
+- **_Colossus Slayer_ (Turn).** Your tenacity can wear down the most potent foes. You take the Attack action and hit a creature that is not at MAX Wounds with a weapon attack. The creature takes +1 damage.
 - **_Giant Killer_ (Reaction).** When a Large or larger creature within 1 square of you hits or misses you with an attack, you can attack that creature immediately after its attack, provided that you can see the creature.
 - **_Horde Breaker_.** When you take the Attack action, you can make another attack with the same weapon against a different creature that is within 1 square of the original target and within range of your weapon.
 
@@ -1467,9 +1467,9 @@ When you purchase this upgrade, you gain proficiency with a non-proficient abili
 
 You make an ability check with one of your chosen abilities or tools, adding your level to the check twice instead of once.
 
-## Sneak Attack
+## Sneak Attack (Turn)
 
-You know how to strike subtly and exploit a foe’s distraction. Once per turn, you can deal an extra +1 damage to one creature you hit with an attack if you have advantage on the attack roll.
+You know how to strike subtly and exploit a foe’s distraction. You deal +1 damage to a creature you hit with an attack if you have advantage on the attack roll.
 
 You don’t need advantage on the attack roll if another enemy of the target is within 1 square of it, that enemy isn’t incapacitated, and you don’t have disadvantage on the attack roll.
 
@@ -1602,11 +1602,11 @@ As magic flows through your body, it causes the physical traits of your dragon a
 
 You tap into a deep wellspring of magic within yourself allowing you to create a variety of magical effects.
 
-### Flexible Casting
+### Flexible Casting (Turn)
 
 You can spend a use of your sorcery feature to gain additional mana, or sacrifice mana to replenish an expended use of your sorcery feature.
 
-Once per turn, you can either spend two uses of your sorcery feature to gain 2 mana or expend 2 mana to refresh one use of your sorcery feature.
+You either spend two uses of your sorcery feature to gain 2 mana or expend 2 mana to refresh one use of your sorcery feature.
 
 ## Metamagic
 
@@ -1637,9 +1637,9 @@ When you cast a spell that has a duration of encounter, you can spend one use of
 
 When you cast a spell that forces a creature to make an ability check to resist its effects, you can spend three uses of your sorcery feature to give one target of the spell disadvantage on its first ability check made against the spell.
 
-### Quickened Spell
+### Quickened Spell (Turn)
 
-Once per turn, when you take the Cast a Spell action with a spell with a casting time of 1 action, you can spend two uses of your sorcery feature instead of discarding your action. If you use the Cast a Spell action again during the same turn, the spell must be a cantrip.
+You take the Cast a Spell action with a spell with a casting time of 1 action, spending two uses of your sorcery feature instead of discarding your action. If you repeat the Cast a Spell action during the same turn, the spell must be a cantrip.
 
 ### Subtle Spell
 
@@ -5558,7 +5558,7 @@ The 5eFP community will continue listening, learning, and reflecting, individual
 
 (Complete list TBD)
  
-- Expertise and similar game features have the Rest 2 keyword. When activated, you can add LEVEL to your ability or tool check twice instead of once.
+- Expertise and similar game features have the Turn keyword. When activated, you can add LEVEL to your ability or tool check twice instead of once.
 - Celestials, demons, and devils were removed from the core game rules. They can be added back in through a campaign setting handbook. Iconic fantasy creatures like the unicorn, pegasus, and couatl are intelligent and magical beasts.
     - Two reasons for this change.
         - Removed to maintain a neutral stance on religious content. GMs and players may choose to reintroduce religious content detailed within the faith section of their setting handbook. 5eFP facilitates inner work without being strictly religious or non-religious.
@@ -5593,9 +5593,9 @@ The 5eFP community will continue listening, learning, and reflecting, individual
     - Some game features, such as the Warlock Pact Magic feature and innate spellcasting, allow you to cast spells without spending any mana.
 - Currency, gaining experience, and leveling up have changed dramatically. All three are linked to the Coin (⛁), a symbol that represents wealth, experience, and reputation. You spend Coin on available upgrades, allowing your character to level up what they want _à la carte_. Once the level 1 area is cleared, the level 2 area unlocks and the PCs level up to level 2.
 - Defender, Damage, and Healing group roles are used when forming a group. The design goal for group roles is to allow any character to gain the basic tools for any of the three standard game strategies: turtle (absorb hits, allowing your teammates to deal with an encounter while it is distracted by you), HOT (heal over time), and DOT (damage over time).
-    - Defender: You get extra defenses, act first before initiative is rolled, and impose the new taunt condition on adversaries, requiring them to include the Defender as a target as long as they are taunted.
-    - Damage: Once per turn, whenever you complete an action that targets a creature, you can deal 1 damage to a creature within 1 square of the target.
-    - Healer: Once per turn, whenever you complete an action that targets a creature, you can choose a creature within 1 square of the target. The chosen creature discards up to 1 wound and can make an additional ability check to resist an ongoing negative effect.
+    - Defender: You gain bolster 1 at the beginning of an encounter, act first before initiative is rolled, and impose the new taunt condition on adversaries, requiring them to include the Defender as a target as long as they are taunted.
+    - Damage (Turn): You complete an action that targets a creature, dealing 1 damage to a different creature within 1 square of the target.
+    - Healer (Turn): You complete an action that targets a creature, choosing a different creature within 1 square of the target. The chosen creature discards up to 1 wound and can make an additional ability check to resist an ongoing negative effect.
 - Warlock changes
     - Changed class features, rephrasing them into neutral versions. The warlock is typically cast in a dark, occult frame. 5eFP departs from this and recreates the warlock as a neutral class that is neither inherently good nor evil.
         - Pact of the Chain: Imp --> Humunculous, Quasit --> Tiny Elemental
@@ -5605,7 +5605,7 @@ The 5eFP community will continue listening, learning, and reflecting, individual
         - Occult --> Arcane
         - The Fiend --> The Primordial
 - Monk changes
-    - Ki functions similarly to the warlock pact magic feature. Ki abilities are being augmented to be more worth activating and last longer.
+    - Ki functions similarly to the warlock pact magic feature. Revising Ki abilities so they provide more worth when activated. Flurry of Blows remains the same, but could use an upgrade (TBA).
     - Patient Defense is more like a fighting stance, and has an encounter duration.
     - Step of the Wind is similarly stance-like and has an encounter duration.
     - Archetypes
