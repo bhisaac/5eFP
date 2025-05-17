@@ -3281,7 +3281,7 @@ During a round of downtime, a PC can perform the following actions:
 
 - **1 Action.** Choose and gain the benefit of one downtime activity.
 - **1 Reaction.** You have one reaction during a round of downtime. Once you use your reaction, you cannot do so again until the beginning of the next downtime round.
-- **1 Object Interaction.** You may equip or unequip one item.
+- **2 Interact with an Object.** You may equip or unequip up to two items.
 
 ### Crafting
 
@@ -3681,7 +3681,7 @@ Return your discarded actions at the start of a game session and at the beginnin
 
 > Life requires some effort to maintain. You must physically attend to your life and take action to promote your health and wellness. Your body, mind, and essence or spirit need loving kindness, loving guidance, and self-care for optimal health. There is no away-from-keyboard (AFK) in RL. There is no auto-follow or AFK leveling. You must take action if you are to meet your goals in life. If you don't take action in your life, who will?
 
-## Attack
+## Attack (Turn)
 
 **_Discard your action to Attack_.** The most common action to take in combat is the Attack action, whether you are swinging a sword, firing an arrow from a bow, or brawling with your fists.
 
@@ -3693,35 +3693,35 @@ Certain features, such as the Extra Attack feature of the fighter, allow you to 
 
 **_Discard your action to Cast a Spell_.** Spellcasters and many monsters have access to spells and can use them to great effect. Spells typically discard your action to cast. If the spell has a different casting time, such as 1 reaction, it will be listed in the spell's description.
 
-## Dash
+## Dash (Turn)
 
 **_Discard your action to Dash_.** After applying any modifiers, you gain extra movement for the current turn, equal to your speed. For example, with a speed of 6, you can move up to 12 squares on your turn if you Dash.
 
 Any increase or decrease to your speed changes this additional movement by the same amount.
 
-## Disengage
+## Disengage (Turn)
 
 **_Discard your action to Disengage_.** Until the end of your turn, your movement does not provoke opportunity attacks.
 
-## Dodge
+## Dodge (Turn)
 
 **_Discard your action to Dodge_.** Until the start of your next turn, any attack roll made against you has disadvantage if you can see the attacker, and you make DEX checks with advantage. You lose this benefit if you are incapacitated (as explained in appendix PH-A) or if your speed drops to 0.
 
-## Help
+## Help (Turn)
 
 **_Discard your action to Help a creature until the beginning of your next turn_.** You lend aid to another creature in the completion of a task. The creature you aid gains advantage on the next ability check it makes to perform the task you are helping with.
 
 Alternatively, you can aid a friendly creature in attacking a creature within your reach. You can feint, distract the target, or, in some other way, team up to make your ally’s attack more effective. If your ally attacks the target, the first attack roll is made with advantage.
 
-## Hide
+## Hide (Turn)
 
 **_Discard your action to Hide_.** You make a DEX check in an attempt to hide, following the rules for hiding. If you succeed, you gain certain benefits, as described in the “Unseen Attackers and Targets” section.
 
-## Object Interaction (Interact with an Object)
+## Interact with an Object (Turn)
 
-**_Discard your action to Interact with an Object_.** You normally interact with an object while doing something else, such as when you draw a sword as part of an attack. When an object requires your action for its use, you take the Use an Object action. This action is also useful when you want to interact with more than one object on your turn.
+**_Discard your action to Interact with an Object_.** You normally interact with an object while doing something else, such as when you draw a sword as part of an attack. When an object requires your action for its use, you take the Interact with an Object action. This action is also useful when you want to interact with more than one object on your turn.
 
-You gain one free object interaction each turn. Additional object interactions discard your action.
+You gain one free Interact with an Object action each turn. Additional Interact with an Object actions discard your action.
 
 ## Reaction
 
@@ -5567,7 +5567,7 @@ The 5eFP community will continue listening, learning, and reflecting, individual
     - Use ability checks instead of saving throws. This makes it so much easier to teach new players and simplifies the character sheet!
 - No grapple rules. The rules are too crunchy and cumbersome, and players often end up simply grappling every round, which is no longer an interesting option for gameplay. And we don't need 5eFP to be hyper realistic with regard to combat. Combat needs to go smoothly and efficiently. Creatures can have a grab feature that mimic the grapple rules. PCs will have options to reduce creature movement without needing to use grapple rules.
 - Simple concentration rules. No need to roll concentration when you take damage. Spellcasters are trained and experienced with handling these situations by the spellcasting, pact magic, or another game feature that allows them to cast spells.
-- The action economy includes three options: the action, reaction, and object interaction. All three are discarded to fuel certain game features. Once discarded, they can no longer be used to fuel game features until they are regained. You regain a discarded action, reaction, and object interaction at the start of your turn or when an encounter ends.
+- The action economy includes three options: the action, reaction, and interact with an object. All three are discarded to fuel certain game features. Once discarded, they can no longer be used to fuel game features until they are regained. You regain a discarded action, reaction, and interact with an object at the start of your turn or when an encounter ends.
 - Removed the bonus action.
     - Quality of life improvement for both PCs and GMs. The game doesn't need one more type of action to run smoothly. Reducing complexity and improving playability for new players, in particular. Bonus actions are revised and included within existing actions.
         - For example, you activate the Rage game feature as part of taking the Attack action. When casting a spell like _healing word_, you take the Cast a Spell action without discarding your action.
