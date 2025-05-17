@@ -118,15 +118,15 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Round_.** In combat and other fast-­paced situations, the game relies on rounds, a 6-­second span of time. A downtime round represents one or more days.
 
-**_Setting Handbook_.** All details about the 5eFP practice you are joining, including read-aloud text, GM contact information, game backstory, world map, HQ information, how the practice refers to Coin, the game's central conflict, the game's story directions, how PC Recall, how PCs fast travel, and the setting handbook requirement can be found in your setting handbook.
+**_Setting Handbook_.** All details about the 5eFP practice you are joining, including read-aloud text, GM contact information, game backstory, world map, whether the game includes faith, HQ information, how the practice refers to Coin, the game's central conflict, the game's story directions, how PC Recall, how PCs fast travel, and the setting handbook requirement can be found in your setting handbook.
 
-**_Setting Handbook Requirement_.** PCs must complete this special task each game session, which might involve but isn't limited to placing and using an item, locating and gathering an item, finding and rescuing bystanders, gathering intelligence, or gathering a resource. For example, PCs must find and gather an herb, a starflower, in the _Enchanted Forest_ setting.
+**_Setting Handbook Requirement_.** PCs must complete this special task each game session, which might involve, but isn't limited to, placing and using an item, locating and gathering an item, finding and rescuing bystanders, gathering intelligence, or gathering a resource. For example, PCs must find and gather an herb, a starflower, in the _Enchanted Forest_ setting.
 
 **_Story Directions_.** The world map has four cardinal directions: North (N), South (S), East (E), and West (W). Each cardinal direction is linked to a unique story corresponding to that direction. There are also four ordinal or hybrid directions: Northeast (NE), Southeast (SE), Southwest (SW), and Northwest (NW). Each hybrid direction is linked to the stories contained within adjacent directions.
 
-**_Story Elements_.** Story elements are pieces of the overall story relating to the game's conflict, modified by the particular direction the PCs are exploring. Over time, these story elements automatically create stories of their own. GMs and PCs don't necessarily need to control how these elements emerge, though GMs may choose to adjust them with player consent so they fit together better.
+**_Story Elements_.** Story elements are pieces of the overall story relating to the game's conflict, modified by the particular direction the PCs are exploring. Over time, these story elements automatically create stories of their own.
 
-**_Time Marker_.** Keep track of how long PCs are deployed on an unexplored world map tile. The time marker begins at 0 and increases when an encounter is resolved. If three footholds are resolved and the PCs reveal additional footholds, each increases the time marker by +1. When the time marker reaches 8, all PCs instantaneously Recall.
+**_Time Marker_.** Keep track of how long PCs are deployed on an unexplored world map tile. The time marker begins at 0 and increases by +1 when an encounter is resolved or after a rest. If three footholds are resolved and the PCs reveal additional footholds, each increases the time marker by +1. When the time marker reaches 8, all PCs instantaneously Recall.
 
 **_Turn_.** During a round, a creature takes its turn, during which it can spend a wide variety of actions. Usually, over the course of one turn, a creature can take an action, use an object, or take a reaction (see Actions). A game feature with the turn keyword can only be used once during your turn.
 
