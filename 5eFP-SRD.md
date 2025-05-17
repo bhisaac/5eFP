@@ -522,7 +522,7 @@ During the affected creature's turn, it can roll any of your action dice and add
 |2⛁|-|-|Song of Rest|You and your allies discard up to 1 wound when completing a rest.|
 |3⛁|-|4|Magic|You learn one spell from the bard spell list.|
 |3⛁|-|-|Bard College|...|
-|3⛁|-|-|Expertise|...|
+|3⛁|-|-|Expertise (Rest 2)|...|
 
 ## Bard College
 
@@ -5558,7 +5558,7 @@ The 5eFP community will continue listening, learning, and reflecting, individual
 
 (Complete list TBD)
  
-- Expertise is a game feature with the Rest 2 keyword. When activated, you can add LEVEL to your ability or tool check twice instead of once.
+- Expertise and similar game features have the Rest 2 keyword. When activated, you can add LEVEL to your ability or tool check twice instead of once.
 - Celestials, demons, and devils were removed from the core game rules. They can be added back in through a campaign setting handbook. Iconic fantasy creatures like the unicorn, pegasus, and couatl are intelligent and magical beasts.
     - Two reasons for this change.
         - Removed to maintain a neutral stance on religious content. GMs and players may choose to reintroduce religious content detailed within the faith section of their setting handbook. 5eFP facilitates inner work without being strictly religious or non-religious.
