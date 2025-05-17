@@ -3681,7 +3681,7 @@ Return your discarded actions at the start of a game session and at the beginnin
 
 > Life requires some effort to maintain. You must physically attend to your life and take action to promote your health and wellness. Your body, mind, and essence or spirit need loving kindness, loving guidance, and self-care for optimal health. There is no away-from-keyboard (AFK) in RL. There is no auto-follow or AFK leveling. You must take action if you are to meet your goals in life. If you don't take action in your life, who will?
 
-## Attack (Turn)
+## Attack
 
 **_Discard your action to Attack_.** The most common action to take in combat is the Attack action, whether you are swinging a sword, firing an arrow from a bow, or brawling with your fists.
 
@@ -3717,7 +3717,7 @@ Alternatively, you can aid a friendly creature in attacking a creature within yo
 
 **_Discard your action to Hide_.** You make a DEX check in an attempt to hide, following the rules for hiding. If you succeed, you gain certain benefits, as described in the “Unseen Attackers and Targets” section.
 
-## Interact with an Object (Turn)
+## Interact with an Object
 
 **_Discard your action to Interact with an Object_.** You normally interact with an object while doing something else, such as when you draw a sword as part of an attack. When an object requires your action for its use, you take the Interact with an Object action. This action is also useful when you want to interact with more than one object on your turn.
 
