@@ -1424,7 +1424,7 @@ Emulating the Hunter archetype means accepting your place as a bulwark between c
 
 You gain one of the following features of your choice:
 
-- **_Colossus Slayer_ (Turn).** Your tenacity can wear down the most potent foes. You take the Attack action and hit a creature that is not at MAX Wounds with a weapon attack. The creature takes +1 damage.
+- **_Colossus Slayer_ (Action).** Your tenacity can wear down the most potent foes. You take the Attack action. If you hit a creature that is not at MAX Wounds with a weapon attack, the creature takes +1 damage.
 - **_Giant Killer_ (Reaction).** When a Large or larger creature within 1 square of you hits or misses you with an attack, you can attack that creature immediately after its attack, provided that you can see the creature.
 - **_Horde Breaker_.** When you take the Attack action, you can make another attack with the same weapon against a different creature that is within 1 square of the original target and within range of your weapon.
 
@@ -1602,11 +1602,11 @@ As magic flows through your body, it causes the physical traits of your dragon a
 
 You tap into a deep wellspring of magic within yourself allowing you to create a variety of magical effects.
 
-### Flexible Casting (Turn)
+### Flexible Casting (Action, Turn)
 
 You can spend a use of your sorcery feature to gain additional mana, or sacrifice mana to replenish an expended use of your sorcery feature.
 
-You either spend two uses of your sorcery feature to gain 2 mana or expend 2 mana to refresh one use of your sorcery feature.
+You either spend two uses of your sorcery feature to gain 2 mana or expend 2 mana to refresh one use of your sorcery feature. You may then take one additional action.
 
 ## Metamagic
 
@@ -1639,7 +1639,7 @@ When you cast a spell that forces a creature to make an ability check to resist 
 
 ### Quickened Spell (Turn)
 
-You take the Cast a Spell action with a spell with a casting time of 1 action, spending two uses of your sorcery feature instead of discarding your action. If you repeat the Cast a Spell action during the same turn, the spell must be a cantrip.
+You take the Cast a Spell action, casting a spell with a casting time of 1 action, spending two uses of your sorcery feature to change the spell's casting time to instant. If you repeat the Cast a Spell action during the same turn, the spell must be a cantrip.
 
 ### Subtle Spell
 
