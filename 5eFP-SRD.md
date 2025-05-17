@@ -557,9 +557,11 @@ You learn two spells of your choice from any class. A spell you choose must be o
 
 When you make an ability check, you can expend one use of Bardic Action Dice to roll your action dice and add the number rolled to your ability check. You can do so after you roll the die for the ability check, but before the GM tells you whether you succeed or fail.
 
-## Expertise
+## Expertise (Rest 2)
 
-Gain proficiency with a non-proficient ability of your choice. Then choose two of your ability proficiencies or one of your ability proficiencies and your proficiency with a tool. As long as the chosen proficiencies or tools do not already have expertise, you gain expertise in the chosen abilities or tools. Expertise allows you to add your level to a check twice instead of once.
+When you purchase this upgrade, you gain proficiency with a non-proficient ability. Then choose two of your ability proficiencies or one of your ability proficiencies and your proficiency with a tool.
+
+You make an ability check with one of your chosen abilities or tools, adding your level to the check twice instead of once.
 
 # Cleric
 
@@ -1339,9 +1341,9 @@ You have advantage on WIS checks to track your favored enemies, as well as on IN
 
 When you gain this feature, you also learn one language of your choice that is spoken by your favored enemies, if they speak one at all.
 
-## Natural Explorer
+## Favored Terrain
 
-You are particularly familiar with one type of natural environment and are adept at traveling and surviving in such regions. Choose one type of favored terrain: arctic, coast, desert, forest, grassland, mountain, or swamp. While in your favored terrain, proficient ability checks related to your favored terrain gain expertise. (Expertise allows you to add your level to your bonus twice.)
+Choose one type of favored terrain: arctic, coast, desert, forest, grassland, mountain, or swamp. You are particularly familiar with the chosen type of natural environment and are adept at traveling and surviving in such regions.
 
 While traveling in your favored terrain and while you are the group token controller, you gain the following benefits:
 
@@ -1351,6 +1353,12 @@ While traveling in your favored terrain and while you are the group token contro
 - Your group may move stealthily at a normal pace.
 - You find one additional resource when you gather resources.
 - While tracking other creatures, you also learn their exact number and sizes and how long ago they passed through the area.
+
+Game features with the Favored Terrain keyword can only be used while you are in your favored terrain.
+
+## Natural Explorer (Favored Terrain, Rest 2)
+
+You make an ability check related to your favored terrain, adding your level to the check twice instead of once. For example, making a STR check to climb a cliff or rocky slope is a related ability check for the mountain favored terrain.
 
 # Ranger Upgrades
 
@@ -1453,9 +1461,11 @@ You start with the following equipment, in addition to the equipment granted by 
 - (a) a burglar’s pack, (b) a dungeoneer’s pack, or (c) an explorer’s pack
 - (a) Leather armor, two daggers, and thieves’ tools
 
-## Expertise
+## Expertise (Rest 2)
 
-Gain proficiency with a nonproficient ability of your choice. Then, choose two of your ability proficiencies or one of your ability proficiencies and your proficiency with thieves’ tools. As long as the chosen proficiencies or tools do not already have expertise, you gain expertise in the chosen abilities or tools. Expertise allows you to add your level to a check twice instead of once.
+When you purchase this upgrade, you gain proficiency with a non-proficient ability. Then choose two of your ability proficiencies or one of your ability proficiencies and your proficiency with thieves' tools.
+
+You make an ability check with one of your chosen abilities or tools, adding your level to the check twice instead of once.
 
 ## Sneak Attack
 
@@ -5548,6 +5558,7 @@ The 5eFP community will continue listening, learning, and reflecting, individual
 
 (Complete list TBD)
  
+- Expertise is a game feature with the Rest 2 keyword. When activated, you can add LEVEL to your ability or tool check twice instead of once.
 - Celestials, demons, and devils were removed from the core game rules. They can be added back in through a campaign setting handbook. Iconic fantasy creatures like the unicorn, pegasus, and couatl are intelligent and magical beasts.
     - Two reasons for this change.
         - Removed to maintain a neutral stance on religious content. GMs and players may choose to reintroduce religious content detailed within the faith section of their setting handbook. 5eFP facilitates inner work without being strictly religious or non-religious.
