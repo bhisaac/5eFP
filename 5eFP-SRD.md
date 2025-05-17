@@ -1039,11 +1039,11 @@ You take the Attack action. Immediately after taking the Attack action, you can 
 
 ### Patient Defense (Encounter, Ki, Rest)
 
-Once during your turn, you can take the Dodge action without discarding your action.
+You can take the Dodge action without discarding your action.
 
 ### Step of the Wind (Encounter, Ki, Rest)
 
-Once during your turn, you can take the Disengage or Dash action without discarding your action, and your jump distance is doubled.
+You can take the Disengage or Dash action without discarding your action, and your jump distance is doubled.
 
 ## Unarmored Movement
 
