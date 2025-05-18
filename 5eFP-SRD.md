@@ -128,7 +128,7 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Time Marker_.** Keep track of how long PCs are deployed on an unexplored world map tile. The time marker begins at 0 and increases by +1 when an encounter is resolved or after a rest. If three footholds are resolved and the PCs reveal additional footholds, each increases the time marker by +1. When the time marker reaches 8, all PCs instantaneously Recall.
 
-**_Turn_.** During a round, a creature takes its turn, during which it can spend a wide variety of actions. Usually, over the course of one turn, a creature can take an action, use an object, or take a reaction (see Actions). A game feature with the turn keyword can only be used once during your turn.
+**_Turn_.** During a round, a creature takes its turn, during which it can spend a wide variety of actions. Usually, over the course of one turn, a creature can take an action, use an object, or take a reaction (see Actions). A game feature with the turn keyword can only be used once during your turn and persists until the beginning of your next turn.
 
 **_Upgrade_.** Once the PCs Recall, they may spend Coin unlocking character upgrades. Available upgrades include background, class, and species, and are limited to only those upgrades equal to or less than LEVEL. Once all PCs stop spending Coin on character upgrades, downtime begins.
 
