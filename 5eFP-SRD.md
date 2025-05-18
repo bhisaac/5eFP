@@ -960,17 +960,6 @@ With this game feature, you can have up to two bonded weapons, but you can summo
 |Cost|Prerequisites|Mana|Feature|Details|
 |-:|:-:|:-:|:-|:-|
 |2⛁|-|3|Magic|You learn one abjuration or evocation spell from the wizard spell list.|
-|4⛁|Level 2|3|Magic|You learn one abjuration or evocation spell from the wizard spell list.|
-|5⛁|Level 2|3|-|Your non-magical eldritch weapons become magical with a +1 bonus to attack and damage while you have them equipped.|
-|8⛁|Level 3|3|Magic|You learn one abjuration or evocation spell from the wizard spell list.|
-|8⛁|Level 3|8|Magic|You can cast 2nd-level spells. You learn one spell from the wizard spell list.|
-|10⛁|Level 4|10|Magic|You learn one cantrip and one abjuration or evocation spell from the wizard spell list.|
-|11⛁|Level 4|10|Magic|You learn one spell from the wizard spell list.|
-|13⛁|Level 5|10|Magic|You can cast 3rd-level spells. You learn one abjuration or evocation spell from the wizard spell list.|
-|14⛁|Level 5|10|Magic|You learn one abjuration or evocation spell from the wizard spell list.|
-|16⛁|Level 6|19|Magic|You learn one abjuration or evocation spell from the wizard spell list.|
-|19⛁|Level 7|23|Magic|You can cast 4th-level spells. You learn one abjuration or evocation spell from the wizard spell list.|
-|20⛁|Level 7|23|Magic|You learn one spell from the wizard spell list.|
 
 # Monk
 
