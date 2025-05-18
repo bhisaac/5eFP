@@ -545,19 +545,6 @@ You gain proficiency with one ability of your choice.
 
 You learn how to use your wit to distract, confuse, and otherwise sap the confidence and competence of others. When a creature you can see within 12 squares of you makes an attack roll or an ability check, you can expend one use of bardic action dice, rolling five action dice and subtracting the number from the creature’s roll. You can use this feature after the creature makes its roll, but before the GM determines whether the attack roll or ability check succeeds or fails, or before the creature deals its damage. The creature is immune if it can’t hear you or is immune to being charmed. When used this way, you do not gain an additional action from your bardic action dice feature.
 
-|Cost|Prerequisites|Feature|Details|
-|-:|:-:|:-|:-|
-|3⛁|Level 2|Additional Magic Secrets|...|
-|2⛁|Level 5|Peerless Skill|...|
- 
-### Additional Magic Secrets
-
-You learn two spells of your choice from any class. A spell you choose must be of a level you can cast or a cantrip. The chosen spells count as bard spells for you.
-
-### Peerless Skill
-
-When you make an ability check, you can expend one use of Bardic Action Dice to roll your action dice and add the number rolled to your ability check. You can do so after you roll the die for the ability check, but before the GM tells you whether you succeed or fail.
-
 ## Expertise (Rest 2)
 
 When you purchase this upgrade, you gain proficiency with a non-proficient ability. Then choose two of your ability proficiencies or one of your ability proficiencies and your proficiency with a tool.
@@ -1408,7 +1395,7 @@ Emulating the Hunter archetype means accepting your place as a bulwark between c
 
 You gain one of the following features of your choice:
 
-- **_Colossus Slayer_ (Action).** Your tenacity can wear down the most potent foes. You take the Attack action. If you hit a creature that is not at MAX Wounds with a weapon attack, the creature takes +1 damage.
+- **_Colossus Slayer_ (Action).** Your tenacity can wear down the most potent foes. You take the Attack action. If you hit a creature not at MAX Wounds with a weapon attack, the creature takes +1 damage.
 - **_Giant Killer_ (Reaction).** When a Large or larger creature within 1 square of you hits or misses you with an attack, you can attack that creature immediately after its attack, provided that you can see the creature.
 - **_Horde Breaker_.** When you take the Attack action, you can make another attack with the same weapon against a different creature that is within 1 square of the original target and within range of your weapon.
 
