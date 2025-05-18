@@ -509,9 +509,9 @@ You can cast any bard spell you know as a ritual if that spell has the ritual ta
 
 Your bardic magic lets you use your voice or any instrument you wield more effectively. You roll with advantage whenever you make CHA checks with your voice or an instrument you're wielding.
 
-## Bardic Action Dice (Action, Cooldown CHA)
+## Bardic Action Dice (Action, Cooldown CHA, Turn)
 
-You can inspire others by stirring words or music. Choose one creature other than yourself within 10 squares of you who can hear you. That creature gains five of your action dice until the beginning of your next turn. You may then take one additional action.
+You can inspire others by stirring words or music. Choose one creature other than yourself within 10 squares of you who can hear you. That creature gains five of your action dice. You may then take one additional action.
 
 During the affected creature's turn, it can roll any of your action dice and add the result to one ability check or attack roll it makes. The creature can wait until after it rolls the d20 before deciding to use any of your action dice, but must decide before the GM says whether the roll succeeds or fails. Once your action dice are rolled, they are returned to you. If the creature has one or more of your action dice and gains more, it decides whether to keep the ones it has or gain the new ones. Any discarded action dice are returned to you.
 
@@ -1058,12 +1058,6 @@ You know the Elemental Attunement and another elemental discipline of your choic
 Whenever you learn a new elemental discipline, you can also replace one elemental discipline that you already know with a different discipline.
 
 **_Casting Elemental Spells_.** Some elemental disciplines allow you to cast spells (see Spellcasting). Wisdom (WIS) is your spellcasting ability for your elemental discipline spells. Use your ki DC for spells that include an ability check and use 2 + WIS for your spell attack modifier. You can cast an elemental discipline spell with a spell level up to LEVEL.
-
-|Cost|Prerequisites|Feature|Details|
-|-:|:-:|:-|:-|
-|3⛁|Level 2|-|You learn an additional elemental discipline.|
-|2⛁|Level 4|-|You learn an additional elemental discipline.|
-|2⛁|Level 6|-|You learn an additional elemental discipline.|
 
 ### Elemental Disciplines
 
@@ -2151,8 +2145,8 @@ Your survival awards expanded capacities, allowing you to identify and acquire n
 When you use your dedication to activate Survival, choose one of the following:
 
 - **_Reveal a game objective_.** Place a foothold or setting handbook requirement on a revealed square of your choice up to 2 squares away from you.
-- **_Gain an advantage (playtesting)_.** Choose any game feature in the playing field and gain temporary access until the beginning of your next turn. Game features include spells, items, or class features. You control the item, which is treated as if it were in your hands. If the item is multi-use, you gain one free use even if no uses remain. You control and cast the spell, ignoring prerequisites. You can only choose a spell with a duration of encounter or instantaneous, and you cannot choose to control a spell already in effect. If the chosen class feature has rules that take effect when an encounter or game session begins, they take effect as if it were the beginning of the encounter or the start of the game session.
-- **_Gain a skill (playtesting)_.** Choose an incomplete background, class, or species upgrade available to you and gain temporary access to its game features until the beginning of your next turn. You must still satisfy any prerequisites before choosing the upgrade.
+- **_Gain a resource (playtesting)_.** Choose and gain the benefits of one of your game features that is on cooldown.
+- **_Gain a skill_ (Turn).** Choose an incomplete background, class, or species upgrade with one or more Coin assigned to it. You gain temporary access to its game features. You must still satisfy any prerequisites before choosing the upgrade.
 
 > **Other Game Systems**
 >
@@ -3699,7 +3693,7 @@ Any increase or decrease to your speed changes this additional movement by the s
 
 ## Help (Turn)
 
-**_Discard your action to Help a creature until the beginning of your next turn_.** You lend aid to another creature in the completion of a task. The creature you aid gains advantage on the next ability check it makes to perform the task you are helping with.
+**_Discard your action to Help a creature_.** You lend aid to another creature in the completion of a task. The creature you aid gains advantage on the next ability check it makes to perform the task you are helping with.
 
 Alternatively, you can aid a friendly creature in attacking a creature within your reach. You can feint, distract the target, or, in some other way, team up to make your ally’s attack more effective. If your ally attacks the target, the first attack roll is made with advantage.
 
@@ -3997,11 +3991,11 @@ The effects of different spells add together while the durations of those spells
 
 For example, if two clerics cast _bless_ on the same target, that character gains the spell’s benefit only once and does not get to roll four action dice.
 
-### Detect Magic
+### Detect Magic (Action, Turn)
 
-Spellcasters have an innate ability to perceive the flow of magic. You can discard your action on your turn to sense the presence of magic up to 6 squares away. If you sense magic in this way, you can see a faint aura around any visible creature or object in the area that bears magic, and you learn its school of magic, if any.
+Spellcasters have an innate ability to perceive the flow of magic. You sense the presence of magic up to 6 squares away. If you sense magic in this way, you can see a faint aura around any visible creature or object in the area that bears magic, and you learn its school of magic, if any.
 
-This awareness lasts until the beginning of your next turn and can penetrate most barriers. However, it is blocked by one square of stone, metal, wood, or dirt and a thin sheet of lead.
+This awareness can penetrate most barriers. However, it is blocked by one square of stone, metal, wood, or dirt and a thin sheet of lead.
 
 ## Spell Lists
 
