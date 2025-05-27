@@ -264,10 +264,7 @@ As a high elf, you have strong ties to nature and magic. In many fantasy gaming 
 
 **Elf Weapon Training.** You have proficiency with the longsword, shortsword, shortbow, and longbow.
 
-**Magic Attunement.** Choose and gain one species trait:
-- **Arcane.** You know one cantrip of your choice from the wizard spell list. INT is your spellcasting ability for it. You can also speak, read, and write one extra language of your choice.
-- **Feywild. (Rest)** You can cast the *misty step* spell once using this trait.
-- **Shadowfell. (Rest)** You can cast the *faerie fire* spell once using this trait.
+**Arcane Attunement.** You know one cantrip of your choice from the wizard spell list. INT is your spellcasting ability for it. You can also speak, read, and write one extra language of your choice.
 
 ### Wood Elf
 
