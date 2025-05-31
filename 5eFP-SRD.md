@@ -130,7 +130,7 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Turn_.** During a round, a creature takes its turn, during which it can spend a wide variety of actions. Usually, over the course of one turn, a creature can take an action, use an object, or take a reaction (see Actions). A game feature with the turn keyword can only be used once during your turn and persists until the beginning of your next turn.
 
-**_Upgrade_.** Once the PCs Recall, they may spend Coin unlocking character upgrades. Available upgrades include background, class, and species, and are limited to only those upgrades equal to or less than LEVEL. Once all PCs stop spending Coin on character upgrades, downtime begins.
+**_Upgrade_.** Once the PCs Recall, they may spend Coin unlocking character upgrades. Available upgrades include class and species, and are limited to only those upgrades equal to or less than LEVEL. Once all PCs stop spending Coin on character upgrades, downtime begins.
 
 **_Wounds_.** Any damage assigned to you that you cannot reduce or prevent is converted to an equal number of wounds.
 
@@ -371,7 +371,7 @@ As a barbarian, you gain the following class features.
 
 ### Equipment
 
-You start with the following equipment, in addition to the equipment granted by your background:
+You start with the following equipment:
 - (*a*) a battleaxe or (*b*) any martial melee weapon
 - (*a*) handaxes or (*b*) any simple weapon
 - An explorer's pack and javelins
@@ -464,7 +464,7 @@ As a bard, you gain the following class features.
 
 ### Equipment
 
-You start with the following equipment, in addition to the equipment granted by your background:
+You start with the following equipment:
 - (*a*) a rapier or (*b*) a longsword, or (*c*) any simple weapon
 - (*a*) a diplomat's pack or (*b*) an entertainer's pack
 - (*a*) a lute or (*b*) any other musical instrument
@@ -568,7 +568,7 @@ As a cleric, you gain the following class features.
 
 ### Equipment
 
-You start with the following equipment, in addition to the equipment granted by your background:
+You start with the following equipment:
 
 - (*a*) a mace or (*b*) a warhammer (if proficient)
 - (*a*) scale mail or (*b*) leather armor or (*c*) chainmail (if proficient)
@@ -684,7 +684,7 @@ As a druid, you gain the following class features.
 
 ### Equipment
 
-You start with the following equipment, in addition to the equipment granted by your background:
+You start with the following equipment:
 
 - (*a*) a wooden shield or (*b*) any simple weapon
 - (*a*) a scimitar or (*b*) any simple melee weapon
@@ -838,7 +838,7 @@ As a fighter, you gain the following class features.
 
 ### Equipment
 
-You start with the following equipment, in addition to the equipment granted by your background:
+You start with the following equipment:
 
 - (*a*) chain mail or (*b*) leather armor, longbow, and arrows
 - (*a*) a martial weapon and a shield or (*b*) two martial weapons
@@ -965,7 +965,7 @@ As a monk, you gain the following class features.
 
 ### Equipment
 
-You start with the following equipment, in addition to the equipment granted by your background:
+You start with the following equipment:
 
 - (*a*) a shortsword or (*b*) any simple weapon
 - (*a*) a dungeoneer’s pack or (*b*) an explorer’s pack
@@ -1142,7 +1142,7 @@ As a paladin, you gain the following class features.
 
 ### Equipment
 
-You start with the following equipment, in addition to the equipment granted by your background:
+You start with the following equipment:
 
 - (a) a martial weapon and a shield or (b) two martial weapons
 - (a) javelins or (b) any simple melee weapon
@@ -1294,7 +1294,7 @@ As a ranger, you gain the following class features.
 
 ### Equipment
 
-You start with the following equipment, in addition to the equipment granted by your background:
+You start with the following equipment:
 
 - (a) scale mail or (b) leather armor
 - (a) two shortswords or (b) two simple melee weapons
@@ -1422,7 +1422,7 @@ As a rogue, you have the following class features.
 
 ### Equipment
 
-You start with the following equipment, in addition to the equipment granted by your background:
+You start with the following equipment:
 
 - (a) a rapier or (b) a shortsword
 - (a) a shortbow and quiver of arrows or (b) a shortsword
@@ -1494,7 +1494,7 @@ As a sorcerer, you gain the following class features.
 
 ### Equipment
 
-You start with the following equipment, in addition to the equipment granted by your background:
+You start with the following equipment:
 
 - (a) a light crossbow and bolts or (b) any simple weapon
 - (a) a dungeoneer’s pack or (b) an explorer’s pack
@@ -1639,7 +1639,8 @@ As a warlock, you gain the following class features.
 
 ### Equipment
 
-You start with the following equipment, in addition to the equipment granted by your background:
+You start with the following equipment:
+
 - (a) a light crossbow and bolts or (b) any simple weapon
 - (a) a scholar’s pack or (b) a dungeoneer’s pack
 - Leather armor, any simple weapon, and two daggers
@@ -1833,7 +1834,8 @@ As a wizard, you gain the following class features.
 
 ### Equipment
 
-You start with the following equipment, in addition to the equipment granted by your background:
+You start with the following equipment:
+
 - (a) a quarterstaff or (b) a dagger
 - (a) a scholar’s pack or (b) an explorer’s pack
 - A spellbook
@@ -1927,7 +1929,7 @@ As you go on adventures and overcome challenges, you gain experience, represente
 
 Once you reach level 4, the game state changes. You gain a level once all areas in the current level of play are explored and resolved. Level 4 areas are located one floor above or below level 1 footholds and in the unresolved footholds found in level 1 world map tiles. Similarly, level 5 areas are located one floor above or below level 2 footholds and in the unresolved footholds found in level 2 world map tiles. Level 6 areas are located one floor above or below level 3 footholds and in the unresolved footholds found in level 3 world map tiles. Level 7 areas are located two floors above or below level 1 footholds.
 
-While at HQ, you can spend Coin to purchase background, species, class, or other upgrades for your character. You can only purchase an upgrade once unless otherwise indicated in its description. An upgrade detail with three dots means its details are provided in the feature's description. If an upgrade grants a game feature your character already has, the upgraded version replaces it. Your setting handbook may provide additional upgrades.
+While at HQ, you can spend Coin to purchase species, class, or other upgrades for your character. You can only purchase an upgrade once unless otherwise indicated in its description. An upgrade detail with three dots means its details are provided in the feature's description. If an upgrade grants a game feature your character already has, the upgraded version replaces it. Your setting handbook may provide additional upgrades.
 
 The following properties describe most upgrades.
 
@@ -2008,7 +2010,7 @@ Alignment is sometimes an essential part of the nature of some creatures. An efr
 Most creatures that lack the capacity for rational thought do not have alignments—they are unaligned. Such a creature is incapable of making a moral or ethical choice and acts according to its bestial nature. Sharks are savage predators, for example, but they are not evil; they have no alignment.
 
 ## Languages
-Your species indicates the languages your character can speak by default, and your background might give you access to one or more additional languages of your choice. Note these languages on your character sheet.
+Your species indicates the languages your character can speak by default, and you may get access to one or more additional languages of your choice from other game features. Note these languages on your character sheet.
 
 Choose your languages from the Standard Languages table, or choose one that is common in your campaign. With your GM’s permission, you can instead choose a language from the Exotic Languages table or a secret language, such as thieves’ cant or the tongue of druids.
 
@@ -2130,237 +2132,11 @@ When you use your dedication to activate Survival, choose one of the following:
 
 - **_Reveal a game objective_.** Place a foothold or setting handbook requirement on a revealed square of your choice up to 2 squares away from you.
 - **_Gain a resource (playtesting)_.** Choose and gain the benefits of one of your game features that is on cooldown.
-- **_Gain a skill_ (Turn).** Choose an incomplete background, class, or species upgrade with one or more Coin assigned to it. You gain temporary access to its game features. You must still satisfy any prerequisites before choosing the upgrade.
+- **_Gain a skill_ (Turn).** Choose an incomplete class or species upgrade with one or more Coin assigned to it. You gain temporary access to its game features. You must still satisfy any prerequisites before choosing the upgrade.
 
 > **Other Game Systems**
 >
 >> When you use your dedication to activate Survival, the GM indicates the direction and position (if within view) of your current focused objective on the map. For example, a player might activate Survival when faced with three mysterious doors. The GM reveals the door leading to the player's current quest. How your character knows this is connected with their class abilities, skills, and game features. Healers might receive divine inspiration to determine the result. Mages might use divination magic to determine the result. Scoundrels might use knowledge, cunning, or preternatural awareness to determine the result. Warriors might use knowledge, survival skills, or gut instincts to determine the result.
-
-# Backgrounds
-
-Every story has a beginning. Your character’s background reveals where you came from, how you became an adventurer, and your place in the world. Your dwarf warrior might have been a courageous knight or a grizzled soldier. Your halfling mage could have been a sage or an artisan. Your elf scoundrel might have gotten by as a guild thief or commanded audiences as a jester.
-
-Choosing a background provides you with traits and important story cues about your character’s identity. Backgrounds describe all events leading up to joining a life of adventure. Your starting gear represents the implements and reagents typical of your chosen background. How did you learn the skills of your class? Refer to your setting handbook for potential answers to these questions.
-
-The most important question to ask about your background is what changed? Why did you stop doing whatever your background describes and start adventuring? Where did you get the money to purchase your starting gear, or, if you come from a wealthy background, why don’t you have more money? How did you learn the proficiencies of your class? What sets you apart from ordinary people who share your background? Your setting handbook helps you answer these questions.
-
-The sample backgrounds presented here provide both concrete benefits (features, proficiencies, and languages) and roleplaying suggestions.
-
-### Proficiencies
-
-Most backgrounds give a character proficiency with one or more tools (detailed in "Equipment").
-
-If your character would gain the same proficiency from two different sources, choose a different tool proficiency instead.
-
-### Languages
-Some backgrounds also allow characters to learn additional languages beyond those given by their species. See “Languages.”
-
-### Equipment
-Each background provides a package of starting equipment.
-
-### Feature
-Background features unlock bonuses that may provide expanded options in HQ, additional choices during downtime rounds, added features while you are the group token controller, or access to otherwise restricted options.
-
-Unless stated otherwise, any bonus ⛁ awarded through a background feature can only be spent on rest and repairs during a downtime round.
-
-## Acolyte
-
-You have spent your life in the service of a temple to a specific god or pantheon of gods. You act as an intermediary between the realm of the holy and the mortal world, performing sacred rites and offering sacrifices in order to conduct worshipers into the presence of the divine. You are not necessarily a cleric—performing sacred rites is not the same thing as channeling divine power.
-
-Choose a god, a pantheon of gods, or some other quasi-divine being from among those listed in "Fantasy-Historical Pantheons" or those specified by your GM, and work with your GM to detail the nature of your religious service. Were you a lesser functionary in a temple, raised from childhood to assist the priests in the sacred rites? Or were you a high priest who suddenly experienced a call to serve your god in a different way? Perhaps you were the leader of a small cult outside of any established temple structure, or even an occult group that served a fiendish master that you now deny.
-
-**Equipment:** A holy symbol (a gift to you when you entered the priesthood), a prayer book or prayer wheel, incense, vestments, a set of common clothes, and a pouch containing ⛁
-
-### Feature: Shelter of the Faithful
-
-As an acolyte, you command the respect of those who share your faith, and you can perform the religious ceremonies of your deity. Whenever you spend a downtime round at a temple, shrine, or other established presence of your faith, at the start of the downtime round, you gain ⛁ and holy water.
-
-### Upgrades
-
-Most acolytes never gain divine spellcasting. A rare few are rewarded for their devotion and service to their faith and receive a divine investiture of power, granting them the ability to innately cast cleric spells.
-
-|Cost|Prerequisites|Feature|Details|
-|-:|:-:|:-|:-|
-|4⛁|-|-|You gain the Touch of Magic feat, choosing the cleric class.|
-
-## Swindler
-
-You have a remarkable ability to connect with people. You understand their motivations and can decipher their deepest desires with just a few questions. You find this talent valuable and use it to your benefit.
-
-**Tool Proficiencies:** Disguise kit, forgery kit
-
-**Equipment:** A set of fine clothes, disguise kit, tools of the con of your choice (ten stoppered bottles filled with colored liquid, a set of weighted dice, a deck of marked cards, or a signet ring of an imaginary duke), and a belt pouch containing ⛁
-
-### Feature: False Identity
-
-As part of completing a rest, you may switch to a secondary identity that includes documentation, established acquaintances, and disguises that allow you to assume that persona. While disguised, any ability checks made while keeping up your ruse gain advantage.
-
-## Entertainer
-
-You are a natural performer who can captivate, entertain, and motivate your audience. Your words, music, or dance moves can evoke powerful emotions. Your performance art is an integral part of your life.
-
-**Tool Proficiencies:** Disguise kit, one type of musical instrument
-
-**Equipment:** A musical instrument (one of your choice), the favor of an admirer (a trinket), a costume, and a belt pouch containing ⛁
-
-### Feature: By Popular Demand
-
-You gain ⛁ if you spend a downtime round at a circus, inn, marketplace, noble's court, tavern, or theater.
-
-## Folk Hero
-
-Your social status may be humble, but you have a greater purpose in life. The people of your village already view you as their champion, and you are called upon to confront the tyrants and monsters that endanger the common people everywhere.
-
-**Tool Proficiencies:** One type of artisan's tools, vehicles (land)
-
-**Equipment:** A set of artisan's tools (one of your choice), a shovel, an iron pot, and a belt pouch containing ⛁
-
-### Feature: Rustic Hospitality
-
-You bypass obstacles and move undetected through city and road terrain tiles while you are the group token controller. Additionally, whenever you speak to a commoner (someone without military or aristocratic rank), any related checks made while doing so gain advantage. If you spend a downtime round at a commoner's home, you gain ⛁.
-
-## Guild Artisan
-
-As a member of an artisan's guild, you possess excellent crafting skills and have established yourself among a community of like-minded individuals. Your talent and wealth have freed you from the restrictions of the feudal social order.
-
-**Tool Proficiencies:** One type of artisan's tools
-
-**Languages:** One of your choice
-
-**Equipment:** A set of artisan's tools (one of your choice), a letter of introduction from your guild, and a belt pouch containing ⛁
-
-### Feature: Master Craft
-
-Whenever you spend a downtime round crafting an item, you benefit from completing the downtime round twice. You may spend trade goods as if they were ⛁.
-
-## Hermit
-
-During a significant period of your life, you resided in isolation, either within a protected community like a monastery or completely by yourself. While away from society's busyness, you discovered peace, seclusion, and potentially some of the guidance you were looking for.
-
-**Tool Proficiencies:** Herbalism kit
-
-**Languages:** One of your choice
-
-**Equipment:** A scroll case stuffed full of notes from your studies or prayers, and an herbalism kit
-
-### Feature: Discovery
-
-Whenever you discover anything, add an additional choice before making a decision.
-
-## Outlaw
-
-You have a long history of violating the law. You have spent a considerable amount of time with other criminals and still have connections with the criminal underworld. You are much more intimately acquainted with the darker side of life than most people, and you have managed to survive thus far by disregarding the rules and regulations of civilized society.
-
-**Tool Proficiencies:** One type of gaming set, thieves' tools
-
-**Equipment:** A crowbar, a set of dark common clothes including a hood, and a belt pouch containing 2⛁
-
-### Feature: Thieves’ Cant
-
-Your criminal training taught you thieves’ cant, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. Only another creature that knows thieves’ cant understands such messages. It takes four times longer to convey such a message than it does to speak the same idea plainly.
-
-In addition, you understand a set of secret signs and symbols used to convey short, simple messages, such as whether an area is dangerous or the territory of a thieves’ guild, whether loot is nearby, or whether the people in an area are easy marks or will provide a safe house for thieves on the run.
-
-## Outlander
-
-You have grown up in an environment far away from civilization and the conveniences of technology. You have observed the migration of herds larger than forests and survived weather conditions that city-dwellers would find hard to fathom. You have also enjoyed the peace and quiet of being the only sentient being for miles in any direction. The wilderness runs in your veins, whether you were a nomad, an adventurer, a hermit, a hunter-gatherer, or even a raider. Even in places where you are unfamiliar with the specific features of the landscape, you understand the ways of the wild.
-
-**Tool Proficiencies:** One type of musical instrument
-
-**Languages:** One of your choice
-
-**Equipment:** A quarterstaff (staff), a hunting trap, a trophy (trinket) from an animal you hunted, and a belt pouch containing ⛁
-
-### Feature: Wanderer
-
-While you are the group token controller, you reveal obscuring tiles up to 2 squares away, provided you start your turn on natural terrain. You automatically detect and disarm any natural traps while moving the group token through natural terrain. You may set a natural trap during your round. You can only have 1 trap set this way per world map. When you use this feature to set a new trap, any previously set traps are removed.
-
-**_Wanderer (Cooldown)_.** During your turn, you place a campfire, resource, or treasure encounter on an explored world map tile within 2 squares.
-
-## Scholar
-
-You devoted numerous years of your life to gaining knowledge about the multiverse. You meticulously scoured through manuscripts, delved into scrolls, and paid rapt attention to the leading authorities on subjects that fascinated you. As a result of your hard work, you have become an expert in your chosen areas of study.
-
-**Languages:** Two of your choice
-
-**Equipment:** Scholar's kit, alchemist's supplies, or navigator's tools; and a belt pouch containing ⛁
-
-### Feature: Researcher
-
-Once during downtime, before spending any ⛁, you gain ⛁ this round for research only. You may spend this ⛁ on any available research at any location. If there are no available research tracks, add one to any location and spend the bonus ⛁ on the added research.
-
-## Seafarer
-
-For years, you spent your time on a seafaring vessel, braving powerful storms, sea monsters, and enemies who sought to sink your ship to the bottom of the ocean. Although your passion has always been for the far-off horizon, you now feel the urge to venture out and try something different.
-
-**Tool Proficiencies:** Navigator's tools, vehicles (water)
-
-**Equipment:** Club (belaying pin), silk rope, gain a random trinket as a lucky charm, and a belt pouch containing ⛁
-
-### Feature: Ship's Passage
-
-You gain the following features when HQ's docks are discovered.
-
-Once during the downtime phase, you and up to 4 other PCs may complete one downtime round onboard a ship in HQ's docks without spending ⛁. Before the end of your downtime round, move the ship onto a different and accessible world map tile that shares the same terrain as HQ's docks. Ships return to HQ's dock at the end of the downtime round.
-
-After deploying onto the world map, you may choose to deploy onboard your ship if the group token is on the same terrain as HQ's docks. Remove the group token from the world map and replace it with your ship token. Your ship token functions the same as a group token. While you are the group token controller onboard your ship, the ship gives you +1 speed, and you may remove obscuring tiles up to 2 squares away.
-
-If your ship is adjacent to a world map tile that does not share terrain with HQ's docks, all players may choose to embark simultaneously from the ship, placing the group token on an adjacent world map tile that does not share terrain with HQ's docks. While the players embark, the ship no longer counts as a group token. All players can later board the ship simultaneously, removing the group token from the world map. Once players board the ship, the ship resumes as the group token.
-
-Your ship returns to dock when you return to HQ.
-
-## Soldier
-
-You were trained at a young age for battle, learning how to handle weapons and armor, as well as basic survival skills. You have spent most of your life amidst wars, either as a member of a standing national army, a mercenary company, or a local militia that gained prominence during a recent conflict.
-
-**Tool Proficiencies:** One type of gaming set, vehicles (land)
-
-**Equipment:** An insignia of rank, a trophy taken from a fallen enemy (a dagger or trinket), a set of bone dice or deck of cards, and a belt pouch containing ⛁
-
-### Feature: Military Rank
-
-You have a military rank from your career as a soldier. Soldiers loyal to your former military organization still recognize your authority and influence, and they defer to you if they are of a lower rank. Before deploying onto the world map, you gain a soldier minion under your command who Deploys and Recalls to HQ alongside you. The soldier minion follows your commands to the best of its ability and allows you to remove 1 additional obscuring tile up to 2 squares away if you are the group token controller. If the soldier minion dies while deployed, remove it from the playing field. If your soldier minion Recalls with you, you gain ⛁.
-
-## Street Rat
-
-You grew up on the streets alone, fighting for survival every day. You had no family or financial support, slept in alleyways and on rooftops, and had to endure sickness without access to medicine. Despite all odds, you managed to survive by relying on your strength, speed, and cunning.
-
-**Tool Proficiencies:** Disguise kit, thieves' tools
-
-**Equipment:** A dagger (small knife), a pet critter, a trinket to remember your parents (or guardians) by, and a belt pouch containing ⛁
-
-### Feature: Streetwise
-
-If you are the group token controller and you move through 1 or more squares with the city, dungeon, or road terrains, you gain:
-- +1 Speed
-- You may move through buildings or end your turn on a building.
-- Buildings are considered difficult terrain for you.
-- Your pet critter allows you to remove one additional obscuring map tile up to 2 squares away.
-- Your party is never surprised when the group token is on a square with the building, city, dungeon, or road terrain.
-
-## Background-Name
-
-DESC TBD.
-
-**Tool Proficiencies:** TBD
-
-**Equipment:** TBD
-
-### Specialty
-
-|d8|Specialty|
-|:-:|:-|
-|1|TBD|
-|2|TBD|
-|3|TBD|
-|4|TBD|
-|5|TBD|
-|6|TBD|
-|7|TBD|
-|8|TBD|
-
-### Feature: TBD
-
 
 # Equipment
 
@@ -2907,7 +2683,7 @@ Group checks don’t come up very often, and they’re most useful when all the 
 
 ## Using Each Ability
 
-Every task that a character or monster might attempt in the game is covered by one of the six abilities. This section explains in more detail what those abilities mean and the ways they are used in the game. (A character’s starting proficiencies are determined by class and background at character creation, and a monster’s ability proficiencies appear in the monster’s stat block.)
+Every task that a character or monster might attempt in the game is covered by one of the six abilities. This section explains in more detail what those abilities mean and the ways they are used in the game. (A character’s starting proficiencies are determined by class at character creation, and a monster’s ability proficiencies appear in the monster’s stat block.)
 
 ## Strength (STR)
 
@@ -3215,7 +2991,7 @@ The following locations offer expanded downtime options but must first be unlock
 
 **Market.** TBA.
 
-**Temple.** In addition to the normal way of gaining access to the temple, unlock this location when one or more PCs choose the acolyte background and include the following downtime options.
+**Temple.** Include the following downtime options.
 - Spend (1) herbs to get (1) healing potion.
 - Spend ⛁ to cast *lesser restoration*.
 - Spend 5⛁ to cast *greater restoration*.
@@ -3270,11 +3046,11 @@ Whenever you choose the crafting downtime activity, you can choose to create any
 **Holy Water.** You create holy water.
 
 - healer class or
-- (a) acolyte background and (b) temple building
+- temple building
 
 **Trade Goods.** You harvest, gather, or forge trade goods. You may discard a trade good to gain an additional downtime round. Required:
 
-- (a) guild artisan background and (b) artisan guildhall building, or
+- artisan guildhall building or
 - (a) 1 trade good in your inventory and (b) the relevant tool is equipped
 
 **.**
@@ -3383,7 +3159,7 @@ Players with the damage role typically use effects and game features to deal dam
 
 One player acts as the group token controller while deployed on a map. The group token, representing the entire group, moves at the controller's speed, one square at a time. The controller removes obscuring map tiles within one square of its position. Once movement stops, PCs take one turn in initiative order, performing free actions and up to one action and one reaction during a group token turn.
 
-Certain backgrounds, classes, and species have bonus features while controlling the group token. The PC with the highest movement or the best bonus features while moving the group token typically becomes the group token controller.
+Certain characters have bonus features while controlling the group token. The PC with the highest movement or the best bonus features while moving the group token typically becomes the group token controller.
 
 ### World Map
 
@@ -5526,6 +5302,7 @@ The 5eFP community will continue listening, learning, and reflecting, individual
 
 (Complete list TBD)
  
+- Removed backgrounds. Backgrounds were more integral when they awarded skill proficiencies. Your class determines your starting proficiencies and will attempt to add other proficiencies that your background traditionally offers. This is designed to reduce system bloat and complexity. The Perks system (TBA) will help bring back background bonuses. All background features are getting a facelift and will be included as Perk options.
 - Expertise and similar game features have the Turn keyword. When activated, you can add LEVEL to your ability or tool check twice instead of once.
 - Celestials, demons, and devils were removed from the core game rules. They can be added back in through a campaign setting handbook. Iconic fantasy creatures like the unicorn, pegasus, and couatl are intelligent and magical beasts.
     - Two reasons for this change.
