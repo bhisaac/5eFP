@@ -372,6 +372,7 @@ As a barbarian, you gain the following class features.
 ### Equipment
 
 You start with the following equipment:
+
 - (*a*) a battleaxe or (*b*) any martial melee weapon
 - (*a*) handaxes or (*b*) any simple weapon
 - An explorer's pack and javelins
@@ -465,6 +466,7 @@ As a bard, you gain the following class features.
 ### Equipment
 
 You start with the following equipment:
+
 - (*a*) a rapier or (*b*) a longsword, or (*c*) any simple weapon
 - (*a*) a diplomat's pack or (*b*) an entertainer's pack
 - (*a*) a lute or (*b*) any other musical instrument
@@ -2140,6 +2142,16 @@ When you use your dedication to activate Survival, choose one of the following:
 
 # Equipment
 
+## Multi-Use Items
+
+Certain items in the game can be used multiple times. Items with this game feature have the multi-use keyword. All multi-use items use the same rules.
+
+If a multi-use item provides a bonus or effect to a creature, the bonus or effect persists until the beginning of that creature's next turn.
+
+Multi-use items deplete over time. When a multi-use item depletes, rotate it clockwise 90 degrees or otherwise mark the item as depleted. If it is already depleted, the item only has one use left. Indicate this by turning the item upside down or otherwise marking it as one use left. If an item depletes with only one use left, you use the item as usual and then discard it at the end of your turn.
+
+If the multi-use item is used to make an attack roll, it depletes whenever you roll a critical failure. If the multi-use item is not used to make an attack roll, it depletes after each use.
+
 ## Coin
 
 5eFP games use Coin (⛁ equals 1 Coin), a single denomination representing wealth, resources, experience, and reputation. The name of a Coin may change in some games. For example, Coin might be called "gold pieces" in a medieval fantasy setting, while Coin might refer to "credits" in a futuristic sci-fi setting. A game's setting handbook describes the name used for Coin. Use the following rules for all Coin.
@@ -2252,9 +2264,9 @@ Proficiency with a weapon allows you to add your LEVEL to the attack roll for an
 
 Many weapons have special properties related to their use, as shown in the Weapons table.
 
-**_Ammunition._** You can use a weapon with the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon in your equipment. Ammunition is a special multi-use item. Each time you attack with the weapon that uses ammunition and roll a critical failure, your ammunition depletes, as indicated by either turning the ammunition card sideways or otherwise marking the ammunition somehow. If your ammunition is already depleted, you have only one piece of ammunition left, represented by turning the card upside down or marking a 1 next to the ammunition. After using the last piece of ammunition, discard the ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-­handed weapon).
+**_Ammunition_ (Multi-Use).** You can use a weapon with the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon in your equipment. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-­handed weapon).
 
-Ammunition may be used to make melee attacks. If you are proficient with the weapon that uses the ammunition, you are proficient with melee attacks using that weapon's ammunition as well. Ammunition deals 1 point of damage. If you use a weapon with the ammunition property to make a melee attack, you treat the weapon as an improvised weapon (see “Improvised Weapons” later in the section). A sling must be loaded to deal any damage when used in this way.
+Ammunition may be used to make melee attacks. If you are proficient with the weapon that uses the ammunition, you are proficient with melee attacks using that weapon's ammunition as well. Ammunition deals 1 point of damage with the same damage type as the weapon that uses the ammunition. If you use a weapon with the ammunition property to make a melee attack, you treat the weapon as an improvised weapon (see “Improvised Weapons” later in the section). A sling must be loaded to deal any damage when used in this way.
 
 **_Heavy._** Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon’s size and bulk make it too large for a Small creature to use effectively.
 
@@ -2262,7 +2274,7 @@ Ammunition may be used to make melee attacks. If you are proficient with the wea
 
 **_Loading._** Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an action or reaction to fire it, regardless of the number of attacks you can normally make.
 
-**_Multi-Use._** This weapon can be used multiple times, but each time it is used, there is a chance it will deplete, like ammunition. Each time you attack with a multi-use weapon and roll a 1, the multi-use weapon depletes, indicated by turning the weapon card sideways or otherwise marking it as depleted. If your multi-use weapon is already depleted, you have only one left, represented by turning the card upside down or marking a 1 next to the weapon. After using the last multi-use weapon, discard the weapon. Drawing the multi-use weapon from a quiver, case, or other container is part of the attack.
+**_Multi-Use._** Drawing the multi-use weapon from a quiver, case, or other container is part of the attack.
 
 **_Range._** A weapon that can be used to make a ranged attack has a range in parentheses after the ammunition or thrown property. The range lists the weapon’s normal range in squares. You may make a ranged attack beyond the weapon's normal range, but doing so imposes disadvantage on the attack roll.
 
