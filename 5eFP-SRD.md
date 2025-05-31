@@ -184,7 +184,7 @@ Your speed determines how far you can move when traveling (“Adventuring”) an
 
 ### Languages
 
-By virtue of your species, your character can speak, read, and write certain languages.
+All PCs, regardless of species, speak a common language, typically referred to as common.
 
 ### Varieties
 
@@ -213,8 +213,6 @@ Your dwarf character has an assortment of inborn abilities, part and parcel of d
 **Tool Proficiency.** You gain proficiency with the artisan’s tools of your choice: smith’s tools, brewer’s supplies, or mason’s tools.
 
 **Stonecunning.** You roll all ability checks used to determine the origin of stonework with advantage.
-
-**Languages.** You can speak, read, and write Common and Dwarvish. Dwarvish is full of hard consonants and guttural sounds, and those characteristics spill over into whatever other language a dwarf might speak.
 
 ### Hill Dwarf
 
@@ -301,8 +299,6 @@ Your halfling character has a number of traits in common with all other halfling
 
 **Halfling Nimbleness.** You can move through the space of any creature that is of a size larger than yours.
 
-**Languages.** You can speak, read, and write Common and Halfling. The Halfling language isn’t secret, but halflings are loath to share it with others. They write very little, so they don’t have a rich body of literature. Their oral tradition, however, is very strong. Almost all halflings speak Common to converse with the people in whose lands they dwell or through which they are traveling.
-
 ### Lightfoot
 
 As a lightfoot halfling, you can easily hide from notice, even using other people as cover. You’re inclined to be affable and get along well with others.
@@ -342,8 +338,6 @@ It’s hard to make generalizations about humans, but your human character has t
 **Size.** Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium.
 
 **Speed.** Your base walking speed is 6 squares.
-
-**Languages.** You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on.
 
 ### Upgrades
 
@@ -426,7 +420,7 @@ You forge a spiritual and inspired connection to an elemental spirit that takes 
 
 ### Spirit Seeker
 
-Yours is a path that seeks attunement with the natural world, giving you a kinship with beasts, and you learn the primordial language. You gain the ability to cast the _beast link_ and _speak with animals_ spells, but only as rituals (see _Spellcasting_).
+Yours is a path that seeks attunement with the natural world, giving you a kinship with beasts. You gain the ability to cast the _beast link_ and _speak with animals_ spells, but only as rituals (see _Spellcasting_).
 
 ### Elemental Spirit (Rage)
 
@@ -1309,7 +1303,7 @@ You have significant experience studying, tracking, hunting, and even talking to
 
 You have advantage on WIS checks to track your favored enemies, as well as on INT checks to recall information about them.
 
-When you gain this feature, you also learn one language of your choice that is spoken by your favored enemies, if they speak one at all.
+When you gain this feature, you also gain the ability to understand the speech of your favored enemies, if they speak one at all.
 
 ## Favored Terrain
 
@@ -1466,7 +1460,7 @@ You choose an archetype that you emulate in the exercise of your rogue abilities
 
 # Thief
 
-You hone your skills in the larcenous arts. Burglars, bandits, cutpurses, and other criminals typically follow this archetype, but so do rogues who prefer to think of themselves as professional treasure seekers, explorers, delvers, and investigators. In addition to improving your agility and stealth, you learn skills useful for delving into ancient ruins, reading unfamiliar languages, and using magic items you normally couldn’t employ.
+You hone your skills in the larcenous arts. Burglars, bandits, cutpurses, and other criminals typically follow this archetype, but so do rogues who prefer to think of themselves as professional treasure seekers, explorers, delvers, and investigators. In addition to improving your agility and stealth, you learn skills useful for delving into ancient ruins, solving ciphers, and using magic items you normally couldn’t employ.
 
 ## Fast Hands
 
@@ -2012,34 +2006,8 @@ Alignment is sometimes an essential part of the nature of some creatures. An efr
 Most creatures that lack the capacity for rational thought do not have alignments—they are unaligned. Such a creature is incapable of making a moral or ethical choice and acts according to its bestial nature. Sharks are savage predators, for example, but they are not evil; they have no alignment.
 
 ## Languages
-Your species indicates the languages your character can speak by default, and you may get access to one or more additional languages of your choice from other game features. Note these languages on your character sheet.
 
-Choose your languages from the Standard Languages table, or choose one that is common in your campaign. With your GM’s permission, you can instead choose a language from the Exotic Languages table or a secret language, such as thieves’ cant or the tongue of druids.
-
-Some of these languages are actually families of languages with many dialects. For example, the Primordial language includes the Auran, Aquan, Ignan, and Terran dialects, one for each of the four elemental planes. Creatures that speak different dialects of the same language can communicate with one another.
-
-**STANDARD LANGUAGES**
-|Language|Typical Speakers|Script|
-|:-|:-|:-|
-||||
-|Common|Humans|Common|
-|Dwarvish|Dwarves|Dwarvish|
-|Elvish|Elves|Elvish|
-|Giant|Ogres, giants|Dwarvish|
-|Gnomish|Gnomes|Dwarvish|
-|Goblin|Goblinoids|Dwarvish|
-|Halfling|Halflings|Common|
-|Orc|Orcs|Dwarvish|
-
-**EXOTIC LANGUAGES**
-|Language|Typical Speakers|Script|
-|:-|:-|:-|
-||||
-|Draconic|Dragons, kobolds|Draconic|
-|Deep Speech|Aboleths, cloakers|--|
-|Primordial|Elementals|Dwarvish|
-|Sylvan|Fey creatures|Elvish|
-|Undercommon|Underworld traders|Elvish|
+All PCs know the common language. Other game features may grant you the ability to understand the speech of monsters or other characters.
 
 # Inspiration
 
@@ -4626,11 +4594,11 @@ A monster with truesight can, out to a specific range, see in normal and magical
 
 ### Languages
 
-The languages that a monster can speak are listed in alphabetical order. Sometimes a monster can understand a language but can’t speak it, and this is noted in its entry. A “—” indicates that a creature neither speaks nor understands any language.
+If a monster can speak, it knows common and can speak its own language, which sounds like gibberish to PCs who cannot decipher it. Sometimes a monster can understand common but can’t speak it, and this is noted in its entry. A “—” indicates that a creature neither speaks nor understands any language.
 
 #### Telepathy
 
-Telepathy is a magical ability that allows a monster to communicate mentally with another creature within a specified range. The contacted creature doesn’t need to share a language with the monster to communicate in this way with it, but it must be able to understand at least one language. A creature without telepathy can receive and respond to telepathic messages but can’t initiate or terminate a telepathic conversation.
+Telepathy is a magical ability that allows a monster to communicate mentally with another creature within a specified range. The contacted creature doesn’t need to share a language with the monster to communicate in this way with it, but it must be able to understand common. A creature without telepathy can receive and respond to telepathic messages but can’t initiate or terminate a telepathic conversation.
 
 A telepathic monster doesn’t need to see a contacted creature and can end the telepathic contact at any time. The contact is broken as soon as the two creatures are no longer within range of each other or if the telepathic monster contacts a different creature within range. A telepathic monster can initiate or terminate a telepathic conversation without using an action, but while the monster is incapacitated, it can’t initiate telepathic contact, and any current contact is terminated.
 
@@ -4866,7 +4834,7 @@ An awakened shrub is an ordinary plant given sentience and mobility by the *awak
 
 - **Damage Vulnerability** fire
 - **Damage Resistances** piercing
-- **Languages** understands Common in addition to the languages used by their creator but can’t speak.
+- **Languages** understands Common but can’t speak.
 - **Size** small
 - **Speed** 4
 
@@ -4905,7 +4873,7 @@ An awakened shrub is an ordinary plant given sentience and mobility by the *awak
 In the depths of a shadowy forest, a clever gremlin with shimmering emerald skin and sparkling red eyes lurks. Its sharp teeth glint menacingly as it delights in the mischief it causes for unsuspecting travelers.
 
 Gremlins share the following statistics.
-- **Languages** Common. A gremlin knows common, goblin, and sylvan languages.
+- **Languages** Common.
 - **Speed** 4, Climb 4
 
 More TBA
@@ -4932,7 +4900,7 @@ Liches share the following statistics.
 - **Damage Immunities** poison
 - **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
 - **Senses** truesight 12 squares
-- **Languages** Common. A lich knows up to 4 additional languages.
+- **Languages** Common. A lich understands and can speak the gibberish of other monsters.
 - **Speed** 6
 
 **Turn Resistance.** The lich has advantage on ability checks against any effect that turns undead.
@@ -5010,7 +4978,7 @@ Description. TBA
 
 Trolls share the following statistics.
 - **Abilities** WIS
-- **Languages** Giant
+- **Languages** Common
 - **Speed** 6
 
 **Keen Smell.** The troll has advantage on WIS checks that rely on smell.
@@ -5063,7 +5031,7 @@ Ice Trolls share the following characteristics besides those belonging to the tr
 Zombies share the following statistics.
 - **Damage Immunities** poison
 - **Condition Immunities** poisoned
-- **Languages** understands the languages it knew in life but can’t speak
+- **Languages** Understands common but can’t speak
 - **Speed** 4
 
 **Undead Fortitude.** If the zombie reaches MAX wounds, it must make a CON check with a DC of 12 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie receives 1 point of healing.
@@ -5314,6 +5282,7 @@ The 5eFP community will continue listening, learning, and reflecting, individual
 
 (Complete list TBD)
  
+- Languages are reduced and simplified. All PCs now know common. Monsters that can speak, use a heavily accented common, and can speak their own language, which is called gibberish. The ranger can understand the gibberish of their favored enemies. Certain game features may grant the ability to understand gibberish.
 - Removed backgrounds. Backgrounds were more integral when they awarded skill proficiencies. Your class determines your starting proficiencies and will attempt to add other proficiencies that your background traditionally offers. This is designed to reduce system bloat and complexity. The Perks system (TBA) will help bring back background bonuses. All background features are getting a facelift and will be included as Perk options.
 - Expertise and similar game features have the Turn keyword. When activated, you can add LEVEL to your ability or tool check twice instead of once.
 - Celestials, demons, and devils were removed from the core game rules. They can be added back in through a campaign setting handbook. Iconic fantasy creatures like the unicorn, pegasus, and couatl are intelligent and magical beasts.
