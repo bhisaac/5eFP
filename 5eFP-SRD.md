@@ -490,7 +490,7 @@ Charisma (CHA) is your spellcasting ability for your bard spells. Your magic com
 
 You can cast any bard spell you know as a ritual if that spell has the ritual tag and you know the spell.
 
-## Resonant
+## Resonant (Action)
 
 You are proficient with your voice and musical instruments. You can have up to three musical instruments from bagpipes, drum, dulcimer, flute, lute, lyre, horn, pan flute, shawm, or viol in your inventory without them counting against your equipment slots.
 
