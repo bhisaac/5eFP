@@ -262,7 +262,7 @@ As a high elf, you have strong ties to nature and magic. In many fantasy gaming 
 
 **Elf Weapon Training.** You have proficiency with the longsword, shortsword, shortbow, and longbow.
 
-**Arcane Attunement.** You know one cantrip of your choice from the wizard spell list. INT is your spellcasting ability for it. You can also speak, read, and write one extra language of your choice.
+**Arcane Attunement.** You know one cantrip of your choice from the wizard spell list. INT is your spellcasting ability for it.
 
 ### Wood Elf
 
@@ -315,9 +315,7 @@ Hardy halflings are tougher than average, sharing similar characteristics with d
 
 **Favored Ability.** Constitution (CON)
 
-**Resilience.** Choose and gain one species trait:
-- Your MAX wounds increases by +1.
-- You have advantage on ability checks against poison, and you have resistance against poison damage.
+**Resilience.** You have advantage on ability checks against poison, and you have resistance against poison damage.
 
 ## Human
 
