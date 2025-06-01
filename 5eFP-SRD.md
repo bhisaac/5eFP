@@ -128,6 +128,8 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Time Marker_.** Keep track of how long PCs are deployed on an unexplored world map tile. The time marker begins at 0 and increases by +1 when an encounter is resolved or after a rest. If three footholds are resolved and the PCs reveal additional footholds, each increases the time marker by +1. When the time marker reaches 8, all PCs instantaneously Recall.
 
+**_Toggle_.** A game feature with the toggle keyword is considered deactivated or off until you spend your action to turn it on or activate it. While deactivated, the game feature provides no benefits or effects as if it had no features. Once activated, follow the effects described within the feature, which persist until the feature is deactivated. You can deactivate an the activated feature at the beginning of your turn (no action required).
+
 **_Turn_.** During a round, a creature takes its turn, during which it can spend a wide variety of actions. Usually, over the course of one turn, a creature can take an action, use an object, or take a reaction (see Actions). A game feature with the turn keyword can only be used once during your turn and persists until the beginning of your next turn.
 
 **_Upgrade_.** Once the PCs Recall, they may spend Coin unlocking character upgrades. Available upgrades include class and species, and are limited to only those upgrades equal to or less than LEVEL. Once all PCs stop spending Coin on character upgrades, downtime begins.
@@ -390,9 +392,9 @@ While not wearing armor, you add CON (minimum 0) to your Defense. You can use a 
 |2⛁|-|Primal Path|...|
 |3⛁|-|Rage|You gain Rage (Action, Cooldown 3, Encounter)|
 
-## Reckless Attack
+## Reckless Attack (Toggle)
 
-You can throw aside all concern for protection to attack with fierce determination. When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you advantage on weapon attack rolls using STR during this turn, but attack rolls against you have advantage until your next turn.
+You can throw aside all concern for protection to attack with fierce determination. You gain advantage on weapon attack rolls using STR, but attack rolls against you have advantage. You then take the Attack action.
 
 ## Primal Path
 
