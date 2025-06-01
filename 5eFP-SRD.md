@@ -494,7 +494,7 @@ You can cast any bard spell you know as a ritual if that spell has the ritual ta
 
 You are proficient with your voice and musical instruments. You can have up to three musical instruments from bagpipes, drum, dulcimer, flute, lute, lyre, horn, pan flute, shawm, or viol in your inventory without them counting against your equipment slots.
 
-If a game feature has the resonant keyword, you can affect the character, encounter, or monster using your voice or musical instruments, such as a stirring speech or a musical performance, provided you aren't prevented from making sounds. If you use this feature this way, your failed CHA checks are considered successes, successes count as two successes, and critical successes satisfy all requirements to resolve the conflict in the encounter.
+If a game feature has the resonant keyword, you can affect the character, encounter, or monster using your voice or musical instruments, such as a stirring speech or a musical performance, provided you aren't prevented from making sounds. If you use this feature this way, you make a resonant CHA check and add LEVEL. Your failed resonant check is considered a success, a success counts as two successes, and a critical success satisfies all requirements to resolve the conflict in the encounter.
 
 ## Magic Performance
 
