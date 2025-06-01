@@ -327,9 +327,9 @@ It’s hard to make generalizations about humans, but your human character has t
 
 **Ability Score Increase.** One ability score of your choice increases by +1.
 
-**Adaptable.** Choose and gain one species trait:
-- Choose an ability score unmodified by your ability score increase trait. The chosen ability score increases by +1.
-- You gain one feat.
+**Favored Ability.** Choose one ability score unaffected by your ability score increase feature.
+
+**Feat.** Choose and gain one feat.
 
 **Age.** Humans reach adulthood in their late teens and live less than a century.
 
@@ -338,12 +338,6 @@ It’s hard to make generalizations about humans, but your human character has t
 **Size.** Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium.
 
 **Speed.** Your base walking speed is 6 squares.
-
-### Upgrades
-
-|Cost|Prerequisites|Feature|Details|
-|-:|:-:|:-|:-|
-|4⛁|-|-|Your adaptable feature grants both species' traits.|
 
 # Barbarian
 
