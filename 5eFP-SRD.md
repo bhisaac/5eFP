@@ -311,7 +311,7 @@ Lightfoots are more prone to wanderlust than other halflings, and often dwell al
 
 ### Hardy
 
-Hardy halflings are tougher than average, sharing similar characteristics with dwarves. Their tribes can be found in remote areas or near dwarven clans, though some do make their way to civilized lands.
+Hardy halflings are tougher than average. Their communities can be found in remote areas or near dwarven settlements, though some do make their way to civilized lands.
 
 **Favored Ability.** Constitution (CON)
 
