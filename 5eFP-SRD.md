@@ -506,7 +506,7 @@ Your bardic magic lets you use your voice or any instrument you wield more effec
 
 You can inspire others by stirring words or music. Choose one creature other than yourself within 10 squares of you who can hear you. That creature gains five of your action dice. You may then take one additional action.
 
-During the affected creature's turn, it can roll any of your action dice and add the result to one ability check or attack roll it makes. The creature can wait until after it rolls the d20 before deciding to use any of your action dice, but must decide before the GM says whether the roll succeeds or fails. Once your action dice are rolled, they are returned to you. If the creature has one or more of your action dice and gains more, it decides whether to keep the ones it has or gain the new ones. Any discarded action dice are returned to you.
+During the affected creature's turn, it can roll any of your action dice and add the result to an ability check or attack roll it makes. The creature can wait until after it rolls the d20 before deciding to use any of your action dice, but must decide before the GM says whether the roll succeeds or fails. Once your action dice are rolled, they are returned to you. If the creature has one or more of your action dice and gains more, it decides whether to keep the ones it has or gain the new ones. Any discarded or unused action dice are returned to you.
 
 # Bard Upgrades
 
