@@ -492,21 +492,29 @@ Charisma (CHA) is your spellcasting ability for your bard spells. Your magic com
 
 You can cast any bard spell you know as a ritual if that spell has the ritual tag and you know the spell.
 
+## Bardic Action Dice (Action, Cooldown CHA, Turn)
+
+You can inspire others by stirring words or music. Choose one creature other than yourself within 10 squares of you who can hear you. That creature gains five of your action dice. You may then take one additional action.
+
+During the affected creature's turn, it can roll any of your action dice and add the result to an ability check or attack roll it makes. The creature can wait until after it rolls the d20 before deciding to use any of your action dice, but must decide before the GM says whether the roll succeeds or fails. Once your action dice are rolled, they are returned to you. If the creature has one or more of your action dice and gains more, it decides whether to keep the ones it has or gain the new ones. Any discarded or unused action dice are returned to you.
+
+## Magic Performance
+
+Your bardic magic lets you use your voice or any instrument you wield more effectively. You roll with advantage whenever you make CHA checks with your voice or an instrument you're wielding.
+
 ## Resonant (Action, Encounter)
 
 You can use your voice and musical instruments to great effect. You can have up to three musical instruments from bagpipes, drum, dulcimer, flute, lute, lyre, horn, pan flute, shawm, or viol in your inventory without them counting against your equipment slots.
 
 If a game feature has the resonant keyword, you can affect it using your voice or musical instruments, such as sharing a stirring speech or a musical performance, provided you aren't prevented from making sounds. If you use this feature this way, you make a CHA check. A success counts as two successes, and a critical success satisfies all requirements to resolve the conflict within the encounter.
 
-## Magic Performance
+## Subtlety (Encounter, Toggle)
 
-Your bardic magic lets you use your voice or any instrument you wield more effectively. You roll with advantage whenever you make CHA checks with your voice or an instrument you're wielding.
+_Prerequisites: damage group role_
 
-## Bardic Action Dice (Action, Cooldown CHA, Turn)
+You must be out of LOS or partially obscured to activate this feature. While subtlety is activated, your movements and actions become obscured, cloaked from view, and easily overlooked. If a hostile minion or elite targets you while another target is within LOS, it must choose a different target, if possible. Each square of movement costs an additional square of movement while this feature is activated. You then take one action. If you take the Attack action or Cast a Spell action that includes a spell attack, you make your first attack with advantage, and then toggle this feature off at the end of your turn.
 
-You can inspire others by stirring words or music. Choose one creature other than yourself within 10 squares of you who can hear you. That creature gains five of your action dice. You may then take one additional action.
-
-During the affected creature's turn, it can roll any of your action dice and add the result to an ability check or attack roll it makes. The creature can wait until after it rolls the d20 before deciding to use any of your action dice, but must decide before the GM says whether the roll succeeds or fails. Once your action dice are rolled, they are returned to you. If the creature has one or more of your action dice and gains more, it decides whether to keep the ones it has or gain the new ones. Any discarded or unused action dice are returned to you.
+If a game feature has the subtlety keyword, you can affect it using deception, sleight of hand, or stealth. If you use this feature this way, you make a CHA check for deception or a DEX check for sleight of hand or stealth. A success counts as two successes, and a critical success satisfies all requirements to resolve the conflict within the encounter.
 
 # Bard Upgrades
 
