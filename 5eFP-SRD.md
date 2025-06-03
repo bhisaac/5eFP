@@ -1461,6 +1461,10 @@ You must be out of LOS or partially obscured to activate this feature. While sub
 
 If a game feature has the subtlety keyword, you can affect it using deception, sleight of hand, or stealth. If you use this feature this way, you make a CHA check for deception or a DEX check for sleight of hand or stealth. A success counts as two successes, and a critical success satisfies all requirements to resolve the conflict within the encounter.
 
+## Thieves' Tools (Action, Turn)
+
+While your subtlety feature is toggled on, you can make a DEX check to disarm a trap, pick a lock, or otherwise open a secured and locked object within reach. A critical failure toggles your subtlety feature off.
+
 ## Thieves’ Cant
 
 During your rogue training, you learned thieves’ cant, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. Only another creature that knows thieves’ cant understands such messages. It takes four times longer to convey such a message than it does to speak the same idea plainly.
