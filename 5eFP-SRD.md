@@ -1315,7 +1315,7 @@ When you gain this feature, you also gain the ability to understand the speech o
 
 ## Favored Terrain
 
-Choose one type of favored terrain: arctic, coast, desert, forest, grassland, mountain, or swamp. You are particularly familiar with the chosen type of natural environment and are adept at traveling and surviving in such regions.
+Choose one type of favored terrain: arctic, coast, desert, forest, grassland, mountain, or swamp. You are particularly familiar with the chosen type of natural environment and are adept at traveling and surviving in such regions. While your subtelty feature is toggled on, you ignore its movement restrictions if you start your turn on your favored terrain.
 
 While traveling in your favored terrain and while you are the group token controller, you gain the following benefits:
 
