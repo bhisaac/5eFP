@@ -1428,8 +1428,6 @@ As a rogue, you have the following class features.
 
 **Armor:** Light armor
 
-**Tools:** Thieves’ tools
-
 **Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords
 
 ### Equipment
