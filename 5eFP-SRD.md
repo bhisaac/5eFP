@@ -1437,7 +1437,7 @@ You start with the following equipment:
 - (a) a rapier or (b) a shortsword
 - (a) a shortbow and quiver of arrows or (b) a shortsword
 - (a) a burglar’s pack, (b) a dungeoneer’s pack, or (c) an explorer’s pack
-- (a) Leather armor, two daggers, and thieves’ tools
+- (a) Leather armor and a dagger
 
 ## Expertise (Rest 2)
 
