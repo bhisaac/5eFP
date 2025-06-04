@@ -128,7 +128,7 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Time Marker_.** Keep track of how long PCs are deployed on an unexplored world map tile. The time marker begins at 0 and increases by +1 when an encounter is resolved or after a rest. If three footholds are resolved and the PCs reveal additional footholds, each increases the time marker by +1. When the time marker reaches 8, all PCs instantaneously Recall.
 
-**_Toggle_.** A game feature with the toggle keyword is considered deactivated or off until you spend your action to turn it on or activate it. While deactivated, the game feature provides no benefits or effects as if it had no features. Once activated, follow the effects described within the feature, which persist until the feature is deactivated. You can deactivate an the activated feature at the beginning of your turn (no action required).
+**_Toggle_.** A game feature with the toggle keyword is considered deactivated or off until you spend your action to turn it on or activate it. While off, the game feature provides no benefits or effects as if it had no features. Once activated, follow the effects described within the feature, which persist until the feature is deactivated. You can deactivate a feature with toggle at the beginning of your turn (no action required). Features with the toggle keyword begin a game session toggled off.
 
 **_Turn_.** During a round, a creature takes its turn, during which it can spend a wide variety of actions. Usually, over the course of one turn, a creature can take an action, use an object, or take a reaction (see Actions). A game feature with the turn keyword can only be used once during your turn and persists until the beginning of your next turn.
 
@@ -508,13 +508,13 @@ You can use your voice and musical instruments to great effect. You can have up 
 
 If a game feature has the resonant keyword, you can affect it using your voice or musical instruments, such as sharing a stirring speech or a musical performance, provided you aren't prevented from making sounds. If you use this feature this way, you make a CHA check. A success counts as two successes, and a critical success satisfies all requirements to resolve the conflict within the encounter.
 
-## Subtlety (Encounter, Toggle)
+## Subtlety (Toggle)
 
 _Prerequisites: damage group role_
 
 You must be out of LOS or partially obscured to activate this feature. While subtlety is activated, your movements and actions become obscured, cloaked from view, and easily overlooked. If a hostile minion or elite targets you while another target is within LOS, it must choose a different target, if possible. Your speed is reduced to half (minimum 2) while this feature is activated. You then take one action. If you take the Attack action or Cast a Spell action that includes a spell attack, you make your first attack with advantage, and then toggle this feature off.
 
-If a game feature has the subtlety keyword, you can affect it using deception, sleight of hand, or stealth. If you use this feature this way, you make a CHA check for deception or a DEX check for sleight of hand or stealth. A success counts as two successes, and a critical success satisfies all requirements to resolve the conflict within the encounter.
+If a game feature has the subtlety keyword, you can affect it using deception, sleight of hand, or stealth. If you use this feature this way, you make a CHA check for deception or a DEX check for sleight of hand or stealth. A success counts as two successes, and a critical success satisfies all requirements to resolve the conflict.
 
 # Bard Upgrades
 
@@ -1332,13 +1332,13 @@ Game features with the Favored Terrain keyword can only be used while you are in
 
 You make an ability check related to your favored terrain, adding your level to the check twice instead of once. For example, making a STR check to climb a cliff or rocky slope is a related ability check for the mountain favored terrain.
 
-## Subtlety (Encounter, Toggle)
+## Subtlety (Toggle)
 
 _Prerequisites: damage group role_
 
 You must be out of LOS or partially obscured to activate this feature. While subtlety is activated, your movements and actions become obscured, cloaked from view, and easily overlooked. If a hostile minion or elite targets you while another target is within LOS, it must choose a different target, if possible. Your speed is reduced to half (minimum 2) while this feature is activated. You then take one action. If you take the Attack action or Cast a Spell action that includes a spell attack, you make your first attack with advantage, and then toggle this feature off.
 
-If a game feature has the subtlety keyword, you can affect it using deception, sleight of hand, or stealth. If you use this feature this way, you make a CHA check for deception or a DEX check for sleight of hand or stealth. A success counts as two successes, and a critical success satisfies all requirements to resolve the conflict within the encounter.
+If a game feature has the subtlety keyword, you can affect it using deception, sleight of hand, or stealth. If you use this feature this way, you make a CHA check for deception or a DEX check for sleight of hand or stealth. A success counts as two successes, and a critical success satisfies all requirements to resolve the conflict.
 
 # Ranger Upgrades
 
@@ -1453,13 +1453,13 @@ You know how to strike subtly and exploit a foe’s distraction. You deal +1 dam
 
 You don’t need advantage on the attack roll if another enemy of the target is within 1 square of it, that enemy isn’t incapacitated, and you don’t have disadvantage on the attack roll.
 
-## Subtlety (Encounter, Toggle)
+## Subtlety (Toggle)
 
 _Prerequisites: damage group role_
 
 You must be out of LOS or partially obscured to activate this feature. While subtlety is activated, your movements and actions become obscured, cloaked from view, and easily overlooked. If a hostile minion or elite targets you while another target is within LOS, it must choose a different target, if possible. Your speed is reduced to half (minimum 2) while this feature is activated. You then take one action. If you take the Attack action or Cast a Spell action that includes a spell attack, you make your first attack with advantage, and then toggle this feature off.
 
-If a game feature has the subtlety keyword, you can affect it using deception, sleight of hand, or stealth. If you use this feature this way, you make a CHA check for deception or a DEX check for sleight of hand or stealth. A success counts as two successes, and a critical success satisfies all requirements to resolve the conflict within the encounter.
+If a game feature has the subtlety keyword, you can affect it using deception, sleight of hand, or stealth. If you use this feature this way, you make a CHA check for deception or a DEX check for sleight of hand or stealth. A success counts as two successes, and a critical success satisfies all requirements to resolve the conflict.
 
 ## Thieves' Tools (Action, Turn)
 
