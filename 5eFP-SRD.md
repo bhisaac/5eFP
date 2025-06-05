@@ -849,33 +849,9 @@ You start with the following equipment:
 - (*a*) a light crossbow and bolts or (*b*) handaxes
 - (*a*) a dungeoneer’s pack or (*b*) an explorer’s pack
 
-## Fighting Style
-
-You adopt a particular style of fighting as your specialty. Choose one of the following options. You can’t take a Fighting Style option more than once, even if you later get to choose again.
-
-### Archery
-
-You gain a +1 bonus to attack rolls you make with ranged weapons.
-
-### Armored
-
-While you are wearing armor, you gain a +1 bonus to Defense.
-
-### Blind Fighting
-
-You gain blindsight 2 whenever your vision is obscured.
-
-### Great Weapon Fighting
-
-Whenever you attack and miss with a melee weapon you are wielding with two hands, you may reroll the attack once and must use the new roll. The weapon must have the two-handed property for you to gain this benefit.
-
-### Protection (Reaction)
-
-When a creature you can see attacks a target other than you that is within 1 square of you, you impose disadvantage on the attack roll. You must be wielding a shield.
-
 ## Second Wind (Action, Rest)
 
-You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you discard up to 2 wounds and may take one additional action.
+You have a limited well of stamina that you can draw on to protect yourself from harm. You discard up to 2 wounds and may take one action.
 
 # Fighter Upgrades
 
