@@ -512,7 +512,7 @@ If a game feature has the resonant keyword, you can affect it using your voice o
 
 _Prerequisites: damage or healer group role_
 
-You must be out of LOS or partially obscured to activate this feature. While subtlety is activated, your movements and actions become obscured, cloaked from view, and easily overlooked. If a hostile minion or elite targets you while another target is within LOS, it must choose a different target, if possible. Your speed is reduced to half (minimum 2) while this feature is activated. You then take one action. If you take the Attack action or Cast a Spell action that includes a spell attack, you make your first attack with advantage, and then toggle this feature off.
+You must be out of LOS or partially obscured from any hostile creatures to activate this feature. While subtlety is activated, your movements and actions become obscured, cloaked from view, and easily overlooked. If a hostile minion or elite targets you while another target is within LOS, it must choose a different target, if possible. Your speed is reduced to half (minimum 2) while this feature is activated. You then take one action. If you take the Attack action or Cast a Spell action that includes a spell attack, you make your first attack with advantage, and then toggle this feature off.
 
 If a game feature has the subtlety keyword, you can affect it using deception, sleight of hand, or stealth. If you use this feature this way, you make a CHA check for deception or a DEX check for sleight of hand or stealth. A success counts as two successes, and a critical success satisfies all requirements to resolve the conflict.
 
@@ -1310,7 +1310,7 @@ You make an ability check related to your favored terrain, adding your level to 
 
 _Prerequisites: damage group role_
 
-You must be out of LOS or partially obscured to activate this feature. While subtlety is activated, your movements and actions become obscured, cloaked from view, and easily overlooked. If a hostile minion or elite targets you while another target is within LOS, it must choose a different target, if possible. Your speed is reduced to half (minimum 2) while this feature is activated. You then take one action. If you take the Attack action or Cast a Spell action that includes a spell attack, you make your first attack with advantage, and then toggle this feature off.
+You must be out of LOS or partially obscured from any hostile creatures to activate this feature. While subtlety is activated, your movements and actions become obscured, cloaked from view, and easily overlooked. If a hostile minion or elite targets you while another target is within LOS, it must choose a different target, if possible. Your speed is reduced to half (minimum 2) while this feature is activated. You then take one action. If you take the Attack action or Cast a Spell action that includes a spell attack, you make your first attack with advantage, and then toggle this feature off.
 
 If a game feature has the subtlety keyword, you can affect it using deception, sleight of hand, or stealth. If you use this feature this way, you make a CHA check for deception or a DEX check for sleight of hand or stealth. A success counts as two successes, and a critical success satisfies all requirements to resolve the conflict.
 
@@ -1427,7 +1427,7 @@ You don’t need advantage on the attack roll if another enemy of the target is 
 
 _Prerequisites: damage group role_
 
-You must be out of LOS or partially obscured to activate this feature. While subtlety is activated, your movements and actions become obscured, cloaked from view, and easily overlooked. If a hostile minion or elite targets you while another target is within LOS, it must choose a different target, if possible. Your speed is reduced to half (minimum 2) while this feature is activated. You then take one action. If you take the Attack action or Cast a Spell action that includes a spell attack, you make your first attack with advantage, and then toggle this feature off.
+You must be out of LOS or partially obscured from any hostile creatures to activate this feature. While subtlety is activated, your movements and actions become obscured, cloaked from view, and easily overlooked. If a hostile minion or elite targets you while another target is within LOS, it must choose a different target, if possible. Your speed is reduced to half (minimum 2) while this feature is activated. You then take one action. If you take the Attack action or Cast a Spell action that includes a spell attack, you make your first attack with advantage, and then toggle this feature off.
 
 If a game feature has the subtlety keyword, you can affect it using deception, sleight of hand, or stealth. If you use this feature this way, you make a CHA check for deception or a DEX check for sleight of hand or stealth. A success counts as two successes, and a critical success satisfies all requirements to resolve the conflict.
 
