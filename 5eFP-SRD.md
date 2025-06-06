@@ -546,11 +546,9 @@ You gain proficiency with one ability of your choice.
 
 You learn how to use your wit to distract, confuse, and otherwise sap the confidence and competence of others. When a creature you can see within 12 squares of you makes an attack roll or an ability check, you can expend one use of bardic action dice, rolling five action dice and subtracting the number from the creature’s roll. You can use this feature after the creature makes its roll, but before the GM determines whether the attack roll or ability check succeeds or fails, or before the creature deals its damage. The creature is immune if it can’t hear you or is immune to being charmed. When used this way, you do not gain an additional action from your bardic action dice feature.
 
-## Expertise (Rest 2)
+## Expertise
 
-When you purchase this upgrade, you gain proficiency with a non-proficient ability. Then choose two of your ability proficiencies or one of your ability proficiencies and your proficiency with a tool.
-
-You make an ability check with one of your chosen abilities or tools, adding your level to the check twice instead of once.
+When you purchase this upgrade, you gain proficiency with a non-proficient ability. Then choose one of your ability proficiencies. You add your level to ability checks with the chosen ability twice instead of once. You cannot add your level more than twice with the chosen ability.
 
 # Cleric
 
@@ -1415,11 +1413,9 @@ You start with the following equipment:
 - (a) a burglar’s pack, (b) a dungeoneer’s pack, or (c) an explorer’s pack
 - (a) Leather armor and a dagger
 
-## Expertise (Rest 2)
+## Expertise
 
-When you purchase this upgrade, you gain proficiency with a non-proficient ability. Then choose two of your ability proficiencies or one of your ability proficiencies and your proficiency with thieves' tools.
-
-You make an ability check with one of your chosen abilities or tools, adding your level to the check twice instead of once.
+When you purchase this upgrade, you gain proficiency with a non-proficient ability. Then choose one of your ability proficiencies or Thieves' Tools. You add your level to ability checks with the chosen ability or feature twice instead of once. You cannot add your level more than twice with the chosen ability or feature.
 
 ## Sneak Attack (Turn)
 
