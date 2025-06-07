@@ -182,7 +182,7 @@ Characters of most species are Medium, a size category including creatures that 
 
 ### Speed
 
-Your speed determines how far you can move when traveling (“Adventuring”) and fighting (“Combat”). Your speed represents the maximum number of squares you can move during your turn.
+Your speed determines how far you can move when traveling (“Adventuring”) and fighting (“Combat”). Unless your species has a speed section, your speed is 6 squares, representing the maximum number of squares you can move during your turn.
 
 ### Languages
 
@@ -206,13 +206,13 @@ Your dwarf character has an assortment of inborn abilities, part and parcel of d
 
 **Size.** Dwarves stand between 4 and 5 feet tall and average about 150 pounds. Your size is Medium.
 
-**Speed.** Your base walking speed is 5 squares. Heavy armor does not reduce your speed.
+**Speed.** 5 squares. You ignore speed reductions caused by your equipment.
 
 **Dwarven Resilience.** You have advantage on ability checks against poison, and you have resistance against poison damage.
 
 **Dwarven Combat Training.** You have proficiency with the battleaxe, handaxe, light hammer, and warhammer.
 
-**Tool Proficiency.** You gain proficiency with the artisan’s tools of your choice: smith’s tools, brewer’s supplies, or mason’s tools.
+~~**Tool Proficiency.** You gain proficiency with the artisan’s tools of your choice: smith’s tools, brewer’s supplies, or mason’s tools.~~
 
 **Stonecunning.** You roll all ability checks used to determine the origin of stonework with advantage.
 
@@ -250,11 +250,11 @@ Your elf character has a variety of natural abilities, a result of thousands of 
 
 **Keen Senses.** You gain advantage on WIS checks to spot, hear, or otherwise detect the presence of something.
 
-**Fey Ancestry.** You have advantage on ability checks against being charmed, and magic can’t put you to sleep.
+**Fey Ancestry.** You have advantage on ability checks against enchantment magic, and magic can’t put you to sleep.
 
-**Trance.** Elves don’t need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is “trance.”) While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
+~~**Trance.** Elves don’t need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is “trance.”) While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.~~
 
-Whenever you spend ⛁ on rest and repairs, you may spend any number of Coin on one bonus downtime activity of your choice. You must still satisfy any prerequisites the bonus downtime activity may have before spending the extra Coin.
+~~Whenever you spend ⛁ on rest and repairs, you may spend any number of Coin on one bonus downtime activity of your choice. You must still satisfy any prerequisites the bonus downtime activity may have before spending the extra Coin.~~
 
 ### High Elf
 
@@ -262,7 +262,7 @@ As a high elf, you have strong ties to nature and magic. In many fantasy gaming 
 
 **Favored Ability.** Intelligence (INT)
 
-**Elf Weapon Training.** You have proficiency with the longsword, shortsword, shortbow, and longbow.
+~~**Elf Weapon Training.** You have proficiency with the longsword, shortsword, shortbow, and longbow.~~
 
 **Arcane Attunement.** You know one cantrip of your choice from the wizard spell list. INT is your spellcasting ability for it.
 
@@ -272,7 +272,7 @@ As a wood elf, you have deep awareness and intuition, and your attunement to nat
 
 **Favored Ability.** Wisdom (WIS)
 
-**Elf Weapon Training.** You have proficiency with the longsword, shortsword, shortbow, and longbow.
+~~**Elf Weapon Training.** You have proficiency with the longsword, shortsword, shortbow, and longbow.~~
 
 **_Nature's Stride_ (Turn).** You gain the following game features when you begin your turn on natural terrain (arctic, coast, desert, forest, grassland, mountain, or swamp).
 
