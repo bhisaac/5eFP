@@ -3407,33 +3407,33 @@ Certain features, such as the Extra Attack feature of the fighter, allow you to 
 
 **_Discard your action to Cast a Spell_.** Spellcasters and many monsters have access to spells and can use them to great effect. Spells typically discard your action to cast. If the spell has a different casting time, such as 1 reaction, it will be listed in the spell's description.
 
-## Dash (Turn)
+## Dash (Action, Turn)
 
-**_Discard your action to Dash_.** After applying any modifiers, you gain extra movement for the current turn, equal to your speed. For example, with a speed of 6, you can move up to 12 squares on your turn if you Dash.
+After applying any modifiers, you gain extra movement for the current turn, equal to your speed. For example, with a speed of 6, you can move up to 12 squares on your turn if you Dash.
 
 Any increase or decrease to your speed changes this additional movement by the same amount.
 
-## Disengage (Turn)
+## Disengage (Action, Turn)
 
-**_Discard your action to Disengage_.** Until the end of your turn, your movement does not provoke opportunity attacks.
+Until the end of your turn, your movement does not provoke opportunity attacks.
 
-## Dodge (Turn)
+## Dodge (Action, Turn)
 
-**_Discard your action to Dodge_.** Until the start of your next turn, any attack roll made against you has disadvantage if you can see the attacker, and you make DEX checks with advantage. You lose this benefit if you are incapacitated (as explained in appendix PH-A) or if your speed drops to 0.
+Until the start of your next turn, any attack roll made against you has disadvantage if you can see the attacker, and you make DEX checks with advantage. You lose this benefit if you are incapacitated (as explained in appendix PH-A) or if your speed drops to 0.
 
-## Help (Turn)
+## Help (Action, Turn)
 
-**_Discard your action to Help a creature_.** You lend aid to another creature in the completion of a task. The creature you aid gains advantage on the next ability check it makes to perform the task you are helping with.
+You lend aid to another creature in the completion of a task. The creature you aid gains advantage on the next ability check it makes to perform the task you are helping with.
 
 Alternatively, you can aid a friendly creature in attacking a creature within your reach. You can feint, distract the target, or, in some other way, team up to make your ally’s attack more effective. If your ally attacks the target, the first attack roll is made with advantage.
 
-## Hide (Turn)
+## Hide (Action, Turn)
 
-**_Discard your action to Hide_.** You make a DEX check in an attempt to hide, following the rules for hiding. If you succeed, you gain certain benefits, as described in the “Unseen Attackers and Targets” section.
+You make a DEX check in an attempt to hide, following the rules for hiding. If you succeed, you gain certain benefits, as described in the “Unseen Attackers and Targets” section.
 
 ## Interact with an Object
 
-**_Discard your action to Interact with an Object_.** You normally interact with an object while doing something else, such as when you draw a sword as part of an attack. When an object requires your action for its use, you take the Interact with an Object action. This action is also useful when you want to interact with more than one object on your turn.
+You normally interact with an object while doing something else, such as when you draw a sword as part of an attack. When an object requires your action for its use, you take the Interact with an Object action. This action is also useful when you want to interact with more than one object on your turn.
 
 You gain one free Interact with an Object action each turn. Additional Interact with an Object actions discard your action.
 
@@ -3443,9 +3443,9 @@ You gain one free Interact with an Object action each turn. Additional Interact 
 
 The opportunity attack is the most common type of reaction.
 
-## Ready
+## Ready (Action)
 
-**_Discard your action to Ready an action_.** Sometimes you want to get the jump on a foe or wait for a particular circumstance before you act. The Ready action allows you to discard your reaction to act before the start of your next turn.
+Sometimes you want to get the jump on a foe or wait for a particular circumstance before you act. The Ready action allows you to discard your reaction to act before the start of your next turn.
 
 First, you decide what perceivable circumstance will trigger your reaction. Then, you choose the action you will take in response to that trigger or you choose to move up to your speed in response to it. Examples include, “If the cultist steps on the trapdoor, I’ll pull the lever that opens it,” and “If the goblin steps next to me, I move away.”
 
@@ -3453,9 +3453,9 @@ When the trigger occurs, you can either discard your reaction and take your acti
 
 When you ready a spell, you cast it as normal but hold its energy, which you release when you discard your reaction during the triggered event. To be readied, a spell must have a casting time of 1 action, and holding the spell’s magic requires concentration. If your concentration is broken, the spell dissipates without taking effect. For example, if you are concentrating on the _web_ spell and readying a _magic missile_, your _web_ spell ends.
 
-## Search
+## Search (Action)
 
-**_Discard your action to Search_.** You devote your attention to finding something. Depending on the nature of your search, the GM might have you make a WIS check or an INT check.
+You devote your attention to finding something. Depending on the nature of your search, the GM might have you make a WIS check or an INT check.
 
 # Mounted Combat
 
