@@ -130,7 +130,7 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Toggle_.** A game feature with the toggle keyword is considered deactivated or off until you spend your action to turn it on or activate it. While off, the game feature provides no benefits or effects as if it had no features. Once activated, follow the effects described within the feature, which persist until the feature is deactivated. You can deactivate a feature with toggle at the beginning of your turn (no action required). Features with the toggle keyword begin a game session toggled off.
 
-**_Turn_.** During a round, a creature takes its turn, during which it can spend a wide variety of actions. Usually, over the course of one turn, a creature can take an action, use an object, or take a reaction (see Actions). A game feature with the turn keyword can only be used once during your turn and persists until the beginning of your next turn.
+**_Turn_.** During a round, a creature takes its turn, during which it can spend a wide variety of actions. Usually, over the course of one turn, a creature can take an action, use an object, or take a reaction (see Actions). A game feature with the turn keyword can only be used once. Any bonuses or penalties it provides remain in effect until the beginning of your next turn. You regain the ability to use a game feature with the turn keyword at the start of your turn.
 
 **_Upgrade_.** Once the PCs Recall, they may spend Coin unlocking character upgrades. Available upgrades include class and species, and are limited to only those upgrades equal to or less than LEVEL. Once all PCs stop spending Coin on character upgrades, downtime begins.
 
@@ -287,7 +287,7 @@ Your halfling character has a number of traits in common with all other halfling
 
 **Speed.** Your base walking speed is 5 squares.
 
-**Lucky.** When you roll a 1 on the d20 for an attack roll or ability check, you can reroll the die and must use the new roll, even if you roll another 1.
+**Lucky (Turn).** When you roll a 1 on the d20 for an attack roll or ability check, you can reroll the die and must use the new roll.
 
 **Brave.** You have advantage on ability checks against fear effects.
 
@@ -5272,7 +5272,7 @@ The 5eFP community will continue listening, learning, and reflecting, individual
 
 (Complete list TBD)
  
-- Species: Halfling (Lucky feature). Changed the Lucky feature to provide a similar bonus, but the second die roll must be kept, even if it rolls another 1. This is to prevent halflings from becoming immune to critical failures. Halflings will still be highly resistant to critical failures since it's unlikely (but not unheard of) to get two 1s in a row.
+- Species: Halfling (Lucky feature). Added the Turn keyword to this feature.
 - Species: Elf. Elf weapon training is no longer a feature. Swords, shortbows, and longbows have the elf keyword. Any game feature with the elf keyword can be used by an elf, and is considered proficient. This works similarly for other species keywords and game features. The Trance feature was removed for two reasons: 1) the 5eFP core rule system won't be responsible for people sleeping (or not sleeping!) only 4 hours instead of the amount of time recommended by health care professionals and providers, and 2) 5eFP games don't do long rests anyway. They do downtime rounds instead. To compensate for this change, the Fey Ancestry feature now allows elves to spend additional coin when paying for rest and repairs during a round of downtime.
 - Languages are reduced and simplified. All PCs now know common. Monsters that can speak, use a heavily accented common, and can speak their own language, which is called gibberish. The ranger can understand the gibberish of their favored enemies. Certain game features may grant the ability to understand gibberish.
 - Removed backgrounds. Backgrounds were more integral when they awarded skill proficiencies. Your class determines your starting proficiencies and will attempt to add other proficiencies that your background traditionally offers. This is designed to reduce system bloat and complexity. The Perks system (TBA) will help bring back background bonuses. All background features are getting a facelift and will be included as Perk options.
