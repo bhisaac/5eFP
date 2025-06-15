@@ -2092,7 +2092,7 @@ When you use your dedication to activate Survival, choose one of the following:
 
 - **_Reveal a game objective_.** Place a foothold or setting handbook requirement on a revealed square of your choice up to 2 squares away from you.
 - **_Gain a resource (playtesting)_.** Choose and gain the benefits of one of your game features that is on cooldown.
-- **_Gain a skill_ (Turn).** Choose an incomplete class or species upgrade with one or more Coin assigned to it. You gain temporary access to its game features. You must still satisfy any prerequisites before choosing the upgrade.
+- **_Gain a skill_ (Turn) (playtesting).** Choose an incomplete class or species upgrade available to you. You gain temporary access to its game features. You must still satisfy any prerequisites before choosing the upgrade.
 
 > **Other Game Systems**
 >
