@@ -287,7 +287,7 @@ Your halfling character has a number of traits in common with all other halfling
 
 **Speed.** Your base walking speed is 5 squares.
 
-**Lucky.** When you roll a 1 on the d20 for an attack roll or ability check, you can reroll the die and must use the new roll.
+**Lucky.** When you roll a 1 on the d20 for an attack roll or ability check, you can reroll the die and must use the new roll, even if you roll another 1.
 
 **Brave.** You have advantage on ability checks against fear effects.
 
