@@ -74,7 +74,7 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Downtime_.** Downtime consists of downtime actions measured in rounds, including rest and repairs, research, spending Coin on HQ upgrades, or taking other actions between game sessions.
 
-**_Encounter_.** An encounter is a significant event within the game where the outcome of events is uncertain and is measured in rounds. PCs are awarded ⛁ when an encounter ends. Game features with the encounter keyword can only be used during an encounter and persist until the end of the encounter.
+**_Encounter_.** An encounter is a significant occurrence within the game where the outcome of events is uncertain and is measured in rounds. PCs are awarded ⛁ when an encounter ends. Game features with the encounter keyword reset at the beginning of an encounter, can only be used once during an encounter, and, unless otherwise stated, persist until the end of an encounter. If a number follows the encounter keyword, it represents the number of times you can use the feature during an encounter, but never more than once per turn.
 
 **_Encounter, Campfire_.** Campfire encounters are special encounters that grant the benefits of a rest without counting against the number of allowed rests in a game session, don't need a map to resolve, don't award Coin when completed, may include social interaction between PCs, may or may not include an actual campfire, and do not advance the time marker, revealing obscuring map tiles up to 3 squares away when finished.
 
@@ -357,7 +357,7 @@ You start with the following equipment:
 - (*a*) handaxes or (*b*) any simple weapon
 - An explorer's pack and javelins
 
-## Rage (Action, Cooldown 2, Encounter)
+## Rage (Action, Encounter)
 
 In battle, you fight with primal ferocity. You enter into a rage and then take the Attack action.
 
@@ -382,7 +382,6 @@ While not wearing armor, you add CON (minimum 0) to your Defense. You can use a 
 |2⛁|-|Reckless Attack|...|
 |2⛁|-|Danger Sense|You gain advantage to DEX checks vs. effects you can see|
 |2⛁|-|Primal Path|...|
-|3⛁|-|Rage|You gain Rage (Action, Cooldown 3, Encounter)|
 
 ## Reckless Attack (Toggle)
 
@@ -650,7 +649,7 @@ When you use your Channel Divinity, you choose which effect to create.
 
 Some Channel Divinity effects require ability checks. When you use such an effect from this class, the DC equals your cleric spell DC.
 
-### Turn Undead (Action, Encounter)
+### Turn Undead (Action)
 
 You present your holy symbol, speaking a prayer that censures undead. Each undead that can see or hear you within 6 squares of you must make a WIS check. If the creature fails its check, it is turned until it takes any damage.
 
@@ -905,7 +904,7 @@ You learn a ritual that creates a magical bond between yourself and one weapon. 
 - Your bonded weapon cannot be disarmed while you have it equipped unless you are incapacitated.
 - Your bonded weapon does not deplete.
 - You can form a bond with up to one shield. This game feature considers a bonded shield a melee weapon with the thrown keyword and a range of up to 4 squares.
-- **_Summon Eldritch Weapon (Action, Encounter)_.** You take one action. If your bonded weapon is on the same plane of existence, you can summon it before or after taking your action, causing it to teleport instantly to your hand.
+- **_Summon Eldritch Weapon (Action)_.** You take one action. If your bonded weapon is on the same plane of existence, you can summon it before or after taking your action, causing it to teleport instantly to your hand.
 
 With this game feature, you can have up to two bonded weapons, but you can summon only one at a time. If you attempt to bond with a third weapon, you must break the bond with one of the other two.
 
@@ -981,11 +980,11 @@ Ki and ki features are considered magic and magical effects.
 
 You take the Attack action. Immediately after taking the Attack action, you can make up to two unarmed strikes.
 
-### Patient Defense (Encounter, Ki, Rest)
+### Patient Defense (Encounter, Ki)
 
 You can take the Dodge action without discarding your action.
 
-### Step of the Wind (Encounter, Ki, Rest)
+### Step of the Wind (Encounter, Ki)
 
 You can take the Disengage or Dash action without discarding your action, and your jump distance is doubled.
 
@@ -1033,7 +1032,7 @@ You choose an area of earth or stone no larger than 6 squares on a side within L
 
 You can infuse your unarmed strikes with elemental fire, extending your reach by 2 squares for the rest of the encounter. A hit with such an attack deals fire damage instead of bludgeoning damage.
 
-### Bending Thunder (Action, Encounter, Ki)
+### Bending Thunder (Action, Ki)
 
 You take the Cast a Spell action, innately casting _thunderwave_.
 
@@ -1088,9 +1087,9 @@ This feature has no effect on undead and constructs.
 
 You take the Cast a Spell action, innately casting _sanctuary_ on yourself with a duration of Recall. During an encounter, if a creature succeeds on its WIS check, it is temporarily immune to this effect for the rest of the encounter.
 
-## Deflect Missiles (Encounter, Reaction)
+## Deflect Missiles (Reaction)
 
-You deflect or catch the piece of ammunition or missile when a ranged weapon attack hits you, and the damage you take from the attack is reduced by LEVEL + 1. If the damage is reduced to 0, you catch the missile if it is small enough to hold in one hand and if you have at least one hand free. If you catch a missile in this way, you can spend one use of your Ki feature to make a ranged attack with the weapon or piece of ammunition you just caught, as part of the same reaction. You make this attack with proficiency, regardless of your weapon proficiencies, and the missile counts as a monk weapon for the attack, which has a normal range of 4 squares and a long range of 12 squares.
+You deflect or catch the piece of ammunition or missile when a ranged weapon attack hits you, and the damage you take from the attack is reduced by LEVEL + 1. If the damage is reduced to 0 or less, you can catch the missile if it is small enough to hold in one hand and if you have at least one hand free. If you catch a missile in this way, you can spend one use of your Ki feature to make a ranged attack with the weapon or piece of ammunition you just caught, as part of the same reaction. You make this attack with proficiency, regardless of your weapon proficiencies, and the missile counts as a monk weapon for the attack, which has a normal range of 4 squares and a long range of 12 squares.
 
 # Paladin
 
@@ -1202,7 +1201,7 @@ Each oath has associated spells. You begin knowing two oath spells, and they do 
 
 If you gain an oath spell that doesn’t appear on the paladin spell list, the spell is nonetheless a paladin spell for you.
 
-### Channel Divinity (Encounter, Rest)
+### Channel Divinity (Rest)
 
 Your oath allows you to channel divine energy to fuel magical effects. Each Channel Divinity option provided by your oath explains how to use it.
 When you use your Channel Divinity, you choose which option to use.
@@ -1232,7 +1231,7 @@ Though the exact words and strictures of the Oath of Devotion vary, paladins of 
 - protection from evil and good
 - sanctuary
 
-### Channel Divinity (Encounter, Rest)
+### Channel Divinity (Rest)
 
 When you take this oath, you gain the following two Channel Divinity Options.
 
@@ -1744,7 +1743,7 @@ You can add other ritual spells to your Tome of Secrets on your adventures. When
 
 You see normally in magical darkness, and you can read all writing.
 
-### Eldritch Vigor (Encounter)
+### Eldritch Vigor
 
 At the beginning of an encounter, you gain bolster 1.
 
@@ -2180,7 +2179,7 @@ Heavy armor decreases damage taken by LEVEL, but hinders movement, reducing your
 
 You gain the following game features while wearing heavy armor.
 
-- **_Heavy Armor (Encounter, Rest)_.** Whenever an attack critically hits you while wearing heavy armor, you can use this feature to treat it as a regular hit.
+- **_Heavy Armor (Rest)_.** Whenever an attack critically hits you while wearing heavy armor, you can use this feature to treat it as a regular hit.
 
 ...
 
@@ -2520,7 +2519,7 @@ You gain proficiency with light armor and shields.
 |3⛁|-|-|Your base Defense while wearing light armor becomes 10 + DEX + LEVEL.|
 |3⛁|-|-|You gain the Shield (Reaction, Rest 2) feature while a shield is equipped.|
 
-## Defensive Duelist (Encounter, Reaction)
+## Defensive Duelist (Reaction)
 
 _Prerequisite: DEX +1 or higher_
 
@@ -4029,7 +4028,7 @@ This spell lets you convince a beast that you mean it no harm. Choose a beast th
 
 ## Spells (B)
 
-### Beast Link (Encounter)
+### Beast Link
 
 - 2nd-level divination
 - Range: Touch
@@ -4038,7 +4037,7 @@ This spell lets you convince a beast that you mean it no harm. Choose a beast th
 
 You touch a willing beast and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can discard your action on subsequent turns to maintain this connection, extending the duration until the end of your next turn. While perceiving through the other creature’s senses, you benefit from any special senses possessed by that creature, and you are blinded and deafened to your own surroundings.
 
-### Bane (Encounter)
+### Bane
 
 - _1st-­level enchantment_
 - **Range:** 6 squares
@@ -4055,7 +4054,7 @@ Up to three creatures of your choice that you can see within range must make CHA
 |**Casting Time:** 1 action|
 |**Range:** Touch|
 |**Components:** V, S|
-|**Duration:** Concentration (Encounter)|
+|**Duration:** Encounter (Concentration)|
 ||
 |You touch a willing creature. Until the spell ends, the target’s skin has a rough, bark-­like appearance, and the target is considered to be wearing medium armor with medium armor proficiency.|
 
@@ -4087,7 +4086,7 @@ You bless up to three creatures of your choice within range. Creatures affected 
 |**Casting Time:** 1 action|
 |**Range:** Self|
 |**Components:** V|
-|**Duration:** Concentration (encounter)|
+|**Duration:** Encounter (Concentration)|
 ||
 |Your body becomes blurred, shifting and wavering to all who can see you. For the duration, any creature has disadvantage on attack rolls against you. An attacker is immune to this effect if it doesn’t rely on sight, as with blindsight, or can see through illusions, as with truesight.|
 
@@ -4097,7 +4096,7 @@ You bless up to three creatures of your choice within range. Creatures affected 
 |**Casting Time:** Instantaneous|
 |**Range:** Self|
 |**Components:** V|
-|**Duration:** Concentration (encounter)|
+|**Duration:** Encounter (Concentration)|
 ||
 |The next time you hit a creature with a weapon attack before this spell ends, the weapon gleams with astral radiance as you strike. The attack deals an extra 1 radiant damage to the target, which becomes visible if it's invisible, and the target sheds dim light in a 1 square radius and can't become invisible until the spell ends.|
 |**At Higher Levels.** When you cast this spell at a higher level, the extra damage increases by +1 for each level above 2nd|
@@ -4155,7 +4154,7 @@ Alternatively, you can make a target indifferent about creatures of your choice 
 |**Casting Time:** 1 action|
 |**Range:** 12|
 |**Components:** V, S|
-|**Duration:** Concentration (encounter)|
+|**Duration:** Encounter (Concentration)|
 ||
 |You summon a fey spirit that takes the form of a beast and appears in an unoccupied space that you can see within range. Choose one beast of challenge rating 2 or lower. The beast is also considered fey, and it disappears when it drops to 0 hit points or when the spell ends.|
 |The summoned creature is friendly to you and your companions. Roll initiative for the summoned creature, which has its own turns. It obeys any verbal commands that you issue (no action required by you). If you don’t issue any commands, the animal defends itself from hostile creatures but otherwise takes no actions.|
@@ -4908,7 +4907,7 @@ Liches share the following statistics.
 
 |LEVEL||
 |-:|:-|
-|**1**|1st level (4 slots): *~~detect magic~~, magic missile, shield, thunderwave*|
+|**1**|1st level (4 slots): *magic missile, shield, thunderwave*|
 |**1**|2nd level (3 slots): *acid arrow, detect thoughts, invisibility, mirror image*|
 |**2**|3rd level (3 slots): *animate dead, counterspell, dispel magic, fireball*|
 |**3**|4th level (3 slots): *blight, dimension door*|
@@ -4928,7 +4927,7 @@ Liches share the following statistics.
 
 **Frightening Gaze.** The lich fixes its gaze on one creature it can see within 2 squares of it. The target must succeed on a WIS check or become frightened until the end of the encounter. The frightened target can repeat the check at the end of each of its turns, ending the effect on itself on a success. If a target’s check is successful or the effect ends for it, the target is immune to the lich’s frightening gaze until the end of the game session.
 
-**Disrupt Life.** Each non-undead creature within 5 squares of the lich must make a CON check, taking necrotic damage on a failed check or half damage on a successful one.
+**Disrupt Life (Recharge 2-4).** Each non-undead creature within 5 squares of the lich must make a CON check, taking necrotic damage on a failed check or half damage on a successful one.
 
 ## Monsters (M)
 
