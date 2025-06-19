@@ -369,7 +369,7 @@ While raging, you gain the following benefits if you aren’t wearing armor:
 
 If you are able to cast spells, you can’t cast them or concentrate on them while raging.
 
-Your rage ends early if you are knocked unconscious ~~or if your turn ends and you haven’t attacked a hostile creature since your last turn or taken damage since then~~. You can end your rage early on your turn, starting on the turn after you activate rage.
+Your rage ends early if you are knocked unconscious. You can end your rage early on your turn, starting on the turn after you activate rage.
 
 You must be raging to gain the benefits of a game feature with the rage keyword.
 
