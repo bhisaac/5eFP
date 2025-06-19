@@ -5315,7 +5315,7 @@ The 5eFP community will continue listening, learning, and reflecting, individual
     - Damage (Turn): You complete an action that targets a creature, dealing 1 damage to a different creature within 1 square of the target.
     - Healer (Turn): You complete an action that targets a creature, choosing a different creature within 1 square of the target. The chosen creature discards up to 1 wound and can make an additional ability check to resist an ongoing negative effect.
 - Barbarian changes
-    - Rage changes from a cooldown X feature to an encounter feature. No need to keep track of how many times you've used it. It's now always accessible at least once per encounter. This makes it less like bookkeeping to track how many times you used the feature.
+    - Rage changes from a cooldown X feature to an encounter feature that can only be used during combat and trap encounters (where it's used 100% of the time anyway). No need to keep track of how many times you've used it. It's now always accessible at least once per encounter. This makes it less like bookkeeping to track how often you use the feature. And it doesn't end early if you haven't attacked or taken damage since your last turn (this was an attempt to narrow its focus to combat or dangerous situations--it's now mitigated by requiring a combat or trap encounter).
 - Warlock changes
     - Changed class features, rephrasing them into neutral versions. The warlock is typically cast in a dark, occult frame. 5eFP departs from this and recreates the warlock as a neutral class that is neither inherently good nor evil.
         - Pact of the Chain: Imp --> Humunculous, Quasit --> Tiny Elemental
