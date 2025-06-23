@@ -10,7 +10,7 @@ Section 5 of CC-BY-ND-4.0 includes a Disclaimer of Warranties and Limitation of 
 
 This work includes material taken from the System Reference Document 5.1 (“SRD 5.1”) by Wizards of the Coast LLC and available at [https://dnd.wizards.com/resources/systems-reference-document](https://dnd.wizards.com/resources/systems-reference-document). The SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International License available at [https://creativecommons.org/licenses/by/4.0/legalcode](https://creativecommons.org/licenses/by/4.0/legalcode).
 
-Read the complete changes from the SRD 5.1 to 5eFP-SRD in [Appendix CH-A: SRD 5.1 Changes](https://github.com/bhisaac/5eFP/blob/main/5eFP-SRD.md#appendix-ch-a-srd-51-changes).
+Read about the changes from the SRD 5.1 to 5eFP-SRD at [github.com/bhisaac/5eFP/discussions/5#discussion-8485918](https://github.com/bhisaac/5eFP/discussions/5#discussion-8485918).
 
 ## Safe Space and Code Of Conduct
 
