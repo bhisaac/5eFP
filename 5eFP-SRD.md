@@ -112,6 +112,8 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Proficiencies_.** If you are proficient with a game feature, you can use it without penalty and add LEVEL to any attack or ability check you make using it. You can only add LEVEL to a proficiency once.
 
+**_Reaction_.** Discard your reaction to use certain game features and spells. A reaction is an instant response to a trigger of some kind, which can occur on your turn or on someone else’s.
+
 **_Recall (Cooldown)_.** A PC is transported back to the HQ map room after finishing a special Recall ritual completed outside of an encounter. All PCs instantly Recall when completing this ritual or whenever the time marker reaches 8. A game feature with the Recall keyword persists until you Recall.
 
 **_Rest (Cooldown 2)_.** While deployed and not in an encounter, a group can choose to take a rest. A rest is a brief period of downtime, at least 1 hour long, during which a creature does nothing more strenuous than eating, drinking, reading, and tending to wounds. At the end of a rest, a creature discards up to LEVEL wounds and regains all uses of game features with the rest keyword. If a number follows the rest keyword, it represents the number of times the game feature can be used between rests, but no more than once per turn. Finishing a rest advances the time marker.
@@ -3440,7 +3442,7 @@ You gain one free Interact with an Object action each turn. Additional Interact 
 
 ## Reaction
 
-**_Discard your reaction to use certain game features, spells, and situations_.** A reaction is an instant response to a trigger of some kind, which can occur on your turn or on someone else’s.
+**_Discard your reaction to use certain game features and spells_.** A reaction is an instant response to a trigger of some kind, which can occur on your turn or on someone else’s.
 
 The opportunity attack is the most common type of reaction.
 
