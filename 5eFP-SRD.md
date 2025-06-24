@@ -797,7 +797,7 @@ The Circle of the Sun and Moon is made up of mystics who meditate and commune wi
 - You may cast spells, speak, and take normal actions in astral form.
 - **_Lunar Attunement._** After casting a spell with no visible effect, such as _cure wounds_, you discard solar attunement and gain lunar attunement. If you already have lunar attunement, discard it and activate Starfall.
 - **_Solar Attunement._** After casting a spell with a visible effect, such as _entangle_, you discard lunar attunement and gain solar attunement. If you already have solar attunement, discard it and activate Starfall.
-- **_Starfall._** A shooting star of radiance forms above your head and strikes a creature within 12 squares of you. If the creature is friendly, it can discard up to one wound and may make an ability check to resist one ongoing negative effect. If the creature is not a friendly target, it must succeed on a DEX check using your spell DC or take 1 point of radiant damage. You then gain _lunar attunement_ or _solar attunement_.
+- **_Starfall._** A shooting star of radiance forms above your head and strikes a creature within 12 squares of you. If the creature is friendly, it can discard up to one wound and may make an ability check to resist one ongoing negative effect. If the creature is not a friendly target, it must succeed on a DEX check using your spell DC or take 1 point of radiant damage. You then gain _Lunar Attunement_ or _Solar Attunement_.
 
 ### Circle of the Manyshaped
 
