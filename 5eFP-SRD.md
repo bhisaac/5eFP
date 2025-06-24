@@ -3108,27 +3108,27 @@ All PCs in a group choose a group role before selecting a destination and deploy
 
 When PCs form a group, they choose one of three beneficial status effects that are enabled while deployed on a map. Group leaders may choose their group role first. A group can have a maximum of one defend, one heal, and up to three damage roles. The defend and heal roles are chosen first, followed by damage roles.
 
-### Defend (Encounter)
+### Defend
 
 _This game feature automatically activates at the start of an encounter._
 
 Players with the defend group role typically strive to draw the focus of adversaries while safeguarding the more vulnerable player characters in the group from harm. The following features take effect during an encounter before initiative order is determined.
 
-- You gain _Bolster 1_. You may combine this bolster with one other bolster effect.
+- You gain _bolster 1_. You may combine this bolster with one other bolster effect.
 - At the end of each of your turns, all minions, elites, and bosses that can see you gain the taunted condition if you are not unconscious or incapacitated and are the closest adversary they can target within their LOS.
 - You take your turn immediately. You pass your turn on round 1.
 
-### Heal (Action, Turn)
+### Heal
 
 Players with the heal group role typically use effects and game features to heal, protect, and empower allies. They also provide primary support for the player with the defend group role.
 
-- You take the Attack or Cast a Spell action that targets a creature. After resolving your action, choose a different creature within 1 square of the target. If you target multiple creatures, choose one of the targets and then apply this feature to it. The chosen creature discards up to 1 wound and can make an additional ability check to resist an ongoing negative effect. This feature does not affect undead and constructs.
+- The first time you take the Attack or Cast a Spell action that targets a creature, after resolving your action, choose a different creature within 1 square of the target. If you target multiple creatures, choose one of the targets and then apply this feature to it. The chosen creature discards up to 1 wound and can make an additional ability check to resist an ongoing negative effect. This feature does not affect undead and constructs.
 
-### Damage (Action, Turn)
+### Damage
 
 Players with the damage role typically use effects and game features to deal damage and hinder adversaries.
 
-- You take the Attack or Cast a Spell action that targets a creature and deals 1 or more points of damage. After resolving your action, choose a different minion, elite, or boss within 1 square of the target. If you targeted multiple creatures, choose one of the targets and then apply this feature. The chosen target takes 1 point of damage of the same type.
+- The first time you take the Attack or Cast a Spell action that targets a creature and deals 1 or more points of damage, after resolving your action, choose a different minion, elite, or boss within 1 square of the target. If you targeted multiple creatures, choose one of the targets and then apply this feature. The chosen target takes 1 point of damage of the same type.
 
 ## Group Token
 
