@@ -3106,7 +3106,7 @@ All PCs in a group choose a group role before selecting a destination and deploy
 
 ### Group Roles
 
-When PCs form a group, they choose one of three beneficial status effects that activate while deployed on a map. Group leaders may choose their group role first. A group can have a maximum of one defend, one heal, and up to three damage roles. The defend and heal roles are chosen first, followed by damage roles.
+When PCs form a group, they choose one of three beneficial status effects that are enabled while deployed on a map. Group leaders may choose their group role first. A group can have a maximum of one defend, one heal, and up to three damage roles. The defend and heal roles are chosen first, followed by damage roles.
 
 ### Defend (Encounter)
 
