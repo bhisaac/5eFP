@@ -5135,7 +5135,7 @@ The following definitions specify what happens to a creature while it is subject
 
 ## Taunted
 
-- A taunted creature must include a PC with the defender group role as a target with any attack, effect, or spell whenever possible. Remove a creature's taunt condition whenever it receives 1 or more points of damage from a PC with the healer or damage group role.
+- A taunted creature must include a PC with the defend group role as a target with any attack, game feature, or spell whenever possible. Remove a creature's taunt condition whenever it is targeted by a PC with the heal or damage group role.
 
 ## Unconscious
 
