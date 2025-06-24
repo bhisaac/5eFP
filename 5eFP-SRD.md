@@ -3122,13 +3122,13 @@ Players with the defend group role typically strive to draw the focus of adversa
 
 Players with the heal group role typically use effects and game features to heal, protect, and empower allies. They also provide primary support for the player with the defend group role.
 
-- The first time you take the Attack or Cast a Spell action that targets a creature, after resolving your action, choose a different creature within 1 square of the target. If you target multiple creatures, choose one of the targets and then apply this feature to it. The chosen creature discards up to 1 wound and can make an additional ability check to resist an ongoing negative effect. This feature does not affect undead and constructs.
+- The first time you take the Attack or Cast a Spell action on your turn that targets a creature, after resolving your action, choose a different creature within 1 square of the target. If you target multiple creatures, choose one of the targets and then apply this feature to it. The chosen creature discards up to 1 wound and can make an additional ability check to resist an ongoing negative effect. This feature does not affect undead and constructs.
 
 ### Damage
 
 Players with the damage role typically use effects and game features to deal damage and hinder adversaries.
 
-- The first time you take the Attack or Cast a Spell action that targets a creature and deals 1 or more points of damage, after resolving your action, choose a different minion, elite, or boss within 1 square of the target. If you targeted multiple creatures, choose one of the targets and then apply this feature. The chosen target takes 1 point of damage of the same type.
+- The first time you take the Attack or Cast a Spell action on your turn that targets a creature and deals 1 or more points of damage, after resolving your action, choose a different minion, elite, or boss within 1 square of the target. If you targeted multiple creatures, choose one of the targets and then apply this feature. The chosen target takes 1 point of damage of the same type.
 
 ## Group Token
 
