@@ -307,7 +307,7 @@ Hardy halflings are tougher than average. Their communities can be found in remo
 
 **Favored Ability.** Constitution (CON)
 
-**Resilience.** You have advantage on ability checks against poison, and you have resistance against poison damage.
+**Resilience.** You have advantage on CON checks.
 
 ## Human
 
