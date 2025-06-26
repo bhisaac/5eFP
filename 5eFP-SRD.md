@@ -2852,10 +2852,6 @@ A character or monster can choose not to resist a spell or game feature.
 
 In combat and other fast-­paced situations, the game relies on **rounds**, a 6-­second span of time.
 
-# Movement
-
-TBA
-
 # The Environment
 
 TBA
@@ -3074,11 +3070,7 @@ Movement through dangerous dungeons or wilderness areas often involves more than
 
 While climbing or swimming, each square of movement costs 1 extra square (2 extra squares in difficult terrain), unless a creature has a climbing or swimming speed. At the GM’s option, climbing a slippery vertical surface or one with few handholds requires a successful STR check. Similarly, gaining any distance in rough water might require a successful STR check.
 
-When swimming, you only provoke opportunity attacks from creatures with a reach score of 2 or more squares if you have swim speed.
-
-#### Flying
-
-While flying, you only trigger opportunity attacks from creatures with a reach score of 2 or more squares and fall prone when unconscious. Flight can be granted without also granting a fly speed, such as with the _fly_ spell or with certain game rules, features, or equipment. A fly speed grants the hover special ability. If you can hover, you do not fall prone when unconscious.
+When swimming, if you have a swim speed, you only provoke opportunity attacks from creatures with a reach score of 2 or more squares, and you ignore difficult terrain.
 
 #### Jumping
 
@@ -3137,6 +3129,143 @@ While on the world map, if the group token triggers an encounter by moving onto 
 ### Dungeon Encounter
 
 While on a dungeon map, if the group token triggers an encounter, replace the group token with the player's tokens as close to marching order as possible before placing any creatures or map features onto the map. Once an encounter resolves, remove the player's tokens from the map and place the group token back onto the map on an accessible dungeon tile not obscured by a fog of war tile.
+
+# The Order of Combat
+
+## Surprise
+
+## Initiative
+
+## Your Turn
+
+### Actions that Trigger other Actions (Bonus Action)
+
+### Other Activity on Your Turn
+
+## Reactions
+
+# Movement and Position
+
+In combat, characters and monsters are in constant motion, often using movement and position to gain the upper hand.
+
+On your turn, you can move a distance up to your speed. You can use as much or as little of your speed as you like on your turn, following the rules here.
+
+Your movement can include jumping, climbing, and swimming. These different modes of movement can be combined with walking, or they can
+constitute your entire move. However you’re moving, you deduct the distance of each part of your move from your speed until it is used up or until you are done moving.
+
+## Breaking Up Your Move
+
+You can break up your movement on your turn, using some of your speed before and after your action. For example, if you have a speed of 6 squares, you can move 2 squares, take your action, and then move 4 squares.
+
+### Moving between Attacks
+
+If you take an action that includes more than one weapon attack, you can break up your movement even further by moving between those attacks. For example, a fighter who can make two attacks with the Extra Attack feature and who has a speed of 5 squares could move 2 squares, make an attack, move 3 squares, and then attack again.
+
+### Using Different Speeds
+
+If you have more than one speed, such as your walking speed and a flying speed, you can switch back and forth between your speeds during your move. Whenever you switch, subtract the distance you’ve already moved from the new speed. The result determines how much farther you can move. If the result is 0 or less, you can’t use the new speed during the current move.
+
+For example, if you have a speed of 6 squares and a flying speed of 12 squares because a wizard cast the _fly_ spell on you, you could fly 4 squares, then walk 2 squares, and then leap into the air to fly 6 squares more.
+
+## Difficult Terrain
+
+Combat rarely takes place in bare rooms or on featureless plains. Boulder-strewn caverns, briar-choked forests, treacherous staircases—the setting of a typical fight contains difficult terrain.
+
+Every square of movement in difficult terrain costs 1 extra square. This rule is true even if multiple things in a space count as difficult terrain.
+
+Low furniture, rubble, undergrowth, steep stairs, snow, and shallow bogs are examples of difficult terrain. The space of another creature, whether hostile or not, also counts as difficult terrain.
+
+## Being Prone
+
+## Moving Around Other Creatures
+
+## Flying Movement
+
+Flying creatures enjoy many benefits of mobility, but they must also deal with the danger of falling. If a flying creature is knocked prone, has its speed reduced to 0, or is otherwise deprived of the ability to move, the creature falls, unless it has the ability to hover or it is being held aloft by magic, such as by the _fly_ spell.
+
+While flying, you only trigger opportunity attacks from creatures with a reach score of 2 or more, and you ignore difficult terrain. Flight can be granted without also granting a fly speed, such as with the _fly_ spell or with certain game rules, features, or equipment.
+
+## Creature Size
+
+### Space
+
+### Squeezing into a Smaller Space
+
+# Actions in Combat
+
+An action is a discrete measurement of time and effort. Using certain game features, casting spells, and making attacks requires you to discard your action. Once discarded, an action remains discarded until the beginning of your next turn.
+
+When you discard your action, you can take one of the actions presented here, take an action you gained from a game feature, or take an action you improvise. Many monsters have action options of their own in their stat blocks.
+
+When you describe an action not detailed elsewhere in the rules, the GM tells you whether that action is possible and what kind of roll you need to make, if any, to determine success or failure.
+
+Return your discarded actions at the start of a game session and at the beginning of your turn.
+
+## Action
+
+**_Discard your action to take one action_.** You discard your action during your turn to use most game features, spells, and attacks. If a game feature has the Action keyword, you can take any additional actions listed in its description without needing to discard your action.
+
+## Attack (Action)
+
+The most common action to take in combat is the Attack action, whether you are swinging a sword, firing an arrow from a bow, or brawling with your fists.
+
+With this action, you make one attack. See the “Making an Attack” section for the action.
+
+Certain features, such as the Extra Attack feature of the fighter, allow you to make more than one attack with this action.
+
+## Cast a Spell (Action)
+
+Spellcasters and many monsters have access to spells and can use them to great effect. If a spell has a casting time of 1 reaction, you discard your reaction instead of discarding your action when you take the Cast a Spell action to cast it. If a spell has a casting time of instant, you do not discard your action when you take the Cast a Spell action to cast it. If a spell has a 1 reaction or instant casting time, it will be listed in the spell's description.
+
+## Dash (Action, Turn)
+
+After applying any modifiers, you gain extra movement for the current turn, equal to your speed. For example, with a speed of 6, you can move up to 12 squares on your turn if you Dash.
+
+Any increase or decrease to your speed changes this additional movement by the same amount.
+
+## Disengage (Action, Turn)
+
+Until the end of your turn, your movement does not provoke opportunity attacks.
+
+## Dodge (Action, Turn)
+
+Until the start of your next turn, any attack roll made against you has disadvantage if you can see the attacker, and you make DEX checks with advantage. You lose this benefit if you are incapacitated (as explained in appendix PH-A) or if your speed drops to 0.
+
+## Help (Action, Turn)
+
+You lend aid to another creature in the completion of a task. The creature you aid gains advantage on the next ability check it makes to perform the task you are helping with.
+
+Alternatively, you can aid a friendly creature in attacking a creature within your reach. You can feint, distract the target, or, in some other way, team up to make your ally’s attack more effective. If your ally attacks the target, the first attack roll is made with advantage.
+
+## Hide (Action, Turn)
+
+You make a DEX check in an attempt to hide, following the rules for hiding. If you succeed, you gain certain benefits, as described in the “Unseen Attackers and Targets” section.
+
+## Interact with an Object
+
+You normally interact with an object while doing something else, such as when you draw a sword as part of an attack. When an object requires your action for its use, you take the Interact with an Object action. This action is also useful when you want to interact with more than one object on your turn.
+
+You gain one free Interact with an Object action each turn. Additional Interact with an Object actions discard your action.
+
+## Reaction
+
+**_Discard your reaction to use certain game features and spells_.** A reaction is an instant response to a trigger of some kind, which can occur on your turn or on someone else’s.
+
+The opportunity attack is the most common type of reaction.
+
+## Ready (Action)
+
+Sometimes you want to get the jump on a foe or wait for a particular circumstance before you act. The Ready action allows you to discard your reaction to act before the start of your next turn.
+
+First, you decide what perceivable circumstance will trigger your reaction. Then, you choose the action you will take in response to that trigger or you choose to move up to your speed in response to it. Examples include, “If the cultist steps on the trapdoor, I’ll pull the lever that opens it,” and “If the goblin steps next to me, I move away.”
+
+When the trigger occurs, you can either discard your reaction and take your action right after the trigger finishes or ignore the trigger.
+
+When you ready a spell, you cast it as normal but hold its energy, which you release when you discard your reaction during the triggered event. To be readied, a spell must have a casting time of 1 action, and holding the spell’s magic requires concentration. If your concentration is broken, the spell dissipates without taking effect. For example, if you are concentrating on the _web_ spell and readying a _magic missile_, your _web_ spell ends.
+
+## Search (Action)
+
+You devote your attention to finding something. Depending on the nature of your search, the GM might have you make a WIS check or an INT check.
 
 # Making An Attack
 
@@ -3377,84 +3506,6 @@ The most common actions you can take are described in the “Actions” section.
 The “Movement and Position" section provides the rules for your move.
 
 You can forgo moving, taking an action, taking a reaction, or doing anything at all on your turn. If you can’t decide what to do on your turn, consider taking the Dodge or Ready action, as described in “Actions.”
-
-# Actions
-
-An action is a discrete measurement of time and effort. Using certain game features, casting spells, and making attacks require you to discard your action. Once discarded, an action remains discarded until the beginning of your next turn.
-
-When you discard your action, you can take one of the actions presented here, take an action you gained from a game feature, or take an action you improvise. Many monsters have action options of their own in their stat blocks.
-
-When you describe an action not detailed elsewhere in the rules, the GM tells you whether that action is possible and what kind of roll you need to make, if any, to determine success or failure.
-
-Return your discarded actions at the start of a game session and at the beginning of your turn.
-
-## Action
-
-**_Discard your action to take one action_.** You discard your action during your turn to use most game features, spells, and attacks. If a game feature has the Action keyword, you use your discarded action to take another action detailed in its description.
-
-> Life requires some effort to maintain. You must physically attend to your life and take action to promote your health and wellness. Your body, mind, and essence or spirit need loving kindness, loving guidance, and self-care for optimal health. There is no away-from-keyboard (AFK) in RL. There is no auto-follow or AFK leveling. You must take action if you are to meet your goals in life. If you don't take action in your life, who will?
-
-## Attack
-
-**_Discard your action to Attack_.** The most common action to take in combat is the Attack action, whether you are swinging a sword, firing an arrow from a bow, or brawling with your fists.
-
-With this action, you make one attack. See the “Making an Attack” section for the action.
-
-Certain features, such as the Extra Attack feature of the fighter, allow you to make more than one attack with this action.
-
-## Cast a Spell
-
-**_Discard your action to Cast a Spell_.** Spellcasters and many monsters have access to spells and can use them to great effect. Spells typically discard your action to cast. If the spell has a different casting time, such as 1 reaction, it will be listed in the spell's description.
-
-## Dash (Action, Turn)
-
-After applying any modifiers, you gain extra movement for the current turn, equal to your speed. For example, with a speed of 6, you can move up to 12 squares on your turn if you Dash.
-
-Any increase or decrease to your speed changes this additional movement by the same amount.
-
-## Disengage (Action, Turn)
-
-Until the end of your turn, your movement does not provoke opportunity attacks.
-
-## Dodge (Action, Turn)
-
-Until the start of your next turn, any attack roll made against you has disadvantage if you can see the attacker, and you make DEX checks with advantage. You lose this benefit if you are incapacitated (as explained in appendix PH-A) or if your speed drops to 0.
-
-## Help (Action, Turn)
-
-You lend aid to another creature in the completion of a task. The creature you aid gains advantage on the next ability check it makes to perform the task you are helping with.
-
-Alternatively, you can aid a friendly creature in attacking a creature within your reach. You can feint, distract the target, or, in some other way, team up to make your ally’s attack more effective. If your ally attacks the target, the first attack roll is made with advantage.
-
-## Hide (Action, Turn)
-
-You make a DEX check in an attempt to hide, following the rules for hiding. If you succeed, you gain certain benefits, as described in the “Unseen Attackers and Targets” section.
-
-## Interact with an Object
-
-You normally interact with an object while doing something else, such as when you draw a sword as part of an attack. When an object requires your action for its use, you take the Interact with an Object action. This action is also useful when you want to interact with more than one object on your turn.
-
-You gain one free Interact with an Object action each turn. Additional Interact with an Object actions discard your action.
-
-## Reaction
-
-**_Discard your reaction to use certain game features and spells_.** A reaction is an instant response to a trigger of some kind, which can occur on your turn or on someone else’s.
-
-The opportunity attack is the most common type of reaction.
-
-## Ready (Action)
-
-Sometimes you want to get the jump on a foe or wait for a particular circumstance before you act. The Ready action allows you to discard your reaction to act before the start of your next turn.
-
-First, you decide what perceivable circumstance will trigger your reaction. Then, you choose the action you will take in response to that trigger or you choose to move up to your speed in response to it. Examples include, “If the cultist steps on the trapdoor, I’ll pull the lever that opens it,” and “If the goblin steps next to me, I move away.”
-
-When the trigger occurs, you can either discard your reaction and take your action right after the trigger finishes or ignore the trigger.
-
-When you ready a spell, you cast it as normal but hold its energy, which you release when you discard your reaction during the triggered event. To be readied, a spell must have a casting time of 1 action, and holding the spell’s magic requires concentration. If your concentration is broken, the spell dissipates without taking effect. For example, if you are concentrating on the _web_ spell and readying a _magic missile_, your _web_ spell ends.
-
-## Search (Action)
-
-You devote your attention to finding something. Depending on the nature of your search, the GM might have you make a WIS check or an INT check.
 
 # Mounted Combat
 
@@ -5133,6 +5184,7 @@ The following definitions specify what happens to a creature while it is subject
 
 ## Unconscious
 
+- An unconscious creature drops any equipment held in their hands and gains the prone condition. A flying creature loses flight unless it has the hover keyword.
 - An unconscious creature is incapacitated (see the condition), can’t move or speak, and is unaware of its surroundings.
 - The creature drops whatever it’s holding and falls prone.
 - The creature automatically fails STR and DEX checks.
