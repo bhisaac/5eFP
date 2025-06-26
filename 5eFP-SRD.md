@@ -212,10 +212,6 @@ Your dwarf character has an assortment of inborn abilities, part and parcel of d
 
 **Dwarven Resilience.** You have advantage on ability checks against poison, and you have resistance against poison damage.
 
-**Dwarven Combat Training.** You have proficiency with the battleaxe, handaxe, light hammer, and warhammer.
-
-~~**Tool Proficiency.** You gain proficiency with the artisan’s tools of your choice: smith’s tools, brewer’s supplies, or mason’s tools.~~
-
 **Stonecunning.** You roll all ability checks used to determine the origin of stonework with advantage.
 
 ### Hill Dwarf
