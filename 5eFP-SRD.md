@@ -100,7 +100,7 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Map, World_.** The world map defines the game world and drives the game's story. It is a top-down illustration of the game world or region divided into a 14-square by 14-square grid. Each square within the grid is measured 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters.
 
-**_MAX Wounds_.** If the number of wounds you have equals your MAX Wounds score, you fall unconscious and make death saves at the beginning of each turn.
+**_MAX Wounds_.** If the number of wounds you have equals your MAX Wounds score, you fall unconscious and make death saving throws at the beginning of each turn.
 
 **_Minion, Elite, and Boss_.** All three refer to encounter difficulty, typically referring to monsters found in monster encounters. Minions are manageable encounters that take only one successful hit or ability check to resolve. Elites are advanced encounters with improved abilities that typically require two or more successful hits or ability checks to resolve. Bosses are the most advanced and challenging encounters that typically require multiple hits and ability checks to resolve, have special abilities that exploit minions, always include a minion encounter, and may have up to two elites.
 
@@ -307,7 +307,7 @@ Hardy halflings are tougher than average. Their communities can be found in remo
 
 **Favored Ability.** Constitution (CON)
 
-**Resilience.** You have advantage on CON checks.
+**Resilience.** You roll death saving throws with advantage.
 
 ## Human
 
@@ -2030,10 +2030,10 @@ Your GM reveals all the relevant hidden or obscured pieces of information in the
 
 Your medicine stabilizes wounds.
 
-Choose any number of creatures your character can see within 6 squares of you who are at MAX Wounds. The chosen creatures receive 1 point of healing.
+Choose any number of creatures your character can see within 6 squares of you who are at MAX Wounds. The chosen creatures stabilize, discarding 1 wound and the unconscious condition.
 
 > #### Other Game Systems
-> Choose any number of creatures your character can see within 6 squares of you who are unconscious and dying. The selected creatures receive sufficient healing to stabilize their wounds, regain minimal health, and awaken, allowing them to take action on their next turn.
+> Choose any number of creatures your character can see within 6 squares of you who are unconscious and dying. The selected creatures receive sufficient healing to stabilize their wounds, regain minimum health, and awaken, allowing them to take action on their next turn.
 >
 > 5eFP is forgiving around character death because the point of 5eFP is not to kill off all the PCs as fast as possible. Instead, it encourages _ongoing gameplay with familiar characters to engender a felt experience over time_. If your game has no grace period wherein PCs may recover from a deadly blow, then allow an inspired medicine to bring them back, but at the edge of death (one more hit will take them out again).
 
@@ -3328,11 +3328,11 @@ If damage assigns enough wounds to equal or exceed your MAX Wounds score and fai
 
 ### Death Saving Throws
 
-Whenever you start your turn with MAX Wounds, you must spend your turn making a special d20 roll, called a death saving throw, to determine whether you creep closer to death or hang onto life. Unlike other die rolls, this one isn’t tied to any ability score. You are in the hands of fate now, aided only by spells and features that improve your chances of succeeding on death saves.
+Whenever you start your turn with MAX Wounds, you must spend your turn making a special d20 roll, called a death saving throw, to determine whether you creep closer to death or hang onto life. Unlike other die rolls, this one isn’t tied to any ability score. You are in the hands of fate now, aided only by spells and features that improve your chances of succeeding on death saving throws.
 
 Roll a d20. If the roll is 10 or higher, you succeed. Otherwise, you fail. A success or failure has no effect by itself. On your third success, you become stable (see below). On your third failure, you die. The successes and failures don’t need to be consecutive; keep track of both until you collect three of a kind. The number of both is reset to zero when you receive healing or become stable.
 
-**Rolling 1 or 20.** When you make a death saving throw and roll a 1 on the d20, it counts as two failures. If you roll a 20 on the d20, you receive 1 point of healing.
+**Rolling 1 or 20.** When you make a death saving throw and roll a 1 on the d20, it counts as two failures. If you roll a 20 on the d20, you stabilize, discarding 1 wound and the unconscious condition.
 
 **Taking damage while at MAX Wounds.** If you take any damage while you have MAX Wounds, you suffer a death saving throw failure. If the damage is from a critical hit, you suffer two failures instead. If the damage assigns enough damage to meet or exceed your MAX Wounds score, you suffer instant death.
 
@@ -3342,7 +3342,7 @@ The best way to save a dying creature at MAX Wounds is to heal it. If healing is
 
 You can use your action to administer first aid to an unconscious creature and attempt to stabilize it, which requires a successful DC 10 WIS check.
 
-A stable creature doesn’t make death saving throws, even though it might still be at MAX Wounds, but it does remain unconscious. The creature stops being stable, and must start making death saving throws again, if it takes any damage. A stable creature that isn’t healed receives 1 point of healing at the end of the encounter and discards the unconscious condition.
+A stable creature doesn’t make death saving throws, even though it might still be at MAX Wounds, but it does remain unconscious. The creature stops being stable and must start making death saving throws again if it takes any damage. At the end of the encounter, a stable creature that isn’t healed stabilizes, discarding 1 wound and the unconscious condition.
 
 ### Monsters and Death
 
@@ -3352,7 +3352,7 @@ Mighty villains and special nonplayer characters (NPCs) are common exceptions; t
 
 ## Knocking a Creature Out
 
-Sometimes an attacker wants to incapacitate a foe, rather than deal a killing blow. When an attacker adds enough wounds to a creature to reach its MAX Wounds score with a melee attack, the attacker can knock the creature out. The attacker can make this choice the instant the damage is dealt. The creature falls unconscious and becomes stabilized.
+Sometimes, an attacker wants to incapacitate an opponent, rather than deal a fatal blow. When an attacker adds enough wounds to a creature to reach its MAX Wounds score with a melee attack, the attacker can choose to knock the creature out. The attacker can make this choice the instant the damage is dealt. The creature falls unconscious and becomes stabilized.
 
 ## Bolster
 
@@ -3364,7 +3364,7 @@ Healing can’t restore a bolster pool, and they can’t be added together. If y
 
 If you are at MAX Wounds, receiving a bolster pool doesn’t restore you to consciousness or stabilize you. Only true healing can save you.
 
-Unless a feature that grants you bolster has a duration, your bolster pool lasts until they’re depleted or until the end of the game session.
+Unless a feature that grants you bolster has a duration, your bolster pool lasts until used or until the end of the game session.
 
 # Your Turn
 
