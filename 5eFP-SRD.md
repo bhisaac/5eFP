@@ -3130,9 +3130,21 @@ While on the world map, if the group token triggers an encounter by moving onto 
 
 While on a dungeon map, if the group token triggers an encounter, replace the group token with the player's tokens as close to marching order as possible before placing any creatures or map features onto the map. Once an encounter resolves, remove the player's tokens from the map and place the group token back onto the map on an accessible dungeon tile not obscured by a fog of war tile.
 
-# The Order of Combat
+# The Order of Combat Encounters
+
+A typical combat encounter is a clash between two sides, a flurry of weapon swings, feints, parries, footwork, and spellcasting. The game organizes the chaos of combat into a cycle of rounds and turns. A **round** represents about 6 seconds in the game world. During a round, each participant in a battle takes a **turn**. The order of turns is determined at the beginning of a combat encounter, when everyone rolls initiative. Once everyone has taken a turn, the fight continues to the next round if neither side has defeated the other.
+
+> ### Combat Step by Step
+> 1. **Determine	surprise.** The GM determines	whether anyone involved in the combat encounter is surprised.
+> 2. **Establish positions.** The GM decides where all the characters and monsters are located. Given the adventurers’ marching order or their stated positions in the room or other location, the GM figures out where the adversaries are – how far away and in what direction.
+> 3. **Defend group role acts first.** The PC with the defend group role takes their turn before initiative is rolled.
+> 4. **Roll initiative.** Everyone involved in the combat encounter rolls initiative, determining the order of combatants’ turns.
+> 5. **Take turns.** Each participant in the battle takes a turn in initiative order.
+> 6. **Begin the next round.** When everyone involved in the combat has had a turn, the round ends. Repeat step 4 until the fighting stops.
 
 ## Surprise
+
+
 
 ## Initiative
 
@@ -3191,7 +3203,7 @@ While flying, you only trigger opportunity attacks from creatures with a reach s
 
 ### Squeezing into a Smaller Space
 
-# Actions in Combat
+# Actions in an Encounter
 
 An action is a discrete measurement of time and effort. Using certain game features, casting spells, and making attacks requires you to discard your action. Once discarded, an action remains discarded until the beginning of your next turn.
 
