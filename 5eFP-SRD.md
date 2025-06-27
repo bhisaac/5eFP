@@ -48,7 +48,7 @@ Dedication to the qualities of Insight, Medicine, Perception, Performance, and S
 
 The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenting the rules of the game. The following are among the most common.
 
-**_Action_.** An action is a discrete measurement of time accessible during your turn and typically resolves before the end of your turn. You discard your action when you use certain game features, cast spells, and make attacks. You regain your action at the beginning of your next turn (see Actions). If a game feature has the action keyword, you must discard your action to use it, and you may take additional actions detailed in its description without needing to discard your action.
+**_Action_.** An action is a discrete measurement of time accessible during your turn and typically resolves before the end of your turn. You discard your action when you use certain game features, cast spells, and make attacks. You regain your action at the beginning of your next turn (see Actions in an Encounter). If a game feature has the action keyword, you must discard your action to use it, and you may take additional actions detailed in its description without needing to discard your action.
 
 **_Action Dice_.** Action dice are special six-sided dice with four blank faces, one side with one lightning bolt symbol, and one side with two lightning bolt symbols. The symbols can represent +1 (one symbol) or +2 (two symbols) or additional options depending on the action using them. Alternatively, you can use regular six-sided dice and assign these results to 1 and 2, respectively, with the remaining values representing blank faces.
 
@@ -3070,7 +3070,7 @@ Movement through dangerous dungeons or wilderness areas often involves more than
 
 While climbing or swimming, each square of movement costs 1 extra square (2 extra squares in difficult terrain), unless a creature has a climbing or swimming speed. At the GM’s option, climbing a slippery vertical surface or one with few handholds requires a successful STR check. Similarly, gaining any distance in rough water might require a successful STR check.
 
-When swimming, if you have a swim speed, you only provoke opportunity attacks from creatures with a reach score of 2 or more squares, and you ignore difficult terrain.
+When swimming, if you have a swim speed, you can move through any creature's space, you only provoke opportunity attacks from creatures with a reach score of 2 or more squares, and you ignore difficult terrain.
 
 #### Jumping
 
@@ -3144,17 +3144,39 @@ A typical combat encounter is a clash between two sides, a flurry of weapon swin
 
 ## Surprise
 
+A band of adventurers sneaks up on a bandit camp, springing from the trees to attack them. A gelatinous cube glides down a dungeon passage, unnoticed by the adventurers until the cube engulfs one of them. In these situations, one side of the battle gains surprise over the other.
 
+The GM determines who might be surprised. If neither side tries to be stealthy, they automatically notice each other. Otherwise, the GM compares the Dexterity (Stealth) checks of anyone hiding with the passive Wisdom (Perception) score of each creature on the opposing side. Any character or monster that doesn’t notice a threat is surprised at the start of the encounter.
+
+If you’re surprised, you can’t move or take an action on your first turn of the combat, and you can’t take a reaction until that turn ends. A member of a group can be surprised even if the other members aren’t.
 
 ## Initiative
 
+Initiative determines the order of turns during combat. When combat starts, every participant makes a Dexterity check to determine their place in the initiative order. The GM makes one roll for an entire group of identical creatures, so each member of the group acts at the same time.
+
+The GM ranks the combatants in order from the one with the highest Dexterity check total to the one with the lowest. This is the order (called the initiative order) in which they act during each round. The initiative order remains the same from round to round.
+
+If a tie occurs, the GM decides the order among tied GM-controlled creatures, and the players decide the order among their tied characters. The GM can decide the order if the tie is between a monster and a player character. Optionally, the GM can have the tied characters and monsters each roll a d20 to determine the order, highest roll going first.
+
 ## Your Turn
 
-### Actions that Trigger other Actions (Bonus Action)
+On your turn, you can **move** a distance up to your speed and **take one action**. You decide whether to move first or take your action first. Your speed—sometimes called your walking speed—is noted on your character sheet.
+
+The most common actions you can take are described in the “Actions in an Encounter” section. Many class features and other game features provide additional options for your action.
+
+The “Movement and Position” section gives the rules for your move.
+
+You can forgo moving, taking an action, or doing anything at all on your turn. If you can’t decide what to do on your turn, consider taking the Dodge or Ready action, as described in “Actions in an Encounter.”
+
+### Action Combos (Combos)
+
+Some class features, spells, and other game features with the action keyword allow you to make additional actions without discarding your action, as detailed in their descriptions. The series of actions combines into a single effect. These are called combos. The Cunning Action feature, for example, allows rogues to take a Dash, Disengage, or Hide action without needing to discard their action. You can take additional actions without discarding your action only when a spell or other game feature states that you can do so. You can otherwise only take one action on your turn.
 
 ### Other Activity on Your Turn
 
-## Reactions
+Your turn can include a variety of flourishes that require neither your action nor your move.
+
+You can communicate however you are able, through brief utterances and gestures, as you take your turn.
 
 # Movement and Position
 
@@ -3189,19 +3211,53 @@ Low furniture, rubble, undergrowth, steep stairs, snow, and shallow bogs are exa
 
 ## Being Prone
 
+Combatants often find themselves lying on the ground, either because they are knocked down or because they throw themselves down. In the game, they are prone, a condition described in appendix PH-A.
+
+You can **drop prone** without using any of your speed. **Standing up** takes more effort; doing so costs an amount of movement equal to half your speed.
+
+For example, if your speed is 6 squares, you must spend 3 squares of movement to stand up. You can’t stand up if you don’t have enough movement left or if your speed is 0. 
+
+To move while prone, you must **crawl** or use magic such as teleportation. Every square of movement while crawling costs 1 extra square. Crawling 1 square in difficult terrain, therefore, costs 3 squares of movement.  
+
 ## Moving Around Other Creatures
+
+You can move through a nonhostile creature’s space. In contrast, you can move through a hostile creature’s space only if the creature is at least two sizes larger or smaller than you. Remember that another creature’s space is difficult terrain for you.
+
+Whether a creature is a friend or an enemy, you can’t willingly end your move in its space.
+
+If you leave a hostile creature’s reach during your move, you provoke an opportunity attack.
 
 ## Flying Movement
 
 Flying creatures enjoy many benefits of mobility, but they must also deal with the danger of falling. If a flying creature is knocked prone, has its speed reduced to 0, or is otherwise deprived of the ability to move, the creature falls, unless it has the ability to hover or it is being held aloft by magic, such as by the _fly_ spell.
 
-While flying, you only trigger opportunity attacks from creatures with a reach score of 2 or more, and you ignore difficult terrain. Flight can be granted without also granting a fly speed, such as with the _fly_ spell or with certain game rules, features, or equipment.
+While flying, you can move through any creature's space, you only trigger opportunity attacks from creatures with a reach score of 2 or more, and you ignore difficult terrain. Flight can be granted without also granting a fly speed, such as with the _fly_ spell or with certain game rules, features, or equipment.
 
 ## Creature Size
 
+Each creature takes up a different amount of space. The Size Categories table shows how much space a creature of a particular size controls in combat. Objects sometimes use the same size categories.
+
+### Size Categories
+|Size|Space|
+|:-|:-|
+|Tiny|½ square by ½ square|
+|Small|1 square by 1 square|
+|Medium|1 square by 1 square|
+|Large|2 squares by 2 squares|
+|Huge|3 squares by 3 squares|
+|Gargantuan|5 squares by 5 squares or larger|
+
 ### Space
 
+A creature’s space is the area in squares that it effectively controls in combat, not an expression of its physical dimensions. A typical Medium creature isn’t 1 square wide, for example, but it does control a space that wide. If a Medium hobgoblin stands in a 1-square-wide doorway, other creatures can’t get through unless the hobgoblin lets them.
+
+A creature’s space also reflects the area it needs to fight effectively. For that reason, there’s a limit to the number of creatures that can surround another creature in combat. Assuming Medium combatants, eight creatures can fit in a 1-square radius around another one.
+
+Because larger creatures take up more space, fewer of them can surround a creature. If five Large creatures crowd around a Medium or smaller one, there’s little room for anyone else. In contrast, as many as twenty Medium creatures can surround a Gargantuan one.
+
 ### Squeezing into a Smaller Space
+
+A creature can squeeze through a space that is large enough for a creature one size smaller than it. Thus, a Large creature can squeeze through a passage that’s only 1 square wide. While squeezing through a space, a creature must spend 1 extra square for every square it moves there, and it has disadvantage on attack rolls and DEX checks. Attack rolls against the creature have advantage while it’s in the smaller space.
 
 # Actions in an Encounter
 
@@ -3257,7 +3313,36 @@ You make a DEX check in an attempt to hide, following the rules for hiding. If y
 
 You normally interact with an object while doing something else, such as when you draw a sword as part of an attack. When an object requires your action for its use, you take the Interact with an Object action. This action is also useful when you want to interact with more than one object on your turn.
 
-You gain one free Interact with an Object action each turn. Additional Interact with an Object actions discard your action.
+You gain one free Interact with an Object action each turn, which can also be used to interact with a feature of the environment, such as opening a door. Additional Interact with an Object actions discard your action.
+
+Some magic items and other special objects always require an action to use, as stated in their descriptions.
+
+The GM may require you to discard your action for any of these activities when they require special care or present an unusual obstacle. For instance, the GM could reasonably expect you to discard your action to open a stuck door or turn a crank to lower a drawbridge.
+
+> ### Interacting with Objects Around You
+> Here are a few examples of the sorts of thing you can do in tandem with your movement and action:
+> 
+> - draw or sheathe a sword  
+> - open or close a door  
+> - withdraw a potion from your backpack  
+> - pick up a dropped axe  
+> - take a bauble from a table  
+> - remove a ring from your finger  
+> - stuff some food into your mouth  
+> - plant a banner in the ground  
+> - fish a few coins from your belt pouch  
+> - drink all the ale in a flagon  
+> - throw a lever or a switch  
+> - pull a torch from a sconce  
+> - take a book from a shelf you can reach  
+> - extinguish a small flame  
+> - don a mask  
+> - pull the hood of your cloak up and over your head  
+> - put your ear to a door  
+> - kick a small stone  
+> - turn a key in a lock  
+> - tap the floor with a 10-foot pole  
+> - hand an item to another character
 
 ## Reaction
 
