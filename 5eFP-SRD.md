@@ -62,7 +62,7 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Conflict_.** The conflict, detailed in your setting handbook, is an event with ongoing effects that changed the game world into an unbalanced and afflicted state (see Setting Handbook). A 5eFP game ends when the conflict is resolved.
 
-**_Creature and Monster_.** A creature can be a player character or a non-player character. It can also be a monster or a minion, elite, or boss in a monster encounter. Creatures and monsters can be good, neutral, or evil. They can be lawful or chaotic as well. The majority are neutral, meaning they are not good, evil, lawful, or chaotic. Sometimes, the label fits. Some creatures are frightening and terrible, and some monsters are, indeed, monsters.
+**_Creature and Monster_.** A creature can be a player character or a non-player character. It can also be a monster or a minion, elite, or boss in a combat encounter. Creatures and monsters can be good, neutral, or evil. They can be lawful or chaotic as well. The majority are neutral, meaning they are not good, evil, lawful, or chaotic. Sometimes, the label fits. Some creatures are frightening and terrible, and some monsters are, indeed, monsters.
 
 **_Defense_.** Your Defense equals 10 + DEX and can prevent attacks from hitting you.
 
@@ -102,7 +102,7 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_MAX Wounds_.** If the number of wounds you have equals your MAX Wounds score, you fall unconscious and make death saving throws at the beginning of each turn.
 
-**_Minion, Elite, and Boss_.** All three refer to encounter difficulty, typically referring to monsters found in monster encounters. Minions are manageable encounters that take only one successful hit or ability check to resolve. Elites are advanced encounters with improved abilities that typically require two or more successful hits or ability checks to resolve. Bosses are the most advanced and challenging encounters that typically require multiple hits and ability checks to resolve, have special abilities that exploit minions, always include a minion encounter, and may have up to two elites.
+**_Minion, Elite, and Boss_.** All three refer to encounter difficulty, typically referring to monsters found in combat encounters. Minions are manageable encounters that take only one successful hit or ability check to resolve. Elites are advanced encounters with improved abilities that typically require two or more successful hits or ability checks to resolve. Bosses are the most advanced and challenging encounters that typically require multiple hits and ability checks to resolve, have special abilities that exploit minions, always include a minion encounter, and may have up to two elites.
 
 **_Non-Player Character (NPC)_.** A character created and played by the gamemaster.
 
@@ -4520,13 +4520,13 @@ If the warded creature makes an attack or casts a spell that affects an enemy cr
 |**MAX Wounds**|1|2|4|
 |**Forced Movement**|1|1 or 2|2|
 
-**Minion.** Minions represent simple encounters. Monster encounters treat minions as creatures with minimal stats that can only sustain one point of damage with MAX wounds of 1. Non-monster encounters represent situations where PCs must meet a single challenge to overcome the encounter. Examples: a trap that does not reset or picking a lock. While minion monster encounters are resolved in rounds, non-monster encounters may take minutes to resolve.
+**Minion.** Minions represent simple encounters. Minion combat encounters treat minions as creatures with minimal stats that can only sustain one point of damage with MAX wounds of 1. Minion non-combat encounters represent situations where PCs must meet a single challenge to overcome the encounter. Examples: a trap that does not reset or picking a lock. While minion combat encounters are resolved in rounds, minion non-combat encounters may take minutes to resolve.
 
 Some creature minions have the critter tag. Critters are typically tiny or small creatures. They deal 0 damage, have a +1 bonus and a DC of 10. Critters can be upgraded. An upgraded critter shares the same base statistics as minions, but they do not add LEVEL to their base values. A critter can be further upgraded to add LEVEL to its base statistics, ignoring movement, damage, and MAX wounds as normal.
 
-**Elite.** Elites represent advanced encounters which may include a number of minion encounters. Monster encounters treat elites as creatures with advanced stats and features. Non-monster encounters represent situations where PCs must overcome adversity several times before achieving completion. Examples: convince a skeptical creature of something or gather clues. While elite monster encounters are resolved in rounds, non-monster elite encounters may take an hour to resolve.
+**Elite.** Elites represent advanced encounters. Elite combat encounters treat elites as creatures with advanced stats and game features. Elite non-combat encounters represent situations where PCs must overcome adversity several times before achieving completion. Examples: convince a skeptical creature of something or gather clues. While elite combat encounters are resolved in rounds, elite non-monster encounters may take an hour to resolve.
 
-**Boss.** Boss encounters are difficult and include minion and elite encounters. Monster encounters treat bosses as creatures with advanced stats, features, and special tactics benefiting from the presence of one or more minions. Non-monster encounters represent difficult situations where PCs must overcome challenging conditions several times while also dealing with some simultaneous minion and elite encounters. Non-monster boss encounters resolve after all non-monster minion encounters are resolved. Examples: attempt to sway the opinion of an adversary and associated followers or put out a fire spreading through a village while rescuing trapped villagers. While boss monster encounters are resolved in rounds, non-monster boss encounters may take several hours to resolve.
+**Boss.** Boss encounters are challenging and difficult, always include a minion encounter, and may also include an elite encounter. Boss combat encounters treat bosses as creatures with advanced stats, features, and special tactics benefiting from the presence of one or more minions. Boss non-combat encounters represent difficult situations where PCs must overcome challenging conditions several times while also dealing with some simultaneous minion and elite encounters. Boss non-combat encounters resolve after all minion and elite non-combat encounters are resolved. Examples: attempt to sway the opinion of an adversary and associated followers or put out a fire spreading through a village while rescuing trapped villagers. While boss combat encounters are resolved in rounds, boss non-combat encounters may take several hours to resolve.
 
 **LEVEL.** The current level of play.
 
@@ -4544,7 +4544,7 @@ If an encounter relies on a passive bonus, determine the passive bonus by adding
 
 ## Customizing Encounters
 
-The encounter statistics provided represent average values. Any number of statistics may be increased by up to +(LEVEL), provided the same amount decreases another statistic. Only stats used in an encounter can be customized. For example, during a level 1 monster encounter, the GM increases an elite awakened shrub's DC by +1. The cost of increasing the minion's DC is paid by decreasing its attack modifier by -1. However, the GM cannot choose to pay for this increase by decreasing its forced movement by -1 because the elite doesn't have a game feature using forced movement.
+The encounter statistics provided represent average values. Any number of statistics may be increased by up to LEVEL, provided the same amount decreases another statistic. Only stats used in an encounter can be customized. For example, during a level 1 combat encounter, the GM increases an elite awakened shrub's DC by +1. The cost of increasing the minion's DC is paid by decreasing its attack modifier by -1. However, the GM cannot choose to pay for this increase by decreasing its forced movement by 1 because the elite doesn't have a game feature that uses forced movement.
 
 A minion's MAX wounds and damage cannot be customized.
 
@@ -4556,7 +4556,7 @@ Encounter statistics cannot be reduced below the following values:
 - **MAX Wounds (elite)** 2
 - **MAX Wounds (boss)** 5
 
-### Elite Monster Encounter Templates (in progress ...)
+### Elite Combat Encounter Templates (in progress ...)
 
 Elite creatures within an encounter can be further customized with healer, mage, scoundrel, and warrior templates. Add the template's game features to the designated creature or creatures in an encounter.
 
@@ -4597,17 +4597,17 @@ A treasure might be hidden, in plain sight, trapped, or untrapped.
 
 ### Elite Treasure
 
-Treasure of type elite rewards an additional ⛁ once discovered. Elite treasures are often protected by an elite trap or one minion monster encounter.
+Treasure of type elite rewards an additional ⛁ once discovered. An elite trap or a minion combat encounter often protects elite treasures.
 
 ### Boss Treasure
 
 Boss treasures award the greatest amount of bonus Coin, but are the most difficult to finish. These encounters award an additional ⛁ upon discovery and potentially contain one or more bonus Coin. It is difficult, if not impossible, to unlock all boss treasure bonus Coin. A creature can discard its action on its turn to make a WIS check. Boss treasures require (MAX Wounds) successful WIS checks to find ⛁, and may require overcoming a boss trap or two elite monsters before resolving.
 
-## Monster
+## Combat
 
-Monster encounters use the encounter stats provided to determine the monster's strengths and statistics. Completing a monster encounter decreases the time marker by 1.
+Combat encounters include monsters and use the encounter stats provided to determine the monster's strengths and statistics. Completing a combat encounter increases the time marker by 1.
 
->Monster encounters use one of three templates (testing):
+> Combat encounters use one of three templates (testing):
 >
 >- **Minion.** Place (number of PCs + 1) minions onto the playing field.
 >- **Elite.** As **Minion** plus add 2 elites onto the playing field.
@@ -4743,7 +4743,7 @@ A creature within the area of an *antimagic field* or in any other location wher
 
 ### Challenge
 
-When determining the challenge of a monster encounter, let *N* equal the number of PCs + 1.
+When determining the challenge of a combat encounter, let *N* equal the number of PCs + 1.
 
 An appropriately equipped and well-rested party of adventurers should be able to defeat *N* minions, *N* minions with two elites, or *N* minions with one boss and two elites without suffering any deaths.
 
@@ -4865,11 +4865,11 @@ Dungeons may have one or more bonus features.
 
 ### Bonus Feature: Danger Room
 
-Danger rooms are always obscured by a reinforced and locked door or an opaque phenomenon keeping creatures out that is clearly labeled as deadly. PCs must first acknowledge the warnings to enter a danger room. Acknowledgment unlocks the door or phenomenon, allowing passage. If the PCs advance into a danger room, they must face a boss battle at difficulty (LEVEL + 2). The way out vanishes the moment the PCs reach the danger room and does not reappear until the end of the encounter. The monster encounter is set up as if there are five PCs (even if the party is less than five) and two bonus elites are added to the encounter. If the PCs overcome the encounter, an unlocked, trap-free ornate chest appears. Each PC may, in turn, approach the chest and open it. The PC then chooses and adds one treasure to their equipment from three discovered treasures, discarding the other two choices. PCs choose one treasure from three available treasures: class, advanced, or magic item. Roll/draw the treasures and pick one to keep.
+Danger rooms are always obscured by a reinforced and locked door or an opaque phenomenon keeping creatures out that is clearly labeled as deadly. PCs must first acknowledge the warnings to enter a danger room. Acknowledgment unlocks the door or phenomenon, allowing passage. If the PCs advance into a danger room, they must face a boss battle at difficulty (LEVEL + 2). The way out vanishes the moment the PCs reach the danger room and does not reappear until the end of the encounter. The combat encounter is set up as if there are five PCs (even if the party is less than five), and a bonus minion combat encounter is added. If the PCs overcome the encounter, an unlocked, trap-free ornate chest appears. Each PC may, in turn, approach the chest and open it. The PC then chooses and adds one treasure to their equipment from three discovered treasures, discarding the other two choices. PCs choose one treasure from three available treasures: class, advanced, or magic item. Roll/draw the treasures and pick one to keep.
 
 > ### Danger Room Treasures
 > 
->> Danger rooms are unique game zones that contain a very powerful boss (super boss) monster encounter, requiring optimization with the ideal gear, features, group roles, and abilities you can muster into a five-player party. You discover treasure from three potential treasure types once you clear a danger room.
+>> Danger rooms are unique game zones that contain a very powerful boss (super boss) combat encounter, requiring optimization with the ideal gear, features, group roles, and abilities you can muster into a five-player party. You discover treasure from three potential treasure types once you clear a danger room.
 >>
 >> **Class.** Treasure your class considers essential. For example, barbarians might discover handaxes, javelins, a battle axe, a shield, light armor, or medium armor
 >>
