@@ -2061,28 +2061,27 @@ While the secret door, exit, and underground garden area are creative and fascin
 
 Spells, skills, and game feature results **must** stay within the guidelines established in their rules. If a spell targets a creature with a die roll, you decide whether it is successful or not. If successful, you decide on the damage (if any) and the effect must match what that spell, skill, or game feature is capable of doing at the current level of play.
 
->> Example 1:
->>> (_GM_) "The room opens up, exposing a sprawling cliff face leading to the top of the spire."
->>> 
->>> (_Player 1_) "I spend my inspiration on PERFORMANCE."
->>> 
->>> (_GM_) "OK, great. Tell us about what action your character wants to take. And then, when you're ready, tell us what happens."
->>> 
->>> (_Player 1_) "Thanks. Lita leaps onto the cliff face, finds her grip, and makes her way to the top."
->>> 
+> Example 1:
+>> (_GM_) "The room opens up, exposing a sprawling cliff face leading to the top of the spire."
+>> 
+>> (_Player 1_) "I spend my inspiration on PERFORMANCE."
+>> 
+>> (_GM_) "OK, great. Tell us about what action your character wants to take. And then, when you're ready, tell us what happens."
+>> 
+>> (_Player 1_) "Thanks. Lita leaps onto the cliff face, finds her grip, and makes her way to the top." 
 
 In example 1, _Player 1_'s action resolves a successful STR check without rolling to begin climbing the cliff face to reach the top of the spire, 40 squares above Lita's position. _Player 1 has indicated that this climb is important in some way_. While climbing the cliff, Lita makes all attacks and ability checks with advantage. Later, during the cliff-face encounter, Lita's skill is tested again due to strong winds. Lita must succeed on a STR check to hold onto the cliff. Lita rolls STR with advantage because she is still in the same cliff-face encounter.
 
 _Player 1_ may influence or affect the cliff-face narrative of an encounter but cannot end it with the inspired performance because the top of the cliff is 40 squares above Lita. Lita's movement speed is 3 squares while climbing. Without an alternative form of transportation, she can't reach the top in one round.
 
->> Example 2: 
->>> _(GM)_ "Ok, it's your turn."
->>> 
->>> _(Player 2)_ "I spend my inspiration on PERFORMANCE."
->>> 
->>> _(GM)_ "OK, great. Tell us about what action your character wants to take. And then, when you're ready, tell us what happens."
->>> 
->>> _(Player 2)_ "Dunsmuir jumps out of the shadows where he's hiding and attacks the goblin, catching it off guard and unaware. He strikes with a critical hit, dealing maximum damage to the creature, adding his sneak attack damage."
+> Example 2: 
+>> _(GM)_ "Ok, it's your turn."
+>> 
+>> _(Player 2)_ "I spend my inspiration on PERFORMANCE."
+>> 
+>> _(GM)_ "OK, great. Tell us about what action your character wants to take. And then, when you're ready, tell us what happens."
+>> 
+>> _(Player 2)_ "Dunsmuir jumps out of the shadows where he's hiding and attacks the goblin, catching it off guard and unaware. He strikes with a critical hit, dealing maximum damage to the creature, adding his sneak attack damage."
 
 In example 2, _Player 2_'s action resolves a successful attack action from a hidden position and then finishes. The action does not continue on subsequent rounds.
 
@@ -2094,9 +2093,18 @@ As a general rule, try to keep your descriptions contained to only your characte
 
 Successfully adding other PCs to an Inspired Performance narrative is often dependent on how observant you are about their characters' unique vision and direction. This takes playing together for a while and paying attention to how they like to play. Deciding how other PCs will play the game and what their characters do is usually a fast way to turn them off and shut them down. You may have a good idea, but don't assume everyone wants to go along with it. Others enjoy coming up with fun ideas as well. But the middle of combat or another stressful encounter isn't the best time or place to discuss this with your group. Approach them outside of the game session and bring it up before the next game session. If they haven't given you consent, assume their answer is a "no" until you can discuss it further together.
 
-Example with _Player 2_'s consent: Lita looks at Dunsmir and shouts, "Head's up!" leaping into the air. Dunsmir braces for her rebound and forms a crab hand, catching her foot and propelling her into the air. Lita twirls her blades into a whirlwind strike, landing on the clay golem and hitting it with a critical hit for 4 slashing damage and cleaving into an orc at it's side for 1 slashing damage.
+> Example with _Player 2_'s consent: 
+>> _(Player 1)_ "I spend my inspiration on PERFORMANCE."
+>> 
+>> _(GM)_ "OK, great. Tell us about what action your character wants to take. And then, when you're ready, tell us what happens."
+>> 
+>> _(Player 1)_ "Lita looks at Dunsmire and nods and shouts, 'Head's up!'" _(talking to Player 2):_ Brace me for a leap?
+>>
+>> _(Player 2)_ "Cool. Yeah, let's do it. Dunsmir braces for her rebound and forms a crab hand, catching her foot and propelling her into the air."
+>>
+>> _(Player 1)_ (continues) "Nice! Lita twirls her blades into a whirlwind strike, landing on the clay golem and hitting it with a critical hit for 4 slashing damage and cleaving into an orc at it's side for 1 slashing damage."
 
-If it's done right, everyone will feel chills and inspiration at such a dynamic and cool maneuver. That's the goal. The goal isn't to control the other players.
+If it's done right, everyone will feel chills, a sense of awe and majesty, and an infusion of inspiration at such a dynamic and cool maneuver. That's the goal. The goal isn't to control the other players.
 
 ## Survival
 
