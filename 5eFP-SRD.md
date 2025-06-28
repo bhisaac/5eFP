@@ -422,7 +422,7 @@ Your elemental spirit might be related to those listed here, but more appropriat
 
 **_Water_.** Allies within 1 square of you gain advantage on melee attack rolls while you aren't incapacitated. The water spirit makes you a leader of hunters.
 
-**_Fire_ (Action, Rest 2, Turn).** The fire spirit grants you a fire attack with reach. Increase your reach to 2 squares and then take the Attack action. Your attack deals fire damage.
+**_Fire_ (Action, Rest 2, Turn).** The fire spirit grants you a fire attack with reach. Increase your reach to 2 squares and then take the Attack action. Your attacks deal fire damage.
 
 # Bard
 
