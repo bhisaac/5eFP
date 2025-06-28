@@ -515,7 +515,7 @@ If a game feature has the subtlety keyword, you can affect it using deception, s
 |2⛁|-|-|Song of Rest|You and your allies discard up to 1 wound when completing a rest.|
 |3⛁|-|4|Magic|You learn one spell from the bard spell list.|
 |3⛁|-|-|Bard College|...|
-|3⛁|-|-|Expertise (Rest 2)|...|
+|3⛁|-|-|Expertise|...|
 
 ## Bard College
 
