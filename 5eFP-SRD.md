@@ -2047,7 +2047,7 @@ Your GM reveals all relevant information regarding the current scene gathered th
 
 Your performance allows the satisfying completion of one action.
 
-You decide the outcome of the next action your character declares on their turn. You must use your inspiration this way before taking an action or rolling any dice. Your outcome can only refer to and affect your character and one or more adversaries.
+You decide the outcome of the next action your character declares on their turn. You must use your inspiration this way before taking an action or rolling any dice. Your outcome usually only refers to and affects your character and may include minions, elites, and bosses.
 
 If the result of your chosen action further affects you on subsequent rounds during the same encounter, make all related die rolls with advantage.
 
