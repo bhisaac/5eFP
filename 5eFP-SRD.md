@@ -2020,13 +2020,13 @@ Additionally, if you have inspiration, you can reward another player for good ro
 
 The following describes each dedication and how to use them in the game.
 
-### Insight
+## Insight
 
 Your insight imbues inward sight, granting vision beneath surface impressions.
 
 Your GM reveals all the relevant hidden or obscured pieces of information in the current scene. Features granted through spell effects specifically designed to prevent sight, such as _invisibility_ or an equivalent effect, are not revealed; instead, their presence is confirmed, and you can sense the subtle flows of energy the spell displaces in its wake. This awareness lasts until the beginning of your next turn.
 
-### Medicine
+## Medicine
 
 Your medicine stabilizes wounds.
 
@@ -2037,27 +2037,29 @@ Choose any number of creatures your character can see within 6 squares of you wh
 >
 > 5eFP is forgiving around character death because the point of 5eFP is not to kill off all the PCs as fast as possible. Instead, it encourages _ongoing gameplay with familiar characters to engender a felt experience over time_. If your game has no grace period wherein PCs may recover from a deadly blow, then allow an inspired medicine to bring them back, but at the edge of death (one more hit will take them out again).
 
-### Perception
+## Perception
 
 Your perception enables you to spot, hear, or otherwise detect the presence of something.
 
 Your GM reveals all relevant information regarding the current scene gathered through the five senses (sight, smell, sound, taste, and touch).
 
-### Performance
+## Performance
 
 Your performance allows the satisfying completion of one action.
 
-You decide the outcome of the next action your character declares on their turn. You must use your inspiration this way before taking an action or rolling any dice.
+You decide the outcome of the next action your character declares on their turn. You must use your inspiration this way before taking an action or rolling any dice. Your outcome can only refer to and affect your character and one or more adversaries.
 
 If the result of your chosen action further affects you on subsequent rounds during the same encounter, make all related die rolls with advantage.
 
-> Your decision can only affect the outcome of that single action. If desired, you can add colorful descriptions of the action, particularly for critical hit damage. But your narrative can only affect that single action.
->
-> For example, suppose you are in a combat encounter with goblins in a goblin lair. If you are deciding the outcome of an attack action against a goblin, your choices include a successful or unsuccessful hit. If an attack is successful, you choose the attack damage from 1 point, normal, or critical hit damage (double damage). You can also choose whether or not the goblin is knocked out if it reaches MAX Wounds. You cannot, however, add anything that would contradict the encounter, such as, "and then a secret door opens up on the cavern wall, revealing an exit passage into an underground garden area."
->
-> While the secret door, exit, and underground garden area are creative and fascinating, they were not preestablished story elements before you took your action and cannot be inserted into the narrative of that action.
->
-> Spells, skills, and game feature results must stay within the guidelines established in their rules. If a spell targets a creature with a die roll, you decide whether it is successful or not. If successful, you decide on the damage (if any) and the effect must match what that spell, skill, or game feature is capable of doing at the current level of play. You cannot add narrative elements that add or take away more.
+### Deciding the Outcome of an Action
+
+Your decision can only affect the outcome of that single action. If desired, you can add colorful descriptions of the action, particularly for critical hit damage. But your narrative can only affect that single action.
+
+For example, suppose you are in a combat encounter with goblins in a goblin lair. If you are deciding the outcome of an attack action against a goblin, your choices include a successful or unsuccessful hit. If an attack is successful, you choose the attack damage from 1 point, normal, or critical hit damage (double damage). You can also choose whether or not the goblin is knocked out if it reaches MAX Wounds. You cannot, however, add anything that would contradict the encounter, such as, "and then a secret door opens up on the cavern wall, revealing an exit passage into an underground garden area."
+
+While the secret door, exit, and underground garden area are creative and fascinating, they were not preestablished story elements before you took your action and cannot be inserted into the narrative of that action.
+
+Spells, skills, and game feature results **must** stay within the guidelines established in their rules. If a spell targets a creature with a die roll, you decide whether it is successful or not. If successful, you decide on the damage (if any) and the effect must match what that spell, skill, or game feature is capable of doing at the current level of play.
 
 >> Example 1:
 >>> (_GM_) "The room opens up, exposing a sprawling cliff face leading to the top of the spire."
@@ -2068,10 +2070,11 @@ If the result of your chosen action further affects you on subsequent rounds dur
 >>> 
 >>> (_Player 1_) "Thanks. Lita leaps onto the cliff face, finds her grip, and makes her way to the top."
 >>> 
->> In example 1, _Player 1_'s action resolves a successful STR check without rolling to begin climbing the cliff face to reach the top of the spire, 40 squares above Lita's position. _Player 1 has indicated that this climb is important in some way_. While climbing the cliff, Lita makes all attacks and ability checks with advantage. Later, during the cliff-face encounter, Lita's skill is tested again due to strong winds. Lita must succeed on a STR check to hold onto the cliff. Lita rolls STR with advantage because she is still in the same cliff-face encounter.
->>
->> _Player 1_ may influence or affect the cliff-face narrative of an encounter but cannot end it with the inspired performance because the top of the cliff is 40 squares above Lita. Lita's movement speed is 3 squares while climbing. Without an alternative form of transportation, she can't reach the top in one round.
->>
+
+In example 1, _Player 1_'s action resolves a successful STR check without rolling to begin climbing the cliff face to reach the top of the spire, 40 squares above Lita's position. _Player 1 has indicated that this climb is important in some way_. While climbing the cliff, Lita makes all attacks and ability checks with advantage. Later, during the cliff-face encounter, Lita's skill is tested again due to strong winds. Lita must succeed on a STR check to hold onto the cliff. Lita rolls STR with advantage because she is still in the same cliff-face encounter.
+
+_Player 1_ may influence or affect the cliff-face narrative of an encounter but cannot end it with the inspired performance because the top of the cliff is 40 squares above Lita. Lita's movement speed is 3 squares while climbing. Without an alternative form of transportation, she can't reach the top in one round.
+
 >> Example 2: 
 >>> _(GM)_ "Ok, it's your turn."
 >>> 
@@ -2080,10 +2083,22 @@ If the result of your chosen action further affects you on subsequent rounds dur
 >>> _(GM)_ "OK, great. Tell us about what action your character wants to take. And then, when you're ready, tell us what happens."
 >>> 
 >>> _(Player 2)_ "Dunsmuir jumps out of the shadows where he's hiding and attacks the goblin, catching it off guard and unaware. He strikes with a critical hit, dealing maximum damage to the creature, adding his sneak attack damage."
->>> 
->> In example 2, _Player 2_'s action resolves a successful attack action from a hidden position and then finishes. The action does not continue on subsequent rounds.
 
-### Survival
+In example 2, _Player 2_'s action resolves a successful attack action from a hidden position and then finishes. The action does not continue on subsequent rounds.
+
+### Including other PCs
+
+Player consent is **_required_** if you want to include other PCs in your narrative, and even if you are given consent, you **_never_** make decisions for them.
+
+As a general rule, try to keep your descriptions contained to only your character and other minions, elites, or bosses. It takes profound trust to add other players into an Inspired Performance narrative. It's one of the most powerful experiences a group can have, but not all groups are ready for this level of sharing. Still, it can be achieved by demonstrating trustworthy and supportive behavior over time, which is evident in thoughtful and considerate actions that match your words as a player and as a PC.
+
+Successfully adding other PCs to an Inspired Performance narrative is often dependent on how observant you are about their characters' unique vision and direction. This takes playing together for a while and paying attention to how they like to play. Deciding how other PCs will play the game and what their characters do is usually a fast way to turn them off and shut them down. You may have a good idea, but don't assume everyone wants to go along with it. Others enjoy coming up with fun ideas as well. But the middle of combat or another stressful encounter isn't the best time or place to discuss this with your group. Approach them outside of the game session and bring it up before the next game session. If they haven't given you consent, assume their answer is a "no" until you can discuss it further together.
+
+Example with _Player 2_'s consent: Lita looks at Dunsmir and shouts, "Head's up!" leaping into the air. Dunsmir braces for her rebound and forms a crab hand, catching her foot and propelling her into the air. Lita twirls her blades into a whirlwind strike, landing on the clay golem and hitting it with a critical hit for 4 slashing damage and cleaving into an orc at it's side for 1 slashing damage.
+
+If it's done right, everyone will feel chills and inspiration at such a dynamic and cool maneuver. That's the goal. The goal isn't to control the other players.
+
+## Survival
 
 Your survival awards expanded capacities, allowing you to identify and acquire new advantages, qualities, or skills.
 
