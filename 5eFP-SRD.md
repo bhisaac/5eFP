@@ -2098,11 +2098,11 @@ Successfully adding other PCs to an Inspired Performance narrative is often depe
 >> 
 >> _(GM)_ "OK, great. Tell us about what action your character wants to take. And then, when you're ready, tell us what happens."
 >> 
->> _(Player 1)_ "Lita looks at Dunsmire and nods and shouts, 'Head's up!'" _(talking to Player 2):_ Brace me for a leap?
+>> _(Player 1)_ "Lita looks at Dunsmire and nods, shouting, 'Head's up!'" _(Talking to Player 2):_ Brace me for a leap?
 >>
->> _(Player 2)_ "Cool. Yeah, let's do it. Dunsmir braces for her rebound and forms a crab hand, catching her foot and propelling her into the air."
+>> _(Player 2)_ _(Talking to Player 1):_ Cool. Yeah, let's do it. "Dunsmir braces for her rebound and forms a crab hand, catching her foot and propelling her into the air."
 >>
->> _(Player 1)_ (continues) "Nice! Lita twirls her blades into a whirlwind strike, landing on the clay golem and hitting it with a critical hit for 4 slashing damage and cleaving into an orc at it's side for 1 slashing damage."
+>> _(Player 1)_ _(Talking to Player 2):_ Nice! "Lita twirls her blades into a whirlwind strike, landing on the clay golem and hitting it with a critical hit for 4 slashing damage and cleaving into an orc at its side for 1 slashing damage."
 
 If it's done right, everyone will feel chills, a sense of awe and majesty, and an infusion of inspiration at such a dynamic and cool maneuver. That's the goal. The goal isn't to control the other players.
 
