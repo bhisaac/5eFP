@@ -2911,7 +2911,7 @@ A fall from a great height is one of the most common hazards facing an adventure
 
 ## Suffocating
 
-A creature can hold its breath for up to 5 rounds. After that, if you continue to hold your breath, you gain 1 level of exhaustion at the start of each round.
+A creature can hold its breath for up to CON (minimum 1) rounds (maximum 5 rounds). After that, if you continue to hold your breath, you gain 1 level of exhaustion at the start of each round.
 
 When a creature is choking, it can survive for a number of rounds equal to CON (minimum of 1 round). After exceeding its CON in rounds, at the start of the next turn, it gains a number of wounds to reach MAX Wounds, and it cannot discard wounds or be stabilized until it can breathe again or until an Inspired Medicine clears the obstruction and revives it.
 
