@@ -2880,7 +2880,31 @@ In combat and other fast-­paced situations, the game relies on **rounds**, a 6-
 
 # The Environment
 
-TBA
+By its nature, adventuring involves delving into places that are dark, dangerous, and full of mysteries to be explored. The rules in this section cover some of the most important ways in which adventurers interact with the environment in such places.
+
+## Floors
+
+Whenever PCs find themselves on a map, regardless of whether it is inside or outside, it may be composed of several interlinked floors or playing field zones. Everything encountered within a particular floor shares the same characteristics.
+
+### Ground Floor
+
+- The ground floor is the playing field zone PCs first enter when exploring an obscured world map tile.
+- A ground floor may or may not have a ground, such as maps that take place in the air or underwater. Regardless, they are still considered ground floors and follow the same rules.
+- Ground floors always match the level of play determined by the location of the world map tile.
+
+### Elevation Change
+
+- An elevation change occurs when a PC's position increases or decreases by 4 or more squares, usually depicted by a straight or spiral staircase, pitons, rope, hole, or ladder, accompanied by an up or down arrow to indicate the direction of elevation change.
+- An elevation change places the PCs on a different floor linked to the previous one, and increases the new floor's calculated level to LEVEL + 3.
+- LEVEL 7 floors are final, end-game floors and do not have elevation changes that link to new floors on them, even if a map feature would indicate otherwise. Treat the map feature as a collapsed staircase, rubble, or an obstruction that prevents a floor change.
+
+### Example
+
+A group of 4th-level PCs deploy onto a previously explored level 1 world map tile, travelling to a previously explored dungeon on the map. The last time they were here, another group discovered a rope leading up through a hole in the floor. At 1st level, the group didn't feel confident about facing higher-level encounters and chose not to climb the rope. The group feels more confident at 4th level and chooses to climb the rope. The group then finds themselves on a level 4 (1 [current level] + 3) floor of the dungeon. Then, on the level 4 floor, the PCs discover a staircase leading up. The group pauses again. The new floor at the top of the staircase is a level 7 (4 [current level] + 3) floor! Since the group is level 4 and does not feel ready to face an end-game scenario, they decide to err on the side of caution and choose to wait until they've leveled up more to continue exploring this next part of the dungeon. Later, they find another hole with a rope leading down. Since they are finished exploring the level 4 floor, they decide to climb down the rope and find themselves back on the level 1 floor in a previously unexplored area of the map.
+
+## Falling
+
+A fall from a great height is one of the most common hazards facing an adventurer. At the end of a fall, a creature takes 1 bludgeoning damage for every 2 squares it fell, to a maximum of 10 bludgeoning damage. The creature lands prone, unless it avoids taking damage from the fall.
 
 ## Vision and Light
 
@@ -4884,8 +4908,6 @@ All monster descriptions are detailed in Appendix MM.
 ## Dungeon
 
 Dungeon encounters use the encounter stats provided to determine the strength of any monsters, traps, and other adversity found on one floor of a contained, multi-room structure. Details such as light levels, room height, wall and floor composition, and type of doors in the dungeon are described first.
-
-If a dungeon contains a passage leading to a higher or lower floor, the new floor would be a LEVEL+3 area. Floor changes are cumulative if they advance in the same direction. If a set of stairs in a level 1 dungeon leads down two floors, the new floor would be a LEVEL+6 (level 7) area. While searching the level 7 area, the PCs find a rope leading up through a hole in the floor. They climb the rope and find themselves in a level 4 area. Then, if the PCs find a staircase leading up, the next floor would return to a level 1 area.
 
 Dungeons may have one or more bonus features.
 
