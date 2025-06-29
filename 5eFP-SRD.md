@@ -2113,6 +2113,7 @@ Your survival awards expanded capacities, allowing you to identify and acquire n
 When you use your dedication to activate Survival, choose one of the following:
 
 - **_Reveal a game objective_.** Place a foothold or setting handbook requirement on a revealed square of your choice up to 2 squares away from you.
+- **_Extra Time_ (Reaction).** If the time marker is at 7 and the game causes the time marker to advance, you can discard your reaction to prevent it from advancing.
 - **_Gain a resource (playtesting)_.** Choose and gain the benefits of one of your game features that is on cooldown.
 - **_Gain a skill_ (Turn) (playtesting).** Choose an incomplete class or species upgrade available to you. You gain temporary access to its game features. You must still satisfy any prerequisites before choosing the upgrade.
 
@@ -2873,7 +2874,9 @@ A character or monster can choose not to resist a spell or game feature.
 
 # Time
 
-5eFP simplifies time by adding a countdown clock with eight segments. At the start of the game session, the marker is set at the top or highest value. Starting an encounter, taking a rest, or using a special game rule or feature causes the countdown marker to decrease by 1 step (lower the number by - 1). When the countdown clock reaches 0, the PCs recall after the encounter or rest ends.
+5eFP simplifies time by adding a countdown clock with eight segments called the time marker. At the start of the game session, the marker is set to 0. The time marker advances by +1 when an encounter ends, when you complete a rest, or when using certain game features. When the time marker reaches 8, the PCs recall after the encounter or rest ends.
+
+Keep track of how long PCs are deployed on an unexplored world map tile. The time marker begins at 0 and increases by +1 when an encounter ends or after a rest. If three footholds are resolved and the PCs reveal additional footholds, each increases the time marker by +1. If the players have already obtained the setting handbook requirement, and the PCs reveal additional setting handbook requirements, each increases the time marker by +1. When the time marker reaches 8, all PCs instantaneously Recall.
 
 In combat and other fast-­paced situations, the game relies on **rounds**, a 6-­second span of time.
 
