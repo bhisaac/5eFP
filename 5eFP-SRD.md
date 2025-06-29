@@ -2895,8 +2895,9 @@ Whenever PCs find themselves on a map, regardless of whether it is inside or out
 ### Elevation Change
 
 - An elevation change occurs when a PC's position increases or decreases by 4 or more squares, usually depicted by a straight or spiral staircase, pitons, rope, hole, or ladder, accompanied by an up or down arrow to indicate the direction of elevation change.
-- An elevation change places the PCs on a different floor linked to the previous one, and increases the new floor's calculated level to LEVEL + 3.
-- LEVEL 7 floors are final, end-game floors and do not have elevation changes that link to new floors on them, even if a map feature would indicate otherwise. Treat the map feature as a collapsed staircase, rubble, or an obstruction that prevents a floor change.
+- An elevation change places the PCs on a different floor linked to the previous one, and increases the new floor's calculated level to (floor level) + 3.
+- Linked floors do not interact directly with one another. And passageways linking one floor to another are obscured, provide total cover, and prevent LOS, even if the map feature suggests otherwise. Moving a token onto a passageway linking one floor to another moves that token onto the linked map.
+- Level 7 floors are final, end-game floors and do not have elevation changes that link to new floors on them, even if a map feature would indicate otherwise. Treat the map feature as a collapsed staircase, rubble, or an obstruction that prevents a floor change.
 
 ### Example
 
