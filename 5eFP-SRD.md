@@ -2655,7 +2655,7 @@ Here’s how to determine a character’s total for a passive check:
 
 If the character has advantage on the check, add 5. For disadvantage, subtract 5. The game refers to a passive check total as a **score**.
 
-For example, Monrovia is a 1st-­level character with WIS +2. Thus Monrovia's passive WIS score is 13 (10 + 2 [WIS] + 1 [LEVEL]).
+For example, Monrovia has proficiency with WIS and is a 1st-­level character with WIS +2. Thus Monrovia's passive WIS score is 13 (10 + 2 [WIS] + 1 [LEVEL]).
 
 The rules on hiding in the “Dexterity” section below rely on passive checks, as do the exploration rules.
 
