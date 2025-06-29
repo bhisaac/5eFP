@@ -2894,9 +2894,11 @@ Whenever PCs find themselves on a map, regardless of whether it is inside or out
 
 ### Elevation Change
 
-- An elevation change occurs when a PC's position increases or decreases by 4 or more squares, usually depicted by a straight or spiral staircase, pitons, rope, hole, or ladder, accompanied by an up or down arrow to indicate the direction of elevation change.
+- An elevation change occurs when a PC's position increases or decreases by 4 or more squares, indicated with a map feature depicting a straight or spiral staircase, pitons, rope, hole, or ladder, accompanied by an up or down arrow to indicate the direction of elevation change. If the map feature does not have an up or down arrow, the elevation change is only two squares and does not lead to a new map floor.
 - An elevation change places the PCs on a different floor linked to the previous one, and increases the new floor's calculated level to (floor level) + 3.
 - Linked floors do not interact directly with one another. And passageways linking one floor to another are obscured, provide total cover, and prevent LOS, even if the map feature suggests otherwise. Moving a token onto a passageway linking one floor to another moves that token onto the linked map.
+- Creatures cannot be forced onto a new floor level with a spell or game feature. They can be knocked off a ledge and fall toward a new floor level. In these situations, the creature falls 2 squares, taking 2 bludgeoning damage, and then grabs hold of the ledge (no STR check required). Then, at the start of their turn, they can spend half their movement to climb the ledge. The barrier between two floors is treated as if it were solid, even if the map features would indicate otherwise.
+- A map feature linking one floor to another is only accessible by the group token controller.
 - Level 7 floors are final, end-game floors and do not have elevation changes that link to new floors on them, even if a map feature would indicate otherwise. Treat the map feature as a collapsed staircase, rubble, or an obstruction that prevents a floor change.
 
 ### Example
