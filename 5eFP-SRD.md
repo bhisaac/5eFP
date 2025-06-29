@@ -2907,7 +2907,15 @@ A group of 4th-level PCs deploy onto a previously explored level 1 world map til
 
 ## Falling
 
-A fall from a great height is one of the most common hazards facing an adventurer. At the end of a fall, a creature takes 1 bludgeoning damage for every 2 squares it fell, to a maximum of 10 bludgeoning damage. The creature lands prone, unless it avoids taking damage from the fall.
+A fall from a great height is one of the most common hazards facing an adventurer. At the end of a fall, a creature takes 1 bludgeoning damage for every 2 squares it fell, to a maximum of 12 bludgeoning damage. The creature lands prone, unless it avoids taking damage from the fall. A common hazard in the game is pitfall traps that collapse sections of the floor, causing any PC in the area to fall 1 or 2 squares unless they have a fly speed or benefit from a _levitate_ or _fly_ spell. Certain spells and game features can force upward movement as well, causing creatures to fall after the spell is cast, unless they have some way of keeping themselves from falling, such as a fly speed or if the _levitate_ or _fly_ spell was cast on them.
+
+## Suffocating
+
+A creature can hold its breath for up to 5 rounds. After that, if you continue to hold your breath, you gain 1 level of exhaustion at the start of each round.
+
+When a creature is choking, it can survive for a number of rounds equal to CON (minimum of 1 round). After exceeding its CON in rounds, at the start of the next turn, it gains a number of wounds to reach MAX Wounds, and it cannot discard wounds or be stabilized until it can breathe again or until an Inspired Medicine clears the obstruction and revives it.
+
+For example, a creature with a CON of +2 that starts choking has 2 rounds to reach air before it gains wounds equaling its MAX Wounds score.
 
 ## Vision and Light
 
@@ -2943,7 +2951,13 @@ Obtaining food and water is included when PCs spend Coin on rest and repairs. Ch
 
 ## Interacting with Objects
 
-TBA
+A character’s interaction with objects in an environment is often simple to resolve in the game. Players tell the GM when their character does something, such as moving a lever, and the GM describes what, if anything, happens.
+
+For example, a character might decide to pull a lever, which might, in turn, raise a portcullis, cause a room to flood with water, or open a secret door in a nearby wall. If the lever is rusted in position, though, a character might need to force it. In such a situation, the GM might call for a STR check to see whether the character can wrench the lever into place. The GM sets the DC for any such check based on the difficulty of the task.
+
+Characters can also damage objects with their weapons and spells. Objects are immune to poison and psychic damage, but otherwise they can be affected by physical and magical attacks much like creatures can. The GM determines an object’s toughness and resiliency toward damage, and might decide that certain objects have resistance or immunity to certain kinds of attacks. (It’s hard to cut a rope with a club, for example.) Objects use minion (fragile items), elite (typical items) or boss (very tough objects) encounter statistics with respect to MAX Wounds. Objects always fail STR and DEX checks, and they are immune to effects that require other checks. When an object reaches MAX Wounds, it breaks.
+
+A character can also attempt a STR check to break an object. The GM sets the DC for any such check based on the object's toughness.
 
 # Resting
 
