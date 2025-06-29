@@ -2874,9 +2874,7 @@ A character or monster can choose not to resist a spell or game feature.
 
 # Time
 
-5eFP simplifies time by adding a countdown clock with eight segments called the time marker. At the start of the game session, the marker is set to 0. The time marker advances by +1 when an encounter ends, when you complete a rest, or when using certain game features. When the time marker reaches 8, the PCs recall after the encounter or rest ends.
-
-Keep track of how long PCs are deployed on an unexplored world map tile. The time marker begins at 0 and increases by +1 when an encounter ends or after a rest. If three footholds are resolved and the PCs reveal additional footholds, each increases the time marker by +1. If the players have already obtained the setting handbook requirement, and the PCs reveal additional setting handbook requirements, each increases the time marker by +1. When the time marker reaches 8, all PCs instantaneously Recall.
+Keep track of how long PCs are deployed on an unexplored world map tile. The time marker begins at 0 and increases by +1 when an encounter ends or after a rest. If three footholds are resolved and the PCs reveal additional footholds, each revealed foothold increases the time marker by +1. If the players have already obtained the setting handbook requirement, and the PCs reveal additional setting handbook requirements, each increases the time marker by +1. When the time marker reaches 8, all PCs instantaneously Recall.
 
 In combat and other fast-­paced situations, the game relies on **rounds**, a 6-­second span of time.
 
