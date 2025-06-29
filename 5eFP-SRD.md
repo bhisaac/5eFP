@@ -1410,7 +1410,7 @@ When you purchase this upgrade, you gain proficiency with a non-proficient abili
 
 ## Sneak Attack (Turn)
 
-You know how to strike subtly and exploit a foe’s distraction. You deal +1 damage to a creature you hit with an attack if you have advantage on the attack roll.
+You know how to strike subtly and exploit a foe’s distraction. You deal additional damage equal to LEVEL to a creature you hit with an attack if you have advantage on the attack roll.
 
 You don’t need advantage on the attack roll if another enemy of the target is within 1 square of it, that enemy isn’t incapacitated, and you don’t have disadvantage on the attack roll.
 
