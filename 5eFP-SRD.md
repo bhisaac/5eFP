@@ -2637,7 +2637,7 @@ For every ability check, the GM decides the difficulty of the task, represented 
 
 To make an ability check, roll a d20 and add the relevant ability modifier. As with other d20 rolls, apply bonuses and penalties, and compare the total to the DC. If the total equals or exceeds the DC, the ability check is a success—the creature overcomes the challenge at hand. Otherwise, it’s a failure, which means the character or monster makes no progress toward the objective or makes progress combined with a setback determined by the GM.
 
-When making ability checks, if you roll a 1 on the d20, you ignore the DC and consider the result an automatic failure. This is called a critical failure. If you roll a 20, you ignore the DC and consider the result an automatic success. This is called a critical success. Rolling a 20 on the d20 during an attack roll is a critical success, but is usually called a critical hit (See Combat in an Encounter).
+When making ability checks, if you roll a 1 on the d20, you ignore the DC and consider the result an automatic failure. This is called a critical failure. If you roll a 20, you ignore the DC and consider the result an automatic success. This is called a critical success. Rolling a 20 on the d20 during an attack roll is a critical success, but is usually called a critical hit (see Making an Attack).
 
 ### Contests
 
