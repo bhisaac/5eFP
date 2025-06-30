@@ -489,13 +489,9 @@ You can inspire others by stirring words or music. Choose one creature other tha
 
 During the affected creature's turn, it can roll any of your action dice and add the result to an ability check or attack roll it makes. The creature can wait until after it rolls the d20 before deciding to use any of your action dice, but must decide before the GM says whether the roll succeeds or fails. Once your action dice are rolled, they are returned to you. If the creature has one or more of your action dice and gains more, it decides whether to keep the ones it has or gain the new ones. Any discarded or unused action dice are returned to you.
 
-## Magic Performance
-
-Your bardic magic lets you use your voice or any instrument you wield more effectively. You roll with advantage whenever you make CHA checks with your voice or an instrument you're wielding.
-
 ## Resonant (Action, Encounter)
 
-You can use your voice and musical instruments to great effect. You can have up to three musical instruments from bagpipes, drum, dulcimer, flute, lute, lyre, horn, pan flute, shawm, or viol in your inventory without them counting against your equipment slots.
+You are proficient with musical instruments and your voice, and can use them to great effect. You can have up to three musical instruments from bagpipes, drum, dulcimer, flute, lute, lyre, horn, pan flute, shawm, or viol in your inventory without them counting against your equipment slots.
 
 If a game feature has the resonant keyword, you can affect it using your voice or musical instruments, such as sharing a stirring speech or a musical performance, provided you aren't prevented from making sounds. If you use this feature this way, you make a CHA check. A success counts as two successes, and a critical success satisfies all requirements to resolve the conflict within the encounter.
 
@@ -529,13 +525,13 @@ The loyalty of these bards lies in the pursuit of beauty and truth, not in fealt
 
 The college’s members gather in libraries and sometimes in actual colleges, complete with classrooms and dormitories, to share their lore with one another. They also meet at festivals or affairs of state, where they can expose corruption, unravel lies, and poke fun at self-­important figures of authority.
 
-### Bonus Proficiencies
+### Bardic Knowledge
 
-You gain proficiency with one ability of your choice.
+Whenever you roll an ability check to determine the history or lore surrounding a creature, item, or location, you treat any roll of 10 or less on the d20 as if you had rolled an 11.
 
 ### Cutting Words (Reaction)
 
-You learn how to use your wit to distract, confuse, and otherwise sap the confidence and competence of others. When a creature you can see within 12 squares of you makes an attack roll or an ability check, you can expend one use of bardic action dice, rolling five action dice and subtracting the number from the creature’s roll. You can use this feature after the creature makes its roll, but before the GM determines whether the attack roll or ability check succeeds or fails, or before the creature deals its damage. The creature is immune if it can’t hear you or is immune to being charmed.
+You learn how to use your wit to distract, confuse, and otherwise sap the confidence and competence of adversaries. When a minion, elite, or boss you can see within 12 squares of you makes an attack roll or an ability check, you can expend one use of bardic action dice, rolling five action dice and subtracting the number from its roll. You can use this feature after it makes its roll, but before the GM determines whether the attack roll or ability check succeeds or fails, or before it deals its damage. It is immune if it can’t hear you or is immune to being charmed.
 
 ## Expertise
 
@@ -1406,7 +1402,7 @@ You start with the following equipment:
 
 ## Expertise
 
-When you purchase this upgrade, you gain proficiency with a non-proficient ability. Then choose one of your ability proficiencies or Thieves' Tools. You add your level to ability checks with the chosen ability or feature twice instead of once. You cannot add your level more than twice with the chosen ability or feature.
+You gain proficiency with a non-proficient ability. Then choose one of your ability proficiencies or Thieves' Tools. You add your level to ability checks with the chosen ability or feature twice instead of once. You cannot add your level more than twice with the chosen ability or feature.
 
 ## Sneak Attack (Turn)
 
