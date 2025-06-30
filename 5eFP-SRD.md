@@ -895,7 +895,7 @@ You can cast a wizard spell as a ritual if that spell has the ritual tag and you
 
 ## Eldritch Weapon
 
-You learn a ritual that creates or removes a magical bond between yourself and one weapon or one shield. You complete the ritual during a rest. The bonded item must be within 1 square of you throughout the ritual, after which you touch the item and forge or remove the bond. An eldritch weapon gains the following features.
+You learn a ritual that creates or removes a magical bond between yourself and one weapon or one shield. You complete the ritual during a rest. The bonded item must be within 1 square of you throughout the ritual, after which you touch the item and forge or remove the bond. You can remove a bond and forge a new bond during the same ritual. An eldritch weapon gains the following features.
 
 - Your eldritch weapon cannot be disarmed while you have it equipped unless you are incapacitated.
 - Your eldritch weapon does not deplete.
