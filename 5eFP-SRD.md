@@ -1958,15 +1958,6 @@ A typical creature in the game world has an alignment, which broadly describes i
 
 These brief summaries of the nine alignments describe the typical behavior of a creature with that alignment. Player characters must select a non-evil alignment at character creation. Individuals might vary significantly from that typical behavior, and few people are perfectly and consistently faithful to the precepts of their alignment.
 
-> ### Playable Alignments
->> **GOOD.** Favors the common good for all. Fairness and consideration of others.
->> 
->> **LAWFUL.** Best able to turn chaos into a degree of order with purpose.
->> 
->> **CHAOTIC.** Best able to grow and adapt to changes.
->> 
->> **NEUTRAL.** Undecided. Understands that there is a time and place for each alignment.
-
 **Lawful good** (LG) creatures can be counted on to do the right thing as expected by society. Gold dragons, paladins, and most dwarves are lawful good.
 
 **Neutral good** (NG) folk do the best they can to help others according to their needs. Pseudodragons, some cloud giants, and most gnomes are neutral good.
@@ -1986,6 +1977,7 @@ These brief summaries of the nine alignments describe the typical behavior of a 
 **Chaotic evil** (CE) creatures act with arbitrary violence, spurred by their greed, hatred, or bloodlust. Gargoyles, red dragons, and orcs are chaotic evil.
 
 ### Alignment in the Multiverse
+
 For many thinking creatures, alignment is a moral choice. Humans, dwarves, elves, and other humanoid species can choose whether to follow the paths of good or evil, law or chaos. According to myth, the good-­aligned gods who created these races gave them free will to choose their moral paths, knowing that good without free will is slavery.
 
 The evil deities who created other species, though, made those species to serve them. Those species have strong inborn tendencies that match the nature of their gods. Most orcs share the violent, savage nature of the orc gods, and are thus inclined toward evil. Even if an orc chooses a good alignment, it struggles against its innate tendencies for its entire life. (Even those with a distant orc ancestor feel the lingering pull of the orc god’s influence.)
@@ -1996,7 +1988,7 @@ Most creatures that lack the capacity for rational thought do not have alignment
 
 ## Languages
 
-All PCs know the common language. Other game features may grant you the ability to understand the speech of monsters or other characters.
+All PCs can speak and read the Common language. Some game features grant you the ability to understand Giberish, the speech of monsters.
 
 # Inspiration
 
@@ -4654,21 +4646,31 @@ Elite creatures within an encounter can be further customized with healer, mage,
 
 Encounter type describes the kind of encounter you discover.
 
-## Treasure
+# Treasure
 
 A treasure encounter may include minion, elite, and boss treasure.
 
-### Minion Treasure
+**Minion treasure** might be hidden, in plain sight, trapped, or untrapped.
 
-A treasure might be hidden, in plain sight, trapped, or untrapped.
+**Elite treasure** rewards a treasure chest once completed. An elite trap or a minion combat encounter often protects elite treasures.
 
-### Elite Treasure
+**Boss treasure** rewards a treasure chest once completed. A creature can discard its action on its turn during a boss treasure encounter to make a WIS check. Boss treasures require (MAX Wounds) successful WIS checks to gain one additional ⛁ when completing the encounter, and may require overcoming a boss trap or an elite combat encounter before resolving.
 
-Treasure of type elite rewards an additional ⛁ once discovered. An elite trap or a minion combat encounter often protects elite treasures.
+## Treasure Chests
 
-### Boss Treasure
+A treasure chest may be unlocked, locked, trapped, or locked and trapped. Each PC can open a treasure chest once before it disappears. When you open a treasure chest, you determine a basic treasure, a class treasure, and an advanced treasure. You then discover a treasure from the determined treasures.
 
-Boss treasures award the greatest amount of bonus Coin, but are the most difficult to finish. These encounters award an additional ⛁ upon discovery and potentially contain one or more bonus Coin. It is difficult, if not impossible, to unlock all boss treasure bonus Coin. A creature can discard its action on its turn to make a WIS check. Boss treasures require (MAX Wounds) successful WIS checks to find ⛁, and may require overcoming a boss trap or two elite monsters before resolving.
+### Basic Treasure
+
+TBD
+
+### Class Treasure
+
+TBD
+
+### Advanced Treasure
+
+TBD
 
 ## Combat
 
