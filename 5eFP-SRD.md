@@ -681,7 +681,7 @@ You start with the following equipment:
 
 ## Druidic
 
-You know Druidic, the secret language of druids. You can speak the language and use it to leave hidden messages. You and others who know this language automatically spot such a message. Others spot the message’s presence with a successful (DC 15) WIS check but can’t decipher it without magic.
+You know Druidic, the secret language of druids. You can speak the language and use it to leave hidden messages and to communicate with woodland beings. You and others who know this language automatically spot such a message. Others spot the message’s presence with a successful (DC 15) WIS check but can’t decipher it without magic. Additionally, you gain the ability to speak to and understand beasts, plants, and fey.
 
 ## Spellcasting
 
