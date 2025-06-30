@@ -1689,6 +1689,31 @@ Your patron bestows you the ability to adapt elemental energies within the spell
 
 Spells modified by this feature lose secondary effects unrelated to elemental damage. For example, a cold _fireball_ no longer ignites combustibles within the spell's area of effect. Similarly, an acid _thunderwave_ does not push creatures or unsecured objects and no longer generates a thunderous boom. A lightning _acid arrow_, however, still deals additional lightning damage at the end of the creature's next turn.
 
+## The Exile
+
+You have made a pact with a powerful and benign vestigial essence trapped and exiled within a space and time separated from all other planes of existence. Sent to the exiled space long ago, the reasons for their imprisonment vary from righteous to tragic, merciful to petty. Your patron, despite overcoming **extreme** adversity, has reclaimed a semblance of life and has reinvested an interest in the Prime Material Plane of existence, the place your character calls home. Your exile patron is, in essence, a demi-god force or quality with a unique personality and proficiencies, and offers unique game features. Your exile patron is also curiously attached to a specific alignment, often Lawful Good, Neutral Good, and Chaotic Good. Many exiles are, in essence, powerfully good interdimensional beings, seeking to make the world a better place through any available means. The exile's link and influence within the Prime Material Plane depend on the beliefs of the one bestowed warlock features. Only those who genuinely commit to living a good life are granted warlock features. If your alignment ever changes to Neutral, Neutral Evil, Chaotic Evil, or Lawful Evil, you temporarily lose access to these game features until you restore your original alignment.
+
+### Expanded Spell List
+
+The Exile lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
+
+|Spell Level|Spells|
+|:-:|:-:|
+|1st|Speak with Animals, Healing Word|
+|2nd|Augury, Spiritual Weapon|
+|3rd|Speak with Plants, Call Lightning|
+|4th|Freedom of Movement, Faithful Hound|
+|5th|Planar Binding, Raise Dead|
+|6th|Heal, True Seeing|
+|7th|Arcane Sword, Teleport|
+||
+|Paragon|Antimagic Field, Holy Aura|
+|Epic|Foresight, Mass Heal|
+
+### Exile's Chosen
+
+Your patron bestows upon you part of its distinctive qualities. Choose and gain a class feature other than spellcasting that is granted at character creation from a different class. If you choose a game feature with multiple uses, remove any existing Rest keywords and add the Cooldown keyword. The chosen class feature cannot be upgraded and reflects the nature of your exile patron. Nefarious powers have exiled many adventurers over time. Your selected feature's class reflects the personality and identity of your exiled patron. For example, suppose you choose the Paladin's Lay on Hands feature. This means your exiled patron is a powerful Paladin and healer who grants a shard of this power to you so that you may use your touch to heal wounds or remove poison and disease.
+
 # Warlock Upgrades
 
 |Cost|Prerequisites|Feature|Details|
