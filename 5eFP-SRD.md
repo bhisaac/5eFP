@@ -1280,18 +1280,13 @@ Choose one type of favored terrain: arctic, coast, desert, forest, grassland, mo
 
 While traveling in your favored terrain and while you are the group token controller, you gain the following benefits:
 
-- Difficult terrain doesn’t slow your group’s travel.
-- Your group can’t become lost except by magical means.
-- Your group always acts on the surprise round.
-- Your group may move stealthily at a normal pace.
-- You find one additional resource when you gather resources.
+- Difficult terrain doesn’t slow your movement.
+- You can’t become lost except by magical means.
+- You and your group always act on the surprise round.
+- You may move with stealth at a normal pace.
+- You find one additional resource when you gather.
 - While tracking other creatures, you also learn their exact number and sizes and how long ago they passed through the area.
-
-Game features with the Favored Terrain keyword can only be used while you are in your favored terrain.
-
-## Natural Explorer (Favored Terrain, Rest 2)
-
-You make an ability check related to your favored terrain, adding your level to the check twice instead of once. For example, making a STR check to climb a cliff or rocky slope is a related ability check for the mountain favored terrain.
+- You add your level twice instead of once to any DEX and STR checks related to your favored terrain. For example, making a STR check to climb a cliff or rocky slope is a related ability check for the mountain favored terrain.
 
 ## Subtlety (Toggle)
 
