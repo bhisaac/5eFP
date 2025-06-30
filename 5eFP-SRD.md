@@ -1224,7 +1224,7 @@ As a ranger, you gain the following class features.
 
 ### Proficiencies
 
-**Abilities:** Strength (STR), Dexterity (DEX)
+**Abilities:** Dexterity (DEX), Strength (STR)
 
 **Armor:** Light armor, medium armor, shields
 
@@ -1273,10 +1273,28 @@ If a game feature has the subtlety keyword, you can affect it using deception, s
 
 |Cost|Prerequisites|Mana|Feature|Details|
 |-:|:-:|:-:|:-|:-|
-|2⛁|-|-|Spellcasting|...|
-|3⛁|-|-|Ranger Archetype|...|
-|3⛁|-|-|Primeval Awareness|...|
 |3⛁|-|3|Magic|You learn one spell from the ranger spell list.|
+|3⛁|-|-|Primeval Awareness|...|
+|3⛁|-|-|Ranger Archetype|...|
+|2⛁|-|-|Spellcasting|...|
+
+## Primeval Awareness (Action, Encounter)
+
+Being a ranger means you are mystically connected to the land and to those who dwell upon it. You have an innate ability to communicate with beasts, and they recognize you as a kindred spirit. Through sounds and gestures, you can communicate simple ideas to a beast and can read its basic mood and intent. You learn its emotional state, whether it is affected by magic of any sort, its short-term needs (such as food or safety), and actions you can take (if any) to persuade it not to attack. You cannot use this ability against a creature you attacked during the encounter.
+
+## Ranger Archetype
+
+You choose an archetype that you strive to emulate, such as the Hunter.
+
+### Hunter
+
+Emulating the Hunter archetype means accepting your place as a bulwark between civilization and the terrors of the wilderness. As you walk the Hunter’s path, you learn specialized techniques for fighting the threats you face, from rampaging ogres and hordes of orcs to towering giants and terrifying dragons.
+
+You gain one of the following features of your choice:
+
+- **_Colossus Slayer_ (Action).** Your tenacity can wear down the most potent foes. You take the Attack action. If you hit a creature not at MAX Wounds with a weapon attack, the creature takes +1 damage.
+- **_Giant Killer_ (Reaction).** When a Large or larger creature within 1 square of you hits or misses you with an attack, you can attack that creature immediately after its attack, provided that you can see the creature.
+- **_Horde Breaker_.** When you take the Attack action, you can make another attack with the same weapon against a different creature that is within 1 square of the original target and within range of your weapon.
 
 ## Spellcasting
 
@@ -1301,24 +1319,6 @@ Wisdom (WIS) is your spellcasting ability for your ranger spells, since your mag
 **Spell DC** = 10 + WIS
 
 **Spell attack modifier** = 2 + WIS
-
-## Ranger Archetype
-
-You choose an archetype that you strive to emulate, such as the Hunter.
-
-### Hunter
-
-Emulating the Hunter archetype means accepting your place as a bulwark between civilization and the terrors of the wilderness. As you walk the Hunter’s path, you learn specialized techniques for fighting the threats you face, from rampaging ogres and hordes of orcs to towering giants and terrifying dragons.
-
-You gain one of the following features of your choice:
-
-- **_Colossus Slayer_ (Action).** Your tenacity can wear down the most potent foes. You take the Attack action. If you hit a creature not at MAX Wounds with a weapon attack, the creature takes +1 damage.
-- **_Giant Killer_ (Reaction).** When a Large or larger creature within 1 square of you hits or misses you with an attack, you can attack that creature immediately after its attack, provided that you can see the creature.
-- **_Horde Breaker_.** When you take the Attack action, you can make another attack with the same weapon against a different creature that is within 1 square of the original target and within range of your weapon.
-
-## Primeval Awareness (Action, Encounter)
-
-Being a ranger means you are mystically connected to the land and to those who dwell upon it. You have an innate ability to communicate with beasts, and they recognize you as a kindred spirit. Through sounds and gestures, you can communicate simple ideas to a beast and can read its basic mood and intent. You learn its emotional state, whether it is affected by magic of any sort, its short-term needs (such as food or safety), and actions you can take (if any) to persuade it not to attack. You cannot use this ability against a creature you attacked during the encounter.
 
 # Rogue
 
@@ -1365,15 +1365,15 @@ You must have cover or be out of LOS from any hostile creatures to activate this
 
 If a game feature has the subtlety keyword, you can affect it using deception, sleight of hand, or stealth. If you use this feature this way, you make a CHA check for deception or a DEX check for sleight of hand or stealth. A success counts as two successes, and a critical success satisfies all requirements to resolve the conflict.
 
-## Thieves' Tools (Action, Turn)
-
-While your subtlety feature is toggled on, you can make a DEX check to disarm a trap, pick a lock, or otherwise open a secured and locked object within reach. A critical failure toggles your subtlety feature off.
-
 ## Thieves’ Cant
 
 During your rogue training, you learned thieves’ cant, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. Only another creature that knows thieves’ cant understands such messages. It takes four times longer to convey such a message than it does to speak the same idea plainly.
 
 In addition, you understand a set of secret signs and symbols used to convey short, simple messages, such as whether an area is dangerous or the territory of a thieves' guild, whether loot is nearby, or whether the people in an area are easy marks or will provide a safe house for thieves on the run.
+
+## Thieves' Tools (Action, Turn)
+
+While your subtlety feature is toggled on, you can make a DEX check to disarm a trap, pick a lock, or otherwise open a secured and locked object within reach. A critical failure toggles your subtlety feature off.
 
 # Rogue Upgrades
 
@@ -1414,7 +1414,7 @@ As a sorcerer, you gain the following class features.
 
 ### Proficiencies
 
-**Abilities:** Constitution (CON), Charisma (CHA)
+**Abilities:** Charisma (CHA), Constitution (CON)
 
 **Armor:**	None
 
@@ -1490,19 +1490,9 @@ As magic flows through your body, it causes the physical traits of your dragon a
 
 |Cost|Prerequisites|Mana|Feature|Details|
 |-:|:-:|:-:|:-|:-|
-|3⛁|-|-|Sorcery|...|
 |3⛁|-|4|Magic|You learn one spell from the sorcerer spell list.|
 |3⛁|-|-|Metamagic|...|
-
-## Sorcery (Cooldown 2 + LEVEL)
-
-You tap into a deep wellspring of magic within yourself allowing you to create a variety of magical effects.
-
-### Flexible Casting (Action, Turn)
-
-You can spend a use of your sorcery feature to gain additional mana, or sacrifice mana to replenish an expended use of your sorcery feature.
-
-You either spend two uses of your sorcery feature to gain 2 mana or expend 2 mana to refresh one use of your sorcery feature. You may then take one additional action.
+|3⛁|-|-|Sorcery|...|
 
 ## Metamagic
 
@@ -1547,6 +1537,16 @@ When you cast a spell that targets only one creature and doesn’t have a range 
 
 To be eligible, a spell must be incapable of targeting more than one creature at the spell’s current level. For example, _magic missile_ and _scorching ray_ aren’t eligible, but _ray of frost_ is.
 
+## Sorcery (Cooldown 2 + LEVEL)
+
+You tap into a deep wellspring of magic within yourself allowing you to create a variety of magical effects.
+
+### Flexible Casting (Action, Turn)
+
+You can spend a use of your sorcery feature to gain additional mana, or sacrifice mana to replenish an expended use of your sorcery feature.
+
+You either spend two uses of your sorcery feature to gain 2 mana or expend 2 mana to refresh one use of your sorcery feature. You may then take one additional action.
+
 # Warlock
 
 ## Class Features
@@ -1559,7 +1559,7 @@ As a warlock, you gain the following class features.
 
 ### Proficiencies
 
-**Abilities:** Wisdom (WIS), Charisma (CHA)
+**Abilities:** Charisma (CHA), Wisdom (WIS)
 
 **Armor:** Light armor
 
