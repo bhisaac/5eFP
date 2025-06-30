@@ -1300,31 +1300,10 @@ If a game feature has the subtlety keyword, you can affect it using deception, s
 
 |Cost|Prerequisites|Mana|Feature|Details|
 |-:|:-:|:-:|:-|:-|
-|2⛁|-|-|Fighting Style|...|
 |2⛁|-|-|Spellcasting|...|
 |3⛁|-|-|Ranger Archetype|...|
 |3⛁|-|-|Primeval Awareness|...|
 |3⛁|-|3|Magic|You learn one spell from the ranger spell list.|
-
-## Fighting Style
-
-You adopt a particular style of fighting as your specialty. Choose one of the following options. You can’t take a Fighting Style option more than once, even if you later get to choose again.
-
-### Archery
-
-You gain a +1 bonus to attack rolls you make with ranged weapons.
-
-### Blind Fighting
-
-You gain blindsight 2 whenever your vision is obscured.
-
-### Defense
-
-While you are wearing armor, you gain a +1 bonus to Defense.
-
-### Nature Warden
-
-You learn two druid cantrips of your choice.
 
 ## Spellcasting
 
@@ -1338,7 +1317,7 @@ For example, if you know the 1st-level spell _cure wounds_ and have 2 mana, you 
 
 ### Spells Known
 
-You know WIS (minimum 1) 1st-level spells from the ranger spell list.
+You know two druid cantrips of your choice and WIS (minimum 1) 1st-level spells from the ranger spell list.
 
 Whenever you purchase a Magic upgrade, you can choose one of the ranger spells you know and replace it with another spell from the ranger spell list that you can cast.
 
