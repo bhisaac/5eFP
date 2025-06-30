@@ -1132,32 +1132,11 @@ This feature has no effect on undead and constructs.
 
 |Cost|Prerequisites|Mana|Feature|Details|
 |-:|:-:|:-:|:-|:-|
-|2⛁|-|-|Fighting Style|...|
 |2⛁|-|-|Spellcasting|...|
 |2⛁|-|-|Divine Smite|...|
 |3⛁|-|-|Divine Health|You are immune to disease.|
 |3⛁|-|3|Magic|You learn one spell from the paladin spell list.|
 |3⛁|-|-|Sacred Oath|...|
-
-## Fighting Style
-
-You adopt a style of fighting as your specialty. Choose one of the following options. You can’t take a Fighting Style option more than once, even if you later get to choose again.
-
-### Armored
-
-While you are wearing armor, you gain a +1 bonus to Defense.
-
-### Invoker
-
-You learn two cantrips from the cleric spell list.
-
-### Great Weapon Fighting
-
-Whenever you attack and miss with a melee weapon you are wielding with two hands, you may reroll the attack once and must use the new roll. The weapon must have the two-handed property for you to gain this benefit.
-
-### Protection (Reaction)
-
-When a creature you can see attacks a target other than you that is within 1 square of you, you can discard your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
 
 ## Spellcasting
 
@@ -1171,7 +1150,7 @@ For example, if you know the 1st-level spell _cure wounds_ and have 2 mana, you 
 
 ### Spells Known
 
-You know CHA (minimum 1) 1st-level spells from the paladin spell list.
+You learn two cantrips from the cleric spell list and know CHA (minimum 1) 1st-level spells from the paladin spell list.
 
 Whenever you purchase a Magic upgrade, you can choose one of the paladin spells you know and replace it with another spell from the paladin spell list that you can cast.
 
