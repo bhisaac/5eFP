@@ -895,20 +895,14 @@ You can cast a wizard spell as a ritual if that spell has the ritual tag and you
 
 ## Eldritch Weapon
 
-You learn a ritual that creates a magical bond between yourself and one weapon. You complete the ritual during a rest. The weapon must be within 1 square of you throughout the ritual, after which you touch the weapon and forge the bond. Your bonded weapon gains the following features.
+You learn a ritual that creates or removes a magical bond between yourself and one weapon or one shield. You complete the ritual during a rest. The bonded item must be within 1 square of you throughout the ritual, after which you touch the item and forge or remove the bond. An eldritch weapon gains the following features.
 
-- Your bonded weapon cannot be disarmed while you have it equipped unless you are incapacitated.
-- Your bonded weapon does not deplete.
-- You can form a bond with up to one shield. This game feature considers a bonded shield a melee weapon with the thrown keyword and a range of up to 4 squares.
-- **_Summon Eldritch Weapon (Action)_.** You take one action. If your bonded weapon is on the same plane of existence, you can summon it before or after taking your action, causing it to teleport instantly to your hand.
+- Your eldritch weapon cannot be disarmed while you have it equipped unless you are incapacitated.
+- Your eldritch weapon does not deplete.
+- A bonded shield is considered a melee weapon, deals 1 bludgeoning damage, and gains the thrown (range 4) property. A thrown bonded shield is no longer equipped and doesn't provide armor.
+- **_Summon Eldritch Weapon (Action)_.** You take one action. If your eldritch weapon is on the same plane of existence, you can summon it before or after taking your action, causing it to teleport instantly to your hand. If your eldritch weapon is a shield, it teleports equipped.
 
-With this game feature, you can have up to two bonded weapons, but you can summon only one at a time. If you attempt to bond with a third weapon, you must break the bond with one of the other two.
-
-## Eldritch Knight Upgrades
-
-|Cost|Prerequisites|Mana|Feature|Details|
-|-:|:-:|:-:|:-|:-|
-|2⛁|-|3|Magic|You learn one abjuration or evocation spell from the wizard spell list.|
+With this game feature, you can have up to two bonded weapons or a bonded weapon and a bonded shield, but you can summon only one eldritch weapon at a time. If you attempt to bond with a third weapon, you must break the bond with one of the other two. If you attempt to bond with a second shield, you must break the bond with the other one.
 
 # Monk
 
