@@ -341,7 +341,7 @@ As a barbarian, you gain the following class features.
 
 ### Proficiencies
 
-**Abilities:** Strength (STR), Constitution (CON)
+**Abilities:** Constitution (CON), Strength (STR)
 
 **Armor:** Light armor, medium armor, shields
 
@@ -379,13 +379,9 @@ While not wearing armor, you add CON (minimum 0) to your Defense. You can use a 
 
 |Cost|Prerequisites|Feature|Details|
 |-:|:-:|:-|:-|
-|2⛁|-|Reckless Attack|...|
 |2⛁|-|Danger Sense|You gain advantage to DEX checks vs. effects you can see|
 |2⛁|-|Primal Path|...|
-
-## Reckless Attack (Toggle)
-
-You can throw aside all concern for protection to attack with fierce determination. You gain advantage on weapon attack rolls using STR, but attack rolls against you have advantage. You then take the Attack action.
+|2⛁|-|Reckless Attack (Toggle)|...|
 
 ## Primal Path
 
@@ -424,6 +420,10 @@ Your elemental spirit might be related to those listed here, but more appropriat
 
 **_Fire_ (Action, Rest 2, Turn).** The fire spirit grants you a fire attack with reach. Increase your reach to 2 squares and then take the Attack action. Your attacks deal fire damage.
 
+## Reckless Attack (Toggle)
+
+You can throw aside all concern for protection to attack with fierce determination. You gain advantage on weapon attack rolls using STR, but attack rolls against you have advantage. You then take the Attack action.
+
 # Bard
 
 ## Class Features
@@ -436,7 +436,7 @@ As a bard, you gain the following class features.
 
 ### Proficiencies
 
-**Abilities:** Dexterity (DEX), Charisma (CHA)
+**Abilities:** Charisma (CHA), Dexterity (DEX)
 
 **Armor:** Light armor
 
@@ -507,11 +507,11 @@ If a game feature has the subtlety keyword, you can affect it using deception, s
 
 |Cost|Prerequisites|Mana|Feature|Details|
 |-:|:-:|:-:|:-|:-|
-|2⛁|-|-|Jack of All Trades|Add +1 to nonproficient ability checks.|
-|2⛁|-|-|Song of Rest|You and your allies discard up to 1 wound when completing a rest.|
-|3⛁|-|4|Magic|You learn one spell from the bard spell list.|
 |3⛁|-|-|Bard College|...|
 |3⛁|-|-|Expertise|...|
+|2⛁|-|-|Jack of All Trades|Add +1 to nonproficient ability checks.|
+|3⛁|-|4|Magic|You learn one spell from the bard spell list.|
+|2⛁|-|-|Song of Rest|You and your allies discard up to 1 wound when completing a rest.|
 
 ## Bard College
 
@@ -549,7 +549,7 @@ As a cleric, you gain the following class features.
 
 ### Proficiencies
 
-**Abilities:** Wisdom (WIS), Charisma (CHA)
+**Abilities:** Charisma (CHA), Wisdom (WIS)
 
 **Armor:** Light armor, medium armor, shields
 
@@ -719,39 +719,9 @@ You can cast a druid spell as a ritual if that spell has the ritual tag and you 
 
 |Cost|Prerequisites|Mana|Feature|Details|
 |-:|:-:|:-:|:-|:-|
-|2⛁|-|-|Wild Shape|...|
 |2⛁|-|-|Druid Circle|...|
 |3⛁|-|4|Magic|You learn one spell from the druid spell list.|
-
-## Wild Shape (Action, Rest 2)
-
-You magically assume the shape of a beast that you have seen before. When you use this feature, save and set aside any wounds and choose a wild shape form. Use statistics for an elite creature except as detailed below. Your wild shape form cannot benefit from any swim or fly speeds it may have.
- 
-## Wild Shape Forms
-
-Wild shapes are divided into three primary forms: tough, stealthy, and travel.
-
-### Tough
-
-You have 5 + LEVEL MAX wounds and Defense 11 while in tough form. Your size changes to large if it is not already, with a reach of 1 square. You gain Bolster LEVEL when you assume this form.
-
-### Stealthy
-
-You have 4 + LEVEL MAX wounds and Defense 12 + LEVEL while in stealthy form. While in this form, you roll DEX checks with advantage.
- 
-### Travel
-
-You can activate travel form outside of an encounter when you are the group token controller. You have 1 MAX wounds while in travel form. When activated, you and any chosen friendly and willing creatures within 6 squares of you transform into travel forms and move together. If an encounter begins or if 1 or more points of damage are dealt to you or another affected creature, your wild shape and all travel forms end. Your speed increases by +2 while in travel form.
-
-You can stay in a wild shape form until you Recall. You then revert to your normal form. You can discard your action to revert to your normal form earlier on your turn. If you fall unconscious, gain MAX wounds, or die, you automatically revert.
-
-While you are transformed, the following rules apply:
-
-- Your game statistics are replaced by the statistics of the wild shape form, but you retain your alignment, personality, and INT, WIS, and CHA. You also retain all of your proficiencies, in addition to gaining those of the creature. If the creature has the same proficiency as you and the bonus in its stat block is higher than yours, use the creature’s bonus instead of yours. If the creature has any legendary or lair actions, you can’t use them.
-- When you transform, you assume the wild shape form's MAX wounds. When you revert to your normal form, you return all wounds you set aside before you transformed. However, if you revert because your wild shape form gained MAX Wounds, any excess wounds carry over to your normal form. For example, if you take 2 damage in a wild shape form and have room for only 1 wound, you revert and take 1 damage. As long as the excess damage doesn’t cause you to reach your maximum wounds, you aren’t knocked unconscious.
-- You can’t cast spells, and your ability to speak or take any action that requires hands is limited to the capabilities of your wild shape form. Transforming doesn’t break your concentration on a spell you’ve already cast, however, or prevent you from taking actions that are part of a spell, such as _call lightning_, that you’ve already cast.
-- You retain the benefit of any features from your class, species, or other source and can use them if the new form is physically capable of doing so. However, you can’t use any of your special senses, such as truesight, unless your new form also has that sense.
-- Your equipment merges into your new form and has no effect until you leave the form.
+|2⛁|-|-|Wild Shape|...|
 
 ## Druid Circle
 
@@ -785,7 +755,7 @@ The Circle of the Sun and Moon is made up of mystics who meditate and commune wi
 
 **_Wild Shape Form: Astral Form_.** You have 2 + LEVEL MAX wounds while in astral form. You may use Wild Shape without discarding your action when shapeshifting into astral form. When you choose this form, you do not assume the shape of a beast. You and your equipment become translucent, taking on an indigo tint filled with points of moving lights. You gain the following features while in astral form.
 
-- Your equipment and gear have the same appearance while equipped, do not merge into your astral form, and function normally.
+- Your equipment does not merge into your astral form and functions normally.
 - You may cast spells, speak, and take normal actions in astral form.
 - **_Lunar Attunement._** After casting a spell with no visible effect, such as _cure wounds_, you discard solar attunement and gain lunar attunement. If you already have lunar attunement, discard it and activate Starfall.
 - **_Solar Attunement._** After casting a spell with a visible effect, such as _entangle_, you discard lunar attunement and gain solar attunement. If you already have solar attunement, discard it and activate Starfall.
@@ -807,6 +777,36 @@ The Circle of the Manyshaped are fierce wilderness protectors and powerful shape
 
 **_Travel_.** Your movement changes to double your base speed. Once travel form is activated, it can be reactivated on the exploration map anytime outside of an encounter until you Recall. When you reactivate travel form, set aside any wild shape form you are currently in and any wild shape wounds you may have. When travel form ends due to entering an encounter or taking 1 or more points of damage, you shift back into the wild shape form and regain your wild shape wounds you set aside earlier.
 
+## Wild Shape (Action, Rest 2)
+
+You magically assume the shape of a beast that you have seen before. When you use this feature, save and set aside any wounds and choose a wild shape form. Use statistics for an elite creature except as detailed below. Your wild shape form cannot benefit from any swim or fly speeds it may have.
+ 
+## Wild Shape Forms
+
+Wild shapes are divided into three primary forms: tough, stealthy, and travel.
+
+### Tough
+
+You have 5 + LEVEL MAX wounds and Defense 11 while in tough form. Your size changes to large if it is not already, with a reach of 1 square. You gain Bolster LEVEL when you assume this form.
+
+### Stealthy
+
+You have 4 + LEVEL MAX wounds and Defense 12 + LEVEL while in stealthy form. While in this form, you roll DEX checks with advantage.
+ 
+### Travel
+
+You can activate travel form outside of an encounter when you are the group token controller. You have 1 MAX wounds while in travel form. When activated, you and any chosen friendly and willing creatures within 6 squares of you transform into travel forms and move together. If an encounter begins or if 1 or more points of damage are dealt to you or another affected creature, your wild shape and all travel forms end. Your speed increases by +2 while in travel form.
+
+You can stay in a wild shape form until you Recall. You then revert to your normal form. You can discard your action to revert to your normal form earlier on your turn. If you fall unconscious, gain MAX wounds, or die, you automatically revert.
+
+While you are transformed, the following rules apply:
+
+- Your game statistics are replaced by the statistics of the wild shape form, but you retain your alignment, personality, and INT, WIS, and CHA. You also retain all of your proficiencies, in addition to gaining those of the creature. If the creature has the same proficiency as you and the bonus in its stat block is higher than yours, use the creature’s bonus instead of yours. If the creature has any legendary or lair actions, you can’t use them.
+- When you transform, you assume the wild shape form's MAX wounds. When you revert to your normal form, you return all wounds you set aside before you transformed. However, if you revert because your wild shape form gained MAX Wounds, any excess wounds carry over to your normal form. For example, if you take 2 damage in a wild shape form and have room for only 1 wound, you revert and take 1 damage. As long as the excess damage doesn’t cause you to reach your maximum wounds, you aren’t knocked unconscious.
+- You can’t cast spells, and your ability to speak or take any action that requires hands is limited to the capabilities of your wild shape form. Transforming doesn’t break your concentration on a spell you’ve already cast, however, or prevent you from taking actions that are part of a spell, such as _call lightning_, that you’ve already cast.
+- You retain the benefit of any features from your class, species, or other source and can use them if the new form is physically capable of doing so. However, you can’t use any of your special senses, such as truesight, unless your new form also has that sense.
+- Your equipment merges into your new form and has no effect until you leave the form.
+
 # Fighter
 
 ## Class Features
@@ -819,7 +819,7 @@ As a fighter, you gain the following class features.
 
 ### Proficiencies
 
-**Abilities:** Strength (STR), Constitution (CON)
+**Abilities:** Constitution (CON), Strength (STR)
 
 **Armor:** All	armor, shields
 
@@ -916,7 +916,7 @@ As a monk, you gain the following class features.
 
 ### Proficiencies
 
-**Abilities:** Strength (STR), Dexterity (DEX)
+**Abilities:** Dexterity (DEX), Strength (STR)
 
 **Tools:** Choose one type of artisan’s tools or one musical instrument
 
@@ -948,11 +948,15 @@ Certain monasteries use specialized forms of monk weapons. For example, you migh
 
 |Cost|Prerequisites|Feature|Details|
 |-:|:-:|:-|:-|
-|2⛁|-|Ki|...|
-|2⛁|Ki feature|Ki|You gain the Ki (Rest 3) feature.|
-|2⛁|-|Unormored Movement|...|
+|3⛁|-|Deflect Missiles (Reaction)|...|
+|2⛁|-|Ki (Rest 2)|...|
+|2⛁|Ki (Rest 2) feature|-|You gain the Ki (Rest 3) feature.|
 |3⛁|-|Monastic Tradition|...|
-|3⛁|-|Deflect Missiles|...|
+|2⛁|-|Unormored Movement|...|
+
+## Deflect Missiles (Reaction)
+
+You deflect or catch the piece of ammunition or missile when a ranged weapon attack hits you, and the damage you take from the attack is reduced by LEVEL + 1. If the damage is reduced to 0 or less, you can catch the missile if it is small enough to hold in one hand and if you have at least one hand free. If you catch a missile in this way, you can spend one use of your Ki feature to make a ranged attack with the weapon or piece of ammunition you just caught, as part of the same reaction. You make this attack with proficiency, regardless of your weapon proficiencies, and the missile counts as a monk weapon for the attack, which has a normal range of 4 squares and a long range of 12 squares.
 
 ## Ki (Rest 2)
 
@@ -977,10 +981,6 @@ You can take the Dodge action without discarding your action.
 ### Step of the Wind (Encounter, Ki)
 
 You can take the Disengage or Dash action without discarding your action, and your jump distance is doubled.
-
-## Unarmored Movement
-
-Your speed increases by 2 while you are not wearing armor or wielding a shield.
 
 ## Monastic Tradition
 
@@ -1077,9 +1077,9 @@ This feature has no effect on undead and constructs.
 
 You take the Cast a Spell action, innately casting _sanctuary_ on yourself with a duration of Recall. During an encounter, if a creature succeeds on its WIS check, it is temporarily immune to this effect for the rest of the encounter.
 
-## Deflect Missiles (Reaction)
+## Unarmored Movement
 
-You deflect or catch the piece of ammunition or missile when a ranged weapon attack hits you, and the damage you take from the attack is reduced by LEVEL + 1. If the damage is reduced to 0 or less, you can catch the missile if it is small enough to hold in one hand and if you have at least one hand free. If you catch a missile in this way, you can spend one use of your Ki feature to make a ranged attack with the weapon or piece of ammunition you just caught, as part of the same reaction. You make this attack with proficiency, regardless of your weapon proficiencies, and the missile counts as a monk weapon for the attack, which has a normal range of 4 squares and a long range of 12 squares.
+Your speed increases by 2 while you are not wearing armor or wielding a shield.
 
 # Paladin
 
@@ -1093,7 +1093,7 @@ As a paladin, you gain the following class features.
 
 ### Proficiencies
 
-**Abilities:** Wisdom (WIS), Charisma (CHA)
+**Abilities:** Charisma (CHA), Wisdom (WIS)
 
 **Armor:** All armor, shields
 
@@ -1126,11 +1126,32 @@ This feature has no effect on undead and constructs.
 
 |Cost|Prerequisites|Mana|Feature|Details|
 |-:|:-:|:-:|:-|:-|
-|2⛁|-|-|Spellcasting|...|
-|2⛁|-|-|Divine Smite|...|
 |3⛁|-|-|Divine Health|You are immune to disease.|
+|2⛁|-|-|Divine Smite|...|
 |3⛁|-|3|Magic|You learn one spell from the paladin spell list.|
 |3⛁|-|-|Sacred Oath|...|
+|2⛁|-|-|Spellcasting|...|
+
+## Divine Smite
+
+When you hit a creature with a melee weapon attack, you can spend up to LEVEL mana to deal an equal amount of radiant damage to the target, in addition to the weapon’s damage.
+
+## Sacred Oath
+
+You swear the oath that binds you as a paladin forever. Up to this time you have been in a preparatory stage, committed to the path but not yet sworn to it. Now you choose an oath, such as the Oath of Devotion.
+
+### Oath Spells
+
+Each oath has associated spells. You begin knowing two oath spells, and they do not count against the number of spells you know.
+
+If you gain an oath spell that doesn’t appear on the paladin spell list, the spell is nonetheless a paladin spell for you.
+
+### Channel Divinity (Rest)
+
+Your oath allows you to channel divine energy to fuel magical effects. Each Channel Divinity option provided by your oath explains how to use it.
+When you use your Channel Divinity, you choose which option to use.
+
+Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your paladin spell save DC.
 
 ## Spellcasting
 
@@ -1155,27 +1176,6 @@ Charisma (CHA) is your spellcasting ability for your paladin spells since their 
 **Spell DC** = 10 + CHA
 
 **Spell attack modifier** = 2 + CHA
-
-## Divine Smite
-
-When you hit a creature with a melee weapon attack, you can spend up to LEVEL mana to deal an equal amount of radiant damage to the target, in addition to the weapon’s damage.
-
-## Sacred Oath
-
-You swear the oath that binds you as a paladin forever. Up to this time you have been in a preparatory stage, committed to the path but not yet sworn to it. Now you choose an oath, such as the Oath of Devotion.
-
-### Oath Spells
-
-Each oath has associated spells. You begin knowing two oath spells, and they do not count against the number of spells you know.
-
-If you gain an oath spell that doesn’t appear on the paladin spell list, the spell is nonetheless a paladin spell for you.
-
-### Channel Divinity (Rest)
-
-Your oath allows you to channel divine energy to fuel magical effects. Each Channel Divinity option provided by your oath explains how to use it.
-When you use your Channel Divinity, you choose which option to use.
-
-Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your paladin spell save DC.
 
 # Sacred Oaths
 
