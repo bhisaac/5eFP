@@ -100,7 +100,7 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Map, World_.** The world map defines the game world and drives the game's story. It is a top-down illustration of the game world or region divided into a 14-square by 14-square grid. Each square within the grid is measured 1 inch by 1 inch or about 2.5 centimeters by 2.5 centimeters.
 
-**_MAX Wounds_.** If the number of wounds you have equals your MAX Wounds score, you fall unconscious and make death saving throws at the beginning of each turn.
+**_MAX Wounds_.** If the number of wounds you have equals or exceeds your MAX Wounds score, you fall unconscious and make death saving throws at the beginning of each turn.
 
 **_Minion, Elite, and Boss_.** All three refer to encounter difficulty, typically referring to monsters found in combat encounters. Minions are manageable encounters that take only one successful hit or ability check to resolve. Elites are advanced encounters with improved abilities that typically require two or more successful hits or ability checks to resolve. Bosses are the most advanced and challenging encounters that typically require multiple hits and ability checks to resolve, have special abilities that exploit minions, always include a minion encounter, and may have up to two elites.
 
