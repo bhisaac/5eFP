@@ -2083,7 +2083,7 @@ When you use your dedication to activate Survival, choose one of the following:
 
 # Perks
 
-Perks are game features that provide discrete benefits that further customize your character's build, which can be found in treasure chests or are sometimes available for purchase at the Market.
+Perks are game features that provide discrete benefits that further customize your character's build, which can be found in treasure chests or are sometimes available for purchase at HQ's Market or another building at HQ.
 
 ## Archery
 
@@ -2092,6 +2092,15 @@ You gain a +1 bonus to attack rolls you make with ranged weapons.
 ## Armored
 
 While you are wearing armor, you gain a +1 bonus to Defense.
+
+## Blacksmith
+
+During a round of downtime, you may discard 2 trade goods (ore) or a metal weapon or armor to gain trade goods (metal bar). Alternatively, when you complete a rest, you may discard trade goods (metal bar) to gain one of the following benefits.
+
+- Repair a primarily metal weapon or piece of armor, or replenish a depleted multi-use weapon.
+- Create a dagger, dart, or javelin
+- Discard trade goods (wood) to create a handaxe, arrows, or bolts.
+- Create a multi-use weapon chassis. To use a multi-use weapon chassis, you must bind it to a specific multi-use weapon. The next time the weapon would deplete, you can choose to prevent it by discarding its chassis.
 
 ## Blind Fighting
 
@@ -2132,6 +2141,10 @@ You have a military rank from your career as a soldier. Soldiers loyal to your f
 ## Position of Privilege
 
 You are treated as nobility, even if you are not of noble birth. People are inclined to think the best of you. You are welcome in high society, and people assume you have the right to be wherever you are. The common folk make every effort to accommodate you and avoid your displeasure, and other people of high birth treat you as a member of the same social sphere. You can secure an audience with a local noble if necessary.
+
+## Prospecting
+
+You gain trade goods (ore) or trade goods (stone) when you gather. You have a prospecting bag that holds any combination of up to 4 trade goods (ore) or trade goods (stone) without counting against your equipment slots. At the end of a downtime round, you can discard two trade goods (ore) to gain one trade goods (metal bar) or discard two trade goods (stone) to gain one trade goods (gems).
 
 ## Protection (Reaction)
 
