@@ -2117,6 +2117,10 @@ Whenever you attack and miss with a melee weapon you are wielding with two hands
 
 You begin a game session with a special guild merchant's bag capable of storing up to 5 additional pieces of gear or trade goods without them counting against the number of equipment slots you have. You do not have access to the contents of the guild merchant's bag during an encounter.
 
+## Herbalism
+
+You gain trade goods (herbs) when you gather.
+
 ## Master Craft
 
 Whenever you spend a downtime round crafting an item, you benefit from completing the downtime round twice. You may spend trade goods as if they were ⛁.
