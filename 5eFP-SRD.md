@@ -2116,7 +2116,7 @@ As part of completing a rest, you may switch to a secondary identity that includ
 
 ### Guild Merchant
 
-You begin a game session with a special guild merchant's bag capable of storing up to 5 additional pieces of gear or trade goods without them counting against the number of equipment slots you have. You do not have access to the contents of the guild merchant's bag during an encounter.
+You begin a game session with a special guild merchant's bag capable of storing up to 5 trade goods without them counting against the number of equipment slots you have. You do not have access to the contents of the guild merchant's bag during an encounter.
 
 ### Military Rank
 
