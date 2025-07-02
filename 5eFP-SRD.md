@@ -2083,17 +2083,11 @@ When you use your dedication to activate Survival, choose one of the following:
 
 # Perks
 
-Perks are game features that provide discrete benefits that further customize your character's build, which can be found in treasure chests or are sometimes available for purchase at HQ's Market or another building at HQ.
+Perks are game features that provide discrete benefits that further customize your character's build, which can be found in treasure chests or are sometimes available for purchase at HQ's Market or another building at HQ. Perks are further divided into the following categories: trinkets, tools, features, fighting styles, gathering, and crafting.
 
-## Archery
+## Crafting
 
-You gain a +1 bonus to attack rolls you make with ranged weapons.
-
-## Armored
-
-While you are wearing armor, you gain a +1 bonus to Defense.
-
-## Blacksmith
+### Blacksmith
 
 During a round of downtime, you may discard 2 trade goods (ore) or a metal weapon or armor to gain trade goods (metal bar). Alternatively, when you complete a rest, you may discard trade goods (metal bar) to gain one of the following benefits.
 
@@ -2102,71 +2096,53 @@ During a round of downtime, you may discard 2 trade goods (ore) or a metal weapo
 - Discard trade goods (wood) to create a handaxe, arrows, or bolts.
 - Create a multi-use weapon chassis. To use a multi-use weapon chassis, you must bind it to a specific multi-use weapon. The next time the weapon would deplete, you can choose to prevent it by discarding its chassis.
 
-## Blind Fighting
-
-You gain blindsight 2 whenever your vision is obscured.
-
-## By Popular Demand
-
-You are a well-received performer, gaining ⛁ and spending it on rest and repairs if you spend a downtime round at a circus, inn, marketplace, noble's court, tavern, or theater.
-
-## Discovery
-
-Whenever you discover anything, you add one additional choice before making a decision.
-
-## False Identity
-
-As part of completing a rest, you may switch to a secondary identity that includes documentation, established acquaintances, and disguises that allow you to assume that persona. While disguised, any ability checks made while keeping up your ruse gain advantage.
-
-## Great Weapon Fighting
-
-Whenever you attack and miss with a melee weapon you are wielding with two hands, you may reroll the attack once and must use the new roll. The weapon must have the two-handed property for you to gain this benefit.
-
-## Guild Merchant
-
-You begin a game session with a special guild merchant's bag capable of storing up to 5 additional pieces of gear or trade goods without them counting against the number of equipment slots you have. You do not have access to the contents of the guild merchant's bag during an encounter.
-
-## Herbalism Kit
-
-You gain trade goods (herbs) when you gather. You have an herbalism bag that holds up to 4 trade goods (herbs) without counting against your equipment slots. When you complete a rest or a round of downtime, you may discard 2 trade goods (herbs) to gain a healing potion.
-
-## Master Craft
+### Master Craft
 
 Whenever you spend a downtime round crafting an item, you benefit from completing the downtime round twice. You may spend trade goods as if they were ⛁.
 
-## Military Rank
+## Feature
+
+### By Popular Demand
+
+You are a well-received performer, gaining ⛁ and spending it on rest and repairs if you spend a downtime round at a circus, inn, marketplace, noble's court, tavern, or theater.
+
+### Discovery
+
+Whenever you discover anything, you add one additional choice before making a decision.
+
+### False Identity
+
+As part of completing a rest, you may switch to a secondary identity that includes documentation, established acquaintances, and disguises that allow you to assume that persona. While disguised, any ability checks made while keeping up your ruse gain advantage.
+
+### Guild Merchant
+
+You begin a game session with a special guild merchant's bag capable of storing up to 5 additional pieces of gear or trade goods without them counting against the number of equipment slots you have. You do not have access to the contents of the guild merchant's bag during an encounter.
+
+### Military Rank
 
 You have a military rank from your career as a soldier. Soldiers loyal to your former military organization still recognize your authority and influence, and they defer to you if they are of a lower rank. Before deploying onto the world map, you gain a soldier minion under your command who Deploys and Recalls to HQ alongside you. The soldier minion follows your commands to the best of its ability and allows you to remove 1 additional obscuring tile up to 2 squares away if you are the group token controller. If the soldier minion dies while deployed, remove it from the playing field. If your soldier minion Recalls with you, you gain ⛁.
 
-## Position of Privilege
+### Position of Privilege
 
 You are treated as nobility, even if you are not of noble birth. People are inclined to think the best of you. You are welcome in high society, and people assume you have the right to be wherever you are. The common folk make every effort to accommodate you and avoid your displeasure, and other people of high birth treat you as a member of the same social sphere. You can secure an audience with a local noble if necessary.
 
-## Prospecting
-
-You gain trade goods (ore) or trade goods (stone) when you gather. You have a prospecting bag that holds any combination of up to 4 trade goods (ore) or trade goods (stone) without counting against your equipment slots. At the end of a downtime round, you can discard two trade goods (ore) to gain one trade goods (metal bar) or discard two trade goods (stone) to gain one trade goods (gems).
-
-## Protection (Reaction)
-
-When a creature you can see attacks a target other than you that is within 1 square of you, you can discard your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
-
-## Researcher
+### Researcher
 
 Once during a downtime round, before spending any ⛁, you gain ⛁ this round for research only. You may spend this extra Coin on any available research at any location. If there are no available research tracks, add one to any location and spend the bonus Coin on the added research.
 
-## Resonant (Action, Encounter)
+### Resonant (Action, Encounter)
 
 You gain the bard's resonant class feature.
 
-## Rustic Hospitality
+### Rustic Hospitality
 
 You bypass obstacles and move undetected through city and road terrain tiles while you are the group token controller. Additionally, whenever you speak to a commoner (someone without military or aristocratic rank), any related checks made while doing so gain advantage. If you spend a downtime round at a commoner's home, you gain ⛁ and spend it on rest and repairs.
 
-## Shelter of the Faithful
+### Shelter of the Faithful
 
 Whenever you spend a downtime round at a temple or shrine, at the start of the downtime round, you gain ⛁ and spend it on rest and repairs.
 
-## Ship's Passage
+### Ship's Passage
 
 You gain the following features when HQ's docks are discovered.
 
@@ -2178,7 +2154,7 @@ If your ship is adjacent to a world map tile that does not share terrain with HQ
 
 Your ship returns to dock when you return to HQ.
 
-## Streetwise
+### Streetwise
 
 If you are the group token controller and you move through 1 or more squares with the city, dungeon, or road terrains, you gain:
 - +1 Speed
@@ -2187,23 +2163,65 @@ If you are the group token controller and you move through 1 or more squares wit
 - Your pet critter allows you to remove one additional obscuring map tile up to 2 squares away.
 - Your party is never surprised when the group token is on a square with the building, city, dungeon, or road terrain.
 
-## Subtlety (Toggle)
+### Subtlety (Toggle)
 
 You gain the rogue's Subtlety class feature.
 
-## Thieves’ Cant
+### Thieves’ Cant
 
 Your exposure to a criminal element has taught you thieves’ cant, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. Only another creature that knows thieves’ cant understands such messages. It takes four times longer to convey such a message than it does to speak the same idea plainly.
 
 In addition, you understand a set of secret signs and symbols used to convey short, simple messages, such as whether an area is dangerous or the territory of a thieves’ guild, whether loot is nearby, or whether the people in an area are easy marks or will provide a safe house for thieves on the run.
 
-## Thieves' Tools (Action, Turn)
+### Wanderer
+
+While you are the group token controller, you reveal obscuring tiles up to 2 squares away, provided you start your turn on natural terrain. You automatically detect and disarm any natural traps while moving the group token through natural terrain. You may set a natural trap during your round. You can only have 1 trap set this way. When you use this feature to set a new trap, any previously set traps are removed.
+
+## Fighting Style Perks
+
+### Archery
+
+You gain a +1 bonus to attack rolls you make with ranged weapons.
+
+### Armored
+
+While you are wearing armor, you gain a +1 bonus to Defense.
+
+### Blind Fighting
+
+You gain blindsight 2 whenever your vision is obscured.
+
+### Great Weapon Fighting
+
+Whenever you attack and miss with a melee weapon you are wielding with two hands, you may reroll the attack once and must use the new roll. The weapon must have the two-handed property for you to gain this benefit.
+
+### Protection (Reaction)
+
+When a creature you can see attacks a target other than you that is within 1 square of you, you can discard your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
+
+## Gathering
+
+### Herbalism Kit
+
+You gain trade goods (herbs) when you gather. You have an herbalism bag that holds up to 4 trade goods (herbs) without counting against your equipment slots. When you complete a rest or a round of downtime, you may discard 2 trade goods (herbs) to gain a healing potion.
+
+## Prospecting
+
+You gain trade goods (ore) or trade goods (stone) when you gather. You have a prospecting bag that holds any combination of up to 4 trade goods (ore) or trade goods (stone) without counting against your equipment slots. At the end of a downtime round, you can discard two trade goods (ore) to gain one trade goods (metal bar) or discard two trade goods (stone) to gain one trade goods (gems).
+
+## Tools
+
+### Thieves' Tools (Action, Turn)
 
 You can make a DEX check to disarm a trap, pick a lock, or otherwise open a secured and locked object within reach. If you attempt to disarm a trap and roll a critical failure, it triggers the trap.
 
-## Wanderer
+## Trinkets
 
-While you are the group token controller, you reveal obscuring tiles up to 2 squares away, provided you start your turn on natural terrain. You automatically detect and disarm any natural traps while moving the group token through natural terrain. You may set a natural trap during your round. You can only have 1 trap set this way. When you use this feature to set a new trap, any previously set traps are removed.
+Trinkets are small items with unusual properties found throughout the game world. They are mostly interesting items that do not provide game features or concrete benefits. They add flavor to your character. Each trinket has one upgrade slot.
+
+### Curious Bauble
+
+A clear crystal sphere about the size of a marble, with a smooth, glossy surface. Embedded within the transparent exterior is a mesmerizing swirl of mist that shifts and flows like a living cloud. Tiny flecks of silver occasionally sparkle within the mist.
 
 # Equipment
 
