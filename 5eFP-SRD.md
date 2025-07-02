@@ -2217,7 +2217,7 @@ You can make a DEX check to disarm a trap, pick a lock, or otherwise open a secu
 
 ## Trinkets
 
-Trinkets are small items with unusual properties found throughout the game world. They are mostly interesting items that do not provide game features or concrete benefits. They add flavor to your character. Each trinket has one upgrade slot.
+Trinkets are small items with unusual properties found throughout the game world. They begin as mere curios without game features. They can add flavor to your character and give you story ideas. Additionally, each trinket has one upgrade slot, which you can use to add game features to your trinket (more details TBA).
 
 ### Curious Bauble
 
