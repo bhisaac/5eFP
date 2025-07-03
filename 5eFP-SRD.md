@@ -3833,7 +3833,7 @@ Every spell has a level from 0 to 7. A spell’s level is a general indicator of
 
 Spell level and character level correspond directly. To cast a spell, your level must equal or exceed the spell's level. For example, a character must be at least 2nd-level to cast a 2nd-­level spell, and the most powerful spells, 7th-level, become available during character level 7.
 
-Spellcasters gain access to paragon spells at level 6 and epic spells at level 7 through the paragon spell and epic spell upgrades, respectively. These spells are potent magical effects that can only be cast once per game session.
+Spellcasters gain access to paragon spells at level 6 and epic spells at level 7 through the Paragon Spell and Epic Spell upgrades, respectively. The ability to use the Cast a Spell action to cast a paragon or epic spell goes into cooldown the moment you cast a paragon or epic spell.
 
 ### Known and Prepared Spells
 
