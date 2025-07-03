@@ -3845,7 +3845,7 @@ Regardless of how many spells casters know, they can cast only a limited number 
 
 When characters cast a spell, they expend an amount of mana equal to that spell’s level. Alternatively, if a spell description allows it, they can spend additional mana to augment the spell's effects, provided the total mana spent does not exceed LEVEL.
 
-Your Mana feature is followed by a number, representing the amount of Mana you receive at the beginning of a game session. Some class and game features replenish mana during a game session.
+Some class and game features replenish mana during a game session.
 
 Some characters and monsters have special abilities that let them cast spells without using mana. For example, a warlock who chooses certain eldritch invocations and a pit fiend from the Nine Hells can all cast spells in such a way. Spells cast this way cannot be augmented with additional mana.
 
