@@ -2161,7 +2161,7 @@ As part of completing a rest, you may switch to a secondary identity that includ
 
 ### Guild Merchant
 
-You begin a game session with a merchant's bag capable of storing up to 5 trade goods without them counting against the number of equipment slots you have. You do not have access to the contents of the merchant's bag during an encounter.
+You begin a game session with a merchant's bag with 5 slots. Anything stored in this bag does not count against the number of equipment slots you have. You do not have access to the contents of the merchant's bag during an encounter.
 
 ### Military Rank
 
@@ -2220,7 +2220,7 @@ In addition, you understand a set of secret signs and symbols used to convey sho
 
 ### Wanderer
 
-While you are the group token controller, you reveal obscuring tiles up to 2 squares away, provided you start your turn on natural terrain. You automatically detect and disarm any natural traps while moving the group token through natural terrain. You may set a natural trap during your round. You can only have 1 trap set this way. When you use this feature to set a new trap, any previously set traps are removed.
+While you are the group token controller, you reveal obscuring tiles up to 2 squares away, provided you start your turn on natural terrain. You automatically detect and disarm any natural traps while moving the group token through natural terrain. You may set a natural trap during your round. You can only have 1 trap set this way. When you use this feature to set a new trap, any previously set traps are removed. You may spend trade goods as ⛁ while on world map tiles three or more squares away from HQ.
 
 ## Fighting Style Perks
 
