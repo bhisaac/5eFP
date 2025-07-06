@@ -2085,7 +2085,9 @@ When you use your dedication to activate Survival, choose one of the following:
 
 Perks are game features that provide discrete benefits that further customize your character's build, which can be found in treasure chests or are sometimes available for purchase at HQ's Market or another building at HQ. Perks are further divided into the following categories: trinkets, tools, features, fighting styles, gathering, and crafting.
 
-## Crafting
+## Crafting and Gathering
+
+_(The gathering/crafting system is in development.)_
 
 ### Blacksmith
 
@@ -2096,9 +2098,52 @@ During a round of downtime, you may discard 2 trade goods (ore) or a metal weapo
 - Discard trade goods (wood) to create a handaxe, arrows, or bolts.
 - Create a multi-use weapon chassis. To use a multi-use weapon chassis, you must bind it to a specific multi-use weapon. The next time the weapon would deplete, you can choose to prevent it by discarding its chassis.
 
+### Glassblower
+
+During a round of downtime, you may discard 2 trade goods (sand) to gain trade goods (glass).
+
+### Herbalism Kit
+
+You gain trade goods (herbs) when you gather. You have a gatherer's bag that holds up to 4 trade goods, which do not count against your equipment slots. When you complete a rest or a round of downtime, you may discard 2 trade goods (herbs) to gain a healing potion.
+
+### Hunter
+
+You gain trade goods (meat) when you gather. You have a gatherer's bag that holds up to 4 trade goods, which do not count against your equipment slots.
+
+### Lumberjack
+
+You gain trade goods (wood) when you gather on forest, grassland, mountain, or swamp terrain. You have a gatherer's bag that holds up to 4 trade goods, which do not count against your equipment slots.
+
+### Mason
+
+During a round of downtime, you may discard trade goods (stone) to gain trade goods (gravel) or discard 2 trade goods (sand) to gain trade goods (mortar and plaster).
+
 ### Master Craft
 
 Whenever you spend a downtime round crafting an item, you benefit from completing the downtime round twice. You may spend trade goods as if they were ⛁.
+
+### Potter
+
+You gain trade goods (clay) when you gather on coast terrain or natural terrain with a water or volcano feature. You have a gatherer's bag that holds up to 4 trade goods, which do not count against your equipment slots. During a round of downtime, you can discard a trade goods (clay) to get trade goods (pottery).
+
+### Prospecting
+
+You gain trade goods (ore) or trade goods (stone) when you gather. You have a gatherer's bag that holds up to 4 trade goods, which do not count against your equipment slots. At the end of a downtime round, you can discard two trade goods (ore) to gain one trade goods (metal bar) or discard two trade goods (stone) to gain one trade goods (gems).
+
+### Sandar
+
+You gain trade goods (sand) when you gather on ocean terrain or terrain with a water feature. You have a gatherer's bag that holds up to 4 trade goods, which do not count against your equipment slots.
+
+### Skinner
+
+You gain trade goods (skins) when you complete a combat encounter with beasts or whenever you gather trade goods (meat). You have a gatherer's bag that holds up to 4 trade goods, which do not count against your equipment slots. During a round of downtime, you may discard trade goods (skins) to get trade goods (leather).
+
+### Tailor
+
+You gain trade goods (cloth) when you complete a combat encounter with humanoids or whenever you spend a round of downtime at a farm. You have a gatherer's bag that holds up to 4 trade goods, which do not count against your equipment slots. During a round of downtime, you can do any of the following activities.
+
+- Discard 2 trade goods (cloth) to gain trade goods (bolt)
+- Improve 1 bag's storage capacity, replacing its bag slots with a number of slots equal to its base amount + 1.
 
 ## Feature
 
@@ -2110,13 +2155,13 @@ You are a well-received performer, gaining ⛁ and spending it on rest and repai
 
 Whenever you discover anything, you add one additional choice before making a decision.
 
-### False Identity
+### Alias
 
 As part of completing a rest, you may switch to a secondary identity that includes documentation, established acquaintances, and disguises that allow you to assume that persona. While disguised, any ability checks made while keeping up your ruse gain advantage.
 
 ### Guild Merchant
 
-You begin a game session with a special guild merchant's bag capable of storing up to 5 trade goods without them counting against the number of equipment slots you have. You do not have access to the contents of the guild merchant's bag during an encounter.
+You begin a game session with a merchant's bag capable of storing up to 5 trade goods without them counting against the number of equipment slots you have. You do not have access to the contents of the merchant's bag during an encounter.
 
 ### Military Rank
 
@@ -2124,7 +2169,7 @@ You have a military rank from your career as a soldier. Soldiers loyal to your f
 
 ### Position of Privilege
 
-You are treated as nobility, even if you are not of noble birth. People are inclined to think the best of you. You are welcome in high society, and people assume you have the right to be wherever you are. The common folk make every effort to accommodate you and avoid your displeasure, and other people of high birth treat you as a member of the same social sphere. You can secure an audience with a local noble if necessary.
+You are treated as nobility, whether or not you are of noble birth. People are inclined to think the best of you. You are welcome in high society, and people assume you have the right to be wherever you are. The common folk make every effort to accommodate you and avoid your displeasure, and other people of high birth treat you as a member of the same social sphere. You can secure an audience with a local noble if necessary. Additionally, when you spend a round of downtime at a palace or noble's manor, you gain ⛁, spending it on rest and repairs.
 
 ### Researcher
 
@@ -2198,16 +2243,6 @@ Whenever you attack and miss with a melee weapon you are wielding with two hands
 ### Protection (Reaction)
 
 When a creature you can see attacks a target other than you that is within 1 square of you, you can discard your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
-
-## Gathering
-
-### Herbalism Kit
-
-You gain trade goods (herbs) when you gather. You have an herbalism bag that holds up to 4 trade goods (herbs) without counting against your equipment slots. When you complete a rest or a round of downtime, you may discard 2 trade goods (herbs) to gain a healing potion.
-
-## Prospecting
-
-You gain trade goods (ore) or trade goods (stone) when you gather. You have a prospecting bag that holds any combination of up to 4 trade goods (ore) or trade goods (stone) without counting against your equipment slots. At the end of a downtime round, you can discard two trade goods (ore) to gain one trade goods (metal bar) or discard two trade goods (stone) to gain one trade goods (gems).
 
 ## Tools
 
