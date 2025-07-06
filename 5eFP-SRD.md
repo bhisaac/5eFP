@@ -2147,9 +2147,53 @@ You gain trade goods (cloth) when you complete a combat encounter with humanoids
 
 ## Feature
 
+### Sight + 1
+
+Your sight radius increases by + 1.
+
+### Speed + 1
+
+Your speed increases by + 1.
+
+### Explorer + 1
+
+After removing an obscuring map tile, remove an additional obscuring map tile up to 2 squares away.
+
+### Nature Step + 1
+
+If you start your turn on natural terrain, your speed increases by + 1.
+
+### Forest Stride
+
+You do not consider forest terrain difficult terrain.
+
+### City Stride
+
+If you start your turn on a road or city terrain, you treat buildings and obstacles as difficult terrain. You cannot end your turn on an obstacle. If you end your turn on a building, you are either on its rooftop or in its basement, your choice.
+
+### Dimensional Stride (Cooldown)
+
+At the start of your turn as the group token controller, you remove the party token from the map and then place it back onto the map onto an obscuring map tile of your choice.
+
+### Stealthy Moves
+
+If your group makes a group DEX (stealth) check, no individual result can be less than your result. If a result is less than your result, it changes to match yours.
+
+### Forest Lookout
+
+If you end your turn on forest terrain, your sight radius increases by + 2 until the beginning of your next turn.
+
+### Treasure Lookout (Cooldown 2)
+
+At the start of your turn as the group token controller, you place a treasure encounter up to 2 squares away.
+
 ### By Popular Demand
 
 You are a well-received performer, gaining ⛁ and spending it on rest and repairs if you spend a downtime round at a circus, inn, marketplace, noble's court, tavern, or theater.
+
+### Traps (Rest 2)
+
+Remove all previously set traps to place a trap on your square. The trap becomes set once you move 1 or more squares away. Traps, when sprung, reduce a monster's movement to 0 and are then discarded.
 
 ### Discovery
 
