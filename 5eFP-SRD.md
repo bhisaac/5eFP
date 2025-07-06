@@ -2083,11 +2083,9 @@ When you use your dedication to activate Survival, choose one of the following:
 
 # Perks
 
-Perks are game features that provide discrete benefits that further customize your character's build, which can be found in treasure chests or are sometimes available for purchase at HQ's Market or another building at HQ. Perks are further divided into the following categories: trinkets, tools, features, fighting styles, gathering, and crafting.
+Perks are game features that provide discrete benefits that further customize your character's build, which can be found in treasure chests or are sometimes available for purchase at HQ's Market or another building at HQ. Perks are further divided into the following categories: crafting and gathering, features, fighting styles, trinkets, and tools.
 
 ## Crafting and Gathering
-
-_(The gathering/crafting system is in development.)_
 
 ### Blacksmith
 
@@ -2147,25 +2145,13 @@ You gain trade goods (cloth) when you complete a combat encounter with humanoids
 
 ## Feature
 
-### Sight + 1
+### Alias
 
-Your sight radius increases by + 1.
+As part of completing a rest, you may switch to a secondary identity that includes documentation, established acquaintances, and disguises that allow you to assume that persona. While disguised, any ability checks made while keeping up your ruse gain advantage.
 
-### Speed + 1
+### By Popular Demand
 
-Your speed increases by + 1.
-
-### Explorer + 1
-
-After removing an obscuring map tile, remove an additional obscuring map tile up to 2 squares away.
-
-### Nature Step + 1
-
-If you start your turn on natural terrain, your speed increases by + 1.
-
-### Forest Stride
-
-You do not consider forest terrain difficult terrain.
+You are a well-received performer, gaining ⛁ and spending it on rest and repairs if you spend a downtime round at a circus, inn, marketplace, noble's court, tavern, or theater.
 
 ### City Stride
 
@@ -2175,33 +2161,21 @@ If you start your turn on a road or city terrain, you treat buildings and obstac
 
 At the start of your turn as the group token controller, you remove the party token from the map and then place it back onto the map onto an obscuring map tile of your choice.
 
-### Stealthy Moves
+### Discovery
 
-If your group makes a group DEX (stealth) check, no individual result can be less than your result. If a result is less than your result, it changes to match yours.
+Whenever you discover anything, you add one additional choice before making a decision.
+
+### Explorer + 1
+
+After removing an obscuring map tile, remove an additional obscuring map tile up to 2 squares away.
 
 ### Forest Lookout
 
 If you end your turn on forest terrain, your sight radius increases by + 2 until the beginning of your next turn.
 
-### Treasure Lookout (Cooldown 2)
+### Forest Stride
 
-At the start of your turn as the group token controller, you place a treasure encounter up to 2 squares away.
-
-### By Popular Demand
-
-You are a well-received performer, gaining ⛁ and spending it on rest and repairs if you spend a downtime round at a circus, inn, marketplace, noble's court, tavern, or theater.
-
-### Traps (Rest 2)
-
-Remove all previously set traps to place a trap on your square. The trap becomes set once you move 1 or more squares away. Traps, when sprung, reduce a monster's movement to 0 and are then discarded.
-
-### Discovery
-
-Whenever you discover anything, you add one additional choice before making a decision.
-
-### Alias
-
-As part of completing a rest, you may switch to a secondary identity that includes documentation, established acquaintances, and disguises that allow you to assume that persona. While disguised, any ability checks made while keeping up your ruse gain advantage.
+You do not consider forest terrain difficult terrain.
 
 ### Guild Merchant
 
@@ -2210,6 +2184,10 @@ You begin a game session with a merchant's bag with 5 slots. Anything stored in 
 ### Military Rank
 
 You have a military rank from your career as a soldier. Soldiers loyal to your former military organization still recognize your authority and influence, and they defer to you if they are of a lower rank. Before deploying onto the world map, you gain a soldier minion under your command who Deploys and Recalls to HQ alongside you. The soldier minion follows your commands to the best of its ability and allows you to remove 1 additional obscuring tile up to 2 squares away if you are the group token controller. If the soldier minion dies while deployed, remove it from the playing field. If your soldier minion Recalls with you, you gain ⛁.
+
+### Nature Step + 1
+
+If you start your turn on natural terrain, your speed increases by + 1.
 
 ### Position of Privilege
 
@@ -2243,6 +2221,18 @@ If your ship is adjacent to a world map tile that does not share terrain with HQ
 
 Your ship returns to dock when you return to HQ.
 
+### Sight + 1
+
+Your sight radius increases by + 1.
+
+### Speed + 1
+
+Your speed increases by + 1.
+
+### Stealthy Moves
+
+If your group makes a group DEX (stealth) check, no individual result can be less than your result. If a result is less than your result, it changes to match yours.
+
 ### Streetwise
 
 If you are the group token controller and you move through 1 or more squares with the city, dungeon, or road terrains, you gain:
@@ -2261,6 +2251,14 @@ You gain the rogue's Subtlety class feature.
 Your exposure to a criminal element has taught you thieves’ cant, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. Only another creature that knows thieves’ cant understands such messages. It takes four times longer to convey such a message than it does to speak the same idea plainly.
 
 In addition, you understand a set of secret signs and symbols used to convey short, simple messages, such as whether an area is dangerous or the territory of a thieves’ guild, whether loot is nearby, or whether the people in an area are easy marks or will provide a safe house for thieves on the run.
+
+### Traps (Rest 2)
+
+Remove all previously set traps to place a trap on your square. The trap becomes set once you move 1 or more squares away. Traps, when sprung, reduce a monster's movement to 0 and are then discarded.
+
+### Treasure Scout (Cooldown 2)
+
+At the start of your turn as the group token controller, you place a treasure encounter up to 2 squares away.
 
 ### Wanderer
 
