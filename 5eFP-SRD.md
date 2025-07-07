@@ -2100,10 +2100,6 @@ During a round of downtime, you may discard 2 trade goods (ore) or a metal weapo
 
 During a round of downtime, you may discard 2 trade goods (sand) to gain trade goods (glass).
 
-### Herbalism Kit
-
-You gain trade goods (herbs) when you gather. You have a gatherer's bag that holds up to 4 trade goods, which do not count against your equipment slots. When you complete a rest or a round of downtime, you may discard 2 trade goods (herbs) to gain a healing potion.
-
 ### Hunter
 
 You gain trade goods (meat) when you gather. You have a gatherer's bag that holds up to 4 trade goods, which do not count against your equipment slots.
@@ -2287,6 +2283,23 @@ Whenever you attack and miss with a melee weapon you are wielding with two hands
 When a creature you can see attacks a target other than you that is within 1 square of you, you can discard your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
 
 ## Tools
+
+### Alchemist Supplies
+
+During a round of downtime, discard 2 identical trade goods or pay ⛁ to gain one of the following items.
+
+- Acid (vial)
+- Alchemist’s Fire (flask)
+- Antitoxin (vial)
+- Oil (flask)
+- Perfume (vial)
+- Soap
+
+When you make an INT check to search for clues, a successful check identifies potions, substances, chemicals, and residues. You can discard your action to make an INT check. A success allows you to create a puff of thick smoke, start a fire, or neutralize an acid.
+
+### Herbalism Kit
+
+You gain trade goods (herbs) when you gather. You have a gatherer's bag that holds up to 4 trade goods, which do not count against your equipment slots. When you complete a rest or a round of downtime, you may discard 2 trade goods (herbs) to gain a healing potion.
 
 ### Thieves' Tools (Action, Turn)
 
