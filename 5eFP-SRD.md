@@ -2098,7 +2098,7 @@ During a round of downtime, you may discard 2 trade goods (ore) or a metal weapo
 
 ### Glassblower
 
-During a round of downtime, you may discard 2 trade goods (sand) to gain trade goods (glass).
+During a round of downtime, you may discard 2 trade goods (sand) to gain trade goods (glass). You have a gatherer's bag that holds up to 4 trade goods, which do not count against your equipment slots.
 
 ### Hunter
 
@@ -2108,9 +2108,9 @@ You gain trade goods (meat) when you gather. You have a gatherer's bag that hold
 
 You gain trade goods (wood) when you gather on forest, grassland, mountain, or swamp terrain. You have a gatherer's bag that holds up to 4 trade goods, which do not count against your equipment slots.
 
-### Mason
+### Mason (Action)
 
-During a round of downtime, you may discard trade goods (stone) to gain trade goods (gravel) or discard 2 trade goods (sand) to gain trade goods (mortar and plaster).
+You make an INT check to identify the strengths and weaknesses of a structure composed primarily of stone with advantage. A successful check also reveals secret doors and facades set in the stone, though it doesn't necessarily reveal how to open a revealed secret door.
 
 ### Master Craft
 
@@ -2118,7 +2118,7 @@ Whenever you spend a downtime round crafting an item, you benefit from completin
 
 ### Potter
 
-You gain trade goods (clay) when you gather on coast terrain or natural terrain with a water or volcano feature. You have a gatherer's bag that holds up to 4 trade goods, which do not count against your equipment slots. During a round of downtime, you can discard a trade goods (clay) to get trade goods (pottery).
+You gain trade goods (clay) when you gather on coast terrain or natural terrain with a water or volcano feature. You have a gatherer's bag that holds up to 4 trade goods, which do not count against your equipment slots. During a round of downtime, you can discard 2 trade goods (clay) to get trade goods (pottery).
 
 ### Prospecting
 
@@ -2130,13 +2130,13 @@ You gain trade goods (sand) when you gather on ocean terrain or terrain with a w
 
 ### Skinner
 
-You gain trade goods (skins) when you complete a combat encounter with beasts or whenever you gather trade goods (meat). You have a gatherer's bag that holds up to 4 trade goods, which do not count against your equipment slots. During a round of downtime, you may discard trade goods (skins) to get trade goods (leather).
+You gain trade goods (skins) when you complete a combat encounter with beasts or whenever you gather trade goods (meat). You have a gatherer's bag that holds up to 4 trade goods, which do not count against your equipment slots. During a round of downtime, you may discard 2 trade goods (skins) to get trade goods (leather).
 
 ### Tailor
 
 You gain trade goods (cloth) when you complete a combat encounter with humanoids or whenever you spend a round of downtime at a farm. You have a gatherer's bag that holds up to 4 trade goods, which do not count against your equipment slots. During a round of downtime, you can do any of the following activities.
 
-- Discard 2 trade goods (cloth) to gain trade goods (bolt)
+- Discard 2 trade goods (cloth) to gain trade goods (cloth bolt)
 - Improve 1 bag's storage capacity, replacing its bag slots with a number of slots equal to its base amount + 1.
 
 ## Feature
