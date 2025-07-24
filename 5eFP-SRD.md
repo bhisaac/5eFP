@@ -214,14 +214,6 @@ Your dwarf character has an assortment of inborn abilities, part and parcel of d
 
 **Stonecunning.** You roll all ability checks used to determine the origin of stonework with advantage.
 
-### Hill Dwarf
-
-As a hill dwarf, you have keen senses, deep intuition, and remarkable resilience.
-
-**Favored Ability.** Wisdom (WIS)
-
-**Dwarven Toughness**. Your MAX wounds increase by +1.
-
 ### Highlander Dwarf
 
 As a highlander dwarf, you are accustomed to rugged living at high altitudes and within mountain dwellings.
@@ -229,6 +221,14 @@ As a highlander dwarf, you are accustomed to rugged living at high altitudes and
 **Favored Ability.** Strength (STR)
 
 **Dwarven Armor Training.** You gain light and medium armor proficiency.
+
+### Hill Dwarf
+
+As a hill dwarf, you have keen senses, deep intuition, and remarkable resilience.
+
+**Favored Ability.** Wisdom (WIS)
+
+**Dwarven Toughness**. Your MAX wounds increase by +1.
 
 ## Elf
 
