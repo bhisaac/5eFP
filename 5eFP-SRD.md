@@ -321,6 +321,8 @@ It’s hard to make generalizations about humans, but your human character has t
 
 **Feat.** Choose and gain one feat.
 
+**Perk.** Discover a perk.
+
 **Age.** Humans reach adulthood in their late teens and live less than a century.
 
 **Alignment.** Humans tend toward no particular alignment. The best and the worst are found among them.
