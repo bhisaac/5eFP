@@ -264,7 +264,7 @@ As a wood elf, you have deep awareness and intuition, and your attunement to nat
 
 **Favored Ability.** Wisdom (WIS)
 
-**_Nature's Stride_.** You gain the following game features when you begin your turn on natural terrain (arctic, coast, desert, forest, grassland, mountain, or swamp).
+**_Nature's Stride_ (Turn).** You gain the following game features when you begin your turn on natural terrain (arctic, coast, desert, forest, grassland, mountain, or swamp).
 
 - Increase your speed by +1 square.
 - Gain advantage on DEX checks.
