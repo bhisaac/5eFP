@@ -1077,7 +1077,7 @@ This feature has no effect on undead and constructs.
 
 ### Path of Tranquility (Action, Recall, Rest, Ki)
 
-You take the Cast a Spell action, innately casting _sanctuary_ on yourself with a duration of Recall. During an encounter, if a creature succeeds on its WIS check, it is temporarily immune to this effect for the rest of the encounter.
+You take the Cast a Spell action, innately casting _sanctuary_ on yourself with a duration of Recall. During an encounter, if a creature succeeds on its WIS check, it is temporarily immune to this effect until the end of the encounter.
 
 ## Unarmored Movement
 
