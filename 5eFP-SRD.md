@@ -2391,7 +2391,7 @@ Medium armor offers more protection than light armor, but impairs movement more.
 
 ### Heavy Armor
 
-Heavy armor decreases damage taken by LEVEL, but hinders movement, reducing your speed by 2 squares unless your STR is +2 or higher. Additionally, the wearer has disadvantage on DEX checks related to moving silently.
+Heavy armor decreases damage taken by LEVEL, but hinders movement, reducing your speed by 2 squares unless your STR is +2 or higher. Additionally, the wearer has disadvantage on DEX checks related to moving silently. You do not add DEX to your Defense while wearing heavy armor.
 
 ***Plate.*** Plate consists of shaped, interlocking metal plates to cover the entire body. A suit of plate includes gauntlets, heavy leather boots, a visored helmet, and thick layers of padding underneath the armor. Buckles and straps distribute the weight over the body.
 
