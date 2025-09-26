@@ -260,10 +260,10 @@ As a wealden elf, you have deep awareness and intuition, and your attunement to 
 
 **Favored Ability.** Wisdom (WIS)
 
-**_Nature's Stride_ (Turn).** You gain the following game features when you begin your turn on natural terrain (arctic, coast, desert, forest, grassland, mountain, or swamp).
+**_Nature's Stride_ (Encounter).** You gain the following game features whenever you begin your turn on natural terrain (arctic, coast, desert, forest, grassland, mountain, or swamp).
 
 - Increase your speed by +1 square
-- Increase your bonus on DEX twice
+- Increase your DEX bonus twice
 
 ## Halfling
 
