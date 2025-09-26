@@ -2832,7 +2832,7 @@ When making ability checks, if you roll a 1 on the d20, you ignore the DC and co
 
 ### Ability Check Bonus
 
-Each ability has its own bonus, which begins a game session with *+0* or no bonus and is then further modified by game features. Ability check bonuses may increase or decrease during gameplay. Bonuses are incremental. If you do not have a bonus, you gain a *+1* bonus. If you gain another bonus while you already have a +1 bonus, your bonus changes to advantage. If you gain a bonus while you have advantage, your bonus becomes advantage +1. Any further bonuses add 1 action die to the roll. If you have a *+0* bonus and lose a bonus, your bonus changes to *-1*. If you have a *-1* bonus and lose a bonus, you gain disadvantage. If you lose a bonus while you have disadvantage, your bonus changes to *disadvantage -1*. Any further bonus loss subtracts 1 action die from the roll.
+Each ability has its own bonus, which begins a game session with *+0* or no bonus and is then further modified by game features. Ability check bonuses may increase or decrease during gameplay. Bonuses are incremental. If you do not have a bonus, you gain a *+1* bonus. If you gain another bonus while you already have a *+1* bonus, your bonus changes to *advantage*. If you gain a bonus while you have *advantage*, your bonus becomes *advantage +1*. Any further bonuses add 1 action die to the roll. If you have a *+0* bonus and lose a bonus, your bonus changes to *-1*. If you have a *-1* bonus and lose another bonus, you gain *disadvantage*. If you lose a bonus while you have *disadvantage*, your bonus changes to *disadvantage -1*. Any further bonus loss subtracts 1 action die from the roll.
 
 ### Contests
 
