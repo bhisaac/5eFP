@@ -2782,13 +2782,13 @@ Six abilities provide a quick description of every creature’s physical and men
 
 Is a character muscle-­bound and insightful? Brilliant and charming? Nimble and hardy? Ability scores define these qualities—a creature’s assets as well as weaknesses.
 
-The two main rolls of the game—the ability check and the attack roll—rely on the six ability scores. The book’s introduction describes the basic rule behind these rolls: roll a d20, add an ability modifier derived from one of the six ability scores, and compare the total to a target number.
+The two main rolls of the game—the ability check and the attack roll—rely on the six ability scores. The book’s introduction describes the basic rule behind these rolls: roll a d20, add an ability score bonus derived using one of the six ability scores, and compare the total to a target number.
 
 ## Ability Scores and Modifiers
 
 Each of a creature’s abilities has a score, a number that defines the magnitude of that ability. An ability score is not just a measure of innate capabilities but also encompasses a creature’s training and competence in activities related to that ability.
 
-A score of +0 is the normal human average, but adventurers and many monsters are a cut above average in most abilities. A score of +4 is the highest that a person usually reaches. Adventurers can have scores as high as +5, and monsters and divine beings can have scores as high as +10.
+A score of +0 is the normal human average, but adventurers and many monsters are a cut above average in most abilities. A score of +4 is the highest that a person usually reaches. Adventurers can have scores as high as +5, and powerful creatures can have scores as high as +10.
 
 ## Advantage and Disadvantage
 
@@ -2800,7 +2800,7 @@ If circumstances cause a roll to have both advantage and disadvantage, you are c
 
 When you have advantage or disadvantage and something in the game, such as the halfling’s Lucky trait, lets you reroll the d20, you can reroll only one of the dice. You choose which one. For example, if a halfling has advantage or disadvantage on an ability check and rolls a 1 and a 13, the halfling could use the Lucky trait to reroll the 1.
 
-You usually gain advantage or disadvantage through the use of special abilities, actions, or spells. Inspiration can also give a character advantage. The GM can also decide that circumstances influence a roll in one direction or the other and grant advantage or impose disadvantage as a result.
+You usually gain advantage or disadvantage through the use of special abilities, actions, spells, and certain game features. Inspiration can also give a character advantage. The GM can also decide that circumstances influence a roll in one direction or the other and grant advantage or impose disadvantage as a result.
 
 ## Proficiency Bonus
 
@@ -2812,7 +2812,7 @@ Occasionally, your proficiency bonus might be added one additional time (to a ma
 
 By the same token, if a feature or effect allows you to add an additional proficiency bonus when making an ability check that wouldn’t normally benefit from your proficiency bonus, you still don’t add the bonus to the check. For that check, you do not have a proficiency bonus. Only ability checks you are proficient with gain an additional proficiency bonus. For instance, if you lack proficiency with CON, you gain no benefit from a feature that lets you add an additional proficiency bonus when you make CON ability checks.
 
-In general, you don’t add an additional proficiency bonus for attack rolls or ability checks. If a feature or effect allows you to do so, these same rules apply.
+In general, you don’t add an additional proficiency bonus for attack rolls or death saves. If a game feature or effect allows you to do so, these same rules apply.
 
 ## Ability Checks
 
@@ -2836,17 +2836,17 @@ When making ability checks, if you roll a 1 on the d20, you ignore the DC and co
 
 ### Contests
 
-Sometimes one character’s or monster’s efforts are directly opposed to another’s. This can occur when both of them are trying to do the same thing and only one can succeed, such as attempting to snatch up a magic ring that has fallen on the floor. This situation also applies when one of them is trying to prevent the other one from accomplishing a goal—for example, when a monster tries to force open a door that an adventurer is holding closed. In situations like these, the outcome is determined by a special form of ability check, called a contest.
+Sometimes one character’s or creature’s efforts are directly opposed to another’s. This can occur when both of them are trying to do the same thing and only one can succeed, such as attempting to snatch up a magic ring that has fallen on the floor. This situation also applies when one of them is trying to prevent the other one from accomplishing a goal—for example, when a creature tries to force open a door that another creature is holding closed. In situations like these, the outcome is determined by a special form of ability check, called a contest.
 
-Both participants in a contest make ability checks appropriate to their efforts. They apply all appropriate bonuses and penalties, but instead of comparing the total to a DC, they compare the totals of their two checks. The participant with the higher check total wins the contest. That character or monster either succeeds at the action or prevents the other one from succeeding.
+Both participants in a contest make ability checks appropriate to their efforts. They apply all appropriate bonuses and penalties, but instead of comparing the total to a DC, they compare the totals of their two checks. The participant with the higher check total wins the contest. That character or creature either succeeds at the action or prevents the other one from succeeding.
 
-If the contest results in a tie, the situation remains the same as it was before the contest. Thus, one contestant might win the contest by default. If two characters tie in a contest to snatch a ring off the floor, neither character grabs it. In a contest between a monster trying to open a door and an adventurer trying to keep the door closed, a tie means that the door remains shut.
+If the contest results in a tie, the situation remains the same as it was before the contest. Thus, one contestant might win the contest by default. If two characters tie in a contest to snatch a ring off the floor, neither character grabs it. In a contest between a creature trying to open a door and another creature trying to keep the door closed, a tie means that the door remains shut.
 
 ### Passive Checks
 
-A passive check is a special kind of ability check that doesn’t involve any die rolls. Such a check can represent the average result for a task done repeatedly, such as searching for secret doors over and over again, or can be used when the GM wants to secretly determine whether the characters succeed at something without rolling dice, such as noticing a hidden monster.
+A passive check is a special kind of ability check that doesn’t involve any die rolls. Such a check can represent the average result for a task done repeatedly, such as searching for secret doors over and over again, or can be used when the GM wants to secretly determine whether the characters succeed at something without rolling dice, such as noticing a hidden creature.
 
-Here’s how to determine a character’s total for a passive check:
+Here’s how to determine a character’s or creature's total for a passive check:
 
 10 + all modifiers that normally apply to the check
 
@@ -2925,7 +2925,7 @@ The GM might call for a DEX check when you try to accomplish tasks like the foll
 - Acrobatic stunts, including dives, rolls, somersaults, and flips
 - Legerdemain or manual trickery, such as planting something on someone else or concealing an object on your person
 - Lift a coin purse off another person or slip something into or out of another person’s pocket
-- Conceal yourself from others
+- Conceal yourself from others with stealth
 - Control a heavily laden cart on a steep descent
 - Steer a chariot around a tight turn
 - Pick a lock
@@ -2941,7 +2941,7 @@ If you chose DEX for your attack rolls at character creation, you add your DEX t
 
 ### Defense
 
-Defense can prevent attacks from hitting you and equals 10 + DEX. Upgrades and class features may further modify this number.
+Defense can prevent attacks from hitting you and equals 10 + DEX. Class features and certain game features may further modify this number.
 
 > Hiding
 >
@@ -2980,11 +2980,11 @@ If your CON modifier changes, calculate your new MAX Wounds total as though you 
 
 ### Intelligence (INT)
 
-Intelligence measures mental acuity, accuracy of recall, and the ability to reason.
+Intelligence measures mental acuity, accuracy of recall, the ability to reason, and initiative.
 
 #### INT Checks
 
-An INT check comes into play when you need to draw on logic, education, memory, or deductive reasoning.
+An INT check comes into play when you need to draw on training, thinking speed, logic, memory, or deductive reasoning.
 
 The GM might call for an Intelligence check when you try to accomplish tasks like the following:
 
@@ -2999,6 +2999,7 @@ The GM might call for an Intelligence check when you try to accomplish tasks lik
 - Forge a document
 - Recall lore about a craft or trade
 - Win a game of skill
+- Rolling initiative
 
 #### Initiative
 
@@ -3058,7 +3059,7 @@ Bards, paladins, sorcerers, and warlocks use CHA as their spellcasting ability, 
 
 ## Resisting Spells and Game Features
 
-Resisting a spell, a trap, a poison, a disease, or a similar threat requires a successful ability check. You don’t normally decide to make these ability checks; you are forced to make one because your character or monster is at risk of harm.
+Resisting a spell, a trap, a poison, a disease, or a similar threat requires a successful ability check. You don’t normally decide to make these ability checks; you are forced to make one because your character or a creature is at risk of harm.
 
 The DC for a game feature is determined by the effect that causes it. For example, the ability check DC for a spell is determined by the caster’s spell DC.
 
