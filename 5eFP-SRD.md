@@ -263,7 +263,7 @@ As a wealden elf, you have deep awareness and intuition, and your attunement to 
 **_Nature's Stride_ (Encounter).** You gain the following game features whenever you begin your turn on natural terrain (arctic, coast, desert, forest, grassland, mountain, or swamp).
 
 - Increase your speed by +1 square
-- Increase your DEX bonus twice
+- Increase your DEX modifier twice
 
 ## Halfling
 
@@ -2812,7 +2812,7 @@ In general, you don’t add an additional proficiency bonus for attack rolls or 
 
 ## Ability Checks
 
-An ability check tests a character’s or monster’s innate talent and training in an effort to overcome a challenge. The GM calls for an ability check when a character or monster attempts an action (other than an attack) that has a chance of failure. When the outcome is uncertain, the dice determine the results.
+An ability check tests a character’s or monster’s innate talent and training in an effort to overcome a challenge. The GM calls for an ability check when a character or monster attempts an action (other than an attack) that has a chance of failure. When the outcome is uncertain, the dice help determine the results.
 
 For every ability check, the GM decides the difficulty of the task, represented by a Difficulty Class (DC). The more difficult a task, the higher its DC. The Typical Difficulty Classes table shows the most common DCs.
 
@@ -2826,9 +2826,13 @@ For every ability check, the GM decides the difficulty of the task, represented 
 |Very hard|25|
 |Nearly impossible|30|
 
-To make an ability check, roll a d20 and add the relevant ability modifier. As with other d20 rolls, apply bonuses and penalties, and compare the total to the DC. If the total equals or exceeds the DC, the ability check is a success—the creature overcomes the challenge at hand. Otherwise, it’s a failure, which means the character or monster makes no progress toward the objective or makes progress combined with a setback determined by the GM.
+To make an ability check, roll a d20 and add the relevant ability score. As with other d20 rolls, apply bonuses and penalties, and compare the total to the DC. If the total equals or exceeds the DC, the ability check is a success—the creature overcomes the challenge at hand. Otherwise, it’s a failure, which means the character or creature makes no progress toward the objective or makes progress combined with a setback determined by the GM.
 
 When making ability checks, if you roll a 1 on the d20, you ignore the DC and consider the result an automatic failure. This is called a critical failure. If you roll a 20, you ignore the DC and consider the result an automatic success. This is called a critical success. Rolling a 20 on the d20 during an attack roll is a critical success, but is usually called a critical hit (see Making an Attack).
+
+### Ability Check Bonus
+
+Each ability has its own bonus, which begins a game session with *+0* or no bonus and is then further modified by game features. Ability check bonuses may increase or decrease during gameplay. Bonuses are incremental. If you do not have a bonus, you gain a *+1* bonus. If you gain another bonus while you already have a +1 bonus, your bonus changes to advantage. If you gain a bonus while you have advantage, your bonus becomes advantage +1. Any further bonuses add 1 action die to the roll. If you have a *+0* bonus and lose a bonus, your bonus changes to *-1*. If you have a *-1* bonus and lose a bonus, you gain disadvantage. If you lose a bonus while you have disadvantage, your bonus changes to *disadvantage -1*. Any further bonus loss subtracts 1 action die from the roll.
 
 ### Contests
 
