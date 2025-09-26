@@ -184,7 +184,7 @@ Characters of most species are Medium, a size category including creatures that 
 
 ### Speed
 
-Your speed determines how far you can move when traveling (“Adventuring”) and fighting (“Combat”). Unless your species has a speed section, your speed is 6 squares, representing the maximum number of squares you can move during your turn.
+Your speed determines how far you can move when traveling (“Adventuring”) and fighting (“Combat”). Your speed is 6 squares, representing the maximum number of squares you can move during your turn.
 
 ### Languages
 
@@ -207,8 +207,6 @@ Your dwarf character has an assortment of inborn abilities, part and parcel of d
 **Alignment.** Most dwarves are lawful, believing firmly in the benefits of a well-ordered society. They tend toward good as well, with a strong sense of fair play and a belief that everyone deserves to share in the benefits of a just order.
 
 **Size.** Dwarves stand between 4 and 5 feet tall and average about 150 pounds. Your size is Medium.
-
-**Speed.** 5 squares. You ignore speed reductions caused by your equipment.
 
 **Dwarven Resilience.** You have advantage on ability checks against poison, and you have resistance against poison damage.
 
@@ -244,8 +242,6 @@ Your elf character has a variety of natural abilities, a result of thousands of 
 
 **Size.** Elves range from under 5 to over 6 feet tall and have slender builds. Your size is Medium.
 
-**Speed.** Your base walking speed is 6 squares.
-
 **Keen Senses.** You gain advantage on WIS checks to spot, hear, or otherwise detect the presence of something.
 
 **Fey Ancestry.** You have advantage on ability checks against enchantment magic, and magic can’t put you to sleep. Additionally, during a downtime round, whenever you spend ⛁ on rest and repairs, you may spend any number of Coin on one bonus downtime activity of your choice. You must still satisfy any prerequisites the bonus downtime activity may have before spending the extra Coin.
@@ -258,16 +254,16 @@ As a high elf, you have strong ties to nature and magic. In many fantasy gaming 
 
 **Arcane Attunement.** You know one cantrip of your choice from the wizard spell list. INT is your spellcasting ability for it.
 
-### Wood Elf
+### Wealden Elf
 
-As a wood elf, you have deep awareness and intuition, and your attunement to nature carries you quickly and stealthily through natural terrain. Wood elves tend to be reclusive and distrustful of non-elves.
+As a wealden elf, you have deep awareness and intuition, and your attunement to nature carries you quickly and stealthily through natural terrain. Wealden elves tend to be reclusive and distrustful of creatures they haven't encountered before.
 
 **Favored Ability.** Wisdom (WIS)
 
 **_Nature's Stride_ (Turn).** You gain the following game features when you begin your turn on natural terrain (arctic, coast, desert, forest, grassland, mountain, or swamp).
 
-- Increase your speed by +1 square.
-- Gain advantage on DEX checks.
+- Increase your speed by +1 square
+- Increase your bonus on DEX twice
 
 ## Halfling
 
