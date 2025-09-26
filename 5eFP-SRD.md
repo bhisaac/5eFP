@@ -4454,7 +4454,9 @@ You touch a willing beast and perceive through its senses until the end of your 
 - **Components:** V, S
 - **Duration:** Encounter (Concentration)
 
-Up to three creatures of your choice that you can see within range must make CHA checks. Whenever a target that fails this check makes an attack roll or an ability check before the spell ends, the target rolls two action dice and subtracts the number from the result. This spell removes the effects of *bless.*
+Up to three creatures of your choice that you can see within range must make CHA checks. Creatures affected by this spell lose a bonus on attack rolls, ability checks, and death saves.
+
+This spell removes the effects of *bless.*
 
 **At Higher Levels.** When you cast this spell at a higher level, you can target one additional creature for each level above 1st.
 
@@ -4475,7 +4477,7 @@ Up to three creatures of your choice that you can see within range must make CHA
 - **Components:** V, S
 - **Duration:** Encounter (Concentration)
 
-You bless up to three creatures of your choice within range. Creatures affected by this spell gain two action dice. Whenever a target makes an attack roll or an ability check before the spell ends, the target may also roll any number of action dice and add them to the result. This spell removes the effects of *bane.*
+You bless up to three creatures of your choice within range. Creatures affected by this spell gain a bonus to attack rolls, ability checks, and death saves. This spell removes the effects of *bane.*
 
 **At Higher Levels.** When you cast this spell at a higher level, you can target one additional creature for each level above 1st.
 
