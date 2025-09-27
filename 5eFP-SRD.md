@@ -614,7 +614,7 @@ The Medicine domain focuses on vibrant positive energy that sustains all life. T
 - bless
 - cure wounds
 
-### Bonus Proficiency
+### Heavy Armor Proficiency
 
 You gain proficiency with heavy armor.
 
@@ -2798,17 +2798,17 @@ When you have advantage or disadvantage and something in the game, such as the h
 
 You usually gain advantage or disadvantage through the use of special abilities, actions, spells, and certain game features. Inspiration can also give a character advantage. The GM can also decide that circumstances influence a roll in one direction or the other and grant advantage or impose disadvantage as a result.
 
-## Proficiency Bonus
+## Proficiency Modifier
 
-Characters have a proficiency bonus, which is equal to their LEVEL. Monsters may also have this bonus. The bonus is used in the rules on ability checks and attack rolls.
+Characters have a proficiency modifier, which is equal to LEVEL. Monsters may also have this modifier. The proficiency modifier is used in the rules on ability checks and attack rolls.
 
-Your proficiency bonus is typically added to a single die roll or other number once. For example, if two different rules say you can add your proficiency bonus to a WIS check, you nevertheless add the bonus only once when you make the check.
+Your proficiency modifier is typically added to a single die roll or other number once. For example, if two different rules say you can add your proficiency modifier to a WIS check, you nevertheless add the modifier only once when you make the check.
 
-Occasionally, your proficiency bonus might be added one additional time (to a maximum of twice). For example, the rogue’s Expertise feature allows you to add your proficiency bonus twice for certain ability checks. If a circumstance suggests that your proficiency bonus applies more than twice to the same roll, you still add it only twice.
+Occasionally, your proficiency modifier might be added one additional time (to a maximum of twice). For example, the rogue’s Expertise feature allows you to add your proficiency modifier twice for certain ability checks. If a circumstance suggests that your proficiency modifier applies more than twice to the same roll, you still add it only twice.
 
-By the same token, if a feature or effect allows you to add an additional proficiency bonus when making an ability check that wouldn’t normally benefit from your proficiency bonus, you still don’t add the bonus to the check. For that check, you do not have a proficiency bonus. Only ability checks you are proficient with gain an additional proficiency bonus. For instance, if you lack proficiency with CON, you gain no benefit from a feature that lets you add an additional proficiency bonus when you make CON ability checks.
+By the same token, if a feature or effect allows you to add an additional proficiency modifier when making an ability check that wouldn’t normally benefit from your proficiency modifier, you still don’t add the modifier to the check. For that check, you do not have a proficiency modifier. Only ability checks you are proficient with gain an additional proficiency modifier. For instance, if you lack proficiency with CON, you gain no benefit from a feature that lets you add an additional proficiency modifier when you make CON ability checks.
 
-In general, you don’t add an additional proficiency bonus for attack rolls or death saves. If a game feature or effect allows you to do so, these same rules apply.
+In general, you don’t add an additional proficiency modifier for attack rolls or death saves. If a game feature or effect allows you to do so, these same rules apply.
 
 ## Ability Checks
 
@@ -4977,7 +4977,7 @@ The Abilities entry is reserved for monsters proficient in one or more abilities
 
 Passive abilities also benefit from listed abilities. Increase a passive score with a listed ability by + LEVEL.
 
-Other modifiers might apply. For instance, a monster might have a larger-­than-­expected bonus (usually double its proficiency bonus) to account for its heightened expertise.
+Other modifiers might apply. For instance, a monster might have a larger-­than-­expected bonus (usually double its proficiency modifier) to account for its heightened expertise.
 
 ### Vulnerabilities, Resistances, and Immunities
 
