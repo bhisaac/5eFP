@@ -2832,7 +2832,11 @@ When making ability checks, if you roll a 1 on the d20, you ignore the DC and co
 
 ### Ability Check Bonus
 
-Each ability has its own bonus, which begins a game session at *+0* or *no bonus* and is then further modified by game features. Ability check bonuses may increase or decrease during gameplay. Bonuses are incremental. If you do not have a bonus, you gain a *+1* bonus. If you gain another bonus while you already have a *+1* bonus, your bonus changes to *advantage*. If you gain a bonus while you have *advantage*, your bonus becomes *advantage +1*. Any further bonuses add 1 action die to the roll. If you have a *+0* bonus and lose a bonus, your bonus changes to *-1*. If you have a *-1* bonus and lose another bonus, you gain *disadvantage*. If you lose a bonus while you have *disadvantage*, your bonus changes to *disadvantage -1*. Any further bonus loss subtracts 1 action die from the roll.
+Each ability can gain its own bonus.
+
+> ### Gaining and Losing Bonuses:
+>
+> All bonuses begin a game session at *+0* or *no bonus*, modified by game features. Bonuses may increase or decrease during gameplay. Bonuses are incremental. If you do not have a bonus, you gain a *+1* bonus. If you gain another bonus while you already have a *+1* bonus, your bonus changes to *advantage*. If you gain a bonus while you have *advantage*, your bonus becomes *advantage +1*. Any further bonuses add 1 action die to the roll. If you have a *+0* bonus and lose a bonus, your bonus changes to *-1*. If you have a *-1* bonus and lose another bonus, you gain *disadvantage*. If you lose a bonus while you have *disadvantage*, your bonus changes to *disadvantage -1*. Any further bonus loss subtracts 1 action die from the roll.
 
 ### Contests
 
@@ -4097,7 +4101,7 @@ The DC to resist one of your spells equals 10 + your spellcasting ability. Class
 
 ### Attack Rolls
 
-Some spells require the caster to make an attack roll to determine whether the spell effect hits the intended target. Your attack bonus with a spell attack equals 2 + your spellcasting ability. Class upgrades may further modify your spell attack bonus.
+Some spells require the caster to make an attack roll to determine whether the spell effect hits the intended target. Your attack modifier with a spell attack equals LEVEL + your spellcasting ability. Game features may add or take away bonuses to your spell attack rolls.
 
 Most spells that require attack rolls involve ranged attacks. Remember that you have disadvantage on a ranged attack roll if you are within 1 square of a hostile creature that can see you and that isn’t incapacitated.
 
