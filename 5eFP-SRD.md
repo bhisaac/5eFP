@@ -104,6 +104,8 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Minion, Elite, and Boss_.** All three refer to encounter difficulty, typically referring to monsters found in combat encounters. Minions are manageable encounters that take only one successful hit or ability check to resolve. Elites are advanced encounters with improved abilities that typically require two or more successful hits or ability checks to resolve. Bosses are the most advanced and challenging encounters that typically require multiple hits and ability checks to resolve, have special abilities that exploit minions, always include a minion encounter, and may have up to two elites.
 
+**_Bonuses_.** Many game features can gain or lose bonuses. All bonuses begin a game session at *+0* or *no bonus*, and are further modified by game features. Bonuses can increase or decrease during gameplay. Bonuses are incremental. If you do not have a bonus, you gain a *+1* bonus. If you gain another bonus while you already have a *+1* bonus, your bonus changes to *advantage*. If you gain a bonus while you have *advantage*, your bonus becomes *advantage +1*. Any further bonuses add 1 action die to the roll. If you have a *+0* bonus and lose a bonus, your bonus changes to *-1*. If you have a *-1* bonus and lose another bonus, you gain *disadvantage*. If you lose a bonus while you have *disadvantage*, your bonus changes to *disadvantage -1*. Any further bonus loss subtracts 1 action die from the roll.
+
 **_Non-Player Character (NPC)_.** A character created and played by the gamemaster.
 
 **_Obscuring Map Tiles_.** Obscuring map tiles are two-sided opaque map tiles that cover unexplored areas of a map or may represent areas of preternatural or magical darkness.
