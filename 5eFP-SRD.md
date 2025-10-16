@@ -509,7 +509,7 @@ If a game feature has the subtlety keyword, you can affect it using deception, s
 |-:|:-:|:-:|:-|:-|
 |3⛁|-|-|Bard College|...|
 |3⛁|-|-|Expertise|...|
-|2⛁|-|-|Jack of All Trades|Add +1 to nonproficient ability checks.|
+|2⛁|-|-|Jack of All Trades|Add a +1 modifier to nonproficient abilities.|
 |3⛁|-|4|Magic|You learn one spell from the bard spell list.|
 |2⛁|-|-|Song of Rest|You and your allies discard up to 1 wound when completing a rest.|
 
