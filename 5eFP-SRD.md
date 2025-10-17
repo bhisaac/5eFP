@@ -54,9 +54,15 @@ The 5eFP TRPG uses a number of terms, abbreviations, and definitions in presenti
 
 **_Ability Score_.** Six ability scores ranging from -5 to +10 provide a quick description of every creature’s physical and mental characteristics, including strength (STR) measuring physical power, dexterity (DEX) measuring agility, constitution (CON) measuring endurance, intelligence (INT) measuring reasoning and memory, wisdom (WIS) measuring awareness, and charisma (CHA) measuring force of personality.
 
-**_Bolster_.** Bolster points help protect you from wounds. The number next to the bolster keyword indicates how many points you have. If you take wounds, you spend your bolster points first to reduce them. Each bolster point you spend reduces the number of wounds assigned to you by 1. Remaining wounds are then assigned as normal.
+**_Bolster_.** Bolster helps protect you from wounds. The number next to the bolster keyword indicates how many points you have. If you take wounds, you spend your bolster points first to reduce them. Each bolster point you spend reduces the number of wounds assigned to you by 1. Remaining wounds are then assigned as normal.
 
-**_Bonuses_.** Many game features can gain or lose bonuses. All bonuses begin a game session at *+0* or *no bonus*, and are further modified by game features. Bonuses can increase or decrease during gameplay. Bonuses are incremental. If you do not have a bonus, you gain a *+1* bonus. If you gain another bonus while you already have a *+1* bonus, your bonus changes to *advantage*. If you gain a bonus while you have *advantage*, your bonus becomes *advantage +1*. Any further bonuses add 1 action die to the roll. If you have a *+0* bonus and lose a bonus, your bonus changes to *-1*. If you have a *-1* bonus and lose another bonus, you gain *disadvantage*. If you lose a bonus while you have *disadvantage*, your bonus changes to *disadvantage -1*. Any further bonus loss subtracts 1 action die from the roll.
+**_Bonus_.** Many game features can cause you to gain or lose a bonus. A bonus begins a game session at *+0* or *no bonus*, and is further modified by game features such as species, class, spells, equipment, and items. A bonus is incremental and can increase or decrease during gameplay. If you do not have a bonus, you gain a *+1* bonus. If you gain another bonus while you already have a *+1* bonus, your bonus changes to *advantage*. If you gain a bonus while you have *advantage*, your bonus becomes *advantage +1*. Any further gains add 1 action die to the roll (maximum 5 action dice). If you do not have a bonus and you lose a bonus, you gain a *-1* bonus. If you have a *-1* bonus and lose another bonus, your bonus changes to *disadvantage*. If you lose a bonus while you have *disadvantage*, your bonus changes to *disadvantage -1*. Any further bonus losses subtract 1 action die from the roll (maximum 5 action dice). A game feature that grants advantage increases a bonus twice. A game feature that grants disadvantage takes away a bonus twice.
+
+> Advantage is equivalent to a +2 bonus, and disadvantage is a -2 bonus. Advantage and disadvantage cancel each other out.
+>
+> (advantage +1) + (disadvantage) = (2 + 1) + (-2) = +1
+>
+> (disadvantage -1) + (advantage) = (-2 - 1) + (+2) = -1
 
 **_Coin_ (⛁).** A 5eFP game awards and uses Coin (⛁) as its currency, representing wealth, reputation, and experience.
 
